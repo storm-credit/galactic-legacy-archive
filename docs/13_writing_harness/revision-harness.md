@@ -1,0 +1,218 @@
+# Revision Harness — Finished Manuscript Review
+
+Status: CANON FOR DESIGN / ACTIVATES AFTER PRE-WRITING GATE
+Owner Agent: A11 Webnovel Prose & Serialization Director
+Last Reviewed: 2026-08-03
+Depends On: Prose bible, canon bible, story architecture, payoff ledger
+Used By: Episode review, arc review, submission review
+Open Risks: Overediting, voice flattening, late structural changes
+
+## 1. Purpose
+
+완성 원고 검토는 맞춤법 교정이 아니라 여러 층위의 독립 검사로 수행한다. 한 번에 모든 문제를 보려 하면 구조 문제와 문장 문제가 섞여 원인을 잃는다.
+
+## 2. Review Order
+
+원고는 반드시 다음 순서로 검토한다. 앞 단계가 FAIL이면 뒤 단계의 세밀한 문장 수정을 보류한다.
+
+### Pass 1 — Contract Check
+
+검사:
+- 작품과 회차가 약속한 장르적 재미를 제공하는가?
+- 에이스 조종사, 미래의 제독, 수집, 전쟁이라는 핵심 가치가 보이는가?
+- 이번 회차의 중심 질문이 명확한가?
+
+실패 예:
+- 설정 설명만 있고 선택이나 변화가 없다.
+- 수집형 작품인데 획득·발견·조합에 대한 기대가 없다.
+
+### Pass 2 — Structure & Causality
+
+검사:
+- 장면이 원인과 결과로 연결되는가?
+- 주인공의 선택이 사건을 바꾸는가?
+- 우연이 해결보다 문제 발생에 사용되는가?
+- 장면 순서를 바꿔도 아무 영향이 없다면 재배치가 필요한가?
+
+출력:
+- 삭제 후보 장면
+- 합치기 후보 장면
+- 원인 누락
+- 결과 누락
+- 잘못된 위치의 정보
+
+### Pass 3 — Character Motivation & Relationship
+
+검사:
+- 각 인물은 장면에서 무엇을 원하는가?
+- 말과 행동이 과거 경험·현재 이해관계에 맞는가?
+- 영입, 배신, 용서, 충성 변화가 충분히 축적됐는가?
+- 주인공 외 인물도 선택권이 있는가?
+
+### Pass 4 — World & Canon Continuity
+
+검사:
+- 날짜, 나이, 계급, 거리, 이동시간
+- 기체·함선·무기 소유권과 손상 상태
+- 탄약, 연료, 열, 보급
+- 부상과 회복
+- 통신과 정보 접근 가능성
+- 이전 회차에서 확정된 규칙
+
+모순은 `continuity-issues.md`에 등록하고 수정 파급 범위를 기록한다.
+
+### Pass 5 — Mystery, MacGuffin & Payoff
+
+검사:
+- 새 단서가 payoff ledger에 등록됐는가?
+- 맥거핀의 기능이 편의상 늘어나지 않았는가?
+- 독자가 추론할 수 있는 단서와 오도가 공정한가?
+- 회수된 떡밥이 새로운 의미 또는 결과를 만드는가?
+- 회수 약속을 잊고 다음 미스터리만 추가하지 않는가?
+
+### Pass 6 — Battle Logic & Choreography
+
+검사:
+- 시작 위치와 승리 조건
+- 거리·속도·시야·센서·관성
+- 공격 의도와 대응
+- 손상 누적과 장비 한계
+- 적의 합리적 판단
+- 주인공 승리의 비용
+- 함대전과 개인전의 역할 분리
+
+필수 질문:
+- 전투 지도를 간단히 그릴 수 있는가?
+- 적의 관점에서도 주인공의 승리가 납득되는가?
+- 같은 결과를 더 단순한 행동으로 얻을 수 있었다면 왜 하지 않았는가?
+
+### Pass 7 — Description & Sensory Reality
+
+검사:
+- 풍경이 장식이 아니라 기능을 갖는가?
+- 시각 외 감각이 필요한 곳에 있는가?
+- 우주·함선·기체의 물리감이 유지되는가?
+- 묘사가 장면 속도와 감정에 맞는가?
+- 추상어를 구체적 현상으로 바꿀 수 있는가?
+
+### Pass 8 — Dialogue & Voice
+
+검사:
+- 화자를 가려도 인물을 구별할 수 있는가?
+- 정보 전달용 대사가 있는가?
+- 권력관계와 숨은 의도가 드러나는가?
+- 모든 인물이 주인공처럼 말하지 않는가?
+- 군대 계급과 친밀도에 맞는 호칭인가?
+
+### Pass 9 — Prose Rhythm
+
+검사:
+- 단문 연속 남발
+- 같은 접속사·부사·감탄 표현 반복
+- 문장 길이의 단조로움
+- 모호한 주어
+- 행동 순서 혼란
+- 불필요한 중복 설명
+- 비유의 과잉과 세계관 부적합 비유
+
+원칙:
+- 문장을 짧게 만드는 것보다 의미 단위를 선명하게 만든다.
+- 장문을 없애지 말고, 장문 안의 논리와 호흡을 정리한다.
+
+### Pass 10 — Serialization & Retention
+
+검사:
+- 첫 10% 안에 현재 문제와 기대가 보이는가?
+- 중간에 보상 또는 재해석이 있는가?
+- 회차 말 훅이 구체적인가?
+- 다음 화가 이전 훅을 즉시 회수하는가?
+- 같은 훅 유형이 반복되는가?
+- 분량을 늘리기 위한 지연이 있는가?
+
+### Pass 11 — Originality & Similarity Risk
+
+검사:
+- 특정 참고작의 장면 배열, 고유 용어, 인물 관계를 지나치게 재현하지 않는가?
+- ‘건담 같다’, ‘픽미업 같다’는 인상 뒤에 우리 작품만의 원인과 결과가 있는가?
+- 차별점이 설정 설명이 아니라 사건으로 증명되는가?
+
+### Pass 12 — Submission Polish
+
+검사:
+- 맞춤법, 띄어쓰기, 문장부호
+- 용어 표기 통일
+- 회차 제목
+- 소개문과 본편의 약속 일치
+- 공모전 규정과 분량
+
+## 3. Issue Severity
+
+- `S0 BLOCKER`: 세계관 또는 결말을 붕괴시키는 문제. 집필 중지.
+- `S1 MAJOR`: 인과, 동기, 전투 논리, 대형 모순. 회차 공개 전 필수 수정.
+- `S2 MODERATE`: 리듬, 설명, 묘사, 반복. 품질에 명확한 영향.
+- `S3 MINOR`: 어휘, 맞춤법, 작은 연속성.
+- `S4 NOTE`: 향후 개선 아이디어. 현재 수정 불필요.
+
+## 4. Review Output Format
+
+```markdown
+# Review Report — Episode/Act
+Overall Verdict: PASS | REWORK | BLOCKED
+Reviewer Agents:
+
+## S0 Blockers
+- Location:
+- Problem:
+- Why It Matters:
+- Required Fix:
+- Affected Canon:
+
+## S1 Major Issues
+...
+
+## Strengths to Preserve
+- 반드시 유지해야 할 장면·문장 효과
+
+## Payoff Ledger Updates
+- Planted:
+- Advanced:
+- Paid Off:
+- Broken Promise:
+
+## Continuity Updates
+- New Canon:
+- Changed State:
+- Required Document Update:
+```
+
+## 5. No-Silent-Rewrite Rule
+
+검토 에이전트가 사건·설정·인물의 의도를 조용히 바꾸지 않는다.
+
+- 구조 변경이 필요하면 문제와 대안을 먼저 제시한다.
+- 문장 수정은 기존 사건과 의미를 보존한다.
+- 설정 변경은 decision log와 영향 문서 업데이트를 요구한다.
+- 강점으로 판정한 문장 효과는 수정 과정에서 보존한다.
+
+## 6. Arc-Level Review
+
+대액트 또는 액트 종료 후 추가로 검사한다.
+
+- 처음 약속한 질문에 답했는가?
+- 획득한 영웅·기체·유물이 실제로 사용됐는가?
+- 지불한 대가가 이후에도 남는가?
+- 적대 세력이 패배 후에도 변화하거나 학습하는가?
+- 다음 액트 문제가 현재 결말에서 발생했는가?
+- 복선 장부가 증가만 하고 회수되지 않았는가?
+- 주인공의 책임 범위와 내적 믿음이 변했는가?
+
+## 7. Series-Level Review
+
+매 대액트 2개마다 검사한다.
+
+- 수집 규모가 자연스럽게 확장되는가?
+- 전투 유형이 반복되는가?
+- 주인공이 에이스와 지휘관 역할을 모두 독점해 동료를 무력화하는가?
+- 세계의 정치·경제가 전쟁 결과에 반응하는가?
+- 회귀 지식의 정확도가 적절히 붕괴하는가?
+- 최종 결말 방향과 멀어지는 서브플롯이 늘어나는가?
