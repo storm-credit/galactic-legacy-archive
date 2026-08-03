@@ -1,0 +1,82 @@
+route_id,cluster_a,cluster_b,route_class,default_status,narrative_note
+CB-001,Crown Meridian,Old Anchor,anchor trunk,stable,Core continuity ring
+CB-002,Old Anchor,Aster Vault,anchor trunk,stable,Core continuity ring
+CB-003,Aster Vault,Vigil Crown,anchor trunk,stable,Core continuity ring
+CB-004,Vigil Crown,Crown Meridian,anchor trunk,stable,Core continuity ring
+CB-005,Crown Meridian,Lumen Trunk,trunk,stable,Primary Core-Lumen route
+CB-006,Old Anchor,Ilyr Crownward,trunk,stable,Administrative and medical trunk
+CB-007,Aster Vault,Vesta Ring,trunk,stable,Industrial and defense trunk
+CB-008,Vigil Crown,Orison March,trunk,stable,Provincial command trunk
+CB-009,Lumen Trunk,Kael Reach,trunk,stable,Opening commercial corridor
+CB-010,Kael Reach,Brann Forge,trunk,stable,Claims-to-industry route
+CB-011,Brann Forge,Neris Exchange,trunk,stable,Industrial-workshop route
+CB-012,Neris Exchange,Sable Orchard,trunk,stable,Workshop-food route
+CB-013,Sable Orchard,Ilyr Crownward,trunk,stable,Medical/agricultural trunk
+CB-014,Ilyr Crownward,Vesta Ring,trunk,stable,Inner administrative ring
+CB-015,Vesta Ring,Orison March,trunk,stable,Training/provincial route
+CB-016,Orison March,Lumen Trunk,trunk,stable,Inner ring closure
+CB-017,Lumen Trunk,Brann Forge,cross trunk,stable,High-volume industrial bypass
+CB-018,Neris Exchange,Vesta Ring,cross trunk,restricted,Insurance-controlled cross route
+CB-019,Lumen Trunk,Cardo Verge,regional trunk,stable,K-13 access corridor
+CB-020,Kael Reach,Marn Grave,regional,restricted,Claims and salvage route
+CB-021,Neris Exchange,Marn Grave,regional,restricted,Ghost-parts route
+CB-022,Brann Forge,Thorn Foundry,regional trunk,stable,Heavy industrial extension
+CB-023,Sable Orchard,Glasswater,regional,stable,Food and medical route
+CB-024,Ilyr Crownward,Lentz Garden,regional,stable,Medical/care corridor
+CB-025,Vesta Ring,Or Archive,regional,stable,Education and record corridor
+CB-026,Orison March,Dove Belt,regional,stable,Provincial access route
+CB-027,Cardo Verge,Marn Grave,regional,restricted,Opening-to-salvage connection
+CB-028,Marn Grave,Silex Corridor,damaged bypass,damaged,GA2 damaged approach
+CB-029,Silex Corridor,Ardis Reach,damaged bypass,intermittent,GA2-GA3 launch route
+CB-030,Ardis Reach,Cinder Basin,regional,restricted,Industrial recovery path
+CB-031,Cinder Basin,Glasswater,regional,stable,Refining-medical route
+CB-032,Glasswater,Helion Span,regional,stable,Medical/logistics link
+CB-033,Helion Span,Tern Relay,regional,stable,Middle corridor
+CB-034,Tern Relay,Oriel Chain,regional,stable,Middle corridor
+CB-035,Oriel Chain,Varka Passage,regional,restricted,Independent route contact
+CB-036,Varka Passage,Dove Belt,regional,restricted,Mobile-route corridor
+CB-037,Dove Belt,Thorn Foundry,regional,stable,Repair/crew route
+CB-038,Thorn Foundry,Lentz Garden,regional,stable,Industrial-medical route
+CB-039,Lentz Garden,Or Archive,regional,stable,Care and record route
+CB-040,Or Archive,Doan Roads,regional,restricted,Record and route-federation link
+CB-041,Doan Roads,Cardo Verge,regional,stable,Middle ring closure
+CB-042,Marn Grave,Varka Passage,cross regional,damaged,Salvage-independent shortcut
+CB-043,Ardis Reach,Open Passage,frontier bridge,restricted,Route-federation seed
+CB-044,Thorn Foundry,Broken Loom,frontier bridge,stable,Fabrication link
+CB-045,Glasswater,Blue Mercy,frontier bridge,stable,Medical/rescue link
+CB-046,Varka Passage,Red Wake,frontier bridge,restricted,Independence route
+CB-047,Doan Roads,Nine Doors,frontier bridge,stable,Mutual-route diplomacy
+CB-048,Or Archive,Palimpsest North,frontier bridge,restricted,Archive approach
+CB-049,Lentz Garden,Palimpsest South,frontier bridge,restricted,Witness/medical approach
+CB-050,Dove Belt,Far Witness,frontier bridge,stable,Evidence convoy route
+CB-051,Helion Span,Cold Orchard,frontier bridge,restricted,Outer supply route
+CB-052,Tern Relay,Pilgrim Coil,frontier bridge,restricted,Mobile-family route
+CB-053,Oriel Chain,Mosaic Edge,frontier bridge,restricted,Record/trade approach
+CB-054,Cinder Basin,Ember Step,frontier bridge,restricted,Refining/fuel approach
+CB-055,Cardo Verge,Grey Current,frontier bridge,restricted,Outer K-13 corridor
+CB-056,Palimpsest North,Palimpsest South,frontier regional,restricted,Archive-site link
+CB-057,Palimpsest South,Quiet Harbor,frontier regional,restricted,Consent/refusal route
+CB-058,Quiet Harbor,Ash Choir,frontier regional,intermittent,Local-only identity corridor
+CB-059,Ash Choir,Open Passage,frontier regional,restricted,Refuge and rescue route
+CB-060,Open Passage,Red Wake,frontier regional,restricted,Mutual aid and armed route
+CB-061,Red Wake,Blue Mercy,frontier regional,restricted,Fuel and rescue route
+CB-062,Blue Mercy,Hollow Lantern,frontier regional,stable,Medical/frontier link
+CB-063,Hollow Lantern,Drift Crown,frontier regional,restricted,Mobile habitat route
+CB-064,Drift Crown,Salt Nebula,frontier regional,intermittent,Difficult sensor region
+CB-065,Salt Nebula,Pilgrim Coil,frontier regional,restricted,Travel-family route
+CB-066,Pilgrim Coil,Broken Loom,frontier regional,stable,Mobile fabrication route
+CB-067,Broken Loom,Cold Orchard,frontier regional,restricted,Parts and food route
+CB-068,Cold Orchard,Ember Step,frontier regional,restricted,Food/fuel corridor
+CB-069,Ember Step,Nine Doors,frontier regional,stable,Multi-exit trade route
+CB-070,Nine Doors,Far Witness,frontier regional,stable,Escrow/evidence route
+CB-071,Far Witness,Sundered Bell,frontier regional,restricted,Witness and conflict route
+CB-072,Sundered Bell,Mosaic Edge,frontier regional,damaged,War-damaged link
+CB-073,Mosaic Edge,Last Tether,frontier regional,restricted,Outer settlement route
+CB-074,Last Tether,Grey Current,frontier regional,intermittent,Edge route
+CB-075,Grey Current,Outer Lattice,frontier regional,intermittent,Outer watch route
+CB-076,Outer Lattice,Palimpsest North,frontier regional,restricted,Frontier ring closure
+CB-077,Open Passage,Nine Doors,cross frontier,stable,Alternative mutual-aid corridor
+CB-078,Red Wake,Grey Current,cross frontier,damaged,Denial-war corridor
+CB-079,Far Witness,Palimpsest South,cross frontier,restricted,Witness archive route
+CB-080,Mosaic Edge,Palimpsest North,cross frontier,restricted,Archive supply route
+CB-081,Quiet Harbor,Outer Lattice,cross frontier,intermittent,Refusal/watch bypass
