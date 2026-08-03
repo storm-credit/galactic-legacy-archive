@@ -8,11 +8,13 @@ on:
     paths:
       - 'data/**'
       - 'tools/validate_design_data.py'
+      - 'tools/generate_route_adjacency.py'
       - '.github/workflows/validate-design-data.yml'
   pull_request:
     paths:
       - 'data/**'
       - 'tools/validate_design_data.py'
+      - 'tools/generate_route_adjacency.py'
       - '.github/workflows/validate-design-data.yml'
   workflow_dispatch:
 
@@ -31,3 +33,12 @@ jobs:
           python-version: '3.11'
       - name: Validate structured design data
         run: python tools/validate_design_data.py
+      - name: Validate deterministic route graph
+        run: python tools/generate_route_adjacency.py --check
+      - name: Generate route artifact for inspection
+        run: python tools/generate_route_adjacency.py --output /tmp/galaxy-612-route-adjacency-v1.csv
+      - name: Upload generated route graph
+        uses: actions/upload-artifact@v4
+        with:
+          name: galaxy-612-route-adjacency-v1
+          path: /tmp/galaxy-612-route-adjacency-v1.csv
