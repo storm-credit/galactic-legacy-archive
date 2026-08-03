@@ -1,0 +1,44 @@
+name: Validate design data
+
+on:
+  push:
+    branches:
+      - main
+      - 'agent/**'
+    paths:
+      - 'data/**'
+      - 'tools/validate_design_data.py'
+      - 'tools/generate_route_adjacency.py'
+      - '.github/workflows/validate-design-data.yml'
+  pull_request:
+    paths:
+      - 'data/**'
+      - 'tools/validate_design_data.py'
+      - 'tools/generate_route_adjacency.py'
+      - '.github/workflows/validate-design-data.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Validate structured design data
+        run: python tools/validate_design_data.py
+      - name: Validate deterministic route graph
+        run: python tools/generate_route_adjacency.py --check
+      - name: Generate route artifact for inspection
+        run: python tools/generate_route_adjacency.py --output data/generated/galaxy-612-route-adjacency-v1.csv
+      - name: Upload generated route graph
+        uses: actions/upload-artifact@v4
+        with:
+          name: galaxy-612-route-adjacency-v1
+          path: data/generated/galaxy-612-route-adjacency-v1.csv
