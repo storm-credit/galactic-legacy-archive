@@ -299,3 +299,63 @@ Internal formula:
 ### Reversal Condition
 
 비정본 초반 20화 비트 검증에서 핵심 약속이 5화 안에 드러나지 않거나 장르 과부하가 해소되지 않을 경우 표면 장르 순서를 재조정한다.
+
+---
+
+## D-20260806-01 — 회차 분량 상한 유연화
+
+작가 판정: 회차당 분량은 5,500~6,500자 진단 범위보다 길어도 무방하다.
+
+### Consequences
+
+- E1~20 "출판 분량 압축 패스"를 밀도·반복 정리 패스로 재정의.
+- 플랫폼/공모전 선정과 공백 포함 여부는 출판 전 확정 항목으로 하향(`[ASSUMPTION]` 공백 포함, 하한 5,500자).
+
+### Affected Documents
+
+- `docs/00_project/pre-writing-gate-review-v1.md`
+- `docs/00_project/first-writing-batch-readiness-v1.md`
+
+### Reversal Condition
+
+플랫폼/공모전 규정 확정 시 해당 규정이 우선한다.
+
+## D-20260806-02 — issue #26 출판 전 블로커 확정 (D2)
+
+작가 승인: `docs/00_project/issue-26-status-resolution-proposal-v1.md` 발효. 인간/모바일 테스트는 출판 전 하드 블로커이며 초고 생산을 차단하지 않는다. 과거 override 문서는 비정본 유지 — 본 판정은 신규 작가 결정이다.
+
+### Consequences
+
+- 첫 배치 병행 인간 테스트(최소 5인, 절반 이상 폰 화면) 실행 의무.
+- 출판·공개는 테스트 통과 전 차단, "인간 검증 완료" 주장 금지, issue #26 OPEN 유지.
+
+### Affected Documents
+
+- `docs/99_quality_control/prewriting-gate-dry-audit-2026-08-03.md` (주석)
+- `docs/99_quality_control/prewriting-gate-evidence-matrix-v2.md` (주석)
+- `docs/07_style/gate1-korean-webnovel-pov-prose-calibration-v1.md` (§12 개정 주석)
+
+### Reversal Condition
+
+인간 테스트 동일 항목 2회 이상 임계 미달 시 집필 중단 및 문체 캘리브레이션 재실행.
+
+## D-20260806-03 — E1~20 구초안 개정 기반 채택 (D3)
+
+작가 판정: `manuscript/ga1/*-v1.md` 20편을 개정 출발점으로 사용한다(v2 생산). v1의 'Locked Development Outcomes'는 정본 근거로 인용 불가 — 사실은 장면 카드·바이블에서 재확인.
+
+### Affected Documents
+
+- `manuscript/ga1/` (v2 파일 생산)
+- `docs/00_project/first-writing-batch-readiness-v1.md`
+
+## D-20260806-04 — Pre-Writing Gate 개방 (초고 생산 한정)
+
+작가 선언: "Pre-Writing Gate를 OPEN한다. 권장된 첫 집필 배치를 시작해." 상세: `docs/00_project/pre-writing-gate-open-record-2026-08-06.md`. 출판은 계속 차단.
+
+## D-20260806-05 — 소급 등재 (F-11 해소)
+
+2026-08-03~05 사이 decision-log 미기록 정본 변경의 소급 기록:
+
+- errata-002(도안 미르→미르 카오), errata-003(승무원 법정 최소 42명), errata-004(하렌 제재 연표 E783/CY745-08) 발행.
+- E101~1100 상세설계 1,000편 완료 및 교차감사 PASS (PR #85~89, B10-03은 PR #88로 2026-08-06 병합).
+- 근접 3인칭 POV·문체 하네스·E1 v2 모바일 변형 승인(gate1 §3·§11, 2026-08-03) — F-27 해소.

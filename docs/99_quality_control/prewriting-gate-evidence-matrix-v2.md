@@ -1,5 +1,7 @@
 # Pre-Writing Gate Evidence Matrix v2
 
+> **AMENDMENT 2026-08-06**: §12의 차단 요건 중 인간/모바일 항목(1~6)은 작가 판정(D2)으로 출판 전 블로커로 재분류, 항목 7~8은 게이트 리뷰 v1과 `pre-writing-gate-open-record-2026-08-06.md`의 작가 개방 선언으로 충족됨. Gate 6/9 증거는 E101~1100 상세설계 완료(PR #88/#89)로 강화됨. 본 매트릭스는 이력으로 보존하며, 현행 상태는 open record가 통제한다.
+
 Status: REVIEW — EVIDENCE INDEX
 Owner Agents: O02 Gate / O01 Canon / X01 Logic / X02 Reader / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-03
