@@ -99,8 +99,8 @@ Open Risks: 본 감사는 AI 감사이며 인간 독자 검증(issue #26)을 대
 
 | ID | 발견 | 위치 | 해결 |
 |---|---|---|---|
-| F-01 | 플랫폼·공모전 미확정 + 자수 산정 기준 미정의 | gate1 §5, project-charter:17, revision-harness Pass 12 | 작가 결정 D1: 플랫폼/공모전 선정 + 공백 기준 자수 확정 → decision-log 등재 |
-| F-02 | issue #26 지위 3문서 상호 모순(집필 전 vs 출판 전 블로커) | dry-audit §5 vs autonomous-override §4 vs restoration §4 | 작가 결정 D2: 유효본 지정. 권장 — 출판 전 블로커 확정 + 첫 배치 병행 인간 테스트 |
+| F-01 | 플랫폼·공모전 미확정 + 자수 산정 기준 미정의 | gate1 §5, project-charter:17, revision-harness Pass 12 | **부분 해소(2026-08-06 작가 판정)**: 분량 상한 유연("더 길어도 상관없음") → 압축 패스는 밀도·반복 정리로 재정의, 본 항목 S1→S2 하향. 잔여: 플랫폼/공모전 선정·공백 기준은 출판 전 확정(`[ASSUMPTION]` 공백 포함·하한 5,500자) |
+| F-02 | issue #26 지위 3문서 상호 모순(집필 전 vs 출판 전 블로커) — 핵심은 restoration §8의 supersede가 override의 재분류까지 무효화했는지의 해석 분기 | dry-audit §5 vs autonomous-override §4 vs restoration §4 | **해결 제안서 제출**: `docs/00_project/issue-26-status-resolution-proposal-v1.md` (출판 전 블로커로 신규 작가 판정, 위험 통제 6항). 작가 승인 대기 |
 
 ### S2 (첫 배치 중 필수 정정 — 문서 패치 수준)
 
