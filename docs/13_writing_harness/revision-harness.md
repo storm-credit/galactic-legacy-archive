@@ -2,7 +2,7 @@
 
 Status: CANON FOR DESIGN / ACTIVATES AFTER PRE-WRITING GATE
 Owner Agent: A11 Webnovel Prose & Serialization Director
-Last Reviewed: 2026-08-03
+Last Reviewed: 2026-08-08
 Depends On: Prose bible, canon bible, story architecture, payoff ledger
 Used By: Episode review, arc review, submission review
 Open Risks: Overediting, voice flattening, late structural changes
@@ -108,14 +108,26 @@ Open Risks: Overediting, voice flattening, late structural changes
 
 검사:
 - 단문 연속 남발
+- 비슷한 구조의 단문이 같은 정보를 잘게 나누는가
+- 단문이 충격·전환·판단·강조가 아니라 정보 분절만 만드는가
 - 같은 접속사·부사·감탄 표현 반복
 - 문장 길이의 단조로움
 - 모호한 주어
 - 행동 순서 혼란
 - 불필요한 중복 설명
+- 영어식 명사 결합, 추상적 서술, 불필요한 수동태 같은 번역투
+- 조사와 어순이 소리 내어 읽을 때 걸리는가
 - 비유의 과잉과 세계관 부적합 비유
 
+필수 질문:
+- 같은 구조의 짧은 문장이 3개 이상 연속되는가?
+- 문장을 합쳤을 때 인과·감정·행동이 더 또렷해지는가?
+- `이름이 비어 있었다`처럼 독자가 의미를 다시 해석해야 하는 표현을 자연스러운 한국어로 바꿀 수 있는가?
+- 충격·전환·발견을 담당하는 단문까지 기계적으로 합치고 있지는 않은가?
+
 원칙:
+- 자연스러운 한국어를 우선하고 번역체를 제거한다.
+- 단문 자체를 금지하지 않는다. 기능 없는 단문 연속만 줄인다.
 - 문장을 짧게 만드는 것보다 의미 단위를 선명하게 만든다.
 - 장문을 없애지 말고, 장문 안의 논리와 호흡을 정리한다.
 
