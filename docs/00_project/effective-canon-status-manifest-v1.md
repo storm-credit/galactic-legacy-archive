@@ -2,7 +2,7 @@
 
 Status: CANON PROJECT CONTROL
 Owner Agents: O01 Canon / O02 Gates / X04 Continuity
-Last Reviewed: 2026-08-03
+Last Reviewed: 2026-08-08
 Depends On: master index, final settings-bible audit, individual document headers
 Used By: source resolution, status normalization and future revisions
 Open Risks: individual legacy files may still display `Status: REVIEW`; this manifest defines their effective authority without mass-editing historical headers
@@ -93,7 +93,7 @@ Effective status `PC`:
 - `docs/00_project/deferred-design-register-v1.md`;
 - `docs/00_project/context-window-handoff-protocol.md`;
 - `docs/00_project/design-only-scope-restoration-2026-08-03.md`;
-- canonical name errata files;
+- canonical name errata files, including `docs/00_project/canonical-name-errata-005.md` for P-001 `리안 칼데르 / Rian Calder`;
 - this manifest;
 - agent orchestra registry and execution policy;
 - document review signoff ledger.
@@ -201,7 +201,7 @@ Late-act detailed item inventories are `DD`, not missing system authority.
 ### Characters and factions — `WC`
 
 Includes:
-- core names/voices and arcs;
+- core names/voices and arcs, with P-001's effective full name fixed by `canonical-name-errata-005.md` as `리안 칼데르 / Rian Calder`;
 - opening cast;
 - protected community;
 - first ship crew;
