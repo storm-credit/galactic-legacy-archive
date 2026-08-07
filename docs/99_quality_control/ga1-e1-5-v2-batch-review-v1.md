@@ -2,15 +2,28 @@
 
 Overall Verdict: **PASS — 작가 승인 대기**
 Reviewer Agents: A00 PM(통합) / 회차별 개정 에이전트 5 / 기계 검사(금지어·헤더·훅 체인)
-Last Reviewed: 2026-08-06
-Depends On: `docs/00_project/pre-writing-gate-open-record-2026-08-06.md`, `docs/00_project/manuscript-production-workflow-v1.md`, `docs/99_quality_control/ga1-e1-5-first-draft-continuity-voice-audit-v1.md`
+Last Reviewed: 2026-08-08
+Depends On: `docs/00_project/pre-writing-gate-open-record-2026-08-06.md`, `docs/00_project/manuscript-production-workflow-v1.md`, `docs/99_quality_control/ga1-e1-5-first-draft-continuity-voice-audit-v1.md`, `docs/05_characters/core-canonical-names-and-voice-lock-v1.md`
 Used By: 작가 회차별 승인 (workflow §3.6)
+
+## 0. 작가 추가 지시 — 숫자·이름 표기
+
+2026-08-08 작가 지시를 첫 배치 교정 기준으로 등록한다.
+
+- 나이, 기간, 개수, 횟수, 순번처럼 명시적인 수량은 `17살`, `3일`, `5개`, `2번`처럼 아라비아 숫자로 표기한다.
+- `한복판`, `한동안`, `반걸음`처럼 숫자 의미가 약해진 관용표현은 기계적으로 숫자로 바꾸지 않는다. 혼동 가능성이 있으면 수량 표현을 제거하고 자연스럽게 재서술한다.
+- 인명은 정본의 `이름 성` 순서를 따른다.
+- 첫 소개·공식 호출·기록에는 전체 이름을 쓴다.
+- 일상 대화와 일반 서술에서는 정본 Everyday call인 이름만 쓴다.
+- 같은 인물을 이유 없이 성으로 불렀다가 이름으로 바꾸지 않는다.
+- 직급·직책 호칭은 사회적 상황상 필요한 경우에만 사용한다.
+- 이번 변경은 E1부터 회차별로 검토하며 E2~5에는 아직 일괄 적용하지 않았다.
 
 ## 1. 산출물
 
 | 회차 | 파일 | 개정 요지 |
 |---|---|---|
-| E1 | `manuscript/ga1/001-역사에-없는-생도-v2.md` | 미래기억 회상 8→6회, 역사 부재 3문단→1문단 병합, 폐기 표식 재설명 제거, 문단 리듬 병합 9곳 |
+| E1 | `manuscript/ga1/001-역사에-없는-생도-v2.md` | 미래기억 회상 8→6회, 역사 부재 3문단→1문단 병합, 폐기 표식 재설명 제거, 문단 리듬 병합 9곳, 명시적 수량 아라비아 숫자화, 이름·성·공식호출 정리 |
 | E2 | `manuscript/ga1/002-한-사람의-벌이-서른여섯-명에게-간다-v2.md` | **E1 훅 즉시 회수 신설**(v1 최대 결손 보완, M-001 E2 단서 "부재와 운용상 인식의 공존" 이행), 연대책임 규칙 재설명 정리, 회상 절반 압축 |
 | E3 | `manuscript/ga1/003-조종사는-기체를-고칠-수-없다-v2.md` | E2 훅 즉시 회수 신설, 미래기억 7→4곳, 정비 트레이드오프 중복 제거, 문답 서술화 |
 | E4 | `manuscript/ga1/004-오르페우스의-빈칸-v2.md` | E3 훅(커플러·'후기형') 회수 신설, 단문 나열 전면 재편, 날짜 침입 3문단→1문단, 미아 문진 압축 |
@@ -20,7 +33,8 @@ Used By: 작가 회차별 승인 (workflow §3.6)
 
 - 헤더: 5/5 — `Status: DRAFT`, `Publication: NOT AUTHORIZED`, Source Cards/Revision Base 명시
 - 금지어(Authority F/G, unrecorded, 무기록 연결자, 마스터키): **0건**
-- 이름 잠금: 유노 표기 = 설계 정본(`academy-and-07-opening-operational-state-v1.md`)과 일치, 인물명 이탈 없음
+- E1 이름 잠금 재검사: `리안 카르도`, `네라 비크`, `브람 이도`; 공식 호출은 전체 이름, 일반 서술은 `리안`, `네라`, `브람`; 성 단독 호출 0건
+- 기존 이름 잠금: 유노 표기 = 설계 정본(`academy-and-07-opening-operational-state-v1.md`)과 일치, 인물명 이탈 없음
 - **훅 체인 5/5 연결 확인**: E1말 [미등록 서비스 권한이 응답했습니다.] → E2 도입 직접 회수 / E2말 "그건 조종사가 정하는 게 아니에요" → E3 첫 문장 회수 / E3말 커플러 빈칸 → E4 도입부(39행) 회수 / E4말 집계 주제 → E5 도입부(23행) "열셋→열둘" 회수
 - 새 인물·세력·기술·죽음·권한: 0건 (에이전트 자체 보고 + 표본 대조)
 
