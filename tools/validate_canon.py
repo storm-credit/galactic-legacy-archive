@@ -149,7 +149,16 @@ def build_index(files: list[tuple[str, str]]) -> tuple[dict[str, list[str]], set
     return by_basename, by_path
 
 
-def strip_code_fences(text: str) -> str:
+INLINE_CODE = re.compile(r"`[^`\n]*`")
+
+
+def strip_code(text: str) -> str:
+    """Remove fenced blocks and inline code spans.
+
+    Documentation legitimately quotes link syntax — `CLAUDE.md` section 13 shows
+    what a wikilink looks like — and those examples must not be resolved as real
+    links. Anything inside backticks is an example, not a reference.
+    """
     out: list[str] = []
     in_fence = False
     for line in text.split("\n"):
@@ -158,7 +167,7 @@ def strip_code_fences(text: str) -> str:
             in_fence = not in_fence
             continue
         if not in_fence:
-            out.append(line)
+            out.append(INLINE_CODE.sub("", line))
     return "\n".join(out)
 
 
@@ -167,7 +176,7 @@ def check_links(files: list[tuple[str, str]], report: Report) -> int:
     by_basename, by_path = build_index(files)
     total = 0
     for rel, text in files:
-        for target in WIKILINK.findall(strip_code_fences(text)):
+        for target in WIKILINK.findall(strip_code(text)):
             target = target.strip()
             if not target:
                 continue
@@ -326,6 +335,12 @@ def selftest() -> int:
         (
             "C1 ignores wikilinks inside code fences",
             [("docs/a.md", "```\n[[does-not-exist]]\n```")],
+            "links",
+            "",
+        ),
+        (
+            "C1 ignores wikilink syntax quoted as inline code",
+            [("CLAUDE.md", "문서 참조는 `[[위키링크]]`로 쓴다")],
             "links",
             "",
         ),
