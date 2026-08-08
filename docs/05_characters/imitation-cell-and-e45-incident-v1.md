@@ -264,7 +264,7 @@ Reason:
 - refuses Rian’s immediate counter-seizure/07 deployment plan.
 - asks body-specific questions and obtains the hidden treatment signature.
 
-### Rian Cardo
+### Rian Calder
 
 - initially treats the event as a hostile control problem and proposes rapid physical intervention.
 - recognizes his public myth contributed but does not become sole moral cause.

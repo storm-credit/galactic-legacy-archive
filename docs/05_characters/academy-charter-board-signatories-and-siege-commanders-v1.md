@@ -192,7 +192,7 @@ Limits:
 | Neutral Trustee | Luen Parr | Neutral medical/claims guarantee | coverage/capacity limits |
 | Industrial/Contract | Beric Kall | Helix treatment/equipment/funding | recusal on direct conflict; seat review |
 
-Rian Cardo:
+Rian Calder:
 - not a seat.
 - assigned mission/defense command only by board/contract/emergency scope.
 - may attend as 07/Archive witness or nonvoting adviser.

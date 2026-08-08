@@ -176,3 +176,21 @@ Open Risks:
 5. **대상 파일이 없으면 위키링크를 만들지 않는다.** 깨진 링크는 그래프를 오염시킨다. 아직 없는 문서는 평문으로 적고 생성 예정임을 명시한다.
 6. `gaXX-eYYY-ZZZ-*` 같은 템플릿 자리표시자는 링크로 만들지 않는다.
 7. 문서를 개명·버전업하면 참조하던 링크를 함께 갱신한다. 갱신하지 않은 구 이름은 §2-10에 따라 `decision-log`에 남긴다.
+
+## 12. 명명 규칙 (2026-08-08 추가)
+
+인물·지명·용어의 명명 규칙은 CLAUDE.md가 아니라 아래 두 정본이 통제한다. 새 이름을 만들기 전에 **반드시 두 문서를 모두 확인**한다.
+
+- [[core-canonical-names-and-voice-lock-v1]] §1 Naming Policy — 표기 형식(이름 2~3음절 + 성/항로명 1~2음절), 1인 1상용명, 계급·호칭은 사회적으로 필요할 때만, 유사음 동시 등장 금지, 호칭으로 성격 대체 금지, 이름 바꾸기를 반전으로 쓰기 금지.
+- [[reader-facing-terminology-phonetics-and-register-bible-v1]] — 독자 기억 권위. 작가측 ID / 전면 이름 / 기능어 / 퇴장어 / 장식어 구분, 발음 충돌 관리표.
+
+### 개명 전파 규칙
+
+정본 인물명을 바꾸면 errata 문서 하나를 만드는 것으로 끝내지 않는다. 다음을 **같은 PR에서** 모두 갱신한다.
+
+1. [[core-canonical-names-and-voice-lock-v1]] 해당 인물 블록과 §11 Canon Status
+2. [[reader-facing-terminology-phonetics-and-register-bible-v1]] 발음·충돌표
+3. [[master-series-chronology-v1]], [[ga1-10-state-checkpoint-matrix-v1]] 등 인물명을 표로 들고 있는 상태 문서
+4. 해당 인물이 등장하는 모든 활성 설계 문서
+
+errata·decision-log·구초안·병합된 PR 기록은 역사 텍스트로 보존한다. 이 전파를 빠뜨리면 낭독 스킬과 후속 에이전트가 **구명을 정본으로 읽는다** (실제 발생 사례: P-001 개명 PR #99가 errata만 갱신해 정본 잠금 문서와 발음표가 구명을 유지했다).

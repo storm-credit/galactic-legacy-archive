@@ -168,7 +168,7 @@ E328–330:
 - after the Window Compact closes, retains only the locally ratified defense-safety field under the Joint Trust;
 - no permanent supreme command or automatic succession to civil/node authority.
 
-## 7. Rian Cardo — Refused Reward
+## 7. Rian Calder — Refused Reward
 
 Offered at E327:
 - time-limited Joint Trust governor/chair;

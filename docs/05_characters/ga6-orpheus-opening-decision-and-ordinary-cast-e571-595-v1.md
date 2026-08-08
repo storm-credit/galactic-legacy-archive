@@ -224,7 +224,7 @@ E595 state:
 - cargo/community claim remains legitimate and contested;
 - no manifest priority or fleet title.
 
-## 10. Rian Cardo
+## 10. Rian Calder
 
 Opening role:
 - connective mission/fact actor with future-memory contamination;

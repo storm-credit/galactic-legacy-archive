@@ -24,7 +24,7 @@ No asset may silently reset between grand acts.
 
 # 2. Core Character Checkpoints
 
-## 리안 카르도 / P-001
+## 리안 칼데르 / P-001
 
 | Boundary | Body/knowledge | Authority | Relationship state | Irreversible cost / next dependency |
 |---|---|---|---|---|

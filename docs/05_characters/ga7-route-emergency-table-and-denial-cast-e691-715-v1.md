@@ -214,7 +214,7 @@ Explicitly unproven at E715:
 - one original command source;
 - the later D4 personal order.
 
-## 10. Rian Cardo
+## 10. Rian Calder
 
 Current function:
 - connective mission/evidence actor and participant in route/dependency discussions.

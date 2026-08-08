@@ -98,7 +98,7 @@ E570 state:
 - local emergency legitimacy remains reviewable by Lio/civil bodies;
 - not a defeated rebel or collected admiral.
 
-## 6. Rian Cardo
+## 6. Rian Calder
 
 Final GA5 function:
 - Grey Route mobile-front commander and cross-front route/timing connector;

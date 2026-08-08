@@ -118,7 +118,7 @@ Travel/action constraints:
 
 ### Academy/student side
 
-#### Rian Cardo / 07
+#### Rian Calder / 07
 
 - E20 departure state: 45–55% stable output.
 - external transport preserves most propellant but docking/activation consumes thermal margin.

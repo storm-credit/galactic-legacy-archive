@@ -221,7 +221,7 @@ Target:
 “잡을 수 있다. 대신 돌아오는 길과 부상자를 버려야 한다.”
 
 Target:
-- Rian Cardo / tactical cost.
+- Rian Calder / tactical cost.
 
 ### Line F
 
