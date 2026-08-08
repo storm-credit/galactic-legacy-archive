@@ -30,7 +30,7 @@ Prohibited:
 
 ### P-001 — 리안 칼데르 / Rian Calder
 
-> 개명 반영 2026-08-07 ([[canonical-name-errata-005]], PR #99). 구명 `리안 칼데르 / Rian Calder`는 역사 텍스트에서만 유지된다.
+> 개명 반영 2026-08-07 ([[canonical-name-errata-005]], PR #99). 구명은 해당 errata에 기록돼 있으며 역사 텍스트에서만 유지된다. 이 주석은 구명을 직접 표기하지 않는다 — 개명 스윕이 개명 설명문 자체를 덮어쓰는 사고가 실제로 발생했다.
 
 Everyday call:
 - `리안`.

@@ -93,6 +93,19 @@ REQUIRED_PUBLICATION_VALUE = "NOT AUTHORIZED"
 HEADER_SCAN_LINES = 20
 
 # --------------------------------------------------------------------------
+# C6 — entity note discipline
+# --------------------------------------------------------------------------
+# Entity notes are navigation hubs, not a second copy of canon. The failure mode
+# is drift: the hub is convenient, so settings get written there and the project
+# ends up with two sources for the same fact, violating CLAUDE.md section 3.
+# These limits keep a hub a hub.
+
+ENTITY_DIR = "docs/_entities/"
+ENTITY_MAX_LINES = 60
+ENTITY_BANNER_MARKER = "링크 허브"
+ENTITY_EXPOSURE_SECTION = "## 독자 노출 상한"
+
+# --------------------------------------------------------------------------
 # C4 — episode length
 # --------------------------------------------------------------------------
 
@@ -313,6 +326,43 @@ def check_manuscripts(files: list[tuple[str, str]], report: Report) -> int:
     return counted
 
 
+def check_entity_notes(files: list[tuple[str, str]], report: Report) -> int:
+    """C6 — entity hubs must stay hubs, not become a second canon."""
+    counted = 0
+    for rel, text in files:
+        if not rel.startswith(ENTITY_DIR):
+            continue
+        if Path(rel).name == "README.md":
+            continue
+        counted += 1
+
+        if ENTITY_BANNER_MARKER not in text:
+            report.error(
+                f"C6 {rel}: missing the hub banner — every entity note must state "
+                f"that it is a link hub and not a settings source"
+            )
+
+        line_count = len(text.strip().split("\n"))
+        if line_count > ENTITY_MAX_LINES:
+            report.error(
+                f"C6 {rel}: {line_count} lines exceeds the {ENTITY_MAX_LINES}-line "
+                f"budget — move the content into a canon document and link to it"
+            )
+
+        if not WIKILINK.search(strip_code(text)):
+            report.error(
+                f"C6 {rel}: no wikilink to a canon source — a hub that links "
+                f"nowhere is a duplicate, not a hub"
+            )
+
+        if ENTITY_EXPOSURE_SECTION not in text:
+            report.error(
+                f"C6 {rel}: missing the {ENTITY_EXPOSURE_SECTION!r} section — "
+                f"without it the hub becomes a spoiler surface"
+            )
+    return counted
+
+
 # --------------------------------------------------------------------------
 # Self test — proves each check actually fires.
 # --------------------------------------------------------------------------
@@ -434,6 +484,63 @@ def selftest() -> int:
             "C3",
         ),
         (
+            "C6 detects an entity note that dropped the hub banner",
+            [
+                (
+                    "docs/_entities/characters/x.md",
+                    "# x\n\n[[a]]\n\n## 독자 노출 상한\n\n- none",
+                )
+            ],
+            "entities",
+            "C6",
+        ),
+        (
+            "C6 detects an entity note that grew past the line budget",
+            [
+                (
+                    "docs/_entities/characters/x.md",
+                    "링크 허브\n[[a]]\n## 독자 노출 상한\n" + "\n".join(["x"] * 70),
+                )
+            ],
+            "entities",
+            "C6",
+        ),
+        (
+            "C6 detects an entity note with no canon link",
+            [
+                (
+                    "docs/_entities/characters/x.md",
+                    "링크 허브\n\n요약만 있다\n\n## 독자 노출 상한\n\n- none",
+                )
+            ],
+            "entities",
+            "C6",
+        ),
+        (
+            "C6 detects a missing reader-exposure section",
+            [("docs/_entities/characters/x.md", "링크 허브\n\n[[a]]\n")],
+            "entities",
+            "C6",
+        ),
+        (
+            "C6 accepts a well-formed entity note",
+            [
+                (
+                    "docs/_entities/characters/x.md",
+                    "링크 허브\n\n요약\n\n[[core-canonical-names-and-voice-lock-v1]]\n"
+                    "\n## 독자 노출 상한\n\n- 초반 공개 가능: 이름",
+                )
+            ],
+            "entities",
+            "",
+        ),
+        (
+            "C6 ignores the entity directory README",
+            [("docs/_entities/README.md", "설명 문서")],
+            "entities",
+            "",
+        ),
+        (
             "C4 warns on a short episode",
             [
                 (
@@ -454,6 +561,8 @@ def selftest() -> int:
             check_links(files, report)
         elif check == "names":
             check_retired_names(files, report)
+        elif check == "entities":
+            check_entity_notes(files, report)
         else:
             check_manuscripts(files, report)
 
@@ -502,11 +611,13 @@ def main() -> int:
     link_count = check_links(files, report)
     name_scope = check_retired_names(files, report)
     episode_count = check_manuscripts(files, report)
+    entity_count = check_entity_notes(files, report)
 
     report.note(f"markdown files scanned: {len(files)}")
     report.note(f"wikilinks resolved: {link_count}")
     report.note(f"documents checked for retired names: {name_scope}")
     report.note(f"episode manuscripts checked: {episode_count}")
+    report.note(f"entity notes checked: {entity_count}")
 
     if report.warnings:
         print("WARNINGS")
