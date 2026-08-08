@@ -22,13 +22,13 @@ The approved 1100-episode act/subact blueprint remains separate from this detail
 
 ## 2. B04-05 Files
 
-- `docs/10_story_architecture/detail/ga4-e431-438-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga4-e439-444-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga4-e445-450-episode-cards-v1.md`
-- `docs/05_characters/ga4-final-compact-and-crown-reference-cast-e431-450-v1.md`
-- `docs/06_law/ga4-e431-450-no-master-heir-and-final-compact-state-v1.md`
-- `docs/09_collection/detail/ga4-e431-450-final-succession-compact-and-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga4-e331-450-final-cross-audit-v1.md`
+- [[ga4-e431-438-episode-cards-v1]]
+- [[ga4-e439-444-episode-cards-v1]]
+- [[ga4-e445-450-episode-cards-v1]]
+- [[ga4-final-compact-and-crown-reference-cast-e431-450-v1]]
+- [[ga4-e431-450-no-master-heir-and-final-compact-state-v1]]
+- [[ga4-e431-450-final-succession-compact-and-loss-state-v1]]
+- [[ga4-e331-450-final-cross-audit-v1]]
 
 ## 3. Final GA4 Rulings
 

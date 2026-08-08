@@ -3,7 +3,7 @@
 Status: CANON CORRECTION — APPLIES IMMEDIATELY
 Owner Agents: O01 Canon / O02 Gates / M03 Fleet Operations / X01 Logic / X04 Continuity
 Last Reviewed: 2026-08-04
-Supersedes: the single E301 line in `docs/10_story_architecture/detail/ga3-e301-310-episode-cards-v1.md` stating `8 ready/mixed cutters`
+Supersedes: the single E301 line in [[ga3-e301-310-episode-cards-v1]] stating `8 ready/mixed cutters`
 Used By: B03-04 operation state, collection/loss ledger, red-team audit and all E311+ work
 
 ## Correct Value

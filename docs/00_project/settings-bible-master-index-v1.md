@@ -23,18 +23,18 @@ Design-only scope remains mandatory.
 
 Primary files:
 
-- `CLAUDE.md` — PM-orchestra workflow and project principles.
-- `docs/00_project/design-only-scope-restoration-2026-08-03.md` — prose prohibition and source precedence.
-- `docs/00_project/context-window-handoff-protocol.md` — mandatory push/merge/new-window handoff.
-- `docs/00_project/design-only-world-bible-status-2026-08-03.md` — five-batch completion queue origin.
-- `docs/00_project/settings-bible-final-status-2026-08-03.md` — final setting-bible ruling.
-- `docs/00_project/deferred-design-register-v1.md` — explicit deferred/nonblocking work.
+- [[CLAUDE]] — PM-orchestra workflow and project principles.
+- [[design-only-scope-restoration-2026-08-03]] — prose prohibition and source precedence.
+- [[context-window-handoff-protocol]] — mandatory push/merge/new-window handoff.
+- [[design-only-world-bible-status-2026-08-03]] — five-batch completion queue origin.
+- [[settings-bible-final-status-2026-08-03]] — final setting-bible ruling.
+- [[deferred-design-register-v1]] — explicit deferred/nonblocking work.
 
 Canonical naming:
 
-- `docs/05_characters/core-canonical-names-and-voice-lock-v1.md`.
-- `docs/00_project/canonical-name-errata-001.md`.
-- `docs/00_project/canonical-name-errata-002.md`.
+- [[core-canonical-names-and-voice-lock-v1]].
+- [[canonical-name-errata-001]].
+- [[canonical-name-errata-002]].
 
 ## 3. Core Premise, Theme and Regression/Archive
 
@@ -56,26 +56,26 @@ Authoritative principles:
 Opening and regional:
 
 - lattice physics and war rules under `docs/02_world/`.
-- `docs/02_world/opening-region-route-graph-v1.md`.
-- `docs/03_academy/academy-white-dock-map-v1.md`.
-- `docs/02_world/ardis-node-city-bible-v1.md`.
-- `docs/02_world/ardis-node-engineering-and-battle-bible-v1.md`.
+- [[opening-region-route-graph-v1]].
+- [[academy-white-dock-map-v1]].
+- [[ardis-node-city-bible-v1]].
+- [[ardis-node-engineering-and-battle-bible-v1]].
 
 Scale:
 
-- `docs/02_world/galaxy-node-fleet-economy-scale-v1.md`.
+- [[galaxy-node-fleet-economy-scale-v1]].
 
 Late series:
 
-- `docs/02_world/ga8-palimpsest-and-archive-sites-atlas-v1.md`.
-- `docs/02_world/ga9-preservation-regime-regional-atlas-v1.md`.
-- `docs/02_world/ga10-transition-regions-and-service-state-atlas-v1.md`.
+- [[ga8-palimpsest-and-archive-sites-atlas-v1]].
+- [[ga9-preservation-regime-regional-atlas-v1]].
+- [[ga10-transition-regions-and-service-state-atlas-v1]].
 
 ## 5. Technology, Mecha and Ships
 
-- `docs/02_world/technology-era-and-interoperability-bible-v1.md`.
+- [[technology-era-and-interoperability-bible-v1]].
 - 07호/first frame bibles under `docs/06_hardware/`.
-- `docs/06_hardware/first-ship-bible-v1.md`.
+- [[first-ship-bible-v1]].
 - ship crew/authority bible under `docs/05_characters/`.
 - technical and battle-state packets under `docs/07_military/` and grand-act operational files.
 
@@ -90,8 +90,8 @@ Key rules:
 
 ## 6. Economy, Trade and Logistics
 
-- `docs/02_world/macro-economy-currency-and-price-bible-v1.md`.
-- `docs/02_world/interregional-trade-flows-and-crisis-economy-v1.md`.
+- [[macro-economy-currency-and-price-bible-v1]].
+- [[interregional-trade-flows-and-crisis-economy-v1]].
 - Academy budget/scale calibration under `docs/03_academy/`.
 - first-ship and fleet cost/readiness documents.
 
@@ -103,8 +103,8 @@ Key author-side anchor:
 
 ## 7. Military Doctrine and Holdings
 
-- `docs/07_military/military-doctrine-and-force-structure-bible-v1.md`.
-- `docs/07_military/grand-act-force-holdings-and-readiness-matrix-v1.md`.
+- [[military-doctrine-and-force-structure-bible-v1]].
+- [[grand-act-force-holdings-and-readiness-matrix-v1]].
 - regional force tables and operation sheets under `docs/04_factions/`, `docs/07_military/` and grand-act architecture.
 
 Key rules:
@@ -120,17 +120,17 @@ Key rules:
 
 Opening cultures:
 
-- `docs/02_world/opening-culture-naming-ordinary-life-packet-v1.md`.
+- [[opening-culture-naming-ordinary-life-packet-v1]].
 
 Full social foundation:
 
-- `docs/02_world/faith-family-and-social-institutions-bible-v1.md`.
-- `docs/02_world/education-media-art-sport-and-holidays-bible-v1.md`.
-- `docs/02_world/later-region-cultures-and-ai-ordinary-life-v1.md`.
+- [[faith-family-and-social-institutions-bible-v1]].
+- [[education-media-art-sport-and-holidays-bible-v1]].
+- [[later-region-cultures-and-ai-ordinary-life-v1]].
 
 Faction visual/cultural matrix:
 
-- `docs/04_factions/faction-succession-culture-visual-identity-matrix-v1.md`.
+- [[faction-succession-culture-visual-identity-matrix-v1]].
 
 Key rules:
 
@@ -145,7 +145,7 @@ Key rules:
 - Academy law/jurisdiction/charter files under `docs/03_academy/`.
 - rights, custody and record artifacts under `docs/09_collection/` and world/act bibles.
 - Ardis Joint Trust, Common Fleet Charter, Interim Authority Compact, Aurel and staged transition bibles.
-- `docs/04_factions/grand-act-office-and-succession-state-table-v1.md`.
+- [[grand-act-office-and-succession-state-table-v1]].
 
 Key rules:
 
@@ -158,8 +158,8 @@ Key rules:
 ## 10. Collection and Counter-Collection
 
 - core collection ontology/system bibles under `docs/09_collection/`.
-- `docs/09_collection/counter-collection-and-intelligence-war-bible-v1.md`.
-- `docs/09_collection/collection-category-authoring-templates-v1.md`.
+- [[counter-collection-and-intelligence-war-bible-v1]].
+- [[collection-category-authoring-templates-v1]].
 - first-100 and GA2 registries.
 
 Key rules:
@@ -184,14 +184,14 @@ Opening and GA2–3:
 
 Later series:
 
-- `docs/05_characters/later-act-officeholders-and-succession-ledger-v1.md`.
-- `docs/05_characters/later-act-ordinary-focal-roster-v1.md`.
+- [[later-act-officeholders-and-succession-ledger-v1]].
+- [[later-act-ordinary-focal-roster-v1]].
 - later grand-act actor bibles.
 
 Faction structure:
 
-- `docs/04_factions/faction-succession-culture-visual-identity-matrix-v1.md`.
-- `docs/04_factions/grand-act-office-and-succession-state-table-v1.md`.
+- [[faction-succession-culture-visual-identity-matrix-v1]].
+- [[grand-act-office-and-succession-state-table-v1]].
 
 ## 12. Story Architecture
 
@@ -211,7 +211,7 @@ Current authority:
 
 - Archive/Seed architecture and GA8 site documents under `docs/11_mystery/`.
 - 20 core payoff ledger and scene-fix files.
-- `docs/12_losses/named-loss-and-irreversible-transformation-ledger-v1.md`.
+- [[named-loss-and-irreversible-transformation-ledger-v1]].
 
 Locked examples:
 
@@ -229,9 +229,9 @@ Locked examples:
 Core audits:
 
 - Gate and red-team files under `docs/99_quality_control/`.
-- `docs/99_quality_control/world-bible-completion-gap-audit-v2.md`.
+- [[world-bible-completion-gap-audit-v2]].
 - five-batch red-team files.
-- `docs/99_quality_control/final-settings-bible-completion-audit-v3.md`.
+- [[final-settings-bible-completion-audit-v3]].
 
 Standing QA:
 

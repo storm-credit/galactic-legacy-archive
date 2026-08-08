@@ -3,7 +3,7 @@
 Status: CANON CORRECTION — APPLIES IMMEDIATELY
 Owner Agents: O01 Canon / O02 Gates / M05 Logistics / H05 Medical / X01 Logic / X04 Continuity
 Last Reviewed: 2026-08-04
-Supersedes: the isolated E375 arithmetic line in `docs/10_story_architecture/detail/ga4-e369-376-episode-cards-v1.md`
+Supersedes: the isolated E375 arithmetic line in [[ga4-e369-376-episode-cards-v1]]
 Used By: B04-02 state, collection/loss ledger, red-team audit and all E381+ work
 
 ## 1. Correct Meridian Cargo Arithmetic

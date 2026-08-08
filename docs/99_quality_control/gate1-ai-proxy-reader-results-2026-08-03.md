@@ -41,7 +41,7 @@ Each mode answered the packet before consulting the author-side self-audit.
 ## 3. Episode 1 v1 Failure
 
 File:
-- `docs/07_style/noncanon-episode-1-close-third-sample-v1.md`
+- [[noncanon-episode-1-close-third-sample-v1]]
 
 ### Results
 
@@ -67,7 +67,7 @@ The failure is structural, not a sentence-polish issue.
 ## 4. Episode 1 v2 Retest
 
 File:
-- `docs/07_style/noncanon-episode-1-close-third-sample-v2-mobile.md`
+- [[noncanon-episode-1-close-third-sample-v2-mobile]]
 
 ### Results
 
@@ -95,7 +95,7 @@ Verdict:
 ## 5. White Dock Action
 
 File:
-- `docs/07_style/gate8-noncanon-white-dock-action-sample-v1.md`
+- [[gate8-noncanon-white-dock-action-sample-v1]]
 
 ### Quantitative results
 
@@ -129,7 +129,7 @@ First-draft rule:
 ## 6. Academy Central Key
 
 File:
-- `docs/07_style/gate8-noncanon-central-key-action-sample-v1.md`
+- [[gate8-noncanon-central-key-action-sample-v1]]
 
 ### Results
 
@@ -153,7 +153,7 @@ Verdict:
 ## 7. ORA-3
 
 File:
-- `docs/07_style/gate8-noncanon-ora3-consent-dialogue-sample-v1.md`
+- [[gate8-noncanon-ora3-consent-dialogue-sample-v1]]
 
 ### Results
 
@@ -177,7 +177,7 @@ Verdict:
 ## 8. Five Packages and Charter
 
 File:
-- `docs/07_style/gate8-noncanon-package-charter-mobile-sample-v1.md`
+- [[gate8-noncanon-package-charter-mobile-sample-v1]]
 
 ### Results
 

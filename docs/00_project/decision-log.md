@@ -65,9 +65,9 @@ Decision Owner: User + A00
 
 ### Affected Documents
 
-- `CLAUDE.md`
-- `docs/00_project/workflow.md`
-- `docs/99_quality_control/prewriting-gate.md`
+- [[CLAUDE]]
+- [[workflow]]
+- [[prewriting-gate]]
 
 ---
 
@@ -106,7 +106,7 @@ Decision Owner: User + A00
 
 ### Affected Documents
 
-- `docs/01_concept/canon-core-packet-v1.md`
+- [[canon-core-packet-v1]]
 - 향후 character bible
 - 향후 macroplot
 
@@ -167,11 +167,11 @@ Decision Owner: User + A00
 
 ### Affected Documents
 
-- `docs/00_project/orchestra.md`
-- `docs/00_project/specialist-roster.md`
-- `docs/13_writing_harness/prose-bible.md`
-- `docs/13_writing_harness/storycraft-bible.md`
-- `docs/13_writing_harness/revision-harness.md`
+- [[orchestra]]
+- [[specialist-roster]]
+- [[prose-bible]]
+- [[storycraft-bible]]
+- [[revision-harness]]
 
 ---
 
@@ -207,7 +207,7 @@ B2 이상의 개입은 분기 장부에 등록하고 1차·2차·3차 영향을 
 
 ### Affected Documents
 
-- `docs/02_world/regression-causality-harness.md`
+- [[regression-causality-harness]]
 - 향후 original timeline
 - 향후 divergence ledger
 
@@ -244,8 +244,8 @@ Decision Owner: M03 + M04 + H01 + T02 + A00
 
 ### Affected Documents
 
-- `docs/02_world/mecha-strategic-necessity.md`
-- `docs/02_world/lattice-war-physics-and-ai-law.md`
+- [[mecha-strategic-necessity]]
+- [[lattice-war-physics-and-ai-law]]
 
 ### Remaining Calibration
 
@@ -292,8 +292,8 @@ Internal formula:
 
 ### Affected Documents
 
-- `docs/01_concept/four-directions-comparison.md`
-- `docs/01_concept/canon-core-packet-v1.md`
+- [[four-directions-comparison]]
+- [[canon-core-packet-v1]]
 - 모든 후속 설계 문서
 
 ### Reversal Condition
@@ -313,8 +313,8 @@ Internal formula:
 
 ### Affected Documents
 
-- `docs/00_project/pre-writing-gate-review-v1.md`
-- `docs/00_project/first-writing-batch-readiness-v1.md`
+- [[pre-writing-gate-review-v1]]
+- [[first-writing-batch-readiness-v1]]
 
 ### Reversal Condition
 
@@ -322,7 +322,7 @@ Internal formula:
 
 ## D-20260806-02 — issue #26 출판 전 블로커 확정 (D2)
 
-작가 승인: `docs/00_project/issue-26-status-resolution-proposal-v1.md` 발효. 인간/모바일 테스트는 출판 전 하드 블로커이며 초고 생산을 차단하지 않는다. 과거 override 문서는 비정본 유지 — 본 판정은 신규 작가 결정이다.
+작가 승인: [[issue-26-status-resolution-proposal-v1]] 발효. 인간/모바일 테스트는 출판 전 하드 블로커이며 초고 생산을 차단하지 않는다. 과거 override 문서는 비정본 유지 — 본 판정은 신규 작가 결정이다.
 
 ### Consequences
 
@@ -331,9 +331,9 @@ Internal formula:
 
 ### Affected Documents
 
-- `docs/99_quality_control/prewriting-gate-dry-audit-2026-08-03.md` (주석)
-- `docs/99_quality_control/prewriting-gate-evidence-matrix-v2.md` (주석)
-- `docs/07_style/gate1-korean-webnovel-pov-prose-calibration-v1.md` (§12 개정 주석)
+- [[prewriting-gate-dry-audit-2026-08-03]] (주석)
+- [[prewriting-gate-evidence-matrix-v2]] (주석)
+- [[gate1-korean-webnovel-pov-prose-calibration-v1]] (§12 개정 주석)
 
 ### Reversal Condition
 
@@ -346,11 +346,11 @@ Internal formula:
 ### Affected Documents
 
 - `manuscript/ga1/` (v2 파일 생산)
-- `docs/00_project/first-writing-batch-readiness-v1.md`
+- [[first-writing-batch-readiness-v1]]
 
 ## D-20260806-04 — Pre-Writing Gate 개방 (초고 생산 한정)
 
-작가 선언: "Pre-Writing Gate를 OPEN한다. 권장된 첫 집필 배치를 시작해." 상세: `docs/00_project/pre-writing-gate-open-record-2026-08-06.md`. 출판은 계속 차단.
+작가 선언: "Pre-Writing Gate를 OPEN한다. 권장된 첫 집필 배치를 시작해." 상세: [[pre-writing-gate-open-record-2026-08-06]]. 출판은 계속 차단.
 
 ## D-20260806-05 — 소급 등재 (F-11 해소)
 
@@ -417,8 +417,8 @@ E1 v2 교정 과정에서 한글 수량 표현을 일괄적으로 아라비아 �
 
 ### Affected Documents
 
-- `manuscript/ga1/001-역사에-없는-생도-v2.md`
-- `docs/13_writing_harness/prose-bible.md`
+- [[001-역사에-없는-생도-v2]]
+- [[prose-bible]]
 - `docs/99_quality_control/ga1-e1-5-v2-batch-review-v1.md`
 - 이후 승인된 원고 회차
 
@@ -464,7 +464,7 @@ P-001의 유일한 독자 노출 정본명을 **`리안 칼데르 / Rian Calder`
 
 - 모든 신규 원고·장면 카드·바이블·인덱스는 `리안 칼데르 / Rian Calder`를 사용한다.
 - 현재 독자 노출 원고인 E1 v2의 전체 이름 세 군데를 수정한다.
-- 과거 설계 문서·구초안·감사 기록·PR 기록에 남은 `리안 카르도 / Rian Cardo`는 역사적 텍스트로 보존하되 `canonical-name-errata-005.md`에 따라 새 이름으로 해석한다.
+- 과거 설계 문서·구초안·감사 기록·PR 기록에 남은 `리안 카르도 / Rian Cardo`는 역사적 텍스트로 보존하되 [[canonical-name-errata-005]]에 따라 새 이름으로 해석한다.
 - 전체 저장소의 과거 기록을 무차별 치환하지 않는다.
 
 ### Risks
@@ -474,16 +474,16 @@ P-001의 유일한 독자 노출 정본명을 **`리안 칼데르 / Rian Calder`
 
 ### Mitigation
 
-- `canonical-name-errata-005.md`를 CANON OVERRIDE로 발행한다.
+- [[canonical-name-errata-005]]를 CANON OVERRIDE로 발행한다.
 - 유효 정본 장부에 errata-005와 최종 이름을 명시한다.
 - 이후 Context Pack과 원고 감사에서 P-001 전체 이름을 별도 검색한다.
 
 ### Affected Documents
 
-- `docs/00_project/canonical-name-errata-005.md`
-- `docs/00_project/effective-canon-status-manifest-v1.md`
-- `docs/00_project/decision-log.md`
-- `manuscript/ga1/001-역사에-없는-생도-v2.md`
+- [[canonical-name-errata-005]]
+- [[effective-canon-status-manifest-v1]]
+- [[decision-log]]
+- [[001-역사에-없는-생도-v2]]
 - 향후 P-001 독자 노출 문서 전부
 
 ### Reversal Condition

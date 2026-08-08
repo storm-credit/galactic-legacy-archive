@@ -30,10 +30,10 @@ Status terms:
 
 | Domain/artifact | Primary roles | Required review roles | Evidence | Effective status | Conditions |
 |---|---|---|---|---|---|
-| PM workflow and design-only scope | A00 | O01/O02/X06 | `CLAUDE.md`; design-only restoration; final status | PC | manuscript remains blocked |
-| source precedence and master navigation | O01 | X04/X06/A00 | `settings-bible-master-index-v1.md` | PC | stale names/issues cannot override index |
-| context-window handoff | A00 | O01/X04 | `context-window-handoff-protocol.md` | PC | push/verify before new-window prompt |
-| final settings-bible ruling | O02/X06 | A00/O01/X01/X03/X04/A16 | `final-settings-bible-completion-audit-v3.md`; final status | PC | completion applies to 1100-episode design authority, not prose |
+| PM workflow and design-only scope | A00 | O01/O02/X06 | [[CLAUDE]]; design-only restoration; final status | PC | manuscript remains blocked |
+| source precedence and master navigation | O01 | X04/X06/A00 | [[settings-bible-master-index-v1]] | PC | stale names/issues cannot override index |
+| context-window handoff | A00 | O01/X04 | [[context-window-handoff-protocol]] | PC | push/verify before new-window prompt |
+| final settings-bible ruling | O02/X06 | A00/O01/X01/X03/X04/A16 | [[final-settings-bible-completion-audit-v3]]; final status | PC | completion applies to 1100-episode design authority, not prose |
 
 ---
 
@@ -53,7 +53,7 @@ Status terms:
 | Artifact/domain | Primary roles | Review roles | Evidence | Status | Conditions |
 |---|---|---|---|---|---|
 | lattice travel and communications | T01/T02 | T03/X01/X04 | lattice physics; opening route graph; scale bible | WC | no instant travel/comms; queue and recovery persist |
-| galaxy/node/fleet scale | T01/M01/P02 | M03/M05/X01/X06 | `galaxy-node-fleet-economy-scale-v1.md` | WC | values are design envelopes; local exact numbers may vary |
+| galaxy/node/fleet scale | T01/M01/P02 | M03/M05/X01/X06 | [[galaxy-node-fleet-economy-scale-v1]] | WC | values are design envelopes; local exact numbers may vary |
 | Academy/White Dock geography | T03/H02 | M04/H06/X04 | academy and White Dock maps | WC | scene travel and frame size obey map |
 | Ardis city and node engineering | T02/T03/P02 | P03/M03/M05/X01/X04 | Ardis city/node bibles | WC | protagonists cannot replace local operators/population |
 | GA8–10 regional atlases | T01/P01/P02 | T02/M01/X06 | late-series atlas files | WC | exact minor systems deferred |
@@ -64,9 +64,9 @@ Status terms:
 
 | Artifact/domain | Primary roles | Review roles | Evidence | Status | Conditions |
 |---|---|---|---|---|---|
-| technology eras/interoperability | T05/T06/T07 | H04/P02/G05/X01 | `technology-era-and-interoperability-bible-v1.md` | WC | old is not automatically stronger |
+| technology eras/interoperability | T05/T06/T07 | H04/P02/G05/X01 | [[technology-era-and-interoperability-bible-v1]] | WC | old is not automatically stronger |
 | 07 frame system/rights | T06/H04 | M04/H06/P03/G01/X04 | 07 bibles and operational ledgers | WC | service/capture/rescue focus; no ownership monopoly |
-| first ship `회랑새` | H02/H04 | M03/M05/P03/T03/X04 | `first-ship-bible-v1.md`; crew bible | WC | debt, crew, heat, module and title constraints persist |
+| first ship `회랑새` | H02/H04 | M03/M05/P03/T03/X04 | [[first-ship-bible-v1]]; crew bible | WC | debt, crew, heat, module and title constraints persist |
 | ship crew/command separation | M03/P03/C02 | M05/X03/X04 | first-ship crew bible | WC | Rian is not automatic captain |
 | AI/personhood and Aurel | T07/P03 | P04/X03/O01 | AI/personhood and late-series social files | WC | process, model, office and person remain distinct |
 
@@ -76,7 +76,7 @@ Status terms:
 
 | Artifact/domain | Primary roles | Review roles | Evidence | Status | Conditions |
 |---|---|---|---|---|---|
-| currencies/wages/price baskets | P02 | M05/T03/X01 | `macro-economy-currency-and-price-bible-v1.md` | WC | BSC is author-side comparison unit |
+| currencies/wages/price baskets | P02 | M05/T03/X01 | [[macro-economy-currency-and-price-bible-v1]] | WC | BSC is author-side comparison unit |
 | interregional trade/crisis economy | P02/M05 | T02/T03/M01 | trade-flow and crisis-economy files | WC | price cannot replace unavailable capacity |
 | Academy and student debt | P02/P03/P04 | X03/X01 | Academy calibration/charter files | WC | debt affects families, treatment and choices |
 | fleet/ship operating burden | M05/H04/P02 | M03/X01 | ship/fleet cost-readiness files | WC | acquisition never equals sustainable operation |
@@ -88,7 +88,7 @@ Status terms:
 
 | Artifact/domain | Primary roles | Review roles | Evidence | Status | Conditions |
 |---|---|---|---|---|---|
-| military doctrine/force structure | M01–M06 | T02/T03/H02/X01/X04 | `military-doctrine-and-force-structure-bible-v1.md` | WC | exact weapon ranges deferred to operation sheets |
+| military doctrine/force structure | M01–M06 | T02/T03/H02/X01/X04 | [[military-doctrine-and-force-structure-bible-v1]] | WC | exact weapon ranges deferred to operation sheets |
 | force holdings/readiness | M03/M05 | P02/H04/X01 | grand-act holdings/readiness matrix | WC | global inventory is not one deployable fleet |
 | frame tactics | M04/T06 | H03/H06/X02 | 07 and battle bibles | WC | frames do not replace ships; duel not universal solution |
 | command ethics and retreat | M08 | P03/X03/M01 | fleet/Orpheus/Haren responsibility files | WC | retreat/centralization can be valid and costly |
@@ -101,7 +101,7 @@ Status terms:
 | Artifact/domain | Primary roles | Review roles | Evidence | Status | Conditions |
 |---|---|---|---|---|---|
 | opening cultures/naming | P05 | C06/X02/X03 | opening culture packet | WC | culture does not determine politics/intelligence |
-| faith/family/care | P04/P05/W06 | P03/C05/X03 | `faith-family-and-social-institutions-bible-v1.md` | WC | private life not over-systematized in scenes |
+| faith/family/care | P04/P05/W06 | P03/C05/X03 | [[faith-family-and-social-institutions-bible-v1]] | WC | private life not over-systematized in scenes |
 | education/media/art/sport/holidays | P05/W06 | P02/P04/X02 | social/ordinary-life bibles | WC | details must affect lived setting, not lore dump |
 | later-region/AI ordinary life | W06/P04 | T07/X03 | later-region cultures and AI ordinary-life file | WC | AI persons have material needs and independent relationships |
 | visual/cultural faction matrix | P05/P06 | X02/X03 | faction succession/culture/visual matrix | WC framework | exact concept art deferred |
@@ -127,7 +127,7 @@ Status terms:
 |---|---|---|---|---|---|
 | collection ontology/categories | G01/G03 | X03/X02/O01 | collection ontology and templates | WC system authority | late inventories can expand locally |
 | acquisition/integration/reward | G04/G06 | relevant domain owner/X01 | first-100 and GA2 registries | WC | use, support, refusal, cost and exit required |
-| counter-collection | G02/P07 | M06/T07/P03 | `counter-collection-and-intelligence-war-bible-v1.md` | WC | factions are not omniscient |
+| counter-collection | G02/P07 | M06/T07/P03 | [[counter-collection-and-intelligence-war-bible-v1]] | WC | factions are not omniscient |
 | loss/recovery/irreversibility | G07 | X03/X04/N06 | loss ledger and final states | WC | not every loss restored |
 | power creep | G05 | H04/M05/N07 | technology and collection audits | WC | new collection cannot simply delete old function/cost |
 

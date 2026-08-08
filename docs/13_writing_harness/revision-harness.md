@@ -61,7 +61,7 @@ Open Risks: Overediting, voice flattening, late structural changes
 - 통신과 정보 접근 가능성
 - 이전 회차에서 확정된 규칙
 
-모순은 `continuity-issues.md`에 등록하고 수정 파급 범위를 기록한다.
+모순은 [[continuity-issues]]에 등록하고 수정 파급 범위를 기록한다.
 
 ### Pass 5 — Mystery, MacGuffin & Payoff
 

@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: N08 Faction Arc Integration / C04 Relationship / P06 Faction Systems / N04 Causality / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: `1000-episode-grand-act-map-v1.md`, character bibles, initial faction bible
+Depends On: [[1000-episode-grand-act-map-v1]], character bibles, initial faction bible
 Used By: Grand-act plans, first-100 design, payoff ledger, character/faction expansion
 Open Risks: Late-act cast inflation, institutional arcs becoming abstractions, provisional leaders
 

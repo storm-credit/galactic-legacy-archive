@@ -11,9 +11,9 @@ Used By: Pre-Writing Gate, episode-card queue, manuscript authorization
 During this pass, PRs #21–#23 were discovered to be open despite earlier reports that GA8–GA10 had been merged.
 The missing architecture packets were recovered and merged into `main`, then verified by directly reading:
 
-- `ga8-episodes-801-900-act-map-v1.md`;
-- `ga9-episodes-901-1000-act-map-v1.md`;
-- `ga10-episodes-1001-1100-act-map-v1.md`.
+- [[ga8-episodes-801-900-act-map-v1]];
+- [[ga9-episodes-901-1000-act-map-v1]];
+- [[ga10-episodes-1001-1100-act-map-v1]].
 
 This correction is part of the official project history.
 No future status report may infer merge completion from a merge-commit field alone; it must verify `state=closed`, `merged=true` or read the target file from `main`.

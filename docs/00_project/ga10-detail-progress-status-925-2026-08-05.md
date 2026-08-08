@@ -26,13 +26,13 @@ Grand-act breakdown:
 
 ## 2. B10-01 Files
 
-- `docs/10_story_architecture/detail/ga10-e1001-1010-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga10-e1011-1018-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga10-e1019-1025-episode-cards-v1.md`
-- `docs/08_institutions/ga10-e1001-1025-transition-distributed-modules-local-return-state-v1.md`
-- `docs/05_characters/ga10-transition-connector-return-and-restitution-cast-e1001-1025-v1.md`
-- `docs/09_collection/detail/ga10-e1001-1025-modules-crises-craft-title-restitution-and-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga10-e1001-1025-redteam-v1.md`
+- [[ga10-e1001-1010-episode-cards-v1]]
+- [[ga10-e1011-1018-episode-cards-v1]]
+- [[ga10-e1019-1025-episode-cards-v1]]
+- [[ga10-e1001-1025-transition-distributed-modules-local-return-state-v1]]
+- [[ga10-transition-connector-return-and-restitution-cast-e1001-1025-v1]]
+- [[ga10-e1001-1025-modules-crises-craft-title-restitution-and-loss-state-v1]]
+- [[ga10-e1001-1025-redteam-v1]]
 
 ## 3. Sixty-Day Transition
 

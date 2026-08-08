@@ -3,7 +3,7 @@
 Status: CANON PROJECT CONTROL
 Owner Agent: A00 Novel PM Orchestrator
 Last Reviewed: 2026-08-03
-Depends On: `CLAUDE.md`, parent epic #1, context-window handoff protocol
+Depends On: [[CLAUDE]], parent epic #1, context-window handoff protocol
 Used By: all future design, setting, worldbuilding and quality-control work
 
 ## 1. Authorial Intent Lock

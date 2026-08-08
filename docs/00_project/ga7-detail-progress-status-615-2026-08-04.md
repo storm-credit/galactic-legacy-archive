@@ -26,13 +26,13 @@ GA7 has 110 episodes, not 120:
 
 ## 2. B07-01 Files
 
-- `docs/10_story_architecture/detail/ga7-e691-697-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga7-e698-706-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga7-e707-715-episode-cards-v1.md`
-- `docs/07_military/operations/ga7-e691-715-route-closure-dependency-emergency-table-state-v1.md`
-- `docs/05_characters/ga7-route-emergency-table-and-denial-cast-e691-715-v1.md`
-- `docs/09_collection/detail/ga7-e691-715-route-dependency-denial-and-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga7-e691-715-redteam-v1.md`
+- [[ga7-e691-697-episode-cards-v1]]
+- [[ga7-e698-706-episode-cards-v1]]
+- [[ga7-e707-715-episode-cards-v1]]
+- [[ga7-e691-715-route-closure-dependency-emergency-table-state-v1]]
+- [[ga7-route-emergency-table-and-denial-cast-e691-715-v1]]
+- [[ga7-e691-715-route-dependency-denial-and-loss-state-v1]]
+- [[ga7-e691-715-redteam-v1]]
 
 ## 3. Route and Dependency State
 

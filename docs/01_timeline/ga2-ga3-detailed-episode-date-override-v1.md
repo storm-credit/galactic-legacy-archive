@@ -3,7 +3,7 @@
 Status: CANON CORRECTION — ABSOLUTE DATE AUTHORITY
 Owner Agents: O01 Canon / N01 Series Architecture / N04 Causality / X04 Continuity / P03 Law / M03 Fleet
 Last Reviewed: 2026-08-04
-Depends On: `docs/01_timeline/master-series-chronology-v1.md`
+Depends On: [[master-series-chronology-v1]]
 Supersedes: every conflicting `Date:` or absolute CY date in GA2/GA3 detailed episode cards, operation sheets, collection sheets, status files and audits for E101–330
 Used By: all E101–330 scene cards and all E331+ chronology handoffs
 

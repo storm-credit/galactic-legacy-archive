@@ -42,14 +42,14 @@ Required qualification:
 
 ## Governance Files
 
-- `docs/00_project/orchestra-governance-index-v1.md`
-- `docs/00_project/agent-orchestra-registry-v1.md`
-- `docs/00_project/agent-execution-contract-and-veto-policy-v1.md`
-- `docs/00_project/document-review-signoff-ledger-v1.md`
-- `docs/00_project/effective-canon-status-manifest-v1.md`
-- `docs/99_quality_control/orchestra-domain-coverage-matrix-v1.md`
-- `docs/99_quality_control/orchestra-verification-audit-v1.md`
-- `templates/specialist-review-record-template.md`
+- [[orchestra-governance-index-v1]]
+- [[agent-orchestra-registry-v1]]
+- [[agent-execution-contract-and-veto-policy-v1]]
+- [[document-review-signoff-ledger-v1]]
+- [[effective-canon-status-manifest-v1]]
+- [[orchestra-domain-coverage-matrix-v1]]
+- [[orchestra-verification-audit-v1]]
+- [[specialist-review-record-template]]
 
 ## Next Work Boundary
 

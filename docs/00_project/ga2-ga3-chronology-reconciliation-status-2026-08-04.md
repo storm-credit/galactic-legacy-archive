@@ -19,8 +19,8 @@ This was a real S0 chronology contradiction and was not left hidden.
 ## 2. Correction
 
 Added:
-- `docs/01_timeline/ga2-ga3-detailed-episode-date-override-v1.md`
-- `docs/99_quality_control/detail/ga2-ga3-detailed-chronology-reconciliation-audit-v1.md`
+- [[ga2-ga3-detailed-episode-date-override-v1]]
+- [[ga2-ga3-detailed-chronology-reconciliation-audit-v1]]
 
 The override provides one canonical opening date for every episode E101–330 and supersedes every conflicting detailed date line.
 

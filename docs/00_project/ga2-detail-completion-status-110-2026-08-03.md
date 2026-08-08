@@ -15,10 +15,10 @@ Used By: GA3 branch, progress reporting and context handoff
 
 ## 2. B02-05 Completed Files
 
-- `docs/07_military/operations/ga2-e201-210-silex-ardis-window-operation-state-v1.md`
-- `docs/10_story_architecture/detail/ga2-e201-210-episode-cards-v1.md`
-- `docs/09_collection/detail/ga2-e201-210-route-and-ardis-entry-state-v1.md`
-- `docs/99_quality_control/detail/ga2-e101-210-final-cross-audit-v1.md`
+- [[ga2-e201-210-silex-ardis-window-operation-state-v1]]
+- [[ga2-e201-210-episode-cards-v1]]
+- [[ga2-e201-210-route-and-ardis-entry-state-v1]]
+- [[ga2-e101-210-final-cross-audit-v1]]
 
 ## 3. GA2 Final State
 

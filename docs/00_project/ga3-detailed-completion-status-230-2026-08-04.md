@@ -21,16 +21,16 @@ The approved 1100-episode act/subact blueprint remains separate from the detaile
 
 ## 2. B03-05 Files
 
-- `docs/10_story_architecture/detail/ga3-e311-314-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga3-e315-323-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga3-e324-330-episode-cards-v1.md`
-- `docs/05_characters/ga3-final-window-trust-cast-and-succession-e311-330-v1.md`
-- `docs/07_military/operations/ga3-e311-330-final-window-and-joint-trust-state-v1.md`
-- `docs/09_collection/detail/ga3-e311-330-final-collection-trust-and-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga3-e211-330-final-cross-audit-v1.md`
+- [[ga3-e311-314-episode-cards-v1]]
+- [[ga3-e315-323-episode-cards-v1]]
+- [[ga3-e324-330-episode-cards-v1]]
+- [[ga3-final-window-trust-cast-and-succession-e311-330-v1]]
+- [[ga3-e311-330-final-window-and-joint-trust-state-v1]]
+- [[ga3-e311-330-final-collection-trust-and-loss-state-v1]]
+- [[ga3-e211-330-final-cross-audit-v1]]
 
 Chronology authority already merged before this batch:
-- `docs/01_timeline/ga2-ga3-detailed-episode-date-override-v1.md`.
+- [[ga2-ga3-detailed-episode-date-override-v1]].
 
 ## 3. Locked Final GA3 Results
 

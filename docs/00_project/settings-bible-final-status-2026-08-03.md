@@ -109,7 +109,7 @@ The prose artifacts introduced in PRs #35 and #36 remain non-canon audit history
 - exact taxes/output/epilogue statistics;
 - human prose/readability testing.
 
-All are listed in `deferred-design-register-v1.md`.
+All are listed in [[deferred-design-register-v1]].
 
 ## Final Completion Batches
 
@@ -124,7 +124,7 @@ All are listed in `deferred-design-register-v1.md`.
 ## Source Navigation
 
 Use:
-- `docs/00_project/settings-bible-master-index-v1.md`.
+- [[settings-bible-master-index-v1]].
 
 Do not infer canon from:
 - accidental manuscript files;

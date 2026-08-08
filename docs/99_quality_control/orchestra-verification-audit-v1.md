@@ -19,7 +19,7 @@ Open Risks: independent specialist sessions and human professional validation re
 
 ## 2. Evidence Examined
 
-- `CLAUDE.md` PM-orchestra workflow;
+- [[CLAUDE]] PM-orchestra workflow;
 - settings-bible master index and final status;
 - final settings-bible completion audit v3;
 - representative military, economy, technology, culture, collection, city and act documents;

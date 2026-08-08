@@ -58,8 +58,8 @@ PASS.
 ## 3. Chronology Audit
 
 Authority:
-- `docs/01_timeline/master-series-chronology-v1.md`;
-- `docs/01_timeline/ga2-ga3-detailed-episode-date-override-v1.md`.
+- [[master-series-chronology-v1]];
+- [[ga2-ga3-detailed-episode-date-override-v1]].
 
 GA3 envelope:
 - E211: CY 743-04-01;

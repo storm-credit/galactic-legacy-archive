@@ -1,6 +1,20 @@
 # Pre-Writing Gate Evidence Matrix v2
 
-> **AMENDMENT 2026-08-06**: §12의 차단 요건 중 인간/모바일 항목(1~6)은 작가 판정(D2)으로 출판 전 블로커로 재분류, 항목 7~8은 게이트 리뷰 v1과 `pre-writing-gate-open-record-2026-08-06.md`의 작가 개방 선언으로 충족됨. Gate 6/9 증거는 E101~1100 상세설계 완료(PR #88/#89)로 강화됨. 본 매트릭스는 이력으로 보존하며, 현행 상태는 open record가 통제한다.
+> **AMENDMENT 2026-08-06**: §12의 차단 요건 중 인간/모바일 항목(1~6)은 작가 판정(D2)으로 출판 전 블로커로 재분류, 항목 7~8은 게이트 리뷰 v1과 [[pre-writing-gate-open-record-2026-08-06]]의 작가 개방 선언으로 충족됨. Gate 6/9 증거는 E101~1100 상세설계 완료(PR #88/#89)로 강화됨. 본 매트릭스는 이력으로 보존하며, 현행 상태는 open record가 통제한다.
+
+> **AMENDMENT 2026-08-08 — 존재하지 않는 증거 문서 정리**: 링크 감사에서 Gate 0·1·2의 Evidence 목록이 저장소에 존재하지 않는 파일 7건을 인용하고 있었음을 확인했다(즉, 해당 항목의 PASS 근거 일부가 실재하지 않았다). §2-10 / revision-harness §5에 따라 조용히 지우지 않고 아래에 기록한다.
+>
+> | 원래 인용 | 처리 | 사유 |
+> |---|---|---|
+> | `docs/00_project/pm-orchestra-agent-roster-v1.md` | → [[agent-orchestra-registry-v1]] | 같은 역할의 실재 문서로 교체 |
+> | `docs/00_project/expert-coverage-audit-v1.md` | → [[agent-gap-audit]] | 같은 역할의 실재 문서로 교체 |
+> | `docs/07_style/writing-craft-bible-v1.md` | → [[prose-bible]] | 문체 정본은 13_writing_harness로 이관됨 |
+> | `docs/07_style/character-voice-dialogue-bible-v1.md` | → [[core-canonical-names-and-voice-lock-v1]] | 인물 음성 정본의 실제 위치 |
+> | `docs/07_style/combat-prose-harness-v1.md` | 삭제 | 별도 문서 없음. [[prose-bible]] §7 Action Writing Harness가 담당 |
+> | `docs/07_style/noncombat-description-harness-v1.md` | 삭제 | 별도 문서 없음. [[prose-bible]] 묘사 규칙이 담당 |
+> | `docs/00_project/gates4-5-opening-status-2026-08-03.md` | → [[gate-status-gates4-5-foundation]] | 실제 파일명 |
+>
+> 교체 후에도 Gate 0/1/2의 판정 상태(`PASS` / `CONDITIONAL PASS`)는 변경하지 않는다. 교체 대상 문서가 원래 인용이 주장하던 내용을 실제로 담고 있음을 확인했기 때문이다. 삭제한 2건은 Gate 1 판정에 추가 근거를 더하지 않는다.
 
 Status: REVIEW — EVIDENCE INDEX
 Owner Agents: O02 Gate / O01 Canon / X01 Logic / X02 Reader / X03 Ethics / X04 Continuity
@@ -20,7 +34,7 @@ Evidence states:
 - `OPEN` — required evidence still missing.
 - `BLOCKED` — cannot close until another item is complete.
 
-The authoritative gate remains `docs/99_quality_control/prewriting-gate.md` and remains closed until explicit final sign-off.
+The authoritative gate remains [[prewriting-gate]] and remains closed until explicit final sign-off.
 
 ---
 
@@ -30,10 +44,10 @@ Status:
 - **PASS**
 
 Evidence:
-- `CLAUDE.md`
-- `docs/00_project/pm-orchestra-agent-roster-v1.md`
-- `docs/00_project/expert-coverage-audit-v1.md`
-- `docs/00_project/context-window-handoff-protocol.md`
+- [[CLAUDE]]
+- [[agent-orchestra-registry-v1]]
+- [[agent-gap-audit]]
+- [[context-window-handoff-protocol]]
 
 Locked intent:
 - Korean long-form SF webnovel.
@@ -51,14 +65,12 @@ Status:
 - **CONDITIONAL PASS**
 
 Evidence:
-- `docs/07_style/gate1-korean-webnovel-pov-prose-calibration-v1.md`
-- `docs/07_style/writing-craft-bible-v1.md`
-- `docs/07_style/combat-prose-harness-v1.md`
-- `docs/07_style/noncombat-description-harness-v1.md`
-- `docs/07_style/character-voice-dialogue-bible-v1.md`
+- [[gate1-korean-webnovel-pov-prose-calibration-v1]]
+- [[prose-bible]]
+- [[core-canonical-names-and-voice-lock-v1]]
 - Gate 8 non-canon samples under `docs/07_style/gate8-*`
-- `docs/99_quality_control/gate8-noncanon-sample-evaluation-harness-v1.md`
-- `docs/99_quality_control/gate8-noncanon-samples-redteam.md`
+- [[gate8-noncanon-sample-evaluation-harness-v1]]
+- [[gate8-noncanon-samples-redteam]]
 
 Locked:
 - Rian close third as default.
@@ -83,8 +95,8 @@ Status:
 
 Evidence:
 - early design-direction and canon-selection documents in `docs/01_concept/` and project decision logs.
-- `docs/00_project/gates4-5-opening-status-2026-08-03.md`
-- `docs/00_project/culture-community-scale-status-2026-08-03.md`
+- [[gate-status-gates4-5-foundation]]
+- [[culture-community-scale-status-2026-08-03]]
 
 Locked canon concept:
 - former defeated admiral returns as correctional-academy cadet.
@@ -102,14 +114,14 @@ Status:
 - **PASS FOR MANUSCRIPT FOUNDATION**
 
 Evidence:
-- `docs/02_world/galaxy-node-fleet-economy-scale-v1.md`
-- `docs/02_world/opening-region-route-graph-v1.md`
-- `docs/03_academy/academy-scale-law-calibration-v1.md`
-- `docs/03_academy/academy-white-dock-map-v1.md`
-- `docs/06_hardware/first-ship-bible-v1.md`
+- [[galaxy-node-fleet-economy-scale-v1]]
+- [[opening-region-route-graph-v1]]
+- [[academy-scale-law-calibration-v1]]
+- [[academy-white-dock-map-v1]]
+- [[first-ship-bible-v1]]
 - world/physics/navigation/AI/mecha/fleet bibles in `docs/02_world`, `docs/03_systems`, `docs/06_hardware`
-- `docs/10_story_architecture/white-dock-action-diagram-and-state-sheet-v1.md`
-- `docs/03_systems/academy-central-command-segmentation-diagram-v1.md`
+- [[white-dock-action-diagram-and-state-sheet-v1]]
+- [[academy-central-command-segmentation-diagram-v1]]
 
 Locked:
 - travel/communication delays.
@@ -131,10 +143,10 @@ Status:
 - **PASS FOR FIRST 100 / CONDITIONAL PASS SERIES-WIDE**
 
 Evidence:
-- `docs/09_collection/first-100-collectible-registry-v1.md`
-- `docs/09_collection/ga2-collection-registry-v1.md`
+- [[first-100-collectible-registry-v1]]
+- [[ga2-collection-registry-v1]]
 - series collection/Archive/rights/institution bibles in `docs/09_collection`
-- `docs/10_story_architecture/first-100-act-map-v2-consolidated.md`
+- [[first-100-act-map-v2-consolidated]]
 - final payoff ledger documents.
 
 Locked:
@@ -157,11 +169,11 @@ Status:
 
 Evidence:
 - core character bibles in `docs/05_characters`
-- `docs/05_characters/academy-preference-representatives-v1.md`
-- `docs/05_characters/academy-charter-board-signatories-and-siege-commanders-v1.md`
-- `docs/05_characters/white-dock-focals-and-independence-operative-v1.md`
-- `docs/05_characters/imitation-cell-and-e45-incident-v1.md`
-- `docs/05_characters/academy-siege-casualties-v1.md`
+- [[academy-preference-representatives-v1]]
+- [[academy-charter-board-signatories-and-siege-commanders-v1]]
+- [[white-dock-focals-and-independence-operative-v1]]
+- [[imitation-cell-and-e45-incident-v1]]
+- [[academy-siege-casualties-v1]]
 - faction bibles in `docs/04_factions`
 - final canon name/voice/state documents.
 
@@ -188,7 +200,7 @@ Status:
 
 Evidence:
 - GA1–GA10 act maps and status files.
-- `docs/10_story_architecture/first-100-act-map-v2-consolidated.md`
+- [[first-100-act-map-v2-consolidated]]
 - GA2–GA10 architecture and red-team files.
 - cross-act causal audit and final state/canon documents.
 
@@ -233,14 +245,14 @@ Status:
 - **CONDITIONAL PASS — INTERNAL ONLY**
 
 Evidence:
-- `docs/07_style/gate8-noncanon-white-dock-action-sample-v1.md`
-- `docs/07_style/gate8-noncanon-central-key-action-sample-v1.md`
-- `docs/07_style/gate8-noncanon-ora3-consent-dialogue-sample-v1.md`
-- `docs/07_style/gate8-noncanon-package-charter-mobile-sample-v1.md`
-- `docs/99_quality_control/gate8-noncanon-sample-evaluation-harness-v1.md`
-- `docs/99_quality_control/gate8-noncanon-samples-redteam.md`
-- `docs/99_quality_control/gate8-human-mobile-test-packet-v1.md`
-- `docs/00_project/gate8-internal-validation-status-2026-08-03.md`
+- [[gate8-noncanon-white-dock-action-sample-v1]]
+- [[gate8-noncanon-central-key-action-sample-v1]]
+- [[gate8-noncanon-ora3-consent-dialogue-sample-v1]]
+- [[gate8-noncanon-package-charter-mobile-sample-v1]]
+- [[gate8-noncanon-sample-evaluation-harness-v1]]
+- [[gate8-noncanon-samples-redteam]]
+- [[gate8-human-mobile-test-packet-v1]]
+- [[gate8-internal-validation-status-2026-08-03]]
 
 Internal scores:
 - White Dock 4.55/5.

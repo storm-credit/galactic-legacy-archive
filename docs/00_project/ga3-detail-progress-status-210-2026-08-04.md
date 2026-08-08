@@ -28,14 +28,14 @@ The 1100-episode act/subact blueprint and the detailed-card numerator remain sep
 
 ## 2. B03-04 Files
 
-- `docs/10_story_architecture/detail/ga3-e286-292-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga3-e293-300-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga3-e301-310-episode-cards-v1.md`
-- `docs/00_project/ga3-b03-04-continuity-correction-001.md`
-- `docs/05_characters/ga3-denial-imperial-siege-front-stage-cast-e286-310-v1.md`
-- `docs/07_military/operations/ga3-e286-310-denial-imperial-siege-operation-state-v1.md`
-- `docs/09_collection/detail/ga3-e286-310-collection-and-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga3-e286-310-redteam-v1.md`
+- [[ga3-e286-292-episode-cards-v1]]
+- [[ga3-e293-300-episode-cards-v1]]
+- [[ga3-e301-310-episode-cards-v1]]
+- [[ga3-b03-04-continuity-correction-001]]
+- [[ga3-denial-imperial-siege-front-stage-cast-e286-310-v1]]
+- [[ga3-e286-310-denial-imperial-siege-operation-state-v1]]
+- [[ga3-e286-310-collection-and-loss-state-v1]]
+- [[ga3-e286-310-redteam-v1]]
 
 ## 3. Locked Results
 

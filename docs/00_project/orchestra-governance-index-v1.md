@@ -9,14 +9,14 @@ Purpose: authoritative navigation for specialist roles, review evidence, vetoes 
 
 For any future design task, read in this order:
 
-1. `CLAUDE.md` — overall PM-orchestra and design-only workflow;
-2. `docs/00_project/agent-orchestra-registry-v1.md` — fixed specialist codes and mandates;
-3. `docs/00_project/agent-execution-contract-and-veto-policy-v1.md` — execution modes, evidence and veto classes;
-4. `docs/99_quality_control/orchestra-domain-coverage-matrix-v1.md` — domain coverage and remaining evidence limits;
-5. `docs/00_project/document-review-signoff-ledger-v1.md` — retrospective signoff for existing settings-bible domains;
-6. `docs/00_project/effective-canon-status-manifest-v1.md` — effective status of legacy REVIEW/CANON files;
-7. `templates/specialist-review-record-template.md` — required record for future foundational/major artifacts;
-8. `docs/99_quality_control/orchestra-verification-audit-v1.md` — final orchestra ruling.
+1. [[CLAUDE]] — overall PM-orchestra and design-only workflow;
+2. [[agent-orchestra-registry-v1]] — fixed specialist codes and mandates;
+3. [[agent-execution-contract-and-veto-policy-v1]] — execution modes, evidence and veto classes;
+4. [[orchestra-domain-coverage-matrix-v1]] — domain coverage and remaining evidence limits;
+5. [[document-review-signoff-ledger-v1]] — retrospective signoff for existing settings-bible domains;
+6. [[effective-canon-status-manifest-v1]] — effective status of legacy REVIEW/CANON files;
+7. [[specialist-review-record-template]] — required record for future foundational/major artifacts;
+8. [[orchestra-verification-audit-v1]] — final orchestra ruling.
 
 ## 2. Official Orchestra Claim
 

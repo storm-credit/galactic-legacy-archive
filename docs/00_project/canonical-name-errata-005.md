@@ -4,7 +4,7 @@ Status: CANON OVERRIDE
 Owner Agent: O01 Canon
 Last Reviewed: 2026-08-08
 Decision Authority: Author explicit instruction
-Supersedes: P-001 reader-facing name in `docs/05_characters/core-canonical-names-and-voice-lock-v1.md`, the unlocked identity field in `docs/05_characters/protagonist-p001-bible-v1.md`, and every matching reader-facing reference in scene cards, manuscripts, indices and design documents
+Supersedes: P-001 reader-facing name in [[core-canonical-names-and-voice-lock-v1]], the unlocked identity field in [[protagonist-p001-bible-v1]], and every matching reader-facing reference in scene cards, manuscripts, indices and design documents
 
 ## Correction
 

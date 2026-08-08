@@ -23,13 +23,13 @@ Grand-act breakdown:
 
 ## 2. B07-04 Files
 
-- `docs/10_story_architecture/detail/ga7-e766-775-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga7-e776-783-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga7-e784-790-episode-cards-v1.md`
-- `docs/08_institutions/ga7-e766-790-haren-verdict-and-provisional-federation-state-v1.md`
-- `docs/05_characters/ga7-inquiry-federation-cast-e766-790-v1.md`
-- `docs/09_collection/detail/ga7-e766-790-verdict-reparations-and-federation-state-v1.md`
-- `docs/99_quality_control/detail/ga7-e766-790-redteam-v1.md`
+- [[ga7-e766-775-episode-cards-v1]]
+- [[ga7-e776-783-episode-cards-v1]]
+- [[ga7-e784-790-episode-cards-v1]]
+- [[ga7-e766-790-haren-verdict-and-provisional-federation-state-v1]]
+- [[ga7-inquiry-federation-cast-e766-790-v1]]
+- [[ga7-e766-790-verdict-reparations-and-federation-state-v1]]
+- [[ga7-e766-790-redteam-v1]]
 
 ## 3. E766–775 Consequence and Common Facts
 

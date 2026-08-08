@@ -24,13 +24,13 @@ Grand-act breakdown:
 
 ## 2. B08-02 Files
 
-- `docs/10_story_architecture/detail/ga8-e826-835-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga8-e836-843-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga8-e844-850-episode-cards-v1.md`
-- `docs/08_institutions/ga8-e826-850-four-founding-histories-and-current-rights-state-v1.md`
-- `docs/05_characters/ga8-four-founding-histories-and-serrat-current-parties-e826-850-v1.md`
-- `docs/09_collection/detail/ga8-e826-850-founding-record-contract-standing-and-seed-state-v1.md`
-- `docs/99_quality_control/detail/ga8-e826-850-redteam-v1.md`
+- [[ga8-e826-835-episode-cards-v1]]
+- [[ga8-e836-843-episode-cards-v1]]
+- [[ga8-e844-850-episode-cards-v1]]
+- [[ga8-e826-850-four-founding-histories-and-current-rights-state-v1]]
+- [[ga8-four-founding-histories-and-serrat-current-parties-e826-850-v1]]
+- [[ga8-e826-850-founding-record-contract-standing-and-seed-state-v1]]
+- [[ga8-e826-850-redteam-v1]]
 
 ## 3. Four Founding Histories
 

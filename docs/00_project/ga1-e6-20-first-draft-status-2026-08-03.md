@@ -33,8 +33,8 @@ Open Risks: publication compression and human/mobile validation
 
 ## Quality Evidence
 
-- `docs/99_quality_control/ga1-e6-20-first-draft-continuity-voice-audit-v1.md`
-- `docs/99_quality_control/ga1-e6-20-first-draft-redteam.md`
+- [[ga1-e6-20-first-draft-continuity-voice-audit-v1]]
+- [[ga1-e6-20-first-draft-redteam]]
 
 ## Corrections Applied
 

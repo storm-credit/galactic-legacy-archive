@@ -20,7 +20,7 @@ Open Risks: Over-standardization, artificial rhythm, exposition overload
 ## 2. Point of View
 
 확정 정본 (2026-08-06 갱신 — gate1 calibration §3 확정 반영, F-08 해소):
-- **기본 정본: 리안 근접(밀착) 3인칭.** 샘플 비교 테스트 완료로 확정됨 (`docs/07_style/gate1-korean-webnovel-pov-prose-calibration-v1.md` §3, §11).
+- **기본 정본: 리안 근접(밀착) 3인칭.** 샘플 비교 테스트 완료로 확정됨 ([[gate1-korean-webnovel-pov-prose-calibration-v1]] §3, §11).
 - 1인칭은 작중 증언·일지·기록 단편에만 한정한다.
 - 한 장면 안에서 관점 인물을 바꾸지 않는다. 한 장면 = 한 초점 인물.
 - 주인공이 알 수 없는 정치·음모는 별도 장면 또는 결과로 드러낸다. 보조 POV는 gate1 §9 규칙(진입 조건, 저비용 정보 공개 목적 회전 금지)을 따른다.

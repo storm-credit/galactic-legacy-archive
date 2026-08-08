@@ -4,7 +4,7 @@ Status: REVIEW — AUDIT RECORD
 Owner Agents: O02 Gates / O01 Canon / X01 Logic / X04 Continuity / L01 Prose
 Last Reviewed: 2026-08-06
 Depends On: 저장소 전체 정본 문서 (감사 방법: 7영역 병렬 정밀 감사 + 발견 항목별 독립 반증 검증, 도구 호출 405회)
-Used By: `docs/00_project/pre-writing-gate-review-v1.md`
+Used By: [[pre-writing-gate-review-v1]]
 Open Risks: 본 감사는 AI 감사이며 인간 독자 검증(issue #26)을 대체하지 않는다.
 
 ## 0. 총평
@@ -15,21 +15,21 @@ Open Risks: 본 감사는 AI 감사이며 인간 독자 검증(issue #26)을 대
 
 ## 1. 시점 (POV) — READY
 
-- 리안 근접 3인칭이 정본으로 확정: `docs/07_style/gate1-korean-webnovel-pov-prose-calibration-v1.md` §3 ("리안 근접 3인칭을 기본 정본 시점으로 채택한다"), §11 "CLOSE THIRD SELECTED".
+- 리안 근접 3인칭이 정본으로 확정: [[gate1-korean-webnovel-pov-prose-calibration-v1]] §3 ("리안 근접 3인칭을 기본 정본 시점으로 채택한다"), §11 "CLOSE THIRD SELECTED".
 - 1인칭은 작중 증언·일지·기록 단편에만 허용. 장면당 초점 인물 1명. 시리즈 전체 리안 POV 55~65% 목표까지 수치화.
 - 비리안 POV 진입 조건과 "저비용 정보 공개 목적 회전 금지"는 gate1 §9; GA2+ 상세 카드가 씬 단위로 초점을 지정.
-- 결함: `docs/13_writing_harness/prose-bible.md` §2가 여전히 "1인칭 또는 밀착 3인칭 중 샘플 테스트 후 고정"으로 서술(F-08, S2) — 확정 결정 미반영. 하네스만 읽는 집필자가 POV를 열린 문제로 오인할 수 있음.
+- 결함: [[prose-bible]] §2가 여전히 "1인칭 또는 밀착 3인칭 중 샘플 테스트 후 고정"으로 서술(F-08, S2) — 확정 결정 미반영. 하네스만 읽는 집필자가 POV를 열린 문제로 오인할 수 있음.
 
 ## 2. 문체 — READY
 
 - 중문장 기본 호흡, 단문은 충격·선택 예약: prose-bible §3, CLAUDE.md 절대규칙 5.
-- 승인 문체 변형: "E1 v2 모바일형 근접 3인칭"(`docs/07_style/noncanon-episode-1-close-third-sample-v2-mobile.md`) — gate8 내부 평가 4종(4.42~4.75/5), 레드팀, AI 프록시 8세션 통과.
-- 한계: 승인 근거가 전부 AI 프록시. 인간·실기기 검증은 `gate8-human-mobile-test-packet-v1.md` "READY — HUMAN RESULTS NOT YET COLLECTED"(F-09, S2). 인간 결과에 따라 E1~5 재수정 가능성이 override §4에 명시됨.
+- 승인 문체 변형: "E1 v2 모바일형 근접 3인칭"([[noncanon-episode-1-close-third-sample-v2-mobile]]) — gate8 내부 평가 4종(4.42~4.75/5), 레드팀, AI 프록시 8세션 통과.
+- 한계: 승인 근거가 전부 AI 프록시. 인간·실기기 검증은 [[gate8-human-mobile-test-packet-v1]] "READY — HUMAN RESULTS NOT YET COLLECTED"(F-09, S2). 인간 결과에 따라 E1~5 재수정 가능성이 override §4에 명시됨.
 
 ## 3. 정보 상한 — READY
 
-- 리안이 아는 것: protagonist bible §5 + `rian-index-removal-memory-and-medical-state-v1.md` §2~5가 GA별로 정의(미래기억 불완전·압축·신체 비용).
-- 독자가 알아도 되는 것: `m001-m020-early-clue-episode-ledger-v1.md`가 스레드당 3개 이상 복선 회차를 잠그고, §4가 E1~100에서 후기 용어("Authority F/G", "unrecorded connector" 등) 사용을 금지.
+- 리안이 아는 것: protagonist bible §5 + [[rian-index-removal-memory-and-medical-state-v1]] §2~5가 GA별로 정의(미래기억 불완전·압축·신체 비용).
+- 독자가 알아도 되는 것: [[m001-m020-early-clue-episode-ledger-v1]]가 스레드당 3개 이상 복선 회차를 잠그고, §4가 E1~100에서 후기 용어("Authority F/G", "unrecorded connector" 등) 사용을 금지.
 - 잔여(S3): E1 훅 "[미등록 서비스 권한이 응답했습니다.]"와 후기 금지 용어 사이 경계 판정 미기록(F-19); 보조 POV 씬의 단서 상한 규칙이 암묵적(F-20).
 
 ## 4. 회차 구조 — 조건부 READY (S1 1건)
@@ -41,7 +41,7 @@ Open Risks: 본 감사는 AI 감사이며 인간 독자 검증(issue #26)을 대
 ## 5. 장면 구조 — READY
 
 - 한 장면 = 한 초점, 장면당 목표·갈등·상태변화·다음 문제 필수: 장면 카드 공유 제약 + production standard.
-- E1~100 장면 카드 16파일 전량 실재, E21~45 변경은 `ga1-e21-45-continuity-change-record.md`로 봉합.
+- E1~100 장면 카드 16파일 전량 실재, E21~45 변경은 [[ga1-e21-45-continuity-change-record]]로 봉합.
 - 결함: `first-100-act-map-v2` A2/A3(E6~15) 한 줄 요약이 실제 카드와 불일치(F-05, S2 CONFIRMED — v2 E6="07 소유권"인데 실제 E6="열세 칸", E13="서비스 권한"인데 실제 "네라 비크, 사망" 등). 카드·초고가 옳고 요약이 낡음. 변경 기록 필요.
 
 ## 6. 전투 묘사 — READY (S0·S1 없음)
@@ -64,16 +64,16 @@ Open Risks: 본 감사는 AI 감사이며 인간 독자 검증(issue #26)을 대
 
 ## 9. 복선 관리 — READY (S2 각주 2건)
 
-- M-001~M-020 결정적 회차·장소·POV·비용·제도변화 잠금(±2화 변경통제): `final-payoff-scene-ledger-locked-v1.md`.
-- 조기 복선: `m001-m020-early-clue-episode-ledger-v1.md` (GA1 내 E1,2,3,4,6,7,8,11,13,18,19,20).
+- M-001~M-020 결정적 회차·장소·POV·비용·제도변화 잠금(±2화 변경통제): [[final-payoff-scene-ledger-locked-v1]].
+- 조기 복선: [[m001-m020-early-clue-episode-ledger-v1]] (GA1 내 E1,2,3,4,6,7,8,11,13,18,19,20).
 - **F-13 (S2, CONFIRMED)**: M-004(하렌) 결정 장면 E794 잠금이 errata-004의 판결 E783/CY 745-08과 약 11화 충돌 — ledger 자체의 ±2화 규칙 위반이며 변경 기록 없음. GA7 상세 카드가 우선함을 각주로 명기 필요.
-- **F-14 (S2, CONFIRMED)**: `secondary-mystery-decoy-and-retirement-ledger-v1.md`의 Core relation 열이 구식 M-번호 사용(예: SM-03이 하렌을 M-003으로 표기하나 잠금본은 M-004). SM-01~03 활성 구간(E2~20)이 첫 배치와 직접 겹침 — 리매핑 또는 경고 헤더 필요. 질문/거짓답/실답/은퇴 열 자체는 정확.
+- **F-14 (S2, CONFIRMED)**: [[secondary-mystery-decoy-and-retirement-ledger-v1]]의 Core relation 열이 구식 M-번호 사용(예: SM-03이 하렌을 M-003으로 표기하나 잠금본은 M-004). SM-01~03 활성 구간(E2~20)이 첫 배치와 직접 겹침 — 리매핑 또는 경고 헤더 필요. 질문/거짓답/실답/은퇴 열 자체는 정확.
 
 ## 10. 영구상태 반영 — READY (S2 1건)
 
 - 5인 사망·영구손실: 회차·원인·행위주체성·애도 창·무반전 조항 명시. 25화 블록별 손실 상태표 + 부활 공격 레드팀이 부활 방지 메커니즘으로 작동.
-- 시대별 권한 상태(17모듈·43커넥터·하렌 제재): `ga1-10-state-checkpoint-matrix-v1.md` + `ga1-10-operational-checkpoint-snapshots-v1.md`로 GA 경계·블록 단위 추적 가능.
-- **F-12 (S2, CONFIRMED)**: 작가용 단일 손실 원장 `named-loss-and-irreversible-transformation-ledger-v1.md`(08-03판)가 구식 — (1) L-H05 'Rin Osa' 표기(정본 Lin Osa), (2) "하나의 장부"(정본은 네 개의 원장), (3) 세라트 현재 AI 3명 사망·아르디스 73t 봉인 모듈 누락, (4) 조사 창 E789~798(정본 E766~790, 판결 E783). "충돌 시 errata-004·GA7 상세가 통제" 부록 1절로 해소 가능.
+- 시대별 권한 상태(17모듈·43커넥터·하렌 제재): [[ga1-10-state-checkpoint-matrix-v1]] + [[ga1-10-operational-checkpoint-snapshots-v1]]로 GA 경계·블록 단위 추적 가능.
+- **F-12 (S2, CONFIRMED)**: 작가용 단일 손실 원장 [[named-loss-and-irreversible-transformation-ledger-v1]](08-03판)가 구식 — (1) L-H05 'Rin Osa' 표기(정본 Lin Osa), (2) "하나의 장부"(정본은 네 개의 원장), (3) 세라트 현재 AI 3명 사망·아르디스 73t 봉인 모듈 누락, (4) 조사 창 E789~798(정본 E766~790, 판결 E783). "충돌 시 errata-004·GA7 상세가 통제" 부록 1절로 해소 가능.
 
 ## 11. 숫자·연대 정합성 — READY (대부분 일관)
 
@@ -100,7 +100,7 @@ Open Risks: 본 감사는 AI 감사이며 인간 독자 검증(issue #26)을 대
 | ID | 발견 | 위치 | 해결 |
 |---|---|---|---|
 | F-01 | 플랫폼·공모전 미확정 + 자수 산정 기준 미정의 | gate1 §5, project-charter:17, revision-harness Pass 12 | **부분 해소(2026-08-06 작가 판정)**: 분량 상한 유연("더 길어도 상관없음") → 압축 패스는 밀도·반복 정리로 재정의, 본 항목 S1→S2 하향. 잔여: 플랫폼/공모전 선정·공백 기준은 출판 전 확정(`[ASSUMPTION]` 공백 포함·하한 5,500자) |
-| F-02 | issue #26 지위 3문서 상호 모순(집필 전 vs 출판 전 블로커) — 핵심은 restoration §8의 supersede가 override의 재분류까지 무효화했는지의 해석 분기 | dry-audit §5 vs autonomous-override §4 vs restoration §4 | **해결 제안서 제출**: `docs/00_project/issue-26-status-resolution-proposal-v1.md` (출판 전 블로커로 신규 작가 판정, 위험 통제 6항). 작가 승인 대기 |
+| F-02 | issue #26 지위 3문서 상호 모순(집필 전 vs 출판 전 블로커) — 핵심은 restoration §8의 supersede가 override의 재분류까지 무효화했는지의 해석 분기 | dry-audit §5 vs autonomous-override §4 vs restoration §4 | **해결 제안서 제출**: [[issue-26-status-resolution-proposal-v1]] (출판 전 블로커로 신규 작가 판정, 위험 통제 6항). 작가 승인 대기 |
 
 ### S2 (첫 배치 중 필수 정정 — 문서 패치 수준)
 
@@ -111,14 +111,14 @@ Open Risks: 본 감사는 AI 감사이며 인간 독자 검증(issue #26)을 대
 | F-05 | first-100-act-map-v2 A2/A3(E6~15) 요약 드리프트, 변경 기록 없음 | first-100-act-map-v2-consolidated.md |
 | F-06 | E1~20 구 상태문서의 'CANON PROJECT CONTROL' 헤더 오독 위험 + 'Locked Development Outcomes' 오염 위험 | ga1-e1-5/e6-20-first-draft-status, manuscript/ga1/ 헤더 |
 | F-07 | E1~20 초고 잔존 S1 5건(압축·미래기억 밀도·E14/E18 반복) 2차 패스 미실행 | ga1-e1-5/e6-20-first-draft-status |
-| F-08 | prose-bible §2 POV '미확정' 서술 잔존 | docs/13_writing_harness/prose-bible.md §2 |
+| F-08 | prose-bible §2 POV '미확정' 서술 잔존 | [[prose-bible]] §2 |
 | F-09 | 인간·실기기 모바일 검증 미실행(승인 근거 전부 AI 프록시) | gate8-human-mobile-test-packet-v1.md §12 |
 | F-10 | manifest §3/§4·deliverables-index 노후(에라타 003/004, E101~1100 완료 미반영) | effective-canon-status-manifest-v1.md |
 | F-11 | decision-log가 2026-08-03 이후 정본 변경 미기록 | decision-log.md (마지막 D-20260803-07) |
 | F-12 | named-loss ledger 구식(Lin Osa·네 원장·세라트 AI·아르디스 73t·조사 창) | docs/12_losses/named-loss-...-v1.md |
 | F-13 | M-004 결정 장면 E794 vs 판결 E783 — ±2화 규칙 초과 충돌, 미기록 | final-payoff-scene-ledger-locked-v1.md |
 | F-14 | secondary-mystery ledger Core relation 열 구식 M-번호 | secondary-mystery-decoy-and-retirement-ledger-v1.md |
-| F-15 | continuity-issues.md 부재(revision-harness Pass 4 참조 대상) + S0~S4/S0~S3 등급 대응표 부재 | revision-harness.md:62 → `docs/99_quality_control/continuity-issues.md` 생성 필요 |
+| F-15 | continuity-issues.md 부재(revision-harness Pass 4 참조 대상) + S0~S4/S0~S3 등급 대응표 부재 | revision-harness.md:62 → [[continuity-issues]] 생성 필요 |
 
 ### S3 (개선 권장 — 차단 아님)
 
@@ -133,14 +133,14 @@ Open Risks: 본 감사는 AI 감사이며 인간 독자 검증(issue #26)을 대
 | F-22 | 기록전쟁 전용 산문 샘플 부재(GA8 전 권장) | docs/07_style/ |
 | F-23 | 'Rin/Lin Osa' 로마자 혼재 구형 파일 5곳 | m001-m020 원장 E762 항목 외 |
 | F-24 | 게이트 문서군(08-03판) 상태 서술 시효 경과 — 판정 자체는 유효 | dry-audit §10, evidence-matrix §8 |
-| F-25 | E1~5 장면 카드가 비정본 딱지인 채 v2가 존재하지 않는 파일명(`ga1-episodes-1-5-scene-cards-v1.md`) 인용 | first-100-act-map-v2 A1절 |
+| F-25 | E1~5 장면 카드가 비정본 딱지인 채 v2가 존재하지 않는 파일명([[ga1-episodes-1-5-noncanon-scene-cards-v1]]) 인용 | first-100-act-map-v2 A1절 |
 | F-26 | 손실·payoff 장부의 의도적 OPEN 항목에 배치별 기한 매핑 없음(첫 영향 E139~150, GA2) | deferred-design-register 연결 필요 |
 | F-27 | POV·문체 확정이 decision-log D-entry 미등재 | decision-log.md |
 
 ### 기각된 발견 (REFUTED — 기록 목적)
 
 - "E1~20 지위의 PC 대 PC 충돌 미해소" → restoration §8의 명시적 supersede + manifest §3/§5로 기계적 해소 확인(오독 위험만 F-06으로 잔존).
-- "작가 승인·정본화 절차 미정의" → 본 PR의 `manuscript-production-workflow-v1.md` §3.6/§3.8이 정의(신설 문서임을 명기).
+- "작가 승인·정본화 절차 미정의" → 본 PR의 [[manuscript-production-workflow-v1]] §3.6/§3.8이 정의(신설 문서임을 명기).
 
 ## 14. 감사 한계
 

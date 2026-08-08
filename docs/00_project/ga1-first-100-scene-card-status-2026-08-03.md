@@ -85,10 +85,10 @@ No identity/Archive reveal may reverse physical deaths or costs.
 
 ## Superseded Document
 
-`docs/10_story_architecture/first-100-act-map-v1.md` remains historical/reference material.
+[[first-100-act-map-v1]] remains historical/reference material.
 
 For episode placement, timing and current outcomes use:
-- `docs/10_story_architecture/first-100-act-map-v2-consolidated.md`.
+- [[first-100-act-map-v2-consolidated]].
 
 ## Remaining First-100 Work Before Canonical Prose
 

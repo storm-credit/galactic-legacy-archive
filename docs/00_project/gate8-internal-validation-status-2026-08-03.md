@@ -21,7 +21,7 @@ Depends On: four Gate 8 non-canon samples, evaluation harness, red-team, human-t
 - independent Haren, Nera, Mia, Serin and worker actions.
 
 File:
-- `docs/07_style/gate8-noncanon-white-dock-action-sample-v1.md`
+- [[gate8-noncanon-white-dock-action-sample-v1]]
 
 ### Academy central-key action
 
@@ -32,7 +32,7 @@ File:
 - Rian records rather than erases the cost.
 
 File:
-- `docs/07_style/gate8-noncanon-central-key-action-sample-v1.md`
+- [[gate8-noncanon-central-key-action-sample-v1]]
 
 ### ORA-3 consent/provenance dialogue
 
@@ -43,7 +43,7 @@ File:
 - one future-significant research fragment is genuinely deleted/withheld.
 
 File:
-- `docs/07_style/gate8-noncanon-ora3-consent-dialogue-sample-v1.md`
+- [[gate8-noncanon-ora3-consent-dialogue-sample-v1]]
 
 ### Takeover package and charter mobile explanation
 
@@ -54,7 +54,7 @@ File:
 - funding gap causally launches the distressed first-ship mission.
 
 File:
-- `docs/07_style/gate8-noncanon-package-charter-mobile-sample-v1.md`
+- [[gate8-noncanon-package-charter-mobile-sample-v1]]
 
 ## Internal Scores
 
@@ -67,10 +67,10 @@ These are internal author-side scores only.
 They do not prove reader response.
 
 Evaluation:
-- `docs/99_quality_control/gate8-noncanon-sample-evaluation-harness-v1.md`
+- [[gate8-noncanon-sample-evaluation-harness-v1]]
 
 Red-team:
-- `docs/99_quality_control/gate8-noncanon-samples-redteam.md`
+- [[gate8-noncanon-samples-redteam]]
 
 ## Human-Test Packet
 
@@ -84,7 +84,7 @@ Prepared for issue #26:
 - continuation-interest and skim questions.
 
 File:
-- `docs/99_quality_control/gate8-human-mobile-test-packet-v1.md`
+- [[gate8-human-mobile-test-packet-v1]]
 
 ## Current Human Blockers
 
@@ -115,7 +115,7 @@ Without waiting for human feedback, continue with tasks that do not depend on re
 1. create exact White Dock and Academy central-interface action diagrams/state sheets;
 2. create the individual 23-patient allocation and adapter-complication ledger;
 3. lock initial charter board seats/signatories and siege command actors;
-4. update `prewriting-gate.md` evidence links while leaving human items FAIL/OPEN;
+4. update [[prewriting-gate]] evidence links while leaving human items FAIL/OPEN;
 5. run a full Pre-Writing Gate dry audit without authorizing manuscript drafting.
 
 Do not revise the four samples based solely on internal preference before first human results.

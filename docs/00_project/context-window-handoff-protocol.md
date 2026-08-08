@@ -3,7 +3,7 @@
 Status: CANON PROJECT CONTROL
 Owner Agent: PM Orchestrator / Context Custodian
 Last Reviewed: 2026-08-03
-Depends On: `CLAUDE.md`, GitHub workflow, project status documents
+Depends On: [[CLAUDE]], GitHub workflow, project status documents
 Used By: every long-running AI work session
 Open Risks: platform context capacity cannot be measured exactly; trigger conservatively before continuity degrades
 

@@ -25,13 +25,13 @@ Grand-act breakdown:
 
 ## 2. B09-03 Files
 
-- `docs/10_story_architecture/detail/ga9-e951-960-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga9-e961-968-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga9-e969-975-episode-cards-v1.md`
-- `docs/08_institutions/ga9-e951-975-central-continuity-command-key-and-assault-state-v1.md`
-- `docs/05_characters/ga9-central-key-rian-aven-command-and-affected-cast-e951-975-v1.md`
-- `docs/09_collection/detail/ga9-e951-975-central-key-command-action-fleet-and-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga9-e951-975-redteam-v1.md`
+- [[ga9-e951-960-episode-cards-v1]]
+- [[ga9-e961-968-episode-cards-v1]]
+- [[ga9-e969-975-episode-cards-v1]]
+- [[ga9-e951-975-central-continuity-command-key-and-assault-state-v1]]
+- [[ga9-central-key-rian-aven-command-and-affected-cast-e951-975-v1]]
+- [[ga9-e951-975-central-key-command-action-fleet-and-loss-state-v1]]
+- [[ga9-e951-975-redteam-v1]]
 
 ## 3. Assault Envelope
 

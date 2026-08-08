@@ -21,15 +21,15 @@ Grand-act breakdown:
 
 ## 2. B05-02 Files
 
-- `docs/10_story_architecture/detail/ga5-e476-480-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga5-e481-487-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga5-e488-494-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga5-e495-500-episode-cards-v1.md`
-- `docs/00_project/ga5-b05-02-continuity-clarification-001.md`
-- `docs/07_military/operations/ga5-e476-500-charter-tender-maintenance-pay-operation-state-v1.md`
-- `docs/05_characters/ga5-tender-maintenance-rescue-cast-e476-500-v1.md`
-- `docs/09_collection/detail/ga5-e476-500-charter-maintenance-pay-rescue-state-v1.md`
-- `docs/99_quality_control/detail/ga5-e476-500-redteam-v1.md`
+- [[ga5-e476-480-episode-cards-v1]]
+- [[ga5-e481-487-episode-cards-v1]]
+- [[ga5-e488-494-episode-cards-v1]]
+- [[ga5-e495-500-episode-cards-v1]]
+- [[ga5-b05-02-continuity-clarification-001]]
+- [[ga5-e476-500-charter-tender-maintenance-pay-operation-state-v1]]
+- [[ga5-tender-maintenance-rescue-cast-e476-500-v1]]
+- [[ga5-e476-500-charter-maintenance-pay-rescue-state-v1]]
+- [[ga5-e476-500-redteam-v1]]
 
 ## 3. Charter v0.1
 

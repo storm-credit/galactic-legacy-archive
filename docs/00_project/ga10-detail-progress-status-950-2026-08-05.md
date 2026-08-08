@@ -26,13 +26,13 @@ Grand-act breakdown:
 
 ## 2. B10-02 Files
 
-- `docs/10_story_architecture/detail/ga10-e1026-1035-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga10-e1036-1043-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga10-e1044-1050-episode-cards-v1.md`
-- `docs/08_institutions/ga10-e1026-1050-choice-stability-opt-in-and-plural-corridor-state-v1.md`
-- `docs/05_characters/ga10-stability-choice-referendum-and-plural-defense-cast-e1026-1050-v1.md`
-- `docs/09_collection/detail/ga10-e1026-1050-node-mandates-stability-modules-choice-and-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga10-e1026-1050-redteam-v1.md`
+- [[ga10-e1026-1035-episode-cards-v1]]
+- [[ga10-e1036-1043-episode-cards-v1]]
+- [[ga10-e1044-1050-episode-cards-v1]]
+- [[ga10-e1026-1050-choice-stability-opt-in-and-plural-corridor-state-v1]]
+- [[ga10-stability-choice-referendum-and-plural-defense-cast-e1026-1050-v1]]
+- [[ga10-e1026-1050-node-mandates-stability-modules-choice-and-loss-state-v1]]
+- [[ga10-e1026-1050-redteam-v1]]
 
 ## 3. Node Mandates
 

@@ -50,11 +50,11 @@ Mitigation:
 
 Episodes 1–5 must use:
 
-- `docs/10_story_architecture/ga1-episodes-1-5-noncanon-scene-cards-v1.md` for current tested scene order, promoted only as drafting input rather than manuscript text.
-- `docs/03_systems/academy-and-07-opening-operational-state-v1.md` for 07 and Rian limits.
-- `docs/05_characters/core-canonical-names-and-voice-lock-v1.md` for names and voices.
-- `docs/07_style/gate1-korean-webnovel-pov-prose-calibration-v1.md` for close-third prose.
-- `docs/07_style/noncanon-episode-1-close-third-sample-v2-mobile.md` for opening calibration.
+- [[ga1-episodes-1-5-noncanon-scene-cards-v1]] for current tested scene order, promoted only as drafting input rather than manuscript text.
+- [[academy-and-07-opening-operational-state-v1]] for 07 and Rian limits.
+- [[core-canonical-names-and-voice-lock-v1]] for names and voices.
+- [[gate1-korean-webnovel-pov-prose-calibration-v1]] for close-third prose.
+- [[noncanon-episode-1-close-third-sample-v2-mobile]] for opening calibration.
 - all later first-100 continuity records where they retroactively constrain opening facts.
 
 ## 4. Drafting Rules

@@ -67,7 +67,7 @@ Ready local cutters:
 
 Ruling:
 - E301 canonical count is 7;
-- the isolated card line stating 8 is superseded by `ga3-b03-04-continuity-correction-001.md`;
+- the isolated card line stating 8 is superseded by [[ga3-b03-04-continuity-correction-001]];
 - operation/collection/audit use 7.
 
 Local ready military/security frames:

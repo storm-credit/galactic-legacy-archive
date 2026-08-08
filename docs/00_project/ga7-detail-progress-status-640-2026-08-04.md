@@ -23,13 +23,13 @@ Grand-act breakdown:
 
 ## 2. B07-02 Files
 
-- `docs/10_story_architecture/detail/ga7-e716-723-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga7-e724-732-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga7-e733-740-episode-cards-v1.md`
-- `docs/06_law/ga7-e716-740-blood-admiral-signature-and-d4-authority-state-v1.md`
-- `docs/05_characters/ga7-blood-admiral-investigation-cast-e716-740-v1.md`
-- `docs/09_collection/detail/ga7-e716-740-blood-admiral-signature-d4-and-payoff-state-v1.md`
-- `docs/99_quality_control/detail/ga7-e716-740-redteam-v1.md`
+- [[ga7-e716-723-episode-cards-v1]]
+- [[ga7-e724-732-episode-cards-v1]]
+- [[ga7-e733-740-episode-cards-v1]]
+- [[ga7-e716-740-blood-admiral-signature-and-d4-authority-state-v1]]
+- [[ga7-blood-admiral-investigation-cast-e716-740-v1]]
+- [[ga7-e716-740-blood-admiral-signature-d4-and-payoff-state-v1]]
+- [[ga7-e716-740-redteam-v1]]
 
 ## 3. Investigation Corpus
 

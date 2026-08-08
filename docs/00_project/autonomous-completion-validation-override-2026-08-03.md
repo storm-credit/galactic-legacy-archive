@@ -29,7 +29,7 @@ Issue #26 originally allowed:
 For autonomous completion, eight isolated AI proxy rubric sessions are accepted as equivalent **internal** reader sessions.
 
 Evidence:
-- `docs/99_quality_control/gate1-ai-proxy-reader-results-2026-08-03.md`.
+- [[gate1-ai-proxy-reader-results-2026-08-03]].
 
 The substitution is valid only for internal drafting authorization.
 

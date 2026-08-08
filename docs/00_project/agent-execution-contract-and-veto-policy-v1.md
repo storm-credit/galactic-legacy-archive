@@ -3,7 +3,7 @@
 Status: CANON PROJECT CONTROL
 Owner Agents: A00 PM / O01 Canon / O02 Gates / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: agent orchestra registry, `CLAUDE.md`
+Depends On: agent orchestra registry, [[CLAUDE]]
 Used By: every new foundational design artifact and every future canon revision
 Open Risks: excessive process overhead for local details; use the proportional-review rule
 

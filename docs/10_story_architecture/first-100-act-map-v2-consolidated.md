@@ -6,7 +6,7 @@ Last Reviewed: 2026-08-03
 Depends On: E1–100 scene-card packets, Academy/07 operational states, collection/character/payoff bibles
 Used By: manuscript gating, first-100 revision, GA2 transition, reader/mobile tests
 Open Risks: human/mobile prose validation and exact minor cast/scene compression remain open
-Supersedes: `first-100-act-map-v1.md` for episode placement, character-entry timing and scene-card outcomes
+Supersedes: [[first-100-act-map-v1]] for episode placement, character-entry timing and scene-card outcomes
 
 ## 1. Canon Scope
 
@@ -63,7 +63,7 @@ E5:
 - cell creates a bounded fourth/fifth process rather than selecting a victim.
 
 Exact cards:
-- `ga1-episodes-1-5-scene-cards-v1.md`.
+- [[ga1-episodes-1-5-noncanon-scene-cards-v1]].
 
 ## A2 — 나사 하나의 소유권 / Episodes 6–10
 
@@ -83,7 +83,7 @@ E10:
 - Soma Ren proves administratively dead can be physically alive.
 
 Exact cards:
-- `ga1-episodes-6-10-scene-cards-v1.md`.
+- [[ga1-episodes-6-10-scene-cards-v1]].
 
 ## A3 — 미래의 적은 아직 학생을 죽이지 않았다 / Episodes 11–15
 
@@ -103,7 +103,7 @@ E15:
 - Helix certified safety genuinely prevents harm while ownership/control conflict grows.
 
 Exact cards:
-- `ga1-episodes-11-15-scene-cards-v1.md`.
+- [[ga1-episodes-11-15-scene-cards-v1]].
 
 ## A4 — 첫 번째 배신시험 / Episodes 16–20
 
@@ -124,7 +124,7 @@ E20:
 - team departs; White Dock outer door opens with Ern already inside.
 
 Exact cards:
-- `ga1-episodes-16-20-scene-cards-v1.md`.
+- [[ga1-episodes-16-20-scene-cards-v1]].
 
 ---
 
@@ -170,7 +170,7 @@ E26:
 - conditional return; component map; Juno makes an impossible confession.
 
 Exact cards:
-- `ga1-episodes-21-26-scene-cards-v1.md`.
+- [[ga1-episodes-21-26-scene-cards-v1]].
 
 ## B2 — 가짜 범인 / Episodes 27–32
 
@@ -194,7 +194,7 @@ E32:
 - Juno chooses a separate path, not Rian’s team.
 
 Exact cards:
-- `ga1-episodes-27-32-scene-cards-v1.md`.
+- [[ga1-episodes-27-32-scene-cards-v1]].
 
 ## B3 — 부품 경매 / Episodes 33–38
 
@@ -217,7 +217,7 @@ E38:
 - official Imperial core receipt shown physically false; core never entered declared vault.
 
 Exact cards:
-- `ga1-episodes-33-38-scene-cards-v1.md`.
+- [[ga1-episodes-33-38-scene-cards-v1]].
 
 ## B4 — 사라진 코어 / Episodes 39–45
 
@@ -244,7 +244,7 @@ E45:
 - C-9 copies the visible fifth-answer method and triggers the simulator crisis.
 
 Exact cards:
-- `ga1-episodes-39-45-scene-cards-v1.md`.
+- [[ga1-episodes-39-45-scene-cards-v1]].
 
 ---
 
@@ -289,7 +289,7 @@ E51:
 - hidden treatment proven clinically necessary; Black Ward/Orvan identifier opens.
 
 Exact cards:
-- `ga1-episodes-46-51-scene-cards-v1.md`.
+- [[ga1-episodes-46-51-scene-cards-v1]].
 
 ## C2 — 살아 있게 만든 감옥 / Episodes 52–58
 
@@ -315,7 +315,7 @@ E58:
 - ORA-3 introduced as bounded clinical/consent/provenance interface; Authority A/partial B link.
 
 Exact cards:
-- `ga1-episodes-52-58-scene-cards-v1.md`.
+- [[ga1-episodes-52-58-scene-cards-v1]].
 
 ## C3 — 기억하는 환자 / Episodes 59–65
 
@@ -341,7 +341,7 @@ E65:
 - dead identities require medicine; 23 time-critical patients, 11 full cycles and supply hold.
 
 Exact cards:
-- `ga1-episodes-59-65-scene-cards-v1.md`.
+- [[ga1-episodes-59-65-scene-cards-v1]].
 
 ## C4 — 누구를 먼저 치료할 것인가 / Episodes 66–72
 
@@ -367,7 +367,7 @@ E72:
 - mixed patient outcomes, Orvan remains independent, temporary oversight and 30-day school insolvency.
 
 Exact cards:
-- `ga1-episodes-66-72-scene-cards-v1.md`.
+- [[ga1-episodes-66-72-scene-cards-v1]].
 
 ---
 
@@ -412,7 +412,7 @@ E78:
 - secret Imperial continuity transfer of 286 cadets, 14 cases, 07/records exposed and staged.
 
 Exact cards:
-- `ga1-episodes-73-78-scene-cards-v1.md`.
+- [[ga1-episodes-73-78-scene-cards-v1]].
 
 ## D2 — 다섯 개의 인수안 / Episodes 79–84
 
@@ -435,7 +435,7 @@ E84:
 - voluntary/disputed cases mixed; Imperial, Helix, Independence, Neutral and internal claims physically activate.
 
 Exact cards:
-- `ga1-episodes-79-84-scene-cards-v1.md`.
+- [[ga1-episodes-79-84-scene-cards-v1]].
 
 ## D3 — 학교는 전장이다 / Episodes 85–92
 
@@ -464,7 +464,7 @@ E92:
 - central control saves lives and enables seizure; Rian/07 can take key; segmented plan prepared.
 
 Exact cards:
-- `ga1-episodes-85-92-scene-cards-v1.md`.
+- [[ga1-episodes-85-92-scene-cards-v1]].
 
 ## D4 — 권한을 나누는 전투 / Episodes 93–100
 
@@ -493,7 +493,7 @@ E100:
 - charter enacted; five-role external mission cell; Archive count changes; first ship/ghost-key contract accepted conditionally.
 
 Exact cards:
-- `ga1-episodes-93-100-scene-cards-v1.md`.
+- [[ga1-episodes-93-100-scene-cards-v1]].
 
 ---
 

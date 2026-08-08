@@ -161,7 +161,7 @@ Last Revalidated:
 
 ## 5. Divergence Ledger
 
-모든 B2 이상 개입은 `divergence-ledger.md`에 등록한다.
+모든 B2 이상 개입은 [[divergence-ledger-opening-v1]]에 등록한다.
 
 ```markdown
 ## Divergence D-###

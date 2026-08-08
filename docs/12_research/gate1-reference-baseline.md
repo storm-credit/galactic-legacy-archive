@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agent: R03 Korean Webnovel Analyst / R04 SF-Mecha Analyst / R05 Game-System Motif Analyst
 Last Reviewed: 2026-08-03
-Depends On: `reference-study-plan.md`, `game-motif-research-harness.md`
+Depends On: [[reference-study-plan]], [[game-motif-research-harness]]
 Used By: Gate 2 concept selection, Gate 3 world rules, collection bible, prose calibration
 Open Risks: Public synopsis cannot prove detailed prose or exact episode cadence; legal preview deep-read remains required
 

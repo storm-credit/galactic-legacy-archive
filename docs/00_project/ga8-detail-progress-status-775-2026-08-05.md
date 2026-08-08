@@ -24,13 +24,13 @@ Grand-act breakdown:
 
 ## 2. B08-03 Files
 
-- `docs/10_story_architecture/detail/ga8-e851-860-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga8-e861-868-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga8-e869-875-episode-cards-v1.md`
-- `docs/08_institutions/ga8-e851-875-continuity-seed-origin-ranking-and-authority-state-v1.md`
-- `docs/05_characters/ga8-continuity-seed-researchers-connectors-and-director-e851-875-v1.md`
-- `docs/09_collection/detail/ga8-e851-875-continuity-seed-model-omission-and-crisis-state-v1.md`
-- `docs/99_quality_control/detail/ga8-e851-875-redteam-v1.md`
+- [[ga8-e851-860-episode-cards-v1]]
+- [[ga8-e861-868-episode-cards-v1]]
+- [[ga8-e869-875-episode-cards-v1]]
+- [[ga8-e851-875-continuity-seed-origin-ranking-and-authority-state-v1]]
+- [[ga8-continuity-seed-researchers-connectors-and-director-e851-875-v1]]
+- [[ga8-e851-875-continuity-seed-model-omission-and-crisis-state-v1]]
+- [[ga8-e851-875-redteam-v1]]
 
 ## 3. Seed Origin
 

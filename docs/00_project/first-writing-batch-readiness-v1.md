@@ -3,7 +3,7 @@
 Status: REVIEW — ACTIVATES ONLY AFTER PRE-WRITING GATE OPEN
 Owner Agents: A00 PM / A11 Prose / O01 Canon / N03 Episode / X04 Continuity
 Last Reviewed: 2026-08-06
-Depends On: `docs/00_project/pre-writing-gate-review-v1.md`, `docs/00_project/manuscript-production-workflow-v1.md`, `docs/99_quality_control/pre-writing-readiness-audit-v1.md`
+Depends On: [[pre-writing-gate-review-v1]], [[manuscript-production-workflow-v1]], [[pre-writing-readiness-audit-v1]]
 Used By: 게이트 개방 후 첫 배치 착수
 Open Risks: 게이트 개방 전에는 어떤 항목도 실행되지 않는다. D1(플랫폼·자수)과 D3(E1~20 처리) 결정에 따라 §4 작업 내용이 달라진다.
 
@@ -20,42 +20,42 @@ Open Risks: 게이트 개방 전에는 어떤 항목도 실행되지 않는다. 
 
 ### 2.1 통제·우선순위 (항상 최우선)
 
-- `docs/00_project/design-only-scope-restoration-2026-08-03.md` — 정본 우선순위 사다리 §3
-- `docs/00_project/effective-canon-status-manifest-v1.md` — 유효 등급, 레거시 헤더 무시 규칙
-- `docs/00_project/canonical-name-errata-001.md` ~ `-004.md` (errata-002 이름은 E1~5 등장 인물 아님, 로드만)
-- `docs/00_project/manuscript-production-workflow-v1.md` — 8단계 파이프라인
+- [[design-only-scope-restoration-2026-08-03]] — 정본 우선순위 사다리 §3
+- [[effective-canon-status-manifest-v1]] — 유효 등급, 레거시 헤더 무시 규칙
+- [[canonical-name-errata-001]], [[canonical-name-errata-002]], [[canonical-crew-minimum-errata-003]], [[canonical-haren-sanction-timeline-errata-004]] (errata-002 이름은 E1~5 등장 인물 아님, 로드만)
+- [[manuscript-production-workflow-v1]] — 8단계 파이프라인
 
 ### 2.2 회차 설계 (E1~5)
 
-- `docs/10_story_architecture/ga1-episodes-1-5-noncanon-scene-cards-v1.md` — 검증된 장면 순서 (proxy-signoff §3이 지정한 drafting input; F-25에 따라 지위 표기 정비 필요)
-- `docs/10_story_architecture/ga1-episodes-1-20-beat-map-v1.md` — 회차 비트
-- `docs/10_story_architecture/first-100-act-map-v2-consolidated.md` — 액트 맥락 (단, A2/A3 요약 드리프트 F-05 주의: 장면 카드가 우선)
-- `docs/00_project/ga1-e1-5-first-draft-status-2026-08-03.md` + `docs/99_quality_control/ga1-e1-5-first-draft-continuity-voice-audit-v1.md` — 잔존 S1·압축 지침·삭제 금지 목록 (문서 지위는 NC, 감사 내용은 참조)
+- [[ga1-episodes-1-5-noncanon-scene-cards-v1]] — 검증된 장면 순서 (proxy-signoff §3이 지정한 drafting input; F-25에 따라 지위 표기 정비 필요)
+- [[ga1-episodes-1-20-beat-map-v1]] — 회차 비트
+- [[first-100-act-map-v2-consolidated]] — 액트 맥락 (단, A2/A3 요약 드리프트 F-05 주의: 장면 카드가 우선)
+- [[ga1-e1-5-first-draft-status-2026-08-03]] + [[ga1-e1-5-first-draft-continuity-voice-audit-v1]] — 잔존 S1·압축 지침·삭제 금지 목록 (문서 지위는 NC, 감사 내용은 참조)
 
 ### 2.3 인물·기체·세계 상태 (E1 시점)
 
-- `docs/05_characters/protagonist-p001-bible-v1.md` — 리안 (§5 정보 상한)
-- `docs/05_characters/rian-index-removal-memory-and-medical-state-v1.md` — 미래기억 한계·신체 비용
-- `docs/05_characters/core-canonical-names-and-voice-lock-v1.md` — 6인 이름·음성 잠금
-- `docs/05_characters/hero-h001-bible-v1.md`, `docs/05_characters/instructor-i001-field-bible-v1.md`, `docs/05_characters/student-s001-data-cadet-bible-v1.md`, `docs/05_characters/student-m001-medical-rescue-bible-v1.md`
-- `docs/03_academy/prison-military-academy-bible-v1.md`, `docs/03_academy/academy-scale-law-calibration-v1.md`
-- `docs/03_systems/academy-and-07-opening-operational-state-v1.md` — 07·리안 개막 한계 (proxy-signoff §3 지정)
-- `docs/06_hardware/first-frame-bible-v1.md` — 07
-- `docs/05_characters/opening-institutional-representatives-v1.md`
+- [[protagonist-p001-bible-v1]] — 리안 (§5 정보 상한)
+- [[rian-index-removal-memory-and-medical-state-v1]] — 미래기억 한계·신체 비용
+- [[core-canonical-names-and-voice-lock-v1]] — 6인 이름·음성 잠금
+- [[hero-h001-bible-v1]], [[instructor-i001-field-bible-v1]], [[student-s001-data-cadet-bible-v1]], [[student-m001-medical-rescue-bible-v1]]
+- [[prison-military-academy-bible-v1]], [[academy-scale-law-calibration-v1]]
+- [[academy-and-07-opening-operational-state-v1]] — 07·리안 개막 한계 (proxy-signoff §3 지정)
+- [[first-frame-bible-v1]] — 07
+- [[opening-institutional-representatives-v1]]
 
 ### 2.4 문체·검수
 
-- `docs/13_writing_harness/prose-bible.md` (§2 POV 서술은 구식 — gate1 §3 확정이 우선, F-08)
-- `docs/07_style/gate1-korean-webnovel-pov-prose-calibration-v1.md` — POV·비율·리듬 정본
-- `docs/07_style/noncanon-episode-1-close-third-sample-v2-mobile.md` — 승인 문체 캘리브레이션 기준(비정본)
-- `docs/13_writing_harness/storycraft-bible.md`, `docs/13_writing_harness/revision-harness.md`
+- [[prose-bible]] (§2 POV 서술은 구식 — gate1 §3 확정이 우선, F-08)
+- [[gate1-korean-webnovel-pov-prose-calibration-v1]] — POV·비율·리듬 정본
+- [[noncanon-episode-1-close-third-sample-v2-mobile]] — 승인 문체 캘리브레이션 기준(비정본)
+- [[storycraft-bible]], [[revision-harness]]
 
 ### 2.5 복선·상한
 
-- `docs/11_mystery/m001-m020-early-clue-episode-ledger-v1.md` — E1~5 단서: E1, E2, E3, E4 (후기 용어 금지 §4)
-- `docs/11_mystery/final-payoff-scene-ledger-locked-v1.md` — 조기 노출 금지 확인용
-- `docs/11_mystery/secondary-mystery-decoy-and-retirement-ledger-v1.md` — SM-01~03 (Core relation 열은 구식 번호, F-14 리매핑 전까지 질문/답 열만 신뢰)
-- `docs/12_losses/named-loss-and-irreversible-transformation-ledger-v1.md` (F-12 부록 정정 전까지 errata-004가 우선)
+- [[m001-m020-early-clue-episode-ledger-v1]] — E1~5 단서: E1, E2, E3, E4 (후기 용어 금지 §4)
+- [[final-payoff-scene-ledger-locked-v1]] — 조기 노출 금지 확인용
+- [[secondary-mystery-decoy-and-retirement-ledger-v1]] — SM-01~03 (Core relation 열은 구식 번호, F-14 리매핑 전까지 질문/답 열만 신뢰)
+- [[named-loss-and-irreversible-transformation-ledger-v1]] (F-12 부록 정정 전까지 errata-004가 우선)
 
 ## 3. 등장인물·기관 상태 (E1 시점 잠금)
 
@@ -68,8 +68,8 @@ Open Risks: 게이트 개방 전에는 어떤 항목도 실행되지 않는다. 
 
 ### 기관
 
-- 학원: 인력 공급·법·예산·항로 구조는 `academy-scale-law-calibration-v1.md` 기준. 개막 운영 상태는 `academy-and-07-opening-operational-state-v1.md`가 통제.
-- 개막 기관 대표자: `opening-institutional-representatives-v1.md`.
+- 학원: 인력 공급·법·예산·항로 구조는 [[academy-scale-law-calibration-v1]] 기준. 개막 운영 상태는 [[academy-and-07-opening-operational-state-v1]]가 통제.
+- 개막 기관 대표자: [[opening-institutional-representatives-v1]].
 - 백색 도크·중앙지휘 분절 지리는 E14+ 구간 — E1~5에서는 노출 상한 준수.
 
 ## 4. 회차별 목표 (요약 — 상세는 장면 카드가 정본)
@@ -99,11 +99,11 @@ Open Risks: 게이트 개방 전에는 어떤 항목도 실행되지 않는다. 
 
 1. E1~5 각 회차가 workflow §3의 8단계(작성→자체감사→설정대조→문체감사→훅감사→작가승인→수정→정본반영)를 통과.
 2. 회차당 분량: 하한 약 5,500자(`[ASSUMPTION]` 공백 포함), **상한 유연**(작가 판정 2026-08-06 "더 길어도 상관없음"). 따라서 2차 패스는 분량 축소가 아니라 밀도·반복 정리(미래기억 밀도, E14/E18 반복, 청문 장면 길이)로 수행 — E1~5 감사의 삭제 금지 목록 유지 확인 포함.
-3. 연속성 감사 PASS + `docs/99_quality_control/continuity-issues.md`(신설)에 미해결 S0/S1 없음.
+3. 연속성 감사 PASS + [[continuity-issues]](신설)에 미해결 S0/S1 없음.
 4. 음성 감사 PASS(6인 음성 구별).
 5. 훅 감사 PASS(회차말 구체적 다음 문제 + 직전 훅 즉시 회수, 훅 유형 반복표 갱신).
 6. 복선 장부 갱신(심은 단서 등록, 조기 노출 없음 확인).
 7. 잔존 S1 5건(F-07) 중 E1~5 해당분(압축·E5 밀도) 해소 및 상태문서 재감사 갱신.
 8. **작가 승인 기록 존재** — 회차별 승인/수정지시/반려 중 '승인'.
-9. 병행 항목(D2 채택 시): 인간/모바일 테스트(`gate8-human-mobile-test-packet-v1.md`, 최소 5인·절반 이상 폰 화면) 실행 결과 기록 — 출판 전 필수, 배치 완료 자체는 차단하지 않음.
+9. 병행 항목(D2 채택 시): 인간/모바일 테스트([[gate8-human-mobile-test-packet-v1]], 최소 5인·절반 이상 폰 화면) 실행 결과 기록 — 출판 전 필수, 배치 완료 자체는 차단하지 않음.
 10. 배치 회고 완료(훅 반복·음성 이탈·분량 편차·감사 지적 반복).

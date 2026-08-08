@@ -20,7 +20,7 @@ Canonical manuscript prose remains unauthorized.
 ### White Dock action geometry
 
 File:
-- `docs/10_story_architecture/white-dock-action-diagram-and-state-sheet-v1.md`
+- [[white-dock-action-diagram-and-state-sheet-v1]]
 
 Completed:
 - local coordinate convention and reader-facing directional language.
@@ -33,7 +33,7 @@ Completed:
 ### Academy central-command segmentation
 
 File:
-- `docs/03_systems/academy-central-command-segmentation-diagram-v1.md`
+- [[academy-central-command-segmentation-diagram-v1]]
 
 Completed:
 - physical service wheel and six domain couplings.
@@ -47,7 +47,7 @@ Completed:
 ### Black Ward 23-patient allocation
 
 File:
-- `docs/03_systems/black-ward-23-patient-allocation-ledger-v1.md`
+- [[black-ward-23-patient-allocation-ledger-v1]]
 
 Locked:
 - full proprietary protocol: 11.
@@ -62,7 +62,7 @@ Locked:
 ### Initial charter board and command cast
 
 File:
-- `docs/05_characters/academy-charter-board-signatories-and-siege-commanders-v1.md`
+- [[academy-charter-board-signatories-and-siege-commanders-v1]]
 
 Initial board:
 - Yori Kess.
@@ -88,8 +88,8 @@ Command actors locked:
 ### Pre-Writing evidence and audit
 
 Files:
-- `docs/99_quality_control/prewriting-gate-evidence-matrix-v2.md`
-- `docs/99_quality_control/prewriting-gate-dry-audit-2026-08-03.md`
+- [[prewriting-gate-evidence-matrix-v2]]
+- [[prewriting-gate-dry-audit-2026-08-03]]
 
 Current gate summary:
 

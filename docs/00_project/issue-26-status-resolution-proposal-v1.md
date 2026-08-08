@@ -3,7 +3,7 @@
 Status: PROPOSAL — 작가 승인 시 발효
 Owner Agents: A00 PM / O01 Canon / O02 Gates
 Last Reviewed: 2026-08-06
-Depends On: `docs/99_quality_control/prewriting-gate-dry-audit-2026-08-03.md`, `docs/00_project/autonomous-completion-validation-override-2026-08-03.md`, `docs/00_project/design-only-scope-restoration-2026-08-03.md`, `docs/99_quality_control/pre-writing-readiness-audit-v1.md` (F-02)
+Depends On: [[prewriting-gate-dry-audit-2026-08-03]], [[autonomous-completion-validation-override-2026-08-03]], [[design-only-scope-restoration-2026-08-03]], [[pre-writing-readiness-audit-v1]] (F-02)
 Used By: Pre-Writing Gate 개방 결정 (결정 D2)
 Open Risks: 본 문서는 제안서다. 작가 승인 전에는 어떤 문서 지위도 변경하지 않는다.
 
@@ -13,9 +13,9 @@ issue #26(인간/모바일 독자 테스트)의 지위에 대해 세 문서가 �
 
 | 문서 | 판정 | 근거 위치 |
 |---|---|---|
-| A. `prewriting-gate-dry-audit-2026-08-03.md` + `prewriting-gate-evidence-matrix-v2.md` | **집필 전 하드 블로커** (B1~B7). §7은 "#26을 선택사항으로 선언하는 것"을 명시적으로 금지 | dry-audit §5, §7; matrix §12 |
-| B. `autonomous-completion-validation-override-2026-08-03.md` | **출판 전 블로커로 재분류** — AI 프록시 8세션을 "내부 초고용으로만" 인정, 인간 검증 주장 금지, 인간 결과가 나오면 E1~5 재수정 강제 가능 | override §4 |
-| C. `design-only-scope-restoration-2026-08-03.md` | 중립 — "#26은 설계 작업의 전제조건이 아니며, 미래의 명시 승인된 집필 단계를 위해 열려 있다" | restoration §4 |
+| A. [[prewriting-gate-dry-audit-2026-08-03]] + [[prewriting-gate-evidence-matrix-v2]] | **집필 전 하드 블로커** (B1~B7). §7은 "#26을 선택사항으로 선언하는 것"을 명시적으로 금지 | dry-audit §5, §7; matrix §12 |
+| B. [[autonomous-completion-validation-override-2026-08-03]] | **출판 전 블로커로 재분류** — AI 프록시 8세션을 "내부 초고용으로만" 인정, 인간 검증 주장 금지, 인간 결과가 나오면 E1~5 재수정 강제 가능 | override §4 |
+| C. [[design-only-scope-restoration-2026-08-03]] | 중립 — "#26은 설계 작업의 전제조건이 아니며, 미래의 명시 승인된 집필 단계를 위해 열려 있다" | restoration §4 |
 
 **모순의 핵심은 A vs B가 아니라, C가 B를 무효화했는지다.** restoration §2는 "그 프로즈를 정당화하는 것이 유일 목적인 승인/상태/감사 문서"를 비정본으로 판정했고 §8은 PR #34~36의 프로즈 승인을 supersede했다. override는 바로 그 프로즈 승인을 가능하게 한 문서이므로:
 
@@ -41,7 +41,7 @@ issue #26(인간/모바일 독자 테스트)의 지위에 대해 세 문서가 �
 ## 4. 위험 통제 (판정에 딸린 조건 — 전부 유지 의무)
 
 1. **출판·공개·유료연재는 인간 테스트 결과 기록 및 기준 통과 전까지 차단** — 모든 원고 파일의 `Publication: NOT AUTHORIZED` 헤더 유지.
-2. **첫 배치와 병행하여 인간 테스트 실행**: `docs/99_quality_control/gate8-human-mobile-test-packet-v1.md` 절차 그대로 — 최소 5인, 절반 이상 휴대폰 화면, 시료는 개정 E1~E2 + white-dock 샘플.
+2. **첫 배치와 병행하여 인간 테스트 실행**: [[gate8-human-mobile-test-packet-v1]] 절차 그대로 — 최소 5인, 절반 이상 휴대폰 화면, 시료는 개정 E1~E2 + white-dock 샘플.
 3. **인간 결과가 수정을 요구하면 E1~20 개정은 수용 비용으로 확정** — 초고는 미출판 상태이므로 재작업 가능성을 전제로 진행.
 4. **결과 기록 전까지 어디에도 "인간 검증 완료"를 주장하지 않는다** (AI 프록시 결과를 인간 결과로 표기 금지).
 5. GitHub issue #26은 결과 기록 시까지 OPEN 유지.
@@ -49,11 +49,11 @@ issue #26(인간/모바일 독자 테스트)의 지위에 대해 세 문서가 �
 
 ## 5. 승인 시 문서 패치 목록 (승인 후에만 실행)
 
-1. `prewriting-gate-dry-audit-2026-08-03.md`·`prewriting-gate-evidence-matrix-v2.md` 머리에 주석 1줄: "B1~B6 인간 항목은 2026-08-06 작가 판정으로 출판 전 블로커로 재분류 — 본 제안서 참조. B7(위원회 리뷰)은 게이트 리뷰 v1이 대체."
-2. `gate1-korean-webnovel-pov-prose-calibration-v1.md` §11에 동일 취지 개정 주석.
-3. `decision-log.md`에 D-entry 등재(원안 A / 변경안 B / 이유 §3 / 파급: 게이트 개방 가능, 출판 차단 유지).
+1. [[prewriting-gate-dry-audit-2026-08-03]]·[[prewriting-gate-evidence-matrix-v2]] 머리에 주석 1줄: "B1~B6 인간 항목은 2026-08-06 작가 판정으로 출판 전 블로커로 재분류 — 본 제안서 참조. B7(위원회 리뷰)은 게이트 리뷰 v1이 대체."
+2. [[gate1-korean-webnovel-pov-prose-calibration-v1]] §11에 동일 취지 개정 주석.
+3. [[decision-log]]에 D-entry 등재(원안 A / 변경안 B / 이유 §3 / 파급: 게이트 개방 가능, 출판 차단 유지).
 4. evidence-matrix v3 작성 시 Gate 10 차단 요건을 "작가 개방 선언 + 출판 전 인간 테스트"로 갱신.
-5. `pre-writing-gate-review-v1.md` §5의 D2 행을 "해결됨"으로 갱신.
+5. [[pre-writing-gate-review-v1]] §5의 D2 행을 "해결됨"으로 갱신.
 
 ## 6. 채택 방법
 

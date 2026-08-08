@@ -3,7 +3,7 @@
 Status: CANON PROJECT CONTROL
 Owner Agent: O02 Gate & Risk Controller
 Last Reviewed: 2026-08-03
-Depends On: `gate6-cross-series-completion-audit.md`, all GA1–10 status files
+Depends On: [[gate6-cross-series-completion-audit]], all GA1–10 status files
 Used By: Master epic, issue #10, Pre-Writing Gate and next design queue
 
 ## Final Gate 6 Status

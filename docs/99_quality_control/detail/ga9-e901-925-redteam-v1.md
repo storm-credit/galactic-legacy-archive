@@ -9,12 +9,12 @@ Used By: B09-01 PR, GA9 E926–950 and project control
 ## 1. Audit Scope
 
 Files audited:
-- `docs/10_story_architecture/detail/ga9-e901-910-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga9-e911-918-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga9-e919-925-episode-cards-v1.md`
-- `docs/08_institutions/ga9-e901-925-perfect-route-treaty-key-and-administrative-friction-state-v1.md`
-- `docs/05_characters/ga9-perfect-route-aven-rian-beneficiary-and-border-cast-e901-925-v1.md`
-- `docs/09_collection/detail/ga9-e901-925-perfect-route-performance-credential-appeal-and-loss-state-v1.md`
+- [[ga9-e901-910-episode-cards-v1]]
+- [[ga9-e911-918-episode-cards-v1]]
+- [[ga9-e919-925-episode-cards-v1]]
+- [[ga9-e901-925-perfect-route-treaty-key-and-administrative-friction-state-v1]]
+- [[ga9-perfect-route-aven-rian-beneficiary-and-border-cast-e901-925-v1]]
+- [[ga9-e901-925-perfect-route-performance-credential-appeal-and-loss-state-v1]]
 - project progress file for 825/1000.
 
 Gate:

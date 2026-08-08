@@ -3,7 +3,7 @@
 Status: CANON OVERRIDE
 Owner Agent: O01 Canon
 Last Reviewed: 2026-08-03
-Supersedes: `docs/05_characters/core-canonical-names-and-voice-lock-v1.md` FC-005 entry only
+Supersedes: [[core-canonical-names-and-voice-lock-v1]] FC-005 entry only
 
 ## Correction
 
