@@ -14,13 +14,13 @@ Used By: next branch, progress reporting and context handoff
 
 ## 2. B02-03 Completed Files
 
-- `docs/10_story_architecture/detail/ga2-e151-160-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga2-e161-168-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga2-e169-175-episode-cards-v1.md`
-- `docs/05_characters/ga2-protected-community-destination-state-e161-175-v1.md`
-- `docs/07_military/operations/ga2-e151-175-relay-and-community-convoy-state-v1.md`
-- `docs/09_collection/detail/ga2-e151-175-collection-and-community-state-v1.md`
-- `docs/99_quality_control/detail/ga2-e151-175-redteam-v1.md`
+- [[ga2-e151-160-episode-cards-v1]]
+- [[ga2-e161-168-episode-cards-v1]]
+- [[ga2-e169-175-episode-cards-v1]]
+- [[ga2-protected-community-destination-state-e161-175-v1]]
+- [[ga2-e151-175-relay-and-community-convoy-state-v1]]
+- [[ga2-e151-175-collection-and-community-state-v1]]
+- [[ga2-e151-175-redteam-v1]]
 
 ## 3. Locked Results
 

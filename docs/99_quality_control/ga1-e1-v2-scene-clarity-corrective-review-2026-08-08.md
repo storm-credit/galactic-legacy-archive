@@ -6,7 +6,7 @@ Reviewed: 2026-08-08
 Reviewer Roles: A00 PM / A11 Prose / L02 POV / H01 Frame / H04 Maintenance / C02 Ensemble / O01 Canon / X04 Continuity / A16 Red Team
 Publication: NOT AUTHORIZED
 Base Manuscript SHA: `9ec294eb1055f85925763ed89f7032eacab981d9` (PR #103 merge)
-Extends: `docs/99_quality_control/ga1-e1-v2-dialogue-role-causality-corrective-review-2026-08-08.md`
+Extends: [[ga1-e1-v2-dialogue-role-causality-corrective-review-2026-08-08]]
 
 ## Verdict
 
@@ -25,22 +25,22 @@ Extends: `docs/99_quality_control/ga1-e1-v2-dialogue-role-causality-corrective-r
 
 ## Canon & Design Sources Checked
 
-- `CLAUDE.md` §2, §6, §9
-- `docs/00_project/pre-writing-gate-open-record-2026-08-06.md`
-- `docs/00_project/manuscript-production-workflow-v1.md`
-- `docs/00_project/first-writing-batch-readiness-v1.md`
-- `docs/00_project/effective-canon-status-manifest-v1.md`
-- `docs/00_project/decision-log.md`
-- `docs/99_quality_control/pre-writing-readiness-audit-v1.md`
-- `docs/99_quality_control/continuity-issues.md`
-- `docs/10_story_architecture/ga1-episodes-1-5-noncanon-scene-cards-v1.md` — E1 Scene 1~3, end hook
-- `docs/03_systems/academy-and-07-opening-operational-state-v1.md` — §2 높이 11.6 m, §3 D07-1/D07-5, §4 S07-E1, §6 Bram Ido
-- `docs/05_characters/protagonist-p001-bible-v1.md`
-- `docs/05_characters/hero-h002-mechanic-bible-v1.md`
-- `docs/05_characters/core-canonical-names-and-voice-lock-v1.md`
-- `docs/05_characters/rian-index-removal-memory-and-medical-state-v1.md`
-- `docs/06_hardware/first-frame-bible-v1.md`
-- `docs/13_writing_harness/prose-bible.md`, `docs/13_writing_harness/revision-harness.md`
+- [[CLAUDE]] §2, §6, §9
+- [[pre-writing-gate-open-record-2026-08-06]]
+- [[manuscript-production-workflow-v1]]
+- [[first-writing-batch-readiness-v1]]
+- [[effective-canon-status-manifest-v1]]
+- [[decision-log]]
+- [[pre-writing-readiness-audit-v1]]
+- [[continuity-issues]]
+- [[ga1-episodes-1-5-noncanon-scene-cards-v1]] — E1 Scene 1~3, end hook
+- [[academy-and-07-opening-operational-state-v1]] — §2 높이 11.6 m, §3 D07-1/D07-5, §4 S07-E1, §6 Bram Ido
+- [[protagonist-p001-bible-v1]]
+- [[hero-h002-mechanic-bible-v1]]
+- [[core-canonical-names-and-voice-lock-v1]]
+- [[rian-index-removal-memory-and-medical-state-v1]]
+- [[first-frame-bible-v1]]
+- [[prose-bible]], [[revision-harness]]
 
 ## Applied Corrections
 

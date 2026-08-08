@@ -15,11 +15,11 @@ Open Risks: publication compression and real human/mobile validation
 
 ## Completed Manuscripts
 
-1. `manuscript/ga1/001-역사에-없는-생도-v1.md`
-2. `manuscript/ga1/002-한-사람의-벌이-서른여섯-명에게-간다-v1.md`
-3. `manuscript/ga1/003-조종사는-기체를-고칠-수-없다-v1.md`
-4. `manuscript/ga1/004-오르페우스의-빈칸-v1.md`
-5. `manuscript/ga1/005-다섯-번째-답의-시작-v1.md`
+1. [[001-역사에-없는-생도-v1]]
+2. [[002-한-사람의-벌이-서른여섯-명에게-간다-v1]]
+3. [[003-조종사는-기체를-고칠-수-없다-v1]]
+4. [[004-오르페우스의-빈칸-v1]]
+5. [[005-다섯-번째-답의-시작-v1]]
 
 ## Locked Development Outcomes
 
@@ -39,10 +39,10 @@ Open Risks: publication compression and real human/mobile validation
 ## Quality Evidence
 
 Continuity and voice:
-- `docs/99_quality_control/ga1-e1-5-first-draft-continuity-voice-audit-v1.md`
+- [[ga1-e1-5-first-draft-continuity-voice-audit-v1]]
 
 Red-team:
-- `docs/99_quality_control/ga1-e1-5-first-draft-redteam.md`
+- [[ga1-e1-5-first-draft-redteam]]
 
 ## Risk Counts
 

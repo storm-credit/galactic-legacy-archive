@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE — S0 CHRONOLOGY CONFLICT RESOLVED
 Owner Agents: O01 Canon / O02 Gates / N01 Series Architecture / N04 Causality / X01 Logic / X04 Continuity / P03 Law / M03 Fleet
 Last Reviewed: 2026-08-04
-Depends On: master chronology and `ga2-ga3-detailed-episode-date-override-v1.md`
+Depends On: master chronology and [[ga2-ga3-detailed-episode-date-override-v1]]
 Used By: all E101–330 detailed files and final GA2/GA3 audits
 
 ## 1. Executive Verdict

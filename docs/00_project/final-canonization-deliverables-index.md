@@ -6,62 +6,62 @@ Last Reviewed: 2026-08-03
 
 ## Chronology and State
 
-- `docs/01_timeline/master-series-chronology-v1.md`
+- [[master-series-chronology-v1]]
   - absolute CY dates, grand-act/subact durations, ages, licence/rank and institutional maturity.
 
-- `docs/00_project/ga1-10-state-checkpoint-matrix-v1.md`
+- [[ga1-10-state-checkpoint-matrix-v1]]
   - core character, first ship, 07, fleet, route and Aurel states at every grand-act boundary.
 
-- `docs/00_project/final-canonization-status-2026-08-03.md`
+- [[final-canonization-status-2026-08-03]]
   - final verdict, repository integrity correction and remaining gates.
 
 ## Names, Voices and Character Endpoints
 
-- `docs/05_characters/core-canonical-names-and-voice-lock-v1.md`
+- [[core-canonical-names-and-voice-lock-v1]]
   - core reader-facing names, roles and dialogue-question anchors.
 
-- `docs/00_project/canonical-name-errata-001.md`
+- [[canonical-name-errata-001]]
   - FC-005 final name `메사 린 / Messa Rin`.
 
-- `docs/05_characters/aurel-embodiment-and-office-timeline-v1.md`
+- [[aurel-embodiment-and-office-timeline-v1]]
   - Aurel human office, AI, composite and independent person-state timeline.
 
-- `docs/05_characters/rian-index-removal-memory-and-medical-state-v1.md`
+- [[rian-index-removal-memory-and-medical-state-v1]]
   - Rian’s permanent future-index losses, retained memory and postwar limits.
 
-- `docs/08_institutions/haren-d4-accountability-order-v1.md`
+- [[haren-d4-accountability-order-v1]]
   - Haren’s specific responsibility, sanctions, reparations and bounded later eligibility.
 
 ## Mystery and Payoff
 
-- `docs/11_mystery/final-payoff-scene-ledger-locked-v1.md`
+- [[final-payoff-scene-ledger-locked-v1]]
   - M-001–M-020 exact decisive payoff episodes/scenes.
 
-- `docs/11_mystery/m001-m020-early-clue-episode-ledger-v1.md`
+- [[m001-m020-early-clue-episode-ledger-v1]]
   - early plants, fair false interpretations and literal truth controls.
 
 ## Loss and Consequence
 
-- `docs/12_losses/named-loss-and-irreversible-transformation-ledger-v1.md`
+- [[named-loss-and-irreversible-transformation-ledger-v1]]
   - named deaths, permanent injuries, ship/frame/record/person-state losses.
 
 ## Gate 1 Style/POV Tests
 
-- `docs/07_style/gate1-korean-webnovel-pov-prose-calibration-v1.md`
+- [[gate1-korean-webnovel-pov-prose-calibration-v1]]
   - close-third selection and prose/exposition/combat/retention harness.
 
-- `docs/10_story_architecture/ga1-episodes-1-5-noncanon-scene-cards-v1.md`
+- [[ga1-episodes-1-5-noncanon-scene-cards-v1]]
   - non-canon first-five scene cards.
 
-- `docs/07_style/noncanon-episode-1-close-third-sample-v1.md`
+- [[noncanon-episode-1-close-third-sample-v1]]
   - non-canon mobile/prose opening test.
 
-- `docs/07_style/core-six-voice-blind-test-v1.md`
+- [[core-six-voice-blind-test-v1]]
   - anonymized Rian/Haren/Nera/Serin/Mia/Ern voice test.
 
 ## Quality Control
 
-- `docs/99_quality_control/final-canonization-redteam-review.md`
+- [[final-canonization-redteam-review]]
   - chronology, survival, names, Aurel, payoff congestion and ending risks.
 
 ## Current Verdict

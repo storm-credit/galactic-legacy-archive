@@ -22,13 +22,13 @@ The approved 1100-episode act/subact blueprint remains separate from this detail
 
 ## 2. B04-04 Files
 
-- `docs/10_story_architecture/detail/ga4-e406-412-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga4-e413-420-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga4-e421-430-episode-cards-v1.md`
-- `docs/05_characters/ga4-post-pilot-and-k5-cast-e406-430-v1.md`
-- `docs/06_law/ga4-e406-430-sovereign-reference-post-pilot-and-k5-state-v1.md`
-- `docs/09_collection/detail/ga4-e406-430-sovereign-reference-k5-and-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga4-e406-430-redteam-v1.md`
+- [[ga4-e406-412-episode-cards-v1]]
+- [[ga4-e413-420-episode-cards-v1]]
+- [[ga4-e421-430-episode-cards-v1]]
+- [[ga4-post-pilot-and-k5-cast-e406-430-v1]]
+- [[ga4-e406-430-sovereign-reference-post-pilot-and-k5-state-v1]]
+- [[ga4-e406-430-sovereign-reference-k5-and-loss-state-v1]]
+- [[ga4-e406-430-redteam-v1]]
 
 ## 3. Locked Results
 

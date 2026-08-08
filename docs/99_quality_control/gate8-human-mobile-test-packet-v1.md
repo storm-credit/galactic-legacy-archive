@@ -56,7 +56,7 @@ At least 5 independent reads per sample.
 ## 4. Sample A — White Dock
 
 File:
-- `docs/07_style/gate8-noncanon-white-dock-action-sample-v1.md`
+- [[gate8-noncanon-white-dock-action-sample-v1]]
 
 Read only the reader-facing sample first.
 
@@ -92,7 +92,7 @@ Pass:
 ## 5. Sample B — Central Key
 
 File:
-- `docs/07_style/gate8-noncanon-central-key-action-sample-v1.md`
+- [[gate8-noncanon-central-key-action-sample-v1]]
 
 ### Immediate recall questions
 
@@ -119,7 +119,7 @@ Pass:
 ## 6. Sample C — ORA-3
 
 File:
-- `docs/07_style/gate8-noncanon-ora3-consent-dialogue-sample-v1.md`
+- [[gate8-noncanon-ora3-consent-dialogue-sample-v1]]
 
 ### Immediate recall questions
 
@@ -148,7 +148,7 @@ Pass:
 ## 7. Sample D — Packages and Charter
 
 File:
-- `docs/07_style/gate8-noncanon-package-charter-mobile-sample-v1.md`
+- [[gate8-noncanon-package-charter-mobile-sample-v1]]
 
 Run primarily on phone-sized screens.
 

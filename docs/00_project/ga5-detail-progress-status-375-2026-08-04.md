@@ -23,14 +23,14 @@ The 1100-episode macro blueprint remains separate from the detailed-card numerat
 
 ## 2. B05-01 Files
 
-- `docs/07_military/operations/ga5-e451-475-vesper-opening-oob-and-alignment-state-v1.md`
-- `docs/10_story_architecture/detail/ga5-e451-457-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga5-e458-464-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga5-e465-472-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga5-e473-475-episode-cards-v1.md`
-- `docs/05_characters/ga5-vesper-opening-command-and-crew-cast-e451-475-v1.md`
-- `docs/09_collection/detail/ga5-e451-475-vesper-charter-and-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga5-e451-475-redteam-v1.md`
+- [[ga5-e451-475-vesper-opening-oob-and-alignment-state-v1]]
+- [[ga5-e451-457-episode-cards-v1]]
+- [[ga5-e458-464-episode-cards-v1]]
+- [[ga5-e465-472-episode-cards-v1]]
+- [[ga5-e473-475-episode-cards-v1]]
+- [[ga5-vesper-opening-command-and-crew-cast-e451-475-v1]]
+- [[ga5-e451-475-vesper-charter-and-loss-state-v1]]
+- [[ga5-e451-475-redteam-v1]]
 
 ## 3. Locked Opening Fleet State
 

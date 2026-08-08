@@ -32,13 +32,13 @@ Copy the prompt below into a new window.
    - 병합 뒤 다시 `merged=true`를 조회하고 실제 merge SHA를 기록한다.
 
 2. `main`에서 다음 파일을 확인한다.
-   - `docs/00_project/ga8-detail-progress-status-725-2026-08-05.md`
-   - `docs/00_project/context-handoff-ga8-after-e825-2026-08-05.md`
+   - [[ga8-detail-progress-status-725-2026-08-05]]
+   - [[context-handoff-ga8-after-e825-2026-08-05]]
    - 없으면 PR #78 병합과 파일 반영을 먼저 해결한다.
 
 3. GA7 완료상태도 유지한다.
    - PR #77 merge SHA: `4b1f64a6901911a2f7853a11f59eac17b89ae11b`
-   - `docs/00_project/ga7-detail-progress-status-700-2026-08-05.md`
+   - [[ga7-detail-progress-status-700-2026-08-05]]
    - GA7 E691–800 = 110/110
    - 누적 E101–800 = 700/1000
 
@@ -49,14 +49,14 @@ Copy the prompt below into a new window.
 - 10 + 8 + 7
 
 파일:
-- `docs/10_story_architecture/detail/ga8-e801-810-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga8-e811-818-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga8-e819-825-episode-cards-v1.md`
-- `docs/08_institutions/ga8-e801-825-living-archive-rights-and-serrat-compact-state-v1.md`
-- `docs/05_characters/ga8-serrat-ai-descendant-and-expedition-cast-e801-825-v1.md`
-- `docs/09_collection/detail/ga8-e801-825-serrat-record-personhood-and-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga8-e801-825-redteam-v1.md`
-- `docs/00_project/ga8-detail-progress-status-725-2026-08-05.md`
+- [[ga8-e801-810-episode-cards-v1]]
+- [[ga8-e811-818-episode-cards-v1]]
+- [[ga8-e819-825-episode-cards-v1]]
+- [[ga8-e801-825-living-archive-rights-and-serrat-compact-state-v1]]
+- [[ga8-serrat-ai-descendant-and-expedition-cast-e801-825-v1]]
+- [[ga8-e801-825-serrat-record-personhood-and-loss-state-v1]]
+- [[ga8-e801-825-redteam-v1]]
+- [[ga8-detail-progress-status-725-2026-08-05]]
 
 진행:
 - GA8 E801–825 = 25/100

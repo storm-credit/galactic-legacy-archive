@@ -17,7 +17,7 @@ Open Risks: the conditional CY 743-10-12 routine window and permanent post-Trust
 - E330 GA3 closure: CY 743-09-30.
 - E331 / GA4 opening: CY 743-10-01.
 
-All conflicting earlier detailed dates are superseded by `docs/01_timeline/ga2-ga3-detailed-episode-date-override-v1.md`.
+All conflicting earlier detailed dates are superseded by [[ga2-ga3-detailed-episode-date-override-v1]].
 
 ## 2. Starting Physical and Political State at E311
 

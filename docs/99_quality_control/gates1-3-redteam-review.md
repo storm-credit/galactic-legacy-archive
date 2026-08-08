@@ -209,13 +209,13 @@ Control:
 
 Before Gate 4–6 can pass, the following dependencies must be created:
 
-1. `original-timeline.md` — 원래 역사 20대 사건.
-2. `academy-system-bible.md` — 학교 법·시설·교육·형량.
-3. `legacy-archive-system-bible.md` — 유산록 규칙과 수집 루프.
-4. `initial-faction-bible.md` — 다섯 세력의 자원·지도자·승리조건.
-5. `protagonist-bible.md` and `hero-h001.md`.
-6. `first-frame-system-sheet.md`.
-7. `first-20-causality-map.md`.
+1. [[original-timeline-v1]] — 원래 역사 20대 사건.
+2. [[prison-military-academy-bible-v1]] — 학교 법·시설·교육·형량.
+3. [[galactic-legacy-collection-bible-v1]] — 유산록 규칙과 수집 루프.
+4. [[initial-five-faction-bible-v1]] — 다섯 세력의 자원·지도자·승리조건.
+5. [[protagonist-p001-bible-v1]] and [[hero-h001-bible-v1]].
+6. [[first-frame-bible-v1]].
+7. [[first-20-causality-map-v1]].
 
 ## 8. Promotion Decision
 

@@ -29,15 +29,15 @@ Arithmetic:
 
 ## 2. B10-04 Files
 
-- `docs/10_story_architecture/detail/ga10-e1076-1085-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga10-e1086-1093-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga10-e1094-1100-episode-cards-v1.md`
-- `docs/08_institutions/ga10-e1076-1100-final-return-public-institutions-and-no-master-key-state-v1.md`
-- `docs/05_characters/ga10-final-return-ordinary-crisis-and-citizen-state-e1076-1100-v1.md`
-- `docs/09_collection/detail/ga10-e1076-1100-final-modules-assets-craft-claims-and-loss-state-v1.md`
-- `docs/00_project/canonical-haren-sanction-timeline-errata-004.md`
-- `docs/99_quality_control/detail/ga10-e1001-1100-final-cross-audit-v1.md`
-- `docs/99_quality_control/detail/e101-1100-complete-detail-cross-audit-v1.md`
+- [[ga10-e1076-1085-episode-cards-v1]]
+- [[ga10-e1086-1093-episode-cards-v1]]
+- [[ga10-e1094-1100-episode-cards-v1]]
+- [[ga10-e1076-1100-final-return-public-institutions-and-no-master-key-state-v1]]
+- [[ga10-final-return-ordinary-crisis-and-citizen-state-e1076-1100-v1]]
+- [[ga10-e1076-1100-final-modules-assets-craft-claims-and-loss-state-v1]]
+- [[canonical-haren-sanction-timeline-errata-004]]
+- [[ga10-e1001-1100-final-cross-audit-v1]]
+- [[e101-1100-complete-detail-cross-audit-v1]]
 
 ## 3. Final Authority State
 

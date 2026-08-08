@@ -9,13 +9,13 @@ Used By: B07-04 merge decision, E791–800 final batch, GA7 cross-audit
 ## 1. Audit Scope
 
 Files audited:
-- `docs/10_story_architecture/detail/ga7-e766-775-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga7-e776-783-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga7-e784-790-episode-cards-v1.md`
-- `docs/08_institutions/ga7-e766-790-haren-verdict-and-provisional-federation-state-v1.md`
-- `docs/05_characters/ga7-inquiry-federation-cast-e766-790-v1.md`
-- `docs/09_collection/detail/ga7-e766-790-verdict-reparations-and-federation-state-v1.md`
-- `docs/00_project/ga7-detail-progress-status-690-2026-08-04.md`
+- [[ga7-e766-775-episode-cards-v1]]
+- [[ga7-e776-783-episode-cards-v1]]
+- [[ga7-e784-790-episode-cards-v1]]
+- [[ga7-e766-790-haren-verdict-and-provisional-federation-state-v1]]
+- [[ga7-inquiry-federation-cast-e766-790-v1]]
+- [[ga7-e766-790-verdict-reparations-and-federation-state-v1]]
+- [[ga7-detail-progress-status-690-2026-08-04]]
 
 Audit boundary:
 - detailed design only;

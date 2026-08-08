@@ -33,8 +33,8 @@ Copy the prompt below into a new window if needed.
    - 병합 후 merge SHA 재조회.
 
 2. `main`에서 확인한다.
-   - `docs/00_project/ga8-detail-progress-status-750-2026-08-05.md`
-   - `docs/00_project/context-handoff-ga8-after-e850-2026-08-05.md`
+   - [[ga8-detail-progress-status-750-2026-08-05]]
+   - [[context-handoff-ga8-after-e850-2026-08-05]]
 
 3. 이전 상태 유지.
    - PR #78 merge SHA: `21ef619d313008b49482006766aa7f9efc7d7bfa`
@@ -54,14 +54,14 @@ Copy the prompt below into a new window if needed.
 - S0/S1 blockers 0
 
 파일:
-- `docs/10_story_architecture/detail/ga8-e826-835-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga8-e836-843-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga8-e844-850-episode-cards-v1.md`
-- `docs/08_institutions/ga8-e826-850-four-founding-histories-and-current-rights-state-v1.md`
-- `docs/05_characters/ga8-four-founding-histories-and-serrat-current-parties-e826-850-v1.md`
-- `docs/09_collection/detail/ga8-e826-850-founding-record-contract-standing-and-seed-state-v1.md`
-- `docs/99_quality_control/detail/ga8-e826-850-redteam-v1.md`
-- `docs/00_project/ga8-detail-progress-status-750-2026-08-05.md`
+- [[ga8-e826-835-episode-cards-v1]]
+- [[ga8-e836-843-episode-cards-v1]]
+- [[ga8-e844-850-episode-cards-v1]]
+- [[ga8-e826-850-four-founding-histories-and-current-rights-state-v1]]
+- [[ga8-four-founding-histories-and-serrat-current-parties-e826-850-v1]]
+- [[ga8-e826-850-founding-record-contract-standing-and-seed-state-v1]]
+- [[ga8-e826-850-redteam-v1]]
+- [[ga8-detail-progress-status-750-2026-08-05]]
 
 ## 네 건국사 잠금
 

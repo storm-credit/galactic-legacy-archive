@@ -12,7 +12,7 @@ Open Risks: all scores are internal author-side judgments until blind human/mobi
 ### Sample A — White Dock action
 
 File:
-- `docs/07_style/gate8-noncanon-white-dock-action-sample-v1.md`
+- [[gate8-noncanon-white-dock-action-sample-v1]]
 
 Core question:
 - can readers follow a three-dimensional capture-versus-rescue choice and understand why 07 loses a real component?
@@ -20,7 +20,7 @@ Core question:
 ### Sample B — Central-key action
 
 File:
-- `docs/07_style/gate8-noncanon-central-key-action-sample-v1.md`
+- [[gate8-noncanon-central-key-action-sample-v1]]
 
 Core question:
 - can readers understand that centralized command immediately saves lives while authority distribution remains physically slower and harmful?
@@ -28,7 +28,7 @@ Core question:
 ### Sample C — ORA-3 consent dialogue
 
 File:
-- `docs/07_style/gate8-noncanon-ora3-consent-dialogue-sample-v1.md`
+- [[gate8-noncanon-ora3-consent-dialogue-sample-v1]]
 
 Core question:
 - can readers distinguish source-bound medical/record evidence from a restored consciousness and experience limited/deleted information as meaningful loss?
@@ -36,7 +36,7 @@ Core question:
 ### Sample D — Package/charter mobile explanation
 
 File:
-- `docs/07_style/gate8-noncanon-package-charter-mobile-sample-v1.md`
+- [[gate8-noncanon-package-charter-mobile-sample-v1]]
 
 Core question:
 - can readers differentiate five viable options and understand why an underfunded charter leads to the first ship mission?

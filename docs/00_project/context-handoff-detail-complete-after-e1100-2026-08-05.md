@@ -19,11 +19,11 @@ Use this file only for a future window or explicit next-phase review. No manuscr
    - if not merged, compare latest branch `agent/ga10-b10-04-e1076-1100-final` to `main`, then squash merge and re-query.
 
 2. Verify on `main`:
-   - `docs/00_project/ga10-detail-progress-status-1000-2026-08-05.md`
-   - `docs/00_project/detail-design-completion-status-1000-2026-08-05.md`
-   - `docs/00_project/context-handoff-detail-complete-after-e1100-2026-08-05.md`
-   - `docs/99_quality_control/detail/ga10-e1001-1100-final-cross-audit-v1.md`
-   - `docs/99_quality_control/detail/e101-1100-complete-detail-cross-audit-v1.md`
+   - [[ga10-detail-progress-status-1000-2026-08-05]]
+   - [[detail-design-completion-status-1000-2026-08-05]]
+   - [[context-handoff-detail-complete-after-e1100-2026-08-05]]
+   - [[ga10-e1001-1100-final-cross-audit-v1]]
+   - [[e101-1100-complete-detail-cross-audit-v1]]
 
 ## Completion State
 

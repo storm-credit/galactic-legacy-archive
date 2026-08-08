@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agent: R03 / R04 / R05 / N07 / W02
 Last Reviewed: 2026-08-03
-Depends On: `gate1-reference-baseline.md`
+Depends On: [[gate1-reference-baseline]]
 Used By: Gate 2 concept comparison, first-20 design, prose calibration
 Open Risks: Exact episode counts require legal-preview verification
 

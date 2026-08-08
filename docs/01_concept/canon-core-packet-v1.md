@@ -3,7 +3,7 @@
 Status: CANON v1
 Owner Agents: O00 PM / R01 Genre Promise / R02 Theme / T06 Regression / C01 Protagonist / C02 Hero Roster / P06 Factions / N01 Macro Story
 Last Reviewed: 2026-08-03
-Depends On: `four-directions-comparison.md`, `regression-causality-harness.md`, `lattice-war-physics-and-ai-law.md`
+Depends On: [[four-directions-comparison]], [[regression-causality-harness]], [[lattice-war-physics-and-ai-law]]
 Used By: All world, character, faction, collection, and plot design
 Open Risks: Names remain provisional; exact chronology and faction economics require later calibration
 

@@ -3,7 +3,7 @@
 Status: CANON PROJECT CONTROL — LIVING REGISTRY
 Owner Agents: X04 Continuity / O01 Canon
 Last Reviewed: 2026-08-06
-Depends On: `docs/13_writing_harness/revision-harness.md` Pass 4, `docs/00_project/manuscript-production-workflow-v1.md` §3.3
+Depends On: [[revision-harness]] Pass 4, [[manuscript-production-workflow-v1]] §3.3
 Used By: 모든 원고 검수 사이클
 Open Risks: 없음 — 미해결 항목이 곧 위험 목록이다
 

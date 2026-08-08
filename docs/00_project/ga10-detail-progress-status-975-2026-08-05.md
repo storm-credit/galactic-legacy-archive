@@ -26,13 +26,13 @@ Grand-act breakdown:
 
 ## 2. B10-03 Files
 
-- `docs/10_story_architecture/detail/ga10-e1051-1060-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga10-e1061-1068-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga10-e1069-1075-episode-cards-v1.md`
-- `docs/08_institutions/ga10-e1051-1075-autonomous-fronts-last-central-fleet-state-v1.md`
-- `docs/05_characters/ga10-autonomous-fronts-early-institutions-and-last-fleet-cast-e1051-1075-v1.md`
-- `docs/09_collection/detail/ga10-e1051-1075-autonomous-front-craft-module-and-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga10-e1051-1075-redteam-v1.md`
+- [[ga10-e1051-1060-episode-cards-v1]]
+- [[ga10-e1061-1068-episode-cards-v1]]
+- [[ga10-e1069-1075-episode-cards-v1]]
+- [[ga10-e1051-1075-autonomous-fronts-last-central-fleet-state-v1]]
+- [[ga10-autonomous-fronts-early-institutions-and-last-fleet-cast-e1051-1075-v1]]
+- [[ga10-e1051-1075-autonomous-front-craft-module-and-loss-state-v1]]
+- [[ga10-e1051-1075-redteam-v1]]
 
 ## 3. Autonomous Fronts
 

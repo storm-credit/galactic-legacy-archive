@@ -3,7 +3,7 @@
 Status: DRAFT — 낭독 스킬 제작의 입력 규격
 Owner Agents: A00 PM / A11 Prose / L01 Prose
 Last Reviewed: 2026-08-06
-Depends On: `docs/13_writing_harness/prose-bible.md`, `docs/07_style/gate1-korean-webnovel-pov-prose-calibration-v1.md`, `docs/05_characters/core-canonical-names-and-voice-lock-v1.md`, `docs/11_mystery/m001-m020-early-clue-episode-ledger-v1.md`, `docs/00_project/canonical-name-errata-001.md`~`-004.md`
+Depends On: [[prose-bible]], [[gate1-korean-webnovel-pov-prose-calibration-v1]], [[core-canonical-names-and-voice-lock-v1]], [[m001-m020-early-clue-episode-ledger-v1]], [[canonical-name-errata-001]], [[canonical-name-errata-002]], [[canonical-crew-minimum-errata-003]], [[canonical-haren-sanction-timeline-errata-004]]
 Used By: 낭독(한 줄씩 읽기) 스킬, 오디오 검수
 Open Risks: 낭독 시료가 될 정본 원고는 게이트 개방 후 생산됨. 그 전에는 비정본 샘플(E1 v2)로만 테스트한다.
 
@@ -19,7 +19,7 @@ Open Risks: 낭독 시료가 될 정본 원고는 게이트 개방 후 생산됨
 
 ## 3. 축 2 — 화자 구별
 
-- `core-canonical-names-and-voice-lock-v1.md`의 6인 음성 잠금을 인물별 낭독 파라미터(속도·톤·어미 처리)로 변환한다.
+- [[core-canonical-names-and-voice-lock-v1]]의 6인 음성 잠금을 인물별 낭독 파라미터(속도·톤·어미 처리)로 변환한다.
 - 판정 기준은 revision-harness Pass 8과 동일: 화자 표기를 가려도 인물이 구별되어야 한다.
 - 모든 인물이 주인공처럼 들리면 FAIL.
 

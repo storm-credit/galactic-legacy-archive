@@ -5,7 +5,7 @@ Episode: E1
 Reviewed: 2026-08-08
 Reviewer Roles: A00 PM / A11 Prose / C02 Ensemble / C06 Voice / H04 Maintenance / O01 Canon / X04 Continuity
 Publication: NOT AUTHORIZED
-Extends: `docs/99_quality_control/ga1-e1-v2-paragraph-causality-corrective-review-2026-08-08.md`
+Extends: [[ga1-e1-v2-paragraph-causality-corrective-review-2026-08-08]]
 
 ## Verdict
 
@@ -23,19 +23,19 @@ Extends: `docs/99_quality_control/ga1-e1-v2-paragraph-causality-corrective-revie
 
 ## Canon & Design Sources Checked
 
-- `docs/10_story_architecture/ga1-episodes-1-5-noncanon-scene-cards-v1.md`
+- [[ga1-episodes-1-5-noncanon-scene-cards-v1]]
   - E1: 평범한 도크 작업자가 잠금 순서를 바꾸고 구조를 완성
   - E1: 네라는 생도가 알 수 없는 서비스 인터페이스 용어를 리안이 사용한 사실을 포착
   - E2: 브람의 실제 기여가 사고 요약에서 리안에게 잘못 귀속되는 문제를 후속 회수
-- `docs/05_characters/hero-h002-mechanic-bible-v1.md`
+- [[hero-h002-mechanic-bible-v1]]
   - 네라는 변경 공방 출신의 학교 편입생이며 임시 정비평가 대상
   - 현장 규격과 실제 작업 근거를 중시하고 근거 없는 천재 직감을 금지
   - 미래에는 리안의 변경전대에서 구형기 생존률을 높였으나 공식 기록은 그 성과를 리안의 운용으로 귀속
   - 공식 사망 기록과 실제 실종은 분리
-- `docs/05_characters/core-canonical-names-and-voice-lock-v1.md`
+- [[core-canonical-names-and-voice-lock-v1]]
   - 네라는 물리적 고장, 시험 조건, 실제 작업자를 중심으로 말함
   - 문서화와 인증을 조롱하는 인물로 쓰지 않음
-- `docs/05_characters/rian-index-removal-memory-and-medical-state-v1.md`
+- [[rian-index-removal-memory-and-medical-state-v1]]
   - 미래 기억은 현재의 확정 사실이 아니며 익숙함을 현재 확실성으로 오인할 수 있음
 
 ## Applied Corrections

@@ -3,7 +3,7 @@
 Status: CANON FOR ORCHESTRATION
 Owner Agent: O00 Novel PM Orchestrator
 Last Reviewed: 2026-08-03
-Depends On: `CLAUDE.md`, `docs/00_project/orchestra.md`, `agent-gap-audit.md`
+Depends On: [[CLAUDE]], [[orchestra]], [[agent-gap-audit]]
 Used By: Every phase gate and review route
 Open Risks: Coordination overhead, duplicated review, excessive specialization
 

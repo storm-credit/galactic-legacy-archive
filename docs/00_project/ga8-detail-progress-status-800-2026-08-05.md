@@ -24,13 +24,13 @@ Grand-act breakdown:
 
 ## 2. B08-04 Files
 
-- `docs/10_story_architecture/detail/ga8-e876-885-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga8-e886-893-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga8-e894-900-episode-cards-v1.md`
-- `docs/08_institutions/ga8-e876-900-seed-activation-settlement-and-central-key-state-v1.md`
-- `docs/05_characters/ga8-seed-activation-beneficiary-harmed-and-central-key-cast-e876-900-v1.md`
-- `docs/09_collection/detail/ga8-e876-900-seed-activation-actions-deletion-and-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga8-e801-900-final-cross-audit-v1.md`
+- [[ga8-e876-885-episode-cards-v1]]
+- [[ga8-e886-893-episode-cards-v1]]
+- [[ga8-e894-900-episode-cards-v1]]
+- [[ga8-e876-900-seed-activation-settlement-and-central-key-state-v1]]
+- [[ga8-seed-activation-beneficiary-harmed-and-central-key-cast-e876-900-v1]]
+- [[ga8-e876-900-seed-activation-actions-deletion-and-loss-state-v1]]
+- [[ga8-e801-900-final-cross-audit-v1]]
 
 ## 3. Seed Bridge Authority
 

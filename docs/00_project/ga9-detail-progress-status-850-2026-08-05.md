@@ -25,13 +25,13 @@ Grand-act breakdown:
 
 ## 2. B09-02 Files
 
-- `docs/10_story_architecture/detail/ga9-e926-935-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga9-e936-943-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga9-e944-950-episode-cards-v1.md`
-- `docs/08_institutions/ga9-e926-950-current-standing-profile-reuse-and-administrative-rights-state-v1.md`
-- `docs/05_characters/ga9-current-standing-diversity-affected-and-command-cast-e926-950-v1.md`
-- `docs/09_collection/detail/ga9-e926-950-linked-profile-actions-standing-remedy-and-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga9-e926-950-redteam-v1.md`
+- [[ga9-e926-935-episode-cards-v1]]
+- [[ga9-e936-943-episode-cards-v1]]
+- [[ga9-e944-950-episode-cards-v1]]
+- [[ga9-e926-950-current-standing-profile-reuse-and-administrative-rights-state-v1]]
+- [[ga9-current-standing-diversity-affected-and-command-cast-e926-950-v1]]
+- [[ga9-e926-950-linked-profile-actions-standing-remedy-and-loss-state-v1]]
+- [[ga9-e926-950-redteam-v1]]
 
 ## 3. Linked-Profile Review
 

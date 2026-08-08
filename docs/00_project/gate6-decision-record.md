@@ -3,7 +3,7 @@
 Status: CANON PROJECT CONTROL
 Owner Agent: O00 Novel PM Orchestrator
 Last Reviewed: 2026-08-03
-Depends On: `decision-log.md`, Gate 6 architecture files
+Depends On: [[decision-log]], Gate 6 architecture files
 Used By: Decision-log consolidation, Gate 6 issue, all downstream act design
 Open Risks: Must be consolidated into the main decision log during the next governance pass
 
@@ -37,9 +37,9 @@ Reversal condition:
 - final conflict erases human faction responsibility and becomes only “evil AI battle.”
 
 Affected documents:
-- `docs/11_mystery/legacy-archive-origin-ending-options.md`
-- `docs/11_mystery/series-payoff-ledger-v1.md`
-- `docs/10_story_architecture/1000-episode-grand-act-map-v1.md`
+- [[legacy-archive-origin-ending-options]]
+- [[series-payoff-ledger-v1]]
+- [[1000-episode-grand-act-map-v1]]
 
 ---
 
@@ -73,8 +73,8 @@ Reversal condition:
 - a grand act can be removed without changing the ending or next grand act.
 
 Affected documents:
-- `docs/10_story_architecture/1000-episode-grand-act-map-v1.md`
-- `docs/10_story_architecture/grand-act-character-faction-matrix-v1.md`
+- [[1000-episode-grand-act-map-v1]]
+- [[grand-act-character-faction-matrix-v1]]
 
 ---
 
@@ -97,7 +97,7 @@ Reversal condition:
 - continuity benefits cannot be demonstrated through named people and visible services.
 
 Affected documents:
-- `docs/05_characters/antagonist-a001-continuity-director-v1.md`
+- [[antagonist-a001-continuity-director-v1]]
 - character/faction matrix.
 
 ---
@@ -116,7 +116,7 @@ Control:
 - H-001, H-002, factions, local communities, AI and representatives maintain independent goals, organizations, failures, and exit rights.
 
 Affected documents:
-- `docs/10_story_architecture/grand-act-character-faction-matrix-v1.md`
+- [[grand-act-character-faction-matrix-v1]]
 - protagonist bible.
 
 ---
@@ -146,11 +146,11 @@ Prerequisites before scene-card authorization:
 4. first-five target length/scene count and non-canon prose calibration.
 
 Affected documents:
-- `docs/10_story_architecture/first-100-act-map-v1.md`
-- `docs/99_quality_control/gate6-macro-redteam-review.md`
+- [[first-100-act-map-v1]]
+- [[gate6-macro-redteam-review]]
 
 ---
 
 ## Consolidation Note
 
-This file is a Gate 6 control record, not a replacement for `decision-log.md`. O03 must merge G6-D01–05 into the main decision log after the next governance review and then mark this file as archived or retain it as the evidence packet.
+This file is a Gate 6 control record, not a replacement for [[decision-log]]. O03 must merge G6-D01–05 into the main decision log after the next governance review and then mark this file as archived or retain it as the evidence packet.

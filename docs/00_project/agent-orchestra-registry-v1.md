@@ -3,7 +3,7 @@
 Status: CANON PROJECT CONTROL
 Owner Agent: A00 Novel PM Orchestrator
 Last Reviewed: 2026-08-03
-Depends On: `CLAUDE.md`, final settings-bible audit, document owner headers
+Depends On: [[CLAUDE]], final settings-bible audit, document owner headers
 Used By: all future design, review, change control and handoff sessions
 Open Risks: this is a role-based specialist system operated by one orchestrator unless an execution log explicitly proves independent agent sessions
 

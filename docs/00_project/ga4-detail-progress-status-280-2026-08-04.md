@@ -22,15 +22,15 @@ The approved 1100-episode act/subact blueprint remains separate from this detail
 
 ## 2. B04-02 Files
 
-- `docs/10_story_architecture/detail/ga4-e356-360-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga4-e361-368-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga4-e369-376-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga4-e377-380-episode-cards-v1.md`
-- `docs/00_project/ga4-b04-02-continuity-correction-001.md`
-- `docs/05_characters/ga4-graybridge-meridian-and-compact-cast-e356-380-v1.md`
-- `docs/06_law/ga4-e356-380-four-function-and-seven-field-compact-state-v1.md`
-- `docs/09_collection/detail/ga4-e356-380-four-function-compact-and-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga4-e356-380-redteam-v1.md`
+- [[ga4-e356-360-episode-cards-v1]]
+- [[ga4-e361-368-episode-cards-v1]]
+- [[ga4-e369-376-episode-cards-v1]]
+- [[ga4-e377-380-episode-cards-v1]]
+- [[ga4-b04-02-continuity-correction-001]]
+- [[ga4-graybridge-meridian-and-compact-cast-e356-380-v1]]
+- [[ga4-e356-380-four-function-and-seven-field-compact-state-v1]]
+- [[ga4-e356-380-four-function-compact-and-loss-state-v1]]
+- [[ga4-e356-380-redteam-v1]]
 
 ## 3. Locked Results
 

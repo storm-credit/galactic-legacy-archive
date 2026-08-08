@@ -17,15 +17,15 @@ Approved act/subact architecture remains complete for E101–1100, but does not 
 
 ## 2. Completed Files
 
-- `docs/00_project/canonical-crew-minimum-errata-003.md`
-- `docs/06_hardware/ga2-opening-ship-finance-and-state-e101-125-v1.md`
-- `docs/10_story_architecture/detail/ga2-e101-107-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga2-e108-114-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga2-e115-121-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga2-e122-125-episode-cards-v1.md`
-- `docs/07_military/operations/ga2-e122-125-first-voyage-operation-state-v1.md`
-- `docs/09_collection/detail/ga2-e101-125-collection-state-update-v1.md`
-- `docs/99_quality_control/detail/ga2-e101-125-redteam-v1.md`
+- [[canonical-crew-minimum-errata-003]]
+- [[ga2-opening-ship-finance-and-state-e101-125-v1]]
+- [[ga2-e101-107-episode-cards-v1]]
+- [[ga2-e108-114-episode-cards-v1]]
+- [[ga2-e115-121-episode-cards-v1]]
+- [[ga2-e122-125-episode-cards-v1]]
+- [[ga2-e122-125-first-voyage-operation-state-v1]]
+- [[ga2-e101-125-collection-state-update-v1]]
+- [[ga2-e101-125-redteam-v1]]
 
 ## 3. Canonical Results
 

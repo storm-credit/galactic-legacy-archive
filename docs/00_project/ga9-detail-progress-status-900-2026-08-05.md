@@ -25,13 +25,13 @@ Grand-act breakdown:
 
 ## 2. B09-04 Files
 
-- `docs/10_story_architecture/detail/ga9-e976-985-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga9-e986-993-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga9-e994-1000-episode-cards-v1.md`
-- `docs/08_institutions/ga9-e976-1000-final-campaign-transitional-split-custody-state-v1.md`
-- `docs/05_characters/ga9-final-campaign-rian-aven-enclave-and-transition-cast-e976-1000-v1.md`
-- `docs/09_collection/detail/ga9-e976-1000-final-campaign-command-service-fleet-and-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga9-e901-1000-final-cross-audit-v1.md`
+- [[ga9-e976-985-episode-cards-v1]]
+- [[ga9-e986-993-episode-cards-v1]]
+- [[ga9-e994-1000-episode-cards-v1]]
+- [[ga9-e976-1000-final-campaign-transitional-split-custody-state-v1]]
+- [[ga9-final-campaign-rian-aven-enclave-and-transition-cast-e976-1000-v1]]
+- [[ga9-e976-1000-final-campaign-command-service-fleet-and-loss-state-v1]]
+- [[ga9-e901-1000-final-cross-audit-v1]]
 
 ## 3. GA9 Final Causal State
 

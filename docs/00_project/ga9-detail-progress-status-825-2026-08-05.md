@@ -25,13 +25,13 @@ Grand-act breakdown:
 
 ## 2. B09-01 Files
 
-- `docs/10_story_architecture/detail/ga9-e901-910-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga9-e911-918-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga9-e919-925-episode-cards-v1.md`
-- `docs/08_institutions/ga9-e901-925-perfect-route-treaty-key-and-administrative-friction-state-v1.md`
-- `docs/05_characters/ga9-perfect-route-aven-rian-beneficiary-and-border-cast-e901-925-v1.md`
-- `docs/09_collection/detail/ga9-e901-925-perfect-route-performance-credential-appeal-and-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga9-e901-925-redteam-v1.md`
+- [[ga9-e901-910-episode-cards-v1]]
+- [[ga9-e911-918-episode-cards-v1]]
+- [[ga9-e919-925-episode-cards-v1]]
+- [[ga9-e901-925-perfect-route-treaty-key-and-administrative-friction-state-v1]]
+- [[ga9-perfect-route-aven-rian-beneficiary-and-border-cast-e901-925-v1]]
+- [[ga9-e901-925-perfect-route-performance-credential-appeal-and-loss-state-v1]]
+- [[ga9-e901-925-redteam-v1]]
 
 ## 3. Perfect Route Envelope
 

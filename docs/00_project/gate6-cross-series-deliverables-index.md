@@ -6,16 +6,16 @@ Last Reviewed: 2026-08-03
 
 ## Cross-Series Completion Packet
 
-- `docs/10_story_architecture/ga1-10-causal-transition-matrix-v1.md`
+- [[ga1-10-causal-transition-matrix-v1]]
   - GA1–10 victories, costs, infrastructure, next-act causes and final reuse.
 
-- `docs/99_quality_control/gate6-cross-series-completion-audit.md`
+- [[gate6-cross-series-completion-audit]]
   - final architecture verdict, cross-series risks, contraction audit and Pre-Writing blockers.
 
-- `docs/00_project/gate6-completion-status-2026-08-03.md`
+- [[gate6-completion-status-2026-08-03]]
   - canonical project-control status and next required work.
 
-- `docs/11_mystery/final-payoff-scene-ledger-template-v1.md`
+- [[final-payoff-scene-ledger-template-v1]]
   - M-001–M-020 scene-lock template and macro final ranges.
 
 ## Final Architecture Status

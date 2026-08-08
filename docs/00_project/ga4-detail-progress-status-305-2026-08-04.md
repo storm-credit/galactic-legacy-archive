@@ -22,13 +22,13 @@ The approved 1100-episode act/subact blueprint remains separate from this detail
 
 ## 2. B04-03 Files
 
-- `docs/10_story_architecture/detail/ga4-e381-388-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga4-e389-396-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga4-e397-405-episode-cards-v1.md`
-- `docs/05_characters/ga4-pilot-parallel-governance-cast-e381-405-v1.md`
-- `docs/06_law/ga4-e381-405-seven-field-pilot-and-parallel-governance-state-v1.md`
-- `docs/09_collection/detail/ga4-e381-405-pilot-parallel-governance-and-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga4-e381-405-redteam-v1.md`
+- [[ga4-e381-388-episode-cards-v1]]
+- [[ga4-e389-396-episode-cards-v1]]
+- [[ga4-e397-405-episode-cards-v1]]
+- [[ga4-pilot-parallel-governance-cast-e381-405-v1]]
+- [[ga4-e381-405-seven-field-pilot-and-parallel-governance-state-v1]]
+- [[ga4-e381-405-pilot-parallel-governance-and-loss-state-v1]]
+- [[ga4-e381-405-redteam-v1]]
 
 ## 3. Locked Results
 

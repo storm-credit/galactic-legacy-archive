@@ -14,13 +14,13 @@ Used By: next branch, progress reporting and context handoff
 
 ## 2. B02-02 Completed Files
 
-- `docs/10_story_architecture/detail/ga2-e126-130-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga2-e131-137-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga2-e138-145-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga2-e146-150-episode-cards-v1.md`
-- `docs/07_military/operations/ga2-e126-150-voyage-and-marn-operation-state-v1.md`
-- `docs/09_collection/detail/ga2-e126-150-collection-and-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga2-e126-150-redteam-v1.md`
+- [[ga2-e126-130-episode-cards-v1]]
+- [[ga2-e131-137-episode-cards-v1]]
+- [[ga2-e138-145-episode-cards-v1]]
+- [[ga2-e146-150-episode-cards-v1]]
+- [[ga2-e126-150-voyage-and-marn-operation-state-v1]]
+- [[ga2-e126-150-collection-and-loss-state-v1]]
+- [[ga2-e126-150-redteam-v1]]
 
 ## 3. Locked Results
 

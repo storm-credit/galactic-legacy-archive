@@ -3,13 +3,13 @@
 Status: CANON FOR ORCHESTRA DESIGN
 Owner Agent: O00 Novel PM Orchestrator
 Last Reviewed: 2026-08-03
-Depends On: `orchestra.md`, `specialist-roster.md`
+Depends On: [[orchestra]], [[specialist-roster]]
 Used By: Phase planning, task routing, pre-writing gate
 Open Risks: Too many reviewers, unclear final authority, duplicated documentation
 
 ## 1. Audit Result
 
-기존 18개 역할은 프로젝트 범위를 넓게 덮지만, 깊은 설계와 검증을 위해서는 **부서장 역할**로만 사용해야 한다. 실제 작업은 `specialist-roster.md`의 세부 전문가가 수행한다.
+기존 18개 역할은 프로젝트 범위를 넓게 덮지만, 깊은 설계와 검증을 위해서는 **부서장 역할**로만 사용해야 한다. 실제 작업은 [[specialist-roster]]의 세부 전문가가 수행한다.
 
 핵심 발견:
 
@@ -117,7 +117,7 @@ Open Risks: Too many reviewers, unclear final authority, duplicated documentatio
 - P07 적대세력 전략
 - P08 제3세력·비동맹
 - N08 세력아크 통합
-- `faction-symmetry-harness.md`
+- [[faction-symmetry-harness]]
 
 ### Military
 
@@ -173,7 +173,7 @@ Open Risks: Too many reviewers, unclear final authority, duplicated documentatio
 - G07 상실·영구손실·복구
 - G08 게임모티브 번역·비복제
 - G09 피드백·해금 연출
-- `game-motif-research-harness.md`
+- [[game-motif-research-harness]]
 
 ### Character & Relationship
 
@@ -233,7 +233,7 @@ Open Risks: Too many reviewers, unclear final authority, duplicated documentatio
 - W10 서스펜스·공개
 - W11 전환·몽타주·시간압축
 - W12 연재 훅·회차엔딩
-- `storycraft-bible.md`
+- [[storycraft-bible]]
 
 ### Quality & Revision
 
@@ -313,7 +313,7 @@ Affected Documents:
 
 ## 7. Final Audit Verdict
 
-현재 필요한 전문 영역은 `specialist-roster.md`로 충분히 덮었다. 이후 새 에이전트를 추가할 조건은 다음뿐이다.
+현재 필요한 전문 영역은 [[specialist-roster]]로 충분히 덮었다. 이후 새 에이전트를 추가할 조건은 다음뿐이다.
 
 - 기존 전문가가 검증할 수 없는 새로운 학문·장르가 핵심 플롯에 등장
 - 반복적으로 같은 누락이 발생

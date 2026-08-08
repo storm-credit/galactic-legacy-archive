@@ -22,14 +22,14 @@ The 1100-episode act/subact blueprint and the detailed-card numerator remain sep
 
 ## 2. B03-02 Files
 
-- `docs/10_story_architecture/detail/ga3-e236-240-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga3-e241-247-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga3-e248-254-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga3-e255-260-episode-cards-v1.md`
-- `docs/05_characters/ga3-ardis-front-stage-local-cast-e236-260-v1.md`
-- `docs/07_military/operations/ga3-e236-260-foundry-residency-spineb-operation-state-v1.md`
-- `docs/09_collection/detail/ga3-e236-260-collection-and-institution-state-v1.md`
-- `docs/99_quality_control/detail/ga3-e236-260-redteam-v1.md`
+- [[ga3-e236-240-episode-cards-v1]]
+- [[ga3-e241-247-episode-cards-v1]]
+- [[ga3-e248-254-episode-cards-v1]]
+- [[ga3-e255-260-episode-cards-v1]]
+- [[ga3-ardis-front-stage-local-cast-e236-260-v1]]
+- [[ga3-e236-260-foundry-residency-spineb-operation-state-v1]]
+- [[ga3-e236-260-collection-and-institution-state-v1]]
+- [[ga3-e236-260-redteam-v1]]
 
 ## 3. Locked Results
 

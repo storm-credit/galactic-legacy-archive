@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: T06 Temporal Causality / N01 Macro Story / N04 Causality / P01 Politics / M01 Grand Strategy / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: `canon-core-packet-v1.md`, `regression-causality-harness.md`, lattice rules
+Depends On: [[canon-core-packet-v1]], [[regression-causality-harness]], lattice rules
 Used By: Divergence ledger, character bibles, faction clocks, macro architecture
 Open Risks: Exact calendar, names, battle geography, casualty scale remain provisional
 

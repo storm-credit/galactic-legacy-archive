@@ -21,14 +21,14 @@ Grand-act breakdown:
 
 ## 2. B05-04 Files
 
-- `docs/10_story_architecture/detail/ga5-e526-533-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga5-e534-540-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga5-e541-547-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga5-e548-550-episode-cards-v1.md`
-- `docs/07_military/operations/ga5-e526-550-outerfront-charter-v02-campaign-state-v1.md`
-- `docs/05_characters/ga5-outerfront-charter-v02-campaign-cast-e526-550-v1.md`
-- `docs/09_collection/detail/ga5-e526-550-outerfront-charter-v02-campaign-state-v1.md`
-- `docs/99_quality_control/detail/ga5-e526-550-redteam-v1.md`
+- [[ga5-e526-533-episode-cards-v1]]
+- [[ga5-e534-540-episode-cards-v1]]
+- [[ga5-e541-547-episode-cards-v1]]
+- [[ga5-e548-550-episode-cards-v1]]
+- [[docs/07_military/operations/ga5-e526-550-outerfront-charter-v02-campaign-state-v1]]
+- [[ga5-outerfront-charter-v02-campaign-cast-e526-550-v1]]
+- [[docs/09_collection/detail/ga5-e526-550-outerfront-charter-v02-campaign-state-v1]]
+- [[ga5-e526-550-redteam-v1]]
 
 ## 3. Outer Front Joint Mission
 

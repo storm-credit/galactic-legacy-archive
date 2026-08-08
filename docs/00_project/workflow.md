@@ -3,7 +3,7 @@
 Status: CANON
 Owner Agent: A00 Novel PM Orchestrator
 Last Reviewed: 2026-08-03
-Depends On: `CLAUDE.md`, `orchestra.md`
+Depends On: [[CLAUDE]], [[orchestra]]
 Used By: All phases
 Open Risks: Over-planning, analysis paralysis, document drift
 
@@ -129,7 +129,7 @@ Open Risks: Over-planning, analysis paralysis, document drift
 
 ### Gate 10 — Pre-Writing Gate
 
-`docs/99_quality_control/prewriting-gate.md`의 모든 필수 항목이 PASS일 때만 본편 집필 브랜치를 생성한다.
+[[prewriting-gate]]의 모든 필수 항목이 PASS일 때만 본편 집필 브랜치를 생성한다.
 
 ## 3. Work Packet Format
 

@@ -35,7 +35,7 @@ Validated route graph:
 
 ## 2. Red-Team Condition Closure
 
-All S0 pre-merge conditions in `deferred-detail-completion-redteam-v1.md` are satisfied.
+All S0 pre-merge conditions in [[deferred-detail-completion-redteam-v1]] are satisfied.
 
 Remaining S1/S2 risks are execution controls, not merge blockers:
 - generated names remain author-side until front-stage approval;

@@ -21,13 +21,13 @@ The approved E101–1100 act/subact architecture remains separate and does not c
 
 ## 2. B03-01 Files
 
-- `docs/02_world/ga3-opening-ardis-city-service-and-arrival-state-e211-235-v1.md`
-- `docs/10_story_architecture/detail/ga3-e211-218-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga3-e219-226-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga3-e227-235-episode-cards-v1.md`
-- `docs/07_military/operations/ga3-e211-235-ardis-joint-service-operation-state-v1.md`
-- `docs/09_collection/detail/ga3-e211-235-collection-and-institution-state-v1.md`
-- `docs/99_quality_control/detail/ga3-e211-235-redteam-v1.md`
+- [[ga3-opening-ardis-city-service-and-arrival-state-e211-235-v1]]
+- [[ga3-e211-218-episode-cards-v1]]
+- [[ga3-e219-226-episode-cards-v1]]
+- [[ga3-e227-235-episode-cards-v1]]
+- [[ga3-e211-235-ardis-joint-service-operation-state-v1]]
+- [[ga3-e211-235-collection-and-institution-state-v1]]
+- [[ga3-e211-235-redteam-v1]]
 
 ## 3. Locked Results
 

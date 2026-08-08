@@ -23,14 +23,14 @@ The 1100-episode act/subact blueprint and the detailed-card numerator remain sep
 
 ## 2. B03-03 Files
 
-- `docs/10_story_architecture/detail/ga3-e261-263-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga3-e264-270-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga3-e271-277-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga3-e278-285-episode-cards-v1.md`
-- `docs/05_characters/ga3-defense-helix-front-stage-cast-e261-285-v1.md`
-- `docs/07_military/operations/ga3-e261-285-spineb-defense-helix-operation-state-v1.md`
-- `docs/09_collection/detail/ga3-e261-285-collection-and-institution-state-v1.md`
-- `docs/99_quality_control/detail/ga3-e261-285-redteam-v1.md`
+- [[ga3-e261-263-episode-cards-v1]]
+- [[ga3-e264-270-episode-cards-v1]]
+- [[ga3-e271-277-episode-cards-v1]]
+- [[ga3-e278-285-episode-cards-v1]]
+- [[ga3-defense-helix-front-stage-cast-e261-285-v1]]
+- [[ga3-e261-285-spineb-defense-helix-operation-state-v1]]
+- [[ga3-e261-285-collection-and-institution-state-v1]]
+- [[ga3-e261-285-redteam-v1]]
 
 ## 3. Locked Results
 

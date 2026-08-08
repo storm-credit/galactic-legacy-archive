@@ -3,7 +3,7 @@
 Status: CANON
 Owner Agent: Novel PM Orchestrator
 Last Reviewed: 2026-08-03
-Depends On: `CLAUDE.md`
+Depends On: [[CLAUDE]]
 Used By: All project phases
 Open Risks: Agent overlap, duplicate authority, excessive documentation
 
@@ -252,4 +252,4 @@ Open Risks: Agent overlap, duplicate authority, excessive documentation
 - 새로운 장르 약속(미스터리, 공포, 탐험 등)이 추가되는가?
 - 현재 고정 에이전트로 검증할 수 없는 영역이 있는가?
 
-있다면 Specialist Bench 역할을 추가하고 `decision-log.md`에 이유를 기록한다.
+있다면 Specialist Bench 역할을 추가하고 [[decision-log]]에 이유를 기록한다.

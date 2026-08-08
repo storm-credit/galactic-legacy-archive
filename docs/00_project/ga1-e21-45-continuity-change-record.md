@@ -3,13 +3,13 @@
 Status: CANON PROJECT CONTROL — ACCEPTED CHANGE
 Owner Agent: O01 Canon / O02 Gate Controller / N04 Causality
 Last Reviewed: 2026-08-03
-Depends On: `opening20-scene-card-status-2026-08-03.md`, `first-100-act-map-v1.md`, core name/voice lock
+Depends On: [[opening20-scene-card-status-2026-08-03]], [[first-100-act-map-v1]], core name/voice lock
 Used By: White Dock operation state, E21–45 scene cards, future first-100 map revision
 Open Risks: human/mobile pacing may later compress individual episodes without changing state order
 
 ## 1. Reason for Change
 
-The older `first-100-act-map-v1.md` placed most of the White Dock operation inside Episodes 14–20 and began Episode 21 after temporary medical custody had already been granted.
+The older [[first-100-act-map-v1]] placed most of the White Dock operation inside Episodes 14–20 and began Episode 21 after temporary medical custody had already been granted.
 
 The later and more detailed opening scene-card canon now ends Episode 20 with:
 

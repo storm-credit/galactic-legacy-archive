@@ -8,13 +8,13 @@ Used By: B08-01 merge decision, E826–850 production and project control
 
 ## 1. Files Audited
 
-- `docs/10_story_architecture/detail/ga8-e801-810-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga8-e811-818-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga8-e819-825-episode-cards-v1.md`
-- `docs/08_institutions/ga8-e801-825-living-archive-rights-and-serrat-compact-state-v1.md`
-- `docs/05_characters/ga8-serrat-ai-descendant-and-expedition-cast-e801-825-v1.md`
-- `docs/09_collection/detail/ga8-e801-825-serrat-record-personhood-and-loss-state-v1.md`
-- `docs/00_project/ga8-detail-progress-status-725-2026-08-05.md`
+- [[ga8-e801-810-episode-cards-v1]]
+- [[ga8-e811-818-episode-cards-v1]]
+- [[ga8-e819-825-episode-cards-v1]]
+- [[ga8-e801-825-living-archive-rights-and-serrat-compact-state-v1]]
+- [[ga8-serrat-ai-descendant-and-expedition-cast-e801-825-v1]]
+- [[ga8-e801-825-serrat-record-personhood-and-loss-state-v1]]
+- [[ga8-detail-progress-status-725-2026-08-05]]
 
 Boundary:
 - detailed design only;

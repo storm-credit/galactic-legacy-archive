@@ -58,7 +58,7 @@ Emotional recovery rule:
 
 # ACT A — 다섯 번째 답 / Episodes 1–20
 
-Detailed causal map exists in `first-20-causality-map-v1.md`.
+Detailed causal map exists in [[first-20-causality-map-v1]].
 
 ## 3. A1 — 죽은 제독과 겁 많은 학살자 / Episodes 1–5
 

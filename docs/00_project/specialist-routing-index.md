@@ -3,7 +3,7 @@
 Status: CANON
 Owner Agent: O00 Novel PM Orchestrator
 Last Reviewed: 2026-08-03
-Depends On: `specialist-roster.md`
+Depends On: [[specialist-roster]]
 Used By: All project work
 
 ## Core Rule

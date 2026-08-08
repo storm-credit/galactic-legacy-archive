@@ -86,14 +86,14 @@ Work must not proceed without explicit author or gate authorization.
 
 Effective status `PC`:
 
-- `CLAUDE.md`;
-- `docs/00_project/settings-bible-master-index-v1.md`;
-- `docs/00_project/settings-bible-final-status-2026-08-03.md`;
-- `docs/99_quality_control/final-settings-bible-completion-audit-v3.md`;
-- `docs/00_project/deferred-design-register-v1.md`;
-- `docs/00_project/context-window-handoff-protocol.md`;
-- `docs/00_project/design-only-scope-restoration-2026-08-03.md`;
-- canonical name errata files, including `docs/00_project/canonical-name-errata-005.md` for P-001 `리안 칼데르 / Rian Calder`;
+- [[CLAUDE]];
+- [[settings-bible-master-index-v1]];
+- [[settings-bible-final-status-2026-08-03]];
+- [[final-settings-bible-completion-audit-v3]];
+- [[deferred-design-register-v1]];
+- [[context-window-handoff-protocol]];
+- [[design-only-scope-restoration-2026-08-03]];
+- canonical name errata files, including [[canonical-name-errata-005]] for P-001 `리안 칼데르 / Rian Calder`;
 - this manifest;
 - agent orchestra registry and execution policy;
 - document review signoff ledger.
@@ -201,7 +201,7 @@ Late-act detailed item inventories are `DD`, not missing system authority.
 ### Characters and factions — `WC`
 
 Includes:
-- core names/voices and arcs, with P-001's effective full name fixed by `canonical-name-errata-005.md` as `리안 칼데르 / Rian Calder`;
+- core names/voices and arcs, with P-001's effective full name fixed by [[canonical-name-errata-005]] as `리안 칼데르 / Rian Calder`;
 - opening cast;
 - protected community;
 - first ship crew;

@@ -149,7 +149,7 @@ Cargo outcome:
 - 1,422 + 21 = **1,443 t** finally delivered;
 - 1,443 + 17 = **1,460 t** accounted.
 
-The isolated E375 `1,401 t` typo is superseded by `ga4-b04-02-continuity-correction-001.md`.
+The isolated E375 `1,401 t` typo is superseded by [[ga4-b04-02-continuity-correction-001]].
 
 Remaining mission:
 - ten ships complete;

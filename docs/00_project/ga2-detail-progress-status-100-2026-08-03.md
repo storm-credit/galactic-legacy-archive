@@ -14,13 +14,13 @@ Used By: next branch, progress reporting and context handoff
 
 ## 2. B02-04 Completed Files
 
-- `docs/06_hardware/ga2-open-service-and-convoy-state-e176-200-v1.md`
-- `docs/10_story_architecture/detail/ga2-e176-185-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga2-e186-193-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga2-e194-200-episode-cards-v1.md`
-- `docs/07_military/operations/ga2-e176-200-open-service-incident-state-v1.md`
-- `docs/09_collection/detail/ga2-e176-200-open-standard-collection-and-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga2-e176-200-redteam-v1.md`
+- [[ga2-open-service-and-convoy-state-e176-200-v1]]
+- [[ga2-e176-185-episode-cards-v1]]
+- [[ga2-e186-193-episode-cards-v1]]
+- [[ga2-e194-200-episode-cards-v1]]
+- [[ga2-e176-200-open-service-incident-state-v1]]
+- [[ga2-e176-200-open-standard-collection-and-loss-state-v1]]
+- [[ga2-e176-200-redteam-v1]]
 
 ## 3. Locked Results
 

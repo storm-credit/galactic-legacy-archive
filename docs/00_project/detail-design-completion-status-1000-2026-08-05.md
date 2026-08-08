@@ -68,10 +68,10 @@ A separate explicit gate review and opening decision are required.
 
 ## 6. Representative Files
 
-- `docs/00_project/ga10-detail-progress-status-1000-2026-08-05.md`
-- `docs/99_quality_control/detail/ga10-e1001-1100-final-cross-audit-v1.md`
-- `docs/99_quality_control/detail/e101-1100-complete-detail-cross-audit-v1.md`
-- `docs/00_project/canonical-haren-sanction-timeline-errata-004.md`
+- [[ga10-detail-progress-status-1000-2026-08-05]]
+- [[ga10-e1001-1100-final-cross-audit-v1]]
+- [[e101-1100-complete-detail-cross-audit-v1]]
+- [[canonical-haren-sanction-timeline-errata-004]]
 
 ## 7. Final Statement
 

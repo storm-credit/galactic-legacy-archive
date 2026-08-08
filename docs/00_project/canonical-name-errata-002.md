@@ -3,7 +3,7 @@
 Status: CANON OVERRIDE
 Owner Agent: O01 Canon
 Last Reviewed: 2026-08-03
-Supersedes: matching names in `later-act-officeholders-and-succession-ledger-v1.md` and `later-act-ordinary-focal-roster-v1.md`
+Supersedes: matching names in [[later-act-officeholders-and-succession-ledger-v1]] and [[later-act-ordinary-focal-roster-v1]]
 
 ## Purpose
 

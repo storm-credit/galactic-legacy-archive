@@ -22,14 +22,14 @@ Grand-act breakdown:
 
 ## 2. B06-01 Files
 
-- `docs/07_military/operations/ga6-e571-595-orpheus-opening-oob-and-fact-state-v1.md`
-- `docs/10_story_architecture/detail/ga6-e571-577-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga6-e578-584-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga6-e585-590-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga6-e591-595-episode-cards-v1.md`
-- `docs/05_characters/ga6-orpheus-opening-decision-and-ordinary-cast-e571-595-v1.md`
-- `docs/09_collection/detail/ga6-e571-595-orpheus-common-fact-and-opening-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga6-e571-595-redteam-v1.md`
+- [[ga6-e571-595-orpheus-opening-oob-and-fact-state-v1]]
+- [[ga6-e571-577-episode-cards-v1]]
+- [[ga6-e578-584-episode-cards-v1]]
+- [[ga6-e585-590-episode-cards-v1]]
+- [[ga6-e591-595-episode-cards-v1]]
+- [[ga6-orpheus-opening-decision-and-ordinary-cast-e571-595-v1]]
+- [[ga6-e571-595-orpheus-common-fact-and-opening-loss-state-v1]]
+- [[ga6-e571-595-redteam-v1]]
 
 ## 3. Population State
 

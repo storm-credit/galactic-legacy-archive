@@ -23,13 +23,13 @@ Grand-act breakdown:
 
 ## 2. B07-03 Files
 
-- `docs/10_story_architecture/detail/ga7-e741-745-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga7-e746-753-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga7-e754-765-episode-cards-v1.md`
-- `docs/08_institutions/ga7-e741-765-haren-d4-order-and-consequence-state-v1.md`
-- `docs/05_characters/ga7-haren-d4-lin-osa-and-crisis-cast-e741-765-v1.md`
-- `docs/09_collection/detail/ga7-e741-765-haren-d4-lin-osa-and-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga7-e741-765-redteam-v1.md`
+- [[ga7-e741-745-episode-cards-v1]]
+- [[ga7-e746-753-episode-cards-v1]]
+- [[ga7-e754-765-episode-cards-v1]]
+- [[ga7-e741-765-haren-d4-order-and-consequence-state-v1]]
+- [[ga7-haren-d4-lin-osa-and-crisis-cast-e741-765-v1]]
+- [[ga7-e741-765-haren-d4-lin-osa-and-loss-state-v1]]
+- [[ga7-e741-765-redteam-v1]]
 
 ## 3. D4 Crisis and Alternatives
 

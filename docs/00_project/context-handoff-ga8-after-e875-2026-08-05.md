@@ -19,8 +19,8 @@ Manuscript: BLOCKED
    - 실제 merge SHA 기록.
 
 2. `main` 파일 확인.
-   - `docs/00_project/ga8-detail-progress-status-775-2026-08-05.md`
-   - `docs/00_project/context-handoff-ga8-after-e875-2026-08-05.md`
+   - [[ga8-detail-progress-status-775-2026-08-05]]
+   - [[context-handoff-ga8-after-e875-2026-08-05]]
 
 3. 이전 병합 유지.
    - PR #79 merge SHA: `33ae4bda7052ca3626558d73e547ba044739f7bc`

@@ -21,15 +21,15 @@ Grand-act breakdown:
 
 ## 2. B05-03 Files
 
-- `docs/10_story_architecture/detail/ga5-e501-510-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga5-e511-517-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga5-e518-524-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga5-e525-episode-card-v1.md`
-- `docs/00_project/ga5-b05-03-continuity-clarification-001.md`
-- `docs/07_military/operations/ga5-e501-525-title-recall-crown-outerfront-operation-state-v1.md`
-- `docs/05_characters/ga5-title-recall-crown-outerfront-cast-e501-525-v1.md`
-- `docs/09_collection/detail/ga5-e501-525-title-recall-crown-outerfront-state-v1.md`
-- `docs/99_quality_control/detail/ga5-e501-525-redteam-v1.md`
+- [[ga5-e501-510-episode-cards-v1]]
+- [[ga5-e511-517-episode-cards-v1]]
+- [[ga5-e518-524-episode-cards-v1]]
+- [[ga5-e525-episode-card-v1]]
+- [[ga5-b05-03-continuity-clarification-001]]
+- [[ga5-e501-525-title-recall-crown-outerfront-operation-state-v1]]
+- [[ga5-title-recall-crown-outerfront-cast-e501-525-v1]]
+- [[ga5-e501-525-title-recall-crown-outerfront-state-v1]]
+- [[ga5-e501-525-redteam-v1]]
 
 ## 3. Charter and Pay State
 

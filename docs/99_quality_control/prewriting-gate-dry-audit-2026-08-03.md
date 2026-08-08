@@ -1,6 +1,6 @@
 # Pre-Writing Gate Dry Audit — 2026-08-03
 
-> **AMENDMENT 2026-08-06**: §5의 인간 항목 B1~B6은 작가 판정(D2, `docs/00_project/issue-26-status-resolution-proposal-v1.md` 승인)으로 **출판 전(pre-publication) 블로커로 재분류**되었고, B7(위원회 리뷰)은 `docs/00_project/pre-writing-gate-review-v1.md`가 대체 수행했다. 게이트는 `docs/00_project/pre-writing-gate-open-record-2026-08-06.md`로 초고 생산 한정 개방됨. 본 문서의 나머지 판단은 이력으로 보존.
+> **AMENDMENT 2026-08-06**: §5의 인간 항목 B1~B6은 작가 판정(D2, [[issue-26-status-resolution-proposal-v1]] 승인)으로 **출판 전(pre-publication) 블로커로 재분류**되었고, B7(위원회 리뷰)은 [[pre-writing-gate-review-v1]]가 대체 수행했다. 게이트는 [[pre-writing-gate-open-record-2026-08-06]]로 초고 생산 한정 개방됨. 본 문서의 나머지 판단은 이력으로 보존.
 
 Status: REVIEW COMPLETE — DRY RUN ONLY
 Owner Agents: O02 Gate / O01 Canon / X01 Logic / X02 Reader / X03 Ethics / X04 Continuity / L01 Prose

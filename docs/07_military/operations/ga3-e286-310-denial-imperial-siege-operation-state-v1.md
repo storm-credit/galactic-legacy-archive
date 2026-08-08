@@ -180,7 +180,7 @@ Ready local/mixed cutter arithmetic before E301:
 3. E294 ARC-17 disabled: -1 → 6.
 4. E299 one cutter returns to mixed compact: +1 → **7**.
 
-This supersedes the isolated E301 card typo through `ga3-b03-04-continuity-correction-001.md`.
+This supersedes the isolated E301 card typo through [[ga3-b03-04-continuity-correction-001]].
 
 E300 accepted compact:
 - 72 hours;

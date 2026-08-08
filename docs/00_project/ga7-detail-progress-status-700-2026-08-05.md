@@ -23,11 +23,11 @@ Grand-act breakdown:
 
 ## 2. B07-05 Files
 
-- `docs/10_story_architecture/detail/ga7-e791-800-episode-cards-v1.md`
-- `docs/08_institutions/ga7-e791-800-first-bridge-and-charter-1-0-state-v1.md`
-- `docs/05_characters/ga7-final-federation-live-test-cast-e791-800-v1.md`
-- `docs/09_collection/detail/ga7-e791-800-first-bridge-charter-and-record-war-handoff-state-v1.md`
-- `docs/99_quality_control/detail/ga7-e691-800-final-cross-audit-v1.md`
+- [[ga7-e791-800-episode-cards-v1]]
+- [[ga7-e791-800-first-bridge-and-charter-1-0-state-v1]]
+- [[ga7-final-federation-live-test-cast-e791-800-v1]]
+- [[ga7-e791-800-first-bridge-charter-and-record-war-handoff-state-v1]]
+- [[ga7-e691-800-final-cross-audit-v1]]
 
 ## 3. FB-01 First Bridge
 

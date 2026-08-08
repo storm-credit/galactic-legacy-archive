@@ -33,8 +33,8 @@ Copy the prompt below into a new window if needed.
    - 병합 후 다시 조회하고 실제 merge SHA 기록.
 
 2. `main`에서 확인한다.
-   - `docs/00_project/ga8-detail-progress-status-800-2026-08-05.md`
-   - `docs/00_project/context-handoff-ga9-after-e900-2026-08-05.md`
+   - [[ga8-detail-progress-status-800-2026-08-05]]
+   - [[context-handoff-ga9-after-e900-2026-08-05]]
 
 3. 이전 병합 유지.
    - PR #80 merge SHA: `3850aad9cf6b6a30b9a62e49c3b6b4bd87056305`
@@ -52,14 +52,14 @@ Copy the prompt below into a new window if needed.
 - manuscript BLOCKED
 
 B08-04 파일:
-- `docs/10_story_architecture/detail/ga8-e876-885-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga8-e886-893-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga8-e894-900-episode-cards-v1.md`
-- `docs/08_institutions/ga8-e876-900-seed-activation-settlement-and-central-key-state-v1.md`
-- `docs/05_characters/ga8-seed-activation-beneficiary-harmed-and-central-key-cast-e876-900-v1.md`
-- `docs/09_collection/detail/ga8-e876-900-seed-activation-actions-deletion-and-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga8-e801-900-final-cross-audit-v1.md`
-- `docs/00_project/ga8-detail-progress-status-800-2026-08-05.md`
+- [[ga8-e876-885-episode-cards-v1]]
+- [[ga8-e886-893-episode-cards-v1]]
+- [[ga8-e894-900-episode-cards-v1]]
+- [[ga8-e876-900-seed-activation-settlement-and-central-key-state-v1]]
+- [[ga8-seed-activation-beneficiary-harmed-and-central-key-cast-e876-900-v1]]
+- [[ga8-e876-900-seed-activation-actions-deletion-and-loss-state-v1]]
+- [[ga8-e801-900-final-cross-audit-v1]]
+- [[ga8-detail-progress-status-800-2026-08-05]]
 
 ## Seed Bridge 권한 잠금
 

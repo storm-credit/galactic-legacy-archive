@@ -5,7 +5,7 @@ Episode: E1
 Reviewed: 2026-08-08
 Reviewer Roles: A00 PM / A11 Prose / L02 POV / O01 Canon / X04 Continuity / A16 Red Team
 Publication: NOT AUTHORIZED
-Supersedes For Prose Verdict: `docs/99_quality_control/ga1-e1-v2-review-2026-08-08.md`
+Supersedes For Prose Verdict: [[ga1-e1-v2-review-2026-08-08]]
 
 ## Verdict
 
@@ -40,18 +40,18 @@ Supersedes For Prose Verdict: `docs/99_quality_control/ga1-e1-v2-review-2026-08-
 
 ### 채택안
 
-- `revision-harness.md` Pass 7에 감각 발생 근거와 회귀 시간축 검사를 추가한다.
+- [[revision-harness]] Pass 7에 감각 발생 근거와 회귀 시간축 검사를 추가한다.
 - Pass 9를 장면·문단·문장 순서로 실행하고, 한 문장 서술 문단의 기능 증거를 보고서에 남긴다.
 - E1 원고는 작가가 지적한 구간만 덧대지 않고 개막부터 훅까지 문단 호흡을 다시 확인한다.
 
 ## Canon Sources Checked
 
-- `docs/10_story_architecture/ga1-episodes-1-5-noncanon-scene-cards-v1.md`
-- `docs/05_characters/protagonist-p001-bible-v1.md`
-- `docs/05_characters/rian-index-removal-memory-and-medical-state-v1.md`
-- `docs/06_hardware/first-frame-bible-v1.md`
-- `docs/03_systems/academy-and-07-opening-operational-state-v1.md`
-- `docs/00_project/canonical-name-errata-005.md`
+- [[ga1-episodes-1-5-noncanon-scene-cards-v1]]
+- [[protagonist-p001-bible-v1]]
+- [[rian-index-removal-memory-and-medical-state-v1]]
+- [[first-frame-bible-v1]]
+- [[academy-and-07-opening-operational-state-v1]]
+- [[canonical-name-errata-005]]
 
 ## Applied Corrections
 

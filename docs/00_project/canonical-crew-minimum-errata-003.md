@@ -8,7 +8,7 @@ Used By: all GA2 crew, watch, payroll, certification and casualty design
 
 ## 1. Error
 
-`ga2-first-ship-crew-bible-v1.md` listed departmental legal minimums whose visible sum was 38 while the locked ship-wide legal minimum was 42.
+[[ga2-first-ship-crew-bible-v1]] listed departmental legal minimums whose visible sum was 38 while the locked ship-wide legal minimum was 42.
 
 The ship bible independently locks:
 - legal minimum transit crew: **42**.

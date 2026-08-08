@@ -26,13 +26,13 @@
 
 ## 핵심 문서
 
-- `CLAUDE.md`: 오케스트라 운영 규칙과 자동 진행 지침
-- `docs/00_project/orchestra.md`: 고정 전문 에이전트 구성
-- `docs/00_project/workflow.md`: 단계별 진행·중지·복구 규칙
-- `docs/10_story_architecture/architecture-rules.md`: 대액트·액트·서브액트 구조
-- `docs/13_writing_harness/prose-bible.md`: 문체·장면·전투·풍경 규칙
-- `docs/13_writing_harness/revision-harness.md`: 완성 원고 검토 절차
-- `docs/99_quality_control/prewriting-gate.md`: 집필 전 최종 품질 게이트
+- [[CLAUDE]]: 오케스트라 운영 규칙과 자동 진행 지침
+- [[orchestra]]: 고정 전문 에이전트 구성
+- [[workflow]]: 단계별 진행·중지·복구 규칙
+- [[architecture-rules]]: 대액트·액트·서브액트 구조
+- [[prose-bible]]: 문체·장면·전투·풍경 규칙
+- [[revision-harness]]: 완성 원고 검토 절차
+- [[prewriting-gate]]: 집필 전 최종 품질 게이트
 
 ## 상태
 
