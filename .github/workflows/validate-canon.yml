@@ -1,0 +1,46 @@
+name: Validate canon and manuscript
+
+on:
+  push:
+    branches:
+      - main
+      - 'agent/**'
+      - 'manuscript/**'
+      - 'canon/**'
+      - 'docs/**'
+    paths:
+      - 'docs/**'
+      - 'manuscript/**'
+      - 'CLAUDE.md'
+      - 'README.md'
+      - 'templates/**'
+      - 'tools/validate_canon.py'
+      - '.github/workflows/validate-canon.yml'
+  pull_request:
+    paths:
+      - 'docs/**'
+      - 'manuscript/**'
+      - 'CLAUDE.md'
+      - 'README.md'
+      - 'templates/**'
+      - 'tools/validate_canon.py'
+      - '.github/workflows/validate-canon.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Verify the checks themselves still fire
+        run: python tools/validate_canon.py --selftest
+      - name: Validate canon, links and manuscript contracts
+        run: python tools/validate_canon.py
