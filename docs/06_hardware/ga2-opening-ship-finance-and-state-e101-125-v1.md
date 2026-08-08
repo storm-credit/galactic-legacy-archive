@@ -132,7 +132,7 @@ A partial mission can be operationally valuable while financially losing money.
 - navigator/route pilot: **루카 셀**;
 - quartermaster/claims: **테오 마른**;
 - licensed medical officer: **엘라 사빈**;
-- mission/flight commander: **리안 카르도**;
+- mission/flight commander: **리안 칼데르**;
 - route/passenger planning: **하렌 도안**;
 - frame/open-service engineering: **네라 비크**;
 - data/authentication/audit: **세린 오르**;

@@ -64,7 +64,7 @@ Prohibited:
 
 | Everyday name | Formal identity | Primary sound anchor | Collision risk | Control |
 |---|---|---|---|---|
-| 리안 | 리안 카르도 | 리-안 | 아린 | use `아린 베일` in shared scenes |
+| 리안 | 리안 칼데르 | 리-안 | 아린 | use `아린 베일` in shared scenes |
 | 하렌 | 하렌 도안 | 하-렌 | 마렌 | retain role/context; avoid rapid alternating dialogue without tags |
 | 네라 | 네라 비크 | 네-라 | 베라 | use `베라 기사/기관장` until scene establishes both |
 | 세린 | 세린 오르 | 세-린 | 세라/세린계 atlas names | minor atlas names remain author-side |

@@ -131,7 +131,7 @@ Target:
 
 ## 3. Answer Key
 
-- Passage A — 리안 카르도.
+- Passage A — 리안 칼데르.
 - Passage B — 하렌 도안.
 - Passage C — 네라 비크.
 - Passage D — 세린 오르.

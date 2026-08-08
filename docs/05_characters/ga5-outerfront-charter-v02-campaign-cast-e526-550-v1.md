@@ -105,7 +105,7 @@ E533 state:
 - accepts knowingly insufficient allocation and requires evacuation/disengagement standing rules;
 - does not treat civilian protection as Crown ownership.
 
-### Rian Cardo
+### Rian Calder
 - Grey Route mobile front and cross-front route timing only;
 - no overall tactical command or reserve tie-break;
 - must accept autonomous successes and later losses.

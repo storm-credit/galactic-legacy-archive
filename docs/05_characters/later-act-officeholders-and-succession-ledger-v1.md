@@ -770,7 +770,7 @@ GA10:
 
 ## 34. Central Transition Coordinator
 
-### Temporary coordinator — 리안 카르도 / Rian Cardo
+### Temporary coordinator — 리안 칼데르 / Rian Calder
 
 Authority:
 - temporary central corrective and selected transition coordination.

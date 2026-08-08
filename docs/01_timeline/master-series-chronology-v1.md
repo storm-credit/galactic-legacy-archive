@@ -168,7 +168,7 @@ Age is listed at Episode 1 / Episode 1095 / Epilogue.
 
 | Code | Canon name | Birth date | E1 age | E1095 age | E1100 age |
 |---|---|---|---:|---:|---:|
-| P-001 | 리안 카르도 | CY 724-11-02 | 17y 4m | 23y 8m | 26y 9m |
+| P-001 | 리안 칼데르 | CY 724-11-02 | 17y 4m | 23y 8m | 26y 9m |
 | H-001 | 하렌 도안 | CY 725-02-19 | 17y 0m | 23y 5m | 26y 5m |
 | H-002 | 네라 비크 | CY 725-05-27 | 16y 9m | 23y 2m | 26y 2m |
 | S-001 | 세린 오르 | CY 724-08-08 | 17y 7m | 23y 11m | 27y 0m |
@@ -184,7 +184,7 @@ Age rules:
 
 ## 5. Qualification and Rank Calendar
 
-### P-001 — Rian Cardo
+### P-001 — Rian Calder
 
 - CY 742-03: correctional cadet; no independent flight licence.
 - 742-05: supervised 07 test authorization.

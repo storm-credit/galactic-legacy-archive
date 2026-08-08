@@ -148,7 +148,7 @@ Continued autonomy:
 Voice:
 - current firing cone, civilian geometry, mission he accepted, what he refused to explain and why he still left.
 
-## 7. Rian Cardo
+## 7. Rian Calder
 
 Investigation role:
 - source-bias and future-memory witness;

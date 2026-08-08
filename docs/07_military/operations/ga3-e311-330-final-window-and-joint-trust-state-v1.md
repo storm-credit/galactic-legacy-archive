@@ -151,7 +151,7 @@ Authority split:
 - Rema Dor / rotating Spine operators: physical traffic state;
 - three-body board + Garden/medical: service/cargo priority;
 - Eda Roen + Neutral/public contacts: evidence/provenance;
-- Rian Cardo: one bounded mission/flight segment;
+- Rian Calder: one bounded mission/flight segment;
 - vessel masters: independent safety withdrawal.
 
 Not granted:

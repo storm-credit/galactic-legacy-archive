@@ -187,7 +187,7 @@ Limits:
 - does not sign D4 or force Haren;
 - cannot be erased from the counterfactual record merely because its authority was unavailable.
 
-## 10. Rian Cardo
+## 10. Rian Calder
 
 Role:
 - evidence/current-authority participant and witness to prior G/M choices.

@@ -28,7 +28,9 @@ Prohibited:
 
 ## 2. Opening Core — Final Lock
 
-### P-001 — 리안 카르도 / Rian Cardo
+### P-001 — 리안 칼데르 / Rian Calder
+
+> 개명 반영 2026-08-07 ([[canonical-name-errata-005]], PR #99). 구명 `리안 칼데르 / Rian Calder`는 역사 텍스트에서만 유지된다.
 
 Everyday call:
 - `리안`.
@@ -476,7 +478,7 @@ Current lock decision:
 ## 11. Canon Status
 
 LOCKED CANDIDATES:
-- Rian Cardo.
+- Rian Calder.
 - Haren Doan.
 - Nera Vick.
 - Serin Or.
