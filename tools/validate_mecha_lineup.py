@@ -67,6 +67,16 @@ PROTECTED_CANON_TERMS = {
     "ERIN",
     "TALREN",
 }
+ALLOWED_MAJOR_SYSTEMS = {
+    "LOAD_FRAME",
+    "POWER",
+    "HEAT",
+    "PROPULSION",
+    "CONTROL",
+    "COCKPIT_INTERFACE",
+    "ARMOR_SUPPORT",
+    "WEAPON_SUPPORT",
+}
 
 COLLECTION_FIELDS = {
     "discovery_clue",
@@ -85,6 +95,7 @@ LOGISTICS_FIELDS = {
 NEW_FILES_EXCLUDED_FROM_COLLISION_SCAN = {
     ROOT / "docs" / "06_hardware" / "maneuver-frame-lineup-master-architecture-v1.md",
     ROOT / "docs" / "06_hardware" / "maneuver-frame-lineup-visual-sheet-prompt-pack-v1.md",
+    ROOT / "docs" / "07_military" / "frame-formation-combat-and-collectibility-integration-audit-v1.md",
 }
 
 
@@ -228,6 +239,8 @@ def validate(
     if set(evidence_by_slot) != set(actual_slots):
         errors.append("evidence coverage does not match portfolio slots")
 
+    working_names = {row["working_name_en"].upper() for row in rows}
+
     for row in rows:
         slot = row["slot_id"]
         record_type = row["record_type"]
@@ -260,6 +273,17 @@ def validate(
         if public_name in PROTECTED_CANON_TERMS:
             errors.append(f"{slot}: working name collides with protected canon term")
 
+        synergy_name_tokens = {
+            token
+            for token in re.findall(r"\b[A-Z][A-Z0-9-]{3,}\b", row["synergy_partner"])
+            if token not in {"HOLD"}
+        }
+        unknown_synergy_names = sorted(synergy_name_tokens - working_names)
+        if unknown_synergy_names:
+            errors.append(
+                f"{slot}: unresolved synergy machine name(s) {unknown_synergy_names}"
+            )
+
         if record_type in {"VERIFIED_ENTITY", "CHASSIS_SLOT"}:
             for field in COLLECTION_FIELDS | LOGISTICS_FIELDS:
                 if not row[field] or row[field] == "HOLD":
@@ -285,6 +309,9 @@ def validate(
                 errors.append(
                     f"{slot}: chassis slot requires LOAD_FRAME plus two major-system changes"
                 )
+            unknown_systems = sorted(changed_systems - ALLOWED_MAJOR_SYSTEMS)
+            if unknown_systems:
+                errors.append(f"{slot}: unknown major-system change token(s) {unknown_systems}")
             if row["canon_status"] == "CANON_ENTITY":
                 errors.append(f"{slot}: proposed chassis slot cannot be CANON_ENTITY")
 
@@ -323,9 +350,16 @@ def validate(
     elif "PUBLIC_NAME_HOLD" not in axiom["name_clearance"]:
         errors.append("AXIOM public-name hold must be explicit")
 
-    successor = next((row for row in rows if row["formal_code"] == "LFX-02"), None)
-    if successor is None or successor["record_type"] != "RESERVE_SLOT":
-        errors.append("LFX-02 must exist only as a reserve slot")
+    successor_reserve = next((row for row in rows if row["slot_id"] == "M-028"), None)
+    if successor_reserve is None or successor_reserve["record_type"] != "RESERVE_SLOT":
+        errors.append("M-028 must remain an author-decision reserve slot")
+    elif (
+        successor_reserve["formal_code"] != "HOLD"
+        or successor_reserve["working_name_en"] != "[UNNAMED]"
+        or successor_reserve["name_clearance"] != "PUBLIC_NAME_HOLD"
+        or successor_reserve["evolution_relation"] != "INHERITANCE_HOLD"
+    ):
+        errors.append("M-028 successor code, name and inheritance must remain HOLD")
 
     front_rows = [row for row in rows if row["reader_tier"] == "FRONT"]
     if not 12 <= len(front_rows) <= 14:
@@ -426,6 +460,11 @@ def run_selftest(
         "LOAD_FRAME plus two major-system changes",
     )
     add_fixture(
+        "invented major systems",
+        lambda fixture, _: fixture[1].update(major_system_changes="LOAD_FRAME|BANANA|POTATO"),
+        "unknown major-system change token",
+    )
+    add_fixture(
         "bad canon quote",
         lambda _, evidence: evidence[1].update(basis_quote_token="NOT ON SOURCE LINE"),
         "canon basis quote token missing",
@@ -459,6 +498,15 @@ def run_selftest(
         "record counts mismatch",
     )
     add_fixture(
+        "premature successor identity",
+        lambda fixture, _: fixture[27].update(
+            formal_code="LFX-02",
+            working_name_en="VECTIS",
+            evolution_relation="INHERIT_AXIOM",
+        ),
+        "successor code, name and inheritance must remain HOLD",
+    )
+    add_fixture(
         "hard reject source",
         lambda fixture, _: fixture[1].update(working_name_en="PRIME"),
         "hard-reject name token",
@@ -477,6 +525,13 @@ def run_selftest(
         "missing evidence row",
         lambda _, evidence: evidence.pop(1),
         "evidence rows",
+    )
+    add_fixture(
+        "unresolved synergy name",
+        lambda fixture, _: fixture[4].update(
+            synergy_partner="NEVRIS recon|GHOSTER command"
+        ),
+        "unresolved synergy machine name",
     )
 
     failures: list[str] = []
@@ -533,14 +588,16 @@ def main(argv: list[str]) -> int:
     front_count = sum(row["reader_tier"] == "FRONT" for row in rows)
     print("MECHA LINEUP VALIDATION PASSED")
     print("- verified canon entities: 1")
-    print("- noncanon placed chassis slots: 25")
-    print("- author-decision reserve slots: 2")
+    print("- phase-1 noncanon placed sample slots: 25")
+    print("- phase-1 author-decision sample reserves: 2")
     print(f"- manufacturing lineages: {len(lineage_counts)}")
-    print(f"- front-stage candidates: {front_count}")
+    print(f"- phase-1 front-stage sample candidates: {front_count}")
+    print("- reuse-first process preferred; 26-32 remains an unselected scenario; independent-model count HOLD")
     print("- canon and technical quote tokens: matched")
     print("- adjacent-GA English/Korean name distance: passed")
     print("- E1-E20 principal-frame limit: AUX-07 only")
     print("- per-slot chassis/logistics/collection fields: present")
+    print("- synergy machine-name references: resolved")
     print("- canon promotions: none")
     return 0
 

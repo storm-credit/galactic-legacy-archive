@@ -4,10 +4,11 @@ Status: PROPOSED — NONCANON
 Owner Agents: M00 Visual PM / M01 Silhouette / M02 Mechanical / M03 CMF / M04 War-Weapon / M05 Collection / M06 Originality / M07 Canon Translation / N01 Naming / M08 Red Team
 Last Reviewed: 2026-08-11
 Depends On: [[effective-canon-status-manifest-v1]], [[first-frame-bible-v1]], [[academy-and-07-opening-operational-state-v1]], [[military-doctrine-and-force-structure-bible-v1]], [[grand-act-force-holdings-and-readiness-matrix-v1]], [[1000-episode-grand-act-map-v1]], [[galactic-legacy-collection-bible-v1]], [[collection-desire-master-architecture-and-index-audit-v1]], [[mecha-lineage-mark-and-evolution-naming-system-v1]], [[lfx-01-axiom-visual-development-orchestra-audit-v1]]
-Data: `docs/06_hardware/data/maneuver-frame-lineup-proposed-index-v1.csv`, `docs/06_hardware/data/maneuver-frame-lineup-evidence-matrix-v1.csv`, `docs/06_hardware/data/mecha-hard-reject-public-names-v1.txt`
+Used By: [[maneuver-frame-lineup-visual-sheet-prompt-pack-v1]], [[frame-formation-combat-and-collectibility-integration-audit-v1]]
+Data: `docs/06_hardware/data/maneuver-frame-lineup-proposed-index-v1.csv`, `docs/06_hardware/data/maneuver-frame-lineup-evidence-matrix-v1.csv`, `docs/06_hardware/data/maneuver-frame-role-demand-crosswalk-proposed-v1.csv`, `docs/06_hardware/data/maneuver-frame-portfolio-directions-proposed-v1.csv`, `docs/06_hardware/data/mecha-hard-reject-public-names-v1.txt`
 Canon Promotion: NOT AUTHORIZED
 Publication: NOT AUTHORIZED
-Open Risks: 07 designation and dimension conflict, GA3 first derivative detail, AXIOM public name and story placement, all candidate name clearance, exact logistics figures
+Open Risks: M-002–M-026 chassis proof and final portfolio approval, 07 designation and dimension conflict, GA3 first derivative detail, AXIOM public name and story placement, all candidate name clearance, exact logistics figures
 
 ## 1. Executive Ruling
 
@@ -19,14 +20,18 @@ This proposal therefore separates five counts:
 
 | Count | Proposed target | Meaning |
 |---|---:|---|
-| Placed chassis records | **26** | 07 plus 25 noncanon design slots assigned to GA functions |
-| Author-decision reserves | **2** | AXIOM and one possible true successor; excluded from placed count |
+| Phase-1 placed sample records | **26** | 07 plus 25 noncanon design slots used to test GA function coverage; not a final portfolio target |
+| Author-decision sample reserves | **2** | AXIOM and one unnamed possible successor slot; excluded from placed count |
 | Manufacturing lineages | **8** | stable industrial shape, service and certification grammar |
-| Front-stage named machines | **12-14** | machines a reader should actively remember |
-| Reader-facing forms | **40-46** | baseline, meaningful refit, rebuild and operation fit |
+| Phase-1 front-stage test band | **12-14** | provisional reader-memory test, pending cast/role demand census |
+| Phase-1 form projection | **40-46** | provisional baseline, meaningful refit, rebuild and operation-fit surface |
+| Phase-1 base-demand sample rows | **52** | 26 provisional model candidates, 25 reviewed reuse profiles and 1 host-evidence HOLD; not a complete cast-derived demand surface |
+| Conditional demand rows | **6 HOLD** | AXIOM, unnamed successor and four precise late-role gaps; excluded from the base count |
+| Candidate-review scenario | **26-32** | comparison envelope only; no numeric direction selected before full cast census |
+| Verified independent-model output | **HOLD** | may be lower than 26 after candidate merges; no lower bound is asserted before proof |
 | Overlays | **2** | Mission Trust and Aurel interoperability; never new chassis by themselves |
 
-The 28-row catalog contains **26 placed records plus two reserves**, not 28 verified independent machines. Only 07 is an existing canon entity. M-002 through M-026 are chassis design slots that still require mechanical proof and author approval; M-027 and M-028 are excluded author-decision reserves.
+The 28-row catalog contains **26 placed sample records plus two sample reserves**, not 28 verified independent machines and not a final catalog ceiling. Only 07 is an existing canon entity. M-002 through M-026 are chassis design slots that still require mechanical proof and author approval; M-027 and M-028 are excluded author-decision reserves. The phase-1 crosswalk currently finds 25 supported reuse profiles and one role/operation row with no proven deployed host. The individual cast census is incomplete, so this sample cannot set the final machine count.
 
 ## 2. Frozen Intent and Success Conditions
 
@@ -55,7 +60,7 @@ The 28-row catalog contains **26 placed records plus two reserves**, not 28 veri
 |---|---|---|
 | Registry inflation | 415 rows reported as 415 machines | publish entity, state, form and set counts separately |
 | Color-swap lineage | factions differ only by paint | require silhouette, load path, service access and motion grammar |
-| Hero-machine flood | every officer receives a unique super-unit | only 12-14 front-stage machines; the rest are product lines or support types |
+| Hero-machine flood | every officer receives a unique super-unit | only 18-26 models receive reader-facing names across the series; other roles use shared lines, hull histories or support types |
 | Backpack-only role | support, command and rescue are just different backpacks | change arm load, stance, cooling, cradle and maintenance access |
 | Impossible sword | blade has no storage, draw path, grip clearance or dock clearance | weapon sheet must show stowed, draw, guard and maintenance states |
 | Fleet replacement | humanoid frames decide a war by firepower alone | use frames for capture, rescue, denial, boarding and node control; fleets still fight fleet war |
@@ -66,7 +71,7 @@ The 28-row catalog contains **26 placed records plus two reserves**, not 28 veri
 | Reader overload | all codes and names are spoken in battle | show code once on introduction; narration uses name or role only |
 | Reference imitation | V fin, wing backpack, red chin, familiar face topology or franchise suffixes return | apply three-axis originality gate and hard-reject list |
 
-## 4. Four Lineup Directions at a Glance
+## 4. Phase-1 Design Lenses at a Glance
 
 | Direction | Chassis slots | Lineages | Front-stage names | Main organizing idea | Strength | Failure risk |
 |---|---:|---:|---:|---|---|---|
@@ -75,11 +80,13 @@ The 28-row catalog contains **26 placed records plus two reserves**, not 28 veri
 | **C. Mission Ecosystem** | 24-26 | 7 | 10 | recon, breach, capture, rescue, relay and recovery chains | best fit for this setting's fleet doctrine | model-to-character attachment can weaken |
 | **D. Collector Chronicle** | 30-32 | 10 | 14 | ancestry, regional forks, rebuild history and true successors | strongest long-term completion desire | noun and form overload across 1,100 episodes |
 
+These four lenses predate the role-demand census. They remain useful for silhouette, manufacturing and battle-logic choices, but their chassis-slot figures no longer set the portfolio count. The current count decision is recorded in [[role-demand-portfolio-count-audit-v1]] and the machine-readable direction table.
+
 ### Selected hybrid
 
 Use **B as the manufacturing skeleton, C as the battle logic, and a controlled D layer for history and successors**. Use A only for 07, Ern's rival machine, selected enemy command machines and the AXIOM hold slot.
 
-[ASSUMPTION M-01] The working portfolio ceiling is 26 placed chassis records plus two author-decision reserves in eight lineages, 40-46 reader-facing forms and no more than 14 front-stage named machines. A slot becomes a verified independent chassis only after the Section 5 gate is evidenced.
+[ASSUMPTION M-01] The current 26 placed records plus two author-decision reserves, eight lineages, 40-46 forms and 12-14 front-stage names are a phase-1 coverage sample only. The crosswalk contains 26 provisional model candidates, 25 reviewed reuse profiles, one evidence HOLD and six conditional HOLD rows. Reuse-first Direction A remains a process preference, not a selected 26-32 count; the verified independent-model count remains HOLD until the full cast census and chassis proof are complete.
 
 [ASSUMPTION M-02] A new named chassis is introduced at most twice in one 25-episode block. A major new form normally requires 60-100 episodes of prior use, damage, cost or technical setup.
 
@@ -92,6 +99,8 @@ An entry counts `+1 independent chassis` only when all are true:
 3. it has an independent parts and certification path;
 4. it can be lost, retired or inherited independently of its parent;
 5. it can operate as an entity rather than only as an equipment package.
+
+Before a demand is classified as reuse, its proposed host must already exist by the demand window and must carry usable role, cradle/certification, cooling/recovery and support fields. These checks prove that reuse is operationally representable at planning depth; they do not promote the host or profile to canon.
 
 | Change | Entity count | Index treatment |
 |---|---:|---|
@@ -132,7 +141,7 @@ The machine names below are working labels. They are not cleared trademarks and 
 | M-004 | `AD-RM-5.0 MORIK / 모릭` | remote maintenance and route repair | GA10 | 07-derived regional lineage slot | exact region and operator approval |
 | M-005 | `IR-B24-01 VARDEN / 바르덴` | imperial fleet mass unit | GA1 E21-100 | existing imperial force scale | product-line detail approval |
 | M-006 | `IR-C27-01 CALDRIX / 칼드릭스` | formation command and docking control | GA2 | command doctrine framework | named command-unit approval |
-| M-007 | `IR-H31-01 TALVOR / 탈보르` | heavy breach and short-window capture | GA4 | succession-force framework | chassis and weapon approval |
+| M-007 | `IR-H31-01 TALVOR / 탈보르` | heavy breach inside a formation-opened capture window | GA4 | succession-force framework | chassis and weapon approval |
 | M-008 | `IR-E18-01 NEVRIS / 네브리스` | reconnaissance and electronic denial | GA3 | imperial direct-control slot | product-line detail approval |
 | M-009 | `IR-G22-01 ORDRIC / 오드릭` | royal/continuity guard interception | GA4 | palace and continuity security slot | individualization approval |
 | M-010 | `HX/SC-12.C4 HEXAR / 헥사르` | certified facility security | GA1 E21-100 | Helix security force framework | product-line detail approval |
@@ -152,8 +161,8 @@ The machine names below are working labels. They are not cleared trademarks and 
 | M-024 | `CS-RD-19.2 DRASEL / 드라셀` | continuity rapid response and seizure | GA4 | continuity security framework | product-line detail approval |
 | M-025 | `PS-S3-V12-D2 NALETH / 날레스` | local exploration and provenance mapping | GA8 | Palimpsest local-defense framework | cultural and operator approval |
 | M-026 | `CS-IV-23.1 QUORIN / 쿼린` | archive isolation and counter-interface | GA8, reused GA9 | continuity exploration framework | product-line detail approval |
-| M-027 | `LFX-01 AXIOM / 액시엄` | separate legacy hero/command candidate | GA5 or GA8 HOLD | user-selected noncanon direction only | public name, pilot, acquisition, ability, cost and loss |
-| M-028 | `LFX-02 VECTIS / 벡티스` | true successor reserve, not an AXIOM form | HOLD | no canon event | existence, name, inheritance and story slot approval |
+| M-027 | `LFX-01 AXIOM / 액시엄` | separate legacy-machine reserve | HOLD | user-selected noncanon visual/name direction only | public name, pilot, story window, acquisition, ability, cost and loss |
+| M-028 | unnamed reserve | possible independent successor slot | HOLD | no canon event or approved predecessor link | existence, code, name, inheritance and story slot approval |
 
 ### Reader-front allocation
 
@@ -287,6 +296,12 @@ All specialists used `gpt-5.6-sol` with `xhigh` reasoning. Agent reports are exe
 | M07 canon translation | `019fec4c-7e4b-7d70-94a0-9e5d94ab30f2` | GA1-GA10 safe slots, reuse and approval boundaries |
 | N01 naming | `019fec4d-1f59-79e1-aa29-af9a274ad563` | dual ledger naming, pronunciation and public-name holds |
 | M08 red team | `019fec60-c1bd-7fc2-b4d8-4b6b3d9ed65b` | forced 26+2 count correction, canon/technical evidence grading, naming-list synchronization, logistics and collection-field validation; final verdict READY |
+| F12 reuse-first red team | `019fefb8-5e6b-76f2-be13-1d14d68dbe7f` | later portfolio-level `HOLD`; found title-only citations, time inversion, false 26-model lower bound and semantic validator bypasses |
+| F13 semantic-evidence red team | `019fefcd-4d69-7901-8563-91db45a75443` | later portfolio-level `HOLD`; required exact role sentences, corrected siege evidence, source-text locks and crosswalk/index system alignment |
+| F14 source-fitness red team | `019fefe1-6b8e-7b83-b5b5-b15ac4502dd4` | later portfolio-level `HOLD`; required four syntactically valid but semantically mismatched role/operation citations to be narrowed to actual canon support |
+| F15 final adversarial red team | `019fefed-5dc4-7a00-b02d-44abf4444e05` | `HOLD`; rejected the completed-census claim, 17 weak reuse mappings, semantic validator bypasses and a working-canon arithmetic edit |
+| C10 cast semantic census | `019feff6-bf3a-7df2-bfaf-c3d284e6f6b1` | `HOLD`; established a 98-person structured-source union, 193 character-document candidates and 195+ repository floor, with 146 role tiers unresolved |
+| F16 reuse-evidence triage | `019feff6-cc02-76b2-acc1-5a8816c77f7a` | narrowed 16 rows to supported host functions and moved FD-034 to host-evidence HOLD |
 
 ## 14. Deviation Log
 
@@ -346,6 +361,38 @@ All specialists used `gpt-5.6-sol` with `xhigh` reasoning. Agent reports are exe
 4. **Chosen:** migrate every existing rejection into the text file, make it the single machine-readable authority, and add compact-token checks plus two regression fixtures.
 5. **Impact:** general validation and 14 deliberate-defect self-tests pass; M08 returned `READY` on the final recheck.
 
+### DEV-08 Portfolio count reopened after role-demand correction
+
+1. **Problem:** the 26+2 phase-1 sample was described as a portfolio ceiling before protagonist, ally, antagonist, recurring support, important extra, faction and operation roles were counted.
+2. **Cause:** mechanical diversity and reader-memory limits were optimized before demand coverage was proven.
+3. **Alternatives:** keep 28 as a target; expand immediately to 58; derive a range from role demand and reuse.
+4. **Chosen:** retain all 28 rows as a noncanon coverage sample, remove target/ceiling claims, and require the cross-category role-demand census before approving a final range.
+5. **Impact:** no chassis, hull or story event is added or removed; the sample may later be merged, retained or expanded.
+
+### DEV-09 Role-demand rows separated from model claims
+
+1. **Problem:** the first 58-row crosswalk treated 52 evidenced roles as model candidates and reported a 44-60 model band without one chassis proof per added row.
+2. **Cause:** operation packages, authority/software profiles, assigned-hull histories and service configurations were counted on the same axis as new load frames.
+3. **Alternatives:** retain 44-60 as a target; discard later role demand; reclassify each row through reuse before model counting.
+4. **Applied classification, not a count decision:** retain all 58 phase-1 role-demand sample rows, classify FD-001–FD-026 as provisional model candidates, 25 of FD-027–FD-052 as reviewed reuse profiles, FD-034 as evidence HOLD and FD-053–FD-058 as conditional HOLD.
+5. **Impact:** 26-32 remains a comparison scenario rather than a selected count. The final model count remains HOLD, while named hull and form/state bands remain unapproved planning envelopes. No canon entity is added or removed.
+
+### DEV-10 Source fitness corrected after exact-text locking
+
+1. **Problem:** four reuse rows passed exact-source checks while their cited lines did not establish the asserted frame role or operation.
+2. **Cause:** source existence and text stability were stronger than the original human semantic review.
+3. **Alternatives:** preserve the attractive demand labels; delete the rows; narrow the labels and reuse functions to what canon actually supports.
+4. **Chosen:** narrow the four mappings to 07 training/rescue, Ardis utility/rescue screening, explicit refusal-belt defense capacity and a demobilized pilot's civilian service transition.
+5. **Impact:** no model, hull, power or canon role is added; the demand surface is more conservative and remains noncanon.
+
+### DEV-11 F15 reopened the completed-census claim
+
+1. **Problem:** the 58-row sample was described as if it came from a complete individual cast census, and 17 reuse rows exceeded their role, operation or host evidence.
+2. **Cause:** role-tier capacity estimates were substituted for identity-level deduplication and operation-frequency assignment.
+3. **Alternatives:** preserve the selected 26-32 scenario; delete the sample; keep it as a noncanon test surface and withdraw numeric selection.
+4. **Chosen:** record the C10 census floor, narrow 16 rows, move FD-034 to evidence HOLD, expand semantic validation and leave every portfolio direction unselected.
+5. **Impact:** the current chassis catalog remains useful for mechanical design, but it cannot determine how many ace, mass, support or successor machines the story needs.
+
 ## 15. Author Decisions and Gate
 
 Only these items require author resolution before canon promotion or final model sheets:
@@ -354,9 +401,9 @@ Only these items require author resolution before canon promotion or final model
 2. Approve or reject the GA3 first mass derivative as a reader-facing named `SOLVERN` line rather than an anonymous utility network.
 3. Decide whether AXIOM is the protagonist's later separate machine, its GA window, and whether the public name remains AXIOM after clearance.
 4. If AXIOM is approved, define acquisition, pilot authority, maintenance ecosystem, ability ceiling and permanent loss before any upgrade forms.
-5. Decide whether the 26 placed records plus two reserves ceiling is the desired catalog size; all exact names and codes remain replaceable after that decision.
+5. Complete the individual cast/operation census, then approve or reject a reuse-first numeric direction; the independent-model count remains HOLD until every retained row passes Section 5.
 
-**READY FOR AUTHOR DIRECTION — NONCANON**
+**HOLD — FULL CAST SEMANTIC CENSUS, FD-034 HOST EVIDENCE AND M-002–M-026 CHASSIS PROOF — NONCANON**
 
 - Canon change: not performed.
 - Manuscript approval: not performed.

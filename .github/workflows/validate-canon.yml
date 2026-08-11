@@ -15,6 +15,9 @@ on:
       - 'README.md'
       - 'templates/**'
       - 'tools/validate_canon.py'
+      - 'tools/validate_mecha_lineup.py'
+      - 'tools/validate_frame_formation_integration.py'
+      - 'tools/validate_role_demand_portfolio.py'
       - '.github/workflows/validate-canon.yml'
   pull_request:
     paths:
@@ -24,6 +27,9 @@ on:
       - 'README.md'
       - 'templates/**'
       - 'tools/validate_canon.py'
+      - 'tools/validate_mecha_lineup.py'
+      - 'tools/validate_frame_formation_integration.py'
+      - 'tools/validate_role_demand_portfolio.py'
       - '.github/workflows/validate-canon.yml'
   workflow_dispatch:
 
@@ -44,3 +50,15 @@ jobs:
         run: python tools/validate_canon.py --selftest
       - name: Validate canon, links and manuscript contracts
         run: python tools/validate_canon.py
+      - name: Verify mecha lineup checks still fire
+        run: python tools/validate_mecha_lineup.py --selftest
+      - name: Validate mecha lineup planning data
+        run: python tools/validate_mecha_lineup.py
+      - name: Verify frame-formation integration checks still fire
+        run: python tools/validate_frame_formation_integration.py --selftest
+      - name: Validate frame-formation integration planning data
+        run: python tools/validate_frame_formation_integration.py
+      - name: Verify role-demand portfolio checks still fire
+        run: python tools/validate_role_demand_portfolio.py --selftest
+      - name: Validate role-demand portfolio planning data
+        run: python tools/validate_role_demand_portfolio.py
