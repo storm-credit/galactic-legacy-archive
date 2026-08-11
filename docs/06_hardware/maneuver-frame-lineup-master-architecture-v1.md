@@ -410,4 +410,6 @@ Only these items require author resolution before canon promotion or final model
 - Canon change: not performed.
 - Manuscript approval: not performed.
 - Publication approval: not performed.
-- PR merge: not authorized.
+- PR merge: authorized by the author on 2026-08-12 (D-20260812-01). Merging this branch publishes the
+  design surface only. Every document here stays `PROPOSED — NONCANON`, and canon promotion, manuscript
+  approval and publication remain unauthorized.

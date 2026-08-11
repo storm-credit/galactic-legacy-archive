@@ -308,4 +308,6 @@ Author decision D-20260812-01 selected Direction B. These decisions remain open:
 - Tier assignment method: recurrence-based, but verification found role labels had leaked into three antagonist rows. A systematic recurrence re-derivation across all 197 rows is an open risk, not a completed pass.
 - Canon events, pilots, powers, deaths and losses: unchanged.
 - Manuscript and publication approval: not performed.
-- PR merge: not authorized.
+- PR merge: authorized by the author on 2026-08-12 (D-20260812-01). Merging this branch publishes the
+  design surface only. Every document here stays `PROPOSED — NONCANON`, and canon promotion, manuscript
+  approval and publication remain unauthorized.
