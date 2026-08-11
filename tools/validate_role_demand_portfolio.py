@@ -89,7 +89,7 @@ EXPECTED_REUSE_CANDIDATES = {
 EXPECTED_REUSE_EVIDENCE_SHA256 = "ce40e71e2e6d3e2b81cd59595f86d3ae5263326314f2efc1335bb7770561c66c"
 EXPECTED_REUSE_SEMANTIC_SHA256 = "1c0e2fb172eb24996f5282864097c0ba8f4a76f38a084409ecb6fa0ef5e8c8c7"
 EXPECTED_ROLE_SEMANTIC_SHA256 = "8ab8a3ae8be63b88778dc019f7be46ae2a8e074c25c4fc7e69f9fc536e66b8fd"
-EXPECTED_CENSUS_SEMANTIC_SHA256 = "fdff69c0bb14673f47903c301ac7e9cbfe188e318ba342e570efa591fc8eacc7"
+EXPECTED_CENSUS_SEMANTIC_SHA256 = "78a944bbd4bf3393c06b70bb62d532b2d7ed9da7d7c4046b639f8710e451b75a"
 EXPECTED_CROSSWALK_SEMANTIC_SHA256 = "e6fb2e2980b1b0ba13665ef0f5d9e79a1a105bd2402433a61986361dc0201cf6"
 EXPECTED_DIRECTION_STATES = {
     "A": "ALTERNATIVE_RETAINED_AS_REUSE_METHOD",
@@ -724,7 +724,7 @@ def validate(
         required = {
             AUDIT_FILE: [
                 "26 provisional model candidates + 25 reviewed reuse profiles + 1 evidence HOLD + 6 conditional HOLD rows",
-                "HOLD — 35 UNNAMED PERSONS, FD-034 HOST EVIDENCE AND M-002–M-026 CHASSIS PROOF — NONCANON",
+                "HOLD — 34 UNNAMED PERSONS, FD-034 HOST EVIDENCE AND M-002–M-026 CHASSIS PROOF — NONCANON",
                 "Direction B raises the envelope, it does not authorize a machine",
             ],
             MECHA_ARCHITECTURE: [
@@ -917,7 +917,7 @@ def main(argv: list[str]) -> int:
     print("- role tiers: 6; named frame-hull story slots: 32-50")
     print("- category source rows: 415 preserved across C1-C8")
     print("- phase-1 demand sample: 26 model candidates; 25 reviewed reuse profiles; 1 evidence HOLD; 6 conditional rows")
-    print("- cast census resolved: 197 persons (1/4/9/40/143 by tier); 35 still lack a canon Korean name")
+    print("- cast census resolved: 197 persons (1/4/9/40/143 by tier); 34 still lack a canon Korean name")
     print("- selected direction: B BALANCED_BRANCHING, 22-30 reader-named models, author decision D-20260812-01")
     print("- reuse-first remains the method; verified independent-model count still HOLD until chassis proof")
     print("- 28-row frame catalog remains a phase-1 sample, not a target")

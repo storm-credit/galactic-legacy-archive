@@ -82,7 +82,7 @@ kiva-dren,키바 드렌,WD-D01,PERSON,IMPORTANT_EXTRA,GA1(E21-24 사망),White D
 miro-tann,미로 탄,WD-D02,PERSON,IMPORTANT_EXTRA,GA1(사망),White Dock 미등록 노동,미등록으로 수색 누락되어 사망; 등록/실제 인원 주제 증거,white-dock-focals WD-D02,white-dock-focals; white-dock 상태문서,사망 고정,Miro Tann; WD-D02
 darek-venn,다렉 벤,WD-D03,PERSON,IMPORTANT_EXTRA,GA1(사망),독립군 급진파,파괴부정 명령 수행 중 사망; 사후 급진 선전에 이용,white-dock-focals WD-D03,white-dock-focals; white-dock 상태문서,사망 고정; Venn 성 계열 충돌 관리,Darek Venn; WD-D03
 sian-tor,시안 토르,IND-P01,PERSON,IMPORTANT_EXTRA,GA1(GA2 갈등 예고),독립군 회수 기술자→중립 보호,기록·의료 추출 공작원; 버려져 중상; 중립 보호 하 증인; 팀 미합류,white-dock-focals IND-P01,white-dock-focals; ga1 상태문서,GA2 재사용 확정 시 승격 후보,Sian Tor; IND-P01
-juno-hess,,Juno Hess,PERSON,IMPORTANT_EXTRA,GA1,학원 독립 셀,독립 지원 셀 리더; 예비 조사 소환,ga1-e21-26 카드,ga1 카드 문서군,NOT_IN_05 — 개별 바이블 부재 의심; 표기 미확정(정본 한글명 없음)(센서스 임시음역: 주노 헤스(표기 미확정)),Juno Hess
+juno-hess,유노 헤스,Juno Hess,PERSON,IMPORTANT_EXTRA,GA1,학원 독립 셀,독립 지원 셀 리더; 예비 조사 소환,ga1-e21-26 카드,ga1 카드 문서군,F-검증 정정: 센서스가 '주노 헤스'로 오기했으나 정본 표기는 '유노 헤스'(academy-and-07-opening-operational-state-v1). 정본 표기로 복원,Juno Hess
 soma-ren,소마 렌(표기 미확정),Soma Ren,PERSON,IMPORTANT_EXTRA,GA1,학원(신분 폐쇄),행정상 사망·물리적 생존 인물; 신분 시스템 결함 증인,first-100-act-map-v2,first-100-act-map-v2; ga1 카드,NOT_IN_05,Soma Ren
 jena-ark,제나 아크,OF-801,PERSON,IMPORTANT_EXTRA,GA2(E150 사망; GA8 유산),민간 수리 카라반,선임 압력·냉각 기술자; E150 영구 사망; 사후 규격·별관에 이름 존속(제나 규격),roster §15; ga2 카드,ordinary-roster; ga2 카드 문서군,사망 고정; 사후 명명 Jena Annex,Jena Ark; OF-801; 제나 규격(사후)
 ovel-nar,오벨 나르,Ovel Nar,PERSON,IMPORTANT_EXTRA,GA2,네리스 사용자 안전,현장 정비사·사용자 안전 대표; 개방규격 사고 국면 물리 분기,ga2-e186-193 카드,ga2 카드·상태문서,NOT_IN_05,Ovel Nar

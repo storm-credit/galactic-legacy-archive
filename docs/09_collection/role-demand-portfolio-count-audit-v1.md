@@ -8,7 +8,7 @@ Used By: category semantic merge, cast-to-asset assignment, maneuver-frame portf
 Data: `docs/09_collection/data/cast-role-asset-demand-proposed-v1.csv`, `docs/09_collection/data/role-demand-category-bands-proposed-v1.csv`, `docs/09_collection/data/cast-semantic-census-summary-proposed-v1.csv`, `docs/09_collection/data/cast-role-tier-census-resolved-v1.csv`, `docs/06_hardware/data/maneuver-frame-portfolio-directions-proposed-v1.csv`, `docs/06_hardware/data/maneuver-frame-role-demand-crosswalk-proposed-v1.csv`
 Canon Promotion: NOT AUTHORIZED
 Publication: NOT AUTHORIZED
-Open Risks: 35 resolved persons with no canon Korean name, tier assignment not yet re-derived from recurrence across all 197 rows, census sweep did not fully cover `03_systems`/`02_world`/`08_institutions`, GA4-GA10 ace assignments, exact pilots and hulls, carrier capacity, category entity IDs, AXIOM placement, six conditional frame slots
+Open Risks: 34 resolved persons with no canon Korean name, tier assignment not yet re-derived from recurrence across all 197 rows, census sweep did not fully cover `03_systems`/`02_world`/`08_institutions`, GA4-GA10 ace assignments, exact pilots and hulls, carrier capacity, category entity IDs, AXIOM placement, six conditional frame slots
 
 ## 1. PM Ruling
 
@@ -36,7 +36,7 @@ The previous `28-row target first` approach is withdrawn. The existing rows rema
 | 28 / 23 | ordinary-focal rows / identities net-new to prior rosters | all important extras |
 | 98 | deduplicated people across the three strongest structured sources | repository-wide cast total |
 | 193 / 195+ | character-document identity candidates / repository-wide minimum after known external names | final deduplicated cast count |
-| **197** | **resolved person identities in `docs/09_collection/data/cast-role-tier-census-resolved-v1.csv`** — 1 protagonist, 4 core allies, 9 core antagonists/rivals, 40 recurring support, 143 important extras | a ceiling; 35 of them still have no canon Korean name |
+| **197** | **resolved person identities in `docs/09_collection/data/cast-role-tier-census-resolved-v1.csv`** — 1 protagonist, 4 core allies, 9 core antagonists/rivals, 40 recurring support, 143 important extras | a ceiling; 34 of them still have no canon Korean name |
 | 41 / 73 / 8 / 3 | offices / groups / AI / Aurel embodiments held in the same census on separate ledgers | persons |
 | 28 | phase-1 frame planning rows: 1 canon entity, 25 proposed slots, 2 HOLD reserves | 28 ace or legendary machines |
 | 58 | phase-1 frame-demand sample: 26 model candidates, 25 reviewed reuse rows, 1 evidence HOLD and 6 conditional rows | complete cast-derived demand or 58 independent machines |
@@ -289,19 +289,19 @@ The first eight-agent parallel call hit the thread limit after partially startin
 2. **Cause:** no pass had ever read all 60 character documents and deduplicated their identities row by row.
 3. **Alternatives:** keep waiting for the floor to be argued upward; estimate the tiers from role labels; extract every identity from the source documents and tier each one against evidence.
 4. **Chosen:** run an 11-batch extraction over `docs/05_characters/` plus an outside sweep, merge aliases/offices/embodiments, assign one tier per person, then submit the result to an independent sample verification.
-5. **Impact:** 322 census rows — 197 persons, 41 offices, 73 groups, 8 AI, 3 embodiments. Verification found no invented person, no merge error and no office-as-person misclassification, and confirmed the merge correctly preferred errata and final-lock clauses over stale document headers. It also returned four defects, all corrected before this record: 35 persons carried Korean names that exist nowhere in the repository (now blanked and marked `표기 미확정`, with the discarded transliteration kept in the hint field); Pelin Arco was missing and is added, raising the floor from 196 to 197; three antagonist rows were tiered from role labels rather than recurrence and were re-tiered against document evidence; the CLM-04 attribution for Isa Bell is marked UNCERTAIN because canon deliberately leaves it open. Four near-homonym pairs that verification confirmed as separate people now carry collision notes.
+5. **Impact:** 322 census rows — 197 persons, 41 offices, 73 groups, 8 AI, 3 embodiments. Verification found no invented person, no merge error and no office-as-person misclassification, and confirmed the merge correctly preferred errata and final-lock clauses over stale document headers. It also returned four defects, all corrected before this record: 35 persons carried Korean names that exist nowhere in the repository, now blanked and marked `표기 미확정` with the discarded transliteration kept in the hint field. One of those 35 turned out to have a canon name after all — the census had written 주노 헤스 where canon reads 유노 헤스, so blanking it was right and restoring it to the canon spelling left 34 genuinely unnamed. That single row is the §12 propagation accident in miniature: a misspelling, not a missing name, and only a Latin-to-Korean recheck against the source separated the two cases; Pelin Arco was missing and is added, raising the floor from 196 to 197; three antagonist rows were tiered from role labels rather than recurrence and were re-tiered against document evidence; the CLM-04 attribution for Isa Bell is marked UNCERTAIN because canon deliberately leaves it open. Four near-homonym pairs that verification confirmed as separate people now carry collision notes.
 
 ## 12. Decisions and Gate
 
 Author decision D-20260812-01 selected Direction B. These decisions remain open:
 
-1. assign canon Korean names to the 35 persons that have none — the census must not be treated as a naming authority (CLAUDE.md §12);
+1. assign canon Korean names to the 34 persons that have none — the census must not be treated as a naming authority (CLAUDE.md §12);
 2. approve which cast and antagonist roles receive personal signature frames versus assigned shared hulls;
 3. decide AXIOM pilot/story window independently from the portfolio capacity;
 4. approve exact entity IDs after C1 and C7 semantic merge;
 5. approve each expansion packet before any sample slot becomes canon; Direction B raises the envelope, it does not authorize a machine.
 
-**HOLD — 35 UNNAMED PERSONS, FD-034 HOST EVIDENCE AND M-002–M-026 CHASSIS PROOF — NONCANON**
+**HOLD — 34 UNNAMED PERSONS, FD-034 HOST EVIDENCE AND M-002–M-026 CHASSIS PROOF — NONCANON**
 
 - Stable unique total: HOLD.
 - Person identities: 197 resolved as a documented lower bound, ±1–2 by verification estimate.
