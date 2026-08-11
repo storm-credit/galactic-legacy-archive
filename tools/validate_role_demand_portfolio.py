@@ -15,6 +15,7 @@ ROOT = Path(__file__).resolve().parents[1]
 COLLECTION_DATA = ROOT / "docs" / "09_collection" / "data"
 ROLE_FILE = COLLECTION_DATA / "cast-role-asset-demand-proposed-v1.csv"
 CENSUS_FILE = COLLECTION_DATA / "cast-semantic-census-summary-proposed-v1.csv"
+CENSUS_ROWS_FILE = COLLECTION_DATA / "cast-role-tier-census-resolved-v1.csv"
 CATEGORY_FILE = COLLECTION_DATA / "role-demand-category-bands-proposed-v1.csv"
 DIRECTION_FILE = ROOT / "docs" / "06_hardware" / "data" / "maneuver-frame-portfolio-directions-proposed-v1.csv"
 CROSSWALK_FILE = ROOT / "docs" / "06_hardware" / "data" / "maneuver-frame-role-demand-crosswalk-proposed-v1.csv"
@@ -49,8 +50,8 @@ EXPECTED_DIRECTION_BANDS = {
     "D": ("44_TO_58", "28_TO_40", "40_TO_58", "90_TO_140"),
 }
 EXPECTED_CATEGORY_BANDS = {
-    "C1": ("170_TO_200_SERIES_CAST_ESTIMATE", "35_TO_60_BACKGROUND_ROLE_GROUPS", "RELATIONSHIP_POSITION_AND_EXIT_STATES_SEPARATE", "HOLD_SEMANTIC_MERGE"),
-    "C2": ("18_TO_26_READER_NAMED_MODELS", "8_TO_14_SHARED_SERVICE_MODEL_FAMILIES", "65_TO_105_REFIT_DAMAGE_MISSION_STATES", "26_MODEL_CANDIDATES_25_REVIEWED_REUSE_1_EVIDENCE_HOLD_6_CONDITIONAL"),
+    "C1": ("170_TO_200_SERIES_CAST_ESTIMATE", "35_TO_60_BACKGROUND_ROLE_GROUPS", "RELATIONSHIP_POSITION_AND_EXIT_STATES_SEPARATE", "197_PERSONS_1_4_9_40_143_BY_TIER"),
+    "C2": ("22_TO_30_READER_NAMED_MODELS", "8_TO_14_SHARED_SERVICE_MODEL_FAMILIES", "70_TO_110_REFIT_DAMAGE_MISSION_STATES", "32_TO_40_CANDIDATES_UNDER_DIRECTION_B_PENDING_CHASSIS_PROOF"),
     "C3": ("40_TO_64_NAMED_ANCHORS", "28_TO_42_STANDARD_EQUIPMENT_TYPES", "80_TO_120_AMMO_REFIT_OPERATION_LOSS_STATES", "HOLD_ROLE_ASSET_CROSSWALK"),
     "C4": ("24_TO_32_FRONT_ANCHORS", "12_TO_18_BACKGROUND_LEGACY_RECORD_LINES", "36_TO_54_DAMAGE_FORGERY_RESTORATION_CUSTODY_STATES", "HOLD_ROLE_ASSET_CROSSWALK"),
     "C5": ("32_TO_48_NAMED_HULLS", "18_TO_26_CLASS_FUNCTION_FAMILIES", "45_TO_75_REFIT_DAMAGE_DEDICATION_LOSS_STATES", "HOLD_ROLE_ASSET_CROSSWALK"),
@@ -87,14 +88,38 @@ EXPECTED_REUSE_CANDIDATES = {
 }
 EXPECTED_REUSE_EVIDENCE_SHA256 = "ce40e71e2e6d3e2b81cd59595f86d3ae5263326314f2efc1335bb7770561c66c"
 EXPECTED_REUSE_SEMANTIC_SHA256 = "1c0e2fb172eb24996f5282864097c0ba8f4a76f38a084409ecb6fa0ef5e8c8c7"
-EXPECTED_ROLE_SEMANTIC_SHA256 = "dd016cf4fc392de3a89234eea500ff0a2debe1556f2772f31f84ee6203723ec3"
-EXPECTED_CENSUS_SEMANTIC_SHA256 = "823ca9cc7a16d611b45098ed6fde20abb6da572324c75f27eea33edc99e0ca1a"
+EXPECTED_ROLE_SEMANTIC_SHA256 = "8ab8a3ae8be63b88778dc019f7be46ae2a8e074c25c4fc7e69f9fc536e66b8fd"
+EXPECTED_CENSUS_SEMANTIC_SHA256 = "fdff69c0bb14673f47903c301ac7e9cbfe188e318ba342e570efa591fc8eacc7"
 EXPECTED_CROSSWALK_SEMANTIC_SHA256 = "e6fb2e2980b1b0ba13665ef0f5d9e79a1a105bd2402433a61986361dc0201cf6"
 EXPECTED_DIRECTION_STATES = {
-    "A": "PROCESS_PREFERENCE_PENDING_FULL_ROLE_CENSUS",
-    "B": "ALTERNATIVE",
+    "A": "ALTERNATIVE_RETAINED_AS_REUSE_METHOD",
+    "B": "SELECTED_AUTHOR_DECISION_D_20260812_01_POST_CENSUS",
     "C": "ALTERNATIVE",
     "D": "ALTERNATIVE_HOLD",
+}
+EXPECTED_CENSUS_ROW_FIELDS = (
+    "identity_key",
+    "korean_name",
+    "record_type",
+    "final_tier",
+    "faction_or_org",
+    "tier_evidence",
+    "source_docs",
+    "alias_merge_hints",
+)
+EXPECTED_CENSUS_RECORD_TYPES = {
+    "PERSON": 197,
+    "OFFICE": 41,
+    "GROUP": 73,
+    "AI": 8,
+    "EMBODIMENT": 3,
+}
+EXPECTED_CENSUS_PERSON_TIERS = {
+    "PROTAGONIST": 1,
+    "CORE_ALLY": 4,
+    "CORE_ANTAGONIST_RIVAL": 9,
+    "RECURRING_SUPPORT": 40,
+    "IMPORTANT_EXTRA": 143,
 }
 ALLOWED_MAJOR_SYSTEMS = {
     "LOAD_FRAME",
@@ -110,7 +135,7 @@ ALLOWED_MAJOR_SYSTEMS = {
 EXPECTED_SIGNATURE_POLICY = {
     "PROTAGONIST": "1_REQUIRED",
     "CORE_ALLY": "0_TO_2",
-    "CORE_ANTAGONIST_RIVAL": "4_TO_9",
+    "CORE_ANTAGONIST_RIVAL": "8_TO_12",
     "RECURRING_SUPPORT": "5_TO_10",
     "IMPORTANT_EXTRA": "4_TO_9",
     "BACKGROUND_ROLE_GROUP": "NONE",
@@ -146,6 +171,58 @@ def read_csv(path: Path) -> list[dict[str, str]]:
         raise FileNotFoundError(path)
     with path.open("r", encoding="utf-8-sig", newline="") as handle:
         return list(csv.DictReader(handle))
+
+
+def check_resolved_census(census_rows: list[dict[str, str]]) -> list[str]:
+    """Once the summary claims a resolved census, the row-level file must back it."""
+    errors: list[str] = []
+    if not CENSUS_ROWS_FILE.is_file():
+        return ["resolved census claimed without the row-level cast-role-tier census file"]
+    rows = read_csv(CENSUS_ROWS_FILE)
+    missing_fields = set(EXPECTED_CENSUS_ROW_FIELDS) - set(rows[0] if rows else {})
+    if missing_fields:
+        return [f"cast-role-tier census is missing fields: {sorted(missing_fields)}"]
+
+    keys = [row["identity_key"].strip() for row in rows]
+    if len(set(keys)) != len(keys):
+        errors.append("cast-role-tier census identity keys must be unique")
+    if any(not key for key in keys):
+        errors.append("cast-role-tier census rows require an identity key")
+
+    types: dict[str, int] = {}
+    tiers: dict[str, int] = {}
+    for row in rows:
+        record_type = row["record_type"].strip()
+        types[record_type] = types.get(record_type, 0) + 1
+        if not row["final_tier"].strip():
+            errors.append(f"{row['identity_key']}: census row has no tier")
+        if record_type == "PERSON":
+            tiers[row["final_tier"].strip()] = tiers.get(row["final_tier"].strip(), 0) + 1
+        if not row["source_docs"].strip():
+            errors.append(f"{row['identity_key']}: census row has no source document")
+        if not row["korean_name"].strip() and record_type == "PERSON":
+            hint = row["alias_merge_hints"]
+            if "표기 미확정" not in hint and "미명명" not in hint:
+                errors.append(
+                    f"{row['identity_key']}: a person without a canon Korean name must be marked 표기 미확정"
+                )
+
+    if types != EXPECTED_CENSUS_RECORD_TYPES:
+        errors.append(f"cast-role-tier census record-type mix drifted: {types}")
+    if tiers != EXPECTED_CENSUS_PERSON_TIERS:
+        errors.append(f"cast-role-tier census person tier mix drifted: {tiers}")
+
+    summary = {row["scope"]: row for row in census_rows}
+    resolved = summary.get("REPOSITORY_WIDE_RESOLVED")
+    if resolved is None:
+        errors.append("resolved census requires a REPOSITORY_WIDE_RESOLVED summary scope")
+    else:
+        person_total = sum(EXPECTED_CENSUS_PERSON_TIERS.values())
+        if f"{person_total}_PERSONS" not in resolved["deduplicated_identity_result"]:
+            errors.append("resolved summary person count disagrees with the row-level census")
+        if f"{len(rows)}_CENSUS_ROWS" != resolved["raw_records"]:
+            errors.append("resolved summary row count disagrees with the row-level census")
+    return errors
 
 
 def parse_range(value: str) -> tuple[int, int]:
@@ -242,6 +319,7 @@ def validate(
     )
     if hashlib.sha256(role_payload.encode()).hexdigest() != EXPECTED_ROLE_SEMANTIC_SHA256:
         errors.append("role-tier capacity semantics drifted from the reviewed source lock")
+    census_resolved = False
     if not CENSUS_FILE.is_file():
         errors.append("missing cast semantic-census summary")
     else:
@@ -254,6 +332,12 @@ def validate(
             errors.append("cast semantic-census summary must preserve six count scopes")
         if hashlib.sha256(census_payload.encode()).hexdigest() != EXPECTED_CENSUS_SEMANTIC_SHA256:
             errors.append("cast semantic-census counts drifted from the reviewed source lock")
+        census_resolved = any(
+            row["count_status"] == "RESOLVED_LOWER_BOUND" for row in census_rows
+        )
+        if census_resolved:
+            census_errors = check_resolved_census(census_rows)
+            errors.extend(census_errors)
 
     named_low = 0
     named_high = 0
@@ -313,10 +397,15 @@ def validate(
     if source_total != 415:
         errors.append(f"category source rows must total 415, found {source_total}")
     by_domain = {row["domain_id"]: row for row in category_rows}
-    expected_c2 = "26_MODEL_CANDIDATES_25_REVIEWED_REUSE_1_EVIDENCE_HOLD_6_CONDITIONAL"
+    expected_c2 = "32_TO_40_CANDIDATES_UNDER_DIRECTION_B_PENDING_CHASSIS_PROOF"
     if by_domain.get("C2", {}).get("working_capacity") != expected_c2:
-        errors.append("C2 working capacity must preserve candidates, reviewed reuse, evidence HOLD and conditional rows")
-    for hold_domain in ("C1", "C3", "C4", "C5", "C6", "C7", "C8"):
+        errors.append("C2 working capacity must cite the selected direction and keep chassis proof pending")
+    # C1 left the HOLD set once the row-level census resolved it; every other domain
+    # still lacks a role/asset crosswalk and must stay on HOLD.
+    expected_c1 = "197_PERSONS_1_4_9_40_143_BY_TIER"
+    if by_domain.get("C1", {}).get("working_capacity") != expected_c1:
+        errors.append("C1 working capacity must report the resolved census tier split")
+    for hold_domain in ("C3", "C4", "C5", "C6", "C7", "C8"):
         if not by_domain.get(hold_domain, {}).get("working_capacity", "").startswith("HOLD"):
             errors.append(f"{hold_domain}: stable entity capacity must remain HOLD")
 
@@ -360,8 +449,16 @@ def validate(
             errors.append(f"{direction}: direction selection state drifted")
         if row["canon_status"] != "PROPOSED_NONCANON":
             errors.append(f"{direction}: portfolio direction must remain noncanon")
-    if any(row["selection_state"].startswith("SELECTED") for row in direction_rows):
+    selected = [row for row in direction_rows if row["selection_state"].startswith("SELECTED")]
+    if not census_resolved and selected:
         errors.append("no portfolio count direction may be selected before the full role census")
+    if census_resolved and len(selected) != 1:
+        errors.append("exactly one portfolio direction must be selected once the census resolves")
+    for row in selected:
+        if "AUTHOR_DECISION" not in row["selection_state"]:
+            errors.append(
+                f"{row['direction_id']}: a selected direction must cite the author decision that chose it"
+            )
 
     expected_ids = [f"FD-{number:03d}" for number in range(1, 59)]
     actual_ids = [row["demand_slot"] for row in crosswalk_rows]
@@ -627,7 +724,8 @@ def validate(
         required = {
             AUDIT_FILE: [
                 "26 provisional model candidates + 25 reviewed reuse profiles + 1 evidence HOLD + 6 conditional HOLD rows",
-                "HOLD — FULL CAST SEMANTIC CENSUS, FD-034 HOST EVIDENCE AND M-002–M-026 CHASSIS PROOF — NONCANON",
+                "HOLD — 35 UNNAMED PERSONS, FD-034 HOST EVIDENCE AND M-002–M-026 CHASSIS PROOF — NONCANON",
+                "Direction B raises the envelope, it does not authorize a machine",
             ],
             MECHA_ARCHITECTURE: [
                 "26 provisional model candidates, 25 reviewed reuse profiles, one evidence HOLD and six conditional HOLD rows",
@@ -683,7 +781,9 @@ def run_selftest(
     add_fixture("wrong A band", lambda _, __, d, ___: d[0].update(candidate_review_band="44_TO_60"), "output bands drifted")
     add_fixture("candidate envelope above demand", lambda _, __, d, ___: d[3].update(candidate_review_band="44_TO_60"), "cannot exceed demand surface")
     add_fixture("wrong selection", lambda _, __, d, ___: (d[0].update(selection_state="ALTERNATIVE"), d[2].update(selection_state="SELECTED_ASSUMPTION")), "direction selection state drifted")
-    add_fixture("premature reuse completion", lambda _, __, d, ___: d[0].update(selection_state="SELECTED_ASSUMPTION_REUSE_AUDIT_COMPLETE"), "no portfolio count direction")
+    add_fixture("second direction selected", lambda _, __, d, ___: d[0].update(selection_state="SELECTED_AUTHOR_DECISION_D_20260812_01_POST_CENSUS"), "exactly one portfolio direction")
+    add_fixture("no direction selected", lambda _, __, d, ___: d[1].update(selection_state="ALTERNATIVE"), "exactly one portfolio direction")
+    add_fixture("selection without author decision", lambda _, __, d, ___: d[1].update(selection_state="SELECTED_BY_AGENT_CONSENSUS"), "must cite the author decision")
     add_fixture("premature direction canon", lambda _, __, d, ___: d[0].update(canon_status="CANON"), "must remain noncanon")
     add_fixture("missing crosswalk", lambda _, __, ___, x: x.pop(), "FD-001 through FD-058")
     add_fixture("model mapping drift", lambda _, __, ___, x: x[0].update(sample_slot_ref="M-002"), "expected sample reference")
@@ -718,6 +818,67 @@ def run_selftest(
         fixture_errors = validate(roles, categories, directions, crosswalk, check_documents=False)
         if not any(expected in error for error in fixture_errors):
             failures.append(f"{name}: expected error containing {expected!r}")
+
+    # The resolved-census checks read the row-level file directly, so they need their own
+    # fixtures. Each one deliberately breaks the on-disk census and must be caught.
+    census_baseline = read_csv(CENSUS_FILE)
+    census_defects: list[tuple[str, object, str]] = [
+        ("census summary person drift",
+         lambda rows: rows[5].update(deduplicated_identity_result="9999_PERSONS|41_OFFICE"),
+         "person count disagrees"),
+        ("census summary row drift",
+         lambda rows: rows[5].update(raw_records="12_CENSUS_ROWS"),
+         "row count disagrees"),
+        ("census summary scope removed",
+         lambda rows: rows[5].update(scope="REPOSITORY_WIDE_MINIMUM"),
+         "REPOSITORY_WIDE_RESOLVED summary scope"),
+    ]
+    for name, mutate, expected in census_defects:
+        rows = copy.deepcopy(census_baseline)
+        mutate(rows)
+        if not any(expected in error for error in check_resolved_census(rows)):
+            failures.append(f"{name}: expected error containing {expected!r}")
+    fixtures.extend([(name, [], [], [], [], expected) for name, _, expected in census_defects])
+
+    # Prove the row-level census guards fire by pointing the checker at broken copies.
+    census_rows_baseline = read_csv(CENSUS_ROWS_FILE)
+    row_defects: list[tuple[str, object, str]] = [
+        ("census duplicate identity",
+         lambda rows: rows.append(dict(rows[0])),
+         "identity keys must be unique"),
+        ("census tier erased",
+         lambda rows: rows[0].update(final_tier=""),
+         "census row has no tier"),
+        ("census source erased",
+         lambda rows: rows[0].update(source_docs=""),
+         "no source document"),
+        ("census unmarked invented name",
+         lambda rows: next(
+             row for row in rows
+             if row["record_type"] == "PERSON" and not row["korean_name"].strip()
+         ).update(alias_merge_hints="looks fine"),
+         "must be marked 표기 미확정"),
+        ("census tier mix drift",
+         lambda rows: next(
+             row for row in rows if row["final_tier"] == "IMPORTANT_EXTRA"
+         ).update(final_tier="CORE_ALLY"),
+         "person tier mix drifted"),
+    ]
+    original_reader = globals()["read_csv"]
+    for name, mutate, expected in row_defects:
+        rows = copy.deepcopy(census_rows_baseline)
+        mutate(rows)
+        globals()["read_csv"] = lambda path, _rows=rows, _orig=original_reader: (
+            _rows if path == CENSUS_ROWS_FILE else _orig(path)
+        )
+        try:
+            found = check_resolved_census(census_baseline)
+        finally:
+            globals()["read_csv"] = original_reader
+        if not any(expected in error for error in found):
+            failures.append(f"{name}: expected error containing {expected!r}")
+    fixtures.extend([(name, [], [], [], [], expected) for name, _, expected in row_defects])
+
     if failures:
         print("ROLE-DEMAND SELFTEST FAILED", file=sys.stderr)
         for failure in failures:
@@ -756,10 +917,11 @@ def main(argv: list[str]) -> int:
     print("- role tiers: 6; named frame-hull story slots: 32-50")
     print("- category source rows: 415 preserved across C1-C8")
     print("- phase-1 demand sample: 26 model candidates; 25 reviewed reuse profiles; 1 evidence HOLD; 6 conditional rows")
-    print("- process preference: reuse-first; no portfolio count selected before full role census")
-    print("- verified independent-model count: HOLD and may be below 26 after merges")
+    print("- cast census resolved: 197 persons (1/4/9/40/143 by tier); 35 still lack a canon Korean name")
+    print("- selected direction: B BALANCED_BRANCHING, 22-30 reader-named models, author decision D-20260812-01")
+    print("- reuse-first remains the method; verified independent-model count still HOLD until chassis proof")
     print("- 28-row frame catalog remains a phase-1 sample, not a target")
-    print("- exact C1 and C3-C8 role-derived counts plus total collectibles: HOLD")
+    print("- exact C3-C8 role-derived counts plus total collectibles: HOLD")
     print("- canon promotions: none")
     return 0
 

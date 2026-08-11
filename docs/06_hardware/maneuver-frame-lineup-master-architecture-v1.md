@@ -27,8 +27,10 @@ This proposal therefore separates five counts:
 | Phase-1 form projection | **40-46** | provisional baseline, meaningful refit, rebuild and operation-fit surface |
 | Phase-1 base-demand sample rows | **52** | 26 provisional model candidates, 25 reviewed reuse profiles and 1 host-evidence HOLD; not a complete cast-derived demand surface |
 | Conditional demand rows | **6 HOLD** | AXIOM, unnamed successor and four precise late-role gaps; excluded from the base count |
-| Candidate-review scenario | **26-32** | comparison envelope only; no numeric direction selected before full cast census |
-| Verified independent-model output | **HOLD** | may be lower than 26 after candidate merges; no lower bound is asserted before proof |
+| Resolved cast identities | **197** | 1 protagonist, 4 core allies, 9 core antagonists/rivals, 40 recurring support, 143 important extras; see [[role-demand-portfolio-count-audit-v1]] |
+| Selected candidate-review envelope | **32-40** | Direction B, author decision D-20260812-01; an envelope for chassis proof, not an approved machine count |
+| Selected reader-named model band | **22-30** | across the whole series; per-scene and per-block exposure limits are unchanged |
+| Verified independent-model output | **HOLD** | every M-002–M-026 slot and every new candidate must still pass Section 5 individually |
 | Overlays | **2** | Mission Trust and Aurel interoperability; never new chassis by themselves |
 
 The 28-row catalog contains **26 placed sample records plus two sample reserves**, not 28 verified independent machines and not a final catalog ceiling. Only 07 is an existing canon entity. M-002 through M-026 are chassis design slots that still require mechanical proof and author approval; M-027 and M-028 are excluded author-decision reserves. The phase-1 crosswalk currently finds 25 supported reuse profiles and one role/operation row with no proven deployed host. The individual cast census is incomplete, so this sample cannot set the final machine count.
@@ -60,7 +62,7 @@ The 28-row catalog contains **26 placed sample records plus two sample reserves*
 |---|---|---|
 | Registry inflation | 415 rows reported as 415 machines | publish entity, state, form and set counts separately |
 | Color-swap lineage | factions differ only by paint | require silhouette, load path, service access and motion grammar |
-| Hero-machine flood | every officer receives a unique super-unit | only 18-26 models receive reader-facing names across the series; other roles use shared lines, hull histories or support types |
+| Hero-machine flood | every officer receives a unique super-unit | 197 resolved cast identities share 22-30 reader-named models; ace and legendary are hull-instance histories, not production classes |
 | Backpack-only role | support, command and rescue are just different backpacks | change arm load, stance, cooling, cradle and maintenance access |
 | Impossible sword | blade has no storage, draw path, grip clearance or dock clearance | weapon sheet must show stowed, draw, guard and maintenance states |
 | Fleet replacement | humanoid frames decide a war by firepower alone | use frames for capture, rescue, denial, boarding and node control; fleets still fight fleet war |
@@ -86,7 +88,7 @@ These four lenses predate the role-demand census. They remain useful for silhoue
 
 Use **B as the manufacturing skeleton, C as the battle logic, and a controlled D layer for history and successors**. Use A only for 07, Ern's rival machine, selected enemy command machines and the AXIOM hold slot.
 
-[ASSUMPTION M-01] The current 26 placed records plus two author-decision reserves, eight lineages, 40-46 forms and 12-14 front-stage names are a phase-1 coverage sample only. The crosswalk contains 26 provisional model candidates, 25 reviewed reuse profiles, one evidence HOLD and six conditional HOLD rows. Reuse-first Direction A remains a process preference, not a selected 26-32 count; the verified independent-model count remains HOLD until the full cast census and chassis proof are complete.
+[ASSUMPTION M-01] The current 26 placed records plus two author-decision reserves, eight lineages, 40-46 forms and 12-14 front-stage names are a phase-1 coverage sample only. The crosswalk contains 26 provisional model candidates, 25 reviewed reuse profiles, one evidence HOLD and six conditional HOLD rows. The cast census is now resolved at 197 identities and the author selected Direction B (32-40 candidates, 22-30 reader-named models) in D-20260812-01. Reuse-first stays the working method: a demand goes to an existing host wherever reuse passes its evidence checks, and only the residue reaches chassis proof. The verified independent-model count remains HOLD until each slot passes Section 5.
 
 [ASSUMPTION M-02] A new named chassis is introduced at most twice in one 25-episode block. A major new form normally requires 60-100 episodes of prior use, damage, cost or technical setup.
 

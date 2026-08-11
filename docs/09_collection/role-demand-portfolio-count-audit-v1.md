@@ -5,10 +5,10 @@ Owner Agents: A00 PM / C1 Heroes / C2 Frames / C3 Weapons / C4 Relics / C5 Ships
 Last Reviewed: 2026-08-11
 Depends On: [[effective-canon-status-manifest-v1]], [[decision-log]], [[galactic-legacy-collection-bible-v1]], [[collection-desire-master-architecture-and-index-audit-v1]], [[collection-orchestra-full-normalization-and-desire-matrix-v1]], [[grand-act-character-faction-matrix-v1]], [[front-stage-formation-registry-and-loss-accounting-v1]], [[maneuver-frame-lineup-master-architecture-v1]], [[frame-formation-combat-and-collectibility-integration-audit-v1]]
 Used By: category semantic merge, cast-to-asset assignment, maneuver-frame portfolio expansion, named-hull registry, model-sheet and collection-sheet planning
-Data: `docs/09_collection/data/cast-role-asset-demand-proposed-v1.csv`, `docs/09_collection/data/role-demand-category-bands-proposed-v1.csv`, `docs/06_hardware/data/maneuver-frame-portfolio-directions-proposed-v1.csv`, `docs/06_hardware/data/maneuver-frame-role-demand-crosswalk-proposed-v1.csv`
+Data: `docs/09_collection/data/cast-role-asset-demand-proposed-v1.csv`, `docs/09_collection/data/role-demand-category-bands-proposed-v1.csv`, `docs/09_collection/data/cast-semantic-census-summary-proposed-v1.csv`, `docs/09_collection/data/cast-role-tier-census-resolved-v1.csv`, `docs/06_hardware/data/maneuver-frame-portfolio-directions-proposed-v1.csv`, `docs/06_hardware/data/maneuver-frame-role-demand-crosswalk-proposed-v1.csv`
 Canon Promotion: NOT AUTHORIZED
 Publication: NOT AUTHORIZED
-Open Risks: cast alias/office merge, GA4-GA10 ace assignments, exact pilots and hulls, carrier capacity, category entity IDs, AXIOM placement, six conditional frame slots
+Open Risks: 35 resolved persons with no canon Korean name, tier assignment not yet re-derived from recurrence across all 197 rows, census sweep did not fully cover `03_systems`/`02_world`/`08_institutions`, GA4-GA10 ace assignments, exact pilots and hulls, carrier capacity, category entity IDs, AXIOM placement, six conditional frame slots
 
 ## 1. PM Ruling
 
@@ -36,6 +36,8 @@ The previous `28-row target first` approach is withdrawn. The existing rows rema
 | 28 / 23 | ordinary-focal rows / identities net-new to prior rosters | all important extras |
 | 98 | deduplicated people across the three strongest structured sources | repository-wide cast total |
 | 193 / 195+ | character-document identity candidates / repository-wide minimum after known external names | final deduplicated cast count |
+| **197** | **resolved person identities in `docs/09_collection/data/cast-role-tier-census-resolved-v1.csv`** — 1 protagonist, 4 core allies, 9 core antagonists/rivals, 40 recurring support, 143 important extras | a ceiling; 35 of them still have no canon Korean name |
+| 41 / 73 / 8 / 3 | offices / groups / AI / Aurel embodiments held in the same census on separate ledgers | persons |
 | 28 | phase-1 frame planning rows: 1 canon entity, 25 proposed slots, 2 HOLD reserves | 28 ace or legendary machines |
 | 58 | phase-1 frame-demand sample: 26 model candidates, 25 reviewed reuse rows, 1 evidence HOLD and 6 conditional rows | complete cast-derived demand or 58 independent machines |
 | 38 | front-stage formation/institution identity rows | machines, factions or independent inventories |
@@ -108,9 +110,24 @@ The bands are expert planning envelopes, not approved counts. C1 and C7 remain `
 | C — Collector Expansion | 52 | 6 | 58 | 40–48 | 26–36 | 36–54 | needs 14–22 more chassis proofs than the current candidate set |
 | D — Maximum Operational Atlas | 52 | 6 | 58 | 44–58 | 28–40 | 40–58 | HOLD; current role evidence does not prove this many candidates |
 
-### Current Phase-1 Classification
+### Selected Direction — B, after the census resolved
 
-Direction A remains the preferred reuse-first method, but none of the four numeric directions is selected:
+The author selected **Direction B (BALANCED_BRANCHING)** in [[decision-log]] D-20260812-01, once the repository-wide cast census resolved to 197 persons. The selection sets planning envelopes only:
+
+| Field | Value under B |
+|---|---|
+| Candidate rows sent to chassis proof | 32–40 |
+| Reader-named models across the series | 22–30 |
+| Named hulls | 32–50 |
+| Form/state surface | 70–110 |
+
+Direction A is retained as the **reuse-first method**, not as a count: a demand is still assigned to an existing host wherever reuse passes its evidence checks, and only the residue reaches chassis proof. Selecting B raises the envelope; it does not authorize a single machine. Every M-002–M-026 slot and every new candidate still has to pass Section 5 individually, and the verified independent-model count stays `HOLD`.
+
+Census fit at the tier level: four of five person tiers landed inside the assumed bands (protagonist 1, core allies 4, core antagonists 9, recurring support 40). Only important extras came in over — 143 against a 70–110 band. Important extras are represented mainly by regional hull instances, standard tools, local ships, places and records, so the overage raises **named-hull and reuse demand**, not the chassis count. It is recorded here rather than smoothed away.
+
+### Prior Phase-1 Classification (superseded by the selection above)
+
+Direction A was the preferred reuse-first method while no numeric direction was selected:
 
 > **58 phase-1 sample rows = 26 provisional model candidates + 25 reviewed reuse profiles + 1 evidence HOLD + 6 conditional HOLD rows.**
 
@@ -266,19 +283,29 @@ The first eight-agent parallel call hit the thread limit after partially startin
 4. **Chosen:** record the 98-person structured-source union, 193 character-document candidates and 195+ repository floor; leave 146 tier assignments HOLD; narrow 16 rows; move FD-034 to evidence HOLD; lock role, faction, chronology, mission and full-row semantics in validation.
 5. **Impact:** Direction A is a preferred process, not a chosen number. The exact frame, weapon, relic, ship, technology, faction and place counts remain HOLD until their role/operation crosswalks are complete.
 
+### DEV-RD-06 Census executed, then corrected by sample verification
+
+1. **Problem:** the 146 unassigned tier candidates blocked every count decision, and the earlier summary could only report a 195+ floor.
+2. **Cause:** no pass had ever read all 60 character documents and deduplicated their identities row by row.
+3. **Alternatives:** keep waiting for the floor to be argued upward; estimate the tiers from role labels; extract every identity from the source documents and tier each one against evidence.
+4. **Chosen:** run an 11-batch extraction over `docs/05_characters/` plus an outside sweep, merge aliases/offices/embodiments, assign one tier per person, then submit the result to an independent sample verification.
+5. **Impact:** 322 census rows — 197 persons, 41 offices, 73 groups, 8 AI, 3 embodiments. Verification found no invented person, no merge error and no office-as-person misclassification, and confirmed the merge correctly preferred errata and final-lock clauses over stale document headers. It also returned four defects, all corrected before this record: 35 persons carried Korean names that exist nowhere in the repository (now blanked and marked `표기 미확정`, with the discarded transliteration kept in the hint field); Pelin Arco was missing and is added, raising the floor from 196 to 197; three antagonist rows were tiered from role labels rather than recurrence and were re-tiered against document evidence; the CLM-04 attribution for Isa Bell is marked UNCERTAIN because canon deliberately leaves it open. Four near-homonym pairs that verification confirmed as separate people now carry collision notes.
+
 ## 12. Decisions and Gate
 
-Only these author decisions can promote the proposal:
+Author decision D-20260812-01 selected Direction B. These decisions remain open:
 
-1. resolve the remaining alias/office/embodiment merges and assign the 146 candidate identities to role tiers;
+1. assign canon Korean names to the 35 persons that have none — the census must not be treated as a naming authority (CLAUDE.md §12);
 2. approve which cast and antagonist roles receive personal signature frames versus assigned shared hulls;
 3. decide AXIOM pilot/story window independently from the portfolio capacity;
 4. approve exact entity IDs after C1 and C7 semantic merge;
-5. after the census, choose whether any numeric direction should enter chassis proof and approve each expansion packet before a sample slot becomes canon.
+5. approve each expansion packet before any sample slot becomes canon; Direction B raises the envelope, it does not authorize a machine.
 
-**HOLD — FULL CAST SEMANTIC CENSUS, FD-034 HOST EVIDENCE AND M-002–M-026 CHASSIS PROOF — NONCANON**
+**HOLD — 35 UNNAMED PERSONS, FD-034 HOST EVIDENCE AND M-002–M-026 CHASSIS PROOF — NONCANON**
 
 - Stable unique total: HOLD.
+- Person identities: 197 resolved as a documented lower bound, ±1–2 by verification estimate.
+- Tier assignment method: recurrence-based, but verification found role labels had leaked into three antagonist rows. A systematic recurrence re-derivation across all 197 rows is an open risk, not a completed pass.
 - Canon events, pilots, powers, deaths and losses: unchanged.
 - Manuscript and publication approval: not performed.
 - PR merge: not authorized.
