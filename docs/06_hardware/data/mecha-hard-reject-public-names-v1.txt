@@ -1,0 +1,35 @@
+# One case-insensitive reader-facing token or phrase per line.
+# This is the machine-readable authority used by validate_mecha_lineup.py.
+ORIGIN
+ORIGINAL
+SUPERIOR
+SUPER
+ULTIMATE
+PERFECT
+MK-II
+II
+EX
+EX-S
+PLUS
+CUSTOM
+KAI
+FULL ARMOR
+FINAL BATTLE
+PRIME
+GENESIS
+OMEGA
+APEX
+ZENITH
+AWAKENED
+ASCENDANT
+CONCORD
+ROOT
+LEGACY
+ARCHIVE
+CONTINUITY
+TESTAMENT
+THEOREM
+COROLLARY
+STRIKE
+FREEDOM
+UNICORN
