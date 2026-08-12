@@ -22,12 +22,12 @@ Grand-act breakdown:
 
 ## 2. B06-03 Files
 
-- `docs/10_story_architecture/detail/ga6-e621-628-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga6-e629-637-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga6-e638-645-episode-cards-v1.md`
-- `docs/07_military/operations/ga6-e621-645-approach-stress-and-provisional-list-state-v1.md`
-- `docs/09_collection/detail/ga6-e621-645-approach-stress-provisional-list-state-v1.md`
-- `docs/99_quality_control/detail/ga6-e621-645-redteam-v1.md`
+- [[ga6-e621-628-episode-cards-v1]]
+- [[ga6-e629-637-episode-cards-v1]]
+- [[ga6-e638-645-episode-cards-v1]]
+- [[ga6-e621-645-approach-stress-and-provisional-list-state-v1]]
+- [[ga6-e621-645-approach-stress-provisional-list-state-v1]]
+- [[ga6-e621-645-redteam-v1]]
 
 ## 3. E645 Population State
 
