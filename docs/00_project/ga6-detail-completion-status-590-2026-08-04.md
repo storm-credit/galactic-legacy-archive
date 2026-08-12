@@ -22,13 +22,13 @@ Grand-act breakdown:
 
 ## 2. B06-05 Files
 
-- `docs/10_story_architecture/detail/ga6-e671-675-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga6-e676-686-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga6-e687-690-episode-cards-v1.md`
-- `docs/07_military/operations/ga6-e671-690-final-orpheus-operation-state-v1.md`
-- `docs/05_characters/ga6-final-orpheus-loss-succession-cast-e671-690-v1.md`
-- `docs/09_collection/detail/ga6-e671-690-final-orpheus-collection-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga6-e571-690-final-cross-audit-v1.md`
+- [[ga6-e671-675-episode-cards-v1]]
+- [[ga6-e676-686-episode-cards-v1]]
+- [[ga6-e687-690-episode-cards-v1]]
+- [[ga6-e671-690-final-orpheus-operation-state-v1]]
+- [[ga6-final-orpheus-loss-succession-cast-e671-690-v1]]
+- [[ga6-e671-690-final-orpheus-collection-loss-state-v1]]
+- [[ga6-e571-690-final-cross-audit-v1]]
 
 ## 3. Final Orpheus Result
 
