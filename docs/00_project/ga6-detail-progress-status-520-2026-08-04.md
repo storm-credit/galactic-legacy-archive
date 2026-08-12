@@ -22,12 +22,12 @@ Grand-act breakdown:
 
 ## 2. B06-02 Files
 
-- `docs/10_story_architecture/detail/ga6-e596-603-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga6-e604-611-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga6-e612-620-episode-cards-v1.md`
-- `docs/07_military/operations/ga6-e596-620-function-manifest-plan-comparison-state-v1.md`
-- `docs/09_collection/detail/ga6-e596-620-function-manifest-plan-and-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga6-e596-620-redteam-v1.md`
+- [[ga6-e596-603-episode-cards-v1]]
+- [[ga6-e604-611-episode-cards-v1]]
+- [[ga6-e612-620-episode-cards-v1]]
+- [[ga6-e596-620-function-manifest-plan-comparison-state-v1]]
+- [[ga6-e596-620-function-manifest-plan-and-loss-state-v1]]
+- [[ga6-e596-620-redteam-v1]]
 
 ## 3. Function/Manifest State
 
