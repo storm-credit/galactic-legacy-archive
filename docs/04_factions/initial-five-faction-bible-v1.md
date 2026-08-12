@@ -1,11 +1,13 @@
-# Initial Five-Faction Bible v1 — 초반 5대 세력 정본
+# Initial Five-Faction Bible v1 — 초반 5대 세력 정본 (+ FCT-06 회색 계층)
 
-Status: REVIEW
+Status: REVIEW — FCT-06 블록만 PROPOSED — NONCANON
 Owner Agents: P01 Politics-Diplomacy / P02 Political Economy / P06 Faction Systems / P07 Opposition / P08 Third Powers / P09 Institutions / P10 Ideology / N08 Faction Arcs
-Last Reviewed: 2026-08-03
-Depends On: canon core packet, original timeline, academy bible, lattice economy
-Used By: First 100 episodes, character bible, war clocks, political plot
-Open Risks: Provisional names, leader overfocus, economic numbers not calibrated
+Last Reviewed: 2026-08-13
+Depends On: canon core packet, original timeline, academy bible, lattice economy, [[ga2-regional-force-and-clock-table-v1]] §21 FCT-R06, [[interregional-trade-flows-and-crisis-economy-v1]] §10
+Used By: First 100 episodes, character bible, war clocks, political plot, 기동 프레임 슬롯 산출
+Open Risks: Provisional names, leader overfocus, economic numbers not calibrated, FCT-06 축 개수·명칭 미확정 및 must_fix 6건 미해결
+
+FCT-06은 다섯 세력과 나란한 여섯 번째 세력이 **아니다.** 정본이 두 곳에서 단일 지하세계를 금지하므로(§37 인용), 이 블록은 세력이 아니라 **이해 축과 행위 문법**을 같은 템플릿으로 기술한다. 별도 문서로 두지 않은 이유는 CLAUDE.md §3(단일 정본 문서와 링크) 및 §8(설계 완료는 문서가 많다는 뜻이 아니다)이다.
 
 ## 1. Equal-Depth Rule
 
@@ -617,17 +619,139 @@ Required charm:
 
 ---
 
-## 37. Relationship Matrix at R0
+# FCT-06 — 회색 계층 (단일 세력 아님)
 
-| From / To | 운영국 | 황실정보원 | 헬릭스 | 독립전선 | 중립회 |
-|---|---|---|---|---|---|
-| 운영국 | 내부갈등 | 법적 보호·감시 | 생존 필수 계약 | 침투·학생 구출 위협 | 감사·보험 필요 |
-| 황실정보원 | 인재·기록 확보 | 내부 후계갈등 | 기술 필요·독점 경계 | 국가 위협·협상대상 | 정보·망명 통로 |
-| 헬릭스 | 데이터·인재 공급 | 계약·규제 로비 | 기업 간 경쟁 | 시장·특허 위협 | 보험·거래 필수 |
-| 독립전선 | 구출·폭로 목표 | 억압의 중심 | 독점의 상징 | 파벌갈등 | 생존 거래·도덕 압박 |
-| 중립회 | 의료·감사 계약 | 과거 강압 불신 | 보험·상업 파트너 | 구조·밀수 경계 | 내부 원칙 갈등 |
+> **Status: PROPOSED — NONCANON.** 이 블록만 비정본이며, 승인 전에는 다른 문서를 구속하지 않는다. FCT-01~05는 본 문서 헤더의 상태를 따른다.
 
-## 38. Three-Way Conflict Templates
+## 37. Identity
+
+Type:
+- **세력이 아니다.** 등재된 조직도, 총칭, 본부, 원본 장부가 없다. FCT-01~05 내부와 그 사이에서 반복되는 **이해 축과 행위 문법**이며, 행위자는 사건마다 자기 이해에 따라 편을 다시 짠다.
+
+정본 근거:
+
+> This is not a single "pirate faction." — [[ga2-regional-force-and-clock-table-v1]] §21 FCT-R06
+> Not one pirate underworld. — [[interregional-trade-flows-and-crisis-economy-v1]] §10
+
+Core belief:
+
+> 권위가 물건을 보지 않는 순간이 있고, 그 순간에 사람을 살릴 수도 팔아넘길 수도 있다.
+
+Core hypocrisy:
+- 같은 행위가 구조이자 착취다. 봉쇄된 항로로 약을 넘기는 손과 난민을 넘기는 손이 같은 조건에서 움직인다.
+
+**하지 않는 것 (FCT-03 헬릭스와의 경계선 — 레드팀 필수 항목, 초안):**
+- 자본 공급 / 인증 발급 / 보험 인수 / 청구 보유 / 표준 제정. 이 다섯은 헬릭스의 동사이며 회색 계층은 그 어느 것도 하지 않는다. 회색 계층은 **권위가 만든 틈에서만** 성립하므로 스스로 권위가 되는 순간 소멸한다.
+
+`[ASSUMPTION]` 항목별 대조표는 [[counter-collection-and-intelligence-war-bible-v1]] §3.2와 본 문서 §16~19를 대조해 Phase B에서 완성한다.
+
+## 38. Constituency
+
+Protected:
+- 청구를 증명하지 못하는 소유자, 자격에서 배제된 정비공·조종사, 통행권을 잃은 선원 가문, 인증 밖 의료가 필요한 사람.
+
+Exploited:
+- 같은 사람들. 부채·결핍·공포가 지렛대가 되는 순간 보호 대상이 상품이 된다.
+
+Story rule (정본 승계):
+
+> gray systems may save people and exploit them simultaneously — [[interregional-trade-flows-and-crisis-economy-v1]] §10
+
+## 39. Resources
+
+**이해 축** — 행위자는 아래 축 위의 좌표로 표현한다. 축은 서로 독립이며, 한 행위자가 축마다 다른 위치를 갖는 것이 정상이다. `[ASSUMPTION]` 축의 개수와 명칭은 작가 확정 대기.
+
+| 축 | 무엇을 두고 갈리는가 | 정본 근거 |
+|---|---|---|
+| 통행 | 항로·창(window)·접안 권리를 누가 정하는가 | [[opening-region-route-graph-v1]] |
+| 청구 | 소유를 증명하지 못하는 물건은 누구 것인가 | FCT-R06 fragmented ownership |
+| 자격 | 인증·면허가 보호인가 배제인가 | [[interregional-trade-flows-and-crisis-economy-v1]] §10 |
+| 부채 | 결핍을 지렛대로 쓰는가 완충하는가 | 같은 문서 §10 |
+| 기억 | 기록되지 않은 것을 인정하는가 | 서약낭인 원리 |
+
+**회색 행위 성립 조건** — 소속이 아니라 조건이 행위를 만든다. 다섯이 모두 성립할 때만 회색 행위이며, 하나라도 없으면 사고이고 사고는 곧 검거다.
+
+| # | 조건 |
+|---|---|
+| a | 두 권위의 책임 시각차가 실작업 시간을 넘는다 |
+| b | 처리한 물건이 되돌아갈 정비 재진입구가 있다 |
+| c | 계보를 얹을 수 있는 인증 부품이 이미 손에 있다 |
+| d | 접안을 대신 서줄 보증인이 있다 |
+| e | 그 시각 그 자리에 있어도 되는 승조원 자격이 있다 |
+
+**논리곱이라는 점이 규칙이다.** 단일 스칼라(평판치·신용등급·이행등급)가 접근권을 결정하는 장치를 쓰지 않으며, 어떤 장면에서도 수치·패널·목록 UI로 제시하지 않는다. 돈은 다섯 항 어느 것도 대체하지 못한다.
+
+전력 (FCT-R06 승계, 변경 없음):
+- 무장 개조선 2~5척 (1개 작전 기준), 소형 습격선·예인선 4~12척 분산, 임시계약 프레임·승선조 8~25.
+
+`[ASSUMPTION]` 나포 6조건(크래들·키·부품·승조원·법적 엄호·수송) 중 무엇이 상품화되고 무엇이 끝까지 되지 않는지의 검산은 Phase B에서 수행한다.
+
+## 40. Internal Blocs
+
+**파벌이 아니라 행위자 유형이다.** 새로 만들지 않고 정본이 이미 열거한 것을 축 위에 배치한다.
+
+| 유형 | 출처 | 주 축 |
+|---|---|---|
+| 허위청구 인양업자 | FCT-R06 | 청구 |
+| 항로갈취조 | FCT-R06 | 통행 |
+| 부패 세관·보안 | FCT-R06 | 자격 |
+| 위조부품 브로커 | FCT-R06 | 자격 |
+| 합법세력 고용 용병 | FCT-R06 | 계약 — **해적과 별개다. 고용주가 있고 계약이 있다** |
+| 밀수업자·항로가문 | 교역 §10 | 통행 |
+| 규칙을 구부리는 합법 사업체 | 교역 §10 | 회색 행위의 최대 수행자 |
+| 의료·신분 중개인 | 교역 §10 | 부채 |
+| 정치 세포 | 교역 §10 | 기억 |
+| 포식적 인신매매 | 교역 §10 | 도덕적 하한선 |
+
+**해적은 이 표의 한 줄이 아니다.** 위 유형 중 어느 것이든 자기 축에서 밀려나면 해적이 된다 — 통행을 잃은 항로가문, 계약이 끊긴 용병단, 배급이 막힌 인양조. 그래서 해적은 여럿이고 서로 다르며, **각자 원래 무엇이었는지가 다르다.**
+
+`[ASSUMPTION]` Human Face 정원(영웅 3+ / 실무자 3+ / 피해자 2+ / 수혜자 2+ / 내부 비판자 2+ / 이름 있는 악행 실행자 / 선의로 해를 끼치는 인물)은 Phase B에서 채운다.
+
+## 41. Victory and Failure
+
+Victory:
+- 승리가 존재하지 않는다. 이 계층의 목표는 존속이 아니라 **개별 행위자의 다음 계절**이다. 통행이 유지되고, 청구가 미결로 남고, 자격이 배제를 계속 만들면 계층은 저절로 재생산된다.
+
+Failure:
+- 권위 간 시각차가 사라지면 소멸한다. 두 권위가 같은 시각에 같은 물건을 책임지면 §39의 조건 a가 깨지고, 나머지 넷이 남아 있어도 회색 행위는 성립하지 않는다.
+
+GA9 회수 (정본 인과 준수):
+- 감소의 원인은 **일정정보 파편화 제거 + 수리 접근 차단**이다. 공통 자격증명 담보조건화는 원인이 아니라 **결과**로 배치한다. `[ASSUMPTION]` 214→61, 47→11, 무력화 대형망 3개, 외부 회랑 전이 2개를 실제 약탈망에 1:1 지정하는 표는 Phase B에서 작성한다.
+
+## 42. Independent Clock — R0 Opening
+
+시계는 사건이 아니라 누적으로 전진한다 (FCT-R06 승계):
+- 미해결 청구 1건, 체불 1회, 유출된 화물목록 1건, 항로 폐쇄 1건마다 전진.
+
+즉 **주인공이 무엇을 하든 전진한다.** 이 계층은 주인공의 일정에 반응하지 않으며, 그를 목표로 삼지도 않는다.
+
+## 43. Opening Representative
+
+Role:
+- 서약낭인단의 예인장 — 해산된 부대의 서약을 기억으로 지탱하는 4~8기 규모 낭인단의 대표. 이 계층 전체의 대표가 아니라 **독자가 처음 만나는 한 집단의 얼굴**이다.
+
+Required charm:
+- 예인한 것을 빼앗지 않는다는 옛 교전규칙을 지키지만, 그것이 도덕이 아니라 상품이라는 것을 본인이 안다.
+- 목격자가 죽을수록 자기 서약이 검증 불가능해진다는 것을 알고, 그래서 사람을 살리는 이유가 순수하지 않다.
+
+`[ASSUMPTION]` 인명 미발행. 4시안이 제안한 후보 중 세이(정본 `Orvan Sei` 충돌), 소린(`세린` 유사음), 예하, 오신, 훈세는 전부 폐기했다. [[core-canonical-names-and-voice-lock-v1]] §1과 [[reader-facing-terminology-phonetics-and-register-bible-v1]] 충돌표를 통과한 이름만 Phase B에서 확정한다.
+
+---
+
+## 44. Relationship Matrix at R0
+
+| From / To | 운영국 | 황실정보원 | 헬릭스 | 독립전선 | 중립회 | 회색 계층 |
+|---|---|---|---|---|---|---|
+| 운영국 | 내부갈등 | 법적 보호·감시 | 생존 필수 계약 | 침투·학생 구출 위협 | 감사·보험 필요 | 외주 노동·부인 가능한 처리 |
+| 황실정보원 | 인재·기록 확보 | 내부 후계갈등 | 기술 필요·독점 경계 | 국가 위협·협상대상 | 정보·망명 통로 | 매수 가능한 눈·소모 가능한 손 |
+| 헬릭스 | 데이터·인재 공급 | 계약·규제 로비 | 기업 간 경쟁 | 시장·특허 위협 | 보험·거래 필수 | 인증 밖 수요의 배출구·경쟁 위협 |
+| 독립전선 | 구출·폭로 목표 | 억압의 중심 | 독점의 상징 | 파벌갈등 | 생존 거래·도덕 압박 | 보급선이자 배신 위험 |
+| 중립회 | 의료·감사 계약 | 과거 강압 불신 | 보험·상업 파트너 | 구조·밀수 경계 | 내부 원칙 갈등 | 규칙의 반례·구조 협력자 |
+| 회색 계층 | 틈을 만드는 자 | 시각차의 공급원 | 자격 장벽의 수혜·피해 | 같은 배제의 산물 | 규칙 밖 생존 경로 | **연대 없음 — 서로 잡아먹는다** |
+
+회색 계층 행은 세로로 읽어야 한다. 다섯 세력은 이 계층을 **쓰고**, 이 계층은 다섯 세력을 **이용하지 않는다 — 그들이 만든 틈에서 살 뿐이다.** 대각선이 유일하게 "연대 없음"인 것이 이 계층이 세력이 아니라는 표시다.
+
+## 45. Three-Way Conflict Templates
 
 ### Template A — Student custody
 
@@ -650,7 +774,7 @@ Required charm:
 Rule:
 - 주인공은 매번 선과 악 중 하나를 고르는 것이 아니라, 서로 다른 정당한 권리와 위험 사이에서 제4의 합의를 만들거나 한쪽의 비용을 받아들인다.
 
-## 39. Faction Collection and Loss
+## 46. Faction Collection and Loss
 
 Possible gains:
 - 대표자 신뢰.
@@ -671,7 +795,7 @@ Possible losses:
 - 지도자 교체.
 - 다른 세력과의 비밀협정.
 
-## 40. Gate 5 Faction Status
+## 47. Gate 5 Faction Status
 
 PASS for:
 - equal-depth motives
