@@ -24,7 +24,7 @@ Open Risks: 결손 3개 클래스의 슬롯 수 추정치가 없다 — 세력 �
 | 항목 | 값 |
 |---|---|
 | 채택안 B 후보 검토 밴드 | **32–40건** |
-| 현재 [[maneuver-frame-lineup-proposed-index-v1]] 행 수 | **28건** |
+| 현재 `docs/06_hardware/data/maneuver-frame-lineup-proposed-index-v1.csv` 행 수 | **28건** |
 | 부족분 | **4건** |
 | D-20260812-01 되돌림 조건 | "섀시 증명 단계에서 후보가 **32건에 미달**하면 A로 되돌린다" |
 
@@ -51,7 +51,7 @@ Open Risks: 결손 3개 클래스의 슬롯 수 추정치가 없다 — 세력 �
 | **9** | **AI·비인간·외계 문명** | **0건** |
 | **10** | **종교·이념·시민운동** | **0건** |
 
-용병·해적·기사단 관련어는 28건 인덱스에서 **0건**이고, [[maneuver-frame-role-demand-crosswalk-proposed-v1]] 57행에서도 **0건**이다. 즉 수요 단계에서부터 없다.
+용병·해적·기사단 관련어는 28건 인덱스에서 **0건**이고, `docs/06_hardware/data/maneuver-frame-role-demand-crosswalk-proposed-v1.csv` 57행에서도 **0건**이다. 즉 수요 단계에서부터 없다.
 
 ---
 
