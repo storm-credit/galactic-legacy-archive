@@ -329,6 +329,9 @@ Constraint:
 ## 21. Purpose
 
 This is not a single “pirate faction.” It covers actors who profit from fragmented ownership and crisis:
+
+> 전 구간(GA1~GA10)에 걸친 이해 축·행위 문법 설계는 [[initial-five-faction-bible-v1]] §37~43 FCT-06에 있다. 본 절은 그 계층의 GA2 지역 스냅숏이다.
+
 - salvage houses falsifying claims.
 - route extortion groups.
 - corrupt customs/security personnel.
