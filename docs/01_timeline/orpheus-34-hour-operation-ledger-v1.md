@@ -3,8 +3,8 @@
 Status: REVIEW — SIMULATION LOCK CANDIDATE
 Owner Agents: M01 Strategy / M03 Fleet / M05 Logistics / M07 Evacuation / T02 Navigation / T03 Life Support / N03 Episode / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: GA6 act map, Orpheus dilemma bible, master chronology, state-sheet schema, named-loss ledger
-Used By: Episodes 676–686, GA6 battle cards, casualty/resource audit
+Depends On: [[ga6-episodes-571-690-act-map-v1]], [[master-series-chronology-v1]], [[operational-state-sheet-schema-v1]], [[named-loss-and-irreversible-transformation-ledger-v1]], Orpheus dilemma bible (미해결 — `orpheus-incident-original-and-current-packet-v1`과 `orpheus-equal-assumption-plan-comparison-v1` 중 어느 쪽인지 불명확해 §11-5에 따라 링크하지 않음)
+Used By: [[ga6-e676-686-episode-cards-v1]], GA6 battle cards, casualty/resource audit
 Open Risks: hostile-force exact order of battle and per-ship manifest require one further simulation pass
 
 ## 1. Operation Clock

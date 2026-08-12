@@ -3,7 +3,7 @@
 Status: REVIEW — CANON LOCK CANDIDATE
 Owner Agents: O01 Canon / N01 Series Architecture / N04 Causality / X04 Continuity / P03 Law / M03 Fleet
 Last Reviewed: 2026-08-03
-Depends On: GA1–10 act maps, original timeline, Gate 6 completion audit
+Depends On: [[first-100-act-map-v2-consolidated]], [[ga2-episodes-101-210-act-map-v1]], [[ga3-episodes-211-330-act-map-v1]], [[ga4-episodes-331-450-act-map-v1]], [[ga5-episodes-451-570-act-map-v1]], [[ga6-episodes-571-690-act-map-v1]], [[ga7-episodes-691-800-act-map-v1]], [[ga8-episodes-801-900-act-map-v1]], [[ga9-episodes-901-1000-act-map-v1]], [[ga10-episodes-1001-1100-act-map-v1]], [[original-timeline-v1]], [[gate6-cross-series-completion-audit]]
 Used By: episode cards, character ages, travel/resource recovery, rank/licence progression, mystery payoff scenes
 Open Risks: exact intra-subact dates and battle-hour state sheets remain open
 
