@@ -96,7 +96,7 @@ Future allowed roles:
 - claims/evidence and training institution;
 - no restored pocket flagship, secret drive or personal ownership.
 
-## 7. Rian Cardo
+## 7. Rian Calder
 
 Final GA6 action:
 - rejects full G human-corrective/master operational key;
