@@ -301,7 +301,7 @@ Likely publication-length risk:
 Required second-pass target:
 - approximately 5,500–6,500 Korean characters per final episode as a diagnostic range, not a rigid quota.
 
-> **Amendment 2026-08-12 — the ceiling above is void.** D-20260812-01 repealed the upper bound; only the 5,500-character floor stands. The text above is preserved as the record of what this audit asked for on 2026-08-03. The E5 "strongest compression requirement" was carried out as density and repetition work — paragraphs 336 to 169, UI blocks 22 to 3 — and E5 v2 ships at 7,728 characters. Do not read 6,500 as a target.
+> **Amendment 2026-08-12 — the ceiling above is void.** D-20260812-02 repealed the upper bound; only the 5,500-character floor stands. The text above is preserved as the record of what this audit asked for on 2026-08-03. The E5 "strongest compression requirement" was carried out as density and repetition work — paragraphs 336 to 169, UI blocks 22 to 3 — and E5 v2 ships at 7,728 characters. Do not read 6,500 as a target.
 
 Do not solve length by:
 - deleting Bram/Juno cost.

@@ -178,7 +178,7 @@ Default Korean prose target:
 - paragraph length normally 2–4 sentences.
 - one-line paragraphs limited to high-value beats, not every action/dialogue.
 
-Recommended balance per episode draft (floor 5,500 characters, no ceiling — D-20260812-01):
+Recommended balance per episode draft (floor 5,500 characters, no ceiling — D-20260812-02):
 - 45–60% action/interaction.
 - 20–30% dialogue.
 - 15–25% explanation/reflection embedded in current stakes.
