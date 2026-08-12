@@ -3,7 +3,7 @@
 Status: REVIEW — CANON CANDIDATE SELECTED
 Owner Agents: R01 Genre Promise / R02 Theme / R06 Market / N01 Macro Story / N07 Retention / O00 PM
 Last Reviewed: 2026-08-03
-Depends On: Gate 1 reference baseline, regression harness, mecha strategic necessity
+Depends On: [[gate1-reference-baseline]], [[regression-causality-harness]], [[mecha-strategic-necessity]]
 Used By: Project pitch, world bible, first-100 architecture, collection bible
 Open Risks: Hybrid overload, opening promise dilution, protagonist role monopoly
 
