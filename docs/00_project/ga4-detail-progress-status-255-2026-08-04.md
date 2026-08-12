@@ -22,14 +22,14 @@ The approved 1100-episode act/subact blueprint remains separate from this detail
 
 ## 2. B04-01 Files
 
-- `docs/10_story_architecture/detail/ga4-e331-337-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga4-e338-345-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga4-e346-353-episode-cards-v1.md`
-- `docs/10_story_architecture/detail/ga4-e354-355-episode-cards-v1.md`
-- `docs/05_characters/ga4-succession-claimants-and-evidence-cast-e331-355-v1.md`
-- `docs/06_law/ga4-e331-355-six-protocol-evidence-and-hearing-state-v1.md`
-- `docs/09_collection/detail/ga4-e331-355-claimant-function-evidence-and-loss-state-v1.md`
-- `docs/99_quality_control/detail/ga4-e331-355-redteam-v1.md`
+- [[ga4-e331-337-episode-cards-v1]]
+- [[ga4-e338-345-episode-cards-v1]]
+- [[ga4-e346-353-episode-cards-v1]]
+- [[ga4-e354-355-episode-cards-v1]]
+- [[ga4-succession-claimants-and-evidence-cast-e331-355-v1]]
+- [[ga4-e331-355-six-protocol-evidence-and-hearing-state-v1]]
+- [[ga4-e331-355-claimant-function-evidence-and-loss-state-v1]]
+- [[ga4-e331-355-redteam-v1]]
 
 ## 3. Locked Results
 
