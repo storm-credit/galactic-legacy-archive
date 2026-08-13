@@ -19,7 +19,7 @@ Open Risks: exact Academy procedures, instructor identity and White Dock timing 
 
 ---
 
-# Episode 1 — 색인에 없는 생도
+# Episode 1 — 역사에 없는 생도
 
 ## Episode promise
 

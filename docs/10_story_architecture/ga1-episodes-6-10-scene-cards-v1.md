@@ -133,7 +133,7 @@ Clues:
 
 ---
 
-# Episode 7 — 07호 소유권 주장 6건
+# Episode 7 — 비품 번호 07
 
 Date:
 - CY 742-03-23.
@@ -353,7 +353,7 @@ Clues:
 
 ---
 
-# Episode 10 — 종결 처리된 신원
+# Episode 10 — 기록상 없는 환자
 
 Date:
 - CY 742-03-25 evening to 03-26.

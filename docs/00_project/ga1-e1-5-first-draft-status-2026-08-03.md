@@ -15,7 +15,7 @@ Open Risks: publication compression and real human/mobile validation
 
 ## Completed Manuscripts
 
-1. [[001-색인에-없는-생도-v1]]
+1. [[001-역사에-없는-생도-v1]]
 2. [[002-연대-책임-36인-v1]]
 3. [[003-출력-제한-기동-허가-v1]]
 4. [[004-기록-결손-오르페우스-v1]]

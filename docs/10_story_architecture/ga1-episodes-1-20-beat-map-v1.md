@@ -36,7 +36,7 @@ Opening-20 cost:
 
 These episodes inherit the tested scene-card structure. Final scene cards may revise details after human/mobile feedback.
 
-## Episode 1 — 색인에 없는 생도
+## Episode 1 — 역사에 없는 생도
 
 Goal:
 - pass intake unnoticed and determine the date.
@@ -193,7 +193,7 @@ Clue:
 Hook:
 - 07’s ownership/stripping hearing occurs before their next test.
 
-## Episode 7 — 07호 소유권 주장 6건
+## Episode 7 — 비품 번호 07
 
 Goal:
 - keep 07 available through the hearing.
@@ -274,7 +274,7 @@ Clues:
 Hook:
 - one closed identity belongs to someone physically present at the Academy.
 
-## Episode 10 — 종결 처리된 신원
+## Episode 10 — 기록상 없는 환자
 
 Goal:
 - verify the closed identity without exposing the person to forced transfer.
@@ -303,7 +303,7 @@ Hook:
 
 # Mini-Arc C — 미래보다 먼저 움직인 적 / Episodes 11–15
 
-## Episode 11 — 아직 피의 제독이 아니다
+## Episode 11 — 피의 제독
 
 Goal:
 - prepare Haren/07 roles for White Dock without revealing future label.
@@ -403,7 +403,7 @@ Clue:
 Hook:
 - rival cell loses a sponsor benefit because resources moved to Rian’s cell.
 
-## Episode 15 — 선발되지 않은 셀
+## Episode 15 — 대신 떨어진 사람들
 
 Goal:
 - face the cost imposed on another student group and preserve White Dock eligibility.
@@ -454,7 +454,7 @@ Cost:
 Hook:
 - test requires choosing which system remains powered.
 
-## Episode 17 — 미래의 기동이 부순 것
+## Episode 17 — 07호는 그 기동을 못 버틴다
 
 Goal:
 - adapt after Rian applies a future maneuver/load sequence that damages current 07.
@@ -533,7 +533,7 @@ Clue:
 Hook:
 - Academy converts the decision into a formal live betrayal test at White Dock simulation/training route.
 
-## Episode 20 — 셋 다 아닌 답
+## Episode 20 — 누구도 버리지 않는다
 
 Goal:
 - survive the formal test without obeying, betraying or assigning one sacrificial culprit.

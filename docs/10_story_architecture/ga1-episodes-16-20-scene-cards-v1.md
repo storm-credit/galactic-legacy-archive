@@ -98,7 +98,7 @@ End hook:
 
 ---
 
-# Episode 17 — 미래의 기동이 부순 것
+# Episode 17 — 07호는 그 기동을 못 버틴다
 
 Date:
 - CY 742-04-02.
@@ -309,7 +309,7 @@ Clue:
 
 ---
 
-# Episode 20 — 셋 다 아닌 답
+# Episode 20 — 누구도 버리지 않는다
 
 Date:
 - CY 742-04-05.

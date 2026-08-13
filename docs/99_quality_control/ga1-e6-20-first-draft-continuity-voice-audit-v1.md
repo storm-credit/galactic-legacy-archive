@@ -51,7 +51,7 @@ Verdict:
 
 PASS.
 
-### E7 — 07호 소유권 주장 6건
+### E7 — 비품 번호 07
 
 - six separate claims are physically shown.
 - Rian’s future-value ownership argument fails.
@@ -77,7 +77,7 @@ PASS.
 
 PASS.
 
-### E10 — 종결 처리된 신원
+### E10 — 기록상 없는 환자
 
 - Soma’s present body and consent lead.
 - Rian’s automatic identity-restoration plan is rejected.
@@ -86,7 +86,7 @@ PASS.
 
 PASS.
 
-### E11 — 아직 피의 제독이 아니다
+### E11 — 피의 제독
 
 - future label makes Rian remove Haren without current cause.
 - bounded route authority is restored after challenge.
@@ -123,7 +123,7 @@ PASS after correction.
 
 PASS.
 
-### E15 — 선발되지 않은 셀
+### E15 — 대신 떨어진 사람들
 
 - Rian’s future-important-person selection is rejected.
 - cross-cell drill preserves separate command.
@@ -141,7 +141,7 @@ PASS.
 
 PASS.
 
-### E17 — 미래의 기동이 부순 것
+### E17 — 07호는 그 기동을 못 버틴다
 
 - Rian discloses risk but understates the missing reinforcement’s role.
 - spectacular score gain is real.
@@ -168,7 +168,7 @@ PASS.
 
 PASS.
 
-### E20 — 셋 다 아닌 답
+### E20 — 누구도 버리지 않는다
 
 - three institutional choices and their concrete losses are restated.
 - Adel Sern’s future-relevant offer is materially tempting.

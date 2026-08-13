@@ -599,7 +599,7 @@ Anti-repeat:
 
 ---
 
-# GRAND ACT 7 — 아직 피의 제독이 아니다이 없는 전쟁
+# GRAND ACT 7 — 피의 제독이 없는 전쟁
 
 Episodes: 691–800
 

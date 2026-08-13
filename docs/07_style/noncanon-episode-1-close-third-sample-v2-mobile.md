@@ -23,7 +23,7 @@ This v2 moves the physical failure to the first paragraph while preserving:
 
 ---
 
-## 제1화 테스트 원고 v2 — 색인에 없는 생도
+## 제1화 테스트 원고 v2 — 역사에 없는 생도
 
 07호의 왼쪽 어깨가 내려앉았다.
 

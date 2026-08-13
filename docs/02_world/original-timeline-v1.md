@@ -406,7 +406,7 @@ Divergence sensitivity: B4 CORE
 
 ---
 
-## OT-17 — 아직 피의 제독이 아니다의 초토화 교리
+## OT-17 — 피의 제독의 초토화 교리
 
 Time: R+14
 

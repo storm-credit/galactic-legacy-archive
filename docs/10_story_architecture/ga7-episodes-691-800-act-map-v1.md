@@ -1,4 +1,4 @@
-# GA7 Episodes 691–800 Act Map v1 — 아직 피의 제독이 아니다이 없는 전쟁
+# GA7 Episodes 691–800 Act Map v1 — 피의 제독이 없는 전쟁
 
 Status: REVIEW — ACT/SUBACT LEVEL ONLY
 Owner Agents: N02 Act Architecture / N03 Episode Structure / N04 Causality / N05 Mystery-Payoff / N07 Retention / P06 Faction Clocks / M08 Command Ethics
@@ -323,7 +323,7 @@ Act-ending trigger:
 
 ---
 
-# ACT 7C — 아직 피의 제독이 아니다의 명령 / Episodes 741–765
+# ACT 7C — 피의 제독의 명령 / Episodes 741–765
 
 Act question:
 
@@ -530,7 +530,7 @@ Cost:
 Hook:
 - route federation cannot survive upcoming simultaneous closures unless it reforms authority while H-001’s status remains disputed.
 
-## 17. Subact 7D-3 — 아직 피의 제독이 아니다 없이 항로를 지키기 / Episodes 781–790
+## 17. Subact 7D-3 — 피의 제독 없이 항로를 지키기 / Episodes 781–790
 
 Goal:
 - run one final multi-route emergency without relying on H-001 as sole coordinator or singular title.

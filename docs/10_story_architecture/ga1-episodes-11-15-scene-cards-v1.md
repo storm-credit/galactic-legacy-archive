@@ -27,7 +27,7 @@ White Dock:
 
 ---
 
-# Episode 11 — 아직 피의 제독이 아니다
+# Episode 11 — 피의 제독
 
 Date:
 - CY 742-03-27.
@@ -299,7 +299,7 @@ Clue:
 
 ---
 
-# Episode 15 — 선발되지 않은 셀
+# Episode 15 — 대신 떨어진 사람들
 
 Date:
 - CY 742-03-31.

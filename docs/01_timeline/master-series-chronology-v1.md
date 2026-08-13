@@ -43,7 +43,7 @@ Rule:
 | 4 — 왕관 없는 계승전 | 331–450 | CY 743-10-01 → 744-02-29 | 152 days | Core succession emergency and compact formation |
 | 5 — 주인 없는 함대 | 451–570 | CY 744-03-01 → 744-10-31 | 245 days | fleet assembly, yard/pay disputes and theater operations |
 | 6 — 두 번째 오르페우스 | 571–690 | CY 744-11-01 → 744-12-18 | 48 days | approach, 28–34 hour decisive evacuation and immediate aftermath |
-| 7 — 아직 피의 제독이 아니다이 없는 전쟁 | 691–800 | CY 744-12-19 → 745-09-30 | 286 days | route denial proliferation, inquiry and federation restructuring |
+| 7 — 피의 제독이 없는 전쟁 | 691–800 | CY 744-12-19 → 745-09-30 | 286 days | route denial proliferation, inquiry and federation restructuring |
 | 8 — 기록전쟁 | 801–900 | CY 745-10-01 → 746-07-31 | 304 days | archive expeditions, identity crises and bounded Seed activation |
 | 9 — 보존된 은하 | 901–1000 | CY 746-08-01 → 747-05-31 | 304 days | Preservation Regime expansion and central-key campaign |
 | 10 — 수집가 없는 은하 | 1001–1095 | CY 747-06-01 → 748-07-31 | 426 days | staged regional transfer and final multi-front handoff |

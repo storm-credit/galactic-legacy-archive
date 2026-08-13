@@ -19,7 +19,7 @@ The five episodes may be merged into `main` under the clearly marked `manuscript
 
 ## 2. Episode Causality
 
-### Episode 1 — 색인에 없는 생도
+### Episode 1 — 역사에 없는 생도
 
 Goal:
 - survive intake without exposure and prevent the 07 accident.
