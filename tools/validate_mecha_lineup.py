@@ -104,6 +104,19 @@ NEW_FILES_EXCLUDED_FROM_COLLISION_SCAN = {
     ROOT / "docs" / "07_military" / "frame-formation-combat-and-collectibility-integration-audit-v1.md",
 }
 
+# Generated views mirror the CSV, so they always contain every working name.
+# They cannot constitute prior use -- the check asks whether a human already
+# spent the name somewhere, and a file that is rewritten from the CSV on every
+# build has not spent anything.
+GENERATED_DIRS_EXCLUDED_FROM_COLLISION_SCAN = (
+    ROOT / "docs" / "_catalog",
+    ROOT / "docs" / "_index",
+)
+GENERATED_FILES_EXCLUDED_FROM_COLLISION_SCAN = {
+    ROOT / "docs" / "CATALOG.md",
+    ROOT / "docs" / "HOME.md",
+}
+
 
 def read_csv(path: Path) -> list[dict[str, str]]:
     if not path.exists():
@@ -180,6 +193,10 @@ def existing_markdown_corpus() -> str:
     chunks: list[str] = []
     for path in ROOT.rglob("*.md"):
         if path in NEW_FILES_EXCLUDED_FROM_COLLISION_SCAN:
+            continue
+        if path in GENERATED_FILES_EXCLUDED_FROM_COLLISION_SCAN:
+            continue
+        if any(d in path.parents for d in GENERATED_DIRS_EXCLUDED_FROM_COLLISION_SCAN):
             continue
         chunks.append(path.read_text(encoding="utf-8-sig").upper())
     return "\n".join(chunks)
