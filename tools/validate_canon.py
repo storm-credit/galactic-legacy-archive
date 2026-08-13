@@ -347,6 +347,84 @@ def check_registry_counts(files: list[tuple[str, str]], report: Report) -> int:
     return checked
 
 
+# --------------------------------------------------------------------------
+# C9 -- registered items must record where they pay off
+# --------------------------------------------------------------------------
+# CLAUDE.md section 2-2 requires a setting item to be recorded together with
+# its plot use and its payoff point, and section 7 blocks canon promotion while
+# a macguffin's payoff is unclear. Anchor CSVs carry those fields; this check
+# makes sure every registry row has one and that no item pays off before it
+# appears.
+
+ANCHOR_SETS = (
+    # anchor csv, registry markdown, row-id prefix
+    ("docs/06_hardware/data/anchor-fields-hulls-v1.csv",
+     "docs/06_hardware/named-hull-registry-and-naming-grammar-v1.md", "S-"),
+    ("docs/06_hardware/data/anchor-fields-weapons-v1.csv",
+     "docs/06_hardware/named-weapon-and-part-registry-v1.md", "A-"),
+    ("docs/06_hardware/data/anchor-fields-technologies-v1.csv",
+     "docs/06_hardware/named-technology-lineage-registry-v1.md", "T-"),
+    ("docs/09_collection/data/anchor-fields-relics-v1.csv",
+     "docs/09_collection/named-relic-and-provenance-registry-v1.md", "R-"),
+    ("docs/04_factions/data/anchor-fields-factions-v1.csv",
+     "docs/04_factions/named-faction-and-institution-registry-v1.md", "F-"),
+    ("docs/02_world/data/anchor-fields-places-v1.csv",
+     "docs/02_world/named-place-and-corridor-registry-v1.md", "N-"),
+)
+ANCHOR_REQUIRED = ("final_payoff", "plot_use", "limit_cost", "misuse_risk")
+GA_TOKEN = re.compile(r"^(?:GA(\d+)|E\d+)$")
+
+
+def arc_order(value: str) -> int | None:
+    """GA number for ordering. E-numbers count as GA1, the opening arc."""
+    m = GA_TOKEN.match(value.strip())
+    if not m:
+        return None
+    return int(m.group(1)) if m.group(1) else 1
+
+
+def check_payoffs(report: Report, sets=None, root: Path | None = None) -> int:
+    """C9 -- every registry row has anchor fields, and payoff follows reveal."""
+    import csv as _csv
+
+    checked = 0
+    base = root or ROOT
+    for csv_rel, doc_rel, prefix in (sets or ANCHOR_SETS):
+        csv_path = base / csv_rel
+        doc_path = base / doc_rel
+        if not csv_path.exists() or not doc_path.exists():
+            report.error(f"C9 {csv_rel}: anchor file or registry is missing")
+            continue
+        with csv_path.open(encoding="utf-8") as handle:
+            rows = {r["item_id"]: r for r in _csv.DictReader(handle)}
+        registry_ids = []
+        for line in doc_path.read_text(encoding="utf-8").split("\n"):
+            if not (line.startswith(f"| {prefix}") or line.startswith(f"| `{prefix}")):
+                continue
+            if NOT_REGISTERED in line:
+                continue
+            registry_ids.append(line.split("|")[1].strip().strip("`"))
+        for item in registry_ids:
+            checked += 1
+            row = rows.get(item)
+            if row is None:
+                report.error(f"C9 {doc_rel}: {item} has no anchor row — payoff unrecorded")
+                continue
+            missing = [f for f in ANCHOR_REQUIRED if not row.get(f, "").strip()]
+            if missing:
+                report.error(f"C9 {csv_rel}: {item} is missing {', '.join(missing)}")
+                continue
+            first, final = arc_order(row["first_reveal"]), arc_order(row["final_payoff"])
+            if first is None or final is None:
+                report.error(f"C9 {csv_rel}: {item} has an unreadable arc value")
+            elif final < first:
+                report.error(
+                    f"C9 {csv_rel}: {item} pays off in {row['final_payoff']} "
+                    f"but appears in {row['first_reveal']}"
+                )
+    return checked
+
+
 def parse_header(text: str) -> dict[str, str]:
     """Collect ``Key: value`` fields from the head of the file.
 
@@ -756,6 +834,37 @@ def selftest() -> int:
             failures += 1
             print(f"  FAIL  {name}: {found}")
 
+    import tempfile
+
+    c9_cases = [
+        ("C9 detects an item with no payoff recorded",
+         "| A-001 | x |\n", '"item_id","first_reveal","final_payoff","plot_use","limit_cost","misuse_risk"\n', "C9"),
+        ("C9 detects a payoff that precedes the reveal",
+         "| A-001 | x |\n",
+         '"item_id","first_reveal","final_payoff","plot_use","limit_cost","misuse_risk"\n'
+         '"A-001","GA5","GA2","u","c","r"\n', "C9"),
+        ("C9 accepts an item whose payoff follows its reveal",
+         "| A-001 | x |\n",
+         '"item_id","first_reveal","final_payoff","plot_use","limit_cost","misuse_risk"\n'
+         '"A-001","GA2","GA5","u","c","r"\n', ""),
+    ]
+    for name, doc_text, csv_text, expected in c9_cases:
+        with tempfile.TemporaryDirectory() as tmp:
+            base = Path(tmp)
+            (base / "d").mkdir()
+            (base / "d" / "reg.md").write_text(doc_text, encoding="utf-8")
+            (base / "d" / "anchor.csv").write_text(csv_text, encoding="utf-8")
+            report = Report()
+            check_payoffs(report, [("d/anchor.csv", "d/reg.md", "A-")], base)
+            found = report.errors + report.warnings
+            ok = any(i.startswith(expected) for i in found) if expected else not found
+        if ok:
+            print(f"  PASS  {name}")
+        else:
+            failures += 1
+            print(f"  FAIL  {name}: {found}")
+    cases = list(cases) + c9_cases
+
     print()
     if failures:
         print(f"SELFTEST FAILED — {failures} of {len(cases)} cases")
@@ -790,6 +899,7 @@ def main() -> int:
     entity_count = check_entity_notes(files, report)
     arc_count = check_arc_claims(files, report)
     count_scope = check_registry_counts(files, report)
+    payoff_scope = check_payoffs(report)
 
     report.note(f"markdown files scanned: {len(files)}")
     report.note(f"wikilinks resolved: {link_count}")
@@ -798,6 +908,7 @@ def main() -> int:
     report.note(f"entity notes checked: {entity_count}")
     report.note(f"registry arc claims checked: {arc_count}")
     report.note(f"registries counting themselves: {count_scope}")
+    report.note(f"items with a recorded payoff: {payoff_scope}")
 
     if report.warnings:
         print("WARNINGS")
