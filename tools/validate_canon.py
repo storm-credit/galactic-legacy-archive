@@ -303,9 +303,9 @@ def check_arc_claims(files: list[tuple[str, str]], report: Report) -> int:
 REGISTRY_COUNTS = (
     # path, row-id prefix pattern, phrase the document uses for its total
     ("docs/06_hardware/named-hull-registry-and-naming-grammar-v1.md", "S-", "등록부 총계"),
-    ("docs/06_hardware/named-weapon-and-part-registry-v1.md", "A-", "명명 앵커"),
+    ("docs/06_hardware/named-weapon-and-part-registry-v1.md", "WA-", "명명 앵커"),
     ("docs/06_hardware/named-technology-lineage-registry-v1.md", "T-", "명명 계보"),
-    ("docs/09_collection/named-relic-and-provenance-registry-v1.md", "R-", "명명 실물 유물"),
+    ("docs/09_collection/named-relic-and-provenance-registry-v1.md", "RL-", "명명 실물 유물"),
     ("docs/02_world/named-place-and-corridor-registry-v1.md", "N-", "명명 전면 장소"),
 )
 
@@ -359,17 +359,18 @@ def check_registry_counts(files: list[tuple[str, str]], report: Report) -> int:
 ANCHOR_SETS = (
     # anchor csv, registry markdown, row-id prefix
     ("docs/06_hardware/data/anchor-fields-hulls-v1.csv",
-     "docs/06_hardware/named-hull-registry-and-naming-grammar-v1.md", "S-"),
+     "docs/06_hardware/named-hull-registry-and-naming-grammar-v1.md", ("S-",)),
     ("docs/06_hardware/data/anchor-fields-weapons-v1.csv",
-     "docs/06_hardware/named-weapon-and-part-registry-v1.md", "A-"),
+     "docs/06_hardware/named-weapon-and-part-registry-v1.md", ("WA-",)),
     ("docs/06_hardware/data/anchor-fields-technologies-v1.csv",
-     "docs/06_hardware/named-technology-lineage-registry-v1.md", "T-"),
+     "docs/06_hardware/named-technology-lineage-registry-v1.md", ("T-",)),
     ("docs/09_collection/data/anchor-fields-relics-v1.csv",
-     "docs/09_collection/named-relic-and-provenance-registry-v1.md", "R-"),
+     "docs/09_collection/named-relic-and-provenance-registry-v1.md", ("RL-",)),
     ("docs/04_factions/data/anchor-fields-factions-v1.csv",
-     "docs/04_factions/named-faction-and-institution-registry-v1.md", "F-"),
+     "docs/04_factions/named-faction-and-institution-registry-v1.md",
+     ("F-", "REC-F", "AR-F")),
     ("docs/02_world/data/anchor-fields-places-v1.csv",
-     "docs/02_world/named-place-and-corridor-registry-v1.md", "N-"),
+     "docs/02_world/named-place-and-corridor-registry-v1.md", ("N-", "RT-")),
 )
 ANCHOR_REQUIRED = ("final_payoff", "plot_use", "limit_cost", "misuse_risk")
 GA_TOKEN = re.compile(r"^(?:GA(\d+)|E\d+)$")
@@ -389,7 +390,8 @@ def check_payoffs(report: Report, sets=None, root: Path | None = None) -> int:
 
     checked = 0
     base = root or ROOT
-    for csv_rel, doc_rel, prefix in (sets or ANCHOR_SETS):
+    for csv_rel, doc_rel, prefixes in (sets or ANCHOR_SETS):
+        prefixes = (prefixes,) if isinstance(prefixes, str) else prefixes
         csv_path = base / csv_rel
         doc_path = base / doc_rel
         if not csv_path.exists() or not doc_path.exists():
@@ -399,7 +401,8 @@ def check_payoffs(report: Report, sets=None, root: Path | None = None) -> int:
             rows = {r["item_id"]: r for r in _csv.DictReader(handle)}
         registry_ids = []
         for line in doc_path.read_text(encoding="utf-8").split("\n"):
-            if not (line.startswith(f"| {prefix}") or line.startswith(f"| `{prefix}")):
+            if not any(line.startswith(f"| {p}") or line.startswith(f"| `{p}")
+                       for p in prefixes):
                 continue
             if NOT_REGISTERED in line:
                 continue
@@ -612,14 +615,14 @@ def selftest() -> int:
         (
             "C8 detects a registry that miscounts itself",
             [("docs/06_hardware/named-weapon-and-part-registry-v1.md",
-              "| 명명 앵커 | **3** |\n| A-001 | x |\n| A-002 | y |")],
+              "| 명명 앵커 | **3** |\n| WA-001 | x |\n| WA-002 | y |")],
             "counts",
             "C8",
         ),
         (
             "C8 accepts a registry whose stated total matches its rows",
             [("docs/06_hardware/named-weapon-and-part-registry-v1.md",
-              "| 명명 앵커 | **2** |\n| A-001 | x |\n| A-002 | y |")],
+              "| 명명 앵커 | **2** |\n| WA-001 | x |\n| WA-002 | y |")],
             "counts",
             "",
         ),
@@ -838,15 +841,15 @@ def selftest() -> int:
 
     c9_cases = [
         ("C9 detects an item with no payoff recorded",
-         "| A-001 | x |\n", '"item_id","first_reveal","final_payoff","plot_use","limit_cost","misuse_risk"\n', "C9"),
+         "| WA-001 | x |\n", '"item_id","first_reveal","final_payoff","plot_use","limit_cost","misuse_risk"\n', "C9"),
         ("C9 detects a payoff that precedes the reveal",
-         "| A-001 | x |\n",
+         "| WA-001 | x |\n",
          '"item_id","first_reveal","final_payoff","plot_use","limit_cost","misuse_risk"\n'
-         '"A-001","GA5","GA2","u","c","r"\n', "C9"),
+         '"WA-001","GA5","GA2","u","c","r"\n', "C9"),
         ("C9 accepts an item whose payoff follows its reveal",
-         "| A-001 | x |\n",
+         "| WA-001 | x |\n",
          '"item_id","first_reveal","final_payoff","plot_use","limit_cost","misuse_risk"\n'
-         '"A-001","GA2","GA5","u","c","r"\n', ""),
+         '"WA-001","GA2","GA5","u","c","r"\n', ""),
     ]
     for name, doc_text, csv_text, expected in c9_cases:
         with tempfile.TemporaryDirectory() as tmp:
@@ -855,7 +858,7 @@ def selftest() -> int:
             (base / "d" / "reg.md").write_text(doc_text, encoding="utf-8")
             (base / "d" / "anchor.csv").write_text(csv_text, encoding="utf-8")
             report = Report()
-            check_payoffs(report, [("d/anchor.csv", "d/reg.md", "A-")], base)
+            check_payoffs(report, [("d/anchor.csv", "d/reg.md", "WA-")], base)
             found = report.errors + report.warnings
             ok = any(i.startswith(expected) for i in found) if expected else not found
         if ok:
