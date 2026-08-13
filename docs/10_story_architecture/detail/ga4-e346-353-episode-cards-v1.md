@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C01 Character / C02 Ensemble / C04 Relationships / P01 Politics / P02 Economy / P03 Law / P04 Care / P06 Factions / T07 Networks / M01 Strategy / M03 Fleet / M05 Logistics / M07 Command / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E338–345 evidence recovery, four succession officeholders and GA4 act map
+Depends On: E338–345 evidence recovery, four succession officeholders and [[ga4-episodes-331-450-act-map-v1]]
 Used By: E354–360 hearing cards, claimant function state and B04-01 audit
 Open Risks: none of the four functions equals final sovereignty
 

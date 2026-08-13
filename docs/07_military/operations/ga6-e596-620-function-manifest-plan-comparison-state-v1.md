@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED OPERATION / MANIFEST STATE
 Owner Agents: M01 Strategy / M03 Fleet / M05 Logistics / M07 Evacuation / P03 Law / P04 Care / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E596–620 cards, B06-01 common-fact state and Orpheus simulation
+Depends On: [[ga6-e596-603-episode-cards-v1]], [[ga6-e604-611-episode-cards-v1]], [[ga6-e612-620-episode-cards-v1]], B06-01 common-fact state and Orpheus simulation
 Used By: E621–645 military/route stress tests and B06-02 audit
 
 ## 1. Chronology

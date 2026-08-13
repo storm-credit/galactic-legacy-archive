@@ -3,7 +3,7 @@
 Status: WORKING CANON — COLLECTION / INSTITUTION / LOSS CONTINUITY
 Owner Agents: G01 Collection / G02 Counter-Collection / G03 Active Load / G04 Reward / G05 Power Creep / G07 Loss / C02 Ensemble / P01 Politics / P02 Economy / P03 Law / X03 Ethics / X04 Continuity / O01 Canon
 Last Reviewed: 2026-08-04
-Depends On: E311–330 cards, final-window operation state, final cast/succession lock and date override
+Depends On: [[ga3-e311-314-episode-cards-v1]], [[ga3-e315-323-episode-cards-v1]], [[ga3-e324-330-episode-cards-v1]], final-window operation state, final cast/succession lock and date override
 Used By: GA3 final cross-audit, GA4 opening and all later Ardis references
 Open Risks: conditional CY 743-10-12 window and 24-month Trust reviews remain future story state
 

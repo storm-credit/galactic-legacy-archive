@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: N05 Mystery-Payoff / T04 AI-Neural / T07 Data-Networks / P03 Law / P10 Ideology / M01 Strategy / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: Archive origin-ending options, service authorities A–E, Blood Admiral decomposition, Autonomous War Collapse, Continuity Office
+Depends On: Archive origin-[[legacy-archive-origin-ending-options]], service authorities A–E, Blood Admiral decomposition, Autonomous War Collapse, Continuity Office
 Used By: Episodes 801–900, GA8 factions, final origin reveal, GA9 preservation regime
 Open Risks: exposition overload, hidden-master-technology appearance, exact site names/locations and physical data mechanisms
 

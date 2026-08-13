@@ -3,7 +3,7 @@
 Status: TEST MATERIAL — NON-CANON
 Owner Agents: C06 Voice / L01 Prose / L02 POV / X02 Reader
 Last Reviewed: 2026-08-03
-Depends On: canonical names/voice lock
+Depends On: [[core-canonical-names-and-voice-lock-v1]]/voice lock
 Used By: blind attribution test before manuscript authorization
 Open Risks: human reader sample not yet collected
 

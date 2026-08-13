@@ -3,7 +3,7 @@
 Status: REVIEW — CHARACTER / ROLE STATE
 Owner Agents: C01 Protagonist / C02 Ensemble / C03 Antagonists / C04 Ordinary People / P03 Law / P04 Care / P06 Factions / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E826–850 episode cards and four-history institution state
+Depends On: [[ga8-e826-835-episode-cards-v1]], [[ga8-e836-843-episode-cards-v1]], [[ga8-e844-850-episode-cards-v1]] and four-history institution state
 Used By: GA8 E851–875 and B08-02 audit
 
 ## 1. Agency Rule

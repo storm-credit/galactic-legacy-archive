@@ -3,7 +3,7 @@
 Status: REVIEW — FINAL CHARACTER / ROLE STATE
 Owner Agents: C01 Protagonist / C02 Ensemble / C03 Antagonists / C04 Ordinary People / P03 Law / P04 Care / P06 Factions / N06 Ending / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: GA10 E1076–1100 cards and final institution state
+Depends On: [[ga10-e1076-1085-episode-cards-v1]], [[ga10-e1086-1093-episode-cards-v1]], [[ga10-e1094-1100-episode-cards-v1]] and final institution state
 Used By: final project audit and future gate review
 
 ## 1. Gate and Character Rule

@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE — PASS WITH S1 CONTROLS
 Owner Agents: A16 Red Team / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity / X06 Coverage / N07 Retention / O01 Canon / O02 Gates
 Last Reviewed: 2026-08-03
-Depends On: E151–175 cards, community destination state, relay/convoy operation state and collection update
+Depends On: [[ga2-e151-160-episode-cards-v1]], [[ga2-e161-168-episode-cards-v1]], [[ga2-e169-175-episode-cards-v1]], community destination state, relay/convoy operation state and collection update
 Used By: B02-03 merge gate and E176–200 continuation
 Open Risks: open-standard/certification conflict must produce real service consequences without simplifying Helix into a villain
 

@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N05 Mystery / N07 Retention / C02 Ensemble / C03 Opposition / C05 Psychology / P02 Economy / P03 Law / P04 Care / P06 Factions / T03 Life Support / T07 Networks / H04 Maintenance / H05 Medical / H06 Damage / M03 Fleet / M05 Logistics / M07 Civil Defense / M08 Command Ethics / G02 Counter-Collection / G05 Power Creep / G07 Loss / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: E186–193 cards, open-service/convoy state, Jena Annex and Jena/Ovel loss rules
-Used By: E201–210 cards, public accident ledger and B02-04 audit
+Depends On: [[ga2-e186-193-episode-cards-v1]], open-service/convoy state, Jena Annex and Jena/Ovel loss rules
+Used By: [[ga2-e201-210-episode-cards-v1]], public accident ledger and B02-04 audit
 Open Risks: final regional standard and Ardis/Silex access are completed in E201–210
 
 ## Shared Opening State

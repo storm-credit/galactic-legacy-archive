@@ -3,7 +3,7 @@
 Status: REVIEW — INCIDENT AND CHARACTER FOUNDATION
 Owner Agents: C02 Ensemble / P04 Education-Class / M07 Training / T04 Neural Medicine / N04 Causality / X03 Ethics
 Last Reviewed: 2026-08-03
-Depends On: E21–45 scene cards, Academy scale, Black Ward arc, fifth-answer myth
+Depends On: [[ga1-episodes-21-26-scene-cards-v1]], [[ga1-episodes-27-32-scene-cards-v1]], [[ga1-episodes-33-38-scene-cards-v1]], [[ga1-episodes-39-45-scene-cards-v1]], Academy scale, Black Ward arc, fifth-answer myth
 Used By: Episodes 45–51, collective-punishment conflict, Black Ward discovery
 Open Risks: final side-character recurrence and exact neural-hardware terminology remain adjustable
 

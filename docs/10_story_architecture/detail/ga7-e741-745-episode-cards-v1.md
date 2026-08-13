@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P03 Law / P04 Care / P06 Factions / M01 Strategy / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E716–740 composite finding, D4 authority state and GA7 act map
+Depends On: E716–740 composite finding, D4 authority state and [[ga7-episodes-691-800-act-map-v1]]
 Used By: E746–765 Haren D4 decision/consequence and B07-03 audit
 
 ## Shared State

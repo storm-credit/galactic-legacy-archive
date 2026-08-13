@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C02 Ensemble / C04 Relationships / P01 Politics / P02 Economy / P03 Law / P06 Factions / T02 Navigation / T07 Networks / H02 Ship / H03 Sensors / H04 Maintenance / H05 Medical / M02 Operational Art / M03 Fleet / M05 Logistics / M06 Intelligence / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E331–337 cards, conditional Ardis window, GA4 act map and succession-officeholder ledger
-Used By: E346–355 cards, evidence-custody state and B04-01 audit
+Depends On: [[ga4-e331-337-episode-cards-v1]], conditional Ardis window, [[ga4-episodes-331-450-act-map-v1]] and succession-officeholder ledger
+Used By: [[ga4-e346-353-episode-cards-v1]], [[ga4-e354-355-episode-cards-v1]], evidence-custody state and B04-01 audit
 Open Risks: the witness establishes physical sequence, not final legal succession
 
 ## Shared Starting State

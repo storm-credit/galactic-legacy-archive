@@ -3,7 +3,7 @@
 Status: REVIEW — COLLECTION / ACTION / LOSS STATE
 Owner Agents: G01 Collection / G04 AI / P02 Economy / P03 Law / P04 Care / M06 Intelligence / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-05
-Depends On: E876–900 cards and Seed activation institution/cast state
+Depends On: [[ga8-e876-885-episode-cards-v1]], [[ga8-e886-893-episode-cards-v1]], [[ga8-e894-900-episode-cards-v1]] and Seed activation institution/cast state
 Used By: GA8 final cross-audit, progress control and GA9 opening
 
 ## 1. Collection Rule

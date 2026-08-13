@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode Structure / N04 Causality / N07 Retention / C01–C06 Character / P02 Economy / P03 Law / H02 Ship / H04 Maintenance / M03 Fleet / M05 Logistics / G04 Acquisition / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: GA1 E100 state, first-ship bible, GA2 opening ship finance/state, crew errata 003, GA2 act map
-Used By: E108–114 cards, ship claim/repair ledgers, GA2 B02-01 audit
+Depends On: GA1 E100 state, first-ship bible, GA2 opening ship finance/state, crew errata 003, [[ga2-episodes-101-210-act-map-v1]]
+Used By: [[ga2-e108-114-episode-cards-v1]], ship claim/repair ledgers, GA2 B02-01 audit
 Open Risks: individual background claimant names remain limited until needed
 
 ## Shared Opening State

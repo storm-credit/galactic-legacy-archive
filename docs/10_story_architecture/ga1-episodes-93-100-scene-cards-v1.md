@@ -3,7 +3,7 @@
 Status: REVIEW — SCENE-CARD LEVEL
 Owner Agents: N03 Episode / N04 Causality / P03 Law / P09 Institutions / M08 Command Ethics / T07 Networks / G04 Reward / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: E85–92 cards, provisional charter, siege state, Academy/07 E73–100 state, GA2 first ship bible
+Depends On: [[ga1-episodes-85-92-scene-cards-v1]], provisional charter, siege state, Academy/07 E73–100 state, GA2 first ship bible
 Used By: GA1 completion, GA2 launch, first-100 consolidation
 Open Risks: named siege casualty list and initial board-seat occupants remain open before prose
 

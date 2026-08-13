@@ -3,8 +3,8 @@
 Status: REVIEW — OPERATIONAL/RESOURCE STATE LOCK
 Owner Agents: M02 Operational Art / M03 Fleet Operations / M04 Frame Tactics / M05 Logistics / M06 Intelligence / T02 Navigation / T03 Life Support / H02 Ship / H03 Sensors / H04 Maintenance / H05 Medical / H06 Damage / P02 Economy / P03 Law / X01 Logic / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: E126–150 cards, first-voyage state, weapons calibration, Jena loss ledger
-Used By: E151–175 cards and B02-02 audit
+Depends On: [[ga2-e126-130-episode-cards-v1]], [[ga2-e131-137-episode-cards-v1]], [[ga2-e138-145-episode-cards-v1]], [[ga2-e146-150-episode-cards-v1]], first-voyage state, weapons calibration, Jena loss ledger
+Used By: [[ga2-e151-160-episode-cards-v1]], [[ga2-e161-168-episode-cards-v1]], [[ga2-e169-175-episode-cards-v1]] and B02-02 audit
 Open Risks: exact component-title distribution is deliberately unresolved until E151–160
 
 ## 1. Time and Operation Sequence

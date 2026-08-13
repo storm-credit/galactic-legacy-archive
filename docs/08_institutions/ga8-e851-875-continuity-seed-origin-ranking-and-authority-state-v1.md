@@ -3,7 +3,7 @@
 Status: REVIEW — INSTITUTION / MODEL / RIGHTS STATE
 Owner Agents: P03 Law / P04 Care / P06 Factions / M06 Intelligence / G04 AI / N04 Causality / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E826–850 four-history state and E851–875 detailed episode cards
+Depends On: E826–850 four-history state and [[ga8-e851-860-episode-cards-v1]], [[ga8-e861-868-episode-cards-v1]], [[ga8-e869-875-episode-cards-v1]]
 Used By: GA8 E876–900 activation conflict and B08-03 audit
 
 ## 1. Gate and Core Finding

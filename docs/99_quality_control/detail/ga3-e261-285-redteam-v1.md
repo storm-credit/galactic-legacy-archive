@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE — B03-03 PASS
 Owner Agents: O02 Gate / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity / N04 Causality / N07 Retention / P01 Politics / P02 Economy / P03 Law / P04 Care / T02 Navigation / T03 Habitat Systems / H04 Maintenance / H05 Medical / M01–M07 / G05 Power Creep
 Last Reviewed: 2026-08-04
-Depends On: E261–285 cards, cast, operation and collection/institution state
+Depends On: [[ga3-e261-263-episode-cards-v1]], [[ga3-e264-270-episode-cards-v1]], [[ga3-e271-277-episode-cards-v1]], [[ga3-e278-285-episode-cards-v1]], cast, operation and collection/institution state
 Used By: GA3 progress status and E286–310 production
 Open Risks: denial map, first Imperial intervention and permanent defense settlement intentionally deferred
 

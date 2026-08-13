@@ -3,7 +3,7 @@
 Status: REVIEW — CHARACTER / ROLE STATE
 Owner Agents: C01 Protagonist / C02 Ensemble / C03 Antagonists / C04 Ordinary People / P03 Law / P04 Care / P06 Factions / G04 AI / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E876–900 episode cards and Seed activation institution state
+Depends On: [[ga8-e876-885-episode-cards-v1]], [[ga8-e886-893-episode-cards-v1]], [[ga8-e894-900-episode-cards-v1]] and Seed activation institution state
 Used By: GA8 final cross-audit and GA9 E901–925
 
 ## 1. Agency Rule

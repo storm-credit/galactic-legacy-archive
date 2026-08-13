@@ -3,7 +3,7 @@
 Status: REVIEW — FINAL GA6 OPERATION STATE
 Owner Agents: M01 Strategy / M03 Fleet / M05 Logistics / M07 Evacuation / P03 Law / P04 Care / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E671–690 cards, Orpheus 34-hour ledger and named-loss ledger
+Depends On: [[ga6-e671-675-episode-cards-v1]], [[ga6-e676-686-episode-cards-v1]], [[ga6-e687-690-episode-cards-v1]], Orpheus 34-hour ledger and [[named-loss-and-irreversible-transformation-ledger-v1]]
 Used By: GA7 production, final GA6 audit and long-range continuity
 
 ## 1. Final Denominator and OOB

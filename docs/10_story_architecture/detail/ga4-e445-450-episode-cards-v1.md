@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C01 Character / C02 Ensemble / C04 Relationships / P01 Politics / P02 Economy / P03 Law / P04 Care / P06 Factions / T02 Navigation / T03 Habitat Systems / T07 Networks / H03 Sensors / H04 Maintenance / H05 Medical / M01 Strategy / M02 Operational Art / M03 Fleet / M05 Logistics / M06 Intelligence / M07 Command / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E439–444 Compact v1 activation, K-5 residual state and GA5 act map
+Depends On: E439–444 Compact v1 activation, K-5 residual state and [[ga5-episodes-451-570-act-map-v1]]
 Used By: final GA4 state, GA4 cross-audit and GA5 E451 opening
 Open Risks: K-5 closure does not prove empire-wide compact completion
 

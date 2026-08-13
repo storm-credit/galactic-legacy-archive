@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE — GRAND-ACT DETAIL PASS
 Owner Agents: A00 PM / O01 Canon / O02 Gates / A16 Red Team / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity / X06 Coverage / all primary GA2 domain agents
 Last Reviewed: 2026-08-03
-Depends On: all GA2 detailed cards/state/audits E101–210, GA2 act map and final canon
+Depends On: all GA2 detailed cards/state/audits E101–210, [[ga2-episodes-101-210-act-map-v1]] and final canon
 Used By: GA2 final status, GA3 E211 opening and detailed-production progress
 Open Risks: later consequences must remain active; this audit does not authorize manuscript prose
 

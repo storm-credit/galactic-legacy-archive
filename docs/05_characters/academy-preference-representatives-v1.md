@@ -4,7 +4,7 @@ Status: REVIEW — REPRESENTATION FOUNDATION
 Owner Agents: C02 Ensemble / P04 Education-Class / P06 Faction Systems / C04 Relationships / C06 Voice / X03 Ethics
 Last Reviewed: 2026-08-03
 Depends On: five takeover packages, opening cast, patient/worker bibles
-Used By: E73–84 scene cards, siege faction choices, charter assembly
+Used By: [[ga1-episodes-73-78-scene-cards-v1]], [[ga1-episodes-79-84-scene-cards-v1]], siege faction choices, charter assembly
 Open Risks: final visual design and later GA2 recurrence frequency remain adjustable
 
 ## 1. Representation Rule

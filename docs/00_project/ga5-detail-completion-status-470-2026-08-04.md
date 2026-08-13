@@ -3,7 +3,7 @@
 Status: PROJECT CONTROL — GA5 DETAIL COMPLETE
 Owner Agents: A00 PM / O01 Canon / O02 Gates / N01 Architecture / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-04
-Depends On: all GA5 E451–570 cards, final operation/cast/collection state and GA5 final cross-audit
+Depends On: all [[ga5-e451-457-episode-cards-v1]], [[ga5-e458-464-episode-cards-v1]], [[ga5-e465-472-episode-cards-v1]], [[ga5-e473-475-episode-cards-v1]], [[ga5-e476-480-episode-cards-v1]], [[ga5-e481-487-episode-cards-v1]], [[ga5-e488-494-episode-cards-v1]], [[ga5-e495-500-episode-cards-v1]], [[ga5-e501-510-episode-cards-v1]], [[ga5-e511-517-episode-cards-v1]], [[ga5-e518-524-episode-cards-v1]], [[ga5-e526-533-episode-cards-v1]], [[ga5-e534-540-episode-cards-v1]], [[ga5-e541-547-episode-cards-v1]], [[ga5-e548-550-episode-cards-v1]], [[ga5-e551-554-episode-cards-v1]], [[ga5-e555-563-episode-cards-v1]], [[ga5-e564-570-episode-cards-v1]], final operation/cast/collection state and GA5 final cross-audit
 Used By: GA6 production, project reporting and context handoff
 
 ## 1. Current Progress

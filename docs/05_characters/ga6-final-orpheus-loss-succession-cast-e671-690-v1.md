@@ -3,7 +3,7 @@
 Status: REVIEW — FINAL GA6 CAST STATE
 Owner Agents: C01 Character / C02 Ensemble / C04 Relationships / C06 Voice / M07 Evacuation / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E671–690 cards, final operation state and later officeholder ledger
+Depends On: [[ga6-e671-675-episode-cards-v1]], [[ga6-e676-686-episode-cards-v1]], [[ga6-e687-690-episode-cards-v1]], final operation state and later officeholder ledger
 Used By: GA7 production and final GA6 audit
 
 ## 1. Ella Savin

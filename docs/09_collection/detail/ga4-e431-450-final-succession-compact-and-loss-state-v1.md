@@ -3,7 +3,7 @@
 Status: WORKING CANON — FINAL GA4 COLLECTION / INSTITUTION / LOSS CONTINUITY
 Owner Agents: G01 Collection / G02 Counter-Collection / G03 Active Load / G04 Reward / G05 Power Creep / G07 Loss / C02 Ensemble / P01 Politics / P02 Economy / P03 Law / X03 Ethics / X04 Continuity / O01 Canon
 Last Reviewed: 2026-08-04
-Depends On: E431–450 cards, final office cast and no-master-heir/compact law state
+Depends On: [[ga4-e431-438-episode-cards-v1]], [[ga4-e439-444-episode-cards-v1]], [[ga4-e445-450-episode-cards-v1]], final office cast and no-master-heir/compact law state
 Used By: GA4 final audit, GA5 ownerless-fleet registry and all later succession references
 Open Risks: later constitutional settlement and fleet-specific custody remain future grand-act work
 

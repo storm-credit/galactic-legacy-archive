@@ -3,8 +3,8 @@
 Status: REVIEW
 Owner Agents: N01 Macro Story / N02 Act Architecture / N04 Causality / N06 Ending / N07 Retention / N08 Faction Arcs / G06 Base-Fleet Meta / O02 Gate
 Last Reviewed: 2026-08-03
-Depends On: canon core packet, original timeline, ending options, Gate 4–5 foundations
-Used By: First-100 act map, character/faction arcs, collection inventory, payoff ledger
+Depends On: [[canon-core-packet-v1]], [[original-timeline-v1]], [[legacy-archive-origin-ending-options]], Gate 4–5 foundations
+Used By: [[first-100-act-map-v2-consolidated]], character/faction arcs, collection inventory, payoff ledger
 Open Risks: 1100-episode bloat, middle-act repetition, late Archive abstraction, exact episode counts provisional
 
 ## 1. Series Architecture Summary

@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C02 Ensemble / C04 Relationships / P01 Politics / P02 Economy / P03 Law / P04 Care / P05 Culture / P06 Factions / T02 Navigation / T03 Habitat Systems / T07 Networks / H02–H06 / M01–M08 / X01–X04
 Last Reviewed: 2026-08-04
-Depends On: E315–323 cards, corrected chronology, final operation state and GA3 act map
+Depends On: [[ga3-e315-323-episode-cards-v1]], corrected chronology, final operation state and [[ga3-episodes-211-330-act-map-v1]]
 Used By: GA3 final state/cross-audit and GA4 E331–360 detailed production
 Open Risks: permanent constitutional settlement belongs beyond GA3
 

@@ -3,7 +3,7 @@
 Status: PROJECT CONTROL — B04-04 COMPLETE
 Owner Agents: A00 PM / O01 Canon / O02 Gates / N01 Architecture / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-04
-Depends On: E406–430 cards, sovereign-reference/post-pilot/K-5 cast, law state, collection/loss state and B04-04 red team
+Depends On: [[ga4-e406-412-episode-cards-v1]], [[ga4-e413-420-episode-cards-v1]], [[ga4-e421-430-episode-cards-v1]], sovereign-reference/post-pilot/K-5 cast, law state, collection/loss state and B04-04 red team
 Used By: final GA4 branch, progress reporting and context handoff
 
 ## 1. Current Progress

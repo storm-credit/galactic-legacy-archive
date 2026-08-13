@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: G01 Codex / G03 Roster / G04 Acquisition / G05 Power Creep / G07 Loss-Recovery / O01 Canon / N05 Mystery-Payoff
 Last Reviewed: 2026-08-03
-Depends On: Archive sites/Seed architecture, record-war factions, GA8 act map
+Depends On: Archive sites/Seed architecture, record-war factions, [[ga8-episodes-801-900-act-map-v1]]
 Used By: GA8 episode planning, record-right/state tracking, GA9 transition
 Open Risks: exact sites, representatives, Authority F/G mechanics and irreversible record/person loss remain provisional
 

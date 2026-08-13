@@ -3,7 +3,7 @@
 Status: REVIEW — INSTITUTION / AUTHORITY / RIGHTS STATE
 Owner Agents: P02 Economy / P03 Law / P04 Care / P06 Factions / M05 Logistics / M06 Intelligence / G04 AI / N04 Causality / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E851–875 Seed state and E876–900 detailed episode cards
+Depends On: E851–875 Seed state and [[ga8-e876-885-episode-cards-v1]], [[ga8-e886-893-episode-cards-v1]], [[ga8-e894-900-episode-cards-v1]]
 Used By: GA8 final cross-audit and GA9 E901–925
 
 ## 1. Gate and Scope

@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / M01 Strategy / M02 Operational Art / M03 Fleet / M05 Logistics / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: Charter v0.2 E540, Vesper theater map, Asel campaign annex
+Depends On: Charter v0.2 E540, [[ga5-theater-route-and-campaign-map-v1]], Asel campaign annex
 Used By: E548–570 campaign execution and B05-04 audit
 
 ## Campaign Envelope

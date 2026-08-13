@@ -3,7 +3,7 @@
 Status: PROJECT CONTROL — B07-03 COMPLETE
 Owner Agents: A00 PM / O01 Canon / O02 Gates / N01 Architecture / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-04
-Depends On: E741–765 cards, D4 institution/cast/collection state and B07-03 red team
+Depends On: [[ga7-e741-745-episode-cards-v1]], [[ga7-e746-753-episode-cards-v1]], [[ga7-e754-765-episode-cards-v1]], D4 institution/cast/collection state and B07-03 red team
 Used By: next GA7 branch, project reporting and context handoff
 
 ## 1. Current Progress

@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P02 Economy / P03 Law / P04 Care / P06 Factions / M05 Logistics / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: GA8 E876–900 Seed settlement, Preservation Corridor Coalition and GA9 grand-act map
+Depends On: GA8 E876–900 Seed settlement, Preservation Corridor Coalition and GA9 [[1000-episode-grand-act-map-v1]]
 Used By: E911–925 administrative-friction arc and B09-01 audit
 
 ## Shared Opening State

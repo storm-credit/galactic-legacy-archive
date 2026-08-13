@@ -3,7 +3,7 @@
 Status: REVIEW — RED TEAM COMPLETE
 Owner Agents: X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity / X05 Adversarial / X06 Coverage / O01 Canon / O02 Gates
 Last Reviewed: 2026-08-04
-Depends On: E451–475 cards, Vesper OOB, cast and collection/loss state
+Depends On: [[ga5-e451-457-episode-cards-v1]], [[ga5-e458-464-episode-cards-v1]], [[ga5-e465-472-episode-cards-v1]], [[ga5-e473-475-episode-cards-v1]], Vesper OOB, cast and collection/loss state
 Used By: B05-01 gate, PR merge and E476–500 carryover
 
 ## 1. Verdict

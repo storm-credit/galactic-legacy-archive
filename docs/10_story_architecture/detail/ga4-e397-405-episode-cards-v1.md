@@ -4,7 +4,7 @@ Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C01 Character / C02 Ensemble / C04 Relationships / P01 Politics / P02 Economy / P03 Law / P04 Care / P06 Factions / T02 Navigation / T03 Habitat Systems / T07 Networks / H03 Sensors / H04 Maintenance / H05 Medical / M01 Strategy / M02 Operational Art / M03 Fleet / M05 Logistics / M06 Intelligence / M07 Command / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
 Depends On: E389–396 parallel-zone review, seven-field pilot, Four-Function Order and Single Emergency Sovereign Petition
-Used By: E406–430 cards, pilot/central comparison state and B04-03 audit
+Used By: [[ga4-e406-412-episode-cards-v1]], [[ga4-e413-420-episode-cards-v1]], [[ga4-e421-430-episode-cards-v1]], pilot/central comparison state and B04-03 audit
 Open Risks: M-4 crisis does not decide the final sovereign or compact
 
 ## Shared M-4 Crisis State

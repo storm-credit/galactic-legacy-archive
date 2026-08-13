@@ -3,7 +3,7 @@
 Status: REVIEW — WORKING CANON DETAIL
 Owner Agents: C01 Character / C02 Ensemble / C03 Rival / C04 Relationships / C06 Voice / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E526–550 cards, Asel/OFC canon, five-front campaign state
+Depends On: [[ga5-e526-533-episode-cards-v1]], [[ga5-e534-540-episode-cards-v1]], [[ga5-e541-547-episode-cards-v1]], [[ga5-e548-550-episode-cards-v1]], Asel/OFC canon, five-front campaign state
 Used By: E551–570 final campaign and GA5 completion
 
 ## 1. Asel Varon / OFC-001

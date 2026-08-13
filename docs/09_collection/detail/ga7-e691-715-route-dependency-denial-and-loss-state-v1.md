@@ -3,7 +3,7 @@
 Status: REVIEW — COLLECTION / LOSS / INSTITUTION STATE
 Owner Agents: G01 Codex / G04 Acquisition / G07 Loss-Recovery / P02 Economy / P03 Law / P04 Care / P06 Factions / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E691–715 cards, route-operation state and GA6 outcome registries
+Depends On: [[ga7-e691-697-episode-cards-v1]], [[ga7-e698-706-episode-cards-v1]], [[ga7-e707-715-episode-cards-v1]], route-operation state and GA6 outcome registries
 Used By: E716–745 signature investigation and B07-01 audit
 
 ## 1. Route-Denial Taxonomy

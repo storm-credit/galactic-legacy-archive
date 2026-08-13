@@ -3,7 +3,7 @@
 Status: REVIEW — COLLECTION / LOSS / INSTITUTION STATE
 Owner Agents: G01 Codex / G04 Acquisition / G05 Power Creep / G07 Loss-Recovery / M07 Evacuation / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E646–670 cards and operation state
+Depends On: [[ga6-e646-653-episode-cards-v1]], [[ga6-e654-661-episode-cards-v1]], [[ga6-e662-670-episode-cards-v1]] and operation state
 Used By: E671–690 final GA6 batch and B06-04 audit
 
 ## 1. Route-Envelope Registry

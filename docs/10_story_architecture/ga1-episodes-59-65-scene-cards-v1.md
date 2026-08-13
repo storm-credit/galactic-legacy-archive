@@ -3,8 +3,8 @@
 Status: REVIEW — SCENE-CARD LEVEL
 Owner Agents: N03 Episode / N04 Causality / T05 AI / P03 Rights / C02 Ensemble / G01 Archive / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: E52–58 cards, ORA-3/Black Ward state, Orvan/Soma, Serin/Mia bibles
-Used By: E66–72 cards, consent ledger, identity-closure and supply-crisis arc
+Depends On: [[ga1-episodes-52-58-scene-cards-v1]], ORA-3/Black Ward state, Orvan/Soma, Serin/Mia bibles
+Used By: [[ga1-episodes-66-72-scene-cards-v1]], consent ledger, identity-closure and supply-crisis arc
 Open Risks: exact ORA-3 voice and classified transfer-office names remain adjustable
 
 ## Shared State at E59 Start

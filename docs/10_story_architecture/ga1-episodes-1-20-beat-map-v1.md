@@ -3,7 +3,7 @@
 Status: REVIEW — CANON ARCHITECTURE CANDIDATE
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / C02 Ensemble / G04 Reward / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: GA1 macro architecture, canonical names, master chronology, E1–E5 non-canon scene test, clue ledger
+Depends On: GA1 macro architecture, [[core-canonical-names-and-voice-lock-v1]], [[master-series-chronology-v1]], E1–E5 non-canon scene test, [[m001-m020-early-clue-episode-ledger-v1]]
 Used By: exact scene cards and canonical opening after Gate 1 pass
 Open Risks: final instructor/rival names, exact Academy rules and human reader feedback
 

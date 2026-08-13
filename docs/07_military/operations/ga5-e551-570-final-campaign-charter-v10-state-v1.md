@@ -3,7 +3,7 @@
 Status: REVIEW — FINAL GA5 OPERATION STATE
 Owner Agents: M01 Strategy / M02 Operational Art / M03 Fleet / M05 Logistics / M07 Command / P02 Economy / P03 Law / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E551–570 cards, B05-04 campaign state, GA6 Orpheus launch
+Depends On: [[ga5-e551-554-episode-cards-v1]], [[ga5-e555-563-episode-cards-v1]], [[ga5-e564-570-episode-cards-v1]], B05-04 campaign state, GA6 Orpheus launch
 Used By: GA5 final audit, GA6 E571+ and long-range fleet continuity
 
 ## 1. Chronology

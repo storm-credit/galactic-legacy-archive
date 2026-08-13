@@ -3,7 +3,7 @@
 Status: REVIEW — COLLECTION / MODEL / LOSS STATE
 Owner Agents: G01 Collection / G04 AI / P03 Law / P04 Care / M06 Intelligence / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-05
-Depends On: E851–875 cards and Seed institution/cast state
+Depends On: [[ga8-e851-860-episode-cards-v1]], [[ga8-e861-868-episode-cards-v1]], [[ga8-e869-875-episode-cards-v1]] and Seed institution/cast state
 Used By: GA8 E876–900 activation and final GA8 audit
 
 ## 1. Collection Boundary

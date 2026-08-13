@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE — B04-02 PASS
 Owner Agents: O02 Gate / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity / N04 Causality / N07 Retention / P01 Politics / P02 Economy / P03 Law / P04 Care / M03 Fleet / M05 Logistics / M07 Command / G05 Power Creep
 Last Reviewed: 2026-08-04
-Depends On: E356–380 cards, Graybridge/Meridian cast, compact law state, collection/loss state and continuity correction 001
+Depends On: [[ga4-e356-360-episode-cards-v1]], [[ga4-e361-368-episode-cards-v1]], [[ga4-e369-376-episode-cards-v1]], [[ga4-e377-380-episode-cards-v1]], Graybridge/Meridian cast, compact law state, collection/loss state and continuity correction 001
 Used By: GA4 progress status and E381–405 production
 Open Risks: seven-field pilot performance, final compact and sovereign settlement remain later work
 

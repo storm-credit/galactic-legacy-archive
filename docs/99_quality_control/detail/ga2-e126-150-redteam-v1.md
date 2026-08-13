@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE — PASS WITH S1 CONTROLS
 Owner Agents: A16 Red Team / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity / X06 Coverage / N07 Retention / O01 Canon / O02 Gates
 Last Reviewed: 2026-08-03
-Depends On: E126–150 cards, voyage/Marn operation state, collection/loss update, named-loss ledger
+Depends On: [[ga2-e126-130-episode-cards-v1]], [[ga2-e131-137-episode-cards-v1]], [[ga2-e138-145-episode-cards-v1]], [[ga2-e146-150-episode-cards-v1]], voyage/Marn operation state, collection/loss update, [[named-loss-and-irreversible-transformation-ledger-v1]]
 Used By: B02-02 merge gate and E151–175 continuation
 Open Risks: full component-lineage resolution and one major service capability choice remain E151–160
 

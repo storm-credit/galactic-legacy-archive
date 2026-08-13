@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED EPISODE DESIGN / GA2 FINALE
 Owner Agents: N01 Series Macro / N02 Act / N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C01–C06 Character / P01–P08 Politics-Society / T01–T07 Science-Technology / H02–H06 Hardware / M01–M08 Military-Security / G01–G07 Collection / X01–X04 Audit / O01 Canon / O02 Gates
 Last Reviewed: 2026-08-03
-Depends On: E176–200 cards, Silex–Ardis operation state, Ardis city/node bibles and GA2 act map
+Depends On: [[ga2-e176-185-episode-cards-v1]], [[ga2-e186-193-episode-cards-v1]], [[ga2-e194-200-episode-cards-v1]], Silex–Ardis operation state, Ardis city/node bibles and [[ga2-episodes-101-210-act-map-v1]]
 Used By: GA2 final audit and GA3 E211 opening
 Open Risks: later permanent route capacity belongs to GA3; this block authorizes only one bounded window
 

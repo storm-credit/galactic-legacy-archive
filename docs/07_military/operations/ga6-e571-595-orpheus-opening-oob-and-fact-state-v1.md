@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED OPERATION STATE
 Owner Agents: M01 Strategy / M03 Fleet / M05 Logistics / M07 Evacuation / T02 Navigation / T03 Life Support / P04 Care / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: GA5 final state, GA6 act map, Orpheus incident packet and 34-hour ledger
-Used By: E571–595 cards, E596–620 manifest/state decomposition and B06-01 audit
+Depends On: GA5 final state, [[ga6-episodes-571-690-act-map-v1]], Orpheus incident packet and 34-hour ledger
+Used By: [[ga6-e571-577-episode-cards-v1]], [[ga6-e578-584-episode-cards-v1]], [[ga6-e585-590-episode-cards-v1]], [[ga6-e591-595-episode-cards-v1]], E596–620 manifest/state decomposition and B06-01 audit
 
 ## 1. Canonical Time Envelope
 

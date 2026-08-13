@@ -3,7 +3,7 @@
 Status: REVIEW — COLLECTION / LOSS / INSTITUTION STATE
 Owner Agents: G01 Codex / G04 Acquisition / G05 Power Creep / G07 Loss-Recovery / P02 Economy / P03 Law / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E501–525 cards, continuity clarification, operation and cast state
+Depends On: [[ga5-e501-510-episode-cards-v1]], [[ga5-e511-517-episode-cards-v1]], [[ga5-e518-524-episode-cards-v1]], continuity clarification, operation and cast state
 Used By: E526–550, Charter v0.2, Outer Front cooperation and B05-03 audit
 
 ## 1. Charter Term and Institutional State

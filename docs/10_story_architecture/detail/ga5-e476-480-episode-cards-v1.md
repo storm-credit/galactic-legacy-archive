@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P03 Law / M03 Fleet / M05 Logistics / M07 Command / M08 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E451–475 cards, Charter v0.1 public draft, loss/debt state
-Used By: E481–500 cards, initial task-force state and B05-02 audit
+Depends On: [[ga5-e451-457-episode-cards-v1]], [[ga5-e458-464-episode-cards-v1]], [[ga5-e465-472-episode-cards-v1]], [[ga5-e473-475-episode-cards-v1]], Charter v0.1 public draft, loss/debt state
+Used By: [[ga5-e481-487-episode-cards-v1]], [[ga5-e488-494-episode-cards-v1]], [[ga5-e495-500-episode-cards-v1]], initial task-force state and B05-02 audit
 
 ## Shared Starting State
 

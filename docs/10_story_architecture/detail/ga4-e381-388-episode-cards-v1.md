@@ -4,7 +4,7 @@ Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C01 Character / C02 Ensemble / C04 Relationships / P01 Politics / P02 Economy / P03 Law / P04 Care / P06 Factions / T02 Navigation / T03 Habitat Systems / T07 Networks / H03 Sensors / H04 Maintenance / H05 Medical / M02 Operational Art / M03 Fleet / M05 Logistics / M07 Command / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
 Depends On: seven-field pilot E380 state, Graybridge/Meridian lessons and Four-Function Continuity Order
-Used By: E389–405 cards, pilot mission state and B04-03 audit
+Used By: [[ga4-e389-396-episode-cards-v1]], [[ga4-e397-405-episode-cards-v1]], pilot mission state and B04-03 audit
 Open Risks: one safe pilot mission does not settle the sovereign or scaling question
 
 ## Shared Mission State

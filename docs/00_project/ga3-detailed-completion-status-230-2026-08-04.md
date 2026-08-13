@@ -3,7 +3,7 @@
 Status: PROJECT CONTROL — GA3 DETAILED DESIGN COMPLETE
 Owner Agents: A00 PM / O01 Canon / O02 Gates / N01 Architecture / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-04
-Depends On: E211–330 detailed cards, corrected chronology, final operation/trust/loss state and GA3 final cross-audit
+Depends On: [[ga3-e211-218-episode-cards-v1]], [[ga3-e219-226-episode-cards-v1]], [[ga3-e227-235-episode-cards-v1]], [[ga3-e236-240-episode-cards-v1]], [[ga3-e241-247-episode-cards-v1]], [[ga3-e248-254-episode-cards-v1]], [[ga3-e255-260-episode-cards-v1]], [[ga3-e261-263-episode-cards-v1]], [[ga3-e264-270-episode-cards-v1]], [[ga3-e271-277-episode-cards-v1]], [[ga3-e278-285-episode-cards-v1]], [[ga3-e286-292-episode-cards-v1]], [[ga3-e293-300-episode-cards-v1]], [[ga3-e301-310-episode-cards-v1]], [[ga3-e311-314-episode-cards-v1]], [[ga3-e315-323-episode-cards-v1]], [[ga3-e324-330-episode-cards-v1]], corrected chronology, final operation/trust/loss state and GA3 final cross-audit
 Used By: GA4 production, project reporting and new-chat context handoff
 
 ## 1. Current Progress

@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N05 Mystery / N07 Retention / C02 Ensemble / C03 Opposition / T02 Navigation / T03 Life Support / T06 Mecha / T07 Networks / H02 Ship / H03 Sensors / H04 Maintenance / H06 Damage / M02–M06 Operations / P02 Economy / P03 Law / G02 Counter-Collection / G04 Reward / G05 Power Creep / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: E131–137 cards, Marn census/route, weapons calibration, 061 inquiry order, named-loss ledger
-Used By: E146–150 cards, caravan operation state and B02-02 audit
+Depends On: [[ga2-e131-137-episode-cards-v1]], Marn census/route, weapons calibration, 061 inquiry order, [[named-loss-and-irreversible-transformation-ledger-v1]]
+Used By: [[ga2-e146-150-episode-cards-v1]], caravan operation state and B02-02 audit
 Open Risks: Jena Ark's E150 death is locked; no card may create a survival reversal
 
 ## Shared Opening State

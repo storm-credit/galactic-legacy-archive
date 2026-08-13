@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P03 Law / M03 Fleet / M05 Logistics / M07 Command / M08 Ethics / X01 Logic / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E451–472 cards, opening OOB, standing intent and loss state
-Used By: E476–500 cards, Charter v0.1 and B05-01 audit
+Depends On: [[ga5-e451-457-episode-cards-v1]], [[ga5-e458-464-episode-cards-v1]], [[ga5-e465-472-episode-cards-v1]], opening OOB, standing intent and loss state
+Used By: [[ga5-e476-480-episode-cards-v1]], [[ga5-e481-487-episode-cards-v1]], [[ga5-e488-494-episode-cards-v1]], [[ga5-e495-500-episode-cards-v1]], Charter v0.1 and B05-01 audit
 
 ## Shared Starting State
 

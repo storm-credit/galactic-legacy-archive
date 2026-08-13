@@ -3,7 +3,7 @@
 Status: PROJECT CONTROL — GA7 COMPLETE
 Owner Agents: A00 PM / O01 Canon / O02 Gates / N01 Architecture / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-05
-Depends On: E691–800 detailed cards, all GA7 state files and final cross-audit
+Depends On: [[ga7-e691-697-episode-cards-v1]], [[ga7-e698-706-episode-cards-v1]], [[ga7-e707-715-episode-cards-v1]], [[ga7-e716-723-episode-cards-v1]], [[ga7-e724-732-episode-cards-v1]], [[ga7-e733-740-episode-cards-v1]], [[ga7-e741-745-episode-cards-v1]], [[ga7-e746-753-episode-cards-v1]], [[ga7-e754-765-episode-cards-v1]], [[ga7-e766-775-episode-cards-v1]], [[ga7-e776-783-episode-cards-v1]], [[ga7-e784-790-episode-cards-v1]], [[ga7-e791-800-episode-cards-v1]], all GA7 state files and final cross-audit
 Used By: GA8 production, project reporting and context handoff
 
 ## 1. Current Progress

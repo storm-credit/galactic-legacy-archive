@@ -3,7 +3,7 @@
 Status: REVIEW — COLLECTION / LOSS / CLAIM STATE
 Owner Agents: G01 Collection / P02 Economy / P03 Law / P04 Care / M06 Intelligence / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-05
-Depends On: E826–850 episode cards and four-history institution state
+Depends On: [[ga8-e826-835-episode-cards-v1]], [[ga8-e836-843-episode-cards-v1]], [[ga8-e844-850-episode-cards-v1]] and four-history institution state
 Used By: GA8 E851–875 Seed investigation and B08-02 red-team audit
 
 ## 1. Collection Rule

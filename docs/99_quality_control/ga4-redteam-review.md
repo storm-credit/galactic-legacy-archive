@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE
 Owner Agents: O02 Gate / X01 Logic / X02 Retention / X03 Ethics / X04 Continuity / R07 Similarity / M01 Strategy / P03 Law
 Last Reviewed: 2026-08-03
-Depends On: Imperial Core geography, succession law/claimants, claimant bibles, GA4 act map and collection registry
+Depends On: Imperial Core geography, succession law/claimants, claimant bibles, [[ga4-episodes-331-450-act-map-v1]] and collection registry
 Used By: GA4 status, Gate 6 issue, GA5 prerequisites
 Open Risks: exact sovereign event, evidence chain, claimant names and compact text remain open
 

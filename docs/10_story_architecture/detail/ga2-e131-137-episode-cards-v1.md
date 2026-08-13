@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N05 Mystery / N07 Retention / C02 Ensemble / C03 Antagonist / P02 Economy / P03 Law / P06 Factions / T07 Data / H01 Production / H04 Maintenance / M05 Logistics / M06 Intelligence / G01/G02 Collection / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: E126–130 cards, GA2 act map, collection registry, secondary mystery ledger, KT-441 settlement state
-Used By: E138–145 cards, 061 provenance ledger and B02-02 audit
+Depends On: [[ga2-e126-130-episode-cards-v1]], [[ga2-episodes-101-210-act-map-v1]], collection registry, secondary mystery ledger, KT-441 settlement state
+Used By: [[ga2-e138-145-episode-cards-v1]], 061 provenance ledger and B02-02 audit
 Open Risks: current moving transponder identity remains unresolved until Marn operation
 
 ## Shared Opening State

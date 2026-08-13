@@ -3,7 +3,7 @@
 Status: REVIEW — INSTITUTION / TRANSITION STATE
 Owner Agents: P03 Law / P04 Care / P06 Factions / M05 Logistics / M06 Intelligence / M07 Command / N06 Ending / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: GA9 E1000 split custody and GA10 E1001–1025 cards
+Depends On: GA9 E1000 split custody and [[ga10-e1001-1010-episode-cards-v1]], [[ga10-e1011-1018-episode-cards-v1]], [[ga10-e1019-1025-episode-cards-v1]]
 Used By: GA10 E1026–1050 and B10-01 audit
 
 ## 1. Gate and Term

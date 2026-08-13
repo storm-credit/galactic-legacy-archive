@@ -3,7 +3,7 @@
 Status: REVIEW — RED TEAM COMPLETE
 Owner Agents: X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity / X05 Adversarial / X06 Coverage / O01 Canon / O02 Gates
 Last Reviewed: 2026-08-04
-Depends On: E526–550 cards, operation/cast/collection states
+Depends On: [[ga5-e526-533-episode-cards-v1]], [[ga5-e534-540-episode-cards-v1]], [[ga5-e541-547-episode-cards-v1]], [[ga5-e548-550-episode-cards-v1]], operation/cast/collection states
 Used By: B05-04 gate, PR merge and E551–570 carryover
 
 ## 1. Verdict

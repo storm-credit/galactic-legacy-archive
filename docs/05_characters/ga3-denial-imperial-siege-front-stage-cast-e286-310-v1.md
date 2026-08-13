@@ -3,8 +3,8 @@
 Status: WORKING CANON — CHARACTER / VOICE / AUTHORITY LOCK
 Owner Agents: C01 Character Bible / C02 Ensemble / C04 Relationships / C06 Voice / P01 Politics / P03 Law / P05 Culture / P06 Factions / M03 Fleet / M07 Command / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: prior Ardis local/defense cast, E286–310 cards and GA3 act map
-Used By: E311–330 cards, denial/Imperial/siege continuity and dialogue audits
+Depends On: prior Ardis local/defense cast, [[ga3-e286-292-episode-cards-v1]], [[ga3-e293-300-episode-cards-v1]], [[ga3-e301-310-episode-cards-v1]] and [[ga3-episodes-211-330-act-map-v1]]
+Used By: [[ga3-e311-314-episode-cards-v1]], [[ga3-e315-323-episode-cards-v1]], [[ga3-e324-330-episode-cards-v1]], denial/Imperial/siege continuity and dialogue audits
 Open Risks: final local-opposition and post-GA3 office state remain later work
 
 ## 1. 에다 로엔 / Eda Roen

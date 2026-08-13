@@ -4,7 +4,7 @@ Status: WORKING CANON — GA3 OPENING STATE
 Owner Agents: T01 Astronomy / T02 Navigation / T03 Habitat Systems / P01 Politics / P02 Political Economy / P03 Law / P04 Class-Care / P06 Factions / M05 Logistics / N08 Faction Arcs / X01 Logic / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-03
 Depends On: [[ardis-node-city-bible-v1]], GA2 E210 state, galaxy scale and route rules
-Used By: E211–235 detailed cards, Ardis service/faction state and GA3 opening audit
+Used By: [[ga3-e211-218-episode-cards-v1]], [[ga3-e219-226-episode-cards-v1]], [[ga3-e227-235-episode-cards-v1]], Ardis service/faction state and GA3 opening audit
 Open Risks: exact later siege/battle values belong to subsequent GA3 batches
 
 ## 1. Canonical Scale

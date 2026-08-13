@@ -3,7 +3,7 @@
 Status: REVIEW — COLLECTION/INSTITUTION/ROUTE CONTINUITY
 Owner Agents: G01 Collection / G02 Counter-Collection / G04 Reward / G05 Power Creep / G06 Ship Meta / G07 Loss / N08 Faction Arcs / P03 Law / X03 Ethics / X04 Continuity / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: E201–210 cards, Silex operation state, E176–200 collection/loss state
+Depends On: [[ga2-e201-210-episode-cards-v1]], Silex operation state, E176–200 collection/loss state
 Used By: GA2 final audit and GA3 E211 opening
 Open Risks: Ardis internal factions and exact city-state changes belong to GA3
 

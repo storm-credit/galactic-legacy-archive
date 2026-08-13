@@ -3,7 +3,7 @@
 Status: REVIEW — INSTITUTION / COMMAND STATE
 Owner Agents: P03 Law / P04 Care / P06 Factions / M05 Logistics / M06 Intelligence / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: GA9 E951–975 cards, purpose-separation protocol and Perfect Route state
+Depends On: [[ga9-e951-960-episode-cards-v1]], [[ga9-e961-968-episode-cards-v1]], [[ga9-e969-975-episode-cards-v1]], purpose-separation protocol and Perfect Route state
 Used By: GA9 E976–1000 final campaign and B09-03 audit
 
 ## 1. Gate and Scope

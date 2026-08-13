@@ -3,7 +3,7 @@
 Status: REVIEW — COLLECTION / LOSS / RIGHTS STATE
 Owner Agents: G01 Collection / G03 Logistics / G05 Economy / P03 Law / P04 Care / M06 Intelligence / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-05
-Depends On: E801–825 detailed episode cards and Serrat Compact state
+Depends On: [[ga8-e801-810-episode-cards-v1]], [[ga8-e811-818-episode-cards-v1]], [[ga8-e819-825-episode-cards-v1]] and Serrat Compact state
 Used By: GA8 E826–850, B08-01 audit and project progress
 
 ## 1. Gate and Nonownership

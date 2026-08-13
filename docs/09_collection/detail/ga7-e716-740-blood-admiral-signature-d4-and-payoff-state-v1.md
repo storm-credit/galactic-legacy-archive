@@ -3,7 +3,7 @@
 Status: REVIEW — COLLECTION / MYSTERY / AUTHORITY STATE
 Owner Agents: G01 Codex / G04 Acquisition / G07 Loss-Recovery / N05 Mystery-Payoff / P03 Law / M06 Intelligence / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E716–740 cards, investigation/cast state and mystery ledger
+Depends On: [[ga7-e716-723-episode-cards-v1]], [[ga7-e724-732-episode-cards-v1]], [[ga7-e733-740-episode-cards-v1]], investigation/cast state and mystery ledger
 Used By: E741–775 D4 decision/consequence and B07-02 audit
 
 ## 1. Evidence Corpus

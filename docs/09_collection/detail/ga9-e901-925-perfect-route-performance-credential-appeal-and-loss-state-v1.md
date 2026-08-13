@@ -3,7 +3,7 @@
 Status: REVIEW — COLLECTION / LOSS / ACCOUNTING STATE
 Owner Agents: G01 Collection / P02 Economy / P03 Law / P04 Care / M05 Logistics / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-05
-Depends On: GA9 E901–925 cards and institution state
+Depends On: [[ga9-e901-910-episode-cards-v1]], [[ga9-e911-918-episode-cards-v1]], [[ga9-e919-925-episode-cards-v1]] and institution state
 Used By: GA9 E926–950 and B09-01 red team
 
 ## 1. Accounting Rules

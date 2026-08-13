@@ -3,7 +3,7 @@
 Status: REVIEW — INSTITUTION / JUDGMENT STATE
 Owner Agents: P03 Law / P04 Care / P06 Factions / M05 Logistics / M07 Command / N04 Causality / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E741–765 D4 order state; E766–790 detailed episode cards
+Depends On: E741–765 D4 order state; [[ga7-e766-775-episode-cards-v1]], [[ga7-e776-783-episode-cards-v1]], [[ga7-e784-790-episode-cards-v1]]
 Used By: E791–800 live federation test, GA7 cross-audit, GA8 record-war handoff
 
 ## 1. Scope and Gate

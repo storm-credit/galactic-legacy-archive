@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / C02 Ensemble / P03 Law / P04 Care / P06 Factions / M01 Strategy / M05 Logistics / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E746–753 Haren D4 order, named-loss ledger and accountability canon
+Depends On: E746–753 Haren D4 order, [[named-loss-and-irreversible-transformation-ledger-v1]] and accountability canon
 Used By: E766–800 inquiry/reform and B07-03 audit
 
 ## Fixed D4 Clock

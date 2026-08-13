@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: G01 Codex / G03 Roster / G04 Acquisition / G05 Power Creep / G07 Loss-Recovery / O01 Canon / N05 Mystery-Payoff
 Last Reviewed: 2026-08-03
-Depends On: Orpheus incident packet, GA6 decision actors, GA6 act map, GA5 fleet registry
+Depends On: Orpheus incident packet, GA6 decision actors, [[ga6-episodes-571-690-act-map-v1]], GA5 fleet registry
 Used By: GA6 episode planning, evacuation state tracking, aftermath ledger, GA7 launch
 Open Risks: exact names, final casualty ranges, major ship/institution losses and hostile-force composition remain provisional
 

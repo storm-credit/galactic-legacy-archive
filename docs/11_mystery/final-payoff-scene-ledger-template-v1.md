@@ -3,7 +3,7 @@
 Status: REVIEW — EXECUTION TEMPLATE
 Owner Agents: N03 Episode Structure / N05 Mystery-Payoff / N06 Ending / O01 Canon / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: series payoff ledger, GA1–10 act maps, GA10 final registry
+Depends On: [[series-payoff-ledger-v1]], GA1–10 act maps, GA10 final registry
 Used By: Exact episode planning, scene cards, broken-promise audit
 Open Risks: exact episodes/scenes and named actors/assets not yet fixed
 

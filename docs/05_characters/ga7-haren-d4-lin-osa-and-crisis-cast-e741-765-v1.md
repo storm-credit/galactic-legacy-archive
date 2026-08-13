@@ -3,7 +3,7 @@
 Status: REVIEW — WORKING CANON DETAIL
 Owner Agents: C01 Character / C02 Ensemble / C04 Relationships / C06 Voice / P03 Law / P04 Care / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E741–765 cards and Haren D4 institutional state
+Depends On: [[ga7-e741-745-episode-cards-v1]], [[ga7-e746-753-episode-cards-v1]], [[ga7-e754-765-episode-cards-v1]] and Haren D4 institutional state
 Used By: E766–800 inquiry/reform and B07-03 audit
 
 ## 1. Haren Doan

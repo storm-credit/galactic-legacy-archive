@@ -3,7 +3,7 @@
 Status: TEST MATERIAL — NOT CANONICAL MANUSCRIPT
 Owner Agents: N03 Episode / L01 Prose / L02 POV / N07 Retention / O02 Gate
 Last Reviewed: 2026-08-03
-Depends On: Gate 1 POV/prose calibration, GA1 architecture, canonical names
+Depends On: Gate 1 POV/prose calibration, GA1 architecture, [[core-canonical-names-and-voice-lock-v1]]
 Used By: opening prose tests and reader-retention audit
 Open Risks: exact Academy procedures, instructor identity and White Dock timing remain adjustable
 

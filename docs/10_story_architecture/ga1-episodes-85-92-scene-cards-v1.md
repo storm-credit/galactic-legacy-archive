@@ -3,8 +3,8 @@
 Status: REVIEW — SCENE-CARD LEVEL
 Owner Agents: N03 Episode / N04 Causality / M01 Strategy / M03 Fleet / M04 Frame / M05 Logistics / C02 Ensemble / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: E79–84 cards, siege force/front state, Academy/07 state, preference reps
-Used By: E93–100 cards, casualty ledger, central-command/charter climax
+Depends On: [[ga1-episodes-79-84-scene-cards-v1]], siege force/front state, Academy/07 state, preference reps
+Used By: [[ga1-episodes-93-100-scene-cards-v1]], casualty ledger, central-command/charter climax
 Open Risks: named siege casualties and exact frame/craft models remain open before prose
 
 ## Shared State at E85 Start

@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: G01 Codex / G03 Roster / G04 Acquisition / G05 Power Creep / G06 Base-Fleet Meta / G07 Loss-Recovery / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: ownerless fleet structure, commander bibles, theater map, GA5 act map
+Depends On: ownerless fleet structure, commander bibles, theater map, [[ga5-episodes-451-570-act-map-v1]]
 Used By: GA5 episode planning, fleet state tracking, GA6 setup
 Open Risks: exact ship and commander names open; many logistics substates require reader-facing consolidation
 

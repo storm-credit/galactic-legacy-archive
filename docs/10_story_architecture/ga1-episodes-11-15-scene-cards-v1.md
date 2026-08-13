@@ -3,7 +3,7 @@
 Status: REVIEW — SCENE-CARD LEVEL
 Owner Agents: N03 Episode / C02 Ensemble / C03 Antagonists / L02 POV / G04 Reward / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: opening-20 beat map, Academy/07 state, E6–10 scene cards, clue ledger
+Depends On: opening-20 beat map, Academy/07 state, [[ga1-episodes-6-10-scene-cards-v1]], [[m001-m020-early-clue-episode-ledger-v1]]
 Used By: non-canon prose tests and future manuscript authorization
 Open Risks: exact Ern craft/operation and sponsor representative remain adjustable
 

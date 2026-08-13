@@ -3,7 +3,7 @@
 Status: PROJECT CONTROL — GA8 COMPLETE
 Owner Agents: A00 PM / O01 Canon / O02 Gates / N01 Architecture / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-05
-Depends On: E801–900 cards, all GA8 institution/cast/collection states and final cross-audit
+Depends On: [[ga8-e801-810-episode-cards-v1]], [[ga8-e811-818-episode-cards-v1]], [[ga8-e819-825-episode-cards-v1]], [[ga8-e826-835-episode-cards-v1]], [[ga8-e836-843-episode-cards-v1]], [[ga8-e844-850-episode-cards-v1]], [[ga8-e851-860-episode-cards-v1]], [[ga8-e861-868-episode-cards-v1]], [[ga8-e869-875-episode-cards-v1]], [[ga8-e876-885-episode-cards-v1]], [[ga8-e886-893-episode-cards-v1]], [[ga8-e894-900-episode-cards-v1]], all GA8 institution/cast/collection states and final cross-audit
 Used By: GA9 E901–925, project reporting and context handoff
 
 ## 1. Current Progress

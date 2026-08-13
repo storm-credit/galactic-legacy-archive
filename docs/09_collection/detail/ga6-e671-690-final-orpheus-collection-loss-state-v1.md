@@ -3,7 +3,7 @@
 Status: REVIEW — FINAL GA6 COLLECTION / LOSS / INSTITUTION STATE
 Owner Agents: G01 Codex / G04 Acquisition / G05 Power Creep / G07 Loss-Recovery / P03 Law / P04 Care / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E671–690 cards, final operation/cast state and mystery payoff ledger
+Depends On: [[ga6-e671-675-episode-cards-v1]], [[ga6-e676-686-episode-cards-v1]], [[ga6-e687-690-episode-cards-v1]], final operation/cast state and mystery payoff ledger
 Used By: GA7 production, final GA6 audit and long-range canon
 
 ## 1. Final Operational Facts

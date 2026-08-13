@@ -4,7 +4,7 @@ Status: WORKING CANON — TECHNICAL/OPERATIONAL LOCK
 Owner Agents: T03 Life Support / T05 Technology History / T06 Mecha-Service / T07 Networks / H01 Production / H04 Maintenance / H05 Medical / H06 Damage / M03 Fleet / M05 Logistics / P02 Economy / P03 Law / G02 Counter-Collection / G05 Power Creep / X01 Logic / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-03
 Depends On: Jena Mixed-Service Safety Annex, relay module, E151–175 state, technology/interoperability bible
-Used By: E176–200 detailed cards, accident ledger and open-standard governance
+Used By: [[ga2-e176-185-episode-cards-v1]], [[ga2-e186-193-episode-cards-v1]], [[ga2-e194-200-episode-cards-v1]], accident ledger and open-standard governance
 Open Risks: exact reader-facing standard name may be shortened during prose phase; technical function is locked
 
 ## 1. E176 Opening Crisis

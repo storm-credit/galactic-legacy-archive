@@ -3,7 +3,7 @@
 Status: REVIEW — INSTITUTION / OPERATION STATE
 Owner Agents: P03 Law / P04 Care / P06 Factions / M05 Logistics / M07 Command / N04 Causality / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E784–790 provisional federation state; E791–800 detailed episode cards
+Depends On: E784–790 provisional federation state; [[ga7-e791-800-episode-cards-v1]]
 Used By: GA7 final audit and GA8 record-war opening
 
 ## 1. Institutional Scope

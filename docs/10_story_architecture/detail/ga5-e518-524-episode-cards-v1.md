@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / C02 Ensemble / P04 Care / M03 Fleet / M05 Logistics / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: Recall Framework E511–517, Oren/Crown role, Vesper theater map
+Depends On: Recall Framework E511–517, Oren/Crown role, [[ga5-theater-route-and-campaign-map-v1]]
 Used By: E525+, Outer Front coverage state and B05-03 audit
 
 ## Mission Set

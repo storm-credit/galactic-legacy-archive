@@ -5,7 +5,7 @@ Owner Agents: O01 Canon / N01 Series Architecture / N04 Causality / X04 Continui
 Last Reviewed: 2026-08-04
 Depends On: [[master-series-chronology-v1]]
 Supersedes: every conflicting `Date:` or absolute CY date in GA2/GA3 detailed episode cards, operation sheets, collection sheets, status files and audits for E101–330
-Used By: all E101–330 scene cards and all E331+ chronology handoffs
+Used By: all [[ga2-e101-107-episode-cards-v1]], [[ga2-e108-114-episode-cards-v1]], [[ga2-e115-121-episode-cards-v1]], [[ga2-e122-125-episode-cards-v1]], [[ga2-e126-130-episode-cards-v1]], [[ga2-e131-137-episode-cards-v1]], [[ga2-e138-145-episode-cards-v1]], [[ga2-e146-150-episode-cards-v1]], [[ga2-e151-160-episode-cards-v1]], [[ga2-e161-168-episode-cards-v1]], [[ga2-e169-175-episode-cards-v1]], [[ga2-e176-185-episode-cards-v1]], [[ga2-e186-193-episode-cards-v1]], [[ga2-e194-200-episode-cards-v1]], [[ga2-e201-210-episode-cards-v1]], [[ga3-e211-218-episode-cards-v1]], [[ga3-e219-226-episode-cards-v1]], [[ga3-e227-235-episode-cards-v1]], [[ga3-e236-240-episode-cards-v1]], [[ga3-e241-247-episode-cards-v1]], [[ga3-e248-254-episode-cards-v1]], [[ga3-e255-260-episode-cards-v1]], [[ga3-e261-263-episode-cards-v1]], [[ga3-e264-270-episode-cards-v1]], [[ga3-e271-277-episode-cards-v1]], [[ga3-e278-285-episode-cards-v1]], [[ga3-e286-292-episode-cards-v1]], [[ga3-e293-300-episode-cards-v1]], [[ga3-e301-310-episode-cards-v1]], [[ga3-e311-314-episode-cards-v1]], [[ga3-e315-323-episode-cards-v1]], [[ga3-e324-330-episode-cards-v1]] and all E331+ chronology handoffs
 
 ## 1. Reason for Correction
 

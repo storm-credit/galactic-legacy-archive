@@ -3,7 +3,7 @@
 Status: REVIEW — CHARACTER / ROLE STATE
 Owner Agents: C01 Protagonist / C02 Ensemble / C03 Antagonists / C04 Ordinary People / P03 Law / P04 Care / P06 Factions / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E801–825 episode cards and Serrat Compact institution state
+Depends On: [[ga8-e801-810-episode-cards-v1]], [[ga8-e811-818-episode-cards-v1]], [[ga8-e819-825-episode-cards-v1]] and Serrat Compact institution state
 Used By: GA8 E826–850 and B08-01 audit
 
 ## 1. Gate and Agency Rule

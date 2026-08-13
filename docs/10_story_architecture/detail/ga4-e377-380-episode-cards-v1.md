@@ -4,7 +4,7 @@ Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C01 Character / C02 Ensemble / C04 Relationships / P01 Politics / P02 Economy / P03 Law / P04 Care / P06 Factions / T07 Networks / M01 Strategy / M03 Fleet / M05 Logistics / M07 Command / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
 Depends On: E369–376 first compact failure and 60-day Four-Function Continuity Order
-Used By: E381–405 cards, revised compact state and B04-02 audit
+Used By: [[ga4-e381-388-episode-cards-v1]], [[ga4-e389-396-episode-cards-v1]], [[ga4-e397-405-episode-cards-v1]], revised compact state and B04-02 audit
 Open Risks: 30-day pilot is not final succession or empire-wide constitution
 
 ## Shared Revision State

@@ -3,7 +3,7 @@
 Status: WORKING CANON — CHARACTER / VOICE / SUCCESSION / LOSS LOCK
 Owner Agents: C01 Character Bible / C02 Ensemble / C04 Relationships / C06 Voice / P01 Politics / P03 Law / P04 Care / P06 Factions / M03 Fleet / M07 Command / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: GA3 local/defense/denial cast files, E311–330 detailed cards and corrected chronology
+Depends On: GA3 local/defense/denial cast files, [[ga3-e311-314-episode-cards-v1]], [[ga3-e315-323-episode-cards-v1]], [[ga3-e324-330-episode-cards-v1]] and corrected chronology
 Used By: final GA3 operation/trust state, GA4 handoff and all later character continuity
 Open Risks: exact post-GA3 occupations beyond the locked current roles remain later work
 

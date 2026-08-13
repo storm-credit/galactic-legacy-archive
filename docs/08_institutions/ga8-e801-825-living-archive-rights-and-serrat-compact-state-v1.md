@@ -3,7 +3,7 @@
 Status: REVIEW — INSTITUTION / RIGHTS STATE
 Owner Agents: P03 Law / P04 Care / P06 Factions / M06 Intelligence / N04 Causality / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: GA7 Charter 1.0 and GA8 E801–825 detailed episode cards
+Depends On: GA7 Charter 1.0 and [[ga8-e801-810-episode-cards-v1]], [[ga8-e811-818-episode-cards-v1]], [[ga8-e819-825-episode-cards-v1]]
 Used By: GA8 E826–850 four-founding-history conflict and B08-01 audit
 
 ## 1. Scope and Gate

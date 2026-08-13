@@ -3,7 +3,7 @@
 Status: CANON PROJECT CONTROL
 Owner Agent: O02 Gate & Risk Controller
 Last Reviewed: 2026-08-03
-Depends On: chronology, canonical names, state checkpoints, payoff locks, red-team, Gate 1 calibration
+Depends On: chronology, [[core-canonical-names-and-voice-lock-v1]], state checkpoints, payoff locks, red-team, Gate 1 calibration
 Used By: Pre-Writing Gate, episode-card queue, manuscript authorization
 
 ## Repository Integrity Correction

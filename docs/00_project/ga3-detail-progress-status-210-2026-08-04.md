@@ -3,7 +3,7 @@
 Status: PROJECT CONTROL — B03-04 COMPLETE
 Owner Agents: A00 PM / O01 Canon / O02 Gates / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-04
-Depends On: E286–310 cards, denial/Imperial/siege cast, operation/collection state, correction 001 and B03-04 red team
+Depends On: [[ga3-e286-292-episode-cards-v1]], [[ga3-e293-300-episode-cards-v1]], [[ga3-e301-310-episode-cards-v1]], denial/Imperial/siege cast, operation/collection state, correction 001 and B03-04 red team
 Used By: final GA3 production batch, progress reporting and context handoff
 
 ## 1. Current Progress

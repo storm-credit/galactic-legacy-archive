@@ -3,7 +3,7 @@
 Status: REVIEW — COLLECTION / LOSS / INSTITUTION STATE
 Owner Agents: G01 Codex / G04 Acquisition / G07 Loss-Recovery / P03 Law / P04 Care / M07 Evacuation / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E571–595 cards, opening OOB and cast state
+Depends On: [[ga6-e571-577-episode-cards-v1]], [[ga6-e578-584-episode-cards-v1]], [[ga6-e585-590-episode-cards-v1]], [[ga6-e591-595-episode-cards-v1]], opening OOB and cast state
 Used By: E596–620 manifest/function decomposition and B06-01 audit
 
 ## 1. Common Fact Board

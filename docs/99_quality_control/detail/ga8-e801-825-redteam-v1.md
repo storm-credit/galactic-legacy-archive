@@ -3,7 +3,7 @@
 Status: PASS — QUALITY CONTROL / CANON LOCK
 Owner Agents: X01 Red Team / X02 Numbers / X03 Legal Logic / X04 Continuity / X05 Character Agency / X06 Coverage / O02 Gates
 Last Reviewed: 2026-08-05
-Depends On: E801–825 episode cards; Serrat institution, cast and collection/loss state
+Depends On: [[ga8-e801-810-episode-cards-v1]], [[ga8-e811-818-episode-cards-v1]], [[ga8-e819-825-episode-cards-v1]]; Serrat institution, cast and collection/loss state
 Used By: B08-01 merge decision, E826–850 production and project control
 
 ## 1. Files Audited

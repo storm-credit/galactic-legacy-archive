@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE
 Owner Agents: O02 Gate / X01 Logic / X02 Retention / X03 Ethics / X04 Continuity / R07 Similarity / M08 Command Ethics / N05 Mystery-Payoff
 Last Reviewed: 2026-08-03
-Depends On: route federation bible, Blood Admiral decomposition, route leaders, GA7 act map and registry
+Depends On: route federation bible, Blood Admiral decomposition, route leaders, [[ga7-episodes-691-800-act-map-v1]] and registry
 Used By: GA7 status, Gate 6 issue, GA8 prerequisites
 Open Risks: exact D4 incident, theater map, casualty/downstream ledger and names remain open
 

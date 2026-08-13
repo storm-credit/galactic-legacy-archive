@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE — B04-01 PASS
 Owner Agents: O02 Gate / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity / N04 Causality / N07 Retention / P01 Politics / P02 Economy / P03 Law / P04 Care / M03 Fleet / M05 Logistics / M06 Intelligence / G05 Power Creep
 Last Reviewed: 2026-08-04
-Depends On: E331–355 cards, claimant/evidence cast, six-protocol law state and collection/loss state
+Depends On: [[ga4-e331-337-episode-cards-v1]], [[ga4-e338-345-episode-cards-v1]], [[ga4-e346-353-episode-cards-v1]], [[ga4-e354-355-episode-cards-v1]], claimant/evidence cast, six-protocol law state and collection/loss state
 Used By: GA4 progress status and E356–380 production
 Open Risks: final succession remedy and claimant compact intentionally deferred
 

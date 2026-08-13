@@ -3,8 +3,8 @@
 Status: REVIEW — SCENE-CARD LEVEL
 Owner Agents: N03 Episode / N04 Causality / C02 Ensemble / P03 Law / P04 Education-Class / C06 Voice / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: E21–26 scene cards, Academy law/economy, Serin bible, Kara/I-001 consolidation, first-100 registry
-Used By: E33–45 cards, non-canon inquiry/social tests, student institution continuity
+Depends On: [[ga1-episodes-21-26-scene-cards-v1]], Academy law/economy, Serin bible, Kara/I-001 consolidation, first-100 registry
+Used By: [[ga1-episodes-33-38-scene-cards-v1]], [[ga1-episodes-39-45-scene-cards-v1]], non-canon inquiry/social tests, student institution continuity
 Open Risks: Juno’s exact family/cell composition and final external placement remain adjustable within locked outcome
 
 ## Shared State at E27 Start

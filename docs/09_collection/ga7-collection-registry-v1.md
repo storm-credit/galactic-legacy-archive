@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: G01 Codex / G03 Roster / G04 Acquisition / G05 Power Creep / G07 Loss-Recovery / O01 Canon / N05 Mystery-Payoff
 Last Reviewed: 2026-08-03
-Depends On: route federation bible, Blood Admiral decomposition, route-war leaders, GA7 act map
+Depends On: route federation bible, Blood Admiral decomposition, route-war leaders, [[ga7-episodes-691-800-act-map-v1]]
 Used By: GA7 episode planning, denial/route state tracking, GA8 record-war launch
 Open Risks: exact theater nodes, names, D4 loss figures and incident evidence remain provisional
 

@@ -3,7 +3,7 @@
 Status: REVIEW — SCENE-CARD LEVEL
 Owner Agents: N03 Episode / N04 Causality / P01 Politics / P03 Law / H01 Frame / C02 Ensemble / G01 Archive / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: E33–38 cards, Imperial observer bible, 07 component ledger, series payoff/clue ledgers
+Depends On: [[ga1-episodes-33-38-scene-cards-v1]], Imperial observer bible, 07 component ledger, series payoff/[[m001-m020-early-clue-episode-ledger-v1]]s
 Used By: E46+ cards, 07 reconstruction continuity, Imperial/Continuity long arc
 Open Risks: Imperial observer final reader-facing name and exact office title remain open
 

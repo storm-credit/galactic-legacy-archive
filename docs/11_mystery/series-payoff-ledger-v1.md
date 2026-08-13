@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: N05 Mystery-Payoff / N06 Ending / T06 Regression / O01 Canon / X01 Fairness Audit
 Last Reviewed: 2026-08-03
-Depends On: original timeline, Archive ending options, grand-act map, character/faction matrix
+Depends On: [[original-timeline-v1]], Archive [[legacy-archive-origin-ending-options]], [[1000-episode-grand-act-map-v1]], character/faction matrix
 Used By: Act planning, episode hooks, revision harness, ending verification
 Open Risks: Too many mysteries, overlong delay, late exposition, provisional episode positions
 

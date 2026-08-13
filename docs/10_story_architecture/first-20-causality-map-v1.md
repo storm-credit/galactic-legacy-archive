@@ -3,7 +3,7 @@
 Status: REVIEW — NOT MANUSCRIPT
 Owner Agents: N03 Episode-Scene / N04 Causality / N07 Retention / T06 Divergence / P06 Factions / G04 Reward Cadence / W02 Scene Engineering
 Last Reviewed: 2026-08-03
-Depends On: canon core packet, original timeline, academy bible, collection bible, P-001/H-001/H-002, first frame
+Depends On: [[canon-core-packet-v1]], [[original-timeline-v1]], [[prison-military-academy-bible-v1]], collection bible, P-001/H-001/H-002, first frame
 Used By: First-five scene cards, opening-arc act plan, red-team testing
 Open Risks: Episode density, too many faction representatives, insufficient emotional recovery
 

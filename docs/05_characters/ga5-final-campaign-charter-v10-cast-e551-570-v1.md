@@ -3,7 +3,7 @@
 Status: REVIEW — FINAL GA5 CAST STATE
 Owner Agents: C01 Character / C02 Ensemble / C03 Rival / C04 Relationships / C06 Voice / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E551–570 cards, final campaign state and canonical officeholder ledger
+Depends On: [[ga5-e551-554-episode-cards-v1]], [[ga5-e555-563-episode-cards-v1]], [[ga5-e564-570-episode-cards-v1]], final campaign state and canonical officeholder ledger
 Used By: GA6 opening, fleet relationships and GA5 final audit
 
 ## 1. Sela Ruk

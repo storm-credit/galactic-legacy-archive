@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE
 Owner Agents: O02 Gate / X01 Logic / X02 Retention / X03 Ethics / X04 Continuity / C06 Voice / N05 Payoff
 Last Reviewed: 2026-08-03
-Depends On: master chronology, canonical names, GA1–10 state matrix, locked payoff ledger
+Depends On: [[master-series-chronology-v1]], [[core-canonical-names-and-voice-lock-v1]], GA1–10 state matrix, locked payoff ledger
 Used By: final canonization status, Gate 1 preparation, episode-card prerequisites
 Open Risks: exact scene cards and state simulations remain open
 

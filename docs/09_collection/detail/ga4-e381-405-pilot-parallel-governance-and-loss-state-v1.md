@@ -3,8 +3,8 @@
 Status: WORKING CANON — COLLECTION / INSTITUTION / LOSS CONTINUITY
 Owner Agents: G01 Collection / G02 Counter-Collection / G03 Active Load / G04 Reward / G05 Power Creep / G07 Loss / C02 Ensemble / P01 Politics / P02 Economy / P03 Law / X03 Ethics / X04 Continuity / O01 Canon
 Last Reviewed: 2026-08-04
-Depends On: E381–405 cards, pilot/parallel-governance law state and cast lock
-Used By: E406–430 cards, GA4 pilot registry and later cross-audits
+Depends On: [[ga4-e381-388-episode-cards-v1]], [[ga4-e389-396-episode-cards-v1]], [[ga4-e397-405-episode-cards-v1]], pilot/parallel-governance law state and cast lock
+Used By: [[ga4-e406-412-episode-cards-v1]], [[ga4-e413-420-episode-cards-v1]], [[ga4-e421-430-episode-cards-v1]], GA4 pilot registry and later cross-audits
 Open Risks: pilot close, East renewal and final compact/sovereign remain later work
 
 ## 1. Rule

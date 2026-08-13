@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE
 Owner Agents: O02 Gate Controller / X01 Logic / X02 Retention / X03 Ethics / X04 Continuity / R07 Similarity / N07 Pacing
 Last Reviewed: 2026-08-03
-Depends On: 10-grand-act map, character/faction matrix, A-001 bible, payoff ledger, first-100 map
+Depends On: 10-[[1000-episode-grand-act-map-v1]], character/faction matrix, A-001 bible, payoff ledger, [[first-100-act-map-v2-consolidated]]
 Used By: Gate 6 decision, next task queue, pre-writing gate
 Open Risks: Detailed act execution can still reveal contradictions
 

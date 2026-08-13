@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / C01–C06 Character / T02 Navigation / T03 Life Support / T06 Mecha / H02 Ship / H03 Sensors / H04 Maintenance / H05 Medical / H06 Damage / M02–M06 Operations / P02 Economy / P03 Law / G04 Reward / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: E101–125 cards, first-voyage operation state, weapons calibration, route topology
-Used By: E131–137 cards, first-contract settlement and B02-02 audit
+Depends On: [[ga2-e101-107-episode-cards-v1]], [[ga2-e108-114-episode-cards-v1]], [[ga2-e115-121-episode-cards-v1]], [[ga2-e122-125-episode-cards-v1]], first-voyage operation state, weapons calibration, route topology
+Used By: [[ga2-e131-137-episode-cards-v1]], first-contract settlement and B02-02 audit
 Open Risks: exact long-term KT-441 title settlement remains a later claims matter
 
 ## Shared Opening State

@@ -3,8 +3,8 @@
 Status: REVIEW — SCENE-CARD LEVEL
 Owner Agents: N03 Episode / N04 Causality / T04 Neural Medicine / P03 Rights / C02 Ensemble / W06 Ordinary Life / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: Black Ward operational state, E46–51 cards, patient focals, 07/lockdown state
-Used By: E59–72 cards, ORA-3 discovery, patient-representation and supply arcs
+Depends On: Black Ward operational state, [[ga1-episodes-46-51-scene-cards-v1]], patient focals, 07/lockdown state
+Used By: [[ga1-episodes-59-65-scene-cards-v1]], [[ga1-episodes-66-72-scene-cards-v1]], ORA-3 discovery, patient-representation and supply arcs
 Open Risks: final senior clinician/researcher names and ordinary-life scene detail remain adjustable
 
 ## Shared State at E52 Start

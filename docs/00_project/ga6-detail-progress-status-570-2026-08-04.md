@@ -3,7 +3,7 @@
 Status: PROJECT CONTROL — B06-04 COMPLETE
 Owner Agents: A00 PM / O01 Canon / O02 Gates / N01 Architecture / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-04
-Depends On: E646–670 cards, operation/collection state and B06-04 red team
+Depends On: [[ga6-e646-653-episode-cards-v1]], [[ga6-e654-661-episode-cards-v1]], [[ga6-e662-670-episode-cards-v1]], operation/collection state and B06-04 red team
 Used By: final GA6 branch, project reporting and context handoff
 
 ## 1. Current Progress

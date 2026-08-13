@@ -3,7 +3,7 @@
 Status: REVIEW — WORKING CANON DETAIL
 Owner Agents: C01 Character / C02 Ensemble / C04 Relationships / C06 Voice / P04 Care / M07 Evacuation / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: GA6 decision-actor bible, later officeholder/ordinary rosters, E571–595 cards
+Depends On: GA6 decision-actor bible, later officeholder/ordinary rosters, [[ga6-e571-577-episode-cards-v1]], [[ga6-e578-584-episode-cards-v1]], [[ga6-e585-590-episode-cards-v1]], [[ga6-e591-595-episode-cards-v1]]
 Used By: E596–690, manifest debate, operation decisions and GA6 audit
 
 ## 1. Ardo Rev — State/Compact Escort Lead

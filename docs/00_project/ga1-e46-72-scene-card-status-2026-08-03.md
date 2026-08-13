@@ -3,7 +3,7 @@
 Status: CANON PROJECT CONTROL
 Owner Agent: O02 Gate & Risk Controller
 Last Reviewed: 2026-08-03
-Depends On: imitation-cell, Black Ward/supply/07 states, E46–72 cards, red-team
+Depends On: imitation-cell, Black Ward/supply/07 states, [[ga1-episodes-46-51-scene-cards-v1]], [[ga1-episodes-52-58-scene-cards-v1]], [[ga1-episodes-59-65-scene-cards-v1]], [[ga1-episodes-66-72-scene-cards-v1]], red-team
 
 ## Verdict
 

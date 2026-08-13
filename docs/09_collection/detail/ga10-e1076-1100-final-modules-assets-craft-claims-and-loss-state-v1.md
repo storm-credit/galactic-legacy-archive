@@ -3,7 +3,7 @@
 Status: REVIEW — FINAL COLLECTION / LOSS / ACCOUNTING STATE
 Owner Agents: G01 Collection / P02 Economy / P03 Law / P04 Care / M05 Logistics / N06 Ending / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-05
-Depends On: GA10 E1076–1100 cards and final institution state
+Depends On: [[ga10-e1076-1085-episode-cards-v1]], [[ga10-e1086-1093-episode-cards-v1]], [[ga10-e1094-1100-episode-cards-v1]] and final institution state
 Used By: final GA10 and E101–1100 cross-audits
 
 ## 1. Accounting Rules

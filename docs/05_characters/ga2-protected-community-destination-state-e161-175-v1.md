@@ -3,8 +3,8 @@
 Status: WORKING CANON — COMMUNITY CHOICE AND MOVEMENT STATE
 Owner Agents: C02 Ensemble / C04 Relationships / P03 Law / P04 Family-Care / P08 Frontier-Neutrality / M05 Logistics / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: Haren protected-community bible, E151–160 cards, route/census/economy bibles
-Used By: E161–185 cards, convoy manifests, destination contracts and Haren arc
+Depends On: Haren protected-community bible, [[ga2-e151-160-episode-cards-v1]], route/census/economy bibles
+Used By: [[ga2-e161-168-episode-cards-v1]], [[ga2-e169-175-episode-cards-v1]], [[ga2-e176-185-episode-cards-v1]], convoy manifests, destination contracts and Haren arc
 Open Risks: individual private destinations remain sealed by design
 
 ## 1. Population Lock

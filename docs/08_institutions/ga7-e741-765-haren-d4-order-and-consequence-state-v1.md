@@ -3,7 +3,7 @@
 Status: REVIEW — INSTITUTION / COMMAND / ACCOUNTABILITY STATE
 Owner Agents: P03 Law / P04 Care / P06 Factions / M01 Strategy / M07 Command / O01 Canon / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E741–765 cards, Haren D4 accountability canon and Blood Admiral composite finding
+Depends On: [[ga7-e741-745-episode-cards-v1]], [[ga7-e746-753-episode-cards-v1]], [[ga7-e754-765-episode-cards-v1]], Haren D4 accountability canon and Blood Admiral composite finding
 Used By: E766–800 inquiry/reform, B07-03 audit and long-range Haren state
 
 ## 1. Chronology

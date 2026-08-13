@@ -3,7 +3,7 @@
 Status: REVIEW — NON-CANON TEST MATERIAL
 Owner Agents: L01 Prose / L02 POV / N07 Retention / X02 Reader / O02 Gate
 Last Reviewed: 2026-08-03
-Depends On: canonical names/voices, opening GA1 architecture, public-platform research
+Depends On: [[core-canonical-names-and-voice-lock-v1]]/voices, opening GA1 architecture, public-platform research
 Used By: first-five scene cards, prose harness, Pre-Writing Gate decision
 Open Risks: blind-reader testing and full 1–5 episode samples remain open
 

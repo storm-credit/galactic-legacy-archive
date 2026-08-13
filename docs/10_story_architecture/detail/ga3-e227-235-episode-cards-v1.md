@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C01–C06 Character / P01–P08 Politics-Society / T02 Navigation / T03 Habitat Systems / T07 Networks / H02 Ship / H04 Maintenance / H06 Damage / M01–M08 Military-Security / G01–G07 Collection / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity / O01 Canon / O02 Gates
 Last Reviewed: 2026-08-03
-Depends On: E211–226 cards, GA3 opening Ardis state, Ardis city/node/engineering bibles
+Depends On: [[ga3-e211-218-episode-cards-v1]], [[ga3-e219-226-episode-cards-v1]], GA3 opening Ardis state, Ardis city/node/engineering bibles
 Used By: B03-01 operation/collection states, red-team audit and E236–260 continuation
 Open Risks: centralized restoration package remains available and may gain local support in later batches
 

@@ -3,7 +3,7 @@
 Status: REVIEW — WORKING CANON DETAIL
 Owner Agents: C02 Ensemble / C04 Relationships / C06 Voice / P04 Care / M05 Logistics / M08 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E476–500 cards, ordinary focal roster, GA5 commander canon
+Depends On: [[ga5-e476-480-episode-cards-v1]], [[ga5-e481-487-episode-cards-v1]], [[ga5-e488-494-episode-cards-v1]], [[ga5-e495-500-episode-cards-v1]], ordinary focal roster, GA5 commander canon
 Used By: E501–525, prize/title/victim process and later fleet support state
 
 ## 1. Sana Brik

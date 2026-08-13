@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P02 Economy / P03 Law / M03 Fleet / M05 Logistics / M07 Command / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E501–510 state, GA5 act map, Sira/Doan continuity
+Depends On: E501–510 state, [[ga5-episodes-451-570-act-map-v1]], Sira/Doan continuity
 Used By: E518–525, recall framework and B05-03 audit
 
 ## Recall Set

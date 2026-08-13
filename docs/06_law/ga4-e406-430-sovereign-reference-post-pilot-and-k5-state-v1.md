@@ -3,7 +3,7 @@
 Status: WORKING CANON — LAW / OPERATION / CURRENT AUTHORITY STATE
 Owner Agents: P01 Politics / P02 Economy / P03 Law / P04 Care / P06 Factions / T02 Navigation / T03 Habitat Systems / T07 Networks / M01 Strategy / M03 Fleet / M05 Logistics / M07 Command / X01 Logic / X03 Ethics / X04 Continuity / O01 Canon
 Last Reviewed: 2026-08-04
-Depends On: E406–430 cards, prior seven-field pilot/parallel-governance state and post-pilot cast
+Depends On: [[ga4-e406-412-episode-cards-v1]], [[ga4-e413-420-episode-cards-v1]], [[ga4-e421-430-episode-cards-v1]], prior seven-field pilot/parallel-governance state and post-pilot cast
 Used By: E431–450 final GA4 settlement, final GA4 cross-audit and all later succession references
 Open Risks: formal nominations, selection, ratification, recall and final GA4 compact remain B04-05 work
 

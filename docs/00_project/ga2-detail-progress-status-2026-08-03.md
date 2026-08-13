@@ -3,7 +3,7 @@
 Status: PROJECT CONTROL — B02-01 COMPLETE
 Owner Agents: A00 PM / O01 Canon / O02 Gates / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-03
-Depends On: E101–125 cards, B02-01 operation/collection state and red-team audit
+Depends On: [[ga2-e101-107-episode-cards-v1]], [[ga2-e108-114-episode-cards-v1]], [[ga2-e115-121-episode-cards-v1]], [[ga2-e122-125-episode-cards-v1]], B02-01 operation/collection state and red-team audit
 Used By: detailed-production progress, next branch and context handoff
 
 ## 1. Current Progress

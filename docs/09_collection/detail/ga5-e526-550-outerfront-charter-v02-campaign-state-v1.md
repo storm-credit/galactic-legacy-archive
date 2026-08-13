@@ -3,7 +3,7 @@
 Status: REVIEW — COLLECTION / LOSS / INSTITUTION STATE
 Owner Agents: G01 Codex / G04 Acquisition / G05 Power Creep / G06 Fleet Meta / G07 Loss-Recovery / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E526–550 cards, operation/cast state and GA5 collection registry
+Depends On: [[ga5-e526-533-episode-cards-v1]], [[ga5-e534-540-episode-cards-v1]], [[ga5-e541-547-episode-cards-v1]], [[ga5-e548-550-episode-cards-v1]], operation/cast state and GA5 collection registry
 Used By: E551–570 final campaign and B05-04 audit
 
 ## 1. Outer Front Cooperation

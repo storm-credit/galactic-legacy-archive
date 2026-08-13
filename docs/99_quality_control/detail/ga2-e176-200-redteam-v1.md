@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE — PASS WITH S1 CONTROLS
 Owner Agents: A16 Red Team / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity / X06 Coverage / N07 Retention / O01 Canon / O02 Gates
 Last Reviewed: 2026-08-03
-Depends On: E176–200 cards, open-service incident state and collection/loss update
+Depends On: [[ga2-e176-185-episode-cards-v1]], [[ga2-e186-193-episode-cards-v1]], [[ga2-e194-200-episode-cards-v1]], open-service incident state and collection/loss update
 Used By: B02-04 merge gate and E201–210 continuation
 Open Risks: GA2 ending must not convert the accident into a clean regional victory
 

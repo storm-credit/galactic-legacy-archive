@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: G01 Codex / G03 Roster / G04 Acquisition / G05 Power Creep / G07 Loss-Recovery / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: preservation-regime bible, GA9 actors, GA9 act map
+Depends On: preservation-regime bible, GA9 actors, [[ga9-episodes-901-1000-act-map-v1]]
 Used By: GA9 episode planning, classification/authority tracking, GA10 transition
 Open Risks: exact regions, cases, hardliner theater and central-key mechanics remain provisional
 

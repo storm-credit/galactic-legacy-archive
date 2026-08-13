@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE — GA4 DETAIL PASS
 Owner Agents: A00 PM / O01 Canon / O02 Gates / N01 Architecture / N04 Causality / N07 Retention / C01 Character / C02 Ensemble / P01 Politics / P02 Economy / P03 Law / P04 Care / T02 Navigation / T07 Networks / H04 Maintenance / H05 Medical / M03 Fleet / M05 Logistics / M06 Intelligence / M07 Command / G01 Collection / G05 Power Creep / G07 Loss / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-04
-Depends On: all GA4 E331–450 episode cards and state files
+Depends On: all [[ga4-e331-337-episode-cards-v1]], [[ga4-e338-345-episode-cards-v1]], [[ga4-e346-353-episode-cards-v1]], [[ga4-e354-355-episode-cards-v1]], [[ga4-e356-360-episode-cards-v1]], [[ga4-e361-368-episode-cards-v1]], [[ga4-e369-376-episode-cards-v1]], [[ga4-e377-380-episode-cards-v1]], [[ga4-e381-388-episode-cards-v1]], [[ga4-e389-396-episode-cards-v1]], [[ga4-e397-405-episode-cards-v1]], [[ga4-e406-412-episode-cards-v1]], [[ga4-e413-420-episode-cards-v1]], [[ga4-e421-430-episode-cards-v1]], [[ga4-e431-438-episode-cards-v1]], [[ga4-e439-444-episode-cards-v1]], [[ga4-e445-450-episode-cards-v1]] and state files
 Used By: GA4 completion status, GA5 opening and future canon audits
 Open Risks: no GA4 blocker remains; later constitutional/fleet questions are intentional GA5+ work
 

@@ -3,7 +3,7 @@
 Status: PROJECT CONTROL — B07-04 COMPLETE
 Owner Agents: A00 PM / O01 Canon / O02 Gates / N01 Architecture / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-05
-Depends On: E766–790 cards, Haren judgment, provisional federation, cast/collection state and B07-04 red team
+Depends On: [[ga7-e766-775-episode-cards-v1]], [[ga7-e776-783-episode-cards-v1]], [[ga7-e784-790-episode-cards-v1]], Haren judgment, provisional federation, cast/collection state and B07-04 red team
 Used By: GA7 final batch, project reporting and context handoff
 
 ## 1. Current Progress

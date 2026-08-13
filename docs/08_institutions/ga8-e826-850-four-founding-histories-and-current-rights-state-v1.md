@@ -3,7 +3,7 @@
 Status: REVIEW — INSTITUTION / RIGHTS STATE
 Owner Agents: P02 Economy / P03 Law / P04 Care / P06 Factions / M06 Intelligence / N04 Causality / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E801–825 Serrat Compact state and E826–850 detailed episode cards
+Depends On: E801–825 Serrat Compact state and [[ga8-e826-835-episode-cards-v1]], [[ga8-e836-843-episode-cards-v1]], [[ga8-e844-850-episode-cards-v1]]
 Used By: GA8 E851–875 Continuity Seed investigation and B08-02 audit
 
 ## 1. Gate and Scope

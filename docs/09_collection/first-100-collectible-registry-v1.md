@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: G01 Codex / G03 Roster / G04 Acquisition / G05 Power Creep / G07 Loss-Recovery / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: collection bible, first-100 map, opening cast, first frame, academy calibration
+Depends On: collection bible, [[first-100-act-map-v2-consolidated]], opening cast, first frame, academy calibration
 Used By: Episode plans, Archive displays, reward tracking, revision harness
 Open Risks: 38 registered targets may still be too many; final names and episode placements remain provisional
 

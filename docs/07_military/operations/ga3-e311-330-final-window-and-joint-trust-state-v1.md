@@ -3,7 +3,7 @@
 Status: WORKING CANON — FINAL GA3 OPERATION / RESOURCE / AUTHORITY STATE
 Owner Agents: M01 Strategy / M02 Operational Art / M03 Fleet Operations / M04 Frame Tactics / M05 Logistics / M06 Intelligence / M07 Command / T02 Navigation / T03 Habitat Systems / T07 Networks / H02 Ship / H03 Sensors / H04 Maintenance / H05 Medical / H06 Damage / P01 Politics / P02 Economy / P03 Law / P04 Care / X01 Logic / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: corrected E101–330 date override, E286–310 operation state and E311–330 detailed cards
+Depends On: corrected E101–330 date override, E286–310 operation state and [[ga3-e311-314-episode-cards-v1]], [[ga3-e315-323-episode-cards-v1]], [[ga3-e324-330-episode-cards-v1]]
 Used By: GA3 final cross-audit, GA4 E331+ production and all later Ardis state references
 Open Risks: the conditional CY 743-10-12 routine window and permanent post-Trust constitution remain future operations
 

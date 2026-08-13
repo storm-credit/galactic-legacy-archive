@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C02 Ensemble / C04 Relationships / P01 Politics / P02 Economy / P03 Law / P04 Care / P06 Factions / T02 Navigation / T03 Habitat Systems / T07 Networks / H03 Sensors / H04 Maintenance / H06 Damage / M02 Operational Art / M03 Fleet / M05 Logistics / M06 Intelligence / M07 Command / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E285 denial discovery, Spine B/Helix/defense state and GA3 act map
-Used By: E293–310 cards, Spine C and denial authority state, B03-04 audit
+Depends On: E285 denial discovery, Spine B/Helix/defense state and [[ga3-episodes-211-330-act-map-v1]]
+Used By: [[ga3-e293-300-episode-cards-v1]], [[ga3-e301-310-episode-cards-v1]], Spine C and denial authority state, B03-04 audit
 Open Risks: full Service Authority E and original accident truth remain later GA3 work
 
 ## Shared Starting State

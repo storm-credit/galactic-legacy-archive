@@ -3,7 +3,7 @@
 Status: PROJECT CONTROL — CANON DATE CORRECTION COMPLETE
 Owner Agents: A00 PM / O01 Canon / O02 Gates / N01 Architecture / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: master chronology, detailed episode date override and reconciliation audit
+Depends On: [[master-series-chronology-v1]], detailed episode date override and reconciliation audit
 Used By: all detailed-production branches and context handoff
 
 ## 1. Problem Found

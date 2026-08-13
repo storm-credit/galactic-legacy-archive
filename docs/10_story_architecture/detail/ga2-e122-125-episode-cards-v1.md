@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / C01–C06 Character / T02 Navigation / T03 Life Support / T06 Mecha / H02 Ship / H03 Sensors / H04 Maintenance / H05 Medical / H06 Damage / M03 Fleet / M04 Frame / M05 Logistics / M06 Intelligence / P02 Economy / P03 Law / G04 Reward / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: E115–121 cards, GA2 opening ship state, weapons/sensors calibration, route topology
-Used By: E126–130 cards, first-voyage operation sheet, B02-01 audit
+Depends On: [[ga2-e115-121-episode-cards-v1]], GA2 opening ship state, weapons/sensors calibration, route topology
+Used By: [[ga2-e126-130-episode-cards-v1]], first-voyage operation sheet, B02-01 audit
 Open Risks: hostile/opportunist craft identity remains intentionally unresolved until B02-02
 
 ## Shared Opening State

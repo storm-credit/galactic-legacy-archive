@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE — B03-01 PASS
 Owner Agents: O02 Gate / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity / N04 Causality / N07 Retention / P01 Politics / P02 Economy / P03 Law / M03 Fleet / M05 Logistics / G05 Power Creep
 Last Reviewed: 2026-08-04
-Depends On: Ardis opening state, E211–235 cards, operation state and collection/institution state
+Depends On: Ardis opening state, [[ga3-e211-218-episode-cards-v1]], [[ga3-e219-226-episode-cards-v1]], [[ga3-e227-235-episode-cards-v1]], operation state and collection/institution state
 Used By: GA3 progress status and E236–260 production
 Open Risks: later Spine B battle and permanent political settlement are intentionally outside this batch
 

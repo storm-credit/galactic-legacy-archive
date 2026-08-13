@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: G01 Collection Psychology / G02 Rarity-Economy / G03 Roster Synergy / G04 Acquisition-Rewards / G05 Power Creep / G06 Base-Fleet Meta / G07 Loss-Recovery / G08 Game Translation / G09 Reveal Feedback / T06 Regression
 Last Reviewed: 2026-08-03
-Depends On: canon core packet, original timeline, academy bible, game motif harness
+Depends On: [[canon-core-packet-v1]], [[original-timeline-v1]], [[prison-military-academy-bible-v1]], game motif harness
 Used By: Character, equipment, faction, macroplot, episode rewards
 Open Risks: UI overload, person-as-item framing, category inflation, author-convenience reveals
 

@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P02 Economy / P03 Law / P04 Care / P06 Factions / M05 Logistics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E691–697 route map, Orpheus outcome rights and GA7 act map
+Depends On: E691–697 route map, Orpheus outcome rights and [[ga7-episodes-691-800-act-map-v1]]
 Used By: E707–715 emergency route table and B07-01 audit
 
 ## Shared Starting State

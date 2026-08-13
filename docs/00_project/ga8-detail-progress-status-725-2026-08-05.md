@@ -3,7 +3,7 @@
 Status: PROJECT CONTROL — B08-01 COMPLETE
 Owner Agents: A00 PM / O01 Canon / O02 Gates / N01 Architecture / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-05
-Depends On: E801–825 cards, Serrat institution/cast/collection state and B08-01 red team
+Depends On: [[ga8-e801-810-episode-cards-v1]], [[ga8-e811-818-episode-cards-v1]], [[ga8-e819-825-episode-cards-v1]], Serrat institution/cast/collection state and B08-01 red team
 Used By: GA8 E826–850, project reporting and context handoff
 
 ## 1. Current Progress

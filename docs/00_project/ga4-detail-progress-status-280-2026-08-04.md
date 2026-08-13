@@ -3,7 +3,7 @@
 Status: PROJECT CONTROL — B04-02 COMPLETE
 Owner Agents: A00 PM / O01 Canon / O02 Gates / N01 Architecture / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-04
-Depends On: E356–380 cards, compact/cast/loss state, correction 001 and B04-02 red team
+Depends On: [[ga4-e356-360-episode-cards-v1]], [[ga4-e361-368-episode-cards-v1]], [[ga4-e369-376-episode-cards-v1]], [[ga4-e377-380-episode-cards-v1]], compact/cast/loss state, correction 001 and B04-02 red team
 Used By: next GA4 branch, progress reporting and context handoff
 
 ## 1. Current Progress

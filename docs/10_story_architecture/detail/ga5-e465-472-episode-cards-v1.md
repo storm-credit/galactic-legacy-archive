@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / C02 Ensemble / M02 Operational Art / M03 Fleet Operations / M04 Frame Tactics / M06 Intelligence / M07 Command / X01 Logic / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E451–464 cards, Vesper mandate, `세 번째 종` agreement and theater map
-Used By: E473–475 cards, standing intent, loss/readiness state and B05-01 audit
+Depends On: [[ga5-e451-457-episode-cards-v1]], [[ga5-e458-464-episode-cards-v1]], Vesper mandate, `세 번째 종` agreement and theater map
+Used By: [[ga5-e473-475-episode-cards-v1]], standing intent, loss/readiness state and B05-01 audit
 
 ## Shared Starting State
 

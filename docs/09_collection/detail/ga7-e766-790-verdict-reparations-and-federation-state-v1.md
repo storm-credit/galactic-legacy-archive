@@ -3,7 +3,7 @@
 Status: REVIEW — COLLECTION / LOSS / OBLIGATION STATE
 Owner Agents: G01 Collection / G03 Logistics / G05 Economy / P03 Law / P04 Care / M05 Logistics / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-05
-Depends On: E741–765 D4 loss ledger; E766–790 detailed episode cards
+Depends On: E741–765 D4 loss ledger; [[ga7-e766-775-episode-cards-v1]], [[ga7-e776-783-episode-cards-v1]], [[ga7-e784-790-episode-cards-v1]]
 Used By: E791–800 final live test, GA7 cross-audit, GA8 record-war opening
 
 ## 1. Gate

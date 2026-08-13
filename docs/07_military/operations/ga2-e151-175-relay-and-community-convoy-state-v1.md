@@ -3,8 +3,8 @@
 Status: REVIEW — OPERATIONAL/RESOURCE STATE LOCK
 Owner Agents: M02 Operational Art / M03 Fleet Operations / M05 Logistics / T02 Navigation / T03 Life Support / T07 Networks / H02 Ship / H04 Maintenance / H05 Medical / P02 Economy / P03 Law / X01 Logic / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: E151–175 cards, destination-state file, E126–150 operation state
-Used By: E176–200 cards and B02-03 audit
+Depends On: [[ga2-e151-160-episode-cards-v1]], [[ga2-e161-168-episode-cards-v1]], [[ga2-e169-175-episode-cards-v1]], destination-state file, E126–150 operation state
+Used By: [[ga2-e176-185-episode-cards-v1]], [[ga2-e186-193-episode-cards-v1]], [[ga2-e194-200-episode-cards-v1]] and B02-03 audit
 Open Risks: Ardis convoy arrival and held-back support-craft outcome remain next-range work
 
 ## 1. Time Window

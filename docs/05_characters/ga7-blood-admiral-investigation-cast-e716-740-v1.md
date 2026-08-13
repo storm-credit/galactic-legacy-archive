@@ -3,7 +3,7 @@
 Status: REVIEW — WORKING CANON DETAIL
 Owner Agents: C01 Character / C02 Ensemble / C04 Relationships / C06 Voice / P03 Law / M06 Intelligence / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E716–740 cards and Blood Admiral/D4 authority state
+Depends On: [[ga7-e716-723-episode-cards-v1]], [[ga7-e724-732-episode-cards-v1]], [[ga7-e733-740-episode-cards-v1]] and Blood Admiral/D4 authority state
 Used By: E741–775 D4 investigation/consequence and B07-02 audit
 
 ## 1. Meira Sol

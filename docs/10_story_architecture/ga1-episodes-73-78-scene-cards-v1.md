@@ -4,7 +4,7 @@ Status: REVIEW — SCENE-CARD LEVEL
 Owner Agents: N03 Episode / N04 Causality / P02 Political Economy / P04 Education-Class / C02 Ensemble / O01 Canon
 Last Reviewed: 2026-08-03
 Depends On: E72 closure hook, five packages, preference representatives, Academy/07 E73–100 state
-Used By: E79–100 cards, preference map, takeover trigger
+Used By: [[ga1-episodes-79-84-scene-cards-v1]], [[ga1-episodes-85-92-scene-cards-v1]], [[ga1-episodes-93-100-scene-cards-v1]], preference map, takeover trigger
 Open Risks: exact administrator/signatory names and reader-facing budget simplification remain open
 
 ## Shared State at E73 Start

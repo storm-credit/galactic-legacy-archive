@@ -3,7 +3,7 @@
 Status: PROJECT CONTROL — GA2 DETAILED COMPLETE
 Owner Agents: A00 PM / O01 Canon / O02 Gates / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-03
-Depends On: E201–210 cards, route/Ardis state and GA2 final cross-audit
+Depends On: [[ga2-e201-210-episode-cards-v1]], route/Ardis state and GA2 final cross-audit
 Used By: GA3 branch, progress reporting and context handoff
 
 ## 1. Progress

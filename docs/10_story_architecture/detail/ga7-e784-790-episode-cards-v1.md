@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P02 Economy / P03 Law / P04 Care / P06 Factions / M05 Logistics / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E783 Haren judgment, institutional remedies and GA7 act map
+Depends On: E783 Haren judgment, institutional remedies and [[ga7-episodes-691-800-act-map-v1]]
 Used By: E791–800 final federation test, GA7 completion and B07-04 audit
 
 ## Shared Reform State

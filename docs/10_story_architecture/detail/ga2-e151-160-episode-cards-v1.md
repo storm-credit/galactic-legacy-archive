@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N05 Mystery / N06 Payoff / N07 Retention / C02 Ensemble / C03 Opposition / P02 Economy / P03 Law / P04 Care / T03 Life Support / T05 Technology History / T06 Mecha / T07 Networks / H01 Production / H04 Maintenance / H05 Medical / M05 Logistics / G01–G07 Collection / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: E126–150 cards, Jena loss ledger, 061 operation state, technology/interoperability bible
-Used By: E161–175 cards, GA2 2B closure and B02-03 audit
+Depends On: [[ga2-e126-130-episode-cards-v1]], [[ga2-e131-137-episode-cards-v1]], [[ga2-e138-145-episode-cards-v1]], [[ga2-e146-150-episode-cards-v1]], Jena loss ledger, 061 operation state, technology/interoperability bible
+Used By: [[ga2-e161-168-episode-cards-v1]], [[ga2-e169-175-episode-cards-v1]], GA2 2B closure and B02-03 audit
 Open Risks: exact later module servicing cost continues into the convoy arc
 
 ## Shared Opening State

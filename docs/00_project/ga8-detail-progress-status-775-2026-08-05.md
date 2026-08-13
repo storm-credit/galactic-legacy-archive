@@ -3,7 +3,7 @@
 Status: PROJECT CONTROL — B08-03 COMPLETE
 Owner Agents: A00 PM / O01 Canon / O02 Gates / N01 Architecture / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-05
-Depends On: E851–875 cards, Seed institution/cast/collection state and B08-03 red team
+Depends On: [[ga8-e851-860-episode-cards-v1]], [[ga8-e861-868-episode-cards-v1]], [[ga8-e869-875-episode-cards-v1]], Seed institution/cast/collection state and B08-03 red team
 Used By: GA8 E876–900 final batch, project reporting and context handoff
 
 ## 1. Current Progress

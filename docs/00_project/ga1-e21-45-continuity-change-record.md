@@ -4,7 +4,7 @@ Status: CANON PROJECT CONTROL — ACCEPTED CHANGE
 Owner Agent: O01 Canon / O02 Gate Controller / N04 Causality
 Last Reviewed: 2026-08-03
 Depends On: [[opening20-scene-card-status-2026-08-03]], [[first-100-act-map-v1]], core name/voice lock
-Used By: White Dock operation state, E21–45 scene cards, future first-100 map revision
+Used By: White Dock operation state, [[ga1-episodes-21-26-scene-cards-v1]], [[ga1-episodes-27-32-scene-cards-v1]], [[ga1-episodes-33-38-scene-cards-v1]], [[ga1-episodes-39-45-scene-cards-v1]], future [[first-100-act-map-v2-consolidated]] revision
 Open Risks: human/mobile pacing may later compress individual episodes without changing state order
 
 ## 1. Reason for Change

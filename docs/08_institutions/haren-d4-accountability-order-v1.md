@@ -3,7 +3,7 @@
 Status: REVIEW — CANON LOCK CANDIDATE
 Owner Agents: P03 Law / M08 Command Ethics / N06 Ending / X03 Ethics / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: GA7 act map, Blood Admiral record bible, final state matrix, master chronology
+Depends On: [[ga7-episodes-691-800-act-map-v1]], Blood Admiral record bible, final state matrix, [[master-series-chronology-v1]]
 Used By: Episodes 776–800, 1094, Haren final office and victim/claim scenes
 Open Risks: exact affected-region names, casualty simulation and court terminology remain open
 

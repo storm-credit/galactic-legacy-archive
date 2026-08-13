@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: N05 Mystery-Payoff / C02 Ensemble / C05 Psychology / P01 Politics / P10 Ideology / T07 Data-Networks / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: H-001 bible, Archive identity rules, original timeline, GA6/7 route-war design
+Depends On: H-001 bible, Archive identity rules, [[original-timeline-v1]], GA6/7 route-war design
 Used By: Episodes 691–800, Archive displays, testimony/record conflict, GA8 record war
 Open Risks: over-exonerating H-001, mystery overcomplexity, too many commanders/titles
 

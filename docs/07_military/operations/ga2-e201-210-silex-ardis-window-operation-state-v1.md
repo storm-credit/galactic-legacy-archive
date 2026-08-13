@@ -3,8 +3,8 @@
 Status: WORKING CANON — GA2 FINALE OPERATION LOCK
 Owner Agents: T01 Astronomy / T02 Navigation / T03 Life Support / T07 Networks / H02 Ship / H04 Maintenance / M01 Strategy / M02 Operational Art / M03 Fleet / M05 Logistics / M06 Intelligence / P02 Economy / P03 Law / X01 Logic / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: opening route graph, Ardis node engineering, E176–200 incident state, GA2 act map
-Used By: E201–210 detailed cards, GA2 final audit and GA3 E211 opening
+Depends On: opening route graph, Ardis node engineering, E176–200 incident state, [[ga2-episodes-101-210-act-map-v1]]
+Used By: [[ga2-e201-210-episode-cards-v1]], GA2 final audit and GA3 E211 opening
 Open Risks: exact later restoration capacity belongs to GA3 and may not be inferred from this one window
 
 ## 1. Strategic Situation
