@@ -3,7 +3,7 @@
 Status: WORKING CANON — FINAL GA4 OFFICE / VOICE / AUTHORITY LOCK
 Owner Agents: C01 Character Bible / C02 Ensemble / C04 Relationships / C06 Voice / P01 Politics / P03 Law / P04 Care / P06 Factions / M07 Command / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E431–450 cards, claimant cast and all prior GA4 compact/evidence state
+Depends On: [[ga4-e431-438-episode-cards-v1]], [[ga4-e439-444-episode-cards-v1]], [[ga4-e445-450-episode-cards-v1]], claimant cast and all prior GA4 compact/evidence state
 Used By: final GA4 law/state, GA5 fleet claims and all later succession references
 Open Risks: later constitutional settlement may replace offices only through explicit story action
 

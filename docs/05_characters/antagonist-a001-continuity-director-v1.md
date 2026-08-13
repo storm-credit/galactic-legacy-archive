@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: C03 Antagonist-Rival / T04 AI-Neural / P09 Institutions / P10 Ideology / N06 Ending / X03 Ethics
 Last Reviewed: 2026-08-03
-Depends On: Archive origin options, Imperial Intelligence arc, AI law, grand-act map
+Depends On: Archive origin options, Imperial Intelligence arc, AI law, [[1000-episode-grand-act-map-v1]]
 Used By: GA4–10, mystery ledger, final conflict, faction matrix
 Open Risks: Philosophical mouthpiece, late introduction, human-AI ambiguity, overly correct antagonist
 

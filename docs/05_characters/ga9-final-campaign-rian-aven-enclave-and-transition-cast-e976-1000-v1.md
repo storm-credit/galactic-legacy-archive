@@ -3,7 +3,7 @@
 Status: REVIEW — CHARACTER / ROLE STATE
 Owner Agents: C01 Protagonist / C02 Ensemble / C03 Antagonists / C04 Ordinary People / P03 Law / P04 Care / P06 Factions / M07 Command / N06 Ending / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: GA9 E976–1000 cards and final-campaign institution state
+Depends On: [[ga9-e976-985-episode-cards-v1]], [[ga9-e986-993-episode-cards-v1]], [[ga9-e994-1000-episode-cards-v1]] and final-campaign institution state
 Used By: GA10 E1001–1025 and GA9 final cross-audit
 
 ## 1. Gate and Character Rule

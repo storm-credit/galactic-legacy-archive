@@ -3,7 +3,7 @@
 Status: REVIEW — CHARACTER / ROLE STATE
 Owner Agents: C01 Protagonist / C02 Ensemble / C03 Antagonists / C04 Ordinary People / P03 Law / P04 Care / P06 Factions / N06 Ending / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: GA10 E1026–1050 cards and choice institution state
+Depends On: [[ga10-e1026-1035-episode-cards-v1]], [[ga10-e1036-1043-episode-cards-v1]], [[ga10-e1044-1050-episode-cards-v1]] and choice institution state
 Used By: GA10 E1051–1075 and B10-02 audit
 
 ## 1. Gate and Agency Rule

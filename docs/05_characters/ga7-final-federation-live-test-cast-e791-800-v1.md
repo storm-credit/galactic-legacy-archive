@@ -3,7 +3,7 @@
 Status: REVIEW — CHARACTER / ROLE STATE
 Owner Agents: C01 Protagonist / C02 Ensemble / C04 Ordinary People / P03 Law / P04 Care / P06 Factions / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E791–800 detailed episode cards and FB-01 institution state
+Depends On: [[ga7-e791-800-episode-cards-v1]] and FB-01 institution state
 Used By: GA7 final cross-audit and GA8 expedition opening
 
 ## 1. Gate

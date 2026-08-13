@@ -3,7 +3,7 @@
 Status: WORKING CANON — CHARACTER / VOICE / AUTHORITY / WITNESS LOCK
 Owner Agents: C01 Character Bible / C02 Ensemble / C04 Relationships / C06 Voice / P01 Politics / P03 Law / P04 Care / P06 Factions / M03 Fleet / M07 Command / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: [[later-act-officeholders-and-succession-ledger-v1]], E331–355 detailed cards and GA4 act map
+Depends On: [[later-act-officeholders-and-succession-ledger-v1]], [[ga4-e331-337-episode-cards-v1]], [[ga4-e338-345-episode-cards-v1]], [[ga4-e346-353-episode-cards-v1]], [[ga4-e354-355-episode-cards-v1]] and [[ga4-episodes-331-450-act-map-v1]]
 Used By: succession hearing, claimant function state and later GA4 dialogue/agency audits
 Open Risks: final offices and claimant compact remain later GA4 work
 

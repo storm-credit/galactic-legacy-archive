@@ -3,7 +3,7 @@
 Status: WORKING CANON — CHARACTER / VOICE / AUTHORITY / LOSS LOCK
 Owner Agents: C01 Character Bible / C02 Ensemble / C04 Relationships / C06 Voice / P01 Politics / P03 Law / P04 Care / P06 Factions / M05 Logistics / M07 Command / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E381–405 detailed cards, seven-field pilot and parallel-governance crisis state
+Depends On: [[ga4-e381-388-episode-cards-v1]], [[ga4-e389-396-episode-cards-v1]], [[ga4-e397-405-episode-cards-v1]], seven-field pilot and parallel-governance crisis state
 Used By: pilot operation state, loss ledger, B04-03 audit and later compact negotiations
 Open Risks: final post-pilot offices remain later GA4 work
 

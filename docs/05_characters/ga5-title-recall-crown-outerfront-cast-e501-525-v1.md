@@ -3,7 +3,7 @@
 Status: REVIEW — WORKING CANON DETAIL
 Owner Agents: C01 Character / C02 Ensemble / C03 Rival / C04 Relationships / C06 Voice / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E501–525 cards, final commander canon, prior GA5 cast
+Depends On: [[ga5-e501-510-episode-cards-v1]], [[ga5-e511-517-episode-cards-v1]], [[ga5-e518-524-episode-cards-v1]], final commander canon, prior GA5 cast
 Used By: E526–550, Outer Front cooperation and Charter v0.2
 
 ## 1. Asel Varon

@@ -3,7 +3,7 @@
 Status: REVIEW — OPENING CONSEQUENCE LOCK
 Owner Agents: C02 Ensemble / C04 Relationships / P04 Labor / M08 Command Ethics / X03 Ethics / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: White Dock operation state, E21–26 scene cards, Ern Varka bible
+Depends On: White Dock operation state, [[ga1-episodes-21-26-scene-cards-v1]], Ern Varka bible
 Used By: White Dock aftermath, hearings, Black Ward medical links, GA2 identity/route conflict
 Open Risks: minor family names and later recurrence frequency remain adjustable
 

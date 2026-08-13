@@ -3,7 +3,7 @@
 Status: REVIEW — WORKING CANON DETAIL
 Owner Agents: C01 Character / C02 Ensemble / C04 Relationships / C06 Voice / P03 Law / P04 Care / P06 Factions / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E691–715 cards, GA6 aftermath rights, Haren D4 canon and later-officeholder ledger
+Depends On: [[ga7-e691-697-episode-cards-v1]], [[ga7-e698-706-episode-cards-v1]], [[ga7-e707-715-episode-cards-v1]], GA6 aftermath rights, Haren D4 canon and later-officeholder ledger
 Used By: E716–745 signature investigation, E746–800 accountability and B07-01 audit
 
 ## 1. Haren Doan

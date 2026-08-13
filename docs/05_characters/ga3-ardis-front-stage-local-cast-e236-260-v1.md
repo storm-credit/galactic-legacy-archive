@@ -3,7 +3,7 @@
 Status: WORKING CANON — LOCAL CHARACTER / VOICE / AUTHORITY LOCK
 Owner Agents: C01 Character Bible / C02 Ensemble / C04 Relationships / C06 Voice / P01 Politics / P02 Economy / P03 Law / P04 Care / P05 Culture / P06 Factions / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: Toma Cal opening state, Ardis faction/city bibles, E236–260 detailed cards
+Depends On: Toma Cal opening state, Ardis faction/city bibles, [[ga3-e236-240-episode-cards-v1]], [[ga3-e241-247-episode-cards-v1]], [[ga3-e248-254-episode-cards-v1]], [[ga3-e255-260-episode-cards-v1]]
 Used By: later GA3 cards, dialogue/voice checks, loss and succession continuity
 Open Risks: final Korean phonetic collision pass remains required before manuscript
 

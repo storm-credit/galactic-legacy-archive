@@ -3,7 +3,7 @@
 Status: WORKING CANON — CHARACTER / VOICE / AUTHORITY / LOSS LOCK
 Owner Agents: C01 Character Bible / C02 Ensemble / C04 Relationships / C06 Voice / P01 Politics / P03 Law / P04 Care / P06 Factions / M05 Logistics / M07 Command / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E356–380 cards, claimant cast and B04-02 correction 001
+Depends On: [[ga4-e356-360-episode-cards-v1]], [[ga4-e361-368-episode-cards-v1]], [[ga4-e369-376-episode-cards-v1]], [[ga4-e377-380-episode-cards-v1]], claimant cast and B04-02 correction 001
 Used By: revised-compact state, B04-02 audit and later pilot missions
 Open Risks: final compact participation and post-pilot offices remain later work
 

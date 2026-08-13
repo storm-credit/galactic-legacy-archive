@@ -3,7 +3,7 @@
 Status: REVIEW — WORKING CANON DETAIL
 Owner Agents: C01 Character / C02 Ensemble / C04 Relationships / C06 Voice / M07 Command / M08 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: final canonical names, GA5 commander bible, E451–475 cards
+Depends On: final canonical names, GA5 commander bible, [[ga5-e451-457-episode-cards-v1]], [[ga5-e458-464-episode-cards-v1]], [[ga5-e465-472-episode-cards-v1]], [[ga5-e473-475-episode-cards-v1]]
 Used By: E476–510, Charter v0.1, loss/relationship continuity
 
 ## 1. Canon Priority

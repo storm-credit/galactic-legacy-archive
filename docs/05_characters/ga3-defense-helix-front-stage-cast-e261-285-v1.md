@@ -3,7 +3,7 @@
 Status: WORKING CANON — CHARACTER / VOICE / AUTHORITY LOCK
 Owner Agents: C01 Character Bible / C02 Ensemble / C04 Relationships / C06 Voice / P01 Politics / P03 Law / P05 Culture / P06 Factions / M03 Fleet / M07 Command / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: Ardis local cast E236–260, E261–285 cards, military holdings
+Depends On: Ardis local cast E236–260, [[ga3-e261-263-episode-cards-v1]], [[ga3-e264-270-episode-cards-v1]], [[ga3-e271-277-episode-cards-v1]], [[ga3-e278-285-episode-cards-v1]], military holdings
 Used By: later GA3 defense, receivership and denial arcs
 Open Risks: phonetic collision pass before manuscript
 

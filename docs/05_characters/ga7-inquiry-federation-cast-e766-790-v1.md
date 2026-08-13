@@ -3,7 +3,7 @@
 Status: REVIEW — CHARACTER / ROLE STATE
 Owner Agents: C01 Protagonist / C02 Ensemble / C03 Antagonists / C04 Ordinary People / P03 Law / P04 Care / P06 Factions / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E741–765 D4 crisis cast; E766–790 detailed episode cards
+Depends On: E741–765 D4 crisis cast; [[ga7-e766-775-episode-cards-v1]], [[ga7-e776-783-episode-cards-v1]], [[ga7-e784-790-episode-cards-v1]]
 Used By: E791–800 live test, GA7 final cross-audit, GA8 record-war opening
 
 ## 1. Gate and Purpose

@@ -3,7 +3,7 @@
 Status: REVIEW — HUMAN CONSEQUENCE LOCK
 Owner Agents: C02 Ensemble / M08 Command Ethics / X03 Ethics / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: Academy siege state, E85–96 scene cards
+Depends On: Academy siege state, [[ga1-episodes-85-92-scene-cards-v1]], [[ga1-episodes-93-100-scene-cards-v1]]
 Used By: E85–100 aftermath, compensation/memorial, later charter accountability
 Open Risks: family names and exact memorial/claim outcomes may expand later
 
