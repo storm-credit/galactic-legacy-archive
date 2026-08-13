@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: P02 Political Economy / M05 Logistics / T02 Navigation / P08 Third Powers / H04 Maintenance / X01 Logic
 Last Reviewed: 2026-08-03
-Depends On: macro economy/price bible, opening route graph, late-series atlas, faction systems
+Depends On: [[macro-economy-currency-and-price-bible-v1]], [[opening-region-route-graph-v1]], [[ga10-transition-regions-and-service-state-atlas-v1]], faction systems
 Used By: regional conflicts, embargoes, fleet logistics, evacuation and transition
 Open Risks: exact output tonnage, final region/commodity names, detailed per-act shocks
 

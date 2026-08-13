@@ -3,7 +3,7 @@
 Status: CANON PROJECT CONTROL
 Owner Agents: O01 Canon / H02 Ship Architecture / M03 Fleet Operations / M05 Logistics / X01 Logic / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: first-ship-bible-v1, ga2-first-ship-crew-bible-v1
+Depends On: [[first-ship-bible-v1]], [[ga2-first-ship-crew-bible-v1]]
 Used By: all GA2 crew, watch, payroll, certification and casualty design
 
 ## 1. Error

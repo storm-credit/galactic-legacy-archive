@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: T01 Astronomy / T02 Navigation / P05 Culture / T07 Networks / N05 Mystery / M05 Logistics / W05 Spatial Description
 Last Reviewed: 2026-08-03
-Depends On: GA8 archive architecture, known lattice scale, final chronology, Service Authorities A–G
+Depends On: GA8 archive architecture, known lattice scale, [[master-series-chronology-v1]], Service Authorities A–G
 Used By: Episodes 801–900, record-war logistics, factions, archive access and GA9 activation
 Open Risks: final proper nouns, exact orbital mechanics, local supporting cast still open
 

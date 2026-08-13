@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: P05 Culture-Language / C02 Ensemble / C04 Relationships / C06 Voice / W06 Ordinary Life / R07 Similarity
 Last Reviewed: 2026-08-03
-Depends On: opening cast, academy, faction bible, galaxy social structure
+Depends On: opening cast, academy, [[initial-five-faction-bible-v1]], galaxy social structure
 Used By: Final naming, dialogue, dorm/class/workshop scenes, food/ritual/world texture
 Open Risks: Name palette not yet reader-tested, cultural flattening, overfunctional hobbies
 

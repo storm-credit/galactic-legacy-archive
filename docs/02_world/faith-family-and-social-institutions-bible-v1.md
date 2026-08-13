@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: P04 Class-Family / P05 Culture-Language / P03 Law / C05 Psychology / W06 Ordinary Life / X03 Ethics
 Last Reviewed: 2026-08-03
-Depends On: opening culture packet, identity law, Academy, Orsen/Ardis/Palimpsest atlases
+Depends On: [[opening-culture-naming-ordinary-life-packet-v1]], identity law, Academy, Orsen/Ardis/Palimpsest atlases
 Used By: character backgrounds, communities, family stakes, rituals, marriage/guardianship and social conflict
 Open Risks: over-systematizing private life, Earth-religion analogues, romance policy still requires character-specific application
 

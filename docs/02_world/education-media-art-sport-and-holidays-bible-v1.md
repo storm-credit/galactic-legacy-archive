@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: P04 Education-Class / P05 Culture-Language / W06 Ordinary Life / N07 Reader Reward / C02 Ensemble / X02 Memory
 Last Reviewed: 2026-08-03
-Depends On: faith/family bible, opening culture packet, Academy, regional atlases and economy
+Depends On: [[faith-family-and-social-institutions-bible-v1]], [[opening-culture-naming-ordinary-life-packet-v1]], Academy, regional atlases and economy
 Used By: ordinary-life scenes, youth/adult institutions, public narrative, celebration, propaganda and recovery
 Open Risks: excessive proper nouns, every cultural practice serving the main plot, later regional style overlap
 

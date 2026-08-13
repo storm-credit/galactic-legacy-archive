@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: T02 Navigation-Comms / T03 Energy-Thermal-Life Support / T07 Networks / M03 Fleet Operations / M04 Frame Doctrine / H03 Weapons-Sensors / H06 Combat Physics
 Last Reviewed: 2026-08-03
-Depends On: lattice-war physics, Ardis city bible, first ship/07, Service Authority D, regional route graph
+Depends On: [[lattice-war-physics-and-ai-law]], [[ardis-node-city-bible-v1]], first ship/07, Service Authority D, [[opening-region-route-graph-v1]]
 Used By: Episodes 211–330, siege maps, node repair phases, collection registry
 Open Risks: Exact equations and visual geometry remain provisional; later Continuity Seed reveal must not invalidate current mechanics
 

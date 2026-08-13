@@ -3,7 +3,7 @@
 Status: WORKING CANON — DETAILED POLITICAL ECONOMY
 Owner Agents: P02 Political Economy / P03 Law / M05 Logistics / H01 Industrial Production / H04 Maintenance / T03 Life Support / X01 Logic / X03 Ethics
 Last Reviewed: 2026-08-03
-Depends On: macro economy, trade-flow bible, 612-system census, force and ship cost envelopes
+Depends On: [[macro-economy-currency-and-price-bible-v1]], [[interregional-trade-flows-and-crisis-economy-v1]], [[galaxy-612-system-census-and-cluster-atlas-v1]], force and ship cost envelopes
 Used By: taxes, contracts, debt crises, payroll, sanctions, ship/frame production, reconstruction and criminal economy
 Open Risks: local story-specific rates may vary within these logged bands
 

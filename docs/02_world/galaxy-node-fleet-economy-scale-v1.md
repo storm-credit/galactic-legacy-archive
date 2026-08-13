@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: T01 Astronomy / T02 Navigation-Comms / P02 Political Economy / M01 Grand Strategy / M03 Fleet Operations / M05 Logistics / H02 Ship Architecture
 Last Reviewed: 2026-08-03
-Depends On: lattice physics, original timeline, 10-grand-act map, academy calibration
+Depends On: [[lattice-war-physics-and-ai-law]], [[original-timeline-v1]], [[1000-episode-grand-act-map-v1]], [[academy-scale-law-calibration-v1]]
 Used By: GA2+, faction force tables, travel times, fleet battles, resource costs
 Open Risks: Exact astronomical map and currency remain open; ranges may tighten after GA2 ship design
 

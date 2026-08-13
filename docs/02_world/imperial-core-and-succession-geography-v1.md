@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: T01 Astronomy / T02 Navigation-Comms / P01 Politics / P02 Political Economy / M01 Grand Strategy / M03 Fleet Operations / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: galaxy scale, Lumen Corridor, Ardis ending, original timeline
+Depends On: [[galaxy-node-fleet-economy-scale-v1]], Lumen Corridor, Ardis ending, [[original-timeline-v1]]
 Used By: GA4 claimants, succession clocks, travel/communication, episodes 331–450
 Open Risks: Final names, star map and military basing remain provisional
 

@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: P01 Politics / P02 Economy / P03 Law / P09 Institutions / T02 Navigation / T07 Networks / M01 Strategy / X03 Ethics
 Last Reviewed: 2026-08-03
-Depends On: staged distribution bible, GA9 regional atlas, final chronology and ending roles
+Depends On: [[ga10-staged-distribution-and-transition-bible-v1]], [[ga9-preservation-regime-regional-atlas-v1]], final chronology and ending roles
 Used By: Episodes 1001–1100, transition war, ending state and epilogue
 Open Risks: exact casualty/service ranges, final local names and supporting cast
 

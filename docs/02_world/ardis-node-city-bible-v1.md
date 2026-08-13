@@ -3,8 +3,8 @@
 Status: REVIEW
 Owner Agents: T01 Astronomy / T02 Navigation / T03 Habitat Systems / P02 Political Economy / P04 Class-Society / P05 Culture / M05 Logistics / N08 Faction Arcs
 Last Reviewed: 2026-08-03
-Depends On: Lumen Corridor graph, galaxy scale, GA2 ending, lattice physics
-Used By: Episodes 211–330, local faction bible, node engineering, GA3 collection registry
+Depends On: Lumen Corridor graph, [[galaxy-node-fleet-economy-scale-v1]], GA2 ending, [[lattice-war-physics-and-ai-law]]
+Used By: Episodes 211–330, local faction bible, [[ardis-node-engineering-and-battle-bible-v1]], GA3 collection registry
 Open Risks: Final names and visual art, exact orbital mechanics, later GA4 political consequences
 
 ## 1. Core Identity

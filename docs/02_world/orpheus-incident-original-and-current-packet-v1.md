@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: M01 Grand Strategy / M03 Fleet Operations / M05 Logistics / M08 Command Ethics / T02 Navigation / T03 Life Support / P03 Law / N05 Mystery-Payoff
 Last Reviewed: 2026-08-03
-Depends On: original timeline, Vesper theater, ownerless fleet charter, Archive payoff ledger
+Depends On: [[original-timeline-v1]], Vesper theater, [[ownerless-fleet-structure-and-alignment-v1]], [[series-payoff-ledger-v1]]
 Used By: Episodes 571–690, P-001 trauma, GA6 collection registry, GA8 Archive value-function reveal
 Open Risks: exact casualty numbers and hostile force composition may adjust after battle simulation; final place names provisional
 

@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: P05 Culture-Language / T04 AI-Personhood / W06 Ordinary Life / C02 Ensemble / P04 Family-Class / X03 Ethics
 Last Reviewed: 2026-08-03
-Depends On: late-series atlas, faith/family bible, education/media/art bible, Aurel and transition bibles
+Depends On: [[ga10-transition-regions-and-service-state-atlas-v1]], [[faith-family-and-social-institutions-bible-v1]], education/media/art bible, Aurel and transition bibles
 Used By: GA4–GA10 supporting cast, locations, civilian stakes, AI/person scenes and epilogue
 Open Risks: cultures becoming policy allegories, AI life becoming disembodied, regional proper-noun density
 

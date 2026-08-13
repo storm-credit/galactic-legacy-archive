@@ -3,7 +3,7 @@
 Status: REVIEW — RECOMMENDED HYBRID SELECTED
 Owner Agents: M03 Fleet Operations / M04 Mecha Doctrine / H01 Mecha Engineering / H03 Weapons-Sensors / H06 Combat Physics
 Last Reviewed: 2026-08-03
-Depends On: Travel-communication rules, AI law, station architecture, military doctrine
+Depends On: Travel-communication rules, [[lattice-war-physics-and-ai-law]], station architecture, military doctrine
 Used By: World bible, combat bible, collection system, first 100 episodes
 Open Risks: Artificial anti-missile rule, excessive humanoid fetish, ace monopoly, physics burden
 

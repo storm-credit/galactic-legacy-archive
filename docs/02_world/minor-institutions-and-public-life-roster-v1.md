@@ -3,7 +3,7 @@
 Status: WORKING CANON — FRONT-STAGE INSTITUTION POOL
 Owner Agents: P01 Politics / P02 Political Economy / P03 Law / P04 Family-Care / P05 Culture / P06 Factions / W06 Ordinary Life / C02 Ensemble / X02 Reader Memory / X03 Ethics
 Last Reviewed: 2026-08-03
-Depends On: 612-system census, social/culture bibles, economy, faction and succession files
+Depends On: [[galaxy-612-system-census-and-cluster-atlas-v1]], social/culture bibles, economy, faction and succession files
 Used By: local arcs, news, schools, labor, sport, faith, care, finance, public opinion and ordinary focal characters
 Open Risks: activate only functionally distinct organizations; reader-facing proper-noun limits still apply
 
