@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P02 Economy / P03 Law / P04 Care / P06 Factions / M05 Logistics / M06 Intelligence / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: GA9 E901–925 Perfect Route performance and friction ledgers
-Used By: E936–950 linked-case remedy and B09-02 audit
+Depends On: GA9 E901–925 Perfect Route performance and friction ledgers, [[ga9-e901-910-episode-cards-v1]], [[ga9-e911-918-episode-cards-v1]], [[ga9-e919-925-episode-cards-v1]], [[ga9-episodes-901-1000-act-map-v1]]
+Used By: E936–950 linked-case remedy and B09-02 audit, [[ga9-e936-943-episode-cards-v1]], [[ga9-e944-950-episode-cards-v1]]
 
 ## Shared Starting State
 

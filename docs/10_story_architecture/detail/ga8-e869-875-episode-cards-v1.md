@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P03 Law / P04 Care / P06 Factions / M05 Logistics / M06 Intelligence / G04 AI / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E851–868 Seed architecture, omission audit and six-function separation
-Used By: E876–900 activation conflict, B08-03 institution/cast/collection state and audit
+Depends On: E851–868 Seed architecture, omission audit and six-function separation, [[ga8-e851-860-episode-cards-v1]], [[ga8-e861-868-episode-cards-v1]], [[ga8-episodes-801-900-act-map-v1]]
+Used By: E876–900 activation conflict, B08-03 institution/cast/collection state and audit, [[ga8-e876-885-episode-cards-v1]], [[ga8-e886-893-episode-cards-v1]], [[ga8-e894-900-episode-cards-v1]]
 
 ## Shared Closing State
 

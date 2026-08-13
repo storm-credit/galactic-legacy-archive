@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / C02 Ensemble / P04 Care / M02 Operational Art / M03 Fleet / M05 Logistics / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E551–554, under-resourced V10 state and five-front campaign
-Used By: E564–570 final Charter/network state and GA5 audit
+Depends On: E551–554, under-resourced V10 state and five-front campaign, [[ga5-e551-554-episode-cards-v1]], [[ga5-episodes-451-570-act-map-v1]]
+Used By: E564–570 final Charter/network state and GA5 audit, [[ga5-e564-570-episode-cards-v1]]
 
 ## V10 Current Set
 

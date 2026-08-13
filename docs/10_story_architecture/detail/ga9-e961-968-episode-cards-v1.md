@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P03 Law / P04 Care / P06 Factions / M05 Logistics / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E951–960 key authorization and initial activation
-Used By: E969–975 extension/inquiry and B09-03 audit
+Depends On: E951–960 key authorization and initial activation, [[ga9-e951-960-episode-cards-v1]], [[ga9-episodes-901-1000-act-map-v1]]
+Used By: E969–975 extension/inquiry and B09-03 audit, [[ga9-e969-975-episode-cards-v1]]
 
 ## Shared Live Operation State
 

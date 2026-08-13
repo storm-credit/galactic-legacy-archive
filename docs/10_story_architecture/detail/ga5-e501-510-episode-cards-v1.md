@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P02 Economy / P03 Law / P04 Care / M05 Logistics / M08 Ethics / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E495–500 rescue state, Charter v0.1 term, maintenance/pay state
-Used By: E511–525, title trust, formation growth and B05-03 audit
+Depends On: E495–500 rescue state, Charter v0.1 term, maintenance/pay state, [[ga5-e495-500-episode-cards-v1]], [[ga5-episodes-451-570-act-map-v1]]
+Used By: E511–525, title trust, formation growth and B05-03 audit, [[ga5-e511-517-episode-cards-v1]], [[ga5-e518-524-episode-cards-v1]], [[ga5-e525-episode-card-v1]]
 
 ## Shared Starting State
 

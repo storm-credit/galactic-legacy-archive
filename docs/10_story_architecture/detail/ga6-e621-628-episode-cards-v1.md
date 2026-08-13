@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / M01 Strategy / M03 Fleet / M05 Logistics / M07 Evacuation / P04 Care / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E596–620 manifest/plan state, GA5 Charter v1.0 and Orpheus OOB
-Used By: E629–645 stress tests and B06-03 audit
+Depends On: E596–620 manifest/plan state, GA5 Charter v1.0 and Orpheus OOB, [[ga6-e596-603-episode-cards-v1]], [[ga6-e604-611-episode-cards-v1]], [[ga6-e612-620-episode-cards-v1]], [[ga6-episodes-571-690-act-map-v1]]
+Used By: E629–645 stress tests and B06-03 audit, [[ga6-e629-637-episode-cards-v1]], [[ga6-e638-645-episode-cards-v1]]
 
 ## Shared Starting State
 

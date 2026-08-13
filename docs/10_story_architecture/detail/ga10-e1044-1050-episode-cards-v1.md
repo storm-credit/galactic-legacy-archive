@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N06 Ending / P02 Economy / P03 Law / P04 Care / P06 Factions / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E1026–1043 node mandates, compact operation and choice-capacity reforms
-Used By: GA10 E1051–1075 and B10-02 audit
+Depends On: E1026–1043 node mandates, compact operation and choice-capacity reforms, [[ga10-e1026-1035-episode-cards-v1]], [[ga10-e1036-1043-episode-cards-v1]], [[ga10-episodes-1001-1100-act-map-v1]]
+Used By: GA10 E1051–1075 and B10-02 audit, [[ga10-e1051-1060-episode-cards-v1]], [[ga10-e1061-1068-episode-cards-v1]], [[ga10-e1069-1075-episode-cards-v1]]
 
 ## Shared Settlement State
 

@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / T02 Navigation / T03 Life Support / M05 Logistics / M07 Evacuation / P04 Care / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E571–584, opening OOB/route state and Common Fact Board
-Used By: E591–595, route dependency ledger and B06-01 audit
+Depends On: E571–584, opening OOB/route state and Common Fact Board, [[ga6-e571-577-episode-cards-v1]], [[ga6-e578-584-episode-cards-v1]], [[ga6-episodes-571-690-act-map-v1]]
+Used By: E591–595, route dependency ledger and B06-01 audit, [[ga6-e591-595-episode-cards-v1]]
 
 ## Shared Starting State
 

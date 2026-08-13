@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P02 Economy / P03 Law / P04 Care / M05 Logistics / M08 Ethics / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E451–494, maintenance board, pay/family carryover
-Used By: E501–510 surrendered formation/title trust and B05-02 audit
+Depends On: E451–494, maintenance board, pay/family carryover, [[ga5-e451-457-episode-cards-v1]], [[ga5-e458-464-episode-cards-v1]], [[ga5-e465-472-episode-cards-v1]], [[ga5-e473-475-episode-cards-v1]], [[ga5-e476-480-episode-cards-v1]], [[ga5-e481-487-episode-cards-v1]], [[ga5-e488-494-episode-cards-v1]], [[ga5-episodes-451-570-act-map-v1]]
+Used By: E501–510 surrendered formation/title trust and B05-02 audit, [[ga5-e501-510-episode-cards-v1]]
 
 ## Shared Starting State
 

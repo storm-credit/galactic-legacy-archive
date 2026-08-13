@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N06 Ending / P03 Law / P04 Care / P06 Factions / M05 Logistics / M06 Intelligence / G04 AI / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E876–893 Seed activation, restriction/deletion ledgers and preliminary review
+Depends On: E876–893 Seed activation, restriction/deletion ledgers and preliminary review, [[ga8-e876-885-episode-cards-v1]], [[ga8-e886-893-episode-cards-v1]], [[ga8-episodes-801-900-act-map-v1]]
 Used By: GA8 final institution/cast/collection state, full cross-audit and GA9 opening
 
 ## Shared Settlement State

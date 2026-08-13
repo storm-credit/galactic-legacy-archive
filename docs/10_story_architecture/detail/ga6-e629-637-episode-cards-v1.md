@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / M01 Strategy / M03 Fleet / M05 Logistics / M07 Evacuation / M08 Ethics / P04 Care / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E621–628 OOB/hostile state and E618–620 preliminary plans
-Used By: E638–645 provisional lists, later plan selection and B06-03 audit
+Depends On: E621–628 OOB/hostile state and E618–620 preliminary plans, [[ga6-e621-628-episode-cards-v1]], [[ga6-e612-620-episode-cards-v1]], [[ga6-episodes-571-690-act-map-v1]]
+Used By: E638–645 provisional lists, later plan selection and B06-03 audit, [[ga6-e638-645-episode-cards-v1]]
 
 ## Common Stress Frame
 

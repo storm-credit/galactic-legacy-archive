@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / C02 Ensemble / P03 Law / P04 Care / M05 Logistics / M07 Evacuation / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E571–577, State/civil/local actor bibles and Orpheus packet
-Used By: E585–595, manifest/function decomposition and B06-01 audit
+Depends On: E571–577, State/civil/local actor bibles and Orpheus packet, [[ga6-e571-577-episode-cards-v1]], [[ga6-episodes-571-690-act-map-v1]]
+Used By: E585–595, manifest/function decomposition and B06-01 audit, [[ga6-e585-590-episode-cards-v1]], [[ga6-e591-595-episode-cards-v1]]
 
 ## Shared Starting State
 

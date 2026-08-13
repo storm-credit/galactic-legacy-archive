@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / C03 Rival / M01 Strategy / M03 Fleet / P06 Factions / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E518–524, Outer Front theater map, final FC code canon
-Used By: E526–550, Outer Front cooperation and B05-03 audit
+Depends On: E518–524, Outer Front theater map, final FC code canon, [[ga5-e518-524-episode-cards-v1]], [[ga5-episodes-451-570-act-map-v1]]
+Used By: E526–550, Outer Front cooperation and B05-03 audit, [[ga5-e526-533-episode-cards-v1]], [[ga5-e534-540-episode-cards-v1]], [[ga5-e541-547-episode-cards-v1]], [[ga5-e548-550-episode-cards-v1]]
 
 ## Canon Code Rule
 

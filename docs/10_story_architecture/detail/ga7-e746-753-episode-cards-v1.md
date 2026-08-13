@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / C02 Ensemble / P03 Law / P04 Care / P06 Factions / M01 Strategy / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E741–745 D4 process, Haren accountability canon and affected-region evidence
-Used By: E754–775 D4 consequence/accountability and B07-03 audit
+Depends On: E741–745 D4 process, Haren accountability canon and affected-region evidence, [[ga7-e741-745-episode-cards-v1]], [[ga7-episodes-691-800-act-map-v1]]
+Used By: E754–775 D4 consequence/accountability and B07-03 audit, [[ga7-e754-765-episode-cards-v1]], [[ga7-e766-775-episode-cards-v1]]
 
 ## Shared Crisis State
 

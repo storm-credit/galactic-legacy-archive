@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / C02 Ensemble / P03 Law / P04 Care / M05 Logistics / M07 Evacuation / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: GA5 final state, GA6 opening OOB and Orpheus packet
-Used By: E578–595, Common Fact Board and B06-01 audit
+Depends On: GA5 final state, GA6 opening OOB and Orpheus packet, [[ga6-episodes-571-690-act-map-v1]]
+Used By: E578–595, Common Fact Board and B06-01 audit, [[ga6-e578-584-episode-cards-v1]], [[ga6-e585-590-episode-cards-v1]], [[ga6-e591-595-episode-cards-v1]]
 
 ## Shared Opening State
 

@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P02 Economy / P03 Law / P04 Care / M03 Fleet / M05 Logistics / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E526–533 operation, v0.1-R2 expiry, recall/title/pay states
-Used By: E541–550 campaign planning, Charter v0.2 and B05-04 audit
+Depends On: E526–533 operation, v0.1-R2 expiry, recall/title/pay states, [[ga5-e526-533-episode-cards-v1]], [[ga5-episodes-451-570-act-map-v1]]
+Used By: E541–550 campaign planning, Charter v0.2 and B05-04 audit, [[ga5-e541-547-episode-cards-v1]], [[ga5-e548-550-episode-cards-v1]]
 
 ## Shared Starting State
 

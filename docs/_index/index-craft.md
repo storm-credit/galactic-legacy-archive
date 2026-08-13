@@ -51,8 +51,8 @@
 | [[ga5-e451-475-vesper-opening-oob-and-alignment-state-v1|ga5-e451-475-vesper-opening-oob-and-alignment-state-v1]] | GA5 E451–475 Vesper Opening OOB & Alignment State v1 | REVIEW |
 | [[ga5-e476-500-charter-tender-maintenance-pay-operation-state-v1|ga5-e476-500-charter-tender-maintenance-pay-operation-state-v1]] | GA5 E476–500 Charter, Tender, Maintenance & Pay Operation… | REVIEW |
 | [[ga5-e501-525-title-recall-crown-outerfront-operation-state-v1|ga5-e501-525-title-recall-crown-outerfront-operation-state-v1]] | GA5 E501–525 Title, Recall, Crown & Outer Front Operation… | REVIEW |
-| [[docs/07_military/operations/ga5-e526-550-outerfront-charter-v02-campaign-state-v1|ga5-e526-550-outerfront-charter-v02-campaign-state-v1]] | GA5 E526–550 Outer Front, Charter v0.2 & Campaign State v1 | REVIEW |
-| [[docs/07_military/operations/ga5-e551-570-final-campaign-charter-v10-state-v1|ga5-e551-570-final-campaign-charter-v10-state-v1]] | GA5 E551–570 Final Campaign & Charter v1.0 State v1 | REVIEW |
+| [[ga5-e526-550-outerfront-charter-v02-campaign-state-v1|ga5-e526-550-outerfront-charter-v02-campaign-state-v1]] | GA5 E526–550 Outer Front, Charter v0.2 & Campaign State v1 | REVIEW |
+| [[ga5-e551-570-final-campaign-charter-v10-state-v1|ga5-e551-570-final-campaign-charter-v10-state-v1]] | GA5 E551–570 Final Campaign & Charter v1.0 State v1 | REVIEW |
 | [[ga6-e571-595-orpheus-opening-oob-and-fact-state-v1|ga6-e571-595-orpheus-opening-oob-and-fact-state-v1]] | GA6 E571–595 Orpheus Opening OOB & Common-Fact State v1 | REVIEW |
 | [[ga6-e596-620-function-manifest-plan-comparison-state-v1|ga6-e596-620-function-manifest-plan-comparison-state-v1]] | GA6 E596–620 Function, Manifest & Plan-Comparison State v1 | REVIEW |
 | [[ga6-e621-645-approach-stress-and-provisional-list-state-v1|ga6-e621-645-approach-stress-and-provisional-list-state-v1]] | GA6 E621–645 Approach Stress & Provisional List State v1 | REVIEW |

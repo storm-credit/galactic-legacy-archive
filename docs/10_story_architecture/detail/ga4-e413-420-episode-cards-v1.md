@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C01 Character / C02 Ensemble / C04 Relationships / P01 Politics / P02 Economy / P03 Law / P04 Care / P06 Factions / T02 Navigation / T07 Networks / M03 Fleet / M05 Logistics / M07 Command / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E406–412 Sovereign Reference draft and seven-field pilot expiry
-Used By: E421–430 key/force/service crisis, post-pilot state and B04-04 audit
+Depends On: E406–412 Sovereign Reference draft and seven-field pilot expiry, [[ga4-e406-412-episode-cards-v1]], [[ga4-episodes-331-450-act-map-v1]]
+Used By: E421–430 key/force/service crisis, post-pilot state and B04-04 audit, [[ga4-e421-430-episode-cards-v1]]
 Open Risks: no post-pilot arrangement is the final empire-wide compact
 
 ## Shared Post-Pilot State

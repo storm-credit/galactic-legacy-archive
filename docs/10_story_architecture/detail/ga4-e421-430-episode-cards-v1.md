@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C01 Character / C02 Ensemble / C04 Relationships / P01 Politics / P02 Economy / P03 Law / P04 Care / P06 Factions / T02 Navigation / T03 Habitat Systems / T07 Networks / H03 Sensors / H04 Maintenance / H05 Medical / M01 Strategy / M02 Operational Art / M03 Fleet / M05 Logistics / M06 Intelligence / M07 Command / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E406–420 Sovereign Reference draft, post-pilot arrangements and claimant protocols
-Used By: E431–450 final GA4 cards, K-5 state and B04-04 audit
+Depends On: E406–420 Sovereign Reference draft, post-pilot arrangements and claimant protocols, [[ga4-e406-412-episode-cards-v1]], [[ga4-e413-420-episode-cards-v1]], [[ga4-episodes-331-450-act-map-v1]]
+Used By: E431–450 final GA4 cards, K-5 state and B04-04 audit, [[ga4-e431-438-episode-cards-v1]], [[ga4-e439-444-episode-cards-v1]], [[ga4-e445-450-episode-cards-v1]]
 Open Risks: one bounded state certificate cannot become accession or permanent key transfer
 
 ## Shared K-5 Crisis State

@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P03 Law / P04 Care / P06 Factions / M05 Logistics / M06 Intelligence / G04 AI / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E885 automatic expiry and incomplete Twelve Lanterns stabilization
-Used By: E894–900 final settlement, GA8 cross-audit and GA9 handoff
+Depends On: E885 automatic expiry and incomplete Twelve Lanterns stabilization, [[ga8-e876-885-episode-cards-v1]], [[ga8-episodes-801-900-act-map-v1]]
+Used By: E894–900 final settlement, GA8 cross-audit and GA9 handoff, [[ga8-e894-900-episode-cards-v1]]
 
 ## Shared Continuation State
 

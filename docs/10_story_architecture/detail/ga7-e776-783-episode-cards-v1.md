@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P03 Law / P04 Care / P06 Factions / M06 Intelligence / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E766–775 joint facts, Haren final-state canon and Blood Admiral composite finding
-Used By: E784–800 route-federation reform and B07-04 audit
+Depends On: E766–775 joint facts, Haren final-state canon and Blood Admiral composite finding, [[ga7-e766-775-episode-cards-v1]], [[ga7-episodes-691-800-act-map-v1]]
+Used By: E784–800 route-federation reform and B07-04 audit, [[ga7-e784-790-episode-cards-v1]], [[ga7-e791-800-episode-cards-v1]]
 
 ## Shared Inquiry State
 

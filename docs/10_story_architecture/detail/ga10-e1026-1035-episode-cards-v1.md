@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N06 Ending / P02 Economy / P03 Law / P04 Care / P06 Factions / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E1025 transition expiry and distributed-module state
-Used By: E1036–1050 choice compacts and B10-02 audit
+Depends On: E1025 transition expiry and distributed-module state, [[ga10-e1019-1025-episode-cards-v1]], [[ga10-episodes-1001-1100-act-map-v1]]
+Used By: E1036–1050 choice compacts and B10-02 audit, [[ga10-e1036-1043-episode-cards-v1]], [[ga10-e1044-1050-episode-cards-v1]]
 
 ## Shared Opening State
 

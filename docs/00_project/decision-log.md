@@ -574,3 +574,48 @@ D-20260806-01은 상한을 "유연"하게 했을 뿐 5,500~6,500자 진단 범�
 ### Reversal Condition
 
 플랫폼·공모전 규정이 확정되고 그 규정이 회차 상한을 정하면 해당 규정이 우선한다.
+
+## D-20260813-01 — 파일명 충돌 3쌍 해소와 모호 링크 검사 추가
+Status: ACCEPTED
+Date: 2026-08-13
+Decision Owner: 작가 (지시), A00 Novel PM Orchestrator (실행)
+
+### Context
+
+저장소에 같은 파일명을 쓰는 문서가 세 쌍 있었다. CLAUDE.md §11-2는 "파일명이 저장소 전체에서 유일하므로" 확장자·폴더 없는 위키링크로 충분하다고 전제하는데, 그 전제가 깨져 있었다.
+
+- `ga5-e526-550-outerfront-charter-v02-campaign-state-v1` — 07_military(작전 상태)와 09_collection(수집 상태)에 각각 하나.
+- `ga5-e551-570-final-campaign-charter-v10-state-v1` — 같은 구조.
+- `README` — 저장소 루트, `docs/00_project/`, `docs/_entities/`에 각각 하나.
+
+앞 두 쌍은 상태 문서 두 곳이 전체 경로 형태로 링크하고 있어 눈에 띄었다. 세 번째가 실제 사고였다. 엔티티 노트 9개와 설계 문서 1개가 `[[README]]`로 **엔티티 노트 규약**(`docs/_entities/README.md`)을 가리키려 했지만, 검증기와 옵시디언 모두 이를 루트 `README.md`로 조용히 해석했다. 링크는 깨지지 않았고, 검사도 통과했으며, 가리키는 문서만 틀렸다.
+
+### Options Considered
+
+- A. 09_collection 쪽 두 파일을 개명하고, README는 전체 경로 링크로 해소 — **채택**. 두 수집 문서는 자기 H1 제목이 이미 "Collection State"라서 파일명이 제목을 따라가지 않고 있었을 뿐이다. README는 디렉터리 관례라 개명이 오히려 손해다.
+- B. 세 쌍 모두 개명 — 루트 `README.md`는 깃허브 관례상 개명할 수 없다.
+- C. 세 쌍 모두 전체 경로 링크로 해소 — 충돌 자체가 남아 다음 링크 작성자가 같은 함정을 밟는다.
+
+### Decision
+
+- `docs/09_collection/detail/ga5-e526-550-outerfront-charter-v02-campaign-state-v1.md` → `…-campaign-collection-state-v1.md`
+- `docs/09_collection/detail/ga5-e551-570-final-campaign-charter-v10-state-v1.md` → `…-charter-v10-collection-state-v1.md`
+- `[[README]]` 10건을 `[[docs/_entities/README]]`로 교체.
+- `tools/validate_canon.py` C1에 검사 추가: **경로 없는 위키링크가 둘 이상의 파일명과 일치하면 ERROR**. 종전 C1은 경로 일치를 먼저 확인했기 때문에 루트 `README.md`가 있으면 `[[README]]`를 통과시켰다. `--selftest` 픽스처 2개를 함께 추가해 검사가 실제로 발화함을 증명했다 (CLAUDE.md §13).
+
+### Consequences
+
+- 07_military 쪽 두 문서를 가리키던 전체 경로 링크는 이제 맨 파일명으로 줄었다. 이름이 유일해졌기 때문이다.
+- 엔티티 노트 배너가 가리키는 규약 문서가 처음으로 실제 규약 문서다.
+- 앞으로 같은 종류의 결함은 사람 리뷰가 아니라 C1이 막는다.
+
+### Affected Documents
+
+- [[ga5-detail-progress-status-450-2026-08-04]]
+- [[ga5-detail-completion-status-470-2026-08-04]]
+- [[entity-layer-design-options-and-blindspot-sweep-2026-08-08]]
+- [[docs/_entities/README]]
+
+### Reversal Condition
+
+없음. 파일명 유일성은 CLAUDE.md §11-2의 전제이므로 되돌릴 이유가 없다.

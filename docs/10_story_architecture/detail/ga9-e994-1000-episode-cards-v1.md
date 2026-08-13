@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N06 Ending / P03 Law / P04 Care / P06 Factions / M05 Logistics / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E976–993 final campaign victory
-Used By: GA9 final cross-audit and GA10 E1001–1025
+Depends On: E976–993 final campaign victory, [[ga9-e976-985-episode-cards-v1]], [[ga9-e986-993-episode-cards-v1]], [[ga9-episodes-901-1000-act-map-v1]]
+Used By: GA9 final cross-audit and GA10 E1001–1025, [[ga10-e1001-1010-episode-cards-v1]], [[ga10-e1011-1018-episode-cards-v1]], [[ga10-e1019-1025-episode-cards-v1]]
 
 ## Shared Aftermath State
 

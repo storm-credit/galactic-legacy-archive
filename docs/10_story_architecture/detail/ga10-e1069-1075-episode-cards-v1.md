@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N06 Ending / P03 Law / P04 Care / P06 Factions / M05 Logistics / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E1051–1068 autonomous-front campaign
-Used By: GA10 E1076–1100 final relinquishment and B10-03 audit
+Depends On: E1051–1068 autonomous-front campaign, [[ga10-e1051-1060-episode-cards-v1]], [[ga10-e1061-1068-episode-cards-v1]], [[ga10-episodes-1001-1100-act-map-v1]]
+Used By: GA10 E1076–1100 final relinquishment and B10-03 audit, [[ga10-e1076-1085-episode-cards-v1]], [[ga10-e1086-1093-episode-cards-v1]], [[ga10-e1094-1100-episode-cards-v1]]
 
 ## Shared Final-Campaign State
 

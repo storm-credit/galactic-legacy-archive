@@ -3,8 +3,8 @@
 Status: REVIEW — ACT/SUBACT LEVEL ONLY
 Owner Agents: N02 Act Architecture / N03 Episode Structure / N04 Causality / N05 Mystery-Payoff / N06 Ending / N07 Retention / P09 Institutions / M08 Command Ethics
 Last Reviewed: 2026-08-03
-Depends On: GA10 transition bible, transition actors, GA9 staged-distribution mandate, full payoff ledger
-Used By: final collection/payoff registry, epilogue, scene-card preparation
+Depends On: GA10 transition bible, transition actors, GA9 staged-distribution mandate, full payoff ledger, [[ga10-staged-distribution-and-transition-bible-v1]], [[ga10-transition-actors-and-final-roles-v1]], [[ga9-episodes-901-1000-act-map-v1]], [[series-payoff-ledger-v1]]
+Used By: final collection/payoff registry, epilogue, scene-card preparation, [[ga10-final-collection-and-payoff-registry-v1]]
 Open Risks: exact regions/fronts/failures and P-001 final medical/index mechanics remain open
 
 ## 1. Grand-Act Contract

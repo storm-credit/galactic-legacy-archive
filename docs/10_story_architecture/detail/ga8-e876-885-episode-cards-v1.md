@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P03 Law / P04 Care / P06 Factions / M05 Logistics / M06 Intelligence / G04 AI / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E875 Twelve Lanterns emergency vote and Seed authority boundary
-Used By: E886–900 activation consequences, GA8 final state and cross-audit
+Depends On: E875 Twelve Lanterns emergency vote and Seed authority boundary, [[ga8-e869-875-episode-cards-v1]], [[ga8-episodes-801-900-act-map-v1]]
+Used By: E886–900 activation consequences, GA8 final state and cross-audit, [[ga8-e886-893-episode-cards-v1]], [[ga8-e894-900-episode-cards-v1]]
 
 ## Shared Starting State
 

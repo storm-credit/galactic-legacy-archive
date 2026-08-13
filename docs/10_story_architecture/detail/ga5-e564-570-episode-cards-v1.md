@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / P02 Economy / P03 Law / M01 Strategy / M03 Fleet / M05 Logistics / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E551–563 campaign result, Charter v0.2 and GA6/Orpheus launch
-Used By: GA5 final state, GA6 E571+ and final cross-audit
+Depends On: E551–563 campaign result, Charter v0.2 and GA6/Orpheus launch, [[ga5-e551-554-episode-cards-v1]], [[ga5-e555-563-episode-cards-v1]], [[ga5-episodes-451-570-act-map-v1]]
+Used By: GA5 final state, GA6 E571+ and final cross-audit, [[ga6-e571-577-episode-cards-v1]]
 
 ## Shared Starting State
 

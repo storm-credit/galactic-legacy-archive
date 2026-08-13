@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N06 Ending / P03 Law / P04 Care / P06 Factions / M05 Logistics / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E1050 plural node mandates and reciprocal defense protocols
-Used By: E1061–1075 last-central-fleet campaign and B10-03 audit
+Depends On: E1050 plural node mandates and reciprocal defense protocols, [[ga10-e1044-1050-episode-cards-v1]], [[ga10-episodes-1001-1100-act-map-v1]]
+Used By: E1061–1075 last-central-fleet campaign and B10-03 audit, [[ga10-e1061-1068-episode-cards-v1]], [[ga10-e1069-1075-episode-cards-v1]]
 
 ## Shared Opening State
 

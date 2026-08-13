@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P03 Law / P04 Care / P06 Factions / M05 Logistics / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E951–968 initial key term and explicit extension
-Used By: GA9 E976–1000 final batch and B09-03 audit
+Depends On: E951–968 initial key term and explicit extension, [[ga9-e951-960-episode-cards-v1]], [[ga9-e961-968-episode-cards-v1]], [[ga9-episodes-901-1000-act-map-v1]]
+Used By: GA9 E976–1000 final batch and B09-03 audit, [[ga9-e976-985-episode-cards-v1]], [[ga9-e986-993-episode-cards-v1]], [[ga9-e994-1000-episode-cards-v1]]
 
 ## Shared Extension State
 

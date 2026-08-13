@@ -3,8 +3,8 @@
 Status: REVIEW — FAIRNESS LOCK
 Owner Agents: N03 Episode Structure / N05 Mystery-Payoff / X01 Logic / X04 Continuity / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: locked payoff ledger, GA1–10 act maps, opening 100 architecture
-Used By: episode cards, revision harness, fair-play mystery audit
+Depends On: locked payoff ledger, GA1–10 act maps, opening 100 architecture, [[final-payoff-scene-ledger-locked-v1]], [[first-100-act-map-v2-consolidated]]
+Used By: episode cards, revision harness, fair-play mystery audit, [[secondary-mystery-decoy-and-retirement-ledger-v1]]
 Open Risks: exact scene prose and some supporting-object names remain open
 
 ## 1. Rule

@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / M02 Operational Art / M03 Fleet / M05 Logistics / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E548–550 reserve conflict, five-front OOB and Charter v0.2
-Used By: E555–570 final campaign and GA5 audit
+Depends On: E548–550 reserve conflict, five-front OOB and Charter v0.2, [[ga5-e548-550-episode-cards-v1]], [[ga5-episodes-451-570-act-map-v1]]
+Used By: E555–570 final campaign and GA5 audit, [[ga5-e555-563-episode-cards-v1]], [[ga5-e564-570-episode-cards-v1]]
 
 ## Shared Starting State
 

@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P02 Economy / P03 Law / P04 Care / P06 Factions / M06 Intelligence / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E826–835 common facts and Serrat record-access matrix
-Used By: E844–850 compact replacement, B08-02 state and red-team audit
+Depends On: E826–835 common facts and Serrat record-access matrix, [[ga8-e826-835-episode-cards-v1]], [[ga8-episodes-801-900-act-map-v1]]
+Used By: E844–850 compact replacement, B08-02 state and red-team audit, [[ga8-e844-850-episode-cards-v1]]
 
 ## Shared Adjudication State
 

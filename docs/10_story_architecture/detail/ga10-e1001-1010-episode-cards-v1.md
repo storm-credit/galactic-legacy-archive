@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N06 Ending / P03 Law / P04 Care / P06 Factions / M05 Logistics / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: GA9 E1000 sixty-day transitional split custody
-Used By: E1011–1025 distribution training and B10-01 audit
+Depends On: GA9 E1000 sixty-day transitional split custody, [[ga9-e994-1000-episode-cards-v1]], [[ga10-episodes-1001-1100-act-map-v1]]
+Used By: E1011–1025 distribution training and B10-01 audit, [[ga10-e1011-1018-episode-cards-v1]], [[ga10-e1019-1025-episode-cards-v1]]
 
 ## Shared Opening State
 

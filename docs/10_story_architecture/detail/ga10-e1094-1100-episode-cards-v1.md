@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N06 Ending / P03 Law / P04 Care / P06 Factions / M05 Logistics / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E1076–1093 final distribution and no-Rian crisis
+Depends On: E1076–1093 final distribution and no-Rian crisis, [[ga10-e1076-1085-episode-cards-v1]], [[ga10-e1086-1093-episode-cards-v1]], [[ga10-episodes-1001-1100-act-map-v1]]
 Used By: GA10 and E101–1100 final cross-audits
 
 ## Shared Final-Crisis State

@@ -3,7 +3,7 @@
 Status: WORKING CANON — SECONDARY QUESTION CONTROL
 Owner Agents: N05 Mystery Architecture / N06 Payoff & MacGuffin / N04 Causality / G02 Counter-Collection / X02 Reader Memory / X04 Continuity / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: M-001–M-020 core payoff ledger, GA1–GA10 maps, collection and faction bibles
+Depends On: M-001–M-020 core payoff ledger, GA1–GA10 maps, collection and faction bibles, [[m001-m020-early-clue-episode-ledger-v1]], [[series-payoff-ledger-v1]]
 Used By: detailed episode design, local hooks, decoy retirement, reader-memory control
 Open Risks: exact scene placement inside listed episode windows must be locked in E101–1100 scene-card production
 

@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P02 Economy / P03 Law / P04 Care / P06 Factions / M05 Logistics / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E926–943 linked-impact audit and current-standing remedies
-Used By: GA9 E951–975 central-command arc and B09-02 audit
+Depends On: E926–943 linked-impact audit and current-standing remedies, [[ga9-e926-935-episode-cards-v1]], [[ga9-e936-943-episode-cards-v1]], [[ga9-episodes-901-1000-act-map-v1]]
+Used By: GA9 E951–975 central-command arc and B09-02 audit, [[ga9-e951-960-episode-cards-v1]], [[ga9-e961-968-episode-cards-v1]], [[ga9-e969-975-episode-cards-v1]]
 
 ## Shared Reform State
 
