@@ -4,7 +4,7 @@ Status: REVIEW — BATTLE EXECUTION LOCK
 Owner Agents: M01 Strategy / M03 Fleet Operations / M04 Frame Tactics / M05 Logistics / T03 Habitat / P06 Factions / H03 Sensors-Weapons / X04 Continuity
 Last Reviewed: 2026-08-03
 Depends On: [[academy-white-dock-map-v1]]/[[academy-scale-law-calibration-v1]], [[academy-closure-takeover-packages-v1]], [[academy-preference-representatives-v1]], 07 state
-Used By: E84–96 scene cards, [[academy-provisional-charter-authority-funding-v1]] emergency-command sequence, casualty and transfer continuity
+Used By: [[ga1-episodes-79-84-scene-cards-v1]], [[ga1-episodes-85-92-scene-cards-v1]], [[ga1-episodes-93-100-scene-cards-v1]], [[academy-provisional-charter-authority-funding-v1]] emergency-command sequence, casualty and transfer continuity
 Open Risks: exact unit/craft model names and named minor commanders remain open
 
 ## 1. Siege Definition

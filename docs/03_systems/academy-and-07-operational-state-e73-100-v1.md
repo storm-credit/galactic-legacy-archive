@@ -4,7 +4,7 @@ Status: REVIEW — EXECUTION LOCK CANDIDATE
 Owner Agents: H01 Frame / H04 Maintenance / T03 Habitat / M04 Frame Doctrine / M05 Logistics / P09 Institutions / X04 Continuity
 Last Reviewed: 2026-08-03
 Depends On: [[academy-lockdown-07-and-pilot-state-e46-72-v1]], [[academy-siege-force-and-front-state-v1]], [[academy-provisional-charter-authority-funding-v1]], [[academy-closure-takeover-packages-v1]]
-Used By: E73–100 scene cards, frame/battle continuity, GA2 launch
+Used By: [[ga1-episodes-73-78-scene-cards-v1]], [[ga1-episodes-79-84-scene-cards-v1]], [[ga1-episodes-85-92-scene-cards-v1]], [[ga1-episodes-93-100-scene-cards-v1]], frame/battle continuity, GA2 launch
 Open Risks: exact sortie heat/ammunition sheets and named maintenance losses remain open
 
 ## 1. Academy State at E73

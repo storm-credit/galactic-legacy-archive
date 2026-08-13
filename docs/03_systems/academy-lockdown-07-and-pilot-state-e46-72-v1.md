@@ -4,7 +4,7 @@ Status: REVIEW — EXECUTION LOCK CANDIDATE
 Owner Agents: H01 Frame / H04 Maintenance / T03 Habitat / T04 Neural Medicine / M04 Frame Doctrine / P09 Institutions / X04 Continuity
 Last Reviewed: 2026-08-03
 Depends On: [[imitation-cell-and-e45-incident-v1]], [[black-ward-medical-research-operational-state-v1]], [[white-dock-operation-and-07-recovery-state-v1]], [[black-ward-supply-freeze-neutral-corridor-v1]]
-Used By: E46–72 scene cards, action continuity, medical/technical stop checks
+Used By: [[ga1-episodes-46-51-scene-cards-v1]], [[ga1-episodes-52-58-scene-cards-v1]], [[ga1-episodes-59-65-scene-cards-v1]], [[ga1-episodes-66-72-scene-cards-v1]], action continuity, medical/technical stop checks
 Open Risks: exact lockdown staffing and repair-hour accounting remain adjustable
 
 ## 1. Academy State at E46

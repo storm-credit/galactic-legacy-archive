@@ -4,7 +4,7 @@ Status: REVIEW — POLITICAL/ECONOMIC EXECUTION LOCK
 Owner Agents: P01 Politics / P02 Political Economy / P03 Law / P04 Education-Class / P08 Third Powers / P09 Institutions / M05 Logistics / O02 Gate
 Last Reviewed: 2026-08-03
 Depends On: [[academy-scale-law-calibration-v1]], Black Ward funding collapse, opening faction clocks
-Used By: E73–84 scene cards, [[academy-preference-representatives-v1]], siege trigger, [[academy-provisional-charter-authority-funding-v1]]
+Used By: [[ga1-episodes-73-78-scene-cards-v1]], [[ga1-episodes-79-84-scene-cards-v1]], [[academy-preference-representatives-v1]], siege trigger, [[academy-provisional-charter-authority-funding-v1]]
 Open Risks: currency remains abstracted as budget index; package actors’ final office names remain open
 
 ## 1. Crisis Baseline at E73
