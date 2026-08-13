@@ -20,7 +20,7 @@ This proposal therefore separates five counts:
 
 | Count | Proposed target | Meaning |
 |---|---:|---|
-| Phase-1 placed sample records | **26** | 07 plus 25 noncanon design slots used to test GA function coverage; not a final portfolio target |
+| Phase-1 placed sample records | **44** | 07 plus 43 noncanon design slots used to test GA function coverage; not a final portfolio target |
 | Author-decision sample reserves | **2** | AXIOM and one unnamed possible successor slot; excluded from placed count |
 | Manufacturing lineages | **8** | stable industrial shape, service and certification grammar |
 | Phase-1 front-stage test band | **12-14** | provisional reader-memory test, pending cast/role demand census |
@@ -28,12 +28,12 @@ This proposal therefore separates five counts:
 | Phase-1 base-demand sample rows | **52** | 26 provisional model candidates, 25 reviewed reuse profiles and 1 host-evidence HOLD; not a complete cast-derived demand surface |
 | Conditional demand rows | **6 HOLD** | AXIOM, unnamed successor and four precise late-role gaps; excluded from the base count |
 | Resolved cast identities | **197** | 1 protagonist, 4 core allies, 9 core antagonists/rivals, 40 recurring support, 143 important extras; see [[role-demand-portfolio-count-audit-v1]] |
-| Selected candidate-review envelope | **32-40** | Direction B, author decision D-20260812-01; an envelope for chassis proof, not an approved machine count |
-| Selected reader-named model band | **22-30** | across the whole series; per-scene and per-block exposure limits are unchanged |
+| Selected candidate-review envelope | **40-48** | Direction C, author decision D-20260813-03 superseding D-20260812-01; an envelope for chassis proof, not an approved machine count |
+| Selected reader-named model band | **26-36** | across the whole series; per-scene and per-block exposure limits are unchanged |
 | Verified independent-model output | **HOLD** | every M-002–M-026 slot and every new candidate must still pass Section 5 individually |
 | Overlays | **2** | Mission Trust and Aurel interoperability; never new chassis by themselves |
 
-The 28-row catalog contains **26 placed sample records plus two sample reserves**, not 28 verified independent machines and not a final catalog ceiling. Only 07 is an existing canon entity. M-002 through M-026 are chassis design slots that still require mechanical proof and author approval; M-027 and M-028 are excluded author-decision reserves. The phase-1 crosswalk currently finds 25 supported reuse profiles and one role/operation row with no proven deployed host. The individual cast census is incomplete, so this sample cannot set the final machine count.
+The 46-row catalog contains **44 placed sample records plus two sample reserves**, not 46 verified independent machines and not a final catalog ceiling. Only 07 is an existing canon entity. M-002 through M-026 and M-029 through M-046 are chassis design slots that still require mechanical proof and author approval; M-027 and M-028 are excluded author-decision reserves. The phase-1 crosswalk currently finds 25 supported reuse profiles and one role/operation row with no proven deployed host. The individual cast census is incomplete, so this sample cannot set the final machine count.
 
 ## 2. Frozen Intent and Success Conditions
 
@@ -120,18 +120,18 @@ Before a demand is classified as reuse, its proposed host must already exist by 
 
 | ID | Lineage | Grayscale shape grammar | CMF grammar | Industrial and narrative cost | Target chassis |
 |---|---|---|---|---|---:|
-| **L01** | 07-derived open service | narrow inspection core, large service hands, visible gantry voids, uneven tool-side mass | off-white, blue-gray, safety coral, exposed neutral metal | public documentation improves repair but also enables enemy adaptation | 4 |
-| **L02** | Imperial nested arch | low roof sensor, repeated inverted-U chest/cuff arches, aligned knees and shoulders | pearl gray, charcoal, gunmetal, small authority amber | high fleet efficiency; brittle when command certification and supply hierarchy break | 5 |
-| **L03** | Helix certified cell | truncated hex sensor cassette, three joined service cells, 60-degree inspection windows | cool gray, oxide green, industrial orange, limited cyan | excellent licensed service; lock-in, contract and non-certified part rejection | 4 |
-| **L04** | Ardis open bridge | low wedge head, horizontal shoulder beam, open central maintenance bay, anchored ankles | titanium, cobalt, oxide red, safety yellow, workshop markings | locally repairable; quality and responsibility vary by workshop | 4 |
-| **L05** | Neutral rescue cradle | head protected inside collar, C-shaped shoulder voids, rescue channel through torso | ivory, sea green, vermilion rescue marks, dark anti-glare panels | protection capacity, medical consumables and member consent are finite | 3 |
-| **L06** | Frontier rebuilt line | donor-frame scars, asymmetrical thermal coat, manual backup links, exposed anchor hardware | graphite, aluminum, stripped white heat coat, signal orange | cheap to recover, expensive to standardize; fatigue and ammunition mismatch accumulate | 3 |
-| **L07** | Continuity/Palimpsest interface | layered provenance plates, recessed sensor shutters, offset data spine, guarded tool ports | smoked white, dark nickel, muted red, aqua status light | strong verification and capture tools; authority and provenance disputes can stop operation | 3 |
+| **L01** | 07-derived open service | narrow inspection core, large service hands, visible gantry voids, uneven tool-side mass | off-white, blue-gray, safety coral, exposed neutral metal | public documentation improves repair but also enables enemy adaptation | 6 |
+| **L02** | Imperial nested arch | low roof sensor, repeated inverted-U chest/cuff arches, aligned knees and shoulders | pearl gray, charcoal, gunmetal, small authority amber | high fleet efficiency; brittle when command certification and supply hierarchy break | 8 |
+| **L03** | Helix certified cell | truncated hex sensor cassette, three joined service cells, 60-degree inspection windows | cool gray, oxide green, industrial orange, limited cyan | excellent licensed service; lock-in, contract and non-certified part rejection | 6 |
+| **L04** | Ardis open bridge | low wedge head, horizontal shoulder beam, open central maintenance bay, anchored ankles | titanium, cobalt, oxide red, safety yellow, workshop markings | locally repairable; quality and responsibility vary by workshop | 7 |
+| **L05** | Neutral rescue cradle | head protected inside collar, C-shaped shoulder voids, rescue channel through torso | ivory, sea green, vermilion rescue marks, dark anti-glare panels | protection capacity, medical consumables and member consent are finite | 5 |
+| **L06** | Frontier rebuilt line | donor-frame scars, asymmetrical thermal coat, manual backup links, exposed anchor hardware | graphite, aluminum, stripped white heat coat, signal orange | cheap to recover, expensive to standardize; fatigue and ammunition mismatch accumulate | 6 |
+| **L07** | Continuity/Palimpsest interface | layered provenance plates, recessed sensor shutters, offset data spine, guarded tool ports | smoked white, dark nickel, muted red, aqua status light | strong verification and capture tools; authority and provenance disputes can stop operation | 6 |
 | **L08** | Isolated legacy test line | no shared mass-market shape; AXIOM uses broken shear lines, dual eyes and compact armored neck | AXIOM-only 52 white / 29 graphite / 9 titanium / 9 crimson / 1 cyan | vanished support ecology; every part, pilot interface and loss is expensive or irreplaceable | 2 HOLD |
 
 Mission Trust markings and Aurel service profiles are overlays. They preserve the underlying lineage silhouette and never count as a ninth or tenth manufacturing lineage.
 
-## 7. Proposed 26-Plus-2 Portfolio
+## 7. Proposed 44-Plus-2 Portfolio
 
 The machine names below are working labels. They are not cleared trademarks and are not approved Korean reader names. Full canon-basis, chassis-evidence, cradle, cooling, maintenance, discovery, acquisition, synergy, completion, counter-collection, loss and relation fields live in the CSV.
 
@@ -165,27 +165,49 @@ The machine names below are working labels. They are not cleared trademarks and 
 | M-026 | `CS-IV-23.1 QUORIN / 쿼린` | archive isolation and counter-interface | GA8, reused GA9 | continuity exploration framework | product-line detail approval |
 | M-027 | `LFX-01 AXIOM / 액시엄` | separate legacy-machine reserve | HOLD | user-selected noncanon visual/name direction only | public name, pilot, story window, acquisition, ability, cost and loss |
 | M-028 | unnamed reserve | possible independent successor slot | HOLD | no canon event or approved predecessor link | existence, code, name, inheritance and story slot approval |
+| M-029 | `AD-TR-6.2 KRAVEN / 크라벤` | 전환 훈련과 인계 교육 | GA2 | 07파생 개방정비 계보 확장 슬롯 | 교관 배정과 학원 규격 승인 |
+| M-030 | `AD-SL-7.1 PELDOR / 펠도르` | 구난 인양과 잔해 안정화 | GA6 | 피난 작전의 인양 수요 | 작업 하중과 운용사 승인 |
+| M-031 | `IR-A15-01 GARNIS / 가르니스` | 경계 초계와 항로 검문 | GA1 E21-100 | 기존 제국 경계 전력 규모 | 제품군 상세 승인 |
+| M-032 | `IR-M29-01 VULTREN / 불트렌` | 함대 기동 호위 | GA5 | 함대전 호위 수요 | 제품군 상세 승인 |
+| M-033 | `IR-S33-01 KOLTAN / 콜탄` | 계승 의장과 시가 진압 | GA4 | 계승 분쟁의 도시 국면 | 진압 교리 승인 |
+| M-034 | `HX/CT-07.C4 PHRAXIS / 프락시스` | 인증 검사 동반과 봉인 집행 | GA2 | 헬릭스 인증 갈등 슬롯 | 제품군 상세 승인 |
+| M-035 | `HX/LG-25.C6 HULDIC / 훌딕` | 계약 물류 호위 | GA6 | 계약 보급망 방어 | 제품군 상세 승인 |
+| M-036 | `AD-EV-13.1 EMBRIL / 엠브릴` | 피난 유도와 군중 통제 | GA6 | 두 번째 오르페우스 민간 국면 | 군중 안전 교리 승인 |
+| M-037 | `AD-MN-18.2 WISKAR / 위스카르` | 광산과 자원 굴착 | GA5 | 보급 자립 서사 | 산업 규격 승인 |
+| M-038 | `AD-CV-20.1 URDAL / 우르달` | 시가 방재와 소화 | GA10 | 보존 체제하 도시 재난 | 지역 운영사 승인 |
+| M-039 | `NA-TR-9-04 LUNVAR / 룬바르` | 장거리 환자 후송 | GA7 | 중립 구조망 확장 | 의료 규격 승인 |
+| M-040 | `NA-QR-12-01 PORVENN / 포르벤` | 검역과 격리 이송 | GA8 | 기록전 오염 격리 | 검역 권한 승인 |
+| M-041 | `BRN-09/B1 SKALT / 스칼트` | 노획 개조 강습 | GA3 | 변경 개조 프레임워크 | 개조 이력과 인증 경로 승인 |
+| M-042 | `BRN-27/B4 YARNIC / 야르닉` | 잔해장 해체와 부품 회수 | GA5 | 마른 성계 인양 기능 | 제품군 상세 승인 |
+| M-043 | `BRN-41/B6 HALDRE / 할드레` | 겨울 항로 장기 초계 | GA7 | 변경 자율 방어 | 지속 운용 한계 승인 |
+| M-044 | `CS-AU-27.3 ISKOL / 이스콜` | 감사 동반과 증거 검증 | GA8 | 연속성 감사 기능 | 권한 경계 승인 |
+| M-045 | `PS-D5-V18-C1 OCTALIS / 옥탈리스` | 유적 지역 방어 | GA8 | 팰림프세스트 지역 방위 | 문화·운용사 승인 |
+| M-046 | `CS-XC-31.2 FENDRIC / 펜드릭` | 기록 봉쇄와 대인터페이스 | GA10 | 이양기 기록 통제 | 존재와 명칭 승인 |
 
 ### Reader-front allocation
 
 Front-stage default: 07, SOLVERN, one Imperial standard/command pair, one Helix standard/elite pair, one Ardis work/defense pair, ARVET, DELVRIK, one Continuity/Palimpsest contrast pair, and AXIOM only if approved. Other names stay on model sheets, logistics dialogue or setting-book pages until a scene earns them.
 
+D-20260813-03 상향분(M-029–M-046)은 **전면 배치에 자동 편입되지 않는다.** 증가분의 기본 위치는 세력 실루엣과 배경 계보이며, 독자 명명 밴드가 26–36으로 올라간 것은 후보 풀의 확대이지 노출 확대가 아니다. 전투 장면당 기체명 4개, 지속 핵심 정체성 8개, 25화 블록당 신규 명명 섀시 2개 상한은 **변경되지 않는다** — 이들은 카탈로그 크기가 아니라 독자 기억 한계를 통제한다.
+
 ## 8. GA Disclosure and Reuse Cadence
 
 | Arc | New independent chassis target | Main use | Reuse rule |
 |---|---:|---|---|
-| GA1 | 4-5 including 07 | establish 07, Ern rival, three faction silhouette baselines after E20 | E1-E20 names only 07 as principal frame |
-| GA2 | +4 | convoy, first ship, neutral rescue, Helix service and frontier conversion | 07 and Ern's same machines return |
-| GA3 | +6 | first open-standard derivative, Ardis production, Helix/Imperial pressure | forms may grow; do not replace every GA1/2 chassis |
-| GA4 | +3 | succession security, guard and continuity authority | new visual grammar limited to institutions actually entering story |
-| GA5 | +4 | fleet ensemble, relay, escort and heavy breach | 3-4 prior lineages operate together |
-| GA6 | +1 | evacuation, medical transfer and irreversible loss | emphasize rescue forms over hero replacements |
-| GA7 | +0-1 | route war and denial | deliberate reuse; Ern and earlier regional machines carry memory |
-| GA8 | +2 | provenance, interpretation and local interface | high-concept difference comes from interface and rights, not magic armor |
+| GA1 | 4 including 07 | establish 07, Ern rival, three faction silhouette baselines after E20 | E1-E20 names only 07 as principal frame |
+| GA2 | +6 | convoy, first ship, neutral rescue, Helix service and frontier conversion | 07 and Ern's same machines return |
+| GA3 | +7 | first open-standard derivative, Ardis production, Helix/Imperial pressure | forms may grow; do not replace every GA1/2 chassis |
+| GA4 | +4 | succession security, guard and continuity authority | new visual grammar limited to institutions actually entering story |
+| GA5 | +7 | fleet ensemble, relay, escort and heavy breach | 3-4 prior lineages operate together |
+| GA6 | +4 | evacuation, medical transfer and irreversible loss | emphasize rescue forms over hero replacements |
+| GA7 | +2 | route war and denial | deliberate reuse; Ern and earlier regional machines carry memory |
+| GA8 | +5 | provenance, interpretation and local interface | high-concept difference comes from interface and rights, not magic armor |
 | GA9 | +0 | Aurel/Preservation overlays | no new body; existing machines receive reversible service/certification profiles |
-| GA10 | +2-3 | distributed 07-derived regional standards and civil conversion | original 07 loses exclusivity; descendants remain locally accountable |
+| GA10 | +4 | distributed 07-derived regional standards and civil conversion | original 07 loses exclusivity; descendants remain locally accountable |
 
 These are exposure targets, not force holdings. They must not overwrite exact episode cards without an author-approved impact pass.
+
+D-20260813-03 상향분은 GA9를 건드리지 않는다. 그 구간은 **신규 차체 없이 가역 서비스·인증 오버레이만** 받는 것이 §8의 원칙이고, 초안에서 GA9에 놓였던 세 슬롯은 각각 GA7·GA8·GA10으로 옮겼다. `validate_mecha_lineup.py`가 이 분포를 상수로 강제한다.
 
 ## 9. Collection Desire Architecture
 

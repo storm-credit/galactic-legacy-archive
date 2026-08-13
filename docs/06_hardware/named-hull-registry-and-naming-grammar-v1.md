@@ -76,7 +76,7 @@ GA2 등록표의 `G2-S01`~`S14`는 배 14척이 아니라 **배 한 척의 부�
 
 1. `오르페우스`는 GA6 작전·위기명이다. 동일 신화명을 배나 무기에 쓰지 않는다 ([[reader-facing-terminology-phonetics-and-register-bible-v1]] §5).
 2. 기체 하드 리젝트 목록을 함선에도 적용한다 — `ORIGIN` `GENESIS` `OMEGA` `APEX` `ZENITH` `PRIME` `LEGACY` `ARCHIVE` `CONTINUITY` `TESTAMENT` `ULTIMATE` `PERFECT` 및 최상급 수식 일체.
-3. 정본 인명·기체명과 유사음 동시 등장 금지 — `베스페르`(Ardo Vesper), `카르도`(폐기 인명), `바르다`(바르덴), `테세라`(테사르), `켈-`계열(켈티스) 배제.
+3. 정본 인명·기체명과 유사음 동시 등장 금지. 후보명은 [[core-canonical-names-and-voice-lock-v1]]의 잠금 인명과 `maneuver-frame-lineup-proposed-index-v1.csv`의 기체 한글명 전체를 대조해 배제한다. **이 문서에 기체명을 옮겨 적지 않는다** — `validate_mecha_lineup.py`가 저장소 전체를 훑어 기체 후보명이 아직 쓰이지 않았음을 증명하므로, 옮겨 적는 순간 그 증명이 깨진다.
 4. 07호는 개명하지 않는다. 번호로 남는 것이 주제다.
 
 ## 3. Class Codes and Carrying Capacity
