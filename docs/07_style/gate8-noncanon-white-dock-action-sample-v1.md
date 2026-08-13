@@ -3,7 +3,7 @@
 Status: TEST MATERIAL — NOT CANONICAL MANUSCRIPT
 Owner Agents: L01 Prose / L02 POV / M04 Frame Tactics / X02 Reader / O02 Gate
 Last Reviewed: 2026-08-03
-Depends On: E21–24 scene cards, White Dock operational state, prose/combat harness
+Depends On: [[ga1-episodes-21-26-scene-cards-v1]], White Dock operational state, prose/combat harness
 Used By: spatial clarity, action rhythm, terminology-density and mobile-readability test
 Open Risks: human reader result absent; exact hostile-frame design remains provisional
 

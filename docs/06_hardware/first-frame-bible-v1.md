@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: H01 Mecha Engineering / H03 Weapons-Sensors / H04 Manufacturing / H05 Industrial Design / H06 Combat Physics / M04 Mecha Doctrine / G03 Synergy
 Last Reviewed: 2026-08-03
-Depends On: lattice warfare physics, academy bible, H-002 bible, collection bible
+Depends On: lattice warfare physics, [[prison-military-academy-bible-v1]], H-002 bible, collection bible
 Used By: First 100 episodes, battle design, equipment collection, visual development
 Open Risks: Hidden-royal-prototype cliché, universal compatibility overpowered, exact engineering calibration
 

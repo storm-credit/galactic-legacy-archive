@@ -3,8 +3,8 @@
 Status: REVIEW — COLLECTION/LOSS CONTINUITY
 Owner Agents: G01 Collection / G02 Counter-Collection / G03 Active Load / G04 Reward / G05 Power Creep / G07 Loss / C02 Ensemble / P03 Law / X03 Ethics / X04 Continuity / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: E176–200 cards, open-service incident state, relay/community state
-Used By: E201–210 cards and B02-04 audit
+Depends On: [[ga2-e176-185-episode-cards-v1]], [[ga2-e186-193-episode-cards-v1]], [[ga2-e194-200-episode-cards-v1]], open-service incident state, relay/community state
+Used By: [[ga2-e201-210-episode-cards-v1]] and B02-04 audit
 Open Risks: final regional open-service settlement remains GA2 ending work
 
 ## 1. Active Pursuit Windows

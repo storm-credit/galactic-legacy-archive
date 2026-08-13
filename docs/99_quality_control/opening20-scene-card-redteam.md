@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE
 Owner Agents: O02 Gate / X01 Logic / X02 Retention / X03 Ethics / X04 Continuity / L02 POV / H01 Frame
 Last Reviewed: 2026-08-03
-Depends On: Academy/07 state, E6–10, E11–15 and E16–20 scene cards
+Depends On: Academy/07 state, E6–10, E11–15 and [[ga1-episodes-16-20-scene-cards-v1]]
 Used By: opening-20 status and Gate 1 human test
 Open Risks: prose/mobile response remains external
 

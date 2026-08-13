@@ -3,7 +3,7 @@
 Status: PROJECT CONTROL — GA10 AND POST-E100 DETAIL COMPLETE
 Owner Agents: A00 PM / O01 Canon / O02 Gates / N01 Architecture / N06 Ending / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-05
-Depends On: E1001–1100 detailed cards, all GA10 state files and final cross-audits
+Depends On: [[ga10-e1001-1010-episode-cards-v1]], [[ga10-e1011-1018-episode-cards-v1]], [[ga10-e1019-1025-episode-cards-v1]], [[ga10-e1026-1035-episode-cards-v1]], [[ga10-e1036-1043-episode-cards-v1]], [[ga10-e1044-1050-episode-cards-v1]], [[ga10-e1051-1060-episode-cards-v1]], [[ga10-e1061-1068-episode-cards-v1]], [[ga10-e1069-1075-episode-cards-v1]], [[ga10-e1076-1085-episode-cards-v1]], [[ga10-e1086-1093-episode-cards-v1]], [[ga10-e1094-1100-episode-cards-v1]], all GA10 state files and final cross-audits
 Used By: final project reporting and any future Pre-Writing Gate review
 
 ## 1. Current Progress

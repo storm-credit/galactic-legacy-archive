@@ -3,7 +3,7 @@
 Status: PROJECT CONTROL — B09-03 COMPLETE
 Owner Agents: A00 PM / O01 Canon / O02 Gates / N01 Architecture / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-05
-Depends On: E951–975 cards, central-key institution/cast/collection state and B09-03 red team
+Depends On: [[ga9-e951-960-episode-cards-v1]], [[ga9-e961-968-episode-cards-v1]], [[ga9-e969-975-episode-cards-v1]], central-key institution/cast/collection state and B09-03 red team
 Used By: GA9 E976–1000, project reporting and context handoff
 
 ## 1. Current Progress

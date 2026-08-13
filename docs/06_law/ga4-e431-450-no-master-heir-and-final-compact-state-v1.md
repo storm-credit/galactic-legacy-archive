@@ -3,7 +3,7 @@
 Status: WORKING CANON — FINAL GA4 LAW / OFFICE / OPERATION STATE
 Owner Agents: P01 Politics / P02 Economy / P03 Law / P04 Care / P06 Factions / T07 Networks / M01 Strategy / M03 Fleet / M07 Command / X01 Logic / X03 Ethics / X04 Continuity / O01 Canon
 Last Reviewed: 2026-08-04
-Depends On: E431–450 cards and all prior GA4 evidence, protocol and compact states
+Depends On: [[ga4-e431-438-episode-cards-v1]], [[ga4-e439-444-episode-cards-v1]], [[ga4-e445-450-episode-cards-v1]] and all prior GA4 evidence, protocol and compact states
 Used By: GA5 fleet-title/pay/command review and all later succession references
 Open Risks: later ordinary constitutional settlement may replace Compact v1 through explicit ratified action
 

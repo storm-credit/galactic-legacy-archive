@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE
 Owner Agents: O02 Gate / X01 Logic / X02 Retention / X03 Ethics / X04 Continuity / R07 Similarity / M03 Fleet / G05 Power Creep
 Last Reviewed: 2026-08-03
-Depends On: GA2 act map, ship/crew bibles, route graph, force table, community split, collection registry
+Depends On: [[ga2-episodes-101-210-act-map-v1]], ship/crew bibles, route graph, force table, community split, collection registry
 Used By: GA2 status, scene-card prerequisites, Gate 6 issue
 Open Risks: Detailed battle maps and prose testing remain open
 

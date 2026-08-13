@@ -3,8 +3,8 @@
 Status: REVIEW — COLLECTION/RELATIONSHIP CONTINUITY
 Owner Agents: G01 Collection / G02 Counter-Collection / G03 Active Load / G04 Reward / G05 Power Creep / G06 Ship Meta / G07 Loss / C02 Ensemble / C04 Relationships / P03 Law / X03 Ethics / X04 Continuity / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: E151–175 cards, protected-community destination state, relay/convoy state and Jena loss state
-Used By: E176–200 cards and B02-03 audit
+Depends On: [[ga2-e151-160-episode-cards-v1]], [[ga2-e161-168-episode-cards-v1]], [[ga2-e169-175-episode-cards-v1]], protected-community destination state, relay/convoy state and Jena loss state
+Used By: [[ga2-e176-185-episode-cards-v1]], [[ga2-e186-193-episode-cards-v1]], [[ga2-e194-200-episode-cards-v1]] and B02-03 audit
 Open Risks: Open Standard conflict may alter module access and route relationships without changing current ownership rules
 
 ## 1. Active-Window Summary

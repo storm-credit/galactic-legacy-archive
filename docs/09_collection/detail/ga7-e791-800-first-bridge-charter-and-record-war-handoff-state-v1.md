@@ -3,7 +3,7 @@
 Status: REVIEW — COLLECTION / LOSS / RECORD STATE
 Owner Agents: G01 Collection / G03 Logistics / G05 Economy / P03 Law / P04 Care / M05 Logistics / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-05
-Depends On: E791–800 episode cards and institution/cast state
+Depends On: [[ga7-e791-800-episode-cards-v1]] and institution/cast state
 Used By: GA7 final cross-audit and GA8 E801–825
 
 ## 1. Gate

@@ -3,8 +3,8 @@
 Status: WORKING CANON — OPERATION / RESOURCE / AUTHORITY STATE
 Owner Agents: M02 Operational Art / M03 Fleet Operations / M05 Logistics / T02 Navigation / T03 Habitat Systems / T07 Networks / H02 Ship / H04 Maintenance / P01 Politics / P02 Economy / P03 Law / X01 Logic / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: GA2 E210 handoff, GA3 opening Ardis state, E211–235 detailed cards
-Used By: E236–260 cards, Ardis service trial, Spine B restoration and faction clocks
+Depends On: GA2 E210 handoff, GA3 opening Ardis state, [[ga3-e211-218-episode-cards-v1]], [[ga3-e219-226-episode-cards-v1]], [[ga3-e227-235-episode-cards-v1]]
+Used By: [[ga3-e236-240-episode-cards-v1]], [[ga3-e241-247-episode-cards-v1]], [[ga3-e248-254-episode-cards-v1]], [[ga3-e255-260-episode-cards-v1]], Ardis service trial, Spine B restoration and faction clocks
 Open Risks: exact E236+ creditor package deployment and later battle state belong to subsequent batches
 
 ## 1. Time Window

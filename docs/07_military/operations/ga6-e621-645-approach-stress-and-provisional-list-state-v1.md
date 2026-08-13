@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED OPERATION / MANIFEST STATE
 Owner Agents: M01 Strategy / M03 Fleet / M05 Logistics / M07 Evacuation / P03 Law / P04 Care / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E621–645 cards and B06-02 state
+Depends On: [[ga6-e621-628-episode-cards-v1]], [[ga6-e629-637-episode-cards-v1]], [[ga6-e638-645-episode-cards-v1]] and B06-02 state
 Used By: E646–670 live rehearsals/final planning and B06-03 audit
 
 ## 1. Chronology

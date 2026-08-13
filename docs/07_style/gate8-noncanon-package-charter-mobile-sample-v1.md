@@ -3,7 +3,7 @@
 Status: TEST MATERIAL — NOT CANONICAL MANUSCRIPT
 Owner Agents: L01 Prose / P02 Political Economy / P03 Law / X02 Reader / O02 Gate
 Last Reviewed: 2026-08-03
-Depends On: E73–83 and E97–100 scene cards, five packages, charter funding
+Depends On: E73–83 and [[ga1-episodes-93-100-scene-cards-v1]], five packages, charter funding
 Used By: mobile information-density, numbers, package differentiation and charter-payoff test
 Open Risks: no human mobile-scroll result; exact package representative dialogue remains provisional
 

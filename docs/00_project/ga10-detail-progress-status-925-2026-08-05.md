@@ -3,7 +3,7 @@
 Status: PROJECT CONTROL — B10-01 COMPLETE
 Owner Agents: A00 PM / O01 Canon / O02 Gates / N01 Architecture / N06 Ending / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-05
-Depends On: E1001–1025 cards, transition institution/cast/collection state and B10-01 red team
+Depends On: [[ga10-e1001-1010-episode-cards-v1]], [[ga10-e1011-1018-episode-cards-v1]], [[ga10-e1019-1025-episode-cards-v1]], transition institution/cast/collection state and B10-01 red team
 Used By: GA10 E1026–1050, project reporting and context handoff
 
 ## 1. Current Progress

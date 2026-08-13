@@ -3,8 +3,8 @@
 Status: REVIEW — OPERATIONAL/TECHNICAL/RESOURCE STATE LOCK
 Owner Agents: M02 Operational Art / M03 Fleet Operations / M05 Logistics / M07 Civil Defense / T02 Navigation / T03 Life Support / T07 Networks / H01 Production / H04 Maintenance / H05 Medical / H06 Damage / P02 Economy / P03 Law / X01 Logic / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: E176–200 cards, open-service/convoy state, community/relay state and Jena Annex
-Used By: E201–210 cards, B02-04 audit and GA2 final continuity audit
+Depends On: [[ga2-e176-185-episode-cards-v1]], [[ga2-e186-193-episode-cards-v1]], [[ga2-e194-200-episode-cards-v1]], open-service/convoy state, community/relay state and Jena Annex
+Used By: [[ga2-e201-210-episode-cards-v1]], B02-04 audit and GA2 final continuity audit
 Open Risks: exact final compensation adjudication remains later legal/economic work
 
 ## 1. Time and Phase Sequence

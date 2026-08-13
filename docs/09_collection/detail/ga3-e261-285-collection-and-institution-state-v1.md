@@ -3,8 +3,8 @@
 Status: WORKING CANON — COLLECTION / INSTITUTION / LOSS CONTINUITY
 Owner Agents: G01 Collection / G02 Counter-Collection / G03 Active Load / G04 Reward / G05 Power Creep / G07 Loss / C02 Ensemble / P01 Politics / P02 Economy / P03 Law / X03 Ethics / X04 Continuity / O01 Canon
 Last Reviewed: 2026-08-04
-Depends On: E261–285 cards, defense/Helix cast and operation state
-Used By: E286–310 cards, GA3 registry and final cross-audit
+Depends On: [[ga3-e261-263-episode-cards-v1]], [[ga3-e264-270-episode-cards-v1]], [[ga3-e271-277-episode-cards-v1]], [[ga3-e278-285-episode-cards-v1]], defense/Helix cast and operation state
+Used By: [[ga3-e286-292-episode-cards-v1]], [[ga3-e293-300-episode-cards-v1]], [[ga3-e301-310-episode-cards-v1]], GA3 registry and final cross-audit
 Open Risks: denial-network custody and permanent defense settlement remain later work
 
 ## 1. Rule

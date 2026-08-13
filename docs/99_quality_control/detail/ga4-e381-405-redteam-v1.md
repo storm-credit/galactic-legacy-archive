@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE — B04-03 PASS
 Owner Agents: O02 Gate / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity / N04 Causality / N07 Retention / P01 Politics / P02 Economy / P03 Law / P04 Care / M03 Fleet / M05 Logistics / M07 Command / G05 Power Creep
 Last Reviewed: 2026-08-04
-Depends On: E381–405 cards, pilot/parallel-governance cast, law state and collection/loss state
+Depends On: [[ga4-e381-388-episode-cards-v1]], [[ga4-e389-396-episode-cards-v1]], [[ga4-e397-405-episode-cards-v1]], pilot/parallel-governance cast, law state and collection/loss state
 Used By: GA4 progress status and E406–430 production
 Open Risks: pilot close, East renewal and final claimant/sovereign compact remain later work
 

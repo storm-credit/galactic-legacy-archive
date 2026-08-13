@@ -3,7 +3,7 @@
 Status: REVIEW — COLLECTION / LOSS / ACCOUNTABILITY STATE
 Owner Agents: G01 Codex / G04 Acquisition / G07 Loss-Recovery / P03 Law / P04 Care / P06 Factions / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E741–765 cards, D4 institutional and cast states
+Depends On: [[ga7-e741-745-episode-cards-v1]], [[ga7-e746-753-episode-cards-v1]], [[ga7-e754-765-episode-cards-v1]], D4 institutional and cast states
 Used By: E766–800 inquiry/reform and B07-03 audit
 
 ## 1. D4 Crisis Registry

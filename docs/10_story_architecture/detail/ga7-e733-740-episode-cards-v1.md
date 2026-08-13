@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N05 Mystery-Payoff / C02 Ensemble / P03 Law / P06 Factions / M06 Intelligence / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E716–732 investigation, M-012 clue ledger and Haren D4 canon
+Depends On: E716–732 investigation, M-012 [[m001-m020-early-clue-episode-ledger-v1]] and Haren D4 canon
 Used By: E741–765 D4 authority/decision and B07-02 audit
 
 ## Shared Starting State

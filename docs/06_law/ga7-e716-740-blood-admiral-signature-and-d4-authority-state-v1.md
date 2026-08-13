@@ -3,7 +3,7 @@
 Status: REVIEW — INVESTIGATION / AUTHORITY STATE
 Owner Agents: P03 Law / P06 Factions / M06 Intelligence / M07 Command / O01 Canon / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E716–740 cards, route-table state, Haren D4 canon and mystery ledger
+Depends On: [[ga7-e716-723-episode-cards-v1]], [[ga7-e724-732-episode-cards-v1]], [[ga7-e733-740-episode-cards-v1]], route-table state, Haren D4 canon and mystery ledger
 Used By: E741–775 D4 decision/consequence and B07-02 audit
 
 ## 1. Chronology and Temporary-Table Sunset

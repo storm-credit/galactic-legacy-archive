@@ -3,8 +3,8 @@
 Status: REVIEW — COLLECTION/RELATIONSHIP STATE
 Owner Agents: G01 Collection Ontology / G03 Active Roster / G04 Acquisition / G05 Power Creep / G06 Base-Ship Meta / G07 Loss-Recovery / C02 Ensemble / P03 Law / X03 Ethics / X04 Continuity / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: GA2 collection registry, E101–125 cards, opening ship finance/state
-Used By: E126–150 cards and GA2 B02-01 audit
+Depends On: GA2 collection registry, [[ga2-e101-107-episode-cards-v1]], [[ga2-e108-114-episode-cards-v1]], [[ga2-e115-121-episode-cards-v1]], [[ga2-e122-125-episode-cards-v1]], opening ship finance/state
+Used By: [[ga2-e126-130-episode-cards-v1]], [[ga2-e131-137-episode-cards-v1]], [[ga2-e138-145-episode-cards-v1]], [[ga2-e146-150-episode-cards-v1]] and GA2 B02-01 audit
 Open Risks: no target may be upgraded solely because it appears in this summary
 
 ## 1. Interpretation

@@ -3,7 +3,7 @@
 Status: WORKING CANON — LAW / OPERATION / CURRENT AUTHORITY STATE
 Owner Agents: P01 Politics / P02 Economy / P03 Law / P04 Care / P06 Factions / T02 Navigation / T03 Habitat Systems / T07 Networks / M01 Strategy / M03 Fleet / M05 Logistics / M07 Command / X01 Logic / X03 Ethics / X04 Continuity / O01 Canon
 Last Reviewed: 2026-08-04
-Depends On: E381–405 cards, seven-field pilot E380 state, Four-Function Order and pilot/parallel cast
+Depends On: [[ga4-e381-388-episode-cards-v1]], [[ga4-e389-396-episode-cards-v1]], [[ga4-e397-405-episode-cards-v1]], seven-field pilot E380 state, Four-Function Order and pilot/parallel cast
 Used By: E406–430 compact negotiations, GA4 audits and later succession settlement
 Open Risks: seven-field pilot closes CY 744-02-01 and final compact/sovereign remains unresolved
 

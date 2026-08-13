@@ -4,7 +4,7 @@ Status: REVIEW
 Owner Agents: T01 Astronomy / T02 Navigation-Comms / M01 Grand Strategy / M03 Fleet Operations / P01 Politics / X04 Continuity
 Last Reviewed: 2026-08-03
 Depends On: [[galaxy-node-fleet-economy-scale-v1]], [[academy-white-dock-map-v1]], [[1000-episode-grand-act-map-v1]]
-Used By: GA2 act map, first ship endurance, faction force table, communication clocks, GA3 launch
+Used By: [[ga2-episodes-101-210-act-map-v1]], first ship endurance, faction force table, communication clocks, GA3 launch
 Open Risks: Final names and astronomical coordinates remain provisional; exact orbital mechanics require later calibration
 
 ## 1. Purpose

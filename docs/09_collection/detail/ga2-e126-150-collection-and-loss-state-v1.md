@@ -3,8 +3,8 @@
 Status: REVIEW — COLLECTION/LOSS CONTINUITY
 Owner Agents: G01 Collection / G02 Counter-Collection / G03 Active Load / G04 Reward / G05 Power Creep / G07 Loss / C02 Ensemble / P03 Law / X03 Ethics / X04 Continuity / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: E126–150 cards, GA2 collection registry, Jena loss ledger, voyage/Marn operation state
-Used By: E151–175 cards and B02-02 audit
+Depends On: [[ga2-e126-130-episode-cards-v1]], [[ga2-e131-137-episode-cards-v1]], [[ga2-e138-145-episode-cards-v1]], [[ga2-e146-150-episode-cards-v1]], GA2 collection registry, Jena loss ledger, voyage/Marn operation state
+Used By: [[ga2-e151-160-episode-cards-v1]], [[ga2-e161-168-episode-cards-v1]], [[ga2-e169-175-episode-cards-v1]] and B02-02 audit
 Open Risks: final useful module choice and 061 lineage closure occur in E151–160
 
 ## 1. Active-Window Summary

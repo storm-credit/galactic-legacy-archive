@@ -3,7 +3,7 @@
 Status: REVIEW — LOCKED DECISIVE OPERATION DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / P03 Law / P04 Care / M01 Strategy / M03 Fleet / M05 Logistics / M07 Evacuation / M08 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E671–675, Orpheus 34-hour ledger, named-loss ledger and final route/OOB state
+Depends On: E671–675, Orpheus 34-hour ledger, [[named-loss-and-irreversible-transformation-ledger-v1]] and final route/OOB state
 Used By: E687–690 aftermath, GA7 launch and GA6 final audit
 
 ## Fixed Operation Clock

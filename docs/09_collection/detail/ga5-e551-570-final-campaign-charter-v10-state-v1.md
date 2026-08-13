@@ -3,7 +3,7 @@
 Status: REVIEW — FINAL GA5 COLLECTION / LOSS STATE
 Owner Agents: G01 Codex / G04 Acquisition / G05 Power Creep / G06 Fleet Meta / G07 Loss-Recovery / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E551–570 cards, final operation/cast state and GA5 collection registry
+Depends On: [[ga5-e551-554-episode-cards-v1]], [[ga5-e555-563-episode-cards-v1]], [[ga5-e564-570-episode-cards-v1]], final operation/cast state and GA5 collection registry
 Used By: GA6 E571+, final GA5 audit and project control
 
 ## 1. Autonomous Front Rewards

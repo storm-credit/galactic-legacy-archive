@@ -3,7 +3,7 @@
 Status: REVIEW — SCENE DEPENDENCY LOCK
 Owner Agents: N03 Episode Structure / N05 Mystery-Payoff / N06 Ending / O01 Canon / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: final-payoff template, all GA act maps, master chronology, state checkpoint matrix, canonical names
+Depends On: final-payoff template, all GA act maps, [[master-series-chronology-v1]], state checkpoint matrix, [[core-canonical-names-and-voice-lock-v1]]
 Used By: exact episode cards, scene-card authorization, broken-promise audit
 Open Risks: scene wording, exact supporting victims/witnesses and some location names remain open
 

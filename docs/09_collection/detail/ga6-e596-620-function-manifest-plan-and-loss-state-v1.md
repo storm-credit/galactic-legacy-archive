@@ -3,7 +3,7 @@
 Status: REVIEW — COLLECTION / LOSS / INSTITUTION STATE
 Owner Agents: G01 Codex / G04 Acquisition / G05 Power Creep / G07 Loss-Recovery / P03 Law / P04 Care / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E596–620 cards and operation state
+Depends On: [[ga6-e596-603-episode-cards-v1]], [[ga6-e604-611-episode-cards-v1]], [[ga6-e612-620-episode-cards-v1]] and operation state
 Used By: E621–645 military/route stress testing and B06-02 audit
 
 ## 1. Function-Packet State

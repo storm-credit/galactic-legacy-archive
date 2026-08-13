@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE
 Owner Agents: O02 Gate / X01 Logic / X02 Retention / X03 Ethics / X04 Continuity / P02 Economy / P03 Law / M03 Fleet / G05 Power Creep
 Last Reviewed: 2026-08-03
-Depends On: E73–100 cards, packages, siege state, charter, consolidated first-100 map
+Depends On: [[ga1-episodes-73-78-scene-cards-v1]], [[ga1-episodes-79-84-scene-cards-v1]], [[ga1-episodes-85-92-scene-cards-v1]], [[ga1-episodes-93-100-scene-cards-v1]], packages, siege state, charter, consolidated [[first-100-act-map-v2-consolidated]]
 Used By: GA1 completion status, Pre-Writing Gate, GA2 transition
 Open Risks: human/mobile testing and detailed battle/medical prose remain
 

@@ -3,7 +3,7 @@
 Status: PROJECT CONTROL — B03-01 COMPLETE
 Owner Agents: A00 PM / O01 Canon / O02 Gates / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-04
-Depends On: GA2 final cross-audit, E211–235 cards, Ardis operation/collection state and B03-01 red team
+Depends On: GA2 final cross-audit, [[ga3-e211-218-episode-cards-v1]], [[ga3-e219-226-episode-cards-v1]], [[ga3-e227-235-episode-cards-v1]], Ardis operation/collection state and B03-01 red team
 Used By: next production branch, progress reporting and context handoff
 
 ## 1. Current Progress

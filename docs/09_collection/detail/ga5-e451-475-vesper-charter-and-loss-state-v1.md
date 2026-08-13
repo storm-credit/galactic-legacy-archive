@@ -3,7 +3,7 @@
 Status: REVIEW — COLLECTION / LOSS / INSTITUTION STATE
 Owner Agents: G01 Codex / G04 Acquisition / G05 Power Creep / G07 Loss-Recovery / P02 Economy / P03 Law / M05 Logistics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E451–475 cards, opening OOB, cast and GA5 collection registry
+Depends On: [[ga5-e451-457-episode-cards-v1]], [[ga5-e458-464-episode-cards-v1]], [[ga5-e465-472-episode-cards-v1]], [[ga5-e473-475-episode-cards-v1]], opening OOB, cast and GA5 collection registry
 Used By: E476–510, Charter v0.1, repair/pay arc and B05-01 audit
 
 ## 1. Progress Rule

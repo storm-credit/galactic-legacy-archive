@@ -3,7 +3,7 @@
 Status: CANON PROJECT CONTROL
 Owner Agent: O02 Gate & Risk Controller
 Last Reviewed: 2026-08-03
-Depends On: continuity change record, White Dock state, E21–45 cards, E21–45 red-team
+Depends On: continuity change record, White Dock state, [[ga1-episodes-21-26-scene-cards-v1]], [[ga1-episodes-27-32-scene-cards-v1]], [[ga1-episodes-33-38-scene-cards-v1]], [[ga1-episodes-39-45-scene-cards-v1]], E21–45 red-team
 
 ## Verdict
 

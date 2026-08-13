@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: G01 Codex / G03 Roster / G04 Acquisition / G05 Power Creep / G06 Base-Fleet Meta / G07 Loss-Recovery / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: Ardis city/faction/node bibles, GA3 act map, GA2 registry
+Depends On: Ardis city/faction/node bibles, [[ga3-episodes-211-330-act-map-v1]], GA2 registry
 Used By: GA3 episode planning, payoff tracking, revision harness, GA4 launch
 Open Risks: local names and reader-facing terminology remain provisional; some institutional targets may merge after scene testing
 

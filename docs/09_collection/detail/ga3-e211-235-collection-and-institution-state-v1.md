@@ -3,8 +3,8 @@
 Status: WORKING CANON — COLLECTION / RELATIONSHIP / INSTITUTION STATE
 Owner Agents: G01 Collection / G02 Counter-Collection / G03 Active Load / G04 Reward / G05 Power Creep / G07 Loss / C02 Ensemble / P01 Politics / P03 Law / X03 Ethics / X04 Continuity / O01 Canon
 Last Reviewed: 2026-08-04
-Depends On: GA3 collection registry, Ardis opening state, E211–235 episode cards and operation state
-Used By: E236–260 cards, faction/state tracking and later GA3 cross-audit
+Depends On: GA3 collection registry, Ardis opening state, [[ga3-e211-218-episode-cards-v1]], [[ga3-e219-226-episode-cards-v1]], [[ga3-e227-235-episode-cards-v1]] and operation state
+Used By: [[ga3-e236-240-episode-cards-v1]], [[ga3-e241-247-episode-cards-v1]], [[ga3-e248-254-episode-cards-v1]], [[ga3-e255-260-episode-cards-v1]], faction/state tracking and later GA3 cross-audit
 Open Risks: permanent institution and Spine B/C custody remain later-batch decisions
 
 ## 1. Rule

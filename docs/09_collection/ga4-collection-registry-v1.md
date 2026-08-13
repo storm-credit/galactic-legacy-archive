@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: G01 Codex / G03 Roster / G04 Acquisition / G05 Power Creep / G07 Loss-Recovery / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: succession law/claimants, claimant bibles, GA4 act map, series payoff ledger
+Depends On: succession law/claimants, claimant bibles, [[ga4-episodes-331-450-act-map-v1]], [[series-payoff-ledger-v1]]
 Used By: GA4 episode planning, evidence/authority tracking, GA5 launch
 Open Risks: exact claimant names and protocol wording open; document count may require reader-facing consolidation
 

@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE
 Owner Agents: O02 Gate / X01 Logic / X02 Retention / X03 Ethics / X04 Continuity / R07 Similarity / M04 Combat / P03 Law / G05 Power Creep
 Last Reviewed: 2026-08-03
-Depends On: E21–45 scene cards, White Dock state, continuity change record, opening-20 red-team
+Depends On: [[ga1-episodes-21-26-scene-cards-v1]], [[ga1-episodes-27-32-scene-cards-v1]], [[ga1-episodes-33-38-scene-cards-v1]], [[ga1-episodes-39-45-scene-cards-v1]], White Dock state, continuity change record, opening-20 red-team
 Used By: E21–45 status, future prose/scene revision, E46–72 preparation
 Open Risks: human/mobile test and named minor casualty/operative detail remain
 

@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE
 Owner Agents: O02 Gate Controller / X01 Logic / X02 Reader Drop-Off / X03 Ethics / X04 Continuity / R07 Originality
 Last Reviewed: 2026-08-03
-Depends On: original timeline, academy bible, collection bible, faction bible, character bibles, first frame, first-20 map, divergence ledger
+Depends On: [[original-timeline-v1]], [[prison-military-academy-bible-v1]], collection bible, faction bible, character bibles, first frame, first-20 map, divergence ledger
 Used By: Gate status, macro architecture queue
 Open Risks: Detailed numbers and maps remain absent
 

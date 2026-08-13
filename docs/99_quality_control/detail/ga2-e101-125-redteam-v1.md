@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE — PASS WITH CONTROLLED S1 RISKS
 Owner Agents: A16 Red Team / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity / X06 Coverage / N07 Retention / O01 Canon / O02 Gates
 Last Reviewed: 2026-08-03
-Depends On: E101–125 episode cards, opening ship state, operation state, collection update, crew errata 003
+Depends On: [[ga2-e101-107-episode-cards-v1]], [[ga2-e108-114-episode-cards-v1]], [[ga2-e115-121-episode-cards-v1]], [[ga2-e122-125-episode-cards-v1]], opening ship state, operation state, collection update, crew errata 003
 Used By: B02-01 merge gate and E126–150 continuation
 Open Risks: exact E126–130 outcome and first-contract financial settlement remain next-batch work
 

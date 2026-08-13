@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED OPERATION STATE
 Owner Agents: M01 Strategy / M03 Fleet Operations / M05 Logistics / M07 Command / P02 Economy / P03 Law / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: GA4 final compact, ownerless-fleet structure, Vesper theater map, GA5 act map
-Used By: E451–475 cards, charter v0.1, readiness/loss ledger and B05-01 red team
+Depends On: GA4 final compact, ownerless-fleet structure, [[ga5-theater-route-and-campaign-map-v1]], [[ga5-episodes-451-570-act-map-v1]]
+Used By: [[ga5-e451-457-episode-cards-v1]], [[ga5-e458-464-episode-cards-v1]], [[ga5-e465-472-episode-cards-v1]], [[ga5-e473-475-episode-cards-v1]], charter v0.1, readiness/loss ledger and B05-01 red team
 
 ## 1. Canonical Time Envelope
 

@@ -3,7 +3,7 @@
 Status: REVIEW — COLLECTION / LOSS / INSTITUTION STATE
 Owner Agents: G01 Codex / G04 Acquisition / G05 Power Creep / G07 Loss-Recovery / P02 Economy / P03 Law / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E476–500 cards, operation state, cast and GA5 collection registry
+Depends On: [[ga5-e476-480-episode-cards-v1]], [[ga5-e481-487-episode-cards-v1]], [[ga5-e488-494-episode-cards-v1]], [[ga5-e495-500-episode-cards-v1]], operation state, cast and GA5 collection registry
 Used By: E501–525, Charter revisions and B05-02 audit
 
 ## 1. Charter v0.1

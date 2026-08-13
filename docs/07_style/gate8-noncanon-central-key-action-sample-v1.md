@@ -3,7 +3,7 @@
 Status: TEST MATERIAL — NOT CANONICAL MANUSCRIPT
 Owner Agents: L01 Prose / L02 POV / M08 Command Ethics / T07 Networks / X02 Reader / O02 Gate
 Last Reviewed: 2026-08-03
-Depends On: E91–96 scene cards, siege state, charter and 07 operational state
+Depends On: [[ga1-episodes-85-92-scene-cards-v1]], [[ga1-episodes-93-100-scene-cards-v1]], siege state, charter and 07 operational state
 Used By: centralization tradeoff, multi-front clarity, institutional-action and mobile-readability test
 Open Risks: central-interface physical design and exact casualty placement remain provisional
 

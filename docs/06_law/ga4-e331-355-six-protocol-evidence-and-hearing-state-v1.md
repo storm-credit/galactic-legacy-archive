@@ -3,7 +3,7 @@
 Status: WORKING CANON — LAW / OPERATION / EVIDENCE / CURRENT AUTHORITY STATE
 Owner Agents: P01 Politics / P02 Economy / P03 Law / P04 Care / P06 Factions / T02 Navigation / T07 Networks / M03 Fleet / M05 Logistics / M06 Intelligence / M07 Command / X01 Logic / X03 Ethics / X04 Continuity / O01 Canon
 Last Reviewed: 2026-08-04
-Depends On: GA3 Joint Trust close, E331–355 detailed cards, claimant/evidence cast and GA4 act map
+Depends On: GA3 Joint Trust close, [[ga4-e331-337-episode-cards-v1]], [[ga4-e338-345-episode-cards-v1]], [[ga4-e346-353-episode-cards-v1]], [[ga4-e354-355-episode-cards-v1]], claimant/evidence cast and [[ga4-episodes-331-450-act-map-v1]]
 Used By: E356–380 hearing/claimant production, GA4 audits and all later succession references
 Open Risks: final trigger hierarchy, accession remedy and claimant compact remain later GA4 work
 

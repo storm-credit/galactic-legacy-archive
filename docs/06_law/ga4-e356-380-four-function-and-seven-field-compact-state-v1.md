@@ -3,7 +3,7 @@
 Status: WORKING CANON — LAW / OPERATION / CURRENT AUTHORITY STATE
 Owner Agents: P01 Politics / P02 Economy / P03 Law / P04 Care / P06 Factions / T02 Navigation / T03 Habitat Systems / T07 Networks / M01 Strategy / M03 Fleet / M05 Logistics / M07 Command / X01 Logic / X03 Ethics / X04 Continuity / O01 Canon
 Last Reviewed: 2026-08-04
-Depends On: E356–380 cards, B04-02 correction 001 and GA4 claimant/evidence state
+Depends On: [[ga4-e356-360-episode-cards-v1]], [[ga4-e361-368-episode-cards-v1]], [[ga4-e369-376-episode-cards-v1]], [[ga4-e377-380-episode-cards-v1]], B04-02 correction 001 and GA4 claimant/evidence state
 Used By: E381–405 pilot missions, compact audits and later succession settlement
 Open Risks: final sovereign, accession and post-pilot compact remain later GA4 work
 

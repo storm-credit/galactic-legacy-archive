@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED ROUTE / SERVICE OPERATION STATE
 Owner Agents: M05 Logistics / M07 Command / P02 Economy / P03 Law / P04 Care / P06 Factions / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E691–715 cards and GA6 final state
+Depends On: [[ga7-e691-697-episode-cards-v1]], [[ga7-e698-706-episode-cards-v1]], [[ga7-e707-715-episode-cards-v1]] and GA6 final state
 Used By: E716–745 signature investigation and B07-01 audit
 
 ## 1. Chronology

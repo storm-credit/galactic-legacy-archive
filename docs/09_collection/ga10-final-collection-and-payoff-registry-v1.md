@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: G01 Codex / G03 Roster / G04 Acquisition / G05 Power Creep / G07 Loss-Recovery / N05 Mystery-Payoff / N06 Ending / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: GA10 transition bible, GA10 act map, series payoff ledger, all prior collection registries
+Depends On: GA10 transition bible, [[ga10-episodes-1001-1100-act-map-v1]], [[series-payoff-ledger-v1]], all prior collection registries
 Used By: final episode planning, ending audit, epilogue and broken-promise review
 Open Risks: exact regional outcomes, P-001 index/health state, 07/first-ship fate and final relationship outcomes remain open
 

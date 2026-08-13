@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE
 Owner Agents: O02 Gate Controller / R07 Originality / X01 Adversarial Logic / X02 Reader Drop-Off / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: Gate 1 baseline, four directions, canon core packet, lattice warfare rules
+Depends On: Gate 1 baseline, four directions, [[canon-core-packet-v1]], lattice warfare rules
 Used By: Gate status, next design queue
 Open Risks: Some fixes require Gate 4–6 detail rather than concept revision
 

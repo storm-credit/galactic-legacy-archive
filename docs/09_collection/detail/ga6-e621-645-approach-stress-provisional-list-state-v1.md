@@ -3,7 +3,7 @@
 Status: REVIEW — COLLECTION / LOSS / INSTITUTION STATE
 Owner Agents: G01 Codex / G04 Acquisition / G05 Power Creep / G07 Loss-Recovery / M07 Evacuation / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E621–645 cards and operation state
+Depends On: [[ga6-e621-628-episode-cards-v1]], [[ga6-e629-637-episode-cards-v1]], [[ga6-e638-645-episode-cards-v1]] and operation state
 Used By: E646–670 final preparation and B06-03 audit
 
 ## 1. Approach Threat State

@@ -3,7 +3,7 @@
 Status: REVIEW — WORKING CANON
 Owner Agents: C01 Character / P01 Politics / P09 Institutions / N08 Faction Arcs / O01 Canon / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: core canonical names, GA4–GA10 actor bibles, [[named-loss-and-irreversible-transformation-ledger-v1]], [[faction-succession-culture-visual-identity-matrix-v1]]
+Depends On: core [[core-canonical-names-and-voice-lock-v1]], GA4–GA10 actor bibles, [[named-loss-and-irreversible-transformation-ledger-v1]], [[faction-succession-culture-visual-identity-matrix-v1]]
 Used By: GA4–GA10 character/faction state, office changes, supporting cast and ending continuity
 Open Risks: exact episode of some resignations/elections, phonetic testing for new names
 

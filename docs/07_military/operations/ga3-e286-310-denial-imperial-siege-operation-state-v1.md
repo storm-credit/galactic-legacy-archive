@@ -3,8 +3,8 @@
 Status: WORKING CANON — OPERATION / FORCE / RESOURCE / AUTHORITY STATE
 Owner Agents: M01 Strategy / M02 Operational Art / M03 Fleet Operations / M04 Frame Tactics / M05 Logistics / M06 Intelligence / M07 Command / T02 Navigation / T03 Habitat Systems / T07 Networks / H02 Ship / H03 Sensors / H04 Maintenance / H05 Medical / H06 Damage / P01 Politics / P02 Economy / P03 Law / X01 Logic / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E261–285 state, E286–310 cards, B03-04 continuity correction 001 and GA3 act map
-Used By: E311–330 cards, final GA3 siege/joint-window state and cross-audit
+Depends On: E261–285 state, [[ga3-e286-292-episode-cards-v1]], [[ga3-e293-300-episode-cards-v1]], [[ga3-e301-310-episode-cards-v1]], B03-04 continuity correction 001 and [[ga3-episodes-211-330-act-map-v1]]
+Used By: [[ga3-e311-314-episode-cards-v1]], [[ga3-e315-323-episode-cards-v1]], [[ga3-e324-330-episode-cards-v1]], final GA3 siege/joint-window state and cross-audit
 Open Risks: final A+B+C live window, Toma E322 death and post-siege treaty remain later work
 
 ## 1. Time Window

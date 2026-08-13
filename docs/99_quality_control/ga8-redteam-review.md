@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE
 Owner Agents: O02 Gate / X01 Logic / X02 Retention / X03 Ethics / X04 Continuity / R07 Similarity / N05 Mystery-Payoff / T04 AI
 Last Reviewed: 2026-08-03
-Depends On: Archive sites/Seed architecture, record-war factions, GA8 act map and registry
+Depends On: Archive sites/Seed architecture, record-war factions, [[ga8-episodes-801-900-act-map-v1]] and registry
 Used By: GA8 status, Gate 6 issue, GA9 prerequisites
 Open Risks: exact site/activation state sheets, irreversible entity loss and representative names remain open
 

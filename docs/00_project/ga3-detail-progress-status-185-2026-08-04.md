@@ -3,7 +3,7 @@
 Status: PROJECT CONTROL — B03-03 COMPLETE
 Owner Agents: A00 PM / O01 Canon / O02 Gates / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-04
-Depends On: E261–285 cards, defense/Helix cast, operation/collection state and B03-03 red team
+Depends On: [[ga3-e261-263-episode-cards-v1]], [[ga3-e264-270-episode-cards-v1]], [[ga3-e271-277-episode-cards-v1]], [[ga3-e278-285-episode-cards-v1]], defense/Helix cast, operation/collection state and B03-03 red team
 Used By: next production branch, progress reporting and context handoff
 
 ## 1. Current Progress

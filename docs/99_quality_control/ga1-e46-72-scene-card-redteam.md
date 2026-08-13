@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE
 Owner Agents: O02 Gate / X01 Logic / X02 Retention / X03 Ethics / X04 Continuity / T04 Medical / P03 Rights / R07 Similarity / G05 Power Creep
 Last Reviewed: 2026-08-03
-Depends On: E46–72 scene cards, imitation-cell bible, Black Ward/supply/07 state
+Depends On: [[ga1-episodes-46-51-scene-cards-v1]], [[ga1-episodes-52-58-scene-cards-v1]], [[ga1-episodes-59-65-scene-cards-v1]], [[ga1-episodes-66-72-scene-cards-v1]], imitation-cell bible, Black Ward/supply/07 state
 Used By: E46–72 status, E73–100 preparation, later prose tests
 Open Risks: clinical terminology and human/mobile pacing remain external requirements
 

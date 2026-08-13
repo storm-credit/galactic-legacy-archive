@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N05 Mystery / N07 Retention / C02 Ensemble / C05 Psychology / T03 Life Support / T06 Mecha / T07 Networks / H04 Maintenance / H05 Medical / H06 Damage / M03–M06 Operations / P02 Economy / P03 Law / G02 Counter-Collection / G05 Power Creep / G07 Loss / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: [[ga2-e138-145-episode-cards-v1]], named-loss ledger, weapons/thermal calibration, reproductive/continuity medicine limits
+Depends On: [[ga2-e138-145-episode-cards-v1]], [[named-loss-and-irreversible-transformation-ledger-v1]], weapons/thermal calibration, reproductive/continuity medicine limits
 Used By: [[ga2-e151-160-episode-cards-v1]], [[ga2-e161-168-episode-cards-v1]], [[ga2-e169-175-episode-cards-v1]], Jena loss aftermath, 061 provenance and open-standard safety arcs
 Open Risks: exact long-term compensation and controller title remain E151–160 matters
 

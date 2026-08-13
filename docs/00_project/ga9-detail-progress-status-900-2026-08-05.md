@@ -3,7 +3,7 @@
 Status: PROJECT CONTROL — GA9 COMPLETE
 Owner Agents: A00 PM / O01 Canon / O02 Gates / N01 Architecture / N06 Ending / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-05
-Depends On: E901–1000 detailed cards, all GA9 state files and final cross-audit
+Depends On: [[ga9-e901-910-episode-cards-v1]], [[ga9-e911-918-episode-cards-v1]], [[ga9-e919-925-episode-cards-v1]], [[ga9-e926-935-episode-cards-v1]], [[ga9-e936-943-episode-cards-v1]], [[ga9-e944-950-episode-cards-v1]], [[ga9-e951-960-episode-cards-v1]], [[ga9-e961-968-episode-cards-v1]], [[ga9-e969-975-episode-cards-v1]], [[ga9-e976-985-episode-cards-v1]], [[ga9-e986-993-episode-cards-v1]], [[ga9-e994-1000-episode-cards-v1]], all GA9 state files and final cross-audit
 Used By: GA10 production, project reporting and context handoff
 
 ## 1. Current Progress

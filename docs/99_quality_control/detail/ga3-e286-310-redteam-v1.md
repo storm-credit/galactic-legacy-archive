@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE — B03-04 PASS
 Owner Agents: O02 Gate / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity / N04 Causality / N07 Retention / P01 Politics / P02 Economy / P03 Law / P04 Care / T02 Navigation / T03 Habitat Systems / H04 Maintenance / H05 Medical / M01–M07 / G05 Power Creep
 Last Reviewed: 2026-08-04
-Depends On: E286–310 cards, cast, operation state, collection/loss state and continuity correction 001
+Depends On: [[ga3-e286-292-episode-cards-v1]], [[ga3-e293-300-episode-cards-v1]], [[ga3-e301-310-episode-cards-v1]], cast, operation state, collection/loss state and continuity correction 001
 Used By: GA3 progress status and E311–330 production
 Open Risks: final A+B+C live window, Toma E322 death and permanent joint trust intentionally deferred
 

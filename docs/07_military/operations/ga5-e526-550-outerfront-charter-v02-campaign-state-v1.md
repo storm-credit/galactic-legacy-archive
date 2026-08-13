@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED OPERATION STATE
 Owner Agents: M01 Strategy / M02 Operational Art / M03 Fleet / M05 Logistics / M06 Intelligence / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E526–550 cards, B05-03 state, GA5 theater map
+Depends On: [[ga5-e526-533-episode-cards-v1]], [[ga5-e534-540-episode-cards-v1]], [[ga5-e541-547-episode-cards-v1]], [[ga5-e548-550-episode-cards-v1]], B05-03 state, GA5 theater map
 Used By: E551–570 final campaign, Charter v1.0 and B05-04 audit
 
 ## 1. Chronology and Legal Terms

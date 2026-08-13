@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE
 Owner Agents: O02 Gate / X01 Logic / X02 Retention / X03 Ethics / X04 Continuity / R07 Similarity / M01 Strategy / G05 Power Creep
 Last Reviewed: 2026-08-03
-Depends On: Ardis city/faction/node bibles, GA3 act map, GA3 collection registry
+Depends On: Ardis city/faction/node bibles, [[ga3-episodes-211-330-act-map-v1]], GA3 collection registry
 Used By: GA3 status, Gate 6 issue, GA4 prerequisites
 Open Risks: exact battle maps, local voices and succession payload remain open
 

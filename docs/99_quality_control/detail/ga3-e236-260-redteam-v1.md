@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE — B03-02 PASS
 Owner Agents: O02 Gate / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity / N04 Causality / N07 Retention / P01 Politics / P02 Economy / P03 Law / P04 Care / T02 Navigation / T03 Habitat Systems / H04 Maintenance / M03 Fleet / M05 Logistics / G05 Power Creep
 Last Reviewed: 2026-08-04
-Depends On: E236–260 cards, local cast, operation state and collection/institution state
+Depends On: [[ga3-e236-240-episode-cards-v1]], [[ga3-e241-247-episode-cards-v1]], [[ga3-e248-254-episode-cards-v1]], [[ga3-e255-260-episode-cards-v1]], local cast, operation state and collection/institution state
 Used By: GA3 progress status and E261–285 production
 Open Risks: first live Spine B window, permanent citizenship and later defense command remain intentionally outside this batch
 

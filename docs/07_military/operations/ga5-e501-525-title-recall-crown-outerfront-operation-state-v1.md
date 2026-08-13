@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED OPERATION STATE
 Owner Agents: M01 Strategy / M03 Fleet / M05 Logistics / M07 Command / P03 Law / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E501–525 cards, B05-03 continuity clarification, prior GA5 state
+Depends On: [[ga5-e501-510-episode-cards-v1]], [[ga5-e511-517-episode-cards-v1]], [[ga5-e518-524-episode-cards-v1]], B05-03 continuity clarification, prior GA5 state
 Used By: E526–550, Charter v0.2 and B05-03 audit
 
 ## 1. Chronology and Charter Term

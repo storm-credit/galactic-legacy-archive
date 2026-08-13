@@ -3,7 +3,7 @@
 Status: REVIEW — CANON LOCK CANDIDATE
 Owner Agents: O01 Canon / X04 Continuity / N04 Causality / G07 Loss-Recovery / M03 Fleet / P09 Institutions
 Last Reviewed: 2026-08-03
-Depends On: all GA act maps, collection registries, master chronology, canonical names
+Depends On: all GA act maps, collection registries, [[master-series-chronology-v1]], [[core-canonical-names-and-voice-lock-v1]]
 Used By: episode cards, battle/service state sheets, sequel-prevention audit, final fates
 Open Risks: exact numeric inventory and named casualty lists remain open
 

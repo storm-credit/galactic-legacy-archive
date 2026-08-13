@@ -3,7 +3,7 @@
 Status: REVIEW — OPERATIONAL STATE LOCK
 Owner Agents: M02 Operational Art / M03 Fleet Operations / M04 Frame Tactics / M05 Logistics / M06 Intelligence / T02 Navigation / T03 Life Support / H02 Ship / H03 Sensors / H04 Maintenance / H05 Medical / H06 Damage / X01 Logic / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: E122–125 cards, weapons calibration, opening ship finance/state, route topology
+Depends On: [[ga2-e122-125-episode-cards-v1]], weapons calibration, opening ship finance/state, route topology
 Used By: E126–130 operation cards and B02-01 audit
 Open Risks: exact identity and loadout of the two small contacts remain deliberately unresolved
 

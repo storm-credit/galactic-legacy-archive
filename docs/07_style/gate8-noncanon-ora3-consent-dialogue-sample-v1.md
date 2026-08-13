@@ -3,7 +3,7 @@
 Status: TEST MATERIAL — NOT CANONICAL MANUSCRIPT
 Owner Agents: L01 Prose / C06 Voice / T05 AI / P03 Rights / X02 Reader / O02 Gate
 Last Reviewed: 2026-08-03
-Depends On: E57–61 scene cards, Black Ward/ORA-3 state, prose harness
+Depends On: [[ga1-episodes-52-58-scene-cards-v1]], [[ga1-episodes-59-65-scene-cards-v1]], Black Ward/ORA-3 state, prose harness
 Used By: AI-voice, consent/provenance, medical/record terminology and emotional-payoff test
 Open Risks: human reader result absent; final ORA-3 interface presentation remains provisional
 

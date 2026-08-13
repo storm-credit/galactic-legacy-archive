@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED OPERATION STATE
 Owner Agents: M03 Fleet / M05 Logistics / M07 Command / H04 Maintenance / P02 Economy / P03 Law / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E476–500 cards, continuity clarification 001, B05-01 state
+Depends On: [[ga5-e476-480-episode-cards-v1]], [[ga5-e481-487-episode-cards-v1]], [[ga5-e488-494-episode-cards-v1]], [[ga5-e495-500-episode-cards-v1]], continuity clarification 001, B05-01 state
 Used By: E501–525, Charter v0.1/v0.2, repair/pay/rescue continuity and audit
 
 ## 1. Chronology

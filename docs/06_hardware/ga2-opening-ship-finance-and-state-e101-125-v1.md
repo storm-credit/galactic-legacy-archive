@@ -3,8 +3,8 @@
 Status: WORKING CANON — B02-01 OPERATIONAL LOCK
 Owner Agents: H02 Ship Architecture / H04 Maintenance / M03 Fleet Operations / M05 Logistics / P02 Political Economy / P03 Law / X01 Logic / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: first-ship bible, crew errata 003, GA1 E100 state, macro economy and GA2 act map
-Used By: E101–125 episode cards, crew/payroll, repair and first mission
+Depends On: first-ship bible, crew errata 003, GA1 E100 state, macro economy and [[ga2-episodes-101-210-act-map-v1]]
+Used By: [[ga2-e101-107-episode-cards-v1]], [[ga2-e108-114-episode-cards-v1]], [[ga2-e115-121-episode-cards-v1]], [[ga2-e122-125-episode-cards-v1]], crew/payroll, repair and first mission
 Open Risks: exact individual worker shares may change inside the locked totals
 
 ## 1. Time and Location

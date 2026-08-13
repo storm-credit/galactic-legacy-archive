@@ -3,7 +3,7 @@
 Status: REVIEW — CANON CANDIDATE SELECTED
 Owner Agents: N05 Mystery-Payoff / N06 Ending / T06 Time Causality / T04 AI / R02 Theme / P10 Ideology / X01 Red Team
 Last Reviewed: 2026-08-03
-Depends On: canon core packet, original timeline, collection bible, protagonist arc
+Depends On: [[canon-core-packet-v1]], [[original-timeline-v1]], collection bible, protagonist arc
 Used By: Gate 6 macro architecture, payoff ledger, Archive rules
 Open Risks: Overabstract ending, system-as-final-villain cliché, loss of human faction stakes
 

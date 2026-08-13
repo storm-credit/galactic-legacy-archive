@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE
 Owner Agents: O02 Gate / X01 Logic / X02 Retention / X03 Ethics / X04 Continuity / R07 Similarity / M03 Fleet / M05 Logistics
 Last Reviewed: 2026-08-03
-Depends On: ownerless fleet structure, commander bibles, Vesper theater, GA5 act map, GA5 registry
+Depends On: ownerless fleet structure, commander bibles, Vesper theater, [[ga5-episodes-451-570-act-map-v1]], GA5 registry
 Used By: GA5 status, Gate 6 issue, GA6 prerequisites
 Open Risks: exact battle state sheets, rejecter force and Orpheus counts remain open
 

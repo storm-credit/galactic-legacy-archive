@@ -3,7 +3,7 @@
 Status: REVIEW — FINAL INSTITUTION / AUTHORITY STATE
 Owner Agents: P03 Law / P04 Care / P06 Factions / M05 Logistics / M06 Intelligence / N06 Ending / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: GA10 E1076–1100 cards and all prior GA2–GA10 authority states
+Depends On: [[ga10-e1076-1085-episode-cards-v1]], [[ga10-e1086-1093-episode-cards-v1]], [[ga10-e1094-1100-episode-cards-v1]] and all prior GA2–GA10 authority states
 Used By: final project audit, future gate review and canon reference
 
 ## 1. Gate and Final Scope

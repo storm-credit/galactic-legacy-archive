@@ -3,7 +3,7 @@
 Status: CANON PROJECT CONTROL
 Owner Agent: O02 Gate & Risk Controller
 Last Reviewed: 2026-08-03
-Depends On: Academy/07 state, E1–5 test cards, E6–20 scene cards, opening red-team
+Depends On: Academy/07 state, E1–5 test cards, [[ga1-episodes-6-10-scene-cards-v1]], [[ga1-episodes-11-15-scene-cards-v1]], [[ga1-episodes-16-20-scene-cards-v1]], opening red-team
 
 ## Verdict
 

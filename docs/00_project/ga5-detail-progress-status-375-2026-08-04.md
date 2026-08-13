@@ -3,7 +3,7 @@
 Status: PROJECT CONTROL — B05-01 COMPLETE
 Owner Agents: A00 PM / O01 Canon / O02 Gates / N01 Architecture / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-04
-Depends On: E451–475 cards, opening OOB/cast, collection/loss state and B05-01 red team
+Depends On: [[ga5-e451-457-episode-cards-v1]], [[ga5-e458-464-episode-cards-v1]], [[ga5-e465-472-episode-cards-v1]], [[ga5-e473-475-episode-cards-v1]], opening OOB/cast, collection/loss state and B05-01 red team
 Used By: next GA5 branch, project reporting and context handoff
 
 ## 1. Current Progress

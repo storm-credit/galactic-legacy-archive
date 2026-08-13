@@ -3,7 +3,7 @@
 Status: REVIEW — ACT/SUBACT LEVEL ONLY
 Owner Agents: N02 Act Architecture / N03 Episode Structure / N07 Retention / G04 Reward Cadence / P06 Faction Clock / C04 Relationship
 Last Reviewed: 2026-08-03
-Depends On: first-20 causality map, academy bible, character/faction bibles, payoff ledger, [[1000-episode-grand-act-map-v1]]
+Depends On: first-20 causality map, [[prison-military-academy-bible-v1]], character/faction bibles, payoff ledger, [[1000-episode-grand-act-map-v1]]
 Used By: First-100 collectible inventory, character additions, scene-card authorization
 Open Risks: Density in episodes 1–20, legal/investigative slowdown, excessive academy conspiracy, provisional cast
 

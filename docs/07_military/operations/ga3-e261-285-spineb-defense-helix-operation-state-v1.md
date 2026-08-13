@@ -3,8 +3,8 @@
 Status: WORKING CANON — OPERATION / FORCE / RESOURCE / AUTHORITY STATE
 Owner Agents: M01 Strategy / M02 Operational Art / M03 Fleet Operations / M04 Frame Tactics / M05 Logistics / M06 Intelligence / M07 Command / T02 Navigation / T03 Habitat Systems / T07 Networks / H02 Ship / H03 Sensors / H04 Maintenance / H05 Medical / H06 Damage / P01 Politics / P02 Economy / P03 Law / X01 Logic / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E236–260 state, E261–285 detailed cards, force holdings matrix
-Used By: E286–310 cards, Spine C/denial conflict, Imperial arrival and GA3 audits
+Depends On: E236–260 state, [[ga3-e261-263-episode-cards-v1]], [[ga3-e264-270-episode-cards-v1]], [[ga3-e271-277-episode-cards-v1]], [[ga3-e278-285-episode-cards-v1]], force holdings matrix
+Used By: [[ga3-e286-292-episode-cards-v1]], [[ga3-e293-300-episode-cards-v1]], [[ga3-e301-310-episode-cards-v1]], Spine C/denial conflict, Imperial arrival and GA3 audits
 Open Risks: denial-network map, Imperial task-group exact arrival and first active siege remain later work
 
 ## 1. Time Window

@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED OPERATION STATE
 Owner Agents: M01 Strategy / M03 Fleet / M05 Logistics / M07 Evacuation / P03 Law / P04 Care / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E646–670 cards and B06-03 state
+Depends On: [[ga6-e646-653-episode-cards-v1]], [[ga6-e654-661-episode-cards-v1]], [[ga6-e662-670-episode-cards-v1]] and B06-03 state
 Used By: E671–690 final pre-window/operation and B06-04 audit
 
 ## 1. Chronology

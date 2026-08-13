@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: G01 Codex / G03 Roster / G04 Acquisition / G05 Power Creep / G06 Base-Fleet Meta / G07 Loss-Recovery / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: first-100 registry, first ship, crew bible, route graph, community split model, GA2 act map
+Depends On: first-100 registry, first ship, crew bible, route graph, community split model, [[ga2-episodes-101-210-act-map-v1]]
 Used By: GA2 episode planning, Archive displays, module/rights tracking, revision harness
 Open Risks: Reader-facing naming and consolidation remain provisional; exact episode placements may shift
 

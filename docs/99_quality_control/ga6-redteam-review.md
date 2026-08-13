@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE
 Owner Agents: O02 Gate / X01 Logic / X02 Retention / X03 Ethics / X04 Continuity / R07 Similarity / M08 Command Ethics / N05 Mystery-Payoff
 Last Reviewed: 2026-08-03
-Depends On: Orpheus incident packet, decision actors, GA6 act map and collection registry
+Depends On: Orpheus incident packet, decision actors, [[ga6-episodes-571-690-act-map-v1]] and collection registry
 Used By: GA6 status, Gate 6 issue, GA7 prerequisites
 Open Risks: exact allocation/losses and battle state sheets remain open
 

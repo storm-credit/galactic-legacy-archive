@@ -3,7 +3,7 @@
 Status: PROJECT CONTROL — GA6 DETAIL COMPLETE
 Owner Agents: A00 PM / O01 Canon / O02 Gates / N01 Architecture / X04 Continuity / X06 Coverage
 Last Reviewed: 2026-08-04
-Depends On: all GA6 E571–690 cards, final operation/cast/collection state and GA6 final cross-audit
+Depends On: all [[ga6-e571-577-episode-cards-v1]], [[ga6-e578-584-episode-cards-v1]], [[ga6-e585-590-episode-cards-v1]], [[ga6-e591-595-episode-cards-v1]], [[ga6-e596-603-episode-cards-v1]], [[ga6-e604-611-episode-cards-v1]], [[ga6-e612-620-episode-cards-v1]], [[ga6-e621-628-episode-cards-v1]], [[ga6-e629-637-episode-cards-v1]], [[ga6-e638-645-episode-cards-v1]], [[ga6-e646-653-episode-cards-v1]], [[ga6-e654-661-episode-cards-v1]], [[ga6-e662-670-episode-cards-v1]], [[ga6-e671-675-episode-cards-v1]], [[ga6-e676-686-episode-cards-v1]], [[ga6-e687-690-episode-cards-v1]], final operation/cast/collection state and GA6 final cross-audit
 Used By: GA7 production, project reporting and context handoff
 
 ## 1. Current Progress

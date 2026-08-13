@@ -3,7 +3,7 @@
 Status: PASS — QUALITY CONTROL / CANON LOCK
 Owner Agents: X01 Red Team / X02 Numbers / X03 Legal Logic / X04 Continuity / X05 Character Agency / X06 Coverage / O02 Gates
 Last Reviewed: 2026-08-05
-Depends On: E766–790 episode cards; institution, cast and collection/loss state files
+Depends On: [[ga7-e766-775-episode-cards-v1]], [[ga7-e776-783-episode-cards-v1]], [[ga7-e784-790-episode-cards-v1]]; institution, cast and collection/loss state files
 Used By: B07-04 merge decision, E791–800 final batch, GA7 cross-audit
 
 ## 1. Audit Scope
