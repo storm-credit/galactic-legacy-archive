@@ -16,6 +16,7 @@ on:
       - 'templates/**'
       - 'tools/validate_canon.py'
       - 'tools/build_index.py'
+      - 'tools/build_catalog.py'
       - 'tools/validate_mecha_lineup.py'
       - 'tools/validate_frame_formation_integration.py'
       - 'tools/validate_role_demand_portfolio.py'
@@ -29,6 +30,7 @@ on:
       - 'templates/**'
       - 'tools/validate_canon.py'
       - 'tools/build_index.py'
+      - 'tools/build_catalog.py'
       - 'tools/validate_mecha_lineup.py'
       - 'tools/validate_frame_formation_integration.py'
       - 'tools/validate_role_demand_portfolio.py'
@@ -54,6 +56,8 @@ jobs:
         run: python tools/validate_canon.py
       - name: Check the generated index is current
         run: python tools/build_index.py --check
+      - name: Check the generated catalogue is current
+        run: python tools/build_catalog.py --check
       - name: Verify mecha lineup checks still fire
         run: python tools/validate_mecha_lineup.py --selftest
       - name: Validate mecha lineup planning data
