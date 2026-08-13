@@ -16,9 +16,9 @@
 | 문서 | 표기 수 |
 |---|---:|
 | [[frame-formation-combat-and-collectibility-integration-audit-v1]] | 5 |
+| [[decision-log]] | 4 |
 | [[collection-desire-master-architecture-and-index-audit-v1]] | 4 |
 | [[role-demand-portfolio-count-audit-v1]] | 3 |
-| [[decision-log]] | 2 |
 | [[initial-five-faction-bible-v1]] | 2 |
 | [[maneuver-frame-lineup-master-architecture-v1]] | 2 |
 | [[first-writing-batch-readiness-v1]] | 1 |

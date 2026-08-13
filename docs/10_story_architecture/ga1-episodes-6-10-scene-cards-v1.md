@@ -29,7 +29,7 @@ POV:
 
 ---
 
-# Episode 6 — 열세 칸
+# Episode 6 — 열세 칸의 오차
 
 Date:
 - CY 742-03-22.
@@ -133,7 +133,7 @@ Clues:
 
 ---
 
-# Episode 7 — 주인이 여섯인 기체
+# Episode 7 — 07호 소유권 주장 6건
 
 Date:
 - CY 742-03-23.
@@ -213,7 +213,7 @@ Clues:
 
 ---
 
-# Episode 8 — 왕의 열쇠가 연 문
+# Episode 8 — 아르젠의 열쇠, 권한 미상
 
 Date:
 - CY 742-03-24.
@@ -290,7 +290,7 @@ Clues:
 
 ---
 
-# Episode 9 — 기록은 먼저 배신한다
+# Episode 9 — 기록이 먼저 배신한다
 
 Date:
 - CY 742-03-25.
@@ -353,7 +353,7 @@ Clues:
 
 ---
 
-# Episode 10 — 살아 있는데 죽은 사람
+# Episode 10 — 종결 처리된 신원
 
 Date:
 - CY 742-03-25 evening to 03-26.

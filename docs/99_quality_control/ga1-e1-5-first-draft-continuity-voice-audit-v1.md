@@ -19,7 +19,7 @@ The five episodes may be merged into `main` under the clearly marked `manuscript
 
 ## 2. Episode Causality
 
-### Episode 1 — 역사에 없는 생도
+### Episode 1 — 색인에 없는 생도
 
 Goal:
 - survive intake without exposure and prevent the 07 accident.
@@ -42,7 +42,7 @@ Hook:
 Verdict:
 - PASS.
 
-### Episode 2 — 한 사람의 벌이 서른여섯 명에게 간다
+### Episode 2 — 연대 책임 36인
 
 Goal:
 - avoid simple sabotage classification and understand linked liability.
@@ -65,7 +65,7 @@ Hook:
 Verdict:
 - PASS.
 
-### Episode 3 — 조종사는 기체를 고칠 수 없다
+### Episode 3 — 출력 제한 기동 허가
 
 Goal:
 - make 07 satisfy minimum retest movement conditions.
@@ -88,7 +88,7 @@ Hook:
 Verdict:
 - PASS.
 
-### Episode 4 — 오르페우스의 빈칸
+### Episode 4 — 기록 결손: 오르페우스
 
 Goal:
 - identify the test hazard and remain medically eligible.
@@ -111,7 +111,7 @@ Hook:
 Verdict:
 - PASS.
 
-### Episode 5 — 다섯 번째 답의 시작
+### Episode 5 — 승인되지 않은 다섯 번째 답
 
 Goal:
 - preserve the monitored person, 07, Doran guarantee and domain records under a closed-choice test.

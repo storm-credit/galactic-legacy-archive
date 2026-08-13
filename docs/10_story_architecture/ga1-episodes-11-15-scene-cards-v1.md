@@ -27,7 +27,7 @@ White Dock:
 
 ---
 
-# Episode 11 — 피의 제독
+# Episode 11 — 아직 피의 제독이 아니다
 
 Date:
 - CY 742-03-27.
@@ -99,7 +99,7 @@ Clue:
 
 ---
 
-# Episode 12 — 쏘지 않은 조준선
+# Episode 12 — 미식별 기체, 사격 없음
 
 Date:
 - CY 742-03-28.
@@ -167,7 +167,7 @@ Clue:
 
 ---
 
-# Episode 13 — 네라 비크, 사망
+# Episode 13 — 사망 항목, 미확정
 
 Date:
 - CY 742-03-29.
@@ -299,7 +299,7 @@ Clue:
 
 ---
 
-# Episode 15 — 선택받지 못한 팀
+# Episode 15 — 선발되지 않은 셀
 
 Date:
 - CY 742-03-31.

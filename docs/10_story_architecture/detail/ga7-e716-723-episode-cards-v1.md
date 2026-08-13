@@ -1,4 +1,4 @@
-# GA7 Episodes 716–723 Detailed Episode Cards v1 — 피의 제독 서명의 해부
+# GA7 Episodes 716–723 Detailed Episode Cards v1 — 아직 피의 제독이 아니다 서명의 해부
 
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N05 Mystery-Payoff / P03 Law / P06 Factions / M06 Intelligence / M07 Command / X04 Continuity
