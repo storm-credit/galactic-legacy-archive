@@ -87,10 +87,13 @@ EXPECTED_REUSE_CANDIDATES = {
     "FD-052": "M-002|M-003|M-004",
 }
 EXPECTED_REUSE_EVIDENCE_SHA256 = "ce40e71e2e6d3e2b81cd59595f86d3ae5263326314f2efc1335bb7770561c66c"
-EXPECTED_REUSE_SEMANTIC_SHA256 = "1c0e2fb172eb24996f5282864097c0ba8f4a76f38a084409ecb6fa0ef5e8c8c7"
+# Re-locked 2026-08-13 for the first-ship rename only (D-20260813-02).
+EXPECTED_REUSE_SEMANTIC_SHA256 = "e55ce3314dc548c089ceae591e39a20718742ea3e7b1bbdb3a5b3595f3baf146"
 EXPECTED_ROLE_SEMANTIC_SHA256 = "8ab8a3ae8be63b88778dc019f7be46ae2a8e074c25c4fc7e69f9fc536e66b8fd"
 EXPECTED_CENSUS_SEMANTIC_SHA256 = "78a944bbd4bf3393c06b70bb62d532b2d7ed9da7d7c4046b639f8710e451b75a"
-EXPECTED_CROSSWALK_SEMANTIC_SHA256 = "e6fb2e2980b1b0ba13665ef0f5d9e79a1a105bd2402433a61986361dc0201cf6"
+# Re-locked 2026-08-13 for the first-ship rename only (decision-log D-20260813-02).
+# The crosswalk quotes an operation line verbatim, and that line now reads 파루스.
+EXPECTED_CROSSWALK_SEMANTIC_SHA256 = "0e200e781686ce357bc602df1f7707a194df9de68956bdb7745e64394ffe9f3d"
 EXPECTED_DIRECTION_STATES = {
     "A": "ALTERNATIVE_RETAINED_AS_REUSE_METHOD",
     "B": "SELECTED_AUTHOR_DECISION_D_20260812_01_POST_CENSUS",
@@ -317,8 +320,9 @@ def validate(
     role_payload = "".join(
         "|".join(row[field] for field in role_fields) + "\n" for row in role_rows
     )
-    if hashlib.sha256(role_payload.encode()).hexdigest() != EXPECTED_ROLE_SEMANTIC_SHA256:
-        errors.append("role-tier capacity semantics drifted from the reviewed source lock")
+    role_digest = hashlib.sha256(role_payload.encode()).hexdigest()
+    if role_digest != EXPECTED_ROLE_SEMANTIC_SHA256:
+        errors.append(f"role-tier capacity semantics drifted from the reviewed source lock (now {role_digest})")
     census_resolved = False
     if not CENSUS_FILE.is_file():
         errors.append("missing cast semantic-census summary")
@@ -473,8 +477,9 @@ def validate(
     crosswalk_payload = "".join(
         "|".join(row[field] for field in crosswalk_fields) + "\n" for row in crosswalk_rows
     )
-    if hashlib.sha256(crosswalk_payload.encode()).hexdigest() != EXPECTED_CROSSWALK_SEMANTIC_SHA256:
-        errors.append("crosswalk role, faction, chronology, function and count semantics drifted")
+    crosswalk_digest = hashlib.sha256(crosswalk_payload.encode()).hexdigest()
+    if crosswalk_digest != EXPECTED_CROSSWALK_SEMANTIC_SHA256:
+        errors.append(f"crosswalk role, faction, chronology, function and count semantics drifted (now {crosswalk_digest})")
 
     model_rows = [row for row in crosswalk_rows if row["capacity_state"] == "BASE_MODEL_CANDIDATE"]
     reuse_rows = [row for row in crosswalk_rows if row["capacity_state"] == "BASE_REUSE_PROFILE"]
@@ -513,8 +518,9 @@ def validate(
     reuse_semantic_payload = "".join(
         "|".join(row[field] for field in semantic_fields) + "\n" for row in reuse_rows
     )
-    if hashlib.sha256(reuse_semantic_payload.encode()).hexdigest() != EXPECTED_REUSE_SEMANTIC_SHA256:
-        errors.append("reuse function, host or support mapping drifted from the reviewed semantic lock")
+    reuse_digest = hashlib.sha256(reuse_semantic_payload.encode()).hexdigest()
+    if reuse_digest != EXPECTED_REUSE_SEMANTIC_SHA256:
+        errors.append(f"reuse function, host or support mapping drifted from the reviewed semantic lock (now {reuse_digest})")
     if len({row["reuse_assessment"] for row in reuse_rows}) != len(reuse_rows):
         errors.append("reuse profiles require distinct function-specific assessments")
     lineup_by_slot = {row["slot_id"]: row for row in read_csv(MECHA_INDEX_FILE)}

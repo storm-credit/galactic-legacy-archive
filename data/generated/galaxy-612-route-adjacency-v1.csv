@@ -1,0 +1,962 @@
+route_id,system_a_id,system_a_name,system_b_id,system_b_name,cluster_a,cluster_b,route_class,baseline_status,priority_travel_band,civilian_travel_band,source,narrative_note
+RT-0001,C00-01,Aurel Prime,C01-02,Mereketh,Crown Meridian,Crown Meridian,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Crown Meridian local continuity route
+RT-0002,C00-01,Aurel Prime,C01-03,Kesta,Crown Meridian,Crown Meridian,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Crown Meridian gateway access
+RT-0003,C00-01,Aurel Prime,C01-04,Wrenyr,Crown Meridian,Crown Meridian,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Crown Meridian gateway access
+RT-0004,C00-01,Aurel Prime,C01-05,Wrenadia,Crown Meridian,Crown Meridian,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Crown Meridian gateway access
+RT-0005,C01-06,Demeas,C00-01,Aurel Prime,Crown Meridian,Crown Meridian,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Crown Meridian local continuity route
+RT-0006,C00-01,Aurel Prime,C02-06,Joraeth,Crown Meridian,Old Anchor,anchor trunk,stable,0.5–2 days,1–6 days,cluster backbone,Core continuity ring
+RT-0007,C04-02,Ossayr,C00-01,Aurel Prime,Vigil Crown,Crown Meridian,anchor trunk,stable,0.5–2 days,1–6 days,cluster backbone,Core continuity ring
+RT-0008,C00-01,Aurel Prime,I01-01,Lumen,Crown Meridian,Lumen Trunk,trunk,stable,0.5–2 days,1–6 days,cluster backbone,Primary Core-Lumen route
+RT-0009,C01-02,Mereketh,C01-03,Kesta,Crown Meridian,Crown Meridian,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Crown Meridian local continuity route
+RT-0010,C01-03,Kesta,C01-04,Wrenyr,Crown Meridian,Crown Meridian,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Crown Meridian local continuity route
+RT-0011,C01-04,Wrenyr,C01-05,Wrenadia,Crown Meridian,Crown Meridian,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Crown Meridian local continuity route
+RT-0012,C01-05,Wrenadia,C01-06,Demeas,Crown Meridian,Crown Meridian,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Crown Meridian local continuity route
+RT-0013,C02-01,Haleen,C02-02,Miraeon,Old Anchor,Old Anchor,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Old Anchor local continuity route
+RT-0014,C02-06,Joraeth,C02-01,Haleen,Old Anchor,Old Anchor,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Old Anchor local continuity route
+RT-0015,C02-02,Miraeon,C02-03,Junoum,Old Anchor,Old Anchor,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Old Anchor local continuity route
+RT-0016,C02-06,Joraeth,C02-02,Miraeon,Old Anchor,Old Anchor,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Old Anchor gateway access
+RT-0017,C02-03,Junoum,C02-04,Wrenora,Old Anchor,Old Anchor,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Old Anchor local continuity route
+RT-0018,C02-06,Joraeth,C02-03,Junoum,Old Anchor,Old Anchor,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Old Anchor gateway access
+RT-0019,C02-04,Wrenora,C02-05,Seraen,Old Anchor,Old Anchor,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Old Anchor local continuity route
+RT-0020,C02-06,Joraeth,C02-04,Wrenora,Old Anchor,Old Anchor,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Old Anchor gateway access
+RT-0021,C02-05,Seraen,C02-06,Joraeth,Old Anchor,Old Anchor,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Old Anchor local continuity route
+RT-0022,C02-06,Joraeth,C03-01,Darinessa,Old Anchor,Aster Vault,anchor trunk,stable,0.5–2 days,1–6 days,cluster backbone,Core continuity ring
+RT-0023,C02-06,Joraeth,I06-10,Xaroos,Old Anchor,Ilyr Crownward,trunk,stable,0.5–2 days,1–6 days,cluster backbone,Administrative and medical trunk
+RT-0024,C03-01,Darinessa,C03-02,Beleon,Aster Vault,Aster Vault,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Aster Vault local continuity route
+RT-0025,C03-01,Darinessa,C03-03,Zarekora,Aster Vault,Aster Vault,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Aster Vault gateway access
+RT-0026,C03-01,Darinessa,C03-04,Caeliel,Aster Vault,Aster Vault,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Aster Vault gateway access
+RT-0027,C03-01,Darinessa,C03-05,Bexune,Aster Vault,Aster Vault,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Aster Vault gateway access
+RT-0028,C03-06,Lioraeon,C03-01,Darinessa,Aster Vault,Aster Vault,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Aster Vault local continuity route
+RT-0029,C03-01,Darinessa,C04-02,Ossayr,Aster Vault,Vigil Crown,anchor trunk,stable,0.5–2 days,1–6 days,cluster backbone,Core continuity ring
+RT-0030,C03-01,Darinessa,I07-10,Joraar,Aster Vault,Vesta Ring,trunk,stable,0.5–2 days,1–6 days,cluster backbone,Industrial and defense trunk
+RT-0031,C03-02,Beleon,C03-03,Zarekora,Aster Vault,Aster Vault,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Aster Vault local continuity route
+RT-0032,C03-03,Zarekora,C03-04,Caeliel,Aster Vault,Aster Vault,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Aster Vault local continuity route
+RT-0033,C03-04,Caeliel,C03-05,Bexune,Aster Vault,Aster Vault,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Aster Vault local continuity route
+RT-0034,C03-05,Bexune,C03-06,Lioraeon,Aster Vault,Aster Vault,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Aster Vault local continuity route
+RT-0035,C04-01,Galenin,C04-02,Ossayr,Vigil Crown,Vigil Crown,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Vigil Crown local continuity route
+RT-0036,C04-06,Uleniel,C04-01,Galenin,Vigil Crown,Vigil Crown,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Vigil Crown local continuity route
+RT-0037,C04-02,Ossayr,C04-03,Ossaa,Vigil Crown,Vigil Crown,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Vigil Crown local continuity route
+RT-0038,C04-02,Ossayr,C04-04,Iriaora,Vigil Crown,Vigil Crown,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Vigil Crown gateway access
+RT-0039,C04-02,Ossayr,C04-05,Orinis,Vigil Crown,Vigil Crown,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Vigil Crown gateway access
+RT-0040,C04-02,Ossayr,C04-06,Uleniel,Vigil Crown,Vigil Crown,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Vigil Crown gateway access
+RT-0041,C04-02,Ossayr,I08-11,Bexiel,Vigil Crown,Orison March,trunk,stable,0.5–2 days,1–6 days,cluster backbone,Provincial command trunk
+RT-0042,C04-03,Ossaa,C04-04,Iriaora,Vigil Crown,Vigil Crown,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Vigil Crown local continuity route
+RT-0043,C04-04,Iriaora,C04-05,Orinis,Vigil Crown,Vigil Crown,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Vigil Crown local continuity route
+RT-0044,C04-05,Orinis,C04-06,Uleniel,Vigil Crown,Vigil Crown,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Vigil Crown local continuity route
+RT-0045,F01-01,Yvenor,F01-02,Caelis,Palimpsest North,Palimpsest North,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest North local continuity route
+RT-0046,F01-09,Erisyr,F01-01,Yvenor,Palimpsest North,Palimpsest North,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Palimpsest North gateway access
+RT-0047,F01-15,Tavaora,F01-01,Yvenor,Palimpsest North,Palimpsest North,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest North local continuity route
+RT-0048,F01-02,Caelis,F01-03,Veyis,Palimpsest North,Palimpsest North,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest North local continuity route
+RT-0049,F01-03,Veyis,F01-04,Tavaadia,Palimpsest North,Palimpsest North,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest North local continuity route
+RT-0050,F01-04,Tavaadia,F01-05,Bexeth,Palimpsest North,Palimpsest North,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest North local continuity route
+RT-0051,F01-09,Erisyr,F01-04,Tavaadia,Palimpsest North,Palimpsest North,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Palimpsest North gateway access
+RT-0052,F01-05,Bexeth,F01-06,Veyessa,Palimpsest North,Palimpsest North,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest North local continuity route
+RT-0053,F01-06,Veyessa,F01-07,Mirain,Palimpsest North,Palimpsest North,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest North local continuity route
+RT-0054,F01-07,Mirain,F01-08,Quener,Palimpsest North,Palimpsest North,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest North local continuity route
+RT-0055,F01-09,Erisyr,F01-07,Mirain,Palimpsest North,Palimpsest North,cluster gateway spoke,damaged,0.5–2 days,1–6 days,deterministic gateway spoke,Palimpsest North gateway access
+RT-0056,F01-08,Quener,F01-09,Erisyr,Palimpsest North,Palimpsest North,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest North local continuity route
+RT-0057,F01-09,Erisyr,F01-10,Letoos,Palimpsest North,Palimpsest North,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest North local continuity route
+RT-0058,F01-09,Erisyr,F01-13,Navaorn,Palimpsest North,Palimpsest North,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Palimpsest North gateway access
+RT-0059,F01-09,Erisyr,F02-14,Ivenum,Palimpsest North,Palimpsest South,frontier regional,restricted,1–4 days,2–14 days plus authorization delay,cluster backbone,Archive-site link
+RT-0060,F18-01,Galenion,F01-09,Erisyr,Mosaic Edge,Palimpsest North,cross frontier,restricted,2–8 days,5–30 days plus authorization delay,cluster backbone,Archive supply route
+RT-0061,F21-10,Ravelion,F01-09,Erisyr,Outer Lattice,Palimpsest North,frontier regional,restricted,1–4 days,2–14 days plus authorization delay,cluster backbone,Frontier ring closure
+RT-0062,M13-04,Junoune,F01-09,Erisyr,Or Archive,Palimpsest North,frontier bridge,restricted,1–5 days,3–18 days plus authorization delay,cluster backbone,Archive approach
+RT-0063,F01-10,Letoos,F01-11,Haleer,Palimpsest North,Palimpsest North,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest North local continuity route
+RT-0064,F01-11,Haleer,F01-12,Sorinyr,Palimpsest North,Palimpsest North,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest North local continuity route
+RT-0065,F01-12,Sorinyr,F01-13,Navaorn,Palimpsest North,Palimpsest North,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest North local continuity route
+RT-0066,F01-13,Navaorn,F01-14,Faroen,Palimpsest North,Palimpsest North,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest North local continuity route
+RT-0067,F01-14,Faroen,F01-15,Tavaora,Palimpsest North,Palimpsest North,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest North local continuity route
+RT-0068,F02-01,Iriaes,F02-02,Merekora,Palimpsest South,Palimpsest South,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest South local continuity route
+RT-0069,F02-14,Ivenum,F02-01,Iriaes,Palimpsest South,Palimpsest South,cluster gateway spoke,intermittent,0.5–1.5 days,1–4 days,deterministic gateway spoke,Palimpsest South gateway access
+RT-0070,F02-15,Ivenorn,F02-01,Iriaes,Palimpsest South,Palimpsest South,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest South local continuity route
+RT-0071,F02-02,Merekora,F02-03,Orinara,Palimpsest South,Palimpsest South,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest South local continuity route
+RT-0072,F02-03,Orinara,F02-04,Karaia,Palimpsest South,Palimpsest South,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest South local continuity route
+RT-0073,F02-04,Karaia,F02-05,Torenorn,Palimpsest South,Palimpsest South,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest South local continuity route
+RT-0074,F02-14,Ivenum,F02-04,Karaia,Palimpsest South,Palimpsest South,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Palimpsest South gateway access
+RT-0075,F02-05,Torenorn,F02-06,Tavaen,Palimpsest South,Palimpsest South,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest South local continuity route
+RT-0076,F02-06,Tavaen,F02-07,Lioraes,Palimpsest South,Palimpsest South,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest South local continuity route
+RT-0077,F02-07,Lioraes,F02-08,Amona,Palimpsest South,Palimpsest South,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest South local continuity route
+RT-0078,F02-14,Ivenum,F02-07,Lioraes,Palimpsest South,Palimpsest South,cluster gateway spoke,intermittent,0.5–1.5 days,1–4 days,deterministic gateway spoke,Palimpsest South gateway access
+RT-0079,F02-08,Amona,F02-09,Ivenune,Palimpsest South,Palimpsest South,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest South local continuity route
+RT-0080,F02-14,Ivenum,F02-08,Amona,Palimpsest South,Palimpsest South,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Palimpsest South gateway access
+RT-0081,F02-09,Ivenune,F02-10,Kestiel,Palimpsest South,Palimpsest South,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest South local continuity route
+RT-0082,F02-10,Kestiel,F02-11,Bexessa,Palimpsest South,Palimpsest South,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest South local continuity route
+RT-0083,F02-14,Ivenum,F02-10,Kestiel,Palimpsest South,Palimpsest South,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Palimpsest South gateway access
+RT-0084,F02-11,Bexessa,F02-12,Arelara,Palimpsest South,Palimpsest South,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest South local continuity route
+RT-0085,F02-12,Arelara,F02-13,Areladia,Palimpsest South,Palimpsest South,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Palimpsest South local continuity route
+RT-0086,F02-13,Areladia,F02-14,Ivenum,Palimpsest South,Palimpsest South,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Palimpsest South local continuity route
+RT-0087,F02-14,Ivenum,F02-15,Ivenorn,Palimpsest South,Palimpsest South,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Palimpsest South local continuity route
+RT-0088,F02-14,Ivenum,F03-08,Quenis,Palimpsest South,Quiet Harbor,frontier regional,restricted,1–4 days,2–14 days plus authorization delay,cluster backbone,Consent/refusal route
+RT-0089,F16-03,Karaion,F02-14,Ivenum,Far Witness,Palimpsest South,cross frontier,restricted,2–8 days,5–30 days plus authorization delay,cluster backbone,Witness archive route
+RT-0090,M12-12,Fennis,F02-14,Ivenum,Lentz Garden,Palimpsest South,frontier bridge,restricted,1–5 days,3–18 days plus authorization delay,cluster backbone,Witness/medical approach
+RT-0091,F03-01,Karaar,F03-02,Xaroara,Quiet Harbor,Quiet Harbor,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Quiet Harbor local continuity route
+RT-0092,F03-08,Quenis,F03-01,Karaar,Quiet Harbor,Quiet Harbor,cluster gateway spoke,damaged,0.5–2 days,1–6 days,deterministic gateway spoke,Quiet Harbor gateway access
+RT-0093,F03-15,Liorais,F03-01,Karaar,Quiet Harbor,Quiet Harbor,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Quiet Harbor local continuity route
+RT-0094,F03-02,Xaroara,F03-03,Ulenan,Quiet Harbor,Quiet Harbor,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Quiet Harbor local continuity route
+RT-0095,F03-03,Ulenan,F03-04,Caelen,Quiet Harbor,Quiet Harbor,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Quiet Harbor local continuity route
+RT-0096,F03-04,Caelen,F03-05,Yvenis,Quiet Harbor,Quiet Harbor,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Quiet Harbor local continuity route
+RT-0097,F03-08,Quenis,F03-04,Caelen,Quiet Harbor,Quiet Harbor,cluster gateway spoke,damaged,0.5–2 days,1–6 days,deterministic gateway spoke,Quiet Harbor gateway access
+RT-0098,F03-05,Yvenis,F03-06,Navaadia,Quiet Harbor,Quiet Harbor,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Quiet Harbor local continuity route
+RT-0099,F03-06,Navaadia,F03-07,Darinune,Quiet Harbor,Quiet Harbor,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Quiet Harbor local continuity route
+RT-0100,F03-07,Darinune,F03-08,Quenis,Quiet Harbor,Quiet Harbor,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Quiet Harbor local continuity route
+RT-0101,F03-08,Quenis,F03-09,Bexeon,Quiet Harbor,Quiet Harbor,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Quiet Harbor local continuity route
+RT-0102,F03-08,Quenis,F03-10,Amonum,Quiet Harbor,Quiet Harbor,cluster gateway spoke,damaged,0.5–2 days,1–6 days,deterministic gateway spoke,Quiet Harbor gateway access
+RT-0103,F03-08,Quenis,F03-13,Iriaa,Quiet Harbor,Quiet Harbor,cluster gateway spoke,damaged,0.5–2 days,1–6 days,deterministic gateway spoke,Quiet Harbor gateway access
+RT-0104,F03-08,Quenis,F04-10,Ossaes,Quiet Harbor,Ash Choir,frontier regional,intermittent,1–4 days when open,2–14 days or longer,cluster backbone,Local-only identity corridor
+RT-0105,F03-08,Quenis,F21-10,Ravelion,Quiet Harbor,Outer Lattice,cross frontier,intermittent,2–8 days when open,5–30 days or longer,cluster backbone,Refusal/watch bypass
+RT-0106,F03-09,Bexeon,F03-10,Amonum,Quiet Harbor,Quiet Harbor,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Quiet Harbor local continuity route
+RT-0107,F03-10,Amonum,F03-11,Junoora,Quiet Harbor,Quiet Harbor,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Quiet Harbor local continuity route
+RT-0108,F03-11,Junoora,F03-12,Orinune,Quiet Harbor,Quiet Harbor,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Quiet Harbor local continuity route
+RT-0109,F03-12,Orinune,F03-13,Iriaa,Quiet Harbor,Quiet Harbor,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Quiet Harbor local continuity route
+RT-0110,F03-13,Iriaa,F03-14,Sorinora,Quiet Harbor,Quiet Harbor,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Quiet Harbor local continuity route
+RT-0111,F03-14,Sorinora,F03-15,Liorais,Quiet Harbor,Quiet Harbor,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Quiet Harbor local continuity route
+RT-0112,F04-01,Beliel,F04-02,Esenessa,Ash Choir,Ash Choir,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Ash Choir local continuity route
+RT-0113,F04-10,Ossaes,F04-01,Beliel,Ash Choir,Ash Choir,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Ash Choir gateway access
+RT-0114,F04-15,Ulenes,F04-01,Beliel,Ash Choir,Ash Choir,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Ash Choir local continuity route
+RT-0115,F04-02,Esenessa,F04-03,Hesseon,Ash Choir,Ash Choir,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Ash Choir local continuity route
+RT-0116,F04-03,Hesseon,F04-04,Junoara,Ash Choir,Ash Choir,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Ash Choir local continuity route
+RT-0117,F04-04,Junoara,F04-05,Velaas,Ash Choir,Ash Choir,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Ash Choir local continuity route
+RT-0118,F04-10,Ossaes,F04-04,Junoara,Ash Choir,Ash Choir,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Ash Choir gateway access
+RT-0119,F04-05,Velaas,F04-06,Esenion,Ash Choir,Ash Choir,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Ash Choir local continuity route
+RT-0120,F04-06,Esenion,F04-07,Zareketh,Ash Choir,Ash Choir,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Ash Choir local continuity route
+RT-0121,F04-07,Zareketh,F04-08,Kestes,Ash Choir,Ash Choir,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Ash Choir local continuity route
+RT-0122,F04-10,Ossaes,F04-07,Zareketh,Ash Choir,Ash Choir,cluster gateway spoke,damaged,0.5–2 days,1–6 days,deterministic gateway spoke,Ash Choir gateway access
+RT-0123,F04-08,Kestes,F04-09,Sorines,Ash Choir,Ash Choir,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Ash Choir local continuity route
+RT-0124,F04-09,Sorines,F04-10,Ossaes,Ash Choir,Ash Choir,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Ash Choir local continuity route
+RT-0125,F04-10,Ossaes,F04-11,Demeen,Ash Choir,Ash Choir,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Ash Choir local continuity route
+RT-0126,F04-10,Ossaes,F04-13,Yvenora,Ash Choir,Ash Choir,cluster gateway spoke,damaged,0.5–2 days,1–6 days,deterministic gateway spoke,Ash Choir gateway access
+RT-0127,F04-10,Ossaes,F05-01,Yvenas,Ash Choir,Open Passage,frontier regional,restricted,1–4 days,2–14 days plus authorization delay,cluster backbone,Refuge and rescue route
+RT-0128,F04-11,Demeen,F04-12,Tavaeon,Ash Choir,Ash Choir,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Ash Choir local continuity route
+RT-0129,F04-12,Tavaeon,F04-13,Yvenora,Ash Choir,Ash Choir,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Ash Choir local continuity route
+RT-0130,F04-13,Yvenora,F04-14,Sorinin,Ash Choir,Ash Choir,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Ash Choir local continuity route
+RT-0131,F04-14,Sorinin,F04-15,Ulenes,Ash Choir,Ash Choir,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Ash Choir local continuity route
+RT-0132,F05-01,Yvenas,F05-02,Kestion,Open Passage,Open Passage,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Open Passage local continuity route
+RT-0133,F05-01,Yvenas,F05-04,Veyune,Open Passage,Open Passage,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Open Passage gateway access
+RT-0134,F05-01,Yvenas,F05-07,Torener,Open Passage,Open Passage,cluster gateway spoke,damaged,0.5–2 days,1–6 days,deterministic gateway spoke,Open Passage gateway access
+RT-0135,F05-01,Yvenas,F05-08,Dariniel,Open Passage,Open Passage,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Open Passage gateway access
+RT-0136,F05-01,Yvenas,F05-10,Bexin,Open Passage,Open Passage,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Open Passage gateway access
+RT-0137,F05-01,Yvenas,F05-11,Xaroan,Open Passage,Open Passage,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Open Passage gateway access
+RT-0138,F05-01,Yvenas,F05-13,Pavoorn,Open Passage,Open Passage,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Open Passage gateway access
+RT-0139,F05-15,Arelor,F05-01,Yvenas,Open Passage,Open Passage,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Open Passage local continuity route
+RT-0140,F05-01,Yvenas,F06-10,Peraor,Open Passage,Red Wake,frontier regional,restricted,1–4 days,2–14 days plus authorization delay,cluster backbone,Mutual aid and armed route
+RT-0141,F05-01,Yvenas,F15-05,Pavoos,Open Passage,Nine Doors,cross frontier,stable,2–8 days,5–30 days,cluster backbone,Alternative mutual-aid corridor
+RT-0142,M03-09,Coras,F05-01,Yvenas,Ardis Reach,Open Passage,frontier bridge,restricted,1–5 days,3–18 days plus authorization delay,cluster backbone,Route-federation seed
+RT-0143,F05-02,Kestion,F05-03,Veyeth,Open Passage,Open Passage,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Open Passage local continuity route
+RT-0144,F05-03,Veyeth,F05-04,Veyune,Open Passage,Open Passage,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Open Passage local continuity route
+RT-0145,F05-04,Veyune,F05-05,Caeler,Open Passage,Open Passage,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Open Passage local continuity route
+RT-0146,F05-05,Caeler,F05-06,Galeniel,Open Passage,Open Passage,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Open Passage local continuity route
+RT-0147,F05-06,Galeniel,F05-07,Torener,Open Passage,Open Passage,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Open Passage local continuity route
+RT-0148,F05-07,Torener,F05-08,Dariniel,Open Passage,Open Passage,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Open Passage local continuity route
+RT-0149,F05-08,Dariniel,F05-09,Arelyr,Open Passage,Open Passage,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Open Passage local continuity route
+RT-0150,F05-09,Arelyr,F05-10,Bexin,Open Passage,Open Passage,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Open Passage local continuity route
+RT-0151,F05-10,Bexin,F05-11,Xaroan,Open Passage,Open Passage,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Open Passage local continuity route
+RT-0152,F05-11,Xaroan,F05-12,Junoen,Open Passage,Open Passage,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Open Passage local continuity route
+RT-0153,F05-12,Junoen,F05-13,Pavoorn,Open Passage,Open Passage,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Open Passage local continuity route
+RT-0154,F05-13,Pavoorn,F05-14,Merekor,Open Passage,Open Passage,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Open Passage local continuity route
+RT-0155,F05-14,Merekor,F05-15,Arelor,Open Passage,Open Passage,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Open Passage local continuity route
+RT-0156,F06-01,Galena,F06-02,Tavaer,Red Wake,Red Wake,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Red Wake local continuity route
+RT-0157,F06-10,Peraor,F06-01,Galena,Red Wake,Red Wake,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Red Wake gateway access
+RT-0158,F06-15,Wrenune,F06-01,Galena,Red Wake,Red Wake,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Red Wake local continuity route
+RT-0159,F06-02,Tavaer,F06-03,Esener,Red Wake,Red Wake,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Red Wake local continuity route
+RT-0160,F06-03,Esener,F06-04,Karaara,Red Wake,Red Wake,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Red Wake local continuity route
+RT-0161,F06-04,Karaara,F06-05,Ivenadia,Red Wake,Red Wake,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Red Wake local continuity route
+RT-0162,F06-10,Peraor,F06-04,Karaara,Red Wake,Red Wake,cluster gateway spoke,damaged,0.5–2 days,1–6 days,deterministic gateway spoke,Red Wake gateway access
+RT-0163,F06-05,Ivenadia,F06-06,Wrener,Red Wake,Red Wake,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Red Wake local continuity route
+RT-0164,F06-10,Peraor,F06-05,Ivenadia,Red Wake,Red Wake,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Red Wake gateway access
+RT-0165,F06-06,Wrener,F06-07,Miraune,Red Wake,Red Wake,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Red Wake local continuity route
+RT-0166,F06-07,Miraune,F06-08,Sorinessa,Red Wake,Red Wake,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Red Wake local continuity route
+RT-0167,F06-10,Peraor,F06-07,Miraune,Red Wake,Red Wake,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Red Wake gateway access
+RT-0168,F06-08,Sorinessa,F06-09,Garoiel,Red Wake,Red Wake,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Red Wake local continuity route
+RT-0169,F06-09,Garoiel,F06-10,Peraor,Red Wake,Red Wake,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Red Wake local continuity route
+RT-0170,F06-10,Peraor,F06-11,Sorinara,Red Wake,Red Wake,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Red Wake local continuity route
+RT-0171,F06-10,Peraor,F06-13,Kestorn,Red Wake,Red Wake,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Red Wake gateway access
+RT-0172,F06-10,Peraor,F06-14,Kestora,Red Wake,Red Wake,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Red Wake gateway access
+RT-0173,F06-10,Peraor,F07-13,Seraadia,Red Wake,Blue Mercy,frontier regional,restricted,1–4 days,2–14 days plus authorization delay,cluster backbone,Fuel and rescue route
+RT-0174,F06-10,Peraor,F20-12,Bexis,Red Wake,Grey Current,cross frontier,damaged,2–8 days when open,5–30 days or longer,cluster backbone,Denial-war corridor
+RT-0175,M09-10,Garoeth,F06-10,Peraor,Varka Passage,Red Wake,frontier bridge,restricted,1–5 days,3–18 days plus authorization delay,cluster backbone,Independence route
+RT-0176,F06-11,Sorinara,F06-12,Perais,Red Wake,Red Wake,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Red Wake local continuity route
+RT-0177,F06-12,Perais,F06-13,Kestorn,Red Wake,Red Wake,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Red Wake local continuity route
+RT-0178,F06-13,Kestorn,F06-14,Kestora,Red Wake,Red Wake,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Red Wake local continuity route
+RT-0179,F06-14,Kestora,F06-15,Wrenune,Red Wake,Red Wake,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Red Wake local continuity route
+RT-0180,F07-01,Velaor,F07-02,Ossaum,Blue Mercy,Blue Mercy,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Blue Mercy local continuity route
+RT-0181,F07-13,Seraadia,F07-01,Velaor,Blue Mercy,Blue Mercy,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Blue Mercy gateway access
+RT-0182,F07-15,Garoune,F07-01,Velaor,Blue Mercy,Blue Mercy,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Blue Mercy local continuity route
+RT-0183,F07-02,Ossaum,F07-03,Erisen,Blue Mercy,Blue Mercy,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Blue Mercy local continuity route
+RT-0184,F07-03,Erisen,F07-04,Haleor,Blue Mercy,Blue Mercy,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Blue Mercy local continuity route
+RT-0185,F07-04,Haleor,F07-05,Rinyr,Blue Mercy,Blue Mercy,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Blue Mercy local continuity route
+RT-0186,F07-13,Seraadia,F07-04,Haleor,Blue Mercy,Blue Mercy,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Blue Mercy gateway access
+RT-0187,F07-05,Rinyr,F07-06,Rinara,Blue Mercy,Blue Mercy,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Blue Mercy local continuity route
+RT-0188,F07-06,Rinara,F07-07,Cororn,Blue Mercy,Blue Mercy,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Blue Mercy local continuity route
+RT-0189,F07-07,Cororn,F07-08,Galenan,Blue Mercy,Blue Mercy,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Blue Mercy local continuity route
+RT-0190,F07-13,Seraadia,F07-07,Cororn,Blue Mercy,Blue Mercy,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Blue Mercy gateway access
+RT-0191,F07-08,Galenan,F07-09,Faroeth,Blue Mercy,Blue Mercy,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Blue Mercy local continuity route
+RT-0192,F07-09,Faroeth,F07-10,Esenune,Blue Mercy,Blue Mercy,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Blue Mercy local continuity route
+RT-0193,F07-10,Esenune,F07-11,Sorinum,Blue Mercy,Blue Mercy,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Blue Mercy local continuity route
+RT-0194,F07-13,Seraadia,F07-10,Esenune,Blue Mercy,Blue Mercy,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Blue Mercy gateway access
+RT-0195,F07-11,Sorinum,F07-12,Orines,Blue Mercy,Blue Mercy,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Blue Mercy local continuity route
+RT-0196,F07-12,Orines,F07-13,Seraadia,Blue Mercy,Blue Mercy,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Blue Mercy local continuity route
+RT-0197,F07-13,Seraadia,F07-14,Arelos,Blue Mercy,Blue Mercy,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Blue Mercy local continuity route
+RT-0198,F07-13,Seraadia,F08-13,Hession,Blue Mercy,Hollow Lantern,frontier regional,stable,1–4 days,2–14 days,cluster backbone,Medical/frontier link
+RT-0199,M05-01,Ravelan,F07-13,Seraadia,Glasswater,Blue Mercy,frontier bridge,stable,1–5 days,3–18 days,cluster backbone,Medical/rescue link
+RT-0200,F07-14,Arelos,F07-15,Garoune,Blue Mercy,Blue Mercy,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Blue Mercy local continuity route
+RT-0201,F08-01,Amonor,F08-02,Esenos,Hollow Lantern,Hollow Lantern,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Hollow Lantern local continuity route
+RT-0202,F08-13,Hession,F08-01,Amonor,Hollow Lantern,Hollow Lantern,cluster gateway spoke,damaged,0.5–2 days,1–6 days,deterministic gateway spoke,Hollow Lantern gateway access
+RT-0203,F08-15,Kestia,F08-01,Amonor,Hollow Lantern,Hollow Lantern,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Hollow Lantern local continuity route
+RT-0204,F08-02,Esenos,F08-03,Velaara,Hollow Lantern,Hollow Lantern,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Hollow Lantern local continuity route
+RT-0205,F08-03,Velaara,F08-04,Haleeon,Hollow Lantern,Hollow Lantern,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Hollow Lantern local continuity route
+RT-0206,F08-13,Hession,F08-03,Velaara,Hollow Lantern,Hollow Lantern,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Hollow Lantern gateway access
+RT-0207,F08-04,Haleeon,F08-05,Ravelas,Hollow Lantern,Hollow Lantern,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Hollow Lantern local continuity route
+RT-0208,F08-13,Hession,F08-04,Haleeon,Hollow Lantern,Hollow Lantern,cluster gateway spoke,damaged,0.5–2 days,1–6 days,deterministic gateway spoke,Hollow Lantern gateway access
+RT-0209,F08-05,Ravelas,F08-06,Torenara,Hollow Lantern,Hollow Lantern,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Hollow Lantern local continuity route
+RT-0210,F08-06,Torenara,F08-07,Faroes,Hollow Lantern,Hollow Lantern,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Hollow Lantern local continuity route
+RT-0211,F08-07,Faroes,F08-08,Erisa,Hollow Lantern,Hollow Lantern,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Hollow Lantern local continuity route
+RT-0212,F08-13,Hession,F08-07,Faroes,Hollow Lantern,Hollow Lantern,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Hollow Lantern gateway access
+RT-0213,F08-08,Erisa,F08-09,Amonadia,Hollow Lantern,Hollow Lantern,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Hollow Lantern local continuity route
+RT-0214,F08-09,Amonadia,F08-10,Letoin,Hollow Lantern,Hollow Lantern,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Hollow Lantern local continuity route
+RT-0215,F08-10,Letoin,F08-11,Darineth,Hollow Lantern,Hollow Lantern,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Hollow Lantern local continuity route
+RT-0216,F08-13,Hession,F08-10,Letoin,Hollow Lantern,Hollow Lantern,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Hollow Lantern gateway access
+RT-0217,F08-11,Darineth,F08-12,Lioraia,Hollow Lantern,Hollow Lantern,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Hollow Lantern local continuity route
+RT-0218,F08-12,Lioraia,F08-13,Hession,Hollow Lantern,Hollow Lantern,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Hollow Lantern local continuity route
+RT-0219,F08-13,Hession,F08-14,Xaroora,Hollow Lantern,Hollow Lantern,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Hollow Lantern local continuity route
+RT-0220,F08-13,Hession,F09-12,Miraa,Hollow Lantern,Drift Crown,frontier regional,restricted,1–4 days,2–14 days plus authorization delay,cluster backbone,Mobile habitat route
+RT-0221,F08-14,Xaroora,F08-15,Kestia,Hollow Lantern,Hollow Lantern,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Hollow Lantern local continuity route
+RT-0222,F09-01,Navaara,F09-02,Noxeth,Drift Crown,Drift Crown,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Drift Crown local continuity route
+RT-0223,F09-12,Miraa,F09-01,Navaara,Drift Crown,Drift Crown,cluster gateway spoke,damaged,0.5–2 days,1–6 days,deterministic gateway spoke,Drift Crown gateway access
+RT-0224,F09-15,Galenessa,F09-01,Navaara,Drift Crown,Drift Crown,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Drift Crown local continuity route
+RT-0225,F09-02,Noxeth,F09-03,Darinum,Drift Crown,Drift Crown,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Drift Crown local continuity route
+RT-0226,F09-03,Darinum,F09-04,Zarekes,Drift Crown,Drift Crown,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Drift Crown local continuity route
+RT-0227,F09-04,Zarekes,F09-05,Joraer,Drift Crown,Drift Crown,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Drift Crown local continuity route
+RT-0228,F09-12,Miraa,F09-04,Zarekes,Drift Crown,Drift Crown,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Drift Crown gateway access
+RT-0229,F09-05,Joraer,F09-06,Darinor,Drift Crown,Drift Crown,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Drift Crown local continuity route
+RT-0230,F09-06,Darinor,F09-07,Wrenion,Drift Crown,Drift Crown,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Drift Crown local continuity route
+RT-0231,F09-07,Wrenion,F09-08,Karaa,Drift Crown,Drift Crown,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Drift Crown local continuity route
+RT-0232,F09-12,Miraa,F09-07,Wrenion,Drift Crown,Drift Crown,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Drift Crown gateway access
+RT-0233,F09-08,Karaa,F09-09,Halear,Drift Crown,Drift Crown,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Drift Crown local continuity route
+RT-0234,F09-09,Halear,F09-10,Garoadia,Drift Crown,Drift Crown,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Drift Crown local continuity route
+RT-0235,F09-10,Garoadia,F09-11,Orinorn,Drift Crown,Drift Crown,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Drift Crown local continuity route
+RT-0236,F09-12,Miraa,F09-10,Garoadia,Drift Crown,Drift Crown,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Drift Crown gateway access
+RT-0237,F09-11,Orinorn,F09-12,Miraa,Drift Crown,Drift Crown,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Drift Crown local continuity route
+RT-0238,F09-12,Miraa,F09-13,Pavoan,Drift Crown,Drift Crown,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Drift Crown local continuity route
+RT-0239,F09-12,Miraa,F10-13,Ivena,Drift Crown,Salt Nebula,frontier regional,intermittent,1–4 days when open,2–14 days or longer,cluster backbone,Difficult sensor region
+RT-0240,F09-13,Pavoan,F09-14,Seraum,Drift Crown,Drift Crown,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Drift Crown local continuity route
+RT-0241,F09-14,Seraum,F09-15,Galenessa,Drift Crown,Drift Crown,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Drift Crown local continuity route
+RT-0242,F10-01,Tavaorn,F10-02,Iriayr,Salt Nebula,Salt Nebula,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Salt Nebula local continuity route
+RT-0243,F10-13,Ivena,F10-01,Tavaorn,Salt Nebula,Salt Nebula,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Salt Nebula gateway access
+RT-0244,F10-15,Torenune,F10-01,Tavaorn,Salt Nebula,Salt Nebula,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Salt Nebula local continuity route
+RT-0245,F10-02,Iriayr,F10-03,Tavaune,Salt Nebula,Salt Nebula,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Salt Nebula local continuity route
+RT-0246,F10-03,Tavaune,F10-04,Veyion,Salt Nebula,Salt Nebula,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Salt Nebula local continuity route
+RT-0247,F10-04,Veyion,F10-05,Garoen,Salt Nebula,Salt Nebula,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Salt Nebula local continuity route
+RT-0248,F10-13,Ivena,F10-04,Veyion,Salt Nebula,Salt Nebula,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Salt Nebula gateway access
+RT-0249,F10-05,Garoen,F10-06,Rinin,Salt Nebula,Salt Nebula,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Salt Nebula local continuity route
+RT-0250,F10-13,Ivena,F10-05,Garoen,Salt Nebula,Salt Nebula,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Salt Nebula gateway access
+RT-0251,F10-06,Rinin,F10-07,Uleneon,Salt Nebula,Salt Nebula,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Salt Nebula local continuity route
+RT-0252,F10-07,Uleneon,F10-08,Pavoadia,Salt Nebula,Salt Nebula,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Salt Nebula local continuity route
+RT-0253,F10-13,Ivena,F10-07,Uleneon,Salt Nebula,Salt Nebula,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Salt Nebula gateway access
+RT-0254,F10-08,Pavoadia,F10-09,Jorain,Salt Nebula,Salt Nebula,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Salt Nebula local continuity route
+RT-0255,F10-09,Jorain,F10-10,Orinora,Salt Nebula,Salt Nebula,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Salt Nebula local continuity route
+RT-0256,F10-10,Orinora,F10-11,Garoor,Salt Nebula,Salt Nebula,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Salt Nebula local continuity route
+RT-0257,F10-13,Ivena,F10-10,Orinora,Salt Nebula,Salt Nebula,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Salt Nebula gateway access
+RT-0258,F10-11,Garoor,F10-12,Arelia,Salt Nebula,Salt Nebula,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Salt Nebula local continuity route
+RT-0259,F10-12,Arelia,F10-13,Ivena,Salt Nebula,Salt Nebula,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Salt Nebula local continuity route
+RT-0260,F10-13,Ivena,F10-14,Haleora,Salt Nebula,Salt Nebula,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Salt Nebula local continuity route
+RT-0261,F10-13,Ivena,F10-15,Torenune,Salt Nebula,Salt Nebula,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Salt Nebula gateway access
+RT-0262,F10-13,Ivena,F11-02,Karaeth,Salt Nebula,Pilgrim Coil,frontier regional,restricted,1–4 days,2–14 days plus authorization delay,cluster backbone,Travel-family route
+RT-0263,F10-14,Haleora,F10-15,Torenune,Salt Nebula,Salt Nebula,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Salt Nebula local continuity route
+RT-0264,F11-01,Caelum,F11-02,Karaeth,Pilgrim Coil,Pilgrim Coil,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Pilgrim Coil local continuity route
+RT-0265,F11-15,Erisune,F11-01,Caelum,Pilgrim Coil,Pilgrim Coil,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Pilgrim Coil local continuity route
+RT-0266,F11-02,Karaeth,F11-03,Cores,Pilgrim Coil,Pilgrim Coil,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Pilgrim Coil local continuity route
+RT-0267,F11-02,Karaeth,F11-04,Ivenia,Pilgrim Coil,Pilgrim Coil,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Pilgrim Coil gateway access
+RT-0268,F11-02,Karaeth,F11-07,Joraorn,Pilgrim Coil,Pilgrim Coil,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Pilgrim Coil gateway access
+RT-0269,F11-02,Karaeth,F11-10,Veyadia,Pilgrim Coil,Pilgrim Coil,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Pilgrim Coil gateway access
+RT-0270,F11-02,Karaeth,F11-13,Ossaor,Pilgrim Coil,Pilgrim Coil,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Pilgrim Coil gateway access
+RT-0271,F11-02,Karaeth,F11-15,Erisune,Pilgrim Coil,Pilgrim Coil,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Pilgrim Coil gateway access
+RT-0272,F11-02,Karaeth,F12-11,Letoia,Pilgrim Coil,Broken Loom,frontier regional,stable,1–4 days,2–14 days,cluster backbone,Mobile fabrication route
+RT-0273,M07-06,Corune,F11-02,Karaeth,Tern Relay,Pilgrim Coil,frontier bridge,restricted,1–5 days,3–18 days plus authorization delay,cluster backbone,Mobile-family route
+RT-0274,F11-03,Cores,F11-04,Ivenia,Pilgrim Coil,Pilgrim Coil,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Pilgrim Coil local continuity route
+RT-0275,F11-04,Ivenia,F11-05,Iriaessa,Pilgrim Coil,Pilgrim Coil,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Pilgrim Coil local continuity route
+RT-0276,F11-05,Iriaessa,F11-06,Queniel,Pilgrim Coil,Pilgrim Coil,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Pilgrim Coil local continuity route
+RT-0277,F11-06,Queniel,F11-07,Joraorn,Pilgrim Coil,Pilgrim Coil,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Pilgrim Coil local continuity route
+RT-0278,F11-07,Joraorn,F11-08,Eseneth,Pilgrim Coil,Pilgrim Coil,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Pilgrim Coil local continuity route
+RT-0279,F11-08,Eseneth,F11-09,Peraa,Pilgrim Coil,Pilgrim Coil,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Pilgrim Coil local continuity route
+RT-0280,F11-09,Peraa,F11-10,Veyadia,Pilgrim Coil,Pilgrim Coil,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Pilgrim Coil local continuity route
+RT-0281,F11-10,Veyadia,F11-11,Karaor,Pilgrim Coil,Pilgrim Coil,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Pilgrim Coil local continuity route
+RT-0282,F11-11,Karaor,F11-12,Demeune,Pilgrim Coil,Pilgrim Coil,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Pilgrim Coil local continuity route
+RT-0283,F11-12,Demeune,F11-13,Ossaor,Pilgrim Coil,Pilgrim Coil,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Pilgrim Coil local continuity route
+RT-0284,F11-13,Ossaor,F11-14,Faroor,Pilgrim Coil,Pilgrim Coil,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Pilgrim Coil local continuity route
+RT-0285,F11-14,Faroor,F11-15,Erisune,Pilgrim Coil,Pilgrim Coil,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Pilgrim Coil local continuity route
+RT-0286,F12-01,Ossaia,F12-02,Seraora,Broken Loom,Broken Loom,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Broken Loom local continuity route
+RT-0287,F12-11,Letoia,F12-01,Ossaia,Broken Loom,Broken Loom,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Broken Loom gateway access
+RT-0288,F12-15,Ravelin,F12-01,Ossaia,Broken Loom,Broken Loom,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Broken Loom local continuity route
+RT-0289,F12-02,Seraora,F12-03,Erisar,Broken Loom,Broken Loom,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Broken Loom local continuity route
+RT-0290,F12-03,Erisar,F12-04,Yvena,Broken Loom,Broken Loom,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Broken Loom local continuity route
+RT-0291,F12-04,Yvena,F12-05,Mereken,Broken Loom,Broken Loom,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Broken Loom local continuity route
+RT-0292,F12-11,Letoia,F12-04,Yvena,Broken Loom,Broken Loom,cluster gateway spoke,damaged,0.5–2 days,1–6 days,deterministic gateway spoke,Broken Loom gateway access
+RT-0293,F12-05,Mereken,F12-06,Lioraadia,Broken Loom,Broken Loom,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Broken Loom local continuity route
+RT-0294,F12-06,Lioraadia,F12-07,Halea,Broken Loom,Broken Loom,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Broken Loom local continuity route
+RT-0295,F12-07,Halea,F12-08,Ossaara,Broken Loom,Broken Loom,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Broken Loom local continuity route
+RT-0296,F12-11,Letoia,F12-07,Halea,Broken Loom,Broken Loom,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Broken Loom gateway access
+RT-0297,F12-08,Ossaara,F12-09,Torenes,Broken Loom,Broken Loom,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Broken Loom local continuity route
+RT-0298,F12-09,Torenes,F12-10,Peraos,Broken Loom,Broken Loom,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Broken Loom local continuity route
+RT-0299,F12-10,Peraos,F12-11,Letoia,Broken Loom,Broken Loom,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Broken Loom local continuity route
+RT-0300,F12-11,Letoia,F12-12,Veyan,Broken Loom,Broken Loom,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Broken Loom local continuity route
+RT-0301,F12-11,Letoia,F12-13,Sorinan,Broken Loom,Broken Loom,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Broken Loom gateway access
+RT-0302,F12-11,Letoia,F13-10,Orinas,Broken Loom,Cold Orchard,frontier regional,restricted,1–4 days,2–14 days plus authorization delay,cluster backbone,Parts and food route
+RT-0303,M11-10,Amonin,F12-11,Letoia,Thorn Foundry,Broken Loom,frontier bridge,stable,1–5 days,3–18 days,cluster backbone,Fabrication link
+RT-0304,F12-12,Veyan,F12-13,Sorinan,Broken Loom,Broken Loom,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Broken Loom local continuity route
+RT-0305,F12-13,Sorinan,F12-14,Garoas,Broken Loom,Broken Loom,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Broken Loom local continuity route
+RT-0306,F12-14,Garoas,F12-15,Ravelin,Broken Loom,Broken Loom,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Broken Loom local continuity route
+RT-0307,F13-01,Corer,F13-02,Queneth,Cold Orchard,Cold Orchard,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Cold Orchard local continuity route
+RT-0308,F13-10,Orinas,F13-01,Corer,Cold Orchard,Cold Orchard,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Cold Orchard gateway access
+RT-0309,F13-15,Amoneth,F13-01,Corer,Cold Orchard,Cold Orchard,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Cold Orchard local continuity route
+RT-0310,F13-02,Queneth,F13-03,Demeara,Cold Orchard,Cold Orchard,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Cold Orchard local continuity route
+RT-0311,F13-03,Demeara,F13-04,Tavaan,Cold Orchard,Cold Orchard,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Cold Orchard local continuity route
+RT-0312,F13-10,Orinas,F13-03,Demeara,Cold Orchard,Cold Orchard,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Cold Orchard gateway access
+RT-0313,F13-04,Tavaan,F13-05,Amonion,Cold Orchard,Cold Orchard,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Cold Orchard local continuity route
+RT-0314,F13-10,Orinas,F13-04,Tavaan,Cold Orchard,Cold Orchard,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Cold Orchard gateway access
+RT-0315,F13-05,Amonion,F13-06,Kester,Cold Orchard,Cold Orchard,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Cold Orchard local continuity route
+RT-0316,F13-06,Kester,F13-07,Velain,Cold Orchard,Cold Orchard,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Cold Orchard local continuity route
+RT-0317,F13-07,Velain,F13-08,Peraune,Cold Orchard,Cold Orchard,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Cold Orchard local continuity route
+RT-0318,F13-10,Orinas,F13-07,Velain,Cold Orchard,Cold Orchard,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Cold Orchard gateway access
+RT-0319,F13-08,Peraune,F13-09,Areler,Cold Orchard,Cold Orchard,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Cold Orchard local continuity route
+RT-0320,F13-09,Areler,F13-10,Orinas,Cold Orchard,Cold Orchard,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Cold Orchard local continuity route
+RT-0321,F13-10,Orinas,F13-11,Ivenis,Cold Orchard,Cold Orchard,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Cold Orchard local continuity route
+RT-0322,F13-10,Orinas,F13-13,Erisora,Cold Orchard,Cold Orchard,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Cold Orchard gateway access
+RT-0323,F13-10,Orinas,F13-15,Amoneth,Cold Orchard,Cold Orchard,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Cold Orchard gateway access
+RT-0324,F13-10,Orinas,F14-04,Raveleon,Cold Orchard,Ember Step,frontier regional,restricted,1–4 days,2–14 days plus authorization delay,cluster backbone,Food/fuel corridor
+RT-0325,M06-08,Halees,F13-10,Orinas,Helion Span,Cold Orchard,frontier bridge,restricted,1–5 days,3–18 days plus authorization delay,cluster backbone,Outer supply route
+RT-0326,F13-11,Ivenis,F13-12,Belum,Cold Orchard,Cold Orchard,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Cold Orchard local continuity route
+RT-0327,F13-12,Belum,F13-13,Erisora,Cold Orchard,Cold Orchard,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Cold Orchard local continuity route
+RT-0328,F13-13,Erisora,F13-14,Ulenara,Cold Orchard,Cold Orchard,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Cold Orchard local continuity route
+RT-0329,F13-14,Ulenara,F13-15,Amoneth,Cold Orchard,Cold Orchard,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Cold Orchard local continuity route
+RT-0330,F14-01,Lioraor,F14-02,Zarekorn,Ember Step,Ember Step,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Ember Step local continuity route
+RT-0331,F14-04,Raveleon,F14-01,Lioraor,Ember Step,Ember Step,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Ember Step gateway access
+RT-0332,F14-15,Pavoor,F14-01,Lioraor,Ember Step,Ember Step,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Ember Step local continuity route
+RT-0333,F14-02,Zarekorn,F14-03,Iriaas,Ember Step,Ember Step,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Ember Step local continuity route
+RT-0334,F14-03,Iriaas,F14-04,Raveleon,Ember Step,Ember Step,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Ember Step local continuity route
+RT-0335,F14-04,Raveleon,F14-05,Velaeon,Ember Step,Ember Step,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Ember Step local continuity route
+RT-0336,F14-04,Raveleon,F14-07,Ossaessa,Ember Step,Ember Step,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Ember Step gateway access
+RT-0337,F14-04,Raveleon,F14-10,Ossaadia,Ember Step,Ember Step,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Ember Step gateway access
+RT-0338,F14-04,Raveleon,F14-13,Faroin,Ember Step,Ember Step,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Ember Step gateway access
+RT-0339,F14-04,Raveleon,F15-05,Pavoos,Ember Step,Nine Doors,frontier regional,stable,1–4 days,2–14 days,cluster backbone,Multi-exit trade route
+RT-0340,M04-09,Esenara,F14-04,Raveleon,Cinder Basin,Ember Step,frontier bridge,restricted,1–5 days,3–18 days plus authorization delay,cluster backbone,Refining/fuel approach
+RT-0341,F14-05,Velaeon,F14-06,Seraas,Ember Step,Ember Step,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Ember Step local continuity route
+RT-0342,F14-06,Seraas,F14-07,Ossaessa,Ember Step,Ember Step,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Ember Step local continuity route
+RT-0343,F14-07,Ossaessa,F14-08,Beladia,Ember Step,Ember Step,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Ember Step local continuity route
+RT-0344,F14-08,Beladia,F14-09,Bexion,Ember Step,Ember Step,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Ember Step local continuity route
+RT-0345,F14-09,Bexion,F14-10,Ossaadia,Ember Step,Ember Step,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Ember Step local continuity route
+RT-0346,F14-10,Ossaadia,F14-11,Kestar,Ember Step,Ember Step,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Ember Step local continuity route
+RT-0347,F14-11,Kestar,F14-12,Ossaan,Ember Step,Ember Step,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Ember Step local continuity route
+RT-0348,F14-12,Ossaan,F14-13,Faroin,Ember Step,Ember Step,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Ember Step local continuity route
+RT-0349,F14-13,Faroin,F14-14,Erises,Ember Step,Ember Step,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Ember Step local continuity route
+RT-0350,F14-14,Erises,F14-15,Pavoor,Ember Step,Ember Step,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Ember Step local continuity route
+RT-0351,F15-01,Corion,F15-02,Amonen,Nine Doors,Nine Doors,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Nine Doors local continuity route
+RT-0352,F15-05,Pavoos,F15-01,Corion,Nine Doors,Nine Doors,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Nine Doors gateway access
+RT-0353,F15-15,Miraer,F15-01,Corion,Nine Doors,Nine Doors,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Nine Doors local continuity route
+RT-0354,F15-02,Amonen,F15-03,Letoora,Nine Doors,Nine Doors,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Nine Doors local continuity route
+RT-0355,F15-03,Letoora,F15-04,Arelune,Nine Doors,Nine Doors,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Nine Doors local continuity route
+RT-0356,F15-05,Pavoos,F15-03,Letoora,Nine Doors,Nine Doors,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Nine Doors gateway access
+RT-0357,F15-04,Arelune,F15-05,Pavoos,Nine Doors,Nine Doors,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Nine Doors local continuity route
+RT-0358,F15-05,Pavoos,F15-06,Darinas,Nine Doors,Nine Doors,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Nine Doors local continuity route
+RT-0359,F15-05,Pavoos,F15-07,Belyr,Nine Doors,Nine Doors,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Nine Doors gateway access
+RT-0360,F15-05,Pavoos,F15-10,Bexia,Nine Doors,Nine Doors,cluster gateway spoke,damaged,0.5–2 days,1–6 days,deterministic gateway spoke,Nine Doors gateway access
+RT-0361,F15-05,Pavoos,F15-11,Belor,Nine Doors,Nine Doors,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Nine Doors gateway access
+RT-0362,F15-05,Pavoos,F15-13,Esenorn,Nine Doors,Nine Doors,cluster gateway spoke,damaged,0.5–2 days,1–6 days,deterministic gateway spoke,Nine Doors gateway access
+RT-0363,F15-05,Pavoos,F15-15,Miraer,Nine Doors,Nine Doors,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Nine Doors gateway access
+RT-0364,F15-05,Pavoos,F16-03,Karaion,Nine Doors,Far Witness,frontier regional,stable,1–4 days,2–14 days,cluster backbone,Escrow/evidence route
+RT-0365,M14-11,Karaadia,F15-05,Pavoos,Doan Roads,Nine Doors,frontier bridge,stable,1–5 days,3–18 days,cluster backbone,Mutual-route diplomacy
+RT-0366,F15-06,Darinas,F15-07,Belyr,Nine Doors,Nine Doors,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Nine Doors local continuity route
+RT-0367,F15-07,Belyr,F15-08,Rinessa,Nine Doors,Nine Doors,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Nine Doors local continuity route
+RT-0368,F15-08,Rinessa,F15-09,Peraeon,Nine Doors,Nine Doors,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Nine Doors local continuity route
+RT-0369,F15-09,Peraeon,F15-10,Bexia,Nine Doors,Nine Doors,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Nine Doors local continuity route
+RT-0370,F15-10,Bexia,F15-11,Belor,Nine Doors,Nine Doors,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Nine Doors local continuity route
+RT-0371,F15-11,Belor,F15-12,Arelora,Nine Doors,Nine Doors,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Nine Doors local continuity route
+RT-0372,F15-12,Arelora,F15-13,Esenorn,Nine Doors,Nine Doors,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Nine Doors local continuity route
+RT-0373,F15-13,Esenorn,F15-14,Galenorn,Nine Doors,Nine Doors,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Nine Doors local continuity route
+RT-0374,F15-14,Galenorn,F15-15,Miraer,Nine Doors,Nine Doors,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Nine Doors local continuity route
+RT-0375,F16-01,Noxara,F16-02,Iriain,Far Witness,Far Witness,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Far Witness local continuity route
+RT-0376,F16-03,Karaion,F16-01,Noxara,Far Witness,Far Witness,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Far Witness gateway access
+RT-0377,F16-15,Riner,F16-01,Noxara,Far Witness,Far Witness,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Far Witness local continuity route
+RT-0378,F16-02,Iriain,F16-03,Karaion,Far Witness,Far Witness,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Far Witness local continuity route
+RT-0379,F16-03,Karaion,F16-04,Karain,Far Witness,Far Witness,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Far Witness local continuity route
+RT-0380,F16-03,Karaion,F16-05,Ulenorn,Far Witness,Far Witness,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Far Witness gateway access
+RT-0381,F16-03,Karaion,F16-07,Quenorn,Far Witness,Far Witness,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Far Witness gateway access
+RT-0382,F16-03,Karaion,F16-08,Ivenan,Far Witness,Far Witness,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Far Witness gateway access
+RT-0383,F16-03,Karaion,F16-10,Caelessa,Far Witness,Far Witness,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Far Witness gateway access
+RT-0384,F16-03,Karaion,F16-12,Miraas,Far Witness,Far Witness,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Far Witness gateway access
+RT-0385,F16-03,Karaion,F16-13,Pavoas,Far Witness,Far Witness,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Far Witness gateway access
+RT-0386,F16-03,Karaion,F17-15,Orina,Far Witness,Sundered Bell,frontier regional,restricted,1–4 days,2–14 days plus authorization delay,cluster backbone,Witness and conflict route
+RT-0387,M10-04,Ravela,F16-03,Karaion,Dove Belt,Far Witness,frontier bridge,stable,1–5 days,3–18 days,cluster backbone,Evidence convoy route
+RT-0388,F16-04,Karain,F16-05,Ulenorn,Far Witness,Far Witness,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Far Witness local continuity route
+RT-0389,F16-05,Ulenorn,F16-06,Belune,Far Witness,Far Witness,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Far Witness local continuity route
+RT-0390,F16-06,Belune,F16-07,Quenorn,Far Witness,Far Witness,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Far Witness local continuity route
+RT-0391,F16-07,Quenorn,F16-08,Ivenan,Far Witness,Far Witness,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Far Witness local continuity route
+RT-0392,F16-08,Ivenan,F16-09,Oriner,Far Witness,Far Witness,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Far Witness local continuity route
+RT-0393,F16-09,Oriner,F16-10,Caelessa,Far Witness,Far Witness,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Far Witness local continuity route
+RT-0394,F16-10,Caelessa,F16-11,Merekion,Far Witness,Far Witness,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Far Witness local continuity route
+RT-0395,F16-11,Merekion,F16-12,Miraas,Far Witness,Far Witness,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Far Witness local continuity route
+RT-0396,F16-12,Miraas,F16-13,Pavoas,Far Witness,Far Witness,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Far Witness local continuity route
+RT-0397,F16-13,Pavoas,F16-14,Navaeon,Far Witness,Far Witness,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Far Witness local continuity route
+RT-0398,F16-14,Navaeon,F16-15,Riner,Far Witness,Far Witness,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Far Witness local continuity route
+RT-0399,F17-01,Torenan,F17-02,Yvenan,Sundered Bell,Sundered Bell,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Sundered Bell local continuity route
+RT-0400,F17-15,Orina,F17-01,Torenan,Sundered Bell,Sundered Bell,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Sundered Bell local continuity route
+RT-0401,F17-02,Yvenan,F17-03,Peraion,Sundered Bell,Sundered Bell,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Sundered Bell local continuity route
+RT-0402,F17-03,Peraion,F17-04,Erisessa,Sundered Bell,Sundered Bell,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Sundered Bell local continuity route
+RT-0403,F17-04,Erisessa,F17-05,Karaas,Sundered Bell,Sundered Bell,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Sundered Bell local continuity route
+RT-0404,F17-15,Orina,F17-04,Erisessa,Sundered Bell,Sundered Bell,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Sundered Bell gateway access
+RT-0405,F17-05,Karaas,F17-06,Zarekas,Sundered Bell,Sundered Bell,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Sundered Bell local continuity route
+RT-0406,F17-15,Orina,F17-05,Karaas,Sundered Bell,Sundered Bell,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Sundered Bell gateway access
+RT-0407,F17-06,Zarekas,F17-07,Coren,Sundered Bell,Sundered Bell,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Sundered Bell local continuity route
+RT-0408,F17-07,Coren,F17-08,Rinadia,Sundered Bell,Sundered Bell,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Sundered Bell local continuity route
+RT-0409,F17-15,Orina,F17-07,Coren,Sundered Bell,Sundered Bell,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Sundered Bell gateway access
+RT-0410,F17-08,Rinadia,F17-09,Sorineon,Sundered Bell,Sundered Bell,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Sundered Bell local continuity route
+RT-0411,F17-09,Sorineon,F17-10,Rineth,Sundered Bell,Sundered Bell,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Sundered Bell local continuity route
+RT-0412,F17-10,Rineth,F17-11,Torenen,Sundered Bell,Sundered Bell,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Sundered Bell local continuity route
+RT-0413,F17-15,Orina,F17-10,Rineth,Sundered Bell,Sundered Bell,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Sundered Bell gateway access
+RT-0414,F17-11,Torenen,F17-12,Ravelune,Sundered Bell,Sundered Bell,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Sundered Bell local continuity route
+RT-0415,F17-12,Ravelune,F17-13,Yvener,Sundered Bell,Sundered Bell,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Sundered Bell local continuity route
+RT-0416,F17-13,Yvener,F17-14,Esenor,Sundered Bell,Sundered Bell,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Sundered Bell local continuity route
+RT-0417,F17-15,Orina,F17-13,Yvener,Sundered Bell,Sundered Bell,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Sundered Bell gateway access
+RT-0418,F17-14,Esenor,F17-15,Orina,Sundered Bell,Sundered Bell,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Sundered Bell local continuity route
+RT-0419,F17-15,Orina,F18-01,Galenion,Sundered Bell,Mosaic Edge,frontier regional,damaged,1–4 days when open,2–14 days or longer,cluster backbone,War-damaged link
+RT-0420,F18-01,Galenion,F18-02,Ossaeon,Mosaic Edge,Mosaic Edge,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Mosaic Edge local continuity route
+RT-0421,F18-01,Galenion,F18-04,Quenessa,Mosaic Edge,Mosaic Edge,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Mosaic Edge gateway access
+RT-0422,F18-01,Galenion,F18-07,Sorinen,Mosaic Edge,Mosaic Edge,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Mosaic Edge gateway access
+RT-0423,F18-01,Galenion,F18-10,Wrenes,Mosaic Edge,Mosaic Edge,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Mosaic Edge gateway access
+RT-0424,F18-01,Galenion,F18-13,Junoes,Mosaic Edge,Mosaic Edge,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Mosaic Edge gateway access
+RT-0425,F18-15,Wrenia,F18-01,Galenion,Mosaic Edge,Mosaic Edge,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Mosaic Edge local continuity route
+RT-0426,F18-01,Galenion,F19-07,Ravelia,Mosaic Edge,Last Tether,frontier regional,restricted,1–4 days,2–14 days plus authorization delay,cluster backbone,Outer settlement route
+RT-0427,M08-09,Miraora,F18-01,Galenion,Oriel Chain,Mosaic Edge,frontier bridge,restricted,1–5 days,3–18 days plus authorization delay,cluster backbone,Record/trade approach
+RT-0428,F18-02,Ossaeon,F18-03,Veyas,Mosaic Edge,Mosaic Edge,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Mosaic Edge local continuity route
+RT-0429,F18-03,Veyas,F18-04,Quenessa,Mosaic Edge,Mosaic Edge,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Mosaic Edge local continuity route
+RT-0430,F18-04,Quenessa,F18-05,Navaos,Mosaic Edge,Mosaic Edge,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Mosaic Edge local continuity route
+RT-0431,F18-05,Navaos,F18-06,Bexara,Mosaic Edge,Mosaic Edge,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Mosaic Edge local continuity route
+RT-0432,F18-06,Bexara,F18-07,Sorinen,Mosaic Edge,Mosaic Edge,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Mosaic Edge local continuity route
+RT-0433,F18-07,Sorinen,F18-08,Yvenar,Mosaic Edge,Mosaic Edge,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Mosaic Edge local continuity route
+RT-0434,F18-08,Yvenar,F18-09,Pavoia,Mosaic Edge,Mosaic Edge,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Mosaic Edge local continuity route
+RT-0435,F18-09,Pavoia,F18-10,Wrenes,Mosaic Edge,Mosaic Edge,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Mosaic Edge local continuity route
+RT-0436,F18-10,Wrenes,F18-11,Tavaas,Mosaic Edge,Mosaic Edge,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Mosaic Edge local continuity route
+RT-0437,F18-11,Tavaas,F18-12,Kestas,Mosaic Edge,Mosaic Edge,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Mosaic Edge local continuity route
+RT-0438,F18-12,Kestas,F18-13,Junoes,Mosaic Edge,Mosaic Edge,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Mosaic Edge local continuity route
+RT-0439,F18-13,Junoes,F18-14,Ulenin,Mosaic Edge,Mosaic Edge,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Mosaic Edge local continuity route
+RT-0440,F18-14,Ulenin,F18-15,Wrenia,Mosaic Edge,Mosaic Edge,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Mosaic Edge local continuity route
+RT-0441,F19-01,Erisor,F19-02,Haleeth,Last Tether,Last Tether,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Last Tether local continuity route
+RT-0442,F19-07,Ravelia,F19-01,Erisor,Last Tether,Last Tether,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Last Tether gateway access
+RT-0443,F19-14,Garoia,F19-01,Erisor,Last Tether,Last Tether,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Last Tether local continuity route
+RT-0444,F19-02,Haleeth,F19-03,Xaroadia,Last Tether,Last Tether,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Last Tether local continuity route
+RT-0445,F19-03,Xaroadia,F19-04,Demeiel,Last Tether,Last Tether,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Last Tether local continuity route
+RT-0446,F19-04,Demeiel,F19-05,Letoyr,Last Tether,Last Tether,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Last Tether local continuity route
+RT-0447,F19-07,Ravelia,F19-04,Demeiel,Last Tether,Last Tether,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Last Tether gateway access
+RT-0448,F19-05,Letoyr,F19-06,Mereka,Last Tether,Last Tether,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Last Tether local continuity route
+RT-0449,F19-07,Ravelia,F19-05,Letoyr,Last Tether,Last Tether,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Last Tether gateway access
+RT-0450,F19-06,Mereka,F19-07,Ravelia,Last Tether,Last Tether,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Last Tether local continuity route
+RT-0451,F19-07,Ravelia,F19-08,Demea,Last Tether,Last Tether,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Last Tether local continuity route
+RT-0452,F19-07,Ravelia,F19-09,Orinor,Last Tether,Last Tether,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Last Tether gateway access
+RT-0453,F19-07,Ravelia,F19-10,Dariner,Last Tether,Last Tether,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Last Tether gateway access
+RT-0454,F19-07,Ravelia,F19-11,Noxiel,Last Tether,Last Tether,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Last Tether gateway access
+RT-0455,F19-07,Ravelia,F19-13,Demeeth,Last Tether,Last Tether,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Last Tether gateway access
+RT-0456,F19-07,Ravelia,F20-12,Bexis,Last Tether,Grey Current,frontier regional,intermittent,1–4 days when open,2–14 days or longer,cluster backbone,Edge route
+RT-0457,F19-08,Demea,F19-09,Orinor,Last Tether,Last Tether,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Last Tether local continuity route
+RT-0458,F19-09,Orinor,F19-10,Dariner,Last Tether,Last Tether,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Last Tether local continuity route
+RT-0459,F19-10,Dariner,F19-11,Noxiel,Last Tether,Last Tether,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Last Tether local continuity route
+RT-0460,F19-11,Noxiel,F19-12,Arelum,Last Tether,Last Tether,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Last Tether local continuity route
+RT-0461,F19-12,Arelum,F19-13,Demeeth,Last Tether,Last Tether,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Last Tether local continuity route
+RT-0462,F19-13,Demeeth,F19-14,Garoia,Last Tether,Last Tether,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Last Tether local continuity route
+RT-0463,F20-01,Peraiel,F20-02,Erisum,Grey Current,Grey Current,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Grey Current local continuity route
+RT-0464,F20-12,Bexis,F20-01,Peraiel,Grey Current,Grey Current,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Grey Current gateway access
+RT-0465,F20-14,Sorinadia,F20-01,Peraiel,Grey Current,Grey Current,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Grey Current local continuity route
+RT-0466,F20-02,Erisum,F20-03,Quenor,Grey Current,Grey Current,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Grey Current local continuity route
+RT-0467,F20-03,Quenor,F20-04,Darinan,Grey Current,Grey Current,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Grey Current local continuity route
+RT-0468,F20-04,Darinan,F20-05,Seraeon,Grey Current,Grey Current,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Grey Current local continuity route
+RT-0469,F20-12,Bexis,F20-04,Darinan,Grey Current,Grey Current,cluster gateway spoke,damaged,0.5–2 days,1–6 days,deterministic gateway spoke,Grey Current gateway access
+RT-0470,F20-05,Seraeon,F20-06,Garoes,Grey Current,Grey Current,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Grey Current local continuity route
+RT-0471,F20-06,Garoes,F20-07,Demeer,Grey Current,Grey Current,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Grey Current local continuity route
+RT-0472,F20-07,Demeer,F20-08,Lioraion,Grey Current,Grey Current,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Grey Current local continuity route
+RT-0473,F20-12,Bexis,F20-07,Demeer,Grey Current,Grey Current,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Grey Current gateway access
+RT-0474,F20-08,Lioraion,F20-09,Ossaos,Grey Current,Grey Current,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Grey Current local continuity route
+RT-0475,F20-09,Ossaos,F20-10,Lioraen,Grey Current,Grey Current,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Grey Current local continuity route
+RT-0476,F20-10,Lioraen,F20-11,Karaeon,Grey Current,Grey Current,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Grey Current local continuity route
+RT-0477,F20-12,Bexis,F20-10,Lioraen,Grey Current,Grey Current,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Grey Current gateway access
+RT-0478,F20-11,Karaeon,F20-12,Bexis,Grey Current,Grey Current,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Grey Current local continuity route
+RT-0479,F20-12,Bexis,F20-13,Areleon,Grey Current,Grey Current,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Grey Current local continuity route
+RT-0480,F20-12,Bexis,F21-10,Ravelion,Grey Current,Outer Lattice,frontier regional,intermittent,1–4 days when open,2–14 days or longer,cluster backbone,Outer watch route
+RT-0481,M15-04,Erisadia,F20-12,Bexis,Cardo Verge,Grey Current,frontier bridge,restricted,1–5 days,3–18 days plus authorization delay,cluster backbone,Outer K-13 corridor
+RT-0482,F20-13,Areleon,F20-14,Sorinadia,Grey Current,Grey Current,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Grey Current local continuity route
+RT-0483,F21-01,Hessum,F21-02,Haleos,Outer Lattice,Outer Lattice,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Outer Lattice local continuity route
+RT-0484,F21-10,Ravelion,F21-01,Hessum,Outer Lattice,Outer Lattice,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Outer Lattice gateway access
+RT-0485,F21-14,Ulenyr,F21-01,Hessum,Outer Lattice,Outer Lattice,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Outer Lattice local continuity route
+RT-0486,F21-02,Haleos,F21-03,Garoum,Outer Lattice,Outer Lattice,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Outer Lattice local continuity route
+RT-0487,F21-03,Garoum,F21-04,Caelyr,Outer Lattice,Outer Lattice,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Outer Lattice local continuity route
+RT-0488,F21-04,Caelyr,F21-05,Darina,Outer Lattice,Outer Lattice,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Outer Lattice local continuity route
+RT-0489,F21-10,Ravelion,F21-04,Caelyr,Outer Lattice,Outer Lattice,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Outer Lattice gateway access
+RT-0490,F21-05,Darina,F21-06,Haleum,Outer Lattice,Outer Lattice,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Outer Lattice local continuity route
+RT-0491,F21-06,Haleum,F21-07,Navaer,Outer Lattice,Outer Lattice,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Outer Lattice local continuity route
+RT-0492,F21-07,Navaer,F21-08,Iveniel,Outer Lattice,Outer Lattice,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Outer Lattice local continuity route
+RT-0493,F21-10,Ravelion,F21-07,Navaer,Outer Lattice,Outer Lattice,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Outer Lattice gateway access
+RT-0494,F21-08,Iveniel,F21-09,Ulenion,Outer Lattice,Outer Lattice,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Outer Lattice local continuity route
+RT-0495,F21-09,Ulenion,F21-10,Ravelion,Outer Lattice,Outer Lattice,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Outer Lattice local continuity route
+RT-0496,F21-10,Ravelion,F21-11,Eseniel,Outer Lattice,Outer Lattice,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Outer Lattice local continuity route
+RT-0497,F21-10,Ravelion,F21-13,Raveliel,Outer Lattice,Outer Lattice,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Outer Lattice gateway access
+RT-0498,F21-11,Eseniel,F21-12,Merekara,Outer Lattice,Outer Lattice,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Outer Lattice local continuity route
+RT-0499,F21-12,Merekara,F21-13,Raveliel,Outer Lattice,Outer Lattice,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Outer Lattice local continuity route
+RT-0500,F21-13,Raveliel,F21-14,Ulenyr,Outer Lattice,Outer Lattice,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Outer Lattice local continuity route
+RT-0501,I01-01,Lumen,I01-02,Queneon,Lumen Trunk,Lumen Trunk,cluster local ring,intermittent,0.5–1.5 days,1–4 days,deterministic local ring,Lumen Trunk local continuity route
+RT-0502,I01-01,Lumen,I01-03,Tavaar,Lumen Trunk,Lumen Trunk,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Lumen Trunk gateway access
+RT-0503,I01-01,Lumen,I01-04,Faroas,Lumen Trunk,Lumen Trunk,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Lumen Trunk gateway access
+RT-0504,I01-01,Lumen,I01-06,Caelas,Lumen Trunk,Lumen Trunk,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Lumen Trunk gateway access
+RT-0505,I01-01,Lumen,I01-07,Letoion,Lumen Trunk,Lumen Trunk,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Lumen Trunk gateway access
+RT-0506,I01-01,Lumen,I01-09,Noxar,Lumen Trunk,Lumen Trunk,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Lumen Trunk gateway access
+RT-0507,I01-01,Lumen,I01-10,Bexas,Lumen Trunk,Lumen Trunk,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Lumen Trunk gateway access
+RT-0508,I01-01,Lumen,I01-11,Miraar,Lumen Trunk,Lumen Trunk,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Lumen Trunk gateway access
+RT-0509,I01-12,Peraar,I01-01,Lumen,Lumen Trunk,Lumen Trunk,cluster local ring,intermittent,0.5–1.5 days,1–4 days,deterministic local ring,Lumen Trunk local continuity route
+RT-0510,I01-01,Lumen,I02-03,Joraas,Lumen Trunk,Kael Reach,trunk,stable,0.5–2 days,1–6 days,cluster backbone,Opening commercial corridor
+RT-0511,I01-01,Lumen,I03-10,Hessas,Lumen Trunk,Brann Forge,cross trunk,stable,0.5–2 days,1–6 days,cluster backbone,High-volume industrial bypass
+RT-0512,I08-11,Bexiel,I01-01,Lumen,Orison March,Lumen Trunk,trunk,stable,0.5–2 days,1–6 days,cluster backbone,Inner ring closure
+RT-0513,I01-01,Lumen,M15-04,Erisadia,Lumen Trunk,Cardo Verge,regional trunk,stable,0.5–2 days,1–6 days,cluster backbone,K-13 access corridor
+RT-0514,I01-02,Queneon,I01-03,Tavaar,Lumen Trunk,Lumen Trunk,cluster local ring,intermittent,0.5–1.5 days,1–4 days,deterministic local ring,Lumen Trunk local continuity route
+RT-0515,I01-03,Tavaar,I01-04,Faroas,Lumen Trunk,Lumen Trunk,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Lumen Trunk local continuity route
+RT-0516,I01-04,Faroas,I01-05,Belin,Lumen Trunk,Lumen Trunk,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Lumen Trunk local continuity route
+RT-0517,I01-05,Belin,I01-06,Caelas,Lumen Trunk,Lumen Trunk,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Lumen Trunk local continuity route
+RT-0518,I01-06,Caelas,I01-07,Letoion,Lumen Trunk,Lumen Trunk,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Lumen Trunk local continuity route
+RT-0519,I01-07,Letoion,I01-08,Uleneth,Lumen Trunk,Lumen Trunk,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Lumen Trunk local continuity route
+RT-0520,I01-08,Uleneth,I01-09,Noxar,Lumen Trunk,Lumen Trunk,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Lumen Trunk local continuity route
+RT-0521,I01-09,Noxar,I01-10,Bexas,Lumen Trunk,Lumen Trunk,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Lumen Trunk local continuity route
+RT-0522,I01-10,Bexas,I01-11,Miraar,Lumen Trunk,Lumen Trunk,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Lumen Trunk local continuity route
+RT-0523,I01-11,Miraar,I01-12,Peraar,Lumen Trunk,Lumen Trunk,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Lumen Trunk local continuity route
+RT-0524,I02-01,Kael,I02-02,Xaroa,Kael Reach,Kael Reach,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Kael Reach local continuity route
+RT-0525,I02-03,Joraas,I02-01,Kael,Kael Reach,Kael Reach,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Kael Reach gateway access
+RT-0526,I02-12,Arelorn,I02-01,Kael,Kael Reach,Kael Reach,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Kael Reach local continuity route
+RT-0527,I02-02,Xaroa,I02-03,Joraas,Kael Reach,Kael Reach,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Kael Reach local continuity route
+RT-0528,I02-03,Joraas,I02-04,Yvenessa,Kael Reach,Kael Reach,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Kael Reach local continuity route
+RT-0529,I02-03,Joraas,I02-05,Orinan,Kael Reach,Kael Reach,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Kael Reach gateway access
+RT-0530,I02-03,Joraas,I02-06,Seraorn,Kael Reach,Kael Reach,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Kael Reach gateway access
+RT-0531,I02-03,Joraas,I02-07,Junoan,Kael Reach,Kael Reach,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Kael Reach gateway access
+RT-0532,I02-03,Joraas,I02-08,Seraan,Kael Reach,Kael Reach,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Kael Reach gateway access
+RT-0533,I02-03,Joraas,I02-09,Torenar,Kael Reach,Kael Reach,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Kael Reach gateway access
+RT-0534,I02-03,Joraas,I02-10,Quenune,Kael Reach,Kael Reach,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Kael Reach gateway access
+RT-0535,I02-03,Joraas,I02-12,Arelorn,Kael Reach,Kael Reach,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Kael Reach gateway access
+RT-0536,I02-03,Joraas,I03-10,Hessas,Kael Reach,Brann Forge,trunk,stable,0.5–2 days,1–6 days,cluster backbone,Claims-to-industry route
+RT-0537,I02-03,Joraas,M01-10,Quenadia,Kael Reach,Marn Grave,regional,restricted,1–4 days,2–14 days plus authorization delay,cluster backbone,Claims and salvage route
+RT-0538,I02-04,Yvenessa,I02-05,Orinan,Kael Reach,Kael Reach,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Kael Reach local continuity route
+RT-0539,I02-05,Orinan,I02-06,Seraorn,Kael Reach,Kael Reach,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Kael Reach local continuity route
+RT-0540,I02-06,Seraorn,I02-07,Junoan,Kael Reach,Kael Reach,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Kael Reach local continuity route
+RT-0541,I02-07,Junoan,I02-08,Seraan,Kael Reach,Kael Reach,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Kael Reach local continuity route
+RT-0542,I02-08,Seraan,I02-09,Torenar,Kael Reach,Kael Reach,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Kael Reach local continuity route
+RT-0543,I02-09,Torenar,I02-10,Quenune,Kael Reach,Kael Reach,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Kael Reach local continuity route
+RT-0544,I02-10,Quenune,I02-11,Belas,Kael Reach,Kael Reach,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Kael Reach local continuity route
+RT-0545,I02-11,Belas,I02-12,Arelorn,Kael Reach,Kael Reach,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Kael Reach local continuity route
+RT-0546,I03-01,Brann,I03-02,Farois,Brann Forge,Brann Forge,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Brann Forge local continuity route
+RT-0547,I03-10,Hessas,I03-01,Brann,Brann Forge,Brann Forge,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Brann Forge gateway access
+RT-0548,I03-12,Peraer,I03-01,Brann,Brann Forge,Brann Forge,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Brann Forge local continuity route
+RT-0549,I03-02,Farois,I03-03,Merekum,Brann Forge,Brann Forge,cluster local ring,damaged,0.5–1.5 days,1–4 days,deterministic local ring,Brann Forge local continuity route
+RT-0550,I03-03,Merekum,I03-04,Karaan,Brann Forge,Brann Forge,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Brann Forge local continuity route
+RT-0551,I03-10,Hessas,I03-03,Merekum,Brann Forge,Brann Forge,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Brann Forge gateway access
+RT-0552,I03-04,Karaan,I03-05,Beleth,Brann Forge,Brann Forge,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Brann Forge local continuity route
+RT-0553,I03-10,Hessas,I03-04,Karaan,Brann Forge,Brann Forge,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Brann Forge gateway access
+RT-0554,I03-05,Beleth,I03-06,Junoia,Brann Forge,Brann Forge,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Brann Forge local continuity route
+RT-0555,I03-10,Hessas,I03-05,Beleth,Brann Forge,Brann Forge,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Brann Forge gateway access
+RT-0556,I03-06,Junoia,I03-07,Caelan,Brann Forge,Brann Forge,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Brann Forge local continuity route
+RT-0557,I03-10,Hessas,I03-06,Junoia,Brann Forge,Brann Forge,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Brann Forge gateway access
+RT-0558,I03-07,Caelan,I03-08,Lioraar,Brann Forge,Brann Forge,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Brann Forge local continuity route
+RT-0559,I03-10,Hessas,I03-07,Caelan,Brann Forge,Brann Forge,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Brann Forge gateway access
+RT-0560,I03-08,Lioraar,I03-09,Garoar,Brann Forge,Brann Forge,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Brann Forge local continuity route
+RT-0561,I03-10,Hessas,I03-08,Lioraar,Brann Forge,Brann Forge,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Brann Forge gateway access
+RT-0562,I03-09,Garoar,I03-10,Hessas,Brann Forge,Brann Forge,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Brann Forge local continuity route
+RT-0563,I03-10,Hessas,I03-11,Zareker,Brann Forge,Brann Forge,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Brann Forge local continuity route
+RT-0564,I03-10,Hessas,I03-12,Peraer,Brann Forge,Brann Forge,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Brann Forge gateway access
+RT-0565,I03-10,Hessas,I04-05,Ravelessa,Brann Forge,Neris Exchange,trunk,stable,0.5–2 days,1–6 days,cluster backbone,Industrial-workshop route
+RT-0566,I03-10,Hessas,M11-10,Amonin,Brann Forge,Thorn Foundry,regional trunk,stable,0.5–2 days,1–6 days,cluster backbone,Heavy industrial extension
+RT-0567,I03-11,Zareker,I03-12,Peraer,Brann Forge,Brann Forge,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Brann Forge local continuity route
+RT-0568,I04-01,Neris,I04-02,Lioraer,Neris Exchange,Neris Exchange,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Neris Exchange local continuity route
+RT-0569,I04-05,Ravelessa,I04-01,Neris,Neris Exchange,Neris Exchange,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Neris Exchange gateway access
+RT-0570,I04-12,Navaion,I04-01,Neris,Neris Exchange,Neris Exchange,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Neris Exchange local continuity route
+RT-0571,I04-02,Lioraer,I04-03,Torenora,Neris Exchange,Neris Exchange,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Neris Exchange local continuity route
+RT-0572,I04-05,Ravelessa,I04-02,Lioraer,Neris Exchange,Neris Exchange,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Neris Exchange gateway access
+RT-0573,I04-03,Torenora,I04-04,Faroion,Neris Exchange,Neris Exchange,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Neris Exchange local continuity route
+RT-0574,I04-05,Ravelessa,I04-03,Torenora,Neris Exchange,Neris Exchange,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Neris Exchange gateway access
+RT-0575,I04-04,Faroion,I04-05,Ravelessa,Neris Exchange,Neris Exchange,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Neris Exchange local continuity route
+RT-0576,I04-05,Ravelessa,I04-06,Faroadia,Neris Exchange,Neris Exchange,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Neris Exchange local continuity route
+RT-0577,I04-05,Ravelessa,I04-07,Joraan,Neris Exchange,Neris Exchange,cluster gateway spoke,intermittent,0.5–1.5 days,1–4 days,deterministic gateway spoke,Neris Exchange gateway access
+RT-0578,I04-05,Ravelessa,I04-08,Navaa,Neris Exchange,Neris Exchange,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Neris Exchange gateway access
+RT-0579,I04-05,Ravelessa,I04-09,Joraessa,Neris Exchange,Neris Exchange,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Neris Exchange gateway access
+RT-0580,I04-05,Ravelessa,I04-10,Amonune,Neris Exchange,Neris Exchange,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Neris Exchange gateway access
+RT-0581,I04-05,Ravelessa,I04-11,Coror,Neris Exchange,Neris Exchange,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Neris Exchange gateway access
+RT-0582,I04-05,Ravelessa,I04-12,Navaion,Neris Exchange,Neris Exchange,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Neris Exchange gateway access
+RT-0583,I04-05,Ravelessa,I05-05,Esenas,Neris Exchange,Sable Orchard,trunk,stable,0.5–2 days,1–6 days,cluster backbone,Workshop-food route
+RT-0584,I04-05,Ravelessa,I07-10,Joraar,Neris Exchange,Vesta Ring,cross trunk,restricted,0.5–2 days,1–6 days plus authorization delay,cluster backbone,Insurance-controlled cross route
+RT-0585,I04-05,Ravelessa,M01-10,Quenadia,Neris Exchange,Marn Grave,regional,restricted,1–4 days,2–14 days plus authorization delay,cluster backbone,Ghost-parts route
+RT-0586,I04-06,Faroadia,I04-07,Joraan,Neris Exchange,Neris Exchange,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Neris Exchange local continuity route
+RT-0587,I04-07,Joraan,I04-08,Navaa,Neris Exchange,Neris Exchange,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Neris Exchange local continuity route
+RT-0588,I04-08,Navaa,I04-09,Joraessa,Neris Exchange,Neris Exchange,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Neris Exchange local continuity route
+RT-0589,I04-09,Joraessa,I04-10,Amonune,Neris Exchange,Neris Exchange,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Neris Exchange local continuity route
+RT-0590,I04-10,Amonune,I04-11,Coror,Neris Exchange,Neris Exchange,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Neris Exchange local continuity route
+RT-0591,I04-11,Coror,I04-12,Navaion,Neris Exchange,Neris Exchange,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Neris Exchange local continuity route
+RT-0592,I05-01,Miraessa,I05-02,Wrena,Sable Orchard,Sable Orchard,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Sable Orchard local continuity route
+RT-0593,I05-05,Esenas,I05-01,Miraessa,Sable Orchard,Sable Orchard,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Sable Orchard gateway access
+RT-0594,I05-12,Xaroia,I05-01,Miraessa,Sable Orchard,Sable Orchard,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Sable Orchard local continuity route
+RT-0595,I05-02,Wrena,I05-03,Fenner,Sable Orchard,Sable Orchard,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Sable Orchard local continuity route
+RT-0596,I05-05,Esenas,I05-02,Wrena,Sable Orchard,Sable Orchard,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Sable Orchard gateway access
+RT-0597,I05-03,Fenner,I05-04,Toreniel,Sable Orchard,Sable Orchard,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Sable Orchard local continuity route
+RT-0598,I05-05,Esenas,I05-03,Fenner,Sable Orchard,Sable Orchard,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Sable Orchard gateway access
+RT-0599,I05-04,Toreniel,I05-05,Esenas,Sable Orchard,Sable Orchard,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Sable Orchard local continuity route
+RT-0600,I05-05,Esenas,I05-06,Wrenas,Sable Orchard,Sable Orchard,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Sable Orchard local continuity route
+RT-0601,I05-05,Esenas,I05-07,Iriaum,Sable Orchard,Sable Orchard,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Sable Orchard gateway access
+RT-0602,I05-05,Esenas,I05-08,Velaar,Sable Orchard,Sable Orchard,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Sable Orchard gateway access
+RT-0603,I05-05,Esenas,I05-10,Esenis,Sable Orchard,Sable Orchard,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Sable Orchard gateway access
+RT-0604,I05-05,Esenas,I05-11,Erisis,Sable Orchard,Sable Orchard,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Sable Orchard gateway access
+RT-0605,I05-05,Esenas,I05-12,Xaroia,Sable Orchard,Sable Orchard,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Sable Orchard gateway access
+RT-0606,I05-05,Esenas,I06-10,Xaroos,Sable Orchard,Ilyr Crownward,trunk,stable,0.5–2 days,1–6 days,cluster backbone,Medical/agricultural trunk
+RT-0607,I05-05,Esenas,M05-01,Ravelan,Sable Orchard,Glasswater,regional,stable,1–4 days,2–14 days,cluster backbone,Food and medical route
+RT-0608,I05-06,Wrenas,I05-07,Iriaum,Sable Orchard,Sable Orchard,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Sable Orchard local continuity route
+RT-0609,I05-07,Iriaum,I05-08,Velaar,Sable Orchard,Sable Orchard,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Sable Orchard local continuity route
+RT-0610,I05-08,Velaar,I05-09,Faroara,Sable Orchard,Sable Orchard,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Sable Orchard local continuity route
+RT-0611,I05-09,Faroara,I05-10,Esenis,Sable Orchard,Sable Orchard,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Sable Orchard local continuity route
+RT-0612,I05-10,Esenis,I05-11,Erisis,Sable Orchard,Sable Orchard,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Sable Orchard local continuity route
+RT-0613,I05-11,Erisis,I05-12,Xaroia,Sable Orchard,Sable Orchard,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Sable Orchard local continuity route
+RT-0614,I06-01,Eriser,I06-02,Beler,Ilyr Crownward,Ilyr Crownward,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Ilyr Crownward local continuity route
+RT-0615,I06-10,Xaroos,I06-01,Eriser,Ilyr Crownward,Ilyr Crownward,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Ilyr Crownward gateway access
+RT-0616,I06-12,Yveneth,I06-01,Eriser,Ilyr Crownward,Ilyr Crownward,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Ilyr Crownward local continuity route
+RT-0617,I06-02,Beler,I06-03,Junoos,Ilyr Crownward,Ilyr Crownward,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Ilyr Crownward local continuity route
+RT-0618,I06-10,Xaroos,I06-02,Beler,Ilyr Crownward,Ilyr Crownward,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Ilyr Crownward gateway access
+RT-0619,I06-03,Junoos,I06-04,Kestune,Ilyr Crownward,Ilyr Crownward,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Ilyr Crownward local continuity route
+RT-0620,I06-10,Xaroos,I06-03,Junoos,Ilyr Crownward,Ilyr Crownward,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Ilyr Crownward gateway access
+RT-0621,I06-04,Kestune,I06-05,Amonas,Ilyr Crownward,Ilyr Crownward,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Ilyr Crownward local continuity route
+RT-0622,I06-10,Xaroos,I06-04,Kestune,Ilyr Crownward,Ilyr Crownward,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Ilyr Crownward gateway access
+RT-0623,I06-05,Amonas,I06-06,Ulenar,Ilyr Crownward,Ilyr Crownward,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Ilyr Crownward local continuity route
+RT-0624,I06-10,Xaroos,I06-05,Amonas,Ilyr Crownward,Ilyr Crownward,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Ilyr Crownward gateway access
+RT-0625,I06-06,Ulenar,I06-07,Garoorn,Ilyr Crownward,Ilyr Crownward,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Ilyr Crownward local continuity route
+RT-0626,I06-10,Xaroos,I06-06,Ulenar,Ilyr Crownward,Ilyr Crownward,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Ilyr Crownward gateway access
+RT-0627,I06-07,Garoorn,I06-08,Xaroorn,Ilyr Crownward,Ilyr Crownward,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Ilyr Crownward local continuity route
+RT-0628,I06-10,Xaroos,I06-07,Garoorn,Ilyr Crownward,Ilyr Crownward,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Ilyr Crownward gateway access
+RT-0629,I06-08,Xaroorn,I06-09,Areliel,Ilyr Crownward,Ilyr Crownward,cluster local ring,damaged,0.5–1.5 days,1–4 days,deterministic local ring,Ilyr Crownward local continuity route
+RT-0630,I06-09,Areliel,I06-10,Xaroos,Ilyr Crownward,Ilyr Crownward,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Ilyr Crownward local continuity route
+RT-0631,I06-10,Xaroos,I06-11,Iriaia,Ilyr Crownward,Ilyr Crownward,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Ilyr Crownward local continuity route
+RT-0632,I06-10,Xaroos,I06-12,Yveneth,Ilyr Crownward,Ilyr Crownward,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Ilyr Crownward gateway access
+RT-0633,I06-10,Xaroos,I07-10,Joraar,Ilyr Crownward,Vesta Ring,trunk,stable,0.5–2 days,1–6 days,cluster backbone,Inner administrative ring
+RT-0634,I06-10,Xaroos,M12-12,Fennis,Ilyr Crownward,Lentz Garden,regional,stable,1–4 days,2–14 days,cluster backbone,Medical/care corridor
+RT-0635,I06-11,Iriaia,I06-12,Yveneth,Ilyr Crownward,Ilyr Crownward,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Ilyr Crownward local continuity route
+RT-0636,I07-01,Seraor,I07-02,Miraiel,Vesta Ring,Vesta Ring,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Vesta Ring local continuity route
+RT-0637,I07-10,Joraar,I07-01,Seraor,Vesta Ring,Vesta Ring,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Vesta Ring gateway access
+RT-0638,I07-12,Ossaeth,I07-01,Seraor,Vesta Ring,Vesta Ring,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Vesta Ring local continuity route
+RT-0639,I07-02,Miraiel,I07-03,Xaroiel,Vesta Ring,Vesta Ring,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Vesta Ring local continuity route
+RT-0640,I07-10,Joraar,I07-02,Miraiel,Vesta Ring,Vesta Ring,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Vesta Ring gateway access
+RT-0641,I07-03,Xaroiel,I07-04,Belos,Vesta Ring,Vesta Ring,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Vesta Ring local continuity route
+RT-0642,I07-04,Belos,I07-05,Raveladia,Vesta Ring,Vesta Ring,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Vesta Ring local continuity route
+RT-0643,I07-10,Joraar,I07-04,Belos,Vesta Ring,Vesta Ring,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Vesta Ring gateway access
+RT-0644,I07-05,Raveladia,I07-06,Xaroeth,Vesta Ring,Vesta Ring,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Vesta Ring local continuity route
+RT-0645,I07-10,Joraar,I07-05,Raveladia,Vesta Ring,Vesta Ring,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Vesta Ring gateway access
+RT-0646,I07-06,Xaroeth,I07-07,Letoadia,Vesta Ring,Vesta Ring,cluster local ring,intermittent,0.5–1.5 days,1–4 days,deterministic local ring,Vesta Ring local continuity route
+RT-0647,I07-10,Joraar,I07-06,Xaroeth,Vesta Ring,Vesta Ring,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Vesta Ring gateway access
+RT-0648,I07-07,Letoadia,I07-08,Noxen,Vesta Ring,Vesta Ring,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Vesta Ring local continuity route
+RT-0649,I07-10,Joraar,I07-07,Letoadia,Vesta Ring,Vesta Ring,cluster gateway spoke,intermittent,0.5–1.5 days,1–4 days,deterministic gateway spoke,Vesta Ring gateway access
+RT-0650,I07-08,Noxen,I07-09,Xaroas,Vesta Ring,Vesta Ring,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Vesta Ring local continuity route
+RT-0651,I07-10,Joraar,I07-08,Noxen,Vesta Ring,Vesta Ring,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Vesta Ring gateway access
+RT-0652,I07-09,Xaroas,I07-10,Joraar,Vesta Ring,Vesta Ring,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Vesta Ring local continuity route
+RT-0653,I07-10,Joraar,I07-11,Noxion,Vesta Ring,Vesta Ring,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Vesta Ring local continuity route
+RT-0654,I07-10,Joraar,I07-12,Ossaeth,Vesta Ring,Vesta Ring,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Vesta Ring gateway access
+RT-0655,I07-10,Joraar,I08-11,Bexiel,Vesta Ring,Orison March,trunk,stable,0.5–2 days,1–6 days,cluster backbone,Training/provincial route
+RT-0656,I07-10,Joraar,M13-04,Junoune,Vesta Ring,Or Archive,regional,stable,1–4 days,2–14 days,cluster backbone,Education and record corridor
+RT-0657,I07-11,Noxion,I07-12,Ossaeth,Vesta Ring,Vesta Ring,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Vesta Ring local continuity route
+RT-0658,I08-01,Xaroer,I08-02,Galenora,Orison March,Orison March,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Orison March local continuity route
+RT-0659,I08-11,Bexiel,I08-01,Xaroer,Orison March,Orison March,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Orison March gateway access
+RT-0660,I08-12,Torenor,I08-01,Xaroer,Orison March,Orison March,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Orison March local continuity route
+RT-0661,I08-02,Galenora,I08-03,Arelar,Orison March,Orison March,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Orison March local continuity route
+RT-0662,I08-11,Bexiel,I08-02,Galenora,Orison March,Orison March,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Orison March gateway access
+RT-0663,I08-03,Arelar,I08-04,Junoer,Orison March,Orison March,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Orison March local continuity route
+RT-0664,I08-04,Junoer,I08-05,Fennadia,Orison March,Orison March,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Orison March local continuity route
+RT-0665,I08-11,Bexiel,I08-04,Junoer,Orison March,Orison March,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Orison March gateway access
+RT-0666,I08-05,Fennadia,I08-06,Kestum,Orison March,Orison March,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Orison March local continuity route
+RT-0667,I08-11,Bexiel,I08-05,Fennadia,Orison March,Orison March,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Orison March gateway access
+RT-0668,I08-06,Kestum,I08-07,Orineon,Orison March,Orison March,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Orison March local continuity route
+RT-0669,I08-11,Bexiel,I08-06,Kestum,Orison March,Orison March,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Orison March gateway access
+RT-0670,I08-07,Orineon,I08-08,Letoorn,Orison March,Orison March,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Orison March local continuity route
+RT-0671,I08-11,Bexiel,I08-07,Orineon,Orison March,Orison March,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Orison March gateway access
+RT-0672,I08-08,Letoorn,I08-09,Liorayr,Orison March,Orison March,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Orison March local continuity route
+RT-0673,I08-11,Bexiel,I08-08,Letoorn,Orison March,Orison March,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Orison March gateway access
+RT-0674,I08-09,Liorayr,I08-10,Rinen,Orison March,Orison March,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Orison March local continuity route
+RT-0675,I08-11,Bexiel,I08-09,Liorayr,Orison March,Orison March,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Orison March gateway access
+RT-0676,I08-10,Rinen,I08-11,Bexiel,Orison March,Orison March,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Orison March local continuity route
+RT-0677,I08-11,Bexiel,I08-12,Torenor,Orison March,Orison March,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Orison March local continuity route
+RT-0678,I08-11,Bexiel,M10-04,Ravela,Orison March,Dove Belt,regional,stable,1–4 days,2–14 days,cluster backbone,Provincial access route
+RT-0679,M01-01,Marn,M01-02,Veyiel,Marn Grave,Marn Grave,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Marn Grave local continuity route
+RT-0680,M01-10,Quenadia,M01-01,Marn,Marn Grave,Marn Grave,cluster gateway spoke,damaged,0.5–2 days,1–6 days,deterministic gateway spoke,Marn Grave gateway access
+RT-0681,M01-12,Ravelyr,M01-01,Marn,Marn Grave,Marn Grave,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Marn Grave local continuity route
+RT-0682,M01-02,Veyiel,M01-03,Arelan,Marn Grave,Marn Grave,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Marn Grave local continuity route
+RT-0683,M01-10,Quenadia,M01-02,Veyiel,Marn Grave,Marn Grave,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Marn Grave gateway access
+RT-0684,M01-03,Arelan,M01-04,Amonara,Marn Grave,Marn Grave,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Marn Grave local continuity route
+RT-0685,M01-10,Quenadia,M01-03,Arelan,Marn Grave,Marn Grave,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Marn Grave gateway access
+RT-0686,M01-04,Amonara,M01-05,Peraas,Marn Grave,Marn Grave,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Marn Grave local continuity route
+RT-0687,M01-10,Quenadia,M01-04,Amonara,Marn Grave,Marn Grave,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Marn Grave gateway access
+RT-0688,M01-05,Peraas,M01-06,Belara,Marn Grave,Marn Grave,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Marn Grave local continuity route
+RT-0689,M01-10,Quenadia,M01-05,Peraas,Marn Grave,Marn Grave,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Marn Grave gateway access
+RT-0690,M01-06,Belara,M01-07,Arelis,Marn Grave,Marn Grave,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Marn Grave local continuity route
+RT-0691,M01-07,Arelis,M01-08,Ulenis,Marn Grave,Marn Grave,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Marn Grave local continuity route
+RT-0692,M01-10,Quenadia,M01-07,Arelis,Marn Grave,Marn Grave,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Marn Grave gateway access
+RT-0693,M01-08,Ulenis,M01-09,Yvenes,Marn Grave,Marn Grave,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Marn Grave local continuity route
+RT-0694,M01-10,Quenadia,M01-08,Ulenis,Marn Grave,Marn Grave,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Marn Grave gateway access
+RT-0695,M01-09,Yvenes,M01-10,Quenadia,Marn Grave,Marn Grave,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Marn Grave local continuity route
+RT-0696,M01-10,Quenadia,M01-11,Karaum,Marn Grave,Marn Grave,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Marn Grave local continuity route
+RT-0697,M01-10,Quenadia,M02-07,Ravelos,Marn Grave,Silex Corridor,damaged bypass,damaged,1–4 days when open,2–14 days or longer,cluster backbone,GA2 damaged approach
+RT-0698,M01-10,Quenadia,M09-10,Garoeth,Marn Grave,Varka Passage,cross regional,damaged,1–4 days when open,2–14 days or longer,cluster backbone,Salvage-independent shortcut
+RT-0699,M15-04,Erisadia,M01-10,Quenadia,Cardo Verge,Marn Grave,regional,restricted,1–4 days,2–14 days plus authorization delay,cluster backbone,Opening-to-salvage connection
+RT-0700,M01-11,Karaum,M01-12,Ravelyr,Marn Grave,Marn Grave,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Marn Grave local continuity route
+RT-0701,M02-01,Silex,M02-02,Ivenen,Silex Corridor,Silex Corridor,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Silex Corridor local continuity route
+RT-0702,M02-07,Ravelos,M02-01,Silex,Silex Corridor,Silex Corridor,cluster gateway spoke,damaged,0.5–2 days,1–6 days,deterministic gateway spoke,Silex Corridor gateway access
+RT-0703,M02-12,Junoa,M02-01,Silex,Silex Corridor,Silex Corridor,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Silex Corridor local continuity route
+RT-0704,M02-02,Ivenen,M02-03,Karaos,Silex Corridor,Silex Corridor,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Silex Corridor local continuity route
+RT-0705,M02-03,Karaos,M02-04,Belorn,Silex Corridor,Silex Corridor,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Silex Corridor local continuity route
+RT-0706,M02-04,Belorn,M02-05,Garoessa,Silex Corridor,Silex Corridor,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Silex Corridor local continuity route
+RT-0707,M02-07,Ravelos,M02-04,Belorn,Silex Corridor,Silex Corridor,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Silex Corridor gateway access
+RT-0708,M02-05,Garoessa,M02-06,Faroessa,Silex Corridor,Silex Corridor,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Silex Corridor local continuity route
+RT-0709,M02-06,Faroessa,M02-07,Ravelos,Silex Corridor,Silex Corridor,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Silex Corridor local continuity route
+RT-0710,M02-07,Ravelos,M02-08,Peraia,Silex Corridor,Silex Corridor,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Silex Corridor local continuity route
+RT-0711,M02-07,Ravelos,M02-10,Ulena,Silex Corridor,Silex Corridor,cluster gateway spoke,damaged,0.5–2 days,1–6 days,deterministic gateway spoke,Silex Corridor gateway access
+RT-0712,M02-07,Ravelos,M02-11,Ivenin,Silex Corridor,Silex Corridor,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Silex Corridor gateway access
+RT-0713,M02-07,Ravelos,M02-12,Junoa,Silex Corridor,Silex Corridor,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Silex Corridor gateway access
+RT-0714,M02-07,Ravelos,M03-09,Coras,Silex Corridor,Ardis Reach,damaged bypass,intermittent,1–4 days when open,2–14 days or longer,cluster backbone,GA2-GA3 launch route
+RT-0715,M02-08,Peraia,M02-09,Darinora,Silex Corridor,Silex Corridor,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Silex Corridor local continuity route
+RT-0716,M02-09,Darinora,M02-10,Ulena,Silex Corridor,Silex Corridor,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Silex Corridor local continuity route
+RT-0717,M02-10,Ulena,M02-11,Ivenin,Silex Corridor,Silex Corridor,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Silex Corridor local continuity route
+RT-0718,M02-11,Ivenin,M02-12,Junoa,Silex Corridor,Silex Corridor,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Silex Corridor local continuity route
+RT-0719,M03-01,Ardis,M03-02,Lioraora,Ardis Reach,Ardis Reach,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Ardis Reach local continuity route
+RT-0720,M03-09,Coras,M03-01,Ardis,Ardis Reach,Ardis Reach,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Ardis Reach gateway access
+RT-0721,M03-12,Iriaar,M03-01,Ardis,Ardis Reach,Ardis Reach,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Ardis Reach local continuity route
+RT-0722,M03-02,Lioraora,M03-03,Kesten,Ardis Reach,Ardis Reach,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Ardis Reach local continuity route
+RT-0723,M03-03,Kesten,M03-04,Iriaion,Ardis Reach,Ardis Reach,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Ardis Reach local continuity route
+RT-0724,M03-09,Coras,M03-03,Kesten,Ardis Reach,Ardis Reach,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Ardis Reach gateway access
+RT-0725,M03-04,Iriaion,M03-05,Iriaor,Ardis Reach,Ardis Reach,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Ardis Reach local continuity route
+RT-0726,M03-09,Coras,M03-04,Iriaion,Ardis Reach,Ardis Reach,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Ardis Reach gateway access
+RT-0727,M03-05,Iriaor,M03-06,Noxer,Ardis Reach,Ardis Reach,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Ardis Reach local continuity route
+RT-0728,M03-09,Coras,M03-05,Iriaor,Ardis Reach,Ardis Reach,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Ardis Reach gateway access
+RT-0729,M03-06,Noxer,M03-07,Haleia,Ardis Reach,Ardis Reach,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Ardis Reach local continuity route
+RT-0730,M03-07,Haleia,M03-08,Caelion,Ardis Reach,Ardis Reach,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Ardis Reach local continuity route
+RT-0731,M03-09,Coras,M03-07,Haleia,Ardis Reach,Ardis Reach,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Ardis Reach gateway access
+RT-0732,M03-08,Caelion,M03-09,Coras,Ardis Reach,Ardis Reach,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Ardis Reach local continuity route
+RT-0733,M03-09,Coras,M03-10,Orinyr,Ardis Reach,Ardis Reach,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Ardis Reach local continuity route
+RT-0734,M03-09,Coras,M03-11,Esenin,Ardis Reach,Ardis Reach,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Ardis Reach gateway access
+RT-0735,M03-09,Coras,M04-09,Esenara,Ardis Reach,Cinder Basin,regional,restricted,1–4 days,2–14 days plus authorization delay,cluster backbone,Industrial recovery path
+RT-0736,M03-10,Orinyr,M03-11,Esenin,Ardis Reach,Ardis Reach,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Ardis Reach local continuity route
+RT-0737,M03-11,Esenin,M03-12,Iriaar,Ardis Reach,Ardis Reach,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Ardis Reach local continuity route
+RT-0738,M04-01,Kestin,M04-02,Demees,Cinder Basin,Cinder Basin,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Cinder Basin local continuity route
+RT-0739,M04-09,Esenara,M04-01,Kestin,Cinder Basin,Cinder Basin,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Cinder Basin gateway access
+RT-0740,M04-12,Caelorn,M04-01,Kestin,Cinder Basin,Cinder Basin,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Cinder Basin local continuity route
+RT-0741,M04-02,Demees,M04-03,Orinadia,Cinder Basin,Cinder Basin,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Cinder Basin local continuity route
+RT-0742,M04-09,Esenara,M04-02,Demees,Cinder Basin,Cinder Basin,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Cinder Basin gateway access
+RT-0743,M04-03,Orinadia,M04-04,Faroum,Cinder Basin,Cinder Basin,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Cinder Basin local continuity route
+RT-0744,M04-09,Esenara,M04-03,Orinadia,Cinder Basin,Cinder Basin,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Cinder Basin gateway access
+RT-0745,M04-04,Faroum,M04-05,Zarekan,Cinder Basin,Cinder Basin,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Cinder Basin local continuity route
+RT-0746,M04-09,Esenara,M04-04,Faroum,Cinder Basin,Cinder Basin,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Cinder Basin gateway access
+RT-0747,M04-05,Zarekan,M04-06,Darinar,Cinder Basin,Cinder Basin,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Cinder Basin local continuity route
+RT-0748,M04-09,Esenara,M04-05,Zarekan,Cinder Basin,Cinder Basin,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Cinder Basin gateway access
+RT-0749,M04-06,Darinar,M04-07,Ivenor,Cinder Basin,Cinder Basin,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Cinder Basin local continuity route
+RT-0750,M04-09,Esenara,M04-06,Darinar,Cinder Basin,Cinder Basin,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Cinder Basin gateway access
+RT-0751,M04-07,Ivenor,M04-08,Tavaiel,Cinder Basin,Cinder Basin,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Cinder Basin local continuity route
+RT-0752,M04-09,Esenara,M04-07,Ivenor,Cinder Basin,Cinder Basin,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Cinder Basin gateway access
+RT-0753,M04-08,Tavaiel,M04-09,Esenara,Cinder Basin,Cinder Basin,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Cinder Basin local continuity route
+RT-0754,M04-09,Esenara,M04-10,Haleas,Cinder Basin,Cinder Basin,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Cinder Basin local continuity route
+RT-0755,M04-09,Esenara,M05-01,Ravelan,Cinder Basin,Glasswater,regional,stable,1–4 days,2–14 days,cluster backbone,Refining-medical route
+RT-0756,M04-10,Haleas,M04-11,Letoas,Cinder Basin,Cinder Basin,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Cinder Basin local continuity route
+RT-0757,M04-11,Letoas,M04-12,Caelorn,Cinder Basin,Cinder Basin,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Cinder Basin local continuity route
+RT-0758,M05-01,Ravelan,M05-02,Darinion,Glasswater,Glasswater,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Glasswater local continuity route
+RT-0759,M05-01,Ravelan,M05-04,Bexorn,Glasswater,Glasswater,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Glasswater gateway access
+RT-0760,M05-01,Ravelan,M05-06,Coros,Glasswater,Glasswater,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Glasswater gateway access
+RT-0761,M05-01,Ravelan,M05-07,Junoyr,Glasswater,Glasswater,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Glasswater gateway access
+RT-0762,M05-01,Ravelan,M05-09,Hessan,Glasswater,Glasswater,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Glasswater gateway access
+RT-0763,M05-01,Ravelan,M05-10,Bexan,Glasswater,Glasswater,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Glasswater gateway access
+RT-0764,M05-01,Ravelan,M05-11,Sorinor,Glasswater,Glasswater,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Glasswater gateway access
+RT-0765,M05-12,Galener,M05-01,Ravelan,Glasswater,Glasswater,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Glasswater local continuity route
+RT-0766,M05-01,Ravelan,M06-08,Halees,Glasswater,Helion Span,regional,stable,1–4 days,2–14 days,cluster backbone,Medical/logistics link
+RT-0767,M05-02,Darinion,M05-03,Ivenessa,Glasswater,Glasswater,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Glasswater local continuity route
+RT-0768,M05-03,Ivenessa,M05-04,Bexorn,Glasswater,Glasswater,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Glasswater local continuity route
+RT-0769,M05-04,Bexorn,M05-05,Fennin,Glasswater,Glasswater,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Glasswater local continuity route
+RT-0770,M05-05,Fennin,M05-06,Coros,Glasswater,Glasswater,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Glasswater local continuity route
+RT-0771,M05-06,Coros,M05-07,Junoyr,Glasswater,Glasswater,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Glasswater local continuity route
+RT-0772,M05-07,Junoyr,M05-08,Darinin,Glasswater,Glasswater,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Glasswater local continuity route
+RT-0773,M05-08,Darinin,M05-09,Hessan,Glasswater,Glasswater,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Glasswater local continuity route
+RT-0774,M05-09,Hessan,M05-10,Bexan,Glasswater,Glasswater,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Glasswater local continuity route
+RT-0775,M05-10,Bexan,M05-11,Sorinor,Glasswater,Glasswater,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Glasswater local continuity route
+RT-0776,M05-11,Sorinor,M05-12,Galener,Glasswater,Glasswater,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Glasswater local continuity route
+RT-0777,M06-01,Veyara,M06-02,Junoas,Helion Span,Helion Span,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Helion Span local continuity route
+RT-0778,M06-08,Halees,M06-01,Veyara,Helion Span,Helion Span,cluster gateway spoke,intermittent,0.5–1.5 days,1–4 days,deterministic gateway spoke,Helion Span gateway access
+RT-0779,M06-12,Ulenor,M06-01,Veyara,Helion Span,Helion Span,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Helion Span local continuity route
+RT-0780,M06-02,Junoas,M06-03,Veyor,Helion Span,Helion Span,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Helion Span local continuity route
+RT-0781,M06-08,Halees,M06-02,Junoas,Helion Span,Helion Span,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Helion Span gateway access
+RT-0782,M06-03,Veyor,M06-04,Merekorn,Helion Span,Helion Span,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Helion Span local continuity route
+RT-0783,M06-04,Merekorn,M06-05,Darineon,Helion Span,Helion Span,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Helion Span local continuity route
+RT-0784,M06-08,Halees,M06-04,Merekorn,Helion Span,Helion Span,cluster gateway spoke,damaged,0.5–1.5 days,1–4 days,deterministic gateway spoke,Helion Span gateway access
+RT-0785,M06-05,Darineon,M06-06,Noxessa,Helion Span,Helion Span,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Helion Span local continuity route
+RT-0786,M06-06,Noxessa,M06-07,Veyorn,Helion Span,Helion Span,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Helion Span local continuity route
+RT-0787,M06-07,Veyorn,M06-08,Halees,Helion Span,Helion Span,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Helion Span local continuity route
+RT-0788,M06-08,Halees,M06-09,Noxeon,Helion Span,Helion Span,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Helion Span local continuity route
+RT-0789,M06-08,Halees,M06-10,Haleara,Helion Span,Helion Span,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Helion Span gateway access
+RT-0790,M06-08,Halees,M07-06,Corune,Helion Span,Tern Relay,regional,stable,1–4 days,2–14 days,cluster backbone,Middle corridor
+RT-0791,M06-09,Noxeon,M06-10,Haleara,Helion Span,Helion Span,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Helion Span local continuity route
+RT-0792,M06-10,Haleara,M06-11,Rina,Helion Span,Helion Span,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Helion Span local continuity route
+RT-0793,M06-11,Rina,M06-12,Ulenor,Helion Span,Helion Span,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Helion Span local continuity route
+RT-0794,M07-01,Corin,M07-02,Amonyr,Tern Relay,Tern Relay,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Tern Relay local continuity route
+RT-0795,M07-06,Corune,M07-01,Corin,Tern Relay,Tern Relay,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Tern Relay gateway access
+RT-0796,M07-12,Navaiel,M07-01,Corin,Tern Relay,Tern Relay,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Tern Relay local continuity route
+RT-0797,M07-02,Amonyr,M07-03,Sorinion,Tern Relay,Tern Relay,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Tern Relay local continuity route
+RT-0798,M07-06,Corune,M07-02,Amonyr,Tern Relay,Tern Relay,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Tern Relay gateway access
+RT-0799,M07-03,Sorinion,M07-04,Karaora,Tern Relay,Tern Relay,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Tern Relay local continuity route
+RT-0800,M07-04,Karaora,M07-05,Merekos,Tern Relay,Tern Relay,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Tern Relay local continuity route
+RT-0801,M07-06,Corune,M07-04,Karaora,Tern Relay,Tern Relay,cluster gateway spoke,damaged,0.5–1.5 days,1–4 days,deterministic gateway spoke,Tern Relay gateway access
+RT-0802,M07-05,Merekos,M07-06,Corune,Tern Relay,Tern Relay,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Tern Relay local continuity route
+RT-0803,M07-06,Corune,M07-07,Velaeth,Tern Relay,Tern Relay,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Tern Relay local continuity route
+RT-0804,M07-06,Corune,M07-10,Wrenis,Tern Relay,Tern Relay,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Tern Relay gateway access
+RT-0805,M07-06,Corune,M07-12,Navaiel,Tern Relay,Tern Relay,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Tern Relay gateway access
+RT-0806,M07-06,Corune,M08-09,Miraora,Tern Relay,Oriel Chain,regional,stable,1–4 days,2–14 days,cluster backbone,Middle corridor
+RT-0807,M07-07,Velaeth,M07-08,Pavoes,Tern Relay,Tern Relay,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Tern Relay local continuity route
+RT-0808,M07-08,Pavoes,M07-09,Hessadia,Tern Relay,Tern Relay,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Tern Relay local continuity route
+RT-0809,M07-09,Hessadia,M07-10,Wrenis,Tern Relay,Tern Relay,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Tern Relay local continuity route
+RT-0810,M07-10,Wrenis,M07-11,Galeneth,Tern Relay,Tern Relay,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Tern Relay local continuity route
+RT-0811,M07-11,Galeneth,M07-12,Navaiel,Tern Relay,Tern Relay,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Tern Relay local continuity route
+RT-0812,M08-01,Xaroar,M08-02,Noxune,Oriel Chain,Oriel Chain,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Oriel Chain local continuity route
+RT-0813,M08-09,Miraora,M08-01,Xaroar,Oriel Chain,Oriel Chain,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Oriel Chain gateway access
+RT-0814,M08-12,Fennyr,M08-01,Xaroar,Oriel Chain,Oriel Chain,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Oriel Chain local continuity route
+RT-0815,M08-02,Noxune,M08-03,Wreniel,Oriel Chain,Oriel Chain,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Oriel Chain local continuity route
+RT-0816,M08-03,Wreniel,M08-04,Peraes,Oriel Chain,Oriel Chain,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Oriel Chain local continuity route
+RT-0817,M08-04,Peraes,M08-05,Noxum,Oriel Chain,Oriel Chain,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Oriel Chain local continuity route
+RT-0818,M08-09,Miraora,M08-04,Peraes,Oriel Chain,Oriel Chain,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Oriel Chain gateway access
+RT-0819,M08-05,Noxum,M08-06,Xaroes,Oriel Chain,Oriel Chain,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Oriel Chain local continuity route
+RT-0820,M08-09,Miraora,M08-05,Noxum,Oriel Chain,Oriel Chain,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Oriel Chain gateway access
+RT-0821,M08-06,Xaroes,M08-07,Galeneon,Oriel Chain,Oriel Chain,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Oriel Chain local continuity route
+RT-0822,M08-09,Miraora,M08-06,Xaroes,Oriel Chain,Oriel Chain,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Oriel Chain gateway access
+RT-0823,M08-07,Galeneon,M08-08,Veyen,Oriel Chain,Oriel Chain,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Oriel Chain local continuity route
+RT-0824,M08-09,Miraora,M08-07,Galeneon,Oriel Chain,Oriel Chain,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Oriel Chain gateway access
+RT-0825,M08-08,Veyen,M08-09,Miraora,Oriel Chain,Oriel Chain,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Oriel Chain local continuity route
+RT-0826,M08-09,Miraora,M08-10,Hessyr,Oriel Chain,Oriel Chain,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Oriel Chain local continuity route
+RT-0827,M08-09,Miraora,M08-11,Pavoa,Oriel Chain,Oriel Chain,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Oriel Chain gateway access
+RT-0828,M08-09,Miraora,M09-10,Garoeth,Oriel Chain,Varka Passage,regional,restricted,1–4 days,2–14 days plus authorization delay,cluster backbone,Independent route contact
+RT-0829,M08-10,Hessyr,M08-11,Pavoa,Oriel Chain,Oriel Chain,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Oriel Chain local continuity route
+RT-0830,M08-11,Pavoa,M08-12,Fennyr,Oriel Chain,Oriel Chain,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Oriel Chain local continuity route
+RT-0831,M09-01,Orinos,M09-02,Amonora,Varka Passage,Varka Passage,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Varka Passage local continuity route
+RT-0832,M09-10,Garoeth,M09-01,Orinos,Varka Passage,Varka Passage,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Varka Passage gateway access
+RT-0833,M09-12,Coradia,M09-01,Orinos,Varka Passage,Varka Passage,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Varka Passage local continuity route
+RT-0834,M09-02,Amonora,M09-03,Noxan,Varka Passage,Varka Passage,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Varka Passage local continuity route
+RT-0835,M09-10,Garoeth,M09-02,Amonora,Varka Passage,Varka Passage,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Varka Passage gateway access
+RT-0836,M09-03,Noxan,M09-04,Quenin,Varka Passage,Varka Passage,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Varka Passage local continuity route
+RT-0837,M09-04,Quenin,M09-05,Karaes,Varka Passage,Varka Passage,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Varka Passage local continuity route
+RT-0838,M09-10,Garoeth,M09-04,Quenin,Varka Passage,Varka Passage,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Varka Passage gateway access
+RT-0839,M09-05,Karaes,M09-06,Tavaeth,Varka Passage,Varka Passage,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Varka Passage local continuity route
+RT-0840,M09-10,Garoeth,M09-05,Karaes,Varka Passage,Varka Passage,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Varka Passage gateway access
+RT-0841,M09-06,Tavaeth,M09-07,Velaora,Varka Passage,Varka Passage,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Varka Passage local continuity route
+RT-0842,M09-10,Garoeth,M09-06,Tavaeth,Varka Passage,Varka Passage,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Varka Passage gateway access
+RT-0843,M09-07,Velaora,M09-08,Navaan,Varka Passage,Varka Passage,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Varka Passage local continuity route
+RT-0844,M09-10,Garoeth,M09-07,Velaora,Varka Passage,Varka Passage,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Varka Passage gateway access
+RT-0845,M09-08,Navaan,M09-09,Velaer,Varka Passage,Varka Passage,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Varka Passage local continuity route
+RT-0846,M09-10,Garoeth,M09-08,Navaan,Varka Passage,Varka Passage,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Varka Passage gateway access
+RT-0847,M09-09,Velaer,M09-10,Garoeth,Varka Passage,Varka Passage,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Varka Passage local continuity route
+RT-0848,M09-10,Garoeth,M09-11,Caelara,Varka Passage,Varka Passage,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Varka Passage local continuity route
+RT-0849,M09-10,Garoeth,M09-12,Coradia,Varka Passage,Varka Passage,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Varka Passage gateway access
+RT-0850,M09-10,Garoeth,M10-04,Ravela,Varka Passage,Dove Belt,regional,restricted,1–4 days,2–14 days plus authorization delay,cluster backbone,Mobile-route corridor
+RT-0851,M09-11,Caelara,M09-12,Coradia,Varka Passage,Varka Passage,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Varka Passage local continuity route
+RT-0852,M10-01,Navaor,M10-02,Tavais,Dove Belt,Dove Belt,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Dove Belt local continuity route
+RT-0853,M10-04,Ravela,M10-01,Navaor,Dove Belt,Dove Belt,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Dove Belt gateway access
+RT-0854,M10-12,Peraum,M10-01,Navaor,Dove Belt,Dove Belt,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Dove Belt local continuity route
+RT-0855,M10-02,Tavais,M10-03,Darinis,Dove Belt,Dove Belt,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Dove Belt local continuity route
+RT-0856,M10-03,Darinis,M10-04,Ravela,Dove Belt,Dove Belt,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Dove Belt local continuity route
+RT-0857,M10-04,Ravela,M10-05,Perain,Dove Belt,Dove Belt,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Dove Belt local continuity route
+RT-0858,M10-04,Ravela,M10-07,Soriniel,Dove Belt,Dove Belt,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Dove Belt gateway access
+RT-0859,M10-04,Ravela,M10-09,Velaune,Dove Belt,Dove Belt,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Dove Belt gateway access
+RT-0860,M10-04,Ravela,M10-10,Raveles,Dove Belt,Dove Belt,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Dove Belt gateway access
+RT-0861,M10-04,Ravela,M11-10,Amonin,Dove Belt,Thorn Foundry,regional,stable,1–4 days,2–14 days,cluster backbone,Repair/crew route
+RT-0862,M10-05,Perain,M10-06,Haleadia,Dove Belt,Dove Belt,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Dove Belt local continuity route
+RT-0863,M10-06,Haleadia,M10-07,Soriniel,Dove Belt,Dove Belt,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Dove Belt local continuity route
+RT-0864,M10-07,Soriniel,M10-08,Darinen,Dove Belt,Dove Belt,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Dove Belt local continuity route
+RT-0865,M10-08,Darinen,M10-09,Velaune,Dove Belt,Dove Belt,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Dove Belt local continuity route
+RT-0866,M10-09,Velaune,M10-10,Raveles,Dove Belt,Dove Belt,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Dove Belt local continuity route
+RT-0867,M10-10,Raveles,M10-11,Coria,Dove Belt,Dove Belt,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Dove Belt local continuity route
+RT-0868,M10-11,Coria,M10-12,Peraum,Dove Belt,Dove Belt,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Dove Belt local continuity route
+RT-0869,M11-01,Faroorn,M11-02,Fennorn,Thorn Foundry,Thorn Foundry,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Thorn Foundry local continuity route
+RT-0870,M11-10,Amonin,M11-01,Faroorn,Thorn Foundry,Thorn Foundry,cluster gateway spoke,intermittent,0.5–1.5 days,1–4 days,deterministic gateway spoke,Thorn Foundry gateway access
+RT-0871,M11-12,Hesses,M11-01,Faroorn,Thorn Foundry,Thorn Foundry,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Thorn Foundry local continuity route
+RT-0872,M11-02,Fennorn,M11-03,Kestessa,Thorn Foundry,Thorn Foundry,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Thorn Foundry local continuity route
+RT-0873,M11-10,Amonin,M11-02,Fennorn,Thorn Foundry,Thorn Foundry,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Thorn Foundry gateway access
+RT-0874,M11-03,Kestessa,M11-04,Quenora,Thorn Foundry,Thorn Foundry,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Thorn Foundry local continuity route
+RT-0875,M11-04,Quenora,M11-05,Orinum,Thorn Foundry,Thorn Foundry,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Thorn Foundry local continuity route
+RT-0876,M11-10,Amonin,M11-04,Quenora,Thorn Foundry,Thorn Foundry,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Thorn Foundry gateway access
+RT-0877,M11-05,Orinum,M11-06,Darinia,Thorn Foundry,Thorn Foundry,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Thorn Foundry local continuity route
+RT-0878,M11-06,Darinia,M11-07,Esenyr,Thorn Foundry,Thorn Foundry,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Thorn Foundry local continuity route
+RT-0879,M11-07,Esenyr,M11-08,Galenes,Thorn Foundry,Thorn Foundry,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Thorn Foundry local continuity route
+RT-0880,M11-10,Amonin,M11-07,Esenyr,Thorn Foundry,Thorn Foundry,cluster gateway spoke,damaged,0.5–1.5 days,1–4 days,deterministic gateway spoke,Thorn Foundry gateway access
+RT-0881,M11-08,Galenes,M11-09,Belessa,Thorn Foundry,Thorn Foundry,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Thorn Foundry local continuity route
+RT-0882,M11-10,Amonin,M11-08,Galenes,Thorn Foundry,Thorn Foundry,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Thorn Foundry gateway access
+RT-0883,M11-09,Belessa,M11-10,Amonin,Thorn Foundry,Thorn Foundry,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Thorn Foundry local continuity route
+RT-0884,M11-10,Amonin,M11-11,Areleth,Thorn Foundry,Thorn Foundry,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Thorn Foundry local continuity route
+RT-0885,M11-10,Amonin,M11-12,Hesses,Thorn Foundry,Thorn Foundry,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Thorn Foundry gateway access
+RT-0886,M11-10,Amonin,M12-12,Fennis,Thorn Foundry,Lentz Garden,regional,stable,1–4 days,2–14 days,cluster backbone,Industrial-medical route
+RT-0887,M11-11,Areleth,M11-12,Hesses,Thorn Foundry,Thorn Foundry,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Thorn Foundry local continuity route
+RT-0888,M12-01,Galenis,M12-02,Navaeth,Lentz Garden,Lentz Garden,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Lentz Garden local continuity route
+RT-0889,M12-12,Fennis,M12-01,Galenis,Lentz Garden,Lentz Garden,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Lentz Garden local continuity route
+RT-0890,M12-02,Navaeth,M12-03,Erisas,Lentz Garden,Lentz Garden,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Lentz Garden local continuity route
+RT-0891,M12-12,Fennis,M12-02,Navaeth,Lentz Garden,Lentz Garden,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Lentz Garden gateway access
+RT-0892,M12-03,Erisas,M12-04,Fennan,Lentz Garden,Lentz Garden,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Lentz Garden local continuity route
+RT-0893,M12-04,Fennan,M12-05,Arelessa,Lentz Garden,Lentz Garden,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Lentz Garden local continuity route
+RT-0894,M12-12,Fennis,M12-04,Fennan,Lentz Garden,Lentz Garden,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Lentz Garden gateway access
+RT-0895,M12-05,Arelessa,M12-06,Torenos,Lentz Garden,Lentz Garden,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Lentz Garden local continuity route
+RT-0896,M12-12,Fennis,M12-05,Arelessa,Lentz Garden,Lentz Garden,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Lentz Garden gateway access
+RT-0897,M12-06,Torenos,M12-07,Corara,Lentz Garden,Lentz Garden,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Lentz Garden local continuity route
+RT-0898,M12-12,Fennis,M12-06,Torenos,Lentz Garden,Lentz Garden,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Lentz Garden gateway access
+RT-0899,M12-07,Corara,M12-08,Demeessa,Lentz Garden,Lentz Garden,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Lentz Garden local continuity route
+RT-0900,M12-12,Fennis,M12-07,Corara,Lentz Garden,Lentz Garden,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Lentz Garden gateway access
+RT-0901,M12-08,Demeessa,M12-09,Esenadia,Lentz Garden,Lentz Garden,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Lentz Garden local continuity route
+RT-0902,M12-09,Esenadia,M12-10,Esenora,Lentz Garden,Lentz Garden,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Lentz Garden local continuity route
+RT-0903,M12-10,Esenora,M12-11,Beles,Lentz Garden,Lentz Garden,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Lentz Garden local continuity route
+RT-0904,M12-12,Fennis,M12-10,Esenora,Lentz Garden,Lentz Garden,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Lentz Garden gateway access
+RT-0905,M12-11,Beles,M12-12,Fennis,Lentz Garden,Lentz Garden,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Lentz Garden local continuity route
+RT-0906,M12-12,Fennis,M13-04,Junoune,Lentz Garden,Or Archive,regional,stable,1–4 days,2–14 days,cluster backbone,Care and record route
+RT-0907,M13-01,Iriaara,M13-02,Noxora,Or Archive,Or Archive,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Or Archive local continuity route
+RT-0908,M13-04,Junoune,M13-01,Iriaara,Or Archive,Or Archive,cluster gateway spoke,damaged,0.5–2 days,1–6 days,deterministic gateway spoke,Or Archive gateway access
+RT-0909,M13-12,Karaorn,M13-01,Iriaara,Or Archive,Or Archive,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Or Archive local continuity route
+RT-0910,M13-02,Noxora,M13-03,Ivenara,Or Archive,Or Archive,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Or Archive local continuity route
+RT-0911,M13-04,Junoune,M13-02,Noxora,Or Archive,Or Archive,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Or Archive gateway access
+RT-0912,M13-03,Ivenara,M13-04,Junoune,Or Archive,Or Archive,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Or Archive local continuity route
+RT-0913,M13-04,Junoune,M13-05,Haleis,Or Archive,Or Archive,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Or Archive local continuity route
+RT-0914,M13-04,Junoune,M13-06,Wreneth,Or Archive,Or Archive,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Or Archive gateway access
+RT-0915,M13-04,Junoune,M13-07,Joraion,Or Archive,Or Archive,cluster gateway spoke,intermittent,0.5–2 days,1–6 days,deterministic gateway spoke,Or Archive gateway access
+RT-0916,M13-04,Junoune,M13-08,Wrenorn,Or Archive,Or Archive,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Or Archive gateway access
+RT-0917,M13-04,Junoune,M13-09,Pavois,Or Archive,Or Archive,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Or Archive gateway access
+RT-0918,M13-04,Junoune,M13-10,Navaum,Or Archive,Or Archive,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Or Archive gateway access
+RT-0919,M13-04,Junoune,M13-11,Ossaora,Or Archive,Or Archive,cluster gateway spoke,stable,0.5–2 days,1–6 days,deterministic gateway spoke,Or Archive gateway access
+RT-0920,M13-04,Junoune,M14-11,Karaadia,Or Archive,Doan Roads,regional,restricted,1–4 days,2–14 days plus authorization delay,cluster backbone,Record and route-federation link
+RT-0921,M13-05,Haleis,M13-06,Wreneth,Or Archive,Or Archive,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Or Archive local continuity route
+RT-0922,M13-06,Wreneth,M13-07,Joraion,Or Archive,Or Archive,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Or Archive local continuity route
+RT-0923,M13-07,Joraion,M13-08,Wrenorn,Or Archive,Or Archive,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Or Archive local continuity route
+RT-0924,M13-08,Wrenorn,M13-09,Pavois,Or Archive,Or Archive,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Or Archive local continuity route
+RT-0925,M13-09,Pavois,M13-10,Navaum,Or Archive,Or Archive,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Or Archive local continuity route
+RT-0926,M13-10,Navaum,M13-11,Ossaora,Or Archive,Or Archive,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Or Archive local continuity route
+RT-0927,M13-11,Ossaora,M13-12,Karaorn,Or Archive,Or Archive,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Or Archive local continuity route
+RT-0928,M14-01,Peraan,M14-02,Orinion,Doan Roads,Doan Roads,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Doan Roads local continuity route
+RT-0929,M14-11,Karaadia,M14-01,Peraan,Doan Roads,Doan Roads,cluster gateway spoke,damaged,0.5–1.5 days,1–4 days,deterministic gateway spoke,Doan Roads gateway access
+RT-0930,M14-12,Karaen,M14-01,Peraan,Doan Roads,Doan Roads,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Doan Roads local continuity route
+RT-0931,M14-02,Orinion,M14-03,Galenas,Doan Roads,Doan Roads,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Doan Roads local continuity route
+RT-0932,M14-03,Galenas,M14-04,Junoadia,Doan Roads,Doan Roads,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Doan Roads local continuity route
+RT-0933,M14-04,Junoadia,M14-05,Kestan,Doan Roads,Doan Roads,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Doan Roads local continuity route
+RT-0934,M14-11,Karaadia,M14-04,Junoadia,Doan Roads,Doan Roads,cluster gateway spoke,damaged,0.5–1.5 days,1–4 days,deterministic gateway spoke,Doan Roads gateway access
+RT-0935,M14-05,Kestan,M14-06,Veyer,Doan Roads,Doan Roads,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Doan Roads local continuity route
+RT-0936,M14-06,Veyer,M14-07,Erisin,Doan Roads,Doan Roads,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Doan Roads local continuity route
+RT-0937,M14-07,Erisin,M14-08,Noxas,Doan Roads,Doan Roads,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Doan Roads local continuity route
+RT-0938,M14-11,Karaadia,M14-07,Erisin,Doan Roads,Doan Roads,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Doan Roads gateway access
+RT-0939,M14-08,Noxas,M14-09,Quenum,Doan Roads,Doan Roads,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Doan Roads local continuity route
+RT-0940,M14-11,Karaadia,M14-08,Noxas,Doan Roads,Doan Roads,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Doan Roads gateway access
+RT-0941,M14-09,Quenum,M14-10,Velaessa,Doan Roads,Doan Roads,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Doan Roads local continuity route
+RT-0942,M14-10,Velaessa,M14-11,Karaadia,Doan Roads,Doan Roads,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Doan Roads local continuity route
+RT-0943,M14-11,Karaadia,M14-12,Karaen,Doan Roads,Doan Roads,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Doan Roads local continuity route
+RT-0944,M14-11,Karaadia,M15-04,Erisadia,Doan Roads,Cardo Verge,regional,stable,1–4 days,2–14 days,cluster backbone,Middle ring closure
+RT-0945,M15-01,K-13,M15-02,Bexum,Cardo Verge,Cardo Verge,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Cardo Verge local continuity route
+RT-0946,M15-04,Erisadia,M15-01,K-13,Cardo Verge,Cardo Verge,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Cardo Verge gateway access
+RT-0947,M15-12,Ulenessa,M15-01,K-13,Cardo Verge,Cardo Verge,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Cardo Verge local continuity route
+RT-0948,M15-02,Bexum,M15-03,Junoeth,Cardo Verge,Cardo Verge,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Cardo Verge local continuity route
+RT-0949,M15-04,Erisadia,M15-02,Bexum,Cardo Verge,Cardo Verge,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Cardo Verge gateway access
+RT-0950,M15-03,Junoeth,M15-04,Erisadia,Cardo Verge,Cardo Verge,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Cardo Verge local continuity route
+RT-0951,M15-04,Erisadia,M15-05,Yvenara,Cardo Verge,Cardo Verge,cluster local ring,stable,0.5–1.5 days,1–4 days,deterministic local ring,Cardo Verge local continuity route
+RT-0952,M15-04,Erisadia,M15-07,Zarekor,Cardo Verge,Cardo Verge,cluster gateway spoke,damaged,0.5–1.5 days,1–4 days,deterministic gateway spoke,Cardo Verge gateway access
+RT-0953,M15-04,Erisadia,M15-10,Yveniel,Cardo Verge,Cardo Verge,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Cardo Verge gateway access
+RT-0954,M15-04,Erisadia,M15-12,Ulenessa,Cardo Verge,Cardo Verge,cluster gateway spoke,stable,0.5–1.5 days,1–4 days,deterministic gateway spoke,Cardo Verge gateway access
+RT-0955,M15-05,Yvenara,M15-06,Coris,Cardo Verge,Cardo Verge,cluster local ring,stable,0.5–2.5 days,1–8 days,deterministic local ring,Cardo Verge local continuity route
+RT-0956,M15-06,Coris,M15-07,Zarekor,Cardo Verge,Cardo Verge,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Cardo Verge local continuity route
+RT-0957,M15-07,Zarekor,M15-08,Demean,Cardo Verge,Cardo Verge,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Cardo Verge local continuity route
+RT-0958,M15-08,Demean,M15-09,Torenyr,Cardo Verge,Cardo Verge,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Cardo Verge local continuity route
+RT-0959,M15-09,Torenyr,M15-10,Yveniel,Cardo Verge,Cardo Verge,cluster local ring,damaged,0.5–2.5 days,1–8 days,deterministic local ring,Cardo Verge local continuity route
+RT-0960,M15-10,Yveniel,M15-11,Serayr,Cardo Verge,Cardo Verge,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Cardo Verge local continuity route
+RT-0961,M15-11,Serayr,M15-12,Ulenessa,Cardo Verge,Cardo Verge,cluster local ring,intermittent,0.5–2.5 days,1–8 days,deterministic local ring,Cardo Verge local continuity route

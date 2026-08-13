@@ -23,6 +23,10 @@ MILITARY_DATA = ROOT / "docs" / "07_military" / "data"
 DEPLOYMENT_FILE = MILITARY_DATA / "maneuver-frame-deployment-profile-proposed-v1.csv"
 ADOPTION_FILE = MILITARY_DATA / "formation-frame-adoption-proposed-v1.csv"
 CORE_FILE = MILITARY_DATA / "named-frame-core-proposed-index-v1.csv"
+
+# Direction C, author decision D-20260813-03. Kept as a name rather than a
+# literal so the next portfolio decision changes one line, not five.
+PORTFOLIO_ROWS = 46
 REGISTRY_FILE = (
     ROOT
     / "docs"
@@ -55,27 +59,27 @@ EXPECTED_ROW_CLASS_COUNTS = {
     "ADJACENT_MISSION_IDENTITY": 2,
 }
 EXPECTED_INVENTORY_COUNTS = {
-    "CANON_EXISTING": 1,
-    "PROPOSED_SLOT": 25,
     "AUTHOR_HOLD": 2,
+    "CANON_EXISTING": 1,
+    "PROPOSED_SLOT": 43,
 }
 EXPECTED_MANUFACTURING_COUNTS = {
-    "SINGLE_HULL": 1,
     "HIGH_VOLUME_SERIES": 8,
     "LIMITED_RUN": 10,
-    "LOW_VOLUME_SERIES": 7,
+    "LOW_VOLUME_SERIES": 25,
+    "SINGLE_HULL": 1,
     "UNASSIGNED": 2,
 }
 EXPECTED_MISSION_ROLE_COUNTS = {
+    "LINE_COMBAT": 14,
     "PROTAGONIST_MISSION": 1,
-    "LINE_COMBAT": 8,
-    "SPECIALIST": 10,
-    "SERVICE_INDUSTRIAL": 7,
+    "SERVICE_INDUSTRIAL": 12,
+    "SPECIALIST": 17,
     "UNASSIGNED": 2,
 }
 EXPECTED_STORY_STATUS_COUNTS = {
-    "HULL_INSTANCE_LEDGER_ONLY": 26,
     "HOLD_NO_HULL_STATUS": 2,
+    "HULL_INSTANCE_LEDGER_ONLY": 44,
 }
 
 ALLOWED_SOLO_EFFECTS = {
@@ -245,17 +249,17 @@ def validate(
         if row["canon_status"] != "PROPOSED_NONCANON_MAPPING":
             errors.append(f"{formation_id}: adoption mapping must remain noncanon")
 
-    if len(mecha_rows) != 28:
-        errors.append(f"expected 28 mecha index rows, found {len(mecha_rows)}")
-    if len(deployment_rows) != 28:
-        errors.append(f"expected 28 deployment rows, found {len(deployment_rows)}")
+    if len(mecha_rows) != PORTFOLIO_ROWS:
+        errors.append(f"expected {PORTFOLIO_ROWS} mecha index rows, found {len(mecha_rows)}")
+    if len(deployment_rows) != PORTFOLIO_ROWS:
+        errors.append(f"expected {PORTFOLIO_ROWS} deployment rows, found {len(deployment_rows)}")
     duplicate_deployment = duplicates([row["slot_id"] for row in deployment_rows])
     if duplicate_deployment:
         errors.append(f"duplicate deployment slot_id: {sorted(duplicate_deployment)}")
     mecha_slots = [row["slot_id"] for row in mecha_rows]
     deployment_slots = [row["slot_id"] for row in deployment_rows]
     if set(deployment_slots) != set(mecha_slots):
-        errors.append("deployment coverage must match all 28 mecha slots")
+        errors.append(f"deployment coverage must match all {PORTFOLIO_ROWS} mecha slots")
 
     inventory_counts = Counter(row["inventory_state"] for row in deployment_rows)
     if inventory_counts != Counter(EXPECTED_INVENTORY_COUNTS):
@@ -430,7 +434,7 @@ def run_selftest(
     add_fixture("wrong row class", lambda _, a, __: a[0].update(row_class="DERIVED_MISSION_FORMATION"), "expected row_class")
     add_fixture("derived owns inventory", lambda _, a, __: a[32].update(inventory_rule="GLOBAL_HOLDINGS_SOURCE"), "invalid inventory rule")
     add_fixture("missing profile", lambda _, a, __: a[0].update(adoption_profile=""), "adoption profile is required")
-    add_fixture("missing deployment", lambda d, _, __: d.pop(), "expected 28 deployment rows")
+    add_fixture("missing deployment", lambda d, _, __: d.pop(), "deployment rows")
     add_fixture("reserve assigned", lambda d, _, __: d[26].update(normal_assignment="HERO_CORE"), "reserve cannot have a formation assignment")
     add_fixture("solo annihilation", lambda d, _, __: d[0].update(solo_limit="ALLOW_HEALTHY_SQUADRON_ANNIHILATION"), "solo-annihilation prohibition")
     add_fixture(
@@ -527,7 +531,7 @@ def main(argv: list[str]) -> int:
     print("FRAME FORMATION VALIDATION PASSED")
     print("- registered identities: 38; proposed adoption mapping 30 + 6 + 2")
     print("- working-canon summaries still state 36; the 36/38 discrepancy remains HOLD")
-    print("- deployment samples: 28 = 26 placed + 2 author HOLD; not a portfolio target")
+    print("- deployment samples: 46 = 44 placed + 2 author HOLD; not a portfolio target")
     print("- manufacturing scale and mission role are validated as separate axes")
     print("- named core candidates: 8, all non-additive flight-strength subsets")
     print("- GA2 protagonist capacity: 1-3 mission assets, external/fixed-base support")
