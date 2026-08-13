@@ -146,7 +146,7 @@
 | [[specialist-routing-index|specialist-routing-index]] | Specialist Routing Index | CANON |
 | [[workflow|workflow]] | End-to-End Workflow & Harness | CANON |
 
-## 99_quality_control (103)
+## 99_quality_control (104)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
@@ -250,6 +250,7 @@
 | [[prewriting-gate-dry-audit-2026-08-03|prewriting-gate-dry-audit-2026-08-03]] | Pre-Writing Gate Dry Audit | REVIEW COMPLETE |
 | [[prewriting-gate-evidence-matrix-v2|prewriting-gate-evidence-matrix-v2]] | Pre-Writing Gate Evidence Matrix v2 | REVIEW |
 | [[prewriting-gate-proxy-signoff-2026-08-03|prewriting-gate-proxy-signoff-2026-08-03]] | Pre-Writing Gate Proxy Sign-Off | CANON PROJECT CONTROL |
+| [[prewriting-gate-scorecard-2026-08-13|prewriting-gate-scorecard-2026-08-13]] | Pre-Writing Gate Scorecard | REVIEW COMPLETE |
 | [[society-and-culture-completion-redteam|society-and-culture-completion-redteam]] | Society & Culture Completion Red-Team | REVIEW COMPLETE |
 | [[world-bible-completion-gap-audit-v2|world-bible-completion-gap-audit-v2]] | World-Bible Completion Gap Audit v2 | REVIEW COMPLETE |
 | [[world-design-01-02-03-linkage-and-payoff-audit-2026-08-13|world-design-01-02-03-linkage-and-payoff-audit-2026-08-13]] | 세계관 01·02·03 연결성·회수 감사 (2026-08-13) | QUALITY-CONTROL |
