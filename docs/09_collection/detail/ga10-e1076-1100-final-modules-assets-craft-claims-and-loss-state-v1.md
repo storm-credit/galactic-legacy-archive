@@ -270,7 +270,7 @@ Unchanged:
 - Lin Osa death and four ledgers;
 - Blood Admiral composite history;
 - three Serrat AI deaths;
-- `회랑새` propulsion permanently lost;
+- `파루스` propulsion permanently lost;
 - Vera Thorn injury/retirement permanent;
 - Ella Savin dead;
 - Ardo Rev dead;

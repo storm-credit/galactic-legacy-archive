@@ -71,7 +71,7 @@ Costs carried:
 
 ## Start — CY 742-08-01
 
-회랑새:
+파루스:
 - laid-up 134 m NR72-118.
 - legal transit minimum crew 42; available trained crew 34–39 plus partial trainees.
 - Reactor A partly operable; Reactor B restricted/damaged.
@@ -104,7 +104,7 @@ Weapons:
 
 ## End — CY 743-03-31
 
-회랑새:
+파루스:
 - sustainable crew approximately 55–68, still below ideal 72–76.
 - Reactor A stable; Reactor B bounded peak support.
 - one full bay, one partial service/utility bay.
@@ -294,7 +294,7 @@ Selected mixed outcome working band:
 Locked named losses:
 - Ella Savin E680.
 - Ardo Rev and Vow of Bastion E683.
-- Vera permanent injury and 회랑새 strategic propulsion loss E684.
+- Vera permanent injury and 파루스 strategic propulsion loss E684.
 
 State functions:
 - preserved in fragmented/distributed packets, not one intact convoy.
@@ -460,7 +460,7 @@ Regions:
 - one handoff/front fails or delays irreversibly.
 
 Assets:
-- 회랑새 route school/rescue station.
+- 파루스 route school/rescue station.
 - 07 public training/rescue asset.
 - Common Fleet divided into regional/mission compacts.
 - Aurel split into bounded services plus Arin Vale person-state.
@@ -482,7 +482,7 @@ Proof level:
 - plural/distributed systems always retain some latency, inequality or capture risk.
 - Rian’s authority is mission/emergency-specific until it is removed.
 - Haren never regains unilateral route authority.
-- 회랑새 and 07 persist through transformed roles, not invulnerability.
+- 파루스 and 07 persist through transformed roles, not invulnerability.
 
 ## 3. Gate Status
 

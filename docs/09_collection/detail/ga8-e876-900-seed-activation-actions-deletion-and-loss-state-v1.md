@@ -361,7 +361,7 @@ No automatic:
 
 Permanent and not restored:
 - three current Serrat AI persons dead;
-- `회랑새` strategic propulsion lost;
+- `파루스` strategic propulsion lost;
 - Vera Thorn arm/neural injury and field chief engineer retirement;
 - Ella Savin dead;
 - Ardo Rev dead;

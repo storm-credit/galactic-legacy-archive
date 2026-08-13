@@ -36,7 +36,7 @@ The approved E101–1100 act/subact architecture remains separate and does not c
 - Silex remains closed and cannot be reopened on demand.
 - Toma Cal/local operators sequence the arrival and deny automatic hero priority.
 - all nine DG-ARDIS arrivals gain current housing/work/care/appeal paths without becoming one protagonist bloc.
-- 회랑새 receives a paid conditional berth and narrow service role, not a permanent base or free overhaul.
+- 파루스 receives a paid conditional berth and narrow service role, not a permanent base or free overhaul.
 - Reactor B and active Bay 2 remain unavailable.
 - 07 improves only to approximately 41–47% reliability.
 - first Garden–Transit movement carries approximately 186 t and produces approximately 14–18 t equivalent loss/downgrade.
@@ -62,7 +62,7 @@ Continuing conditions:
 4. the trial must visibly fail to decide issues outside its mandate.
 5. Foundry repayment/output/cooling and Anchor spare debt persist.
 6. local constituencies remain internally divided.
-7. 07 and 회랑새 remain supporting assets, not city-scale solutions.
+7. 07 and 파루스 remain supporting assets, not city-scale solutions.
 
 ## 5. Next Batch
 

@@ -323,7 +323,7 @@ Result:
 ## 16. Permanent-State Audit
 
 Unchanged:
-- `회랑새` strategic propulsion permanently lost;
+- `파루스` strategic propulsion permanently lost;
 - Vera Thorn permanent arm/neural injury;
 - Vera retired from field chief engineer role;
 - Ella Savin dead;

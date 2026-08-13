@@ -264,7 +264,7 @@ A batch is complete only when:
 | B10-01 | 1001–1025 | first handoff, visible failure and temporary recentralization |
 | B10-02 | 1026–1050 | seven regional choices, independent fronts and interoperability compact |
 | B10-03 | 1051–1075 | central key distribution, service conflicts and irreversible relinquishments |
-| B10-04 | 1076–1100 | three-year transition, epilogues, 07/회랑새 final states and last question |
+| B10-04 | 1076–1100 | three-year transition, epilogues, 07/파루스 final states and last question |
 
 ## 9. Production Order
 

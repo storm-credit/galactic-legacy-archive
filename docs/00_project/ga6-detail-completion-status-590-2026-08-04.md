@@ -95,7 +95,7 @@ No common fleet ownership or command.
 - Ella Savin dies E680 /00:55.
 - Ardo Rev dies E683 /07:35.
 - `보루의 맹세` lost.
-- `회랑새` strategic propulsion permanently lost E684 /09:10.
+- `파루스` strategic propulsion permanently lost E684 /09:10.
 - Vera Thorn permanently injured and retires from active chief-engineer duty.
 
 No resurrection, cure, strategic-drive restoration or wholesale authority inheritance.
@@ -149,7 +149,7 @@ Required first work:
 - treating arrived as permanent safety or missing as dead;
 - erasing G/S benefits or M costs;
 - resolving Blood Admiral/Haren D4 early;
-- restoring `회랑새` strategic propulsion or Vera’s active-chief capacity;
+- restoring `파루스` strategic propulsion or Vera’s active-chief capacity;
 - granting Rian Ardo/all-fleet/master-route authority;
 - silent use of the 73 t module.
 

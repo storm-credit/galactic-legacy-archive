@@ -169,7 +169,7 @@ Action:
 - no triumphant ownership declaration.
 
 State change:
-- 회랑새 becomes physically responsible for everyone aboard.
+- 파루스 becomes physically responsible for everyone aboard.
 
 ## Scene 123.3 — Self-powered departure
 
@@ -294,7 +294,7 @@ Reward:
 
 Cost:
 - time, thermal margin and crew workload;
-- opportunist contact gains knowledge of 회랑새’s limited speed.
+- opportunist contact gains knowledge of 파루스’s limited speed.
 
 Collection state:
 - first-voyage rescue relationship opened;
@@ -380,7 +380,7 @@ Available actions cannot preserve all:
 - relay assemblies and route deadline;
 - KT-441 hull and tow claim;
 - hidden people and their current life-support cargo;
-- 회랑새’s booked patients/witnesses;
+- 파루스’s booked patients/witnesses;
 - sealed evidence;
 - certificate/insurance limits;
 - approach to Lumen/Kael.
@@ -451,7 +451,7 @@ Ending:
 - first mission is already likely to become a partial failure.
 
 Reward:
-- physical proof that 회랑새 and 07 can perform a bounded rescue mission.
+- physical proof that 파루스 and 07 can perform a bounded rescue mission.
 
 Cost:
 - time, heat, route margin, legal exposure and an impossible allocation carried into E126.

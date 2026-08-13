@@ -232,7 +232,7 @@ Current readiness limits:
 - remaining combat hulls are R1/conditional, local-only, repair or crew/pay limited;
 - readily transferable ammunition/countermeasure stock approximately 0.42 major action;
 - maintenance backlog and long-term claims active;
-- `회랑새` remains operational but debt/repair limited, not a flagship-owner;
+- `파루스` remains operational but debt/repair limited, not a flagship-owner;
 - 07 remains approximately 29–35% reliable for service/rescue, no sustained combat upgrade.
 
 Rian:

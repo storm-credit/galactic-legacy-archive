@@ -127,7 +127,7 @@ Locked:
 - six technology layers and eras;
 - compatibility C0–C5;
 - old/new tradeoffs;
-- 07호 and 회랑새 technical/ownership/end-state arcs;
+- 07호 and 파루스 technical/ownership/end-state arcs;
 - AI authority, personhood and institutional separation;
 - no ancient universal supertechnology or omnipotent AI.
 
@@ -350,7 +350,7 @@ No by design authority.
 - major targets are integrated by others;
 - successors are selected by local/crew/civic institutions;
 - Rian’s future index and master authority are lost;
-- 07호, 회랑새, fleets, records and institutions have independent final custody.
+- 07호, 파루스, fleets, records and institutions have independent final custody.
 
 ### Are Imperial and Helix systems straw men?
 

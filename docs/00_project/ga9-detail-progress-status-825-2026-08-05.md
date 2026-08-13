@@ -227,7 +227,7 @@ Unchanged:
 - Blood Admiral five-layer history;
 - Aven not Haren or total Blood Admiral;
 - three Serrat current AI persons dead;
-- `회랑새` propulsion permanently lost;
+- `파루스` propulsion permanently lost;
 - Vera Thorn injury and field retirement permanent;
 - Ella Savin dead;
 - Ardo Rev dead;

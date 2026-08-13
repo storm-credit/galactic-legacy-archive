@@ -266,7 +266,7 @@ Record-war protection:
 - older records may alter the history of doctrine, credentials and propaganda;
 - no version automatically acquits Haren or makes him sole Blood Admiral.
 
-## 17. Vera Thorn, Ella Savin, Ardo Rev and `회랑새`
+## 17. Vera Thorn, Ella Savin, Ardo Rev and `파루스`
 
 Vera Thorn:
 - permanent arm/neural injury;
@@ -279,7 +279,7 @@ Ella Savin:
 Ardo Rev:
 - dead.
 
-`회랑새`:
+`파루스`:
 - strategic propulsion permanently lost.
 
 Ardis:

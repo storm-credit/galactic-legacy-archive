@@ -29,7 +29,7 @@ Approved act/subact architecture remains complete for E101–1100, but does not 
 
 ## 3. Canonical Results
 
-- NR72-118 `회랑새` becomes a restricted mission-lease ship, not Academy/Rian property.
+- NR72-118 `파루스` becomes a restricted mission-lease ship, not Academy/Rian property.
 - legal minimum crew is corrected and locked at 42.
 - Maren/Vera/Luka/Theo/Ella gain independent operational authority.
 - Rian is mission/flight commander, not captain.

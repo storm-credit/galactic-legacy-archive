@@ -669,7 +669,7 @@ Result: PASS.
 
 ## 29. Permanent Loss Audit
 
-`회랑새`:
+`파루스`:
 - strategic propulsion permanently lost.
 
 Vera Thorn:

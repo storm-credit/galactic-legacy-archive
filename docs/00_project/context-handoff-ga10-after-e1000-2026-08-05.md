@@ -278,7 +278,7 @@ Completion steps:
 - Blood Admiral remains five-layer composite history
 - Aven is not Haren or total Blood Admiral
 - three Serrat current AI persons remain permanently dead
-- `회랑새` strategic propulsion remains permanently lost
+- `파루스` strategic propulsion remains permanently lost
 - Vera Thorn’s permanent arm/neural injury and field chief engineer retirement remain
 - Ella Savin remains dead
 - Ardo Rev remains dead

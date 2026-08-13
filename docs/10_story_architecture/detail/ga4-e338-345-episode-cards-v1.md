@@ -40,7 +40,7 @@ Window manifest:
 - total people crossing: 144.
 
 Outbound mission vessels:
-1. 회랑새 — 54 assigned crew/mission personnel;
+1. 파루스 — 54 assigned crew/mission personnel;
 2. Neutral medical/evidence cutter `NMC-12` — 16;
 3. Ardis Trust courier tender `ATC-3` — 16.
 
@@ -96,7 +96,7 @@ Date:
 - CY 743-10-13.
 
 POV:
-- 회랑새 bridge, Neutral/Ardis mission staff and four claimant retrieval teams.
+- 파루스 bridge, Neutral/Ardis mission staff and four claimant retrieval teams.
 
 Visible goal:
 - identify which teams are rescue partners, legal claimants, security risks or competing custodians.
@@ -345,7 +345,7 @@ Starting:
 
 Ending:
 - the Joint Trust independently executes a 352 t / 144-person window and B-2 falls to 11–12%; no repeat for 11–17 days;
-- 회랑새, Neutral and Ardis assets leave under split custody;
+- 파루스, Neutral and Ardis assets leave under split custody;
 - all four claimant retrieval teams contribute real Registry, care, security or key-isolation capacity;
 - Baseline’s 18 people are fully accounted: 16 recovered alive, 2 dead;
 - Tera On survives critically injured and confirms only physical sequence;

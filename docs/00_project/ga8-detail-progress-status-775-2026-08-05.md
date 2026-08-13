@@ -226,7 +226,7 @@ Haren:
 
 Permanent locks:
 - three Serrat AI persons dead;
-- `회랑새` strategic propulsion lost;
+- `파루스` strategic propulsion lost;
 - Vera Thorn permanent injury and field retirement;
 - Ella Savin dead;
 - Ardo Rev dead;

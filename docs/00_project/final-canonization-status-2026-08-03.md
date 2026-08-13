@@ -30,7 +30,7 @@ No future status report may infer merge completion from a merge-commit field alo
 - approximately six years four months of main-story time.
 - opening-core birth dates, ages, licences and bounded authority progression.
 - core reader-facing names and voice-question anchors.
-- `회랑새` and `07호` final names and transformation paths.
+- `파루스` and `07호` final names and transformation paths.
 - GA1–10 boundary states for core characters, ship, frame, fleet, routes and Aurel.
 - M-001–M-020 exact decisive payoff episodes and scenes.
 - M-001–M-020 early-clue episode ledger.
@@ -53,7 +53,7 @@ No future status report may infer merge completion from a merge-commit field alo
 - Haren survives and remains specifically accountable for one D4 order; he is permanently barred from unilateral route keys and barred from executive route command for twelve years.
 - Nera survives; her official future “death/disappearance” is an authorship/legal closure, not a hidden corpse reversal.
 - Serin, Mia and Ern survive with independent institutions and no permanent subordination to Rian.
-- `회랑새` permanently loses strategic independent propulsion in GA6 and becomes a route school/rescue station.
+- `파루스` permanently loses strategic independent propulsion in GA6 and becomes a route school/rescue station.
 - `07호` survives with progressively replaced parts and loses its unique wartime combat configuration; it remains a public training/rescue asset.
 - Aurel’s master cross-domain office is split; useful services remain, and Arin Vale becomes an independent person-state.
 - one final canonical history is physically and institutionally impossible after Nacre-3’s loss and the final plural archive settlement.
@@ -71,7 +71,7 @@ Locked deaths:
 
 Locked permanent transformations/losses:
 - Vera Thorn’s permanent injury and role change — E684.
-- `회랑새` strategic propulsion loss — E684.
+- `파루스` strategic propulsion loss — E684.
 - `Vow of Bastion` and medical carrier `Warmth` losses — GA6.
 - LIV-4 person-state fracture — E841.
 - Nacre-3 mirror/source destruction — E889.

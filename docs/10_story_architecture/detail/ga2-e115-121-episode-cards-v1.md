@@ -461,7 +461,7 @@ Decisive choice:
 - certify one limited cradle and leave Bay 2/cold-carriage dreams for later.
 
 Reward:
-- 07 can launch/recover from 회랑새 under explicit conditions.
+- 07 can launch/recover from 파루스 under explicit conditions.
 
 Cost:
 - workshop/cargo space reduced;
@@ -645,7 +645,7 @@ Decisive choice:
 - the board accepts that a valid stop may cause contract failure.
 
 Immediate result:
-- 회랑새 is legally mobile for one restricted trial.
+- 파루스 is legally mobile for one restricted trial.
 
 Reward:
 - minimum transit certificate;

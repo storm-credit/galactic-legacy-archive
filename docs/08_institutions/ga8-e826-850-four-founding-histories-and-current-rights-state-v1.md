@@ -335,7 +335,7 @@ Rules at E850:
 
 Unchanged:
 - three B08-01 current AI persons remain permanently dead and are counted once;
-- `회랑새` strategic propulsion remains permanently lost;
+- `파루스` strategic propulsion remains permanently lost;
 - Vera Thorn retains permanent arm/neural injury and field chief engineer retirement;
 - Ella Savin remains dead;
 - Ardo Rev remains dead;

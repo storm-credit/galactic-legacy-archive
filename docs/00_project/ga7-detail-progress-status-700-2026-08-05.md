@@ -186,7 +186,7 @@ Lin Osa:
 
 ## 10. Permanent Carryover Locks
 
-- `회랑새` strategic propulsion remains permanently lost;
+- `파루스` strategic propulsion remains permanently lost;
 - Vera Thorn retains permanent arm and neural injury and remains retired from field chief engineer duty;
 - Ella Savin remains dead;
 - Ardo Rev remains dead;

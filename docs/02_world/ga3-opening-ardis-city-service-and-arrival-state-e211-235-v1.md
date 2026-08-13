@@ -49,7 +49,7 @@ Arrived through the one Silex window:
 - cooling/filter and foundry/service cargo;
 - Ardis/local mission authority.
 
-### 회랑새
+### 파루스
 
 - 3 DG-ARDIS travellers;
 - node-control records and portable identity/appeal packets;
@@ -134,7 +134,7 @@ Use functional constituencies first; exact named officeholders remain aligned wi
 
 No constituency is morally or politically uniform.
 
-## 7. 회랑새 as Burden and Capability
+## 7. 파루스 as Burden and Capability
 
 Capabilities:
 - one 07 service frame;
@@ -183,7 +183,7 @@ It may not transfer:
 
 By E235:
 - all 9 DG-ARDIS arrivals have current housing/work/care/appeal placement paths, not necessarily permanent resolution;
-- 회랑새 has a paid/conditional berth and narrow service contract, not free city ownership;
+- 파루스 has a paid/conditional berth and narrow service contract, not free city ownership;
 - one delivered package is used and another priority is visibly delayed/lost;
 - local operator/worker/resident actors make at least two decisive autonomous choices;
 - one first technical intervention produces mixed success and a city-zone cost;
@@ -195,7 +195,7 @@ By E235:
 ## 10. Hard Prohibitions
 
 - Rian may not become governor, node commander or sole crisis coordinator;
-- 회랑새 may not receive free full repair as reward;
+- 파루스 may not receive free full repair as reward;
 - 07 may not solve city-scale infrastructure alone;
 - temporary arrivals may not displace local workers by heroic appointment;
 - Transit Belt people may not be treated as one refugee crowd;

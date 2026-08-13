@@ -109,7 +109,7 @@ Reader-facing active pursuits remain within 3–5.
 | operation | 마렌/crew/department authority under restricted certificate |
 | meaning | public “first ship,” workers’ unpaid workplace, Helix lien asset, Neutral risk object and charter institution all compete |
 
-### 07 aboard 회랑새
+### 07 aboard 파루스
 
 | Layer | Current holders |
 |---|---|

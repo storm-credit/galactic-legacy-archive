@@ -193,7 +193,7 @@ PASS:
 - Isa Bell timeline and Aurel layers consistent;
 - Messa Rin errata respected;
 - Ardo, Ella, Rin and Toma deaths preserved;
-- Vera and 회랑새 permanent transformations unaffected;
+- Vera and 파루스 permanent transformations unaffected;
 - GA5–10 authority progression matches grand-act architecture;
 - Arin Vale remains person, not office successor.
 

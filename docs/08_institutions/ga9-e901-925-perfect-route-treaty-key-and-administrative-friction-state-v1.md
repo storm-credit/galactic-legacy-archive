@@ -334,7 +334,7 @@ Unchanged:
 - Aven is not Haren or the total Blood Admiral;
 - Rian has no key or sovereignty;
 - three Serrat current AI persons remain dead;
-- `회랑새` strategic propulsion permanently lost;
+- `파루스` strategic propulsion permanently lost;
 - Vera Thorn permanent arm/neural injury and field chief engineer retirement;
 - Ella Savin dead;
 - Ardo Rev dead;

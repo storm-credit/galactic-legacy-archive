@@ -291,7 +291,7 @@ Not acquired as fact:
 
 - Ella and Ardo remain dead.
 - `보루의 맹세` remains lost.
-- `회랑새` remains strategically immobile.
+- `파루스` remains strategically immobile.
 - Vera retains permanent arm/nerve injury and active-chief retirement.
 - GA6 arrived/holdout/captured/dead/missing statuses remain.
 - GA4/GA5 deaths, injuries, hull/cargo claims and 480 pay/family cases remain.

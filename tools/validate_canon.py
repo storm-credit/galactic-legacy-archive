@@ -55,6 +55,8 @@ SKIP_FILES = {"환영합니다!.md"}
 RETIRED_NAMES = [
     ("리안 카르도", "리안 칼데르", "P-001 rename, canonical-name-errata-005 / PR #99"),
     ("Rian Cardo", "Rian Calder", "P-001 rename, canonical-name-errata-005 / PR #99"),
+    ("회랑새", "파루스", "first-ship rename, decision-log D-20260813-02"),
+    ("Corridor Wren", "Parus", "first-ship rename, decision-log D-20260813-02"),
 ]
 
 # Documents that are allowed to contain retired names, because their purpose is
@@ -226,9 +228,14 @@ def check_retired_names(files: list[tuple[str, str]], report: Report) -> int:
         if is_history_exempt(rel):
             continue
         checked += 1
+        # A retired name inside backticks is being *named*, not used — the name
+        # lock, the phonetics table and the rename decision all have to say which
+        # name was retired. Stripping code spans is the same rule C1 uses for
+        # quoted link syntax.
+        prose = strip_code(text)
         for retired, replacement, reason in RETIRED_NAMES:
-            if retired in text:
-                count = text.count(retired)
+            if retired in prose:
+                count = prose.count(retired)
                 report.error(
                     f"C2 {rel}: retired name {retired!r} appears {count}x — "
                     f"use {replacement!r} ({reason})"
@@ -418,6 +425,12 @@ def selftest() -> int:
             "C1 ignores wikilink syntax quoted as inline code",
             [("CLAUDE.md", "문서 참조는 `[[위키링크]]`로 쓴다")],
             "links",
+            "",
+        ),
+        (
+            "C2 allows a retired name quoted as inline code",
+            [("docs/05_characters/x.md", "폐기명 `Rian Cardo`는 쓰지 않는다")],
+            "retired",
             "",
         ),
         (

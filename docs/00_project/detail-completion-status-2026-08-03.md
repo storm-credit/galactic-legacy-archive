@@ -49,7 +49,7 @@ This batch expands previously deferred setting, world and design detail without 
 - phonetic collision controls;
 - regional speech registers;
 - terminology layers and reintroduction;
-- textual visual authority for factions, clothing, architecture, 07, 회랑새, K-13, Ardis, Palimpsest, Preservation and transition regions.
+- textual visual authority for factions, clothing, architecture, 07, 파루스, K-13, Ardis, Palimpsest, Preservation and transition regions.
 
 ### Mystery and ending
 
@@ -112,7 +112,7 @@ Start `B02-01 — Episodes 101–125` detailed episode cards.
 Sequence:
 
 1. inherit GA1 E100 state;
-2. lock 회랑새 opening title, debt, crew and technical state;
+2. lock 파루스 opening title, debt, crew and technical state;
 3. design 25 episode cards using the new schema;
 4. create operation/economy/collection updates;
 5. red-team the batch;

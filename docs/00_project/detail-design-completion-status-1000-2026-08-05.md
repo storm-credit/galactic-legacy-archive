@@ -50,7 +50,7 @@ Grand acts:
 - Lin Osa’s agency, four ledgers and permanent death retained;
 - Blood Admiral remains five-layer composite;
 - three Serrat current AI persons remain dead;
-- `회랑새` strategic propulsion remains lost;
+- `파루스` strategic propulsion remains lost;
 - Vera Thorn permanent injury and field retirement remain;
 - Ella Savin and Ardo Rev remain dead;
 - Ardis 73 t module remains sealed and unused.

@@ -380,7 +380,7 @@ PASS:
 - no ship/fleet acquisition;
 - local forces remain small and split;
 - 07 ends 38–44%, no upgrade;
-- 회랑새 remains conditional contractor;
+- 파루스 remains conditional contractor;
 - Spine B recovery worsens after use;
 - dense weapon module remains unavailable;
 - denial/Spine C yields no power reward.

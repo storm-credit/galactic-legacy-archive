@@ -30,7 +30,7 @@ Ardis at E211:
 Arrival assets:
 1. Neutral medical/rescue auxiliary;
 2. Ardis cargo/service carrier;
-3. NR72-118 `회랑새`;
+3. NR72-118 `파루스`;
 4. nine DG-ARDIS travellers;
 5. critical but incomplete cooling, medical, identity and service packages.
 
@@ -47,7 +47,7 @@ Not arrived:
 Toma Cal and current Anchor Crown shift authority sequence:
 1. Neutral medical/rescue auxiliary;
 2. Ardis cargo/service carrier;
-3. 회랑새;
+3. 파루스;
 4. one local commercial/worker movement delayed.
 
 Result:
@@ -55,7 +55,7 @@ Result:
 - outside “hero ship” receives no automatic priority;
 - local service loss and holding charges are recorded rather than erased.
 
-### 회랑새 berth
+### 파루스 berth
 
 At E235:
 - paid, conditional berth/service role extended only for the Joint Service Trial;
@@ -130,7 +130,7 @@ Scope:
 - one Foundry parts line;
 - provisional identity/service standing;
 - worker, operator, user and medical stop rights;
-- 회랑새/07 support.
+- 파루스/07 support.
 
 Not transferred:
 - city sovereignty;
@@ -155,7 +155,7 @@ Funding mix:
 - bounded creditor payroll bridge;
 - certified cooling package participation;
 - Neutral/route support;
-- 회랑새 service offsets.
+- 파루스 service offsets.
 
 Controls:
 - 30-day expiry;
@@ -317,7 +317,7 @@ Operational gains:
 - federated current-state board;
 - worker/operator/user/medical stop rights inside trial scope;
 - 640-person provisional service-standing pilot;
-- paid conditional role for 회랑새;
+- paid conditional role for 파루스;
 - formal 30-day Joint Service Trial.
 
 Unresolved:
@@ -343,7 +343,7 @@ Must inherit:
 - 14–18 t first-trial loss remains in claims/public memory;
 - Foundry cooling/repayment and Anchor spare debt remain;
 - local operators retain stop and sequence rights;
-- 회랑새 remains indebted, undercrewed and technically limited;
+- 파루스 remains indebted, undercrewed and technically limited;
 - 07 remains 41–47%, not restored.
 
 ## 14. Gate Candidate

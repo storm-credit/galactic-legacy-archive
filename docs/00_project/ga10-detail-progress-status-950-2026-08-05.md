@@ -150,7 +150,7 @@ Unchanged:
 - Blood Admiral composite;
 - Aven not Haren/total Blood Admiral;
 - three Serrat AI deaths;
-- `회랑새` propulsion loss;
+- `파루스` propulsion loss;
 - Vera injury/retirement permanent;
 - Ella and Ardo dead;
 - Ardis 73 t sealed/unused;

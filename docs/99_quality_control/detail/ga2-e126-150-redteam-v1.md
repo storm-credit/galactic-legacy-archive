@@ -71,7 +71,7 @@ Counterevidence:
 - different groups choose transfer, remaining, skiff route or stabilization work;
 - sealed cargo is current life-support infrastructure and evidence;
 - occupants retain title/claim and current-system knowledge;
-- 회랑새 leaves without owning/towing the hull;
+- 파루스 leaves without owning/towing the hull;
 - Neutral process continues after protagonists depart.
 
 Verdict:
@@ -112,7 +112,7 @@ Injury chain:
 - hypoxia/internal injury.
 
 Care state:
-- local habitat/회랑새 can extract and stabilize;
+- local habitat/파루스 can extract and stabilize;
 - required advanced critical/regenerative care unavailable within safe transport window;
 - one procedure extends stability but does not reverse combined injury;
 - death occurs E150 after E147 injury and E148–149 bounded treatment.

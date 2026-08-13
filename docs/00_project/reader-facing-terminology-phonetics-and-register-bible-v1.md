@@ -93,6 +93,7 @@ Prohibited:
 | 팔림프세스트 | GA8 region/concept | individual archive site names introduced separately |
 | 오르페우스 | GA6 operation/crisis | ships or weapons using same mythic name prohibited |
 | 아우렐 | service/continuity architecture | 아렐 계열 generated systems remain author-side |
+| 파루스 | GA2+ 첫 독립임무선 통칭 (`NR72-118`) | 폐기명 `회랑새` 재사용 금지; 라틴 어근이지만 제국 함선 의미장과 구분 |
 
 ## 6. Atlas Name Visibility
 
@@ -276,7 +277,7 @@ Example:
 | GA | Core locations | Core institutions/terms | Terms to retire or background |
 |---|---|---|---|
 | GA1 | K-13, 백색 도크, 검은 병동 | 07호, 셀, 기록권, 의료중지 | galaxy-scale offices |
-| GA2 | 회랑새, 루멘, 카엘, 네리스, 마른, 실렉스 | 함장권, 압류, 공개정비, 항로신탁 | most Academy class terms |
+| GA2 | 파루스, 루멘, 카엘, 네리스, 마른, 실렉스 | 함장권, 압류, 공개정비, 항로신탁 | most Academy class terms |
 | GA3 | 아르디스 zones | 공동신탁, 노드창, 시민/유동신분 | GA2 claim-office detail |
 | GA4 | Crown/claimant regions | authentic orders, succession offices | local Ardis district names |
 | GA5 | dispersed fleets/routes | mission trust, readiness, support train | court-detail overload |

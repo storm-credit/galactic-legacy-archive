@@ -102,14 +102,14 @@ At V03/V11 approaches:
 - 11 combat-capable ships;
 - 22 support/rescue/courier ships;
 - approximately 102 frames/utility units;
-- includes NR72-118 `회랑새` and AUX-07 `07호` as support/mission assets;
+- includes NR72-118 `파루스` and AUX-07 `07호` as support/mission assets;
 - 8 combat-capable ships R2 or better for bounded missions.
 
 Alignment vector:
 - Ardis Joint Trust, Neutral and provincial mission contracts;
 - captain and crew acceptance by ship;
 - Rian has mission/flight authority only over accepted task elements;
-- Maren Dove retains ship safety and surrender authority aboard `회랑새`.
+- Maren Dove retains ship safety and surrender authority aboard `파루스`.
 
 ## 3. Aggregate Does Not Equal Fleet
 

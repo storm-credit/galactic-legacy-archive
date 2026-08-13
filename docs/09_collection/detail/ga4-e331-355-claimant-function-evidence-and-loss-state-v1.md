@@ -112,7 +112,7 @@ State:
 - `G — mission active under split masters/custody`.
 
 Assets:
-- 회랑새;
+- 파루스;
 - Neutral medical/evidence cutter NMC-12;
 - Ardis Trust courier tender ATC-3.
 

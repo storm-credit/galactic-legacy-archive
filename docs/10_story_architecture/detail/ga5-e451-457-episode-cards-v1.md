@@ -33,7 +33,7 @@ Hidden pressure:
 
 Scene units:
 1. **Approach board** — traffic control shows 116 combat-capable hulls but only six mutually compatible command channels.
-2. **Berth denial** — `회랑새` receives a fuel berth but not ammunition, strategic-key or depot-command access; 07 receives exterior-service clearance only.
+2. **Berth denial** — `파루스` receives a fuel berth but not ammunition, strategic-key or depot-command access; 07 receives exterior-service clearance only.
 3. **Eight-layer audit** — Serin separates title, commission, oath, pay, maintenance, authentication, mission and rescue instead of accepting one loyalty label.
 4. **Immediate crisis** — payroll staff close a fuel manifold lane after armed marines demand requisition priority.
 
@@ -41,7 +41,7 @@ Decisive choice:
 - Rian refuses Dor-aligned staff’s offer to designate all nearby route ships as his provisional fleet and requests a 72-hour service/defense fact board instead.
 
 Reward:
-- current ship/crew claims become visible; `회랑새` receives minimum safe dock service.
+- current ship/crew claims become visible; `파루스` receives minimum safe dock service.
 
 Cost:
 - Rian gains no ammunition or broad command; several officers publicly call the route coalition indecisive.

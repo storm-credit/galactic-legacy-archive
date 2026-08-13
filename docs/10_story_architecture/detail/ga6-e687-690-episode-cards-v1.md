@@ -136,7 +136,7 @@ Final GA6 state:
 - G/S counterfactuals and dissent preserved;
 - Ella and Ardo permanently dead;
 - Vera permanently injured;
-- `회랑새` strategically immobile;
+- `파루스` strategically immobile;
 - massive arrived/holdout/captured/dead/missing claims active;
 - fleet/route/service capacity depleted.
 

@@ -47,7 +47,7 @@ Rules:
 | Class | Economic cruise | Combat sustained | Emergency pulse | High-output endurance |
 |---|---:|---:|---:|---|
 | utility cutter | 0.03–0.10 g | 0.10–0.25 g | 0.4–0.9 g | 4–20 min |
-| old utility escort / 회랑새 | 0.025–0.08 g | 0.08–0.20 g | 0.35–0.70 g | 3–12 min before thermal/drive limits |
+| old utility escort / 파루스 | 0.025–0.08 g | 0.08–0.20 g | 0.35–0.70 g | 3–12 min before thermal/drive limits |
 | modern corvette/frigate | 0.05–0.16 g | 0.18–0.45 g | 0.7–1.4 g | 8–30 min |
 | destroyer | 0.04–0.13 g | 0.15–0.38 g | 0.6–1.2 g | 8–25 min |
 | cruiser | 0.025–0.09 g | 0.10–0.28 g | 0.4–0.9 g | 10–35 min |
@@ -59,7 +59,7 @@ Interpretation:
 - smaller does not always mean faster; propellant fraction, radiator state, cargo and drive condition matter;
 - a ship can accelerate hard and still be unable to turn its sensor/weapon geometry in time;
 - emergency pulses consume maintenance life, reaction mass and crew health;
-- 회랑새 may briefly match a healthier escort only by losing later maneuver or damaging systems.
+- 파루스 may briefly match a healthier escort only by losing later maneuver or damaging systems.
 
 ## 4. Frame Mobility Envelope
 

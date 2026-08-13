@@ -266,7 +266,7 @@ The Haren order is one future anchor for how a real person can embody several la
 
 - Ella and Ardo remain dead.
 - `보루의 맹세` remains lost.
-- `회랑새` remains strategically immobile.
+- `파루스` remains strategically immobile.
 - Vera remains permanently injured and outside active chief-engineer duty.
 - GA6 arrived/holdout/captured/dead/missing rights remain.
 - GA5’s 480 pay/family cases and all route/creditor/family claims remain.

@@ -249,6 +249,6 @@ Public rumor:
 - 713 post-Orpheus cascade deaths active;
 - signature investigation opens without attribution;
 - no formal route federation, D4 decision or master route authority;
-- `회랑새` remains strategically immobile, Vera permanently limited, Ardo/Ella dead;
+- `파루스` remains strategically immobile, Vera permanently limited, Ardo/Ella dead;
 - 73 t dense module outside and unused;
 - manuscript blocked.

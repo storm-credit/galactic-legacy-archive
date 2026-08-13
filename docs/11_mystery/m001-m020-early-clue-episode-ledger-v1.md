@@ -282,7 +282,7 @@ Literal truth:
 
 Clues:
 - **E7** — 07 has several legal/technical claimants before Rian can use it.
-- **E105** — 회랑새 title, lien, wages and mission rights are separate.
+- **E105** — 파루스 title, lien, wages and mission rights are separate.
 - **E145** — ghost-caravan residents prevent clean heroic salvage.
 - **E329** — Ardis survives but does not become Rian’s city.
 - **E449** — succession powers separate rather than entering one heir.

@@ -19,7 +19,7 @@ Community:
 - Haren’s earlier public role risks being mistaken for permanent representation.
 
 Transport/resources:
-- 회랑새 cannot safely carry all 36 with crew, existing mission load and medical limits;
+- 파루스 cannot safely carry all 36 with crew, existing mission load and medical limits;
 - mixed-service relay identifies possible routes but cannot choose destinations;
 - total 180-day support envelope 443,000–721,000 BSC;
 - multiple institutions must co-fund and no one source can control the whole group.
@@ -167,7 +167,7 @@ Relationship state:
 - Haren cannot appoint caregivers; Mia/Ella cannot override competent patient choices for convenience.
 
 Carried state:
-- Neutral medical passage, not 회랑새 alone, must carry the group.
+- Neutral medical passage, not 파루스 alone, must carry the group.
 
 Final hook:
 - Ardis offers nine work-residency places, but only if the first six workers arrive before a damaged-foundry hiring window closes.
@@ -243,7 +243,7 @@ Carried state:
 - mobile/route group must decide whether ship work is freedom or another tied service system.
 
 Final hook:
-- two candidates qualify for 회랑새’s missing watch positions, but one receives a better offer from another route crew.
+- two candidates qualify for 파루스’s missing watch positions, but one receives a better offer from another route crew.
 
 Specialist panel:
 - P02/P03/P04/P06, C02, M05, X01/X03/X04.
@@ -262,12 +262,12 @@ Visible goal:
 - establish mobile/ship employment options for seven people without turning work into permanent allegiance.
 
 Hidden pressure:
-- 회랑새 urgently needs sustainable staff and may unintentionally exploit the group’s limited alternatives.
+- 파루스 urgently needs sustainable staff and may unintentionally exploit the group’s limited alternatives.
 
 ## Scene 164.1 — Seven different route choices
 
 Paths:
-- two qualify toward 회랑새 trial positions after training/licensing;
+- two qualify toward 파루스 trial positions after training/licensing;
 - two prefer other convoy/route crews with better pay or destination fit;
 - three prefer Open Passage/Varka mutual-aid, repair or hospitality work.
 
@@ -289,7 +289,7 @@ Maren/Theo offer:
 One qualified candidate chooses another route crew because:
 - destination better matches household ties;
 - pay is higher;
-- 회랑새’s debt and danger are unattractive.
+- 파루스’s debt and danger are unattractive.
 
 Action:
 - the charter does not block the move or treat it as betrayal.
@@ -297,7 +297,7 @@ Action:
 ## Scene 164.4 — Bounded integration
 
 Decisive choice:
-- two people accept trial positions on 회랑새;
+- two people accept trial positions on 파루스;
 - two sign with other crews;
 - three enter Open Passage/Varka-supported work arrangements.
 
@@ -305,7 +305,7 @@ Reward:
 - DG-ROUTE’s seven positions are assigned without a single employer.
 
 Cost:
-- 회랑새 still remains below sustainable 62-person target;
+- 파루스 still remains below sustainable 62-person target;
 - route-group housing/medicine and wage variability persist;
 - 52,000–94,000 BSC support envelope activated.
 
@@ -489,7 +489,7 @@ Result:
 
 ## Scene 167.2 — Available capacity
 
-- 회랑새: limited after crew/cargo/relay configuration, not a medical passage;
+- 파루스: limited after crew/cargo/relay configuration, not a medical passage;
 - Neutral medical ship: care group capacity but fixed schedule/data rules;
 - Ardis convoy: cargo/work places, limited medical support;
 - route crews: scattered places and different destinations;
@@ -497,7 +497,7 @@ Result:
 
 ## Scene 167.3 — What is displaced
 
-To carry more on 회랑새 would require:
+To carry more on 파루스 would require:
 - removing relay/service cargo or workshop tools;
 - reducing emergency reserve;
 - delaying ship inspection/repairs;
@@ -513,7 +513,7 @@ Plan:
 - DG-PRIVATE separately/sealed;
 - DG-STAY remains;
 - DG-ROUTE spreads across ships/jobs;
-- DG-ARDIS joins a later joint convoy with 회랑새 support.
+- DG-ARDIS joins a later joint convoy with 파루스 support.
 
 Reward:
 - every person receives a route/holding plan without one ship carrying all.

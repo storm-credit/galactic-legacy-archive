@@ -14,7 +14,7 @@ Open Risks: Ardis convoy arrival and held-back support-craft outcome remain next
 - E161 opens CY 742-08-27.
 - E175 closes CY 742-09-16.
 
-## 2. 회랑새 State at E175
+## 2. 파루스 State at E175
 
 ### Legal/mission
 
@@ -91,7 +91,7 @@ It does not:
 - certified sensor/software participation: Helix under bounded terms;
 - evidence/insurance: Kael/Neutral institutions;
 - user/medical stop rights: connected habitat/caravan/service users;
-- ship installation/mission use: 회랑새 mission trust;
+- ship installation/mission use: 파루스 mission trust;
 - physical operation: captain + relevant engineering/service authority;
 - emergency bypass: local physical, logged, expiring and scope-bounded.
 
@@ -127,7 +127,7 @@ Funding sources:
 - Helix field safety reserve;
 - Kael claims advance;
 - habitat emergency budget;
-- mission participants including reduced 회랑새 share.
+- mission participants including reduced 파루스 share.
 
 Not resolved by E175:
 - final negligence/criminal findings;
@@ -145,8 +145,8 @@ Locked:
 | Group | People | Current state |
 |---|---:|---|
 | DG-CARE | 13 | departed through Neutral medical passage; first Glasswater/Lentz acceptance chain active |
-| DG-ARDIS | 9 | 6 on primary Ardis convoy, 2 on 회랑새-supported first leg, 1 delayed with protected later slot |
-| DG-ROUTE | 7 | 2 on 회랑새 trial work, 2 with other crews, 3 Open Passage/Varka arrangements |
+| DG-ARDIS | 9 | 6 on primary Ardis convoy, 2 on 파루스-supported first leg, 1 delayed with protected later slot |
+| DG-ROUTE | 7 | 2 on 파루스 trial work, 2 with other crews, 3 Open Passage/Varka arrangements |
 | DG-STAY | 4 | K-13 renewed service/claims compact active |
 | DG-PRIVATE | 3 | sealed independent route verified; location not held by Haren/Academy |
 | **Total** | **36** | all accounted for |
@@ -169,7 +169,7 @@ Additional contract-splitting premium/legal/escrow cost:
 
 Ardis capacity adjustment:
 - 31,000–48,000 BSC additional route slot/contingency;
-- one 회랑새 paid workshop/service job delayed;
+- one 파루스 paid workshop/service job delayed;
 - personal tools/property for some travellers shipped later.
 
 Funding remains multi-source. No funder controls all 36.
@@ -180,7 +180,7 @@ No single fleet/commander.
 
 Assets:
 - Neutral medical passage;
-- 회랑새;
+- 파루스;
 - Ardis cargo/service convoy;
 - independent route crews;
 - Open Passage/Varka arrangements;
@@ -232,7 +232,7 @@ Must inherit:
 - relay installed and useful but unable to certify;
 - Jena loss and settlement remain active;
 - no second frame/Bay 2 combat reward;
-- 회랑새 still indebted, undercrewed and technically limited.
+- 파루스 still indebted, undercrewed and technically limited.
 
 ## 10. Gate Candidate
 

@@ -146,7 +146,7 @@ Contribution:
 - creates bounded equivalence testing and local expert attestation.
 
 Permanent-state rule:
-- Serrat or Seed technology does not restore Vera, `회랑새`, Ella or Ardo.
+- Serrat or Seed technology does not restore Vera, `파루스`, Ella or Ardo.
 
 ## 9. Mobile Settlement Representative — Jessa Korr
 
@@ -296,7 +296,7 @@ Ella Savin:
 Ardo Rev:
 - dead.
 
-`회랑새`:
+`파루스`:
 - strategic propulsion permanently lost.
 
 Ardis:

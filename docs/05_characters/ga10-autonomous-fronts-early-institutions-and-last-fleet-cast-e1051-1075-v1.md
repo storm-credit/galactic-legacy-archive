@@ -194,7 +194,7 @@ Lin:
 ## 16. Permanent-Loss Cast
 
 - three Serrat AI persons dead;
-- `회랑새` propulsion lost;
+- `파루스` propulsion lost;
 - Vera Thorn injury/retirement permanent;
 - Ella Savin dead;
 - Ardo Rev dead;
