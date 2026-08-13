@@ -3,7 +3,7 @@
 Status: WORKING CANON — TEXTUAL VISUAL-DESIGN AUTHORITY
 Owner Agents: P05 Culture-Language / H01 Industrial Production / H02 Ship Architecture / H04 Maintenance / T03 Habitat Systems / T06 Mecha Systems / W06 Ordinary Life / R07 Similarity / X02 Reader Memory / X03 Ethics
 Last Reviewed: 2026-08-03
-Depends On: faction visual matrix, technology eras, 07 and first-ship bibles, Academy/Ardis/GA8–10 atlases
+Depends On: [[faction-succession-culture-visual-identity-matrix-v1]], [[technology-era-and-interoperability-bible-v1]], 07 and first-ship bibles, Academy/Ardis/GA8–10 atlases
 Used By: maps, diagrams, costume sheets, cover/concept art, visual scene cards and adaptation briefs
 Open Risks: no final image asset is authorized by this text alone; generated or commissioned art requires separate similarity and usability review
 

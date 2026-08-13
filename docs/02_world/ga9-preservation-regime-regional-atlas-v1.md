@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: P01 Politics / P02 Political Economy / P03 Law / T02 Navigation / T07 Networks / M01 Strategy / X03 Ethics
 Last Reviewed: 2026-08-03
-Depends On: GA9 regime/classification bible, GA8 archive atlas, final chronology
+Depends On: [[ga9-preservation-regime-and-classification-bible-v1]], [[ga8-palimpsest-and-archive-sites-atlas-v1]], [[master-series-chronology-v1]]
 Used By: Episodes 901–1000, regime benefits/harms, military and service geography, GA10 transition
 Open Risks: exact population changes after GA6–8 wars, final local leaders and names
 

@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: M01 Grand Strategy / M03 Fleet Operations / M05 Logistics / M08 Command Ethics / T02 Navigation / P01 Politics / P08 Frontier / N08 Faction Arcs
 Last Reviewed: 2026-08-03
-Depends On: GA6 Orpheus outcome, H-001 community/route federation, ownerless fleet charter, Lumen/Vesper maps
+Depends On: GA6 Orpheus outcome, H-001 community/route federation, [[ownerless-fleet-structure-and-alignment-v1]], Lumen/Vesper maps
 Used By: Episodes 691–800, H-001 doctrine, Blood Admiral decomposition, GA8 launch
 Open Risks: exact regional names and force states, post-Orpheus casualty/depletion ranges, overlap with H-001 character bible
 

@@ -3,7 +3,7 @@
 Status: REVIEW COMPLETE — FINAL PASS
 Owner Agents: O02 Gates / X01 Logic / X04 Continuity / X06 Coverage / A16 Red Team
 Last Reviewed: 2026-08-03
-Depends On: deferred-detail-completion-redteam-v1, GitHub Actions run 30813990906
+Depends On: [[deferred-detail-completion-redteam-v1]], GitHub Actions run 30813990906
 Used By: PR #45 merge gate and detail-completion status
 
 ## 1. CI Evidence

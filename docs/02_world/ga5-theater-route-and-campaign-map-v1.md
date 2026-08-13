@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: T02 Navigation-Comms / M01 Grand Strategy / M03 Fleet Operations / M05 Logistics / P06 Faction Clocks / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: Imperial Core geography, galaxy scale, GA4 compact, ownerless fleet structure
+Depends On: [[imperial-core-and-succession-geography-v1]], [[galaxy-node-fleet-economy-scale-v1]], GA4 compact, [[ownerless-fleet-structure-and-alignment-v1]]
 Used By: Episodes 451–570, fleet movements, reinforcement clocks, GA6 launch
 Open Risks: Final names and precise orbital maps open; exact route relation to original Orpheus must be locked later
 

@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: T05 Technology History / T06 Mecha Systems / T07 Networks / H04 Maintenance / P02 Political Economy / G05 Power Creep
 Last Reviewed: 2026-08-03
-Depends On: lattice physics, AI rules, 07 and first-ship bibles, Open Service and Continuity architecture
+Depends On: [[lattice-war-physics-and-ai-law]], AI rules, 07 and first-ship bibles, Open Service and Continuity architecture
 Used By: relic design, compatibility, repairs, standards conflict, technological progression
 Open Risks: exact dates and manufacturer lineages, excessive backward compatibility, final weapon performance calibration
 

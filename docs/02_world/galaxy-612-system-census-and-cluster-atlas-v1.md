@@ -3,7 +3,7 @@
 Status: WORKING CANON DATASET
 Owner Agents: T01 Astronomy / T02 Navigation / P01 Politics / P02 Political Economy / M01 Strategy / X01 Logic / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: galaxy-node-fleet-economy-scale-v1, opening corridor, Ardis and GA8–GA10 atlases
+Depends On: [[galaxy-node-fleet-economy-scale-v1]], opening corridor, Ardis and GA8–GA10 atlases
 Used By: route planning, regional politics, force allocation, trade, future scene cards and visual maps
 Open Risks: exact stellar spectra/orbits and minor-system local history remain production detail
 

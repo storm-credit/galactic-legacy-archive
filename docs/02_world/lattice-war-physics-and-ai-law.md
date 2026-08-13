@@ -3,7 +3,7 @@
 Status: REVIEW — S0 CLOSURE CANDIDATE
 Owner Agents: T01 Astronomy-Orbits / T02 Navigation-Communication / T03 Energy-Materials-Thermal / T04 AI-Neural / T07 Networks / M03 Fleet / M06 EW-Cyber / H01 Mecha / H06 Combat Physics
 Last Reviewed: 2026-08-03
-Depends On: [[mecha-strategic-necessity]], regression harness
+Depends On: [[mecha-strategic-necessity]], [[regression-causality-harness]]
 Used By: World bible, military doctrine, hardware bible, combat writing, economy, faction design
 Open Risks: Numerical rigidity, hidden magic, AI exception abuse, scale inconsistency
 

@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: P01 Politics / P02 Political Economy / P03 Law / P09 Institutions / P10 Ideology / T04 AI / T07 Networks / M01 Strategy / X03 Ethics
 Last Reviewed: 2026-08-03
-Depends On: GA9 Preservation Regime, split mirrors/keys, route federation, ownerless fleet, record rights, grand-act ending
+Depends On: [[ga9-preservation-regime-and-classification-bible-v1]], split mirrors/keys, route federation, [[ownerless-fleet-structure-and-alignment-v1]], record rights, grand-act ending
 Used By: Episodes 1001–1100, final distribution mechanics, reconstruction and epilogue
 Open Risks: exact regional state map, transition casualty/service ranges, central-key mechanics and final legal terms
 

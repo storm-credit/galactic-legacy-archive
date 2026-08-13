@@ -3,7 +3,7 @@
 Status: CANON FOR DESIGN / TEMPORAL MODEL NOT YET LOCKED
 Owner Agent: T06 Temporal Causality & Regression Architect
 Last Reviewed: 2026-08-03
-Depends On: Core premise, original timeline, protagonist memory rules, long-form architecture
+Depends On: Core premise, [[original-timeline-v1]], protagonist memory rules, long-form architecture
 Used By: World bible, character bible, mystery ledger, act plans, continuity review
 Open Risks: Future-knowledge omniscience, arbitrary butterfly effects, paradox loopholes, repeated-reset expectations
 

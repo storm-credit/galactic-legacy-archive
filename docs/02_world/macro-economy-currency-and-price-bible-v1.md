@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: P02 Political Economy / M05 Logistics / P03 Law / H04 Maintenance / T03 Life Support / X01 Logic
 Last Reviewed: 2026-08-03
-Depends On: Academy scale calibration, first-ship cost index, galaxy scale, regional atlas, faction bibles
+Depends On: [[academy-scale-law-calibration-v1]], [[first-ship-bible-v1]], [[galaxy-node-fleet-economy-scale-v1]], regional atlas, faction bibles
 Used By: contracts, debt, wages, trade, shortages, fleet logistics and ordinary life
 Open Risks: exact local price variation, tax tables, final reader-facing currency name
 

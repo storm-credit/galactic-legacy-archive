@@ -3,7 +3,7 @@
 Status: WORKING CANON — CENSUS INTERPRETATION
 Owner Agents: T01 Astronomy / T02 Navigation / P01 Politics / P02 Political Economy / X01 Logic / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: 612-system census, galaxy scale, Academy calibration
+Depends On: [[galaxy-612-system-census-and-cluster-atlas-v1]], [[galaxy-node-fleet-economy-scale-v1]], [[academy-scale-law-calibration-v1]]
 Used By: route generation, maps, strategic planning and continuity audits
 Open Risks: minor anchor histories may expand locally without changing their locked functions
 

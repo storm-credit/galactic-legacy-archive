@@ -3,7 +3,7 @@
 Status: DRAFT
 Owner Agent: A16 Red Team & Blind-Spot Auditor
 Last Reviewed: 2026-08-03
-Depends On: Project charter, orchestra, workflow
+Depends On: Project charter, [[orchestra]], [[workflow]]
 Used By: Every gate review
 Open Risks: New risks will emerge as canon grows
 

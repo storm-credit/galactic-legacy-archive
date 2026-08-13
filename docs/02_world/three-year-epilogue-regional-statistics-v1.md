@@ -3,7 +3,7 @@
 Status: WORKING CANON — AUTHOR-SIDE EPILOGUE CALIBRATION
 Owner Agents: P01 Politics / P02 Political Economy / P03 Law / P04 Care / T01 Scale / T02 Routes / T03 Life Support / M01 Strategy / M05 Logistics / X01 Logic / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: 612-system census, GA9 Preservation, GA10 transition atlas, force/economy/service bibles
+Depends On: [[galaxy-612-system-census-and-cluster-atlas-v1]], [[ga9-preservation-regime-and-classification-bible-v1]], [[ga10-transition-regions-and-service-state-atlas-v1]], force/economy/service bibles
 Used By: Episodes 1076–1100, epilogues, regional outcome comparisons and future-era references
 Open Risks: figures are modeled estimates with stated uncertainty, not omniscient census truth
 

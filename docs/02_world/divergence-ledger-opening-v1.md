@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: T06 Temporal Causality / N04 Choice-Causality / P06 Factions / O01 Canon / O03 Change Impact
 Last Reviewed: 2026-08-03
-Depends On: original timeline, first-20 causality map, faction bible
+Depends On: [[original-timeline-v1]], first-20 causality map, [[initial-five-faction-bible-v1]]
 Used By: Episodes 21+, faction clocks, Archive reliability, macroplot
 Open Risks: Effects may grow too quickly, exact timing requires later act map
 
