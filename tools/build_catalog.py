@@ -171,7 +171,9 @@ def read_relics() -> list[tuple[str, ...]]:
     return _grouped(RELIC_DOC, RELIC_ROW, "### 3.")
 
 
-FACTION_ROW = re.compile(r"^\| (F-[\d\-a-e]+) \| ([^|]+) \| ([^|]+) \| ([^|]+) \| ([^|]+) \|$")
+FACTION_ROW = re.compile(
+    r"^\| `?((?:REC-F|AR-F|F)[-\da-e]*)`? \| ([^|]+) \| ([^|]+) \| ([^|]+) \| ([^|]+) \|$"
+)
 PLACE_ROW = re.compile(r"^\| (N-\d+) \| ([^|]+) \| ([^|]+) \| ([^|]+) \| ([^|]+) \| ([^|]+) \|$")
 CORRIDOR_ROW = re.compile(r"^\| (RT-\d+) \| ([^|]+) \| ([^|]+) \| ([^|]+) \|$")
 

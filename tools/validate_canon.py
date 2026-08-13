@@ -292,6 +292,61 @@ def check_arc_claims(files: list[tuple[str, str]], report: Report) -> int:
     return checked
 
 
+# --------------------------------------------------------------------------
+# C8 -- registries must count themselves correctly
+# --------------------------------------------------------------------------
+# CLAUDE.md section 15-7 asks for counts to be separated and verified. The
+# faction registry still claimed 28 internal blocs when it had 24, and the only
+# reason it surfaced was the generated catalogue disagreeing. A document that
+# states a total about itself must agree with its own rows.
+
+REGISTRY_COUNTS = (
+    # path, row-id prefix pattern, phrase the document uses for its total
+    ("docs/06_hardware/named-hull-registry-and-naming-grammar-v1.md", "S-", "등록부 총계"),
+    ("docs/06_hardware/named-weapon-and-part-registry-v1.md", "A-", "명명 앵커"),
+    ("docs/06_hardware/named-technology-lineage-registry-v1.md", "T-", "명명 계보"),
+    ("docs/09_collection/named-relic-and-provenance-registry-v1.md", "R-", "명명 실물 유물"),
+    ("docs/02_world/named-place-and-corridor-registry-v1.md", "N-", "명명 전면 장소"),
+)
+
+COUNT_CLAIM = re.compile(r"\*\*(\d+)\*\*")
+NOT_REGISTERED = "등록 불가"
+
+
+def check_registry_counts(files: list[tuple[str, str]], report: Report) -> int:
+    """C8 -- the total a registry states about itself must match its rows."""
+    by_path = dict(files)
+    checked = 0
+    for rel, prefix, phrase in REGISTRY_COUNTS:
+        text = by_path.get(rel)
+        if text is None:
+            continue
+        rows = sum(
+            1 for line in text.split("\n")
+            if (line.startswith(f"| {prefix}") or line.startswith(f"| `{prefix}"))
+            # A row the registry marks as not registered is documentation, not
+            # inventory: the hull table keeps NR72-061 visible precisely so a
+            # reader can see it being excluded from the count.
+            and NOT_REGISTERED not in line
+        )
+        claim = None
+        for line in text.split("\n"):
+            if phrase in line and line.startswith("|"):
+                m = COUNT_CLAIM.search(line)
+                if m:
+                    claim = int(m.group(1))
+                    break
+        if claim is None:
+            report.error(f"C8 {rel}: no stated total for {phrase!r}")
+            continue
+        checked += 1
+        if claim != rows:
+            report.error(
+                f"C8 {rel}: states {claim} for {phrase!r} but has {rows} rows"
+            )
+    return checked
+
+
 def parse_header(text: str) -> dict[str, str]:
     """Collect ``Key: value`` fields from the head of the file.
 
@@ -474,6 +529,20 @@ def selftest() -> int:
             "C1 ignores wikilink syntax quoted as inline code",
             [("CLAUDE.md", "문서 참조는 `[[위키링크]]`로 쓴다")],
             "links",
+            "",
+        ),
+        (
+            "C8 detects a registry that miscounts itself",
+            [("docs/06_hardware/named-weapon-and-part-registry-v1.md",
+              "| 명명 앵커 | **3** |\n| A-001 | x |\n| A-002 | y |")],
+            "counts",
+            "C8",
+        ),
+        (
+            "C8 accepts a registry whose stated total matches its rows",
+            [("docs/06_hardware/named-weapon-and-part-registry-v1.md",
+              "| 명명 앵커 | **2** |\n| A-001 | x |\n| A-002 | y |")],
+            "counts",
             "",
         ),
         (
@@ -668,6 +737,8 @@ def selftest() -> int:
             check_entity_notes(files, report)
         elif check == "arcs":
             check_arc_claims(files, report)
+        elif check == "counts":
+            check_registry_counts(files, report)
         else:
             check_manuscripts(files, report)
 
@@ -718,6 +789,7 @@ def main() -> int:
     episode_count = check_manuscripts(files, report)
     entity_count = check_entity_notes(files, report)
     arc_count = check_arc_claims(files, report)
+    count_scope = check_registry_counts(files, report)
 
     report.note(f"markdown files scanned: {len(files)}")
     report.note(f"wikilinks resolved: {link_count}")
@@ -725,6 +797,7 @@ def main() -> int:
     report.note(f"episode manuscripts checked: {episode_count}")
     report.note(f"entity notes checked: {entity_count}")
     report.note(f"registry arc claims checked: {arc_count}")
+    report.note(f"registries counting themselves: {count_scope}")
 
     if report.warnings:
         print("WARNINGS")
