@@ -57,6 +57,8 @@ NAME_LOCK = DOCS / "05_characters/core-canonical-names-and-voice-lock-v1.md"
 WEAPON_DOC = DOCS / "06_hardware/named-weapon-and-part-registry-v1.md"
 TECH_DOC = DOCS / "06_hardware/named-technology-lineage-registry-v1.md"
 RELIC_DOC = DOCS / "09_collection/named-relic-and-provenance-registry-v1.md"
+FACTION_DOC = DOCS / "04_factions/named-faction-and-institution-registry-v1.md"
+PLACE_DOC = DOCS / "02_world/named-place-and-corridor-registry-v1.md"
 CENSUS_CSV = DOCS / "09_collection/data/cast-role-tier-census-resolved-v1.csv"
 
 # ---------------------------------------------------------------- characters
@@ -167,6 +169,23 @@ def read_technologies() -> list[tuple[str, ...]]:
 
 def read_relics() -> list[tuple[str, ...]]:
     return _grouped(RELIC_DOC, RELIC_ROW, "### 3.")
+
+
+FACTION_ROW = re.compile(r"^\| (F-[\d\-a-e]+) \| ([^|]+) \| ([^|]+) \| ([^|]+) \| ([^|]+) \|$")
+PLACE_ROW = re.compile(r"^\| (N-\d+) \| ([^|]+) \| ([^|]+) \| ([^|]+) \| ([^|]+) \| ([^|]+) \|$")
+CORRIDOR_ROW = re.compile(r"^\| (RT-\d+) \| ([^|]+) \| ([^|]+) \| ([^|]+) \|$")
+
+
+def read_factions() -> list[tuple[str, ...]]:
+    return _grouped(FACTION_DOC, FACTION_ROW, "### 2.")
+
+
+def read_places() -> list[tuple[str, ...]]:
+    return _grouped(PLACE_DOC, PLACE_ROW, "### 3.")
+
+
+def read_corridors() -> list[tuple[str, ...]]:
+    return _grouped(PLACE_DOC, CORRIDOR_ROW, "## 4.")
 
 
 # ---------------------------------------------------------------- collection
@@ -340,6 +359,42 @@ def build() -> dict[Path, str]:
     pages[CAT_DIR / "catalog-relics.md"] = page(
         "유물 — 명명 실물 전체", "기록을 담고 있는 실물. 기록·진실 자체는 회수 장부가 보유한다.", body)
 
+    factions = read_factions()
+    by_eco: dict[str, list[tuple[str, ...]]] = defaultdict(list)
+    for r in factions:
+        by_eco[r[-1]].append(r)
+    body = []
+    for eco in by_eco:
+        body += [f"## {eco}", "", "| ID | 블록 | 역할 | 원하는 것 | 상태 |", "|---|---|---|---|---|"]
+        for r in by_eco[eco]:
+            body.append("| `%s` | %s | %s | %s | %s |" % r[:5])
+        body.append("")
+    body += [f"총 {len(factions)}행 — 생태계 6, 내부 블록 28. **전부 이미 정본이다.**",
+             "이 표는 [[initial-five-faction-bible-v1]]의 정렬이며 새 세력을 만들지 않는다.",
+             "**획득이라는 말을 쓰지 않는다** — 인정·가입·협약·대표성·개혁이 동사다: [[named-faction-and-institution-registry-v1]]."]
+    pages[CAT_DIR / "catalog-factions.md"] = page(
+        "세력 — 생태계와 내부 블록", "조직 안에 단일 의지가 없다는 것이 이 도메인의 설계다.", body)
+
+    places = read_places()
+    corridors = read_corridors()
+    by_reg: dict[str, list[tuple[str, ...]]] = defaultdict(list)
+    for r in places:
+        by_reg[r[-1]].append(r)
+    body = []
+    for reg in by_reg:
+        body += [f"## {reg}", "", "| ID | 이름 | 영역·노드 | 성격 | 출처·첫 등장 | 상태 |",
+                 "|---|---|---|---|---|---|"]
+        for r in by_reg[reg]:
+            body.append("| `%s` | **%s** | %s | %s | %s | %s |" % r[:6])
+        body.append("")
+    body += ["## 항로 회랑", "", "| ID | 종점 | 성격 | 쟁점 대액트 |", "|---|---|---|---|"]
+    body += ["| `%s` | %s | %s | %s |" % c[:4] for c in corridors]
+    body += ["", f"장소 {len(places)}개 (정본 10, 제안 26) · 회랑 {len(corridors)}개.",
+             "**612 성계와 48 클러스터는 수집 개수가 아니다** — 잠긴 척도다.",
+             "항로에는 고유명을 붙이지 않는다: [[named-place-and-corridor-registry-v1]]."]
+    pages[CAT_DIR / "catalog-places.md"] = page(
+        "영토 — 명명 장소와 항로", "장소에는 이미 사람이 산다. 발견은 영유가 아니다.", body)
+
     coll = read_collection()
     total = sum(len(v) for v in coll.values())
     body = []
@@ -381,13 +436,15 @@ def build() -> dict[Path, str]:
         f"| 무기·부품 | {len(weapons)} | [[catalog-weapons]] |",
         f"| 기술 계보 | {len(techs)} | [[catalog-technologies]] |",
         f"| 유물 | {len(relics)} | [[catalog-relics]] |",
+        f"| 세력·블록 | {len(factions)} | [[catalog-factions]] |",
+        f"| 장소·항로 | {len(places)} + {len(corridors)} | [[catalog-places]] |",
         f"| 수집 등록 항목 | {total} | [[catalog-collection]] · [[catalog-by-domain]] |",
         "",
-        "## 아직 항목 단위로 없는 것",
+        "## 남은 빈칸",
         "",
-        "세력·제도(C7), 영토·노드(C8)는 대액트별 등록표 안에",
-        "섞여 있고 독립 등록부가 없다. 위 수집 카탈로그에서 절 이름으로 찾을 수는 있으나,",
-        "기체·함선처럼 기계가 읽는 표를 아직 갖지 않는다.",
+        "여덟 분야 모두 등록부를 갖췄다. 남은 것은 개수가 아니라 확정이다 —",
+        "세력 생태계는 밴드 10–12에 6개로 미달이고, 612성계 데이터셋 파일은 존재하지 않으며,",
+        "각 등록부의 첫 등장은 액트맵과만 대조했고 회차 카드와는 아직 대조하지 않았다.",
         "",
         "문서 단위 입구는 [[HOME]]이다. 이 카탈로그는 문서가 아니라 **항목**을 센다.",
     ]

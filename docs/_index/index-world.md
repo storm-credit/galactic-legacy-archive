@@ -9,7 +9,7 @@
 
 정본 목록은 [[HOME]]에서 갈라집니다.
 
-## 02_world (33)
+## 02_world (34)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
@@ -37,6 +37,7 @@
 | [[macro-economy-currency-and-price-bible-v1|macro-economy-currency-and-price-bible-v1]] | Macro Economy, Currency & Price Bible v1 | REVIEW |
 | [[mecha-strategic-necessity|mecha-strategic-necessity]] | Mecha Strategic Necessity | REVIEW |
 | [[minor-institutions-and-public-life-roster-v1|minor-institutions-and-public-life-roster-v1]] | Minor Institutions & Public-Life Roster v1 | WORKING CANON |
+| [[named-place-and-corridor-registry-v1|named-place-and-corridor-registry-v1]] | Named Place and Corridor Registry v1 | PROPOSED |
 | [[opening-culture-naming-ordinary-life-packet-v1|opening-culture-naming-ordinary-life-packet-v1]] | Opening Culture, Naming & Ordinary-Life Packet v1 | REVIEW |
 | [[opening-region-route-graph-v1|opening-region-route-graph-v1]] | Opening Region Route Graph v1 | REVIEW |
 | [[original-timeline-v1|original-timeline-v1]] | Original Timeline v1 | REVIEW |

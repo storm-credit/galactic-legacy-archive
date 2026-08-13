@@ -15,7 +15,7 @@
 |---|---|---|
 | [[faction-symmetry-harness|faction-symmetry-harness]] | Faction Symmetry Harness | CANON FOR DESIGN |
 
-## 04_factions (7)
+## 04_factions (8)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
@@ -26,3 +26,4 @@
 | [[grand-act-office-and-succession-state-table-v1|grand-act-office-and-succession-state-table-v1]] | Grand-Act Office & Succession State Table v1 | REVIEW |
 | [[imperial-succession-law-claimants-and-intelligence-blocs-v1|imperial-succession-law-claimants-and-intelligence-blocs-v1]] | Imperial Succession Law, Claimants & Intelligence Blocs v1 | REVIEW |
 | [[initial-five-faction-bible-v1|initial-five-faction-bible-v1]] | Initial Five-Faction Bible v1 | REVIEW |
+| [[named-faction-and-institution-registry-v1|named-faction-and-institution-registry-v1]] | Named Faction and Institution Registry v1 | PROPOSED |
