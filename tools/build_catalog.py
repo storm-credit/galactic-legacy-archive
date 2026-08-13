@@ -54,6 +54,7 @@ BANNER = (
 FRAME_CSV = DOCS / "06_hardware/data/maneuver-frame-lineup-proposed-index-v1.csv"
 HULL_DOC = DOCS / "06_hardware/named-hull-registry-and-naming-grammar-v1.md"
 NAME_LOCK = DOCS / "05_characters/core-canonical-names-and-voice-lock-v1.md"
+WEAPON_DOC = DOCS / "06_hardware/named-weapon-and-part-registry-v1.md"
 CENSUS_CSV = DOCS / "09_collection/data/cast-role-tier-census-resolved-v1.csv"
 
 # ---------------------------------------------------------------- characters
@@ -116,6 +117,26 @@ def read_hulls() -> list[tuple[str, ...]]:
         m = HULL_ROW.match(line)
         if m:
             out.append((*[g.strip() for g in m.groups()], faction))
+    return out
+
+
+# ------------------------------------------------------------------- weapons
+
+WEAPON_ROW = re.compile(
+    r"^\| (A-\d+) \| `([^`]+)` \| ([^|]+) \| (\w+) \| ([^|]+) \| ([^|]+) \| ([^|]+) \|$"
+)
+
+
+def read_weapons() -> list[tuple[str, ...]]:
+    out = []
+    family = ""
+    for line in WEAPON_DOC.read_text(encoding="utf-8").split("\n"):
+
+        if line.startswith("### 4."):
+            family = line.split(" ", 2)[2].strip()
+        m = WEAPON_ROW.match(line)
+        if m:
+            out.append((*[g.strip() for g in m.groups()], family))
     return out
 
 
@@ -240,6 +261,23 @@ def build() -> dict[Path, str]:
     pages[CAT_DIR / "catalog-hulls.md"] = page(
         "함선 — 명명 선체 전체", "진영별 명명 선체. 어근이 그 세력이 정통성을 어디서 끌어오는지 드러낸다.", body)
 
+    weapons = read_weapons()
+    by_fam: dict[str, list[tuple[str, ...]]] = defaultdict(list)
+    for w in weapons:
+        by_fam[w[-1]].append(w)
+    body = []
+    for fam in by_fam:
+        body += [f"## {fam}", "", "| ID | 형식 | 통칭 | 계보 | 첫 등장 | 근거 | 상태 |",
+                 "|---|---|---|---|---|---|---|"]
+        for w in by_fam[fam]:
+            body.append("| `%s` | `%s` | %s | %s | %s | %s | %s |" % w[:7])
+        body.append("")
+    body += [f"총 {len(weapons)}개 앵커 — 정본 4, 제안 40.",
+             "기능족 W1–W12는 이미 정본이다: [[weapons-sensors-acceleration-calibration-v1]] §7.",
+             "호스트 적합표와 명명 문법: [[named-weapon-and-part-registry-v1]]."]
+    pages[CAT_DIR / "catalog-weapons.md"] = page(
+        "무기·부품 — 명명 앵커 전체", "정본 기능족 W1–W12 안에서 이름을 가진 개체. 새 물리를 추가하지 않는다.", body)
+
     coll = read_collection()
     total = sum(len(v) for v in coll.values())
     body = []
@@ -278,11 +316,12 @@ def build() -> dict[Path, str]:
         f"| 인물 (정본 잠금) | {len(chars)} | [[catalog-characters]] |",
         f"| 기체 | {len(frames)} | [[catalog-frames]] |",
         f"| 함선 | {len(hulls)} | [[catalog-hulls]] |",
+        f"| 무기·부품 | {len(weapons)} | [[catalog-weapons]] |",
         f"| 수집 등록 항목 | {total} | [[catalog-collection]] · [[catalog-by-domain]] |",
         "",
         "## 아직 항목 단위로 없는 것",
         "",
-        "무기·부품(C3), 유물·보물(C4), 기술(C6), 세력·제도(C7), 영토·노드(C8)는 대액트별 등록표 안에",
+        "유물·보물(C4), 기술(C6), 세력·제도(C7), 영토·노드(C8)는 대액트별 등록표 안에",
         "섞여 있고 독립 등록부가 없다. 위 수집 카탈로그에서 절 이름으로 찾을 수는 있으나,",
         "기체·함선처럼 기계가 읽는 표를 아직 갖지 않는다.",
         "",
