@@ -12,11 +12,13 @@
 | 기체 | 46 | [[catalog-frames]] |
 | 함선 | 41 | [[catalog-hulls]] |
 | 무기·부품 | 44 | [[catalog-weapons]] |
+| 기술 계보 | 32 | [[catalog-technologies]] |
+| 유물 | 28 | [[catalog-relics]] |
 | 수집 등록 항목 | 373 | [[catalog-collection]] · [[catalog-by-domain]] |
 
 ## 아직 항목 단위로 없는 것
 
-유물·보물(C4), 기술(C6), 세력·제도(C7), 영토·노드(C8)는 대액트별 등록표 안에
+세력·제도(C7), 영토·노드(C8)는 대액트별 등록표 안에
 섞여 있고 독립 등록부가 없다. 위 수집 카탈로그에서 절 이름으로 찾을 수는 있으나,
 기체·함선처럼 기계가 읽는 표를 아직 갖지 않는다.
 

@@ -254,6 +254,8 @@ ARC_REGISTRIES = (
     "docs/06_hardware/named-hull-registry-and-naming-grammar-v1.md",
     "docs/06_hardware/maneuver-frame-lineup-master-architecture-v1.md",
     "docs/06_hardware/named-weapon-and-part-registry-v1.md",
+    "docs/06_hardware/named-technology-lineage-registry-v1.md",
+    "docs/09_collection/named-relic-and-provenance-registry-v1.md",
 )
 ARC_TOKEN = re.compile(r"\bGA(\d{1,2})\b")
 

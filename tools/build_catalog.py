@@ -55,6 +55,8 @@ FRAME_CSV = DOCS / "06_hardware/data/maneuver-frame-lineup-proposed-index-v1.csv
 HULL_DOC = DOCS / "06_hardware/named-hull-registry-and-naming-grammar-v1.md"
 NAME_LOCK = DOCS / "05_characters/core-canonical-names-and-voice-lock-v1.md"
 WEAPON_DOC = DOCS / "06_hardware/named-weapon-and-part-registry-v1.md"
+TECH_DOC = DOCS / "06_hardware/named-technology-lineage-registry-v1.md"
+RELIC_DOC = DOCS / "09_collection/named-relic-and-provenance-registry-v1.md"
 CENSUS_CSV = DOCS / "09_collection/data/cast-role-tier-census-resolved-v1.csv"
 
 # ---------------------------------------------------------------- characters
@@ -138,6 +140,33 @@ def read_weapons() -> list[tuple[str, ...]]:
         if m:
             out.append((*[g.strip() for g in m.groups()], family))
     return out
+
+
+TECH_ROW = re.compile(
+    r"^\| (T-\d+) \| `([^`]+)` \| ([^|]+) \| ([^|]+) \| ([^|]+) \| ([^|]+) \| ([^|]+) \| ([^|]+) \|$"
+)
+RELIC_ROW = re.compile(
+    r"^\| (R-\d+) \| `([^`]+)` \| ([^|]+) \| ([^|]+) \| ([^|]+) \| ([^|]+) \| ([^|]+) \|$"
+)
+
+
+def _grouped(doc: Path, row_re, heading: str) -> list[tuple[str, ...]]:
+    out, group = [], ""
+    for line in doc.read_text(encoding="utf-8").split("\n"):
+        if line.startswith(heading):
+            group = line.split(" ", 2)[2].strip()
+        m = row_re.match(line)
+        if m:
+            out.append((*[g.strip() for g in m.groups()], group))
+    return out
+
+
+def read_technologies() -> list[tuple[str, ...]]:
+    return _grouped(TECH_DOC, TECH_ROW, "### 4.")
+
+
+def read_relics() -> list[tuple[str, ...]]:
+    return _grouped(RELIC_DOC, RELIC_ROW, "### 3.")
 
 
 # ---------------------------------------------------------------- collection
@@ -278,6 +307,39 @@ def build() -> dict[Path, str]:
     pages[CAT_DIR / "catalog-weapons.md"] = page(
         "무기·부품 — 명명 앵커 전체", "정본 기능족 W1–W12 안에서 이름을 가진 개체. 새 물리를 추가하지 않는다.", body)
 
+    techs = read_technologies()
+    by_era: dict[str, list[tuple[str, ...]]] = defaultdict(list)
+    for r in techs:
+        by_era[r[-1]].append(r)
+    body = []
+    for era in by_era:
+        body += [f"## {era}", "", "| ID | 코드 | 통칭 | 주 계층 | 호환 | 첫 등장 | 근거 | 상태 |",
+                 "|---|---|---|---|---|---|---|---|"]
+        for r in by_era[era]:
+            body.append("| `%s` | `%s` | %s | %s | %s | %s | %s | %s |" % r[:8])
+        body.append("")
+    body += [f"총 {len(techs)}개 계보 — 정본 1, 제안 31.",
+             "시대·운용계층·호환등급은 이미 정본이다: [[technology-era-and-interoperability-bible-v1]].",
+             "단계 사다리와 명명 문법: [[named-technology-lineage-registry-v1]]."]
+    pages[CAT_DIR / "catalog-technologies.md"] = page(
+        "기술 — 명명 계보 전체", "시대 × 운용계층 × 호환등급 격자 안에서 이름을 가진 계보. 새 물리를 추가하지 않는다.", body)
+
+    relics = read_relics()
+    by_kind: dict[str, list[tuple[str, ...]]] = defaultdict(list)
+    for r in relics:
+        by_kind[r[-1]].append(r)
+    body = []
+    for kind in by_kind:
+        body += [f"## {kind}", "", "| ID | 코드 | 통칭 | 무엇을 여는가 | 첫 등장 | 최종 회수 | 상태 |",
+                 "|---|---|---|---|---|---|---|"]
+        for r in by_kind[kind]:
+            body.append("| `%s` | `%s` | %s | %s | %s | %s | %s |" % r[:7])
+        body.append("")
+    body += [f"총 {len(relics)}개 — 전부 제안, 정본 실물 없음.",
+             "**유물은 전리품이 아니다.** 모든 행이 무엇을 여는지를 갖는다: [[named-relic-and-provenance-registry-v1]]."]
+    pages[CAT_DIR / "catalog-relics.md"] = page(
+        "유물 — 명명 실물 전체", "기록을 담고 있는 실물. 기록·진실 자체는 회수 장부가 보유한다.", body)
+
     coll = read_collection()
     total = sum(len(v) for v in coll.values())
     body = []
@@ -317,11 +379,13 @@ def build() -> dict[Path, str]:
         f"| 기체 | {len(frames)} | [[catalog-frames]] |",
         f"| 함선 | {len(hulls)} | [[catalog-hulls]] |",
         f"| 무기·부품 | {len(weapons)} | [[catalog-weapons]] |",
+        f"| 기술 계보 | {len(techs)} | [[catalog-technologies]] |",
+        f"| 유물 | {len(relics)} | [[catalog-relics]] |",
         f"| 수집 등록 항목 | {total} | [[catalog-collection]] · [[catalog-by-domain]] |",
         "",
         "## 아직 항목 단위로 없는 것",
         "",
-        "유물·보물(C4), 기술(C6), 세력·제도(C7), 영토·노드(C8)는 대액트별 등록표 안에",
+        "세력·제도(C7), 영토·노드(C8)는 대액트별 등록표 안에",
         "섞여 있고 독립 등록부가 없다. 위 수집 카탈로그에서 절 이름으로 찾을 수는 있으나,",
         "기체·함선처럼 기계가 읽는 표를 아직 갖지 않는다.",
         "",
