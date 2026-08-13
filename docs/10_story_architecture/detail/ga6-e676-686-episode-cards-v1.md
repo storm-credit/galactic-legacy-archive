@@ -303,7 +303,7 @@ Hook:
 
 ---
 
-# Episode 684 — 09:10, 회랑새의 마지막 항속
+# Episode 684 — 09:10, 파루스의 마지막 항속
 
 Date/time:
 - CY 744-12-18 09:10–11:19.
@@ -315,13 +315,13 @@ Goal:
 - keep bounded C convergence and a separating service/medical lane from collapsing after Ardo’s loss.
 
 Decision:
-- Maren commits `회랑새` as a temporary route/energy/traffic stabilizer, not as fleet flagship;
+- Maren commits `파루스` as a temporary route/energy/traffic stabilizer, not as fleet flagship;
 - Vera and engineering teams isolate the strategic propulsion bus and drive section under overload;
 - local physical stop and crew consent remain.
 
 Outcome:
 - C convergence remains usable long enough to complete the major transfer phase;
-- `회랑새` permanently loses strategic propulsion and cannot return to normal interregional independent travel;
+- `파루스` permanently loses strategic propulsion and cannot return to normal interregional independent travel;
 - hull survives as future fixed/towed route school, rescue and claims institution;
 - Vera Thorn suffers permanent arm/nerve injury while isolating the drive/energy system;
 - Vera survives but retires from active chief-engineer duty; no hidden cure;
@@ -410,7 +410,7 @@ Immediate ship state:
 Named locked losses:
 - Ella Savin dead;
 - Ardo Rev dead and `보루의 맹세` lost;
-- `회랑새` strategic propulsion permanently lost;
+- `파루스` strategic propulsion permanently lost;
 - Vera Thorn permanently injured and no longer active chief engineer.
 
 Reward:

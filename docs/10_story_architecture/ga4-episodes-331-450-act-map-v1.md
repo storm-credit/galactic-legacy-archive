@@ -4,7 +4,7 @@ Status: REVIEW — ACT/SUBACT LEVEL ONLY
 Owner Agents: N02 Act Architecture / N03 Episode Structure / N04 Causality / N05 Mystery-Payoff / N07 Retention / P06 Faction Clocks / M01 Strategy
 Last Reviewed: 2026-08-03
 Depends On: Imperial Core geography, succession law/claimants, claimant bibles, Ardis ending, [[series-payoff-ledger-v1]]
-Used By: GA4 collection registry, GA5 launch, scene-card preparation
+Used By: GA4 collection registry, GA5 launch, scene-card preparation, [[named-hull-registry-and-naming-grammar-v1]], [[maneuver-frame-lineup-master-architecture-v1]]
 Open Risks: exact sovereign event, claimant names/voices, court/operation maps and evidence roster
 
 ## 1. Grand-Act Contract

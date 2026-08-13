@@ -304,9 +304,9 @@ Toma:
 - cannot vote on own liability/compensation;
 - public ledger responsibility active.
 
-## 14. 회랑새 and 07 State at E260
+## 14. 파루스 and 07 State at E260
 
-회랑새:
+파루스:
 - paid conditional trial contractor;
 - no permanent base, free overhaul or route priority;
 - Reactor A derated/operational;

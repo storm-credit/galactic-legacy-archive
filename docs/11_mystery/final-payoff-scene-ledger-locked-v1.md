@@ -104,7 +104,7 @@ Final popular-history scene:
 - Episode **1097**.
 
 Location:
-- 회랑새 항로학교 lesson wall.
+- 파루스 항로학교 lesson wall.
 
 POV:
 - an ordinary trainee/child, not Rian.
@@ -304,7 +304,7 @@ Decisive reconstruction scene:
 - Episode **688**.
 
 Location:
-- damaged 회랑새 medical/workshop deck after current Orpheus window closes.
+- damaged 파루스 medical/workshop deck after current Orpheus window closes.
 
 POV:
 - Rian.
@@ -650,7 +650,7 @@ Decisive final ownership sequence:
 - Episodes **1083–1089**, one asset per episode cluster.
 
 Locked distribution:
-- E1083: crew/worker trust retains 회랑새; Rian cannot redirect it.
+- E1083: crew/worker trust retains 파루스; Rian cannot redirect it.
 - E1084: 07 combat-control custody split and public service use fixed.
 - E1085: Nera/Open Service contributor rights separated from control.
 - E1086: Common Fleet formations sign regional/mission compacts rather than Rian ownership.

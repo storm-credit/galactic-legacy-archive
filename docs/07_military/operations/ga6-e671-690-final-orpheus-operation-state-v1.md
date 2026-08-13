@@ -50,7 +50,7 @@ The references are not simultaneously independent. Shared thermal, traffic, tugs
 - E681: 03:20 Plan M/fifth answer.
 - E682: 05:50 refusal/Grey.
 - E683: 07:35 Ardo dies.
-- E684: 09:10 `회랑새` strategic propulsion loss / Vera injury.
+- E684: 09:10 `파루스` strategic propulsion loss / Vera injury.
 - E685: 11:20 late local transfers.
 - E686: 14:00 operation closure.
 
@@ -147,7 +147,7 @@ Ardo Rev:
 - Iven Roa inherits only surviving formation/staff method;
 - no Rian/Protector/fleet-wide inheritance.
 
-`회랑새`:
+`파루스`:
 - strategic propulsion permanently lost E684 / 09:10;
 - survives for fixed/towed route school, rescue and claims functions;
 - no hidden drive restoration.
@@ -178,7 +178,7 @@ Small craft:
 - 199 operational/limited;
 - total 311.
 
-`회랑새` is inside damaged/stranded major support state and strategically immobile.
+`파루스` is inside damaged/stranded major support state and strategically immobile.
 
 ## 9. Immediate Rights/Claims Architecture
 

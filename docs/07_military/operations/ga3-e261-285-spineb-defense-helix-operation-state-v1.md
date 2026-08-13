@@ -107,7 +107,7 @@ Custody:
 - service consequence/appeal: affected users/institutions;
 - title/finance remains separate.
 
-Adapters do not become automatic 회랑새 reward.
+Adapters do not become automatic 파루스 reward.
 
 ### Habitat/fire 70 t
 
@@ -359,9 +359,9 @@ E285 discovery:
 
 No culprit or final legality is locked.
 
-## 16. 회랑새 / 07 at E285
+## 16. 파루스 / 07 at E285
 
-회랑새:
+파루스:
 - paid conditional contractor;
 - no permanent base/route priority;
 - contributes manifest verification, escort, rescue and evidence support;

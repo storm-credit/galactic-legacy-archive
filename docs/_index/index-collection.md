@@ -9,7 +9,7 @@
 
 정본 목록은 [[HOME]]에서 갈라집니다.
 
-## 09_collection (59)
+## 09_collection (60)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
@@ -71,6 +71,7 @@
 | [[ga9-e951-975-central-key-command-action-fleet-and-loss-state-v1|ga9-e951-975-central-key-command-action-fleet-and-loss-state-v1]] | GA9 E951–975 Central Key Command, Action, Fleet and Loss … | REVIEW |
 | [[ga9-e976-1000-final-campaign-command-service-fleet-and-loss-state-v1|ga9-e976-1000-final-campaign-command-service-fleet-and-loss-state-v1]] | GA9 E976–1000 Final Campaign Command, Service, Fleet and … | REVIEW |
 | [[galactic-legacy-collection-bible-v1|galactic-legacy-collection-bible-v1]] | Galactic Legacy Collection Bible v1 | REVIEW |
+| [[named-relic-and-provenance-registry-v1|named-relic-and-provenance-registry-v1]] | Named Relic and Provenance Registry v1 | PROPOSED |
 | [[role-demand-portfolio-count-audit-v1|role-demand-portfolio-count-audit-v1]] | Role-Demand Portfolio Count Audit v1 | PROPOSED |
 
 ## 09_collection_system (1)

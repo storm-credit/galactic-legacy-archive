@@ -23,7 +23,7 @@ Transport:
 - multiple route/crew placements for DG-ROUTE;
 - later Ardis joint convoy for DG-ARDIS;
 - DG-STAY remains in K-13;
-- 회랑새 provides escort, records, relay and limited cargo/passenger support, not universal transport.
+- 파루스 provides escort, records, relay and limited cargo/passenger support, not universal transport.
 
 ---
 
@@ -125,7 +125,7 @@ Hidden pressure:
 ## Scene 170.1 — Vessel roster
 
 Front-stage vessels:
-- 회랑새 — escort/relay/workshop and limited passengers;
+- 파루스 — escort/relay/workshop and limited passengers;
 - Neutral medical passage vessel — DG-CARE;
 - Ardis-bound cargo/service convoy — DG-ARDIS later segment;
 - two independent route crews — parts of DG-ROUTE;
@@ -143,7 +143,7 @@ No vessel is subordinate to Rian except inside its accepted mission agreement.
 
 ## Scene 170.3 — Support allocation
 
-회랑새 can provide only two of:
+파루스 can provide only two of:
 - medical escort to first transfer;
 - Ardis convoy preparation;
 - route-group training/crew placement;
@@ -151,7 +151,7 @@ No vessel is subordinate to Rian except inside its accepted mission agreement.
 
 Decision:
 - Neutral handles care security;
-- 회랑새 prioritizes Ardis convoy and route-placement support;
+- 파루스 prioritizes Ardis convoy and route-placement support;
 - private transport uses its own protection/escrow.
 
 ## Scene 170.4 — Joint command refusal
@@ -207,13 +207,13 @@ Ardis convoy shortage:
 A. remove life-support cargo;
 B. split the nine across later ships;
 C. reduce household/work tools and increase dependence after arrival;
-D. use 회랑새 cargo margin and alter its own service/workshop schedule;
+D. use 파루스 cargo margin and alter its own service/workshop schedule;
 E. pay for an additional small carrier/route slot.
 
 ## Scene 171.3 — Combined solution
 
 Plan:
-- three Ardis travellers and 6.2 t critical cargo move on 회랑새 for the first leg;
+- three Ardis travellers and 6.2 t critical cargo move on 파루스 for the first leg;
 - six travel on the Ardis cargo convoy;
 - noncritical household cargo follows later under insured freight;
 - additional route slot purchased with shared contingency;
@@ -222,7 +222,7 @@ Plan:
 ## Scene 171.4 — Who loses allocation
 
 Cost ownership:
-- 회랑새 delays one paid workshop/service job;
+- 파루스 delays one paid workshop/service job;
 - shared contingency spends 31,000–48,000 BSC;
 - Ardis group arrives in two parts;
 - some personal tools/property delayed;
@@ -409,7 +409,7 @@ Ardis confirms:
 ## Scene 174.2 — Split manifest
 
 - six aboard primary Ardis cargo/service convoy;
-- two aboard 회랑새 first leg/support segment;
+- two aboard 파루스 first leg/support segment;
 - one delayed by identity appeal but retains a later protected slot;
 - household tools/property distributed across current/later freight.
 
@@ -462,13 +462,13 @@ Visible goal:
 - execute the split movement and preserve communication/claims after physical separation.
 
 Hidden pressure:
-- Helix certification withdrawal can strand non-회랑새 vessels and re-centralize control over the route.
+- Helix certification withdrawal can strand non-파루스 vessels and re-centralize control over the route.
 
 ## Scene 175.1 — Five current states
 
 - DG-CARE: departed and accepted into first medical chain;
 - DG-ARDIS: eight moving in two current vessels, one protected later slot;
-- DG-ROUTE: two on 회랑새 trial work, two with other crews, three Open Passage/Varka arrangements;
+- DG-ROUTE: two on 파루스 trial work, two with other crews, three Open Passage/Varka arrangements;
 - DG-STAY: four in K-13 compact;
 - DG-PRIVATE: sealed route underway or completed beyond community visibility.
 
@@ -502,7 +502,7 @@ Costs:
 Decisive choice:
 - groups and vessel masters continue only where current safety evidence supports operation;
 - one craft is held back rather than hidden as safe;
-- 회랑새 uses its relay to provide bounded state/audit translation, not unauthorized certification;
+- 파루스 uses its relay to provide bounded state/audit translation, not unauthorized certification;
 - Haren coordinates rerouting without recalling everyone to one ship.
 
 Immediate result:

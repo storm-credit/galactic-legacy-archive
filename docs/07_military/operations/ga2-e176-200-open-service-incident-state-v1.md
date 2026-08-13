@@ -178,9 +178,9 @@ Coercive leverage:
 - DG-PRIVATE remains undisclosed.
 - the accident does not reunify all 36 or restore Haren blanket authority.
 
-## 11. 회랑새 and 07 at E200
+## 11. 파루스 and 07 at E200
 
-### 회랑새
+### 파루스
 
 - assists evidence/service/medical logistics but is not the demonstration platform owner;
 - Relay Module remains installed and operational under stricter O1 constraints;

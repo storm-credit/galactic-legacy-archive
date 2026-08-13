@@ -619,3 +619,86 @@ Decision Owner: 작가 (지시), A00 Novel PM Orchestrator (실행)
 ### Reversal Condition
 
 없음. 파일명 유일성은 CLAUDE.md §11-2의 전제이므로 되돌릴 이유가 없다.
+
+## D-20260813-02 — 첫 독립임무선 통칭 개명과 함선 명명 어근 체계
+Status: ACCEPTED
+Date: 2026-08-13
+Decision Owner: 작가
+
+### Context
+
+함선 명명 등록부를 착수하면서 어근 방향을 물었고, 작가가 "SF적 이름 — 북유럽·그리스·라틴"을 지시했다. 최초 제안은 첫 독립임무선 `NR72-118`의 통칭 `회랑새`를 예외로 남기고 신규 선체에만 신화 어근을 적용하는 절충이었다. 작가가 이를 반려하고 한국어 통칭을 쓰지 않는다는 지시를 재확인했다.
+
+절충안이 든 근거는 개명 비용(활성 문서 184개, 419회 노출)이었다. 비용은 사실이나 그것은 작가 결정을 대신할 근거가 아니다.
+
+### Options Considered
+
+- A. 회랑새 유지, 신규 선체만 신화 어근 — 반려. 지시 불이행.
+- B. 라틴 `Parus`(박새속)로 개명 — **채택**. 정본 유래("항로 서비스 공간에서 살아남는 작은 새, 포식자나 왕실 상징 아님")를 어근만 바꿔 그대로 보존하므로 유래 문장과 관련 장면을 다시 쓰지 않아도 된다.
+- C. 라틴 `Vectis`(지렛대)로 개명 — 07호의 도구 테마와 대구를 이루나 새 유래를 버려야 한다.
+- D. 북유럽 `Naust`(겨울 선고)로 개명 — 폐선 이력이 이름이 되나 독립군이 변경 진영 어근을 쓰게 되어 음역 구분이 무너진다.
+
+### Decision
+
+`회랑새` → **`파루스` / `Parus`**. 선적번호 `NR72-118`은 불변이다.
+
+함선 명명 어근을 진영별로 분리한다. 제국·왕실 라틴, 헬릭스·인증권 그리스, 변경·용병 북유럽, 독립군은 **고유 어근 없음(노획 계승)**. 파루스는 라틴 어근을 쓰되 제국의 의미장이 아니라 가장 작은 새 이름을 고른 예외이며, 그 선택 자체가 배의 성격이다.
+
+### Consequences
+
+- 활성 문서 184개 422곳을 같은 커밋에서 갱신했다 (CLAUDE.md §12 전파 규칙).
+- [[core-canonical-names-and-voice-lock-v1]] §8 유래를 라틴 어근으로 다시 쓰고 폐기명을 명시했다.
+- [[reader-facing-terminology-phonetics-and-register-bible-v1]] 충돌표에 행을 추가했다.
+- `tools/validate_canon.py` C2에 폐기명 2건(`회랑새`, `Corridor Wren`)을 등록했다. 동시에 C2가 **인라인 코드로 인용된 폐기명은 통과**시키도록 고쳤다 — 이름 잠금·발음표·이 결정문은 어느 이름이 폐기됐는지 적어야 하므로 인용과 사용을 구분해야 한다. `--selftest` 픽스처를 함께 추가했다.
+- 원고에는 등장하지 않아 (GA2 시작 선박) 원고 갱신이 없었다.
+
+### Affected Documents
+
+- [[core-canonical-names-and-voice-lock-v1]]
+- [[reader-facing-terminology-phonetics-and-register-bible-v1]]
+- [[named-hull-registry-and-naming-grammar-v1]]
+- [[first-ship-bible-v1]]
+
+### Reversal Condition
+
+없음.
+
+## D-20260813-03 — 기동 프레임 포트폴리오 C안 상향 (D-20260812-01 개정)
+Status: ACCEPTED
+Date: 2026-08-13
+Decision Owner: 작가
+
+### Context
+
+[[maneuver-frame-lineup-master-architecture-v1]]의 포트폴리오 표가 `M-001`~`M-026` + 예비 2개에서 멈춰 있다는 점이 확인됐다. D-20260812-01이 채택한 B안은 후보 32–40을 요구하므로 **표가 밴드 하한에도 4개 미달**이다. 결정이 표로 내려오지 않은 전파 누락이며, P-001 개명이 errata만 갱신됐던 사고와 같은 종류다.
+
+작가가 이 기회에 수치 방향을 재확인하고 C안 상향을 지시했다.
+
+### Options Considered
+
+- A. B안대로 32–40 충족 — 기존 결정 집행. 새 결정문 불필요.
+- B. **C안으로 상향 40–48** — **채택**.
+- C. 함선 등록부의 기체 수요를 먼저 확정한 뒤 역산 — 불일치가 한 단계 더 유지된다.
+
+### Decision
+
+후보 범위 **40–48**, 독자 명명 모델 **26–36**으로 상향한다. D-20260812-01의 B안 선택을 대체한다.
+
+### Risks and Mitigation
+
+- 신규 명명 기체 등장 주기가 27~38화로 빨라져 리텐션 렌즈 권장(40~55화)을 초과한다. **완화**: 신규 명명이 곧 신규 전투력이 아니도록, 증가분은 세력 실루엣과 배경 계보에 우선 배정하고 전면 노출은 별도 상한으로 통제한다.
+- 섀시 증명 14–22건이 추가로 필요하다. **완화**: 재사용 우선 방법론(D-20260812-01에서 절차로 유지)을 그대로 적용해, 수요를 먼저 기존 호스트에 배정하고 잔여만 증명으로 보낸다.
+- 상향이 기체 승인으로 오독될 수 있다. **완화**: 신규 슬롯 전부 `PROPOSED — NONCANON`, `Canon Promotion: NOT AUTHORIZED`.
+
+**변경하지 않는 것**: 전투 장면당 기체명 4개 이하, 지속 핵심 정체성 8개 상한, 25화 블록당 신규 명명 섀시 2개 이하. 이들은 카탈로그 크기가 아니라 독자 기억 한계를 통제한다.
+
+### Affected Documents
+
+- [[maneuver-frame-lineup-master-architecture-v1]]
+- [[role-demand-portfolio-count-audit-v1]]
+- [[named-hull-registry-and-naming-grammar-v1]]
+- [[decision-log]]
+
+### Reversal Condition
+
+섀시 증명 단계에서 후보가 40건에 미달하면 B안(32–40)으로 되돌린다.

@@ -14,7 +14,7 @@ Open Risks: exact component-title distribution is deliberately unresolved until 
 - E138–145: 08-05 to 08-11 — Marn approach, moving transponder identification and habitat B repair test.
 - E146–150: 08-11 to 08-13 — controller cascade, Jena extraction/death and immediate aftermath.
 
-## 2. 회랑새 State at E150
+## 2. 파루스 State at E150
 
 ### Legal/mission
 
@@ -66,18 +66,18 @@ Open Risks: exact component-title distribution is deliberately unresolved until 
 - legal positions retained at E150 through temporary contracts/waivers;
 - sustainable crew still below target;
 - average fatigue after operations: F2, selected engineering/medical/frame teams F3;
-- no 회랑새 crew death in E101–150;
+- no 파루스 crew death in E101–150;
 - several temporary staff contracts near expiry;
-- Jena was not a 회랑새 crew member; her caravan loses its own field lead.
+- Jena was not a 파루스 crew member; her caravan loses its own field lead.
 
 ## 3. KT-441 Final State at E150
 
 Immediate E126–130 outcome:
-- 19 people transferred to 회랑새;
+- 19 people transferred to 파루스;
 - 23 remain with KT-441/skiff support;
-- Neutral responder reaches the tug after 회랑새 departure;
+- Neutral responder reaches the tug after 파루스 departure;
 - no immediate known death in the first assistance window;
-- KT-441 hull is stabilized and moved to a controlled Kael/Neutral holding orbit, not acquired by 회랑새;
+- KT-441 hull is stabilized and moved to a controlled Kael/Neutral holding orbit, not acquired by 파루스;
 - hidden passengers split among medical, appeal, local/route and independent destination processes.
 
 Title/claims:
@@ -125,7 +125,7 @@ Funding:
 - caravan escort/service fee;
 - Neris/worker technical contribution;
 - Helix safety-monitoring contribution;
-- 회랑새 contributes some labor/stores in exchange for standing and future claim consideration.
+- 파루스 contributes some labor/stores in exchange for standing and future claim consideration.
 
 Potential planned value:
 - 118,000–190,000 BSC equivalent across escort, service and discovery/claims support.
@@ -142,7 +142,7 @@ New costs/exposure:
 - controller/habitat damage;
 - delayed caravan jobs;
 - legal/inquiry work;
-- 회랑새 inspection/repair.
+- 파루스 inspection/repair.
 
 Result:
 - no positive discretionary income recognized at E150;
@@ -217,7 +217,7 @@ Required aftermath fields:
 
 ## 9. Command/Institution State
 
-### 회랑새
+### 파루스
 
 - distributed authority survives two real crises;
 - valid medical stop caused a lost cargo objective;
@@ -245,7 +245,7 @@ Must inherit:
 - 061 controller impounded/unusable;
 - one module/tug escaped;
 - caravan leader and schedule lost;
-- 회랑새 38–44% 07 condition, T3 history, stores reduced and post-operation inspection required;
+- 파루스 38–44% 07 condition, T3 history, stores reduced and post-operation inspection required;
 - no new module reward;
 - component-lineage and missing fault-routine question;
 - claims/compensation and safety governance unresolved;

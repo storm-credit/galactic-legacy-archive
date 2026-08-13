@@ -60,13 +60,13 @@ Held among:
 - Helix technical/safety participants;
 - Kael/Neutral inquiry;
 - habitat/caravan users;
-- 회랑새 crew.
+- 파루스 crew.
 
 No party has complete historical or current knowledge alone.
 
 ### Access
 
-- module physically installed aboard 회랑새;
+- module physically installed aboard 파루스;
 - evidence core and some related components remain outside/impounded;
 - user systems choose whether and what to connect.
 
@@ -74,7 +74,7 @@ No party has complete historical or current knowledge alone.
 
 - ship holds current installed structure;
 - labor, provenance, certification, evidence and user claims remain distributed;
-- sale/title transfer of 회랑새 cannot transfer all rights.
+- sale/title transfer of 파루스 cannot transfer all rights.
 
 ### Operation
 
@@ -127,7 +127,7 @@ E175 state:
 |---|---|
 | DG-CARE | care/route relationship; treatment and caregiver consent; not medical inventory |
 | DG-ARDIS | conditional residency/work contracts; not faction acquisition |
-| DG-ROUTE | multiple employment/household routes; no automatic 회랑새/Ern/Haren loyalty |
+| DG-ROUTE | multiple employment/household routes; no automatic 파루스/Ern/Haren loyalty |
 | DG-STAY | continuing K-13 community and claim relationship; staying is an active choice |
 | DG-PRIVATE | independently verified safety with withheld destination; not Haren’s secret asset |
 
@@ -160,7 +160,7 @@ Rewards:
 - five destination paths for all 36;
 - portable minimum identity/appeal model;
 - mutual-route coordination compact;
-- two bounded new trial workers for 회랑새;
+- two bounded new trial workers for 파루스;
 - Ardis and route relationships strengthened.
 
 Costs:
@@ -221,7 +221,7 @@ Must persist after E175:
 - one Ardis traveller delayed;
 - care group may later split Glasswater/Lentz;
 - grounded support craft and mixed-assembly support withdrawal;
-- 회랑새 debt, crew and maintenance limits.
+- 파루스 debt, crew and maintenance limits.
 
 ## 11. E176 Required Active Targets
 

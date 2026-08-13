@@ -16,7 +16,7 @@ Hull registry:
 - `NR72-118`.
 
 Working reader-facing name:
-- `회랑새 / Corridor Wren` — provisional crew nickname, not final canon name.
+- `파루스 / Parus` — provisional crew nickname, not final canon name.
 
 Previous role:
 - frontier relay tender, customs/rescue escort, light convoy protection.

@@ -116,7 +116,7 @@ Hidden pressure:
 
 1. **Rian’s plan** — four-sector defense, mobile reserve, early patrol concentration and current Spine B denial boundary; technically coherent but assumes shared command and ammunition.
 2. **Sella’s refusal** — accepts threat geometry and rejects outsider overall command; demands unit withdrawal rights, civilian rules and local sector commanders.
-3. **Role split** — Rian becomes bounded task/flight adviser for route geometry, 07 and 회랑새 operations; Sella retains interim local operational coordination.
+3. **Role split** — Rian becomes bounded task/flight adviser for route geometry, 07 and 파루스 operations; Sella retains interim local operational coordination.
 4. **Changed plan** — slower sector handoffs, explicit no-fire lanes and split ammunition custody replace the unified plan.
 
 Decisive choice:

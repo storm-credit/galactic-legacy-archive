@@ -13,7 +13,7 @@ Open Risks: permanent institution and Spine B/C custody remain later-batch decis
 - local people, operators, districts and institutions remain autonomous actors.
 - a technical or legal object counts as integrated only when it changes a current operating decision.
 - temporary trial authority is not permanent political authority.
-- 07, 회랑새 and the Mixed-Service Relay remain tools under split rights, not master keys.
+- 07, 파루스 and the Mixed-Service Relay remain tools under split rights, not master keys.
 
 Status codes:
 - `T` teased;
@@ -179,7 +179,7 @@ Narrative role:
 
 ## 4. Ship and Technical States
 
-### G3-S01 — 회랑새 Ardis Service Role
+### G3-S01 — 파루스 Ardis Service Role
 
 E211:
 - emergency recovery/holding only.

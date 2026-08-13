@@ -238,7 +238,7 @@ Prohibited achievements:
 - full manifest ranking;
 - Authority G override decision;
 - 34-hour battle execution;
-- Ella/Ardo/회랑새 locked losses.
+- Ella/Ardo/파루스 locked losses.
 
 ## 12. E595 Locked End State
 

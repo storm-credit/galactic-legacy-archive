@@ -248,7 +248,7 @@ Continuity Director history is related but not identical.
 
 Unchanged:
 - three Serrat current AI persons permanently dead;
-- `회랑새` strategic propulsion permanently lost;
+- `파루스` strategic propulsion permanently lost;
 - Vera Thorn permanent arm/neural injury and field chief engineer retirement;
 - Ella Savin dead;
 - Ardo Rev dead;

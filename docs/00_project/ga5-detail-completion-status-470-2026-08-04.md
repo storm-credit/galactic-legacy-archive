@@ -93,7 +93,7 @@ Rian:
 - 480 pay/family cases remain unresolved/manual/unfunded;
 - all GA4/GA5 deaths, injuries, cargo, hull, family, victim and title claims remain active.
 
-`회랑새`:
+`파루스`:
 - operational route/support hull with strategic propulsion still available before GA6 loss;
 - repair/debt limited.
 

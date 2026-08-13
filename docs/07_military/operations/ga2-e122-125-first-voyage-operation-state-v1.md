@@ -20,7 +20,7 @@ Area:
 
 ## 2. Friendly Assets
 
-### NR72-118 `회랑새`
+### NR72-118 `파루스`
 
 Status at E125 end:
 - position: within local frame-operating distance of KT-441;
@@ -40,7 +40,7 @@ Status at E125 end:
 ### 07 frame
 
 Status:
-- outside 회랑새 at E125 end;
+- outside 파루스 at E125 end;
 - configuration: rescue/service tools, physical tags, limited defensive countermeasures;
 - no heavy offensive pod;
 - pilot: 리안;
@@ -49,7 +49,7 @@ Status:
 - carrier recovery: still available, but ship cooling/approach geometry must be preserved;
 - current tasks: hull inspection, pressure/life-support stabilization and physical tagging.
 
-### Crew and persons aboard 회랑새
+### Crew and persons aboard 파루스
 
 Assigned/aboard at departure:
 - 46.
@@ -77,7 +77,7 @@ Medical constraint:
 ### Relay phase-control assemblies
 
 - mass: 9.4 t;
-- condition: intact/sealed aboard 회랑새;
+- condition: intact/sealed aboard 파루스;
 - deadline: Lumen/Kael handoff window threatened but not yet failed;
 - base value: 130,000 BSC.
 
@@ -119,7 +119,7 @@ Operational implication:
 - behavior: transmitted outdated salvage/recovery claim after active ping;
 - intent: unresolved; likely attempts legal/coercive seizure or recovery;
 - fire control: none authorized;
-- risk: knows 회랑새 has limited acceleration and is engaged in rescue.
+- risk: knows 파루스 has limited acceleration and is engaged in rescue.
 
 ### Contact S-2
 
@@ -140,14 +140,14 @@ At E125 end:
 - S-1: S2/S3;
 - S-2: S1/S2;
 - 07 physical tags improve local KT-441 hull track to S5-equivalent service geometry, not weapon target authority;
-- 회랑새 long-range suite remains weak;
+- 파루스 long-range suite remains weak;
 - route/node fixed-array support is limited by being off the direct queue approach.
 
 ## 7. Geometry and Timing
 
 Author-side envelope at E125 end:
 
-- 회랑새↔KT-441: hundreds to low thousands of kilometers during 07 approach, closing slowly;
+- 파루스↔KT-441: hundreds to low thousands of kilometers during 07 approach, closing slowly;
 - 07↔KT-441: contact to tens of kilometers during inspection;
 - S-1/S-2: outside immediate tool/contact range, inside local tactical volume;
 - return to direct corridor: possible but time-sensitive;

@@ -364,7 +364,7 @@ Result: PASS.
 ## 21. Permanent Loss Check
 
 Prior locks:
-- `회랑새` strategic propulsion permanently lost;
+- `파루스` strategic propulsion permanently lost;
 - Vera Thorn permanent arm/neural injury and field chief engineer retirement;
 - Ella Savin dead;
 - Ardo Rev dead;

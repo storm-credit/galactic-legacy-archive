@@ -193,7 +193,7 @@ Everyday call:
 - `마렌 함장`, later `마렌` among established crew.
 
 Role:
-- NR72-118 `회랑새` 선장.
+- NR72-118 `파루스` 선장.
 
 Voice anchor:
 - exact ship-state statements; refuses “probably safe.”
@@ -210,7 +210,7 @@ Everyday call:
 - `베라 기사`, `베라`.
 
 Role:
-- 회랑새 기관장.
+- 파루스 기관장.
 
 Voice anchor:
 - separates `작동`, `반복 가능`, `정비 가능`, `인증 가능`.
@@ -425,17 +425,21 @@ Canonical official registry:
 - `NR72-118`.
 
 Canonical crew/public name:
-- `회랑새`.
+- `파루스`.
 
 English working rendering:
-- `Corridor Wren`.
+- `Parus`.
 
 Name origin:
-- a small route bird that survives inside station/service spaces, not a predator or royal symbol.
+- Latin `Parus`, the tit/chickadee genus — a small bird that winters near
+  inhabited service spaces, not a predator or royal symbol.
+- the crew chose it for a laid-up wreck that had never earned an honour name;
+  imperial Latin, but the one word the empire would never pick for itself.
+- retired earlier name: `회랑새` (D-20260813-02).
 
 ### First ship reader rule
 
-- narration uses `회랑새` after the crew-name scene.
+- narration uses `파루스` after the crew-name scene.
 - legal/technical scenes use `NR72-118` when title, damage or identity matters.
 
 ---
@@ -501,7 +505,7 @@ LOCKED CANDIDATES:
 - Oren Roman.
 - Tav Oren.
 - Ria Mess.
-- `07호` and `회랑새`.
+- `07호` and `파루스`.
 
 OPEN:
 - remaining local leaders, minor crew, victims and AI/composite cases.

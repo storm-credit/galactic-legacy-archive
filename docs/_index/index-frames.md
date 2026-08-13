@@ -17,7 +17,7 @@
 
 [[07호]]
 
-## 06_hardware (9)
+## 06_hardware (12)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
@@ -29,4 +29,7 @@
 | [[maneuver-frame-lineup-master-architecture-v1|maneuver-frame-lineup-master-architecture-v1]] | Maneuver Frame Lineup Master Architecture v1 | PROPOSED |
 | [[maneuver-frame-lineup-visual-sheet-prompt-pack-v1|maneuver-frame-lineup-visual-sheet-prompt-pack-v1]] | Maneuver Frame Lineup Visual Sheet Prompt Pack v1 | PROPOSED |
 | [[mecha-lineage-mark-and-evolution-naming-system-v1|mecha-lineage-mark-and-evolution-naming-system-v1]] | Mecha Lineage Mark and Evolution Naming System v1 | PROPOSED |
+| [[named-hull-registry-and-naming-grammar-v1|named-hull-registry-and-naming-grammar-v1]] | Named Hull Registry and Naming Grammar v1 | PROPOSED |
+| [[named-technology-lineage-registry-v1|named-technology-lineage-registry-v1]] | Named Technology Lineage Registry v1 | PROPOSED |
+| [[named-weapon-and-part-registry-v1|named-weapon-and-part-registry-v1]] | Named Weapon and Part Registry v1 | PROPOSED |
 | [[ownerless-fleet-structure-and-alignment-v1|ownerless-fleet-structure-and-alignment-v1]] | Ownerless Fleet Structure & Alignment v1 | REVIEW |

@@ -29,7 +29,7 @@ No asset may silently reset between grand acts.
 | Boundary | Body/knowledge | Authority | Relationship state | Irreversible cost / next dependency |
 |---|---|---|---|---|
 | GA1 end E100 | adolescent body; future memory useful but already diverging; 07 sync strain | Academy cell flight lead under joint charter | team trusts competence, not motives; Maren not yet present | original Academy timeline invalid; cannot solve external missions without ship/crew |
-| GA2 end E210 | repeated sync fatigue; regional future dates unreliable | mission/flight commander aboard 회랑새, not captain | accepts captain/department veto; several allies choose outside routes | Helix/Imperial sanctions and Ardis obligation; no unilateral movement |
+| GA2 end E210 | repeated sync fatigue; regional future dates unreliable | mission/flight commander aboard 파루스, not captain | accepts captain/department veto; several allies choose outside routes | Helix/Imperial sanctions and Ardis obligation; no unilateral movement |
 | GA3 end E330 | injury/recovery state from siege; learns local institutions outlive tactical victory | external mission commander and Ardis defense participant, no civic office | local leaders respect and distrust him; Haren/Nera hold separate standing | Ardis precedent destabilizes succession; cannot claim city or node |
 | GA4 end E450 | future court knowledge partly obsolete | temporary multi-institution operation warrant; no crown/regency | claimant relationships remain divided; Aurel/Continuity recognizes his usefulness | several fleets receive incompatible mandates; he cannot legally command all |
 | GA5 end E570 | accumulated fatigue and command burden; still ace-capable but not constantly piloting | Common Fleet mission commander for named campaigns | other admirals win/refuse independently; crews demand rights | fleet depleted; Orpheus concentrates civilians/state functions |
@@ -152,7 +152,7 @@ Final lock:
 
 # 3. First Ship and 07 Checkpoints
 
-## 회랑새 / NR72-118
+## 파루스 / NR72-118
 
 | Boundary | Physical state | Legal/operational state | Use/cost |
 |---|---|---|---|
@@ -165,10 +165,10 @@ Final lock:
 | GA6 end | tow-only, habitable sections intact, frame bay and medical/workshop spaces partially usable | withdrawal/repair decision belongs to crew and claimants, not Rian | permanent loss of original roaming-combat role |
 | GA7–8 | anchored/towed to Ardis–Kael-linked route school; repaired as stationary/semi-mobile rescue and training habitat | public/crew/route cooperative trust | witnesses, trains route/repair crews and stores plural records |
 | GA9–10 | local service node and handoff test site; cannot be central fleet flagship | owned by crew-worker-training trust with exit/maintenance rules | proves legacy can survive without original military purpose |
-| Epilogue | permanently berthed but able to perform local tug-assisted rescue sorties | `회랑새 항로학교·구조소` | students argue over old dents; not museum-only relic |
+| Epilogue | permanently berthed but able to perform local tug-assisted rescue sorties | `파루스 항로학교·구조소` | students argue over old dents; not museum-only relic |
 
 Final lock:
-- 회랑새 survives physically but permanently loses strategic independent propulsion in GA6.
+- 파루스 survives physically but permanently loses strategic independent propulsion in GA6.
 - it is not magically rebuilt as a modern combat ship.
 - Maren’s captaincy transforms into master/training director only if she chooses; crew votes/terms matter.
 
@@ -249,11 +249,11 @@ Final lock:
 | GA end | Population/service | Ships/frames | Nodes/routes | Records/authority |
 |---:|---|---|---|---|
 | 1 | Academy people saved but exposed/transferred | 07 usable, no independent ship | K-13/White Dock contested | joint charter and plural custody |
-| 2 | community dispersed but connected | 회랑새 operational, 07 ship-based | Silex limited window; Ardis visible | open spec v0.1, route obligations |
-| 3 | Ardis survives with unequal services | local defense damaged; 회랑새 patched | limited multi-spine route | Ardis Joint Trust/current-status rights |
+| 2 | community dispersed but connected | 파루스 operational, 07 ship-based | Silex limited window; Ardis visible | open spec v0.1, route obligations |
+| 3 | Ardis survives with unequal services | local defense damaged; 파루스 patched | limited multi-spine route | Ardis Joint Trust/current-status rights |
 | 4 | Core services continue, succession unresolved | fleets receive incompatible mandates | authentication fragmented | Continuity Compact and multiple valid claims |
 | 5 | civilian/service routes strained | Common Fleet network assembled, depleted | Vesper/Orpheus concentration | mission-specific charter and crew rights |
-| 6 | mass evacuation with 450k–850k killed/captured/missing/severely exposed working band | 25–45 major hulls lost/abandoned; 회랑새 mobility lost | Orpheus/holdout routes damaged | plural manifest/after-action evidence |
+| 6 | mass evacuation with 450k–850k killed/captured/missing/severely exposed working band | 25–45 major hulls lost/abandoned; 파루스 mobility lost | Orpheus/holdout routes damaged | plural manifest/after-action evidence |
 | 7 | affected regions gain standing; denial victims remain | regional formations, no route superweapon | one major route/node permanently lost or degraded | Blood Admiral decompressed; denial authority bounded |
 | 8 | current identities/services partly restored | technical/AI assets contested | Seed-connected routes stabilize | plural mirrors + bounded Authority G |
 | 9 | billions receive stable services; low-trust groups deferred/forced | central/hybrid fleets synchronized unevenly | Preservation zones and opt-out regions | P-001 central key; classification regime |
@@ -269,7 +269,7 @@ Final lock:
 - Rian and Mia remain mutually trusted professionals; Mia can medically ground him and later oppose his policy.
 - Rian and Ern end as independent allies/rivals whose institutions may conflict.
 - Haren’s community remains dispersed; no final reunion scene claims all routes were one family again.
-- Maren, Vera, Luka, Theo and the 회랑새 crew retain collective identity beyond service to Rian.
+- Maren, Vera, Luka, Theo and the 파루스 crew retain collective identity beyond service to Rian.
 - Aurel is neither forgiven friend nor defeated demon; its successor entities hold different relationships with the cast.
 
 Romance status:
@@ -285,7 +285,7 @@ PASS for:
 - Haren responsibility endpoint direction.
 - Nera official-disappearance interpretation.
 - Ern independence and survival.
-- 회랑새 permanent mobility sacrifice and epilogue use.
+- 파루스 permanent mobility sacrifice and epilogue use.
 - 07 living-use public fate.
 - Common Fleet/Route Federation/Aurel final structural states.
 

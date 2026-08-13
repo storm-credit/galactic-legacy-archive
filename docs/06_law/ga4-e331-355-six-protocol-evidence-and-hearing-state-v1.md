@@ -264,7 +264,7 @@ People:
 - total 144.
 
 Outbound vessels/personnel:
-- 회랑새: 54 assigned crew/mission personnel;
+- 파루스: 54 assigned crew/mission personnel;
 - Neutral medical/evidence cutter NMC-12: 16;
 - Ardis courier tender ATC-3: 16.
 
@@ -282,7 +282,7 @@ Immediate post-window state:
 Authority meaning:
 - first independent Joint Trust window demonstrates local function;
 - does not invalidate Imperial, Helix or Continuity support;
-- does not grant route ownership to Ardis or 회랑새.
+- does not grant route ownership to Ardis or 파루스.
 
 ## 7. Baseline Rescue and Human State
 

@@ -92,7 +92,7 @@ Readiness remains R0–R5 from the military bible.
 | ID | Formation | Origin | Combat hulls | Support | Frames/craft | Initial readiness | Role | Final direction |
 |---|---|---|---:|---:|---:|---|---|---|
 | JNT-K13-01 | K-13 Charter Mission Cell | K-13 | 0–1 | 0–2 | 1–12 | R0–R2 | academy/contract missions | grows into institutional seed, never private army |
-| JNT-HALL-02 | 회랑새 Mission Trust | mobile | 1 | 0–3 attached | 07 + 0–8 | R1–R3 | rescue, route and evidence missions | ship becomes school/rescue institution after GA6 |
+| JNT-HALL-02 | 파루스 Mission Trust | mobile | 1 | 0–3 attached | 07 + 0–8 | R1–R3 | rescue, route and evidence missions | ship becomes school/rescue institution after GA6 |
 | JNT-ARD-03 | Ardis Joint Defense | Ardis | 18–42 | 30–70 | 180–420 | R1–R3 | node/city defense | locally commanded, not Rian-owned |
 | JNT-RTE-04 | Mutual Route Federation Wing | Doan Roads/Open Passage | 24–65 | 40–110 | 150–390 | R2–R4 | convoy and route mutual aid | Haren coordinates without permanent sole command |
 | JNT-FLT-05 | Common Fleet Mission Trust | dispersed | 90–240 | 120–330 | 700–1,800 | R1–R4 | GA5 ownerless fleet missions | command expires and assets return/split |

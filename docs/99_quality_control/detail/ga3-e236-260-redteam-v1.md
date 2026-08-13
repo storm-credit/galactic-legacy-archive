@@ -127,7 +127,7 @@ PASS:
 - Toma remains operational but loses sole go/no-go power;
 - no direct jump to governor or defense commander.
 
-### 회랑새 / 07
+### 파루스 / 07
 
 PASS:
 - paid conditional contractor only;

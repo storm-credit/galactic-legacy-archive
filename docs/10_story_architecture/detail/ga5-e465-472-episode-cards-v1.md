@@ -181,7 +181,7 @@ Hidden pressure:
 Scene units:
 1. **Code conflict** — rescue code is current; declared intent and physical action differ.
 2. **Oren’s boundary** — Crown Guard protects civilian/public service without claiming the barge for Elian.
-3. **Maren’s method** — `회랑새` and utility craft sever the tow and stabilize pressure while 07 captures external clamps.
+3. **Maren’s method** — `파루스` and utility craft sever the tow and stabilize pressure while 07 captures external clamps.
 4. **Boarding limit** — armed teams detain only current boarders and preserve crew/cargo evidence.
 
 Decisive choice:

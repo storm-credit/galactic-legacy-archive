@@ -278,9 +278,9 @@ No lost cutter, battery or operator is restored inside the final Trust ratificat
 
 PASS.
 
-## 10. 회랑새 and 07 Audit
+## 10. 파루스 and 07 Audit
 
-회랑새:
+파루스:
 - remains captain-led and under split mission/technical authority;
 - Reactor A derated;
 - Reactor B isolated;

@@ -286,7 +286,7 @@ Disclosure rule:
 
 ## 14. Permanent Loss Register
 
-### `회랑새`
+### `파루스`
 
 - strategic propulsion: permanently lost;
 - no restored strategic propulsion in E766–790;
@@ -382,6 +382,6 @@ Not available:
 - master route key;
 - Haren as operational leader;
 - automatic D4 continuation;
-- restored `회랑새` propulsion;
+- restored `파루스` propulsion;
 - Vera as field chief engineer;
 - Ardis 73 t module use.

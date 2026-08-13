@@ -90,7 +90,7 @@ Hidden pressure:
 
 1. **Physical incident** — recycled-insulation fire spreads through an old service duct behind three temporary habitat blocks; smoke and pressure-door faults divide the evacuation route.
 2. **Mandate collision** — Savo can stop power and open service corridors, Mia can triage, but Civic title officers and district patrol cannot legally clear one occupied storage block without separate authority.
-3. **Local workaround** — Transit crews cut a pressure-safe opening and use Garden cargo sleds as evacuation platforms; 회랑새 provides masks and portable pumps, not command.
+3. **Local workaround** — Transit crews cut a pressure-safe opening and use Garden cargo sleds as evacuation platforms; 파루스 provides masks and portable pumps, not command.
 4. **Aftermath** — no mass death, but one block loses approximately 180 usable berths for at least 18–30 days; 46 residents need medical observation and 11 are admitted, including 2 serious smoke injuries.
 
 Decisive choice:
@@ -211,7 +211,7 @@ Decisive choice:
 - six constituencies approve the minimum-service and diagnostic pact but refuse automatic control of Foundry production; Kera begins an essential-only strike/occupation.
 
 Reward:
-- minimum food, air, medical, worker stop and public reporting survive for thirty days; 회랑새 remains one paid contractor.
+- minimum food, air, medical, worker stop and public reporting survive for thirty days; 파루스 remains one paid contractor.
 
 Cost:
 - Surface/Civic projects are cut, Luma’s claim becomes public, nonessential production stops and the city enters a labor confrontation.

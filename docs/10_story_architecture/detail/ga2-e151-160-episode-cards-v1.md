@@ -19,7 +19,7 @@ Locked losses:
 - industrial/housing cooling remains damaged;
 - 061 controller partly destroyed and impounded;
 - caravan field leadership and schedule disrupted;
-- 회랑새/07 require inspection and service.
+- 파루스/07 require inspection and service.
 
 Open questions:
 - why the fault-isolation routine disappeared;
@@ -51,13 +51,13 @@ Hidden pressure:
 4. **Local control** — caravan/habitat representatives decide allocation order: injured care, current cooling, wages/dependents, delayed clients, then investigation costs.
 
 Decisive choice:
-- 회랑새 accepts a reduced/no immediate mission share so the emergency pool reaches local people first.
+- 파루스 accepts a reduced/no immediate mission share so the emergency pool reaches local people first.
 
 Reward:
 - care and payroll continue; evidence remains preserved.
 
 Cost:
-- 회랑새 gains no accident windfall and must fund its own repairs through later work.
+- 파루스 gains no accident windfall and must fund its own repairs through later work.
 
 Collection/loss state:
 - Jena legacy becomes compensation/service obligation, not a collectible record.
@@ -232,7 +232,7 @@ Hidden pressure:
 
 ## Scene units
 
-1. **Claims** — worker/cooperative physical/labor rights; Helix certified sensor/software layer; Kael/Neutral evidence/insurance; habitat/caravan user rights; 회랑새 installation/mission use.
+1. **Claims** — worker/cooperative physical/labor rights; Helix certified sensor/software layer; Kael/Neutral evidence/insurance; habitat/caravan user rights; 파루스 installation/mission use.
 2. **Operation proposal** — captain + relevant engineering/service lead; emergency local physical bypass; user/medical stop when connected to occupied infrastructure.
 3. **Maintenance/revenue** — worker/Neris service contract, Helix diagnostic participation, incident data returned to users, no exclusive licensing.
 4. **Expiry** — 18-month trial charter, automatic review after serious incident, no transfer with ship title alone.
@@ -250,7 +250,7 @@ Mystery state:
 - 061 is resolved as lineage/trust, not one owner or hull.
 
 Hook:
-- fitting the module requires 회랑새 to remove one cargo rack used for the next community convoy.
+- fitting the module requires 파루스 to remove one cargo rack used for the next community convoy.
 
 ---
 
@@ -276,7 +276,7 @@ Hidden pressure:
 4. **Responsibility statement** — institutions acknowledge roles without one total criminal verdict; criminal/negligence review remains separate.
 
 Decisive choice:
-- 회랑새/Academy accepts a contribution and service obligation despite not controlling the failed controller.
+- 파루스/Academy accepts a contribution and service obligation despite not controlling the failed controller.
 
 Reward:
 - compensation begins and module installation cannot erase harm.
@@ -288,7 +288,7 @@ Relationship state:
 - Haren represents only agreed claims, not all caravan/habitat voices.
 
 Hook:
-- the caravan council approves installation participation but refuses to supply a replacement field lead to 회랑새.
+- the caravan council approves installation participation but refuses to supply a replacement field lead to 파루스.
 
 ---
 
@@ -301,7 +301,7 @@ POV:
 - 네라/베라.
 
 Visible goal:
-- install the bounded relay module on 회랑새 and retire unsafe 061 identity use.
+- install the bounded relay module on 파루스 and retire unsafe 061 identity use.
 
 Hidden pressure:
 - preserving legacy compatibility while disabling broad identity reuse may strand existing civilian systems.

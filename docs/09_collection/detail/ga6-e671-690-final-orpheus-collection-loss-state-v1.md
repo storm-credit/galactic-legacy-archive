@@ -104,7 +104,7 @@ Ardo Rev:
 - permanent death E683;
 - `보루의 맹세` lost/unrecoverable.
 
-`회랑새`:
+`파루스`:
 - strategic propulsion permanently destroyed E684;
 - future fixed/towed route-school/rescue/claims role.
 

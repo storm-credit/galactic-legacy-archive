@@ -71,7 +71,7 @@ Continuing conditions:
 6. Sella’s bounded command and unit withdrawal rights remain.
 7. no normal route, full receivership or sole denial custody may be claimed.
 8. the complete denial map, current trigger and Service Authority E remain unresolved.
-9. 07 and 회랑새 remain supporting assets, not city, fleet or node owners.
+9. 07 and 파루스 remain supporting assets, not city, fleet or node owners.
 
 ## 5. Next Batch
 

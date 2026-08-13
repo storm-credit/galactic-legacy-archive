@@ -23,7 +23,7 @@ Used By: GA3 branch, progress reporting and context handoff
 ## 3. GA2 Final State
 
 - 110 detailed episode cards complete.
-- 회랑새 is a functioning but indebted mission-lease ship with distributed command.
+- 파루스 is a functioning but indebted mission-lease ship with distributed command.
 - Reactor A remains derated, Reactor B isolated.
 - one active 07 cradle; active Bay 2 rejected.
 - Mixed-Service Relay exists under bounded O1/multi-party rights.

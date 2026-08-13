@@ -110,7 +110,7 @@ Neutral:
 ### Protagonist mission trust
 
 Initial:
-- NR72-118 `회랑새` at R1/R2;
+- NR72-118 `파루스` at R1/R2;
 - 07호, one full cradle and partial second service bay;
 - 34–44 mixed-competence crew versus 62–76 sustainable target;
 - 0–2 additional utility/rescue frames depending module and partners.
@@ -171,7 +171,7 @@ End GA2:
 
 ### Protagonist/partner contribution
 
-- 회랑새 and 07;
+- 파루스 and 07;
 - 3–8 allied/contract ships across Neutral, worker, route and local actors;
 - 10–35 frames/utility units depending district and operation;
 - strategic value in repair, service, command and legitimacy rather than raw hull count.
@@ -238,7 +238,7 @@ Provincial/federal actors:
 
 ### Protagonist role
 
-- 회랑새, 07 and small escort/mission trust;
+- 파루스, 07 and small escort/mission trust;
 - access to Ardis/Neutral/fleet relationships;
 - no decisive personal fleet;
 - influence through records, precision operations and authority split.
@@ -337,7 +337,7 @@ Large military/state transports and capital assets:
 - mixed evacuation chosen;
 - 450,000–850,000 possible dead/missing/unstable range in design model;
 - many capital assets and support systems permanently lost;
-- 회랑새 loses strategic propulsion and becomes later service/training vessel;
+- 파루스 loses strategic propulsion and becomes later service/training vessel;
 - state, fleet and community continuity all damaged.
 
 ## 9. GA7 — Blood Admiral Route War
@@ -557,7 +557,7 @@ GA10:
 - never becomes a capital-ship killer or universal command frame;
 - final role is public rescue/training/service asset under plural custody.
 
-### 회랑새
+### 파루스
 
 - GA2–5 mobile school/workshop/mission vessel;
 - increasingly outclassed in direct combat;

@@ -14,7 +14,7 @@ Used By: GA7 final cross-audit and GA8 E801–825 opening, [[ga8-e801-810-episod
 - no master route key, route sovereign or central route government exists.
 - Haren is serving his 14-month liberty-restriction/inquiry-detention sentence and has no live operational authority.
 - Rian has no master route key, federal command sovereignty or Haren authority.
-- `회랑새` strategic propulsion remains permanently lost.
+- `파루스` strategic propulsion remains permanently lost.
 - Vera Thorn remains permanently injured and retired from field chief engineer duty.
 - Ella Savin and Ardo Rev remain dead.
 - the Ardis 73 t high-density defense module remains externally sealed and unused.

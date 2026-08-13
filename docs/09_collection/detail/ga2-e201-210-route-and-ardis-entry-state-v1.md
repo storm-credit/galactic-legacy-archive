@@ -14,7 +14,7 @@ Open Risks: Ardis internal factions and exact city-state changes belong to GA3
 Distributed among:
 - Silex operators/maintainers;
 - Ardis receiving operators;
-- 회랑새/convoy navigation and relay records;
+- 파루스/convoy navigation and relay records;
 - Neutral evidence/insurer;
 - Helix/Imperial partial component and authority data.
 
@@ -29,7 +29,7 @@ No one has complete repeatable-route knowledge.
 
 ### Custody
 
-- no route/hardware title transfers to 회랑새, Rian, Academy or Ardis;
+- no route/hardware title transfers to 파루스, Rian, Academy or Ardis;
 - bounded legacy key expires after the operation;
 - Neutral one-use standing does not become general policy.
 
@@ -62,7 +62,7 @@ Planned:
 Actual transition:
 1. Neutral medical/rescue auxiliary;
 2. Ardis cargo/service carrier;
-3. 회랑새;
+3. 파루스;
 4. Silex calibration tug removed from queue/remaining locally.
 
 Actual result:
@@ -77,14 +77,14 @@ Actual result:
 All 9 people remain accounted for.
 
 - 6 arrive on Ardis cargo/service carrier;
-- 3 arrive on 회랑새, including the previously delayed identity case after bounded Ardis manual acceptance;
+- 3 arrive on 파루스, including the previously delayed identity case after bounded Ardis manual acceptance;
 - no one is dropped, disappeared or returned to Haren’s blanket control;
 - housing, work, care and registry placement begin locally and remain conditional;
 - household/property freight remains partly delayed.
 
-## 4. 회랑새/07 State at E210
+## 4. 파루스/07 State at E210
 
-### 회랑새
+### 파루스
 
 - functioning, indebted first ship;
 - one restricted route/convoy success, no permanent Silex certificate;
@@ -189,7 +189,7 @@ No new unplanned core mystery opened.
 - three arrived vessels and current recovery/service loads;
 - Silex route closed/uncertain;
 - no easy reinforcement or retreat corridor;
-- 회랑새 needs service, crew rest and debt work;
+- 파루스 needs service, crew rest and debt work;
 - 07 at 37–44%;
 - relay O1 only;
 - Jena/Ovel/platform/compensation and community routes continue outside immediate scene;

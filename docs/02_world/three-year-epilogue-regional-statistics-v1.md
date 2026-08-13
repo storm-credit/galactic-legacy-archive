@@ -295,7 +295,7 @@ Aurel-derived independent persons remain rare and cannot automatically reproduce
 - functional descendants/variants in public training/rescue/service networks: 126 units or major kits across 31 systems;
 - no single owner controls design, certification, operators and deployment.
 
-### 회랑새
+### 파루스
 
 - strategic propulsion remains permanently lost;
 - fixed/mobile-limited school, rescue and workshop institution;

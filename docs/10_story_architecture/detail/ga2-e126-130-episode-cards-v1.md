@@ -13,7 +13,7 @@ Date:
 - CY 742-07-21.
 
 Friendly state:
-- 07 outside 회랑새;
+- 07 outside 파루스;
 - ship T2/T3, Reactor A only;
 - 46 assigned, 42 legal, fatigue rising;
 - 6 patients, 4 caregivers, 2 inspectors, 2 appeal witnesses aboard;
@@ -87,7 +87,7 @@ Department assessments:
 ## Scene 126.4 — Split plan
 
 Decisive choice:
-- KT-441 occupants and 회랑새 departments agree to:
+- KT-441 occupants and 파루스 departments agree to:
   - transfer the 7 medically/physically vulnerable first;
   - keep 15 capable adults aboard KT-441 for stabilization and later tow;
   - move 17 others in staged groups if life-support margin permits;
@@ -204,7 +204,7 @@ Carried state:
 - staged transfer must occur while the tug remains repairable and route queue closes.
 
 Hook:
-- the first transferred patient destabilizes when 회랑새 increases spin/acceleration for the corridor return profile.
+- the first transferred patient destabilizes when 파루스 increases spin/acceleration for the corridor return profile.
 
 Specialist panel:
 - T02/H03/M06, P03, M04, C03, X01/X03/X04.
@@ -228,12 +228,12 @@ Hidden pressure:
 ## Scene 128.1 — Transfer chain
 
 Action:
-- 07, tug skiff and 회랑새 rescue team move 7 vulnerable people first;
+- 07, tug skiff and 파루스 rescue team move 7 vulnerable people first;
 - the sealed cargo remains physically connected to KT-441 through temporary service lines;
 - transfer takes longer than the optimistic plan because pressure equalization and mobility aids cannot be skipped.
 
 State change:
-- 회랑새 noncrew load reaches 21 plus a new injured skiff crew member under observation;
+- 파루스 noncrew load reaches 21 plus a new injured skiff crew member under observation;
 - medical and habitation margins narrow.
 
 ## Scene 128.2 — Route solution
@@ -302,7 +302,7 @@ POV:
 - 하렌.
 
 Visible goal:
-- finish the rescue plan before the tug’s radiator/life support fails, without overloading 회랑새.
+- finish the rescue plan before the tug’s radiator/life support fails, without overloading 파루스.
 
 Hidden pressure:
 - evacuating every person gives a visible rescue victory but would exceed the ship’s current safe reserve and erase some occupants’ choice to protect their home/work/evidence.
@@ -317,7 +317,7 @@ Action:
 ## Scene 129.2 — Occupant choice groups
 
 Choices:
-- 12 people request immediate transfer to 회랑새;
+- 12 people request immediate transfer to 파루스;
 - 8 want to remain with KT-441 until Neutral tow arrives;
 - 9 prefer the returning skiff/other route due identity risk;
 - 13 crew/workers choose a rotating stabilization team with later evacuation priority.
@@ -329,7 +329,7 @@ Action:
 ## Scene 129.3 — Capacity threshold
 
 Result:
-- 회랑새 can accept 12 more only by converting workshop/cargo volume and reducing reserve;
+- 파루스 can accept 12 more only by converting workshop/cargo volume and reducing reserve;
 - it cannot accept all 42 tug/skiff people.
 
 Decision:
@@ -340,15 +340,15 @@ Decision:
 ## Scene 129.4 — Physical separation
 
 Decisive choice:
-- 회랑새 departs KT-441 before Neutral tow arrival because remaining ship/patient safety and route access would otherwise fail;
+- 파루스 departs KT-441 before Neutral tow arrival because remaining ship/patient safety and route access would otherwise fail;
 - 마렌 records retreat threshold and responsibility.
 
 Immediate result:
 - people are split but no known person dies during the immediate operation;
-- KT-441 hull remains outside 회랑새 custody under occupant and pending Neutral status.
+- KT-441 hull remains outside 파루스 custody under occupant and pending Neutral status.
 
 Reward:
-- 19 KT-441 persons transferred to 회랑새 in total; 23 remain with stabilized tug/skiff support;
+- 19 KT-441 persons transferred to 파루스 in total; 23 remain with stabilized tug/skiff support;
 - title/evidence copies preserved;
 - Neutral rescue chain active.
 
@@ -366,7 +366,7 @@ Relationship state:
 - 마렌 repeats a costly withdrawal with documented current thresholds.
 
 Carried state:
-- 회랑새 must reach Lumen/Kael late with increased noncrew load and incomplete contract.
+- 파루스 must reach Lumen/Kael late with increased noncrew load and incomplete contract.
 
 Hook:
 - the Neutral responder confirms KT-441 is stabilized, then asks why one evidence seal matches a removed module from NR72-118.
@@ -491,7 +491,7 @@ Starting:
 - an impossible rescue allocation with 07 outside and route deadline active.
 
 Ending:
-- 19 KT-441 persons transferred to 회랑새;
+- 19 KT-441 persons transferred to 파루스;
 - 23 remain with stabilized tug/skiff pending Neutral tow;
 - no immediate known rescue death;
 - medical veto causes the relay priority window to be lost;

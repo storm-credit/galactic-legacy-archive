@@ -22,7 +22,7 @@ Standard state:
 - Helix central sanctions, field cooperation split.
 
 Convoy plan:
-- 회랑새;
+- 파루스;
 - Ardis cargo/service carrier;
 - Neutral medical/rescue auxiliary;
 - Silex calibration tug/carrier;
@@ -30,7 +30,7 @@ Convoy plan:
 
 Community:
 - all 9 DG-ARDIS travellers now have current clearance/path;
-- 6 assigned to Ardis carrier, 3 to 회랑새;
+- 6 assigned to Ardis carrier, 3 to 파루스;
 - no other community group is recalled or recentered.
 
 ---
@@ -230,9 +230,9 @@ Hidden pressure:
 ## Scene units
 
 1. **Receiving limit** — three early arrivals can receive normal recovery; later arrival faces reduced margin/delay.
-2. **Order proposals** — medical auxiliary first; Ardis cargo/people first; 회랑새/relay first; calibration tug first.
-3. **Current logic** — medical auxiliary carries recovery capacity/current patient/service; Ardis carrier carries 6 people and critical cooling; 회랑새 carries 3 people, records, relay and parts; tug is necessary at Silex and least appropriate to send early.
-4. **Sequence** — Neutral medical auxiliary, Ardis carrier, 회랑새; tug fourth only if margin remains.
+2. **Order proposals** — medical auxiliary first; Ardis cargo/people first; 파루스/relay first; calibration tug first.
+3. **Current logic** — medical auxiliary carries recovery capacity/current patient/service; Ardis carrier carries 6 people and critical cooling; 파루스 carries 3 people, records, relay and parts; tug is necessary at Silex and least appropriate to send early.
+4. **Sequence** — Neutral medical auxiliary, Ardis carrier, 파루스; tug fourth only if margin remains.
 
 Decisive choice:
 - local Silex and Ardis operators jointly set sequence rather than Rian/Imperial command.
@@ -273,7 +273,7 @@ Decisive choice:
 - Ardis accepts the current person before final historical correction; convoy retains all 9 travellers.
 
 Reward:
-- ninth traveller boards 회랑새 with a valid bounded receiving path.
+- ninth traveller boards 파루스 with a valid bounded receiving path.
 
 Cost:
 - Ardis assumes legal/service risk; identity portability remains incomplete.
@@ -314,10 +314,10 @@ Reward:
 - two vessels and six DG-ARDIS travellers arrive.
 
 Cost:
-- window time consumed; 회랑새/tug margin narrows; no automatic fourth-vessel certainty.
+- window time consumed; 파루스/tug margin narrows; no automatic fourth-vessel certainty.
 
 Hook:
-- 회랑새 receives entry clearance, but Silex’s exterior branch reports a mechanical drift that the controller has not yet registered.
+- 파루스 receives entry clearance, but Silex’s exterior branch reports a mechanical drift that the controller has not yet registered.
 
 ---
 
@@ -330,7 +330,7 @@ POV:
 - 오르사 덴/마렌/리안 across distinct domains.
 
 Visible goal:
-- decide whether 회랑새 and the calibration tug both attempt the remaining window.
+- decide whether 파루스 and the calibration tug both attempt the remaining window.
 
 Hidden pressure:
 - sending the tug would deliver tools/operators to Ardis and maximize mission appearance, but risks losing closure/recovery capacity at Silex.
@@ -338,15 +338,15 @@ Hidden pressure:
 ## Scene units
 
 1. **Mechanical drift** — direct sensor/07 inspection confirms branch moving toward stop threshold; current controller still within digital tolerance.
-2. **Current margins** — enough for 회랑새 or both vessels only if no additional drift and receiving recovery remains below model.
+2. **Current margins** — enough for 파루스 or both vessels only if no additional drift and receiving recovery remains below model.
 3. **Competing recommendations** — sponsor/Imperial urge both; Rian’s mission goal favors maximum delivery; Maren accepts only current ship-safe entry; tug master/Orsa evaluate local closure requirement.
-4. **Local stop/sequence decision** — Orsa removes the tug from the queue and commits its crew/tools to closing and repairing Silex; 회랑새 receives the final authorized entry.
+4. **Local stop/sequence decision** — Orsa removes the tug from the queue and commits its crew/tools to closing and repairing Silex; 파루스 receives the final authorized entry.
 
 Decisive choice:
 - current local operator sacrifices the fourth vessel and short-term regional benefit to preserve closure and future repair.
 
 Immediate result:
-- 회랑새 enters with 3 DG-ARDIS travellers, records and selected parts;
+- 파루스 enters with 3 DG-ARDIS travellers, records and selected parts;
 - tug remains at Silex;
 - node closes immediately after current recovery confirmation.
 
@@ -380,7 +380,7 @@ Hidden pressure:
 
 ## Scene units
 
-1. **Arrival/recovery** — medical auxiliary, Ardis carrier and 회랑새 recovered; all 9 DG-ARDIS people accounted for; local housing/work/care processes begin, not completed.
+1. **Arrival/recovery** — medical auxiliary, Ardis carrier and 파루스 recovered; all 9 DG-ARDIS people accounted for; local housing/work/care processes begin, not completed.
 2. **What arrived/what did not** — critical cooling/medical/service components and records arrive; sponsor/commercial/personal cargo and Silex tug/operators do not; mass reserve preserved.
 3. **Silex closure** — route closes for 9–14 days minimum cooling/inspection; repeatability and insurance not proven; Helix sanctions/claims continue.
 4. **Ardis current crisis** — damaged L3/L2 transition node, approximately 1.42m permanent and large transient population, cooling/food/identity/pay/traffic disputes and multiple local factions; delivered resources solve only a narrow immediate slice.
@@ -396,7 +396,7 @@ Reward:
 - limited Silex window completed;
 - 9 Ardis travellers arrive/proceed;
 - critical current cargo/records delivered;
-- 회랑새 crew/relay and regional relationships proven;
+- 파루스 crew/relay and regional relationships proven;
 - invitation/obligation to Ardis.
 
 Cost:
@@ -415,7 +415,7 @@ Mystery state:
 - no new core mystery; GA3’s visible node/city failures and local ownership conflict take front stage.
 
 Final hook:
-- Ardis traffic control assigns 회랑새 a berth only after asking which of the city’s six failing service systems the crew is actually prepared to make worse by choosing first.
+- Ardis traffic control assigns 파루스 a berth only after asking which of the city’s six failing service systems the crew is actually prepared to make worse by choosing first.
 
 Specialist panel:
 - full GA2 final panel A00/O01/O02/N01–N08/C01–C06/P01–P08/T01–T07/H02–H06/M01–M08/G01–G07/X01–X04/A16.

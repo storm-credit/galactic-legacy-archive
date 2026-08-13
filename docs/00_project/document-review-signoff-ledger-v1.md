@@ -66,7 +66,7 @@ Status terms:
 |---|---|---|---|---|---|
 | technology eras/interoperability | T05/T06/T07 | H04/P02/G05/X01 | [[technology-era-and-interoperability-bible-v1]] | WC | old is not automatically stronger |
 | 07 frame system/rights | T06/H04 | M04/H06/P03/G01/X04 | 07 bibles and operational ledgers | WC | service/capture/rescue focus; no ownership monopoly |
-| first ship `회랑새` | H02/H04 | M03/M05/P03/T03/X04 | [[first-ship-bible-v1]]; crew bible | WC | debt, crew, heat, module and title constraints persist |
+| first ship `파루스` | H02/H04 | M03/M05/P03/T03/X04 | [[first-ship-bible-v1]]; crew bible | WC | debt, crew, heat, module and title constraints persist |
 | ship crew/command separation | M03/P03/C02 | M05/X03/X04 | first-ship crew bible | WC | Rian is not automatic captain |
 | AI/personhood and Aurel | T07/P03 | P04/X03/O01 | AI/personhood and late-series social files | WC | process, model, office and person remain distinct |
 

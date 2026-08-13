@@ -350,7 +350,7 @@ Hidden pressure:
 
 1. **Evidence review** — first partial failure/loss, second bounded improvement, worker/pay decisions, provisional identities, ship/yard costs and external package benefits.
 2. **Trial authority** — six constituency seats, local zone operators, rotating/appeal contacts, technical/user/medical stops and external technical/finance observers.
-3. **Funding/obligation** — local public funds, service revenue, bounded creditor payroll bridge, certified package, Neutral/route support and 회랑새 service offsets; no one funder controls the trial.
+3. **Funding/obligation** — local public funds, service revenue, bounded creditor payroll bridge, certified package, Neutral/route support and 파루스 service offsets; no one funder controls the trial.
 4. **Expiry and nontransfer** — 30-day expiry, weekly public state/cost report, mandate withdrawal, no city sovereignty/key/title transfer, no automatic extension or conversion into permanent trust.
 
 Decisive choice:
@@ -365,7 +365,7 @@ Reward:
 Cost:
 - high coordination cost, debt/repayment, incomplete data, delayed Foundry/Anchor work and no solution to node-spine or wider city failures.
 
-회랑새 state:
+파루스 state:
 - conditional berth/service extended into the trial only for current work; no free full repair or permanent base.
 
 Carried state:

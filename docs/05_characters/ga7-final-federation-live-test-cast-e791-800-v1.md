@@ -268,9 +268,9 @@ Record rule:
 - neither can provide current consent;
 - no hidden survival or successor identity.
 
-## 19. `회랑새` Community and Ardis Custodians
+## 19. `파루스` Community and Ardis Custodians
 
-`회랑새`:
+`파루스`:
 - strategic propulsion permanently lost;
 - not restored by relay repair or archive discovery.
 

@@ -21,7 +21,7 @@ Depends On: military doctrine/force structure, grand-act holdings matrix and red
 - fleet and frame battle-state templates;
 - R0 global force baseline;
 - GA1–GA10 theater holdings/readiness ranges;
-- Rian, 07호 and 회랑새 authority/asset progression;
+- Rian, 07호 and 파루스 authority/asset progression;
 - war-budget and replacement bands.
 
 ## Key Controls

@@ -4,7 +4,7 @@ Status: CANON STORY ARCHITECTURE — SCENE-CARD MAP
 Owner Agents: N02 Act Architecture / N03 Episode / N04 Causality / O01 Canon / O02 Gate
 Last Reviewed: 2026-08-03
 Depends On: E1–100 scene-card packets, Academy/07 operational states, collection/character/payoff bibles
-Used By: manuscript gating, first-100 revision, GA2 transition, reader/mobile tests
+Used By: manuscript gating, first-100 revision, GA2 transition, reader/mobile tests, [[named-hull-registry-and-naming-grammar-v1]], [[maneuver-frame-lineup-master-architecture-v1]]
 Open Risks: human/mobile prose validation and exact minor cast/scene compression remain open
 Supersedes: [[first-100-act-map-v1]] for episode placement, character-entry timing and scene-card outcomes
 

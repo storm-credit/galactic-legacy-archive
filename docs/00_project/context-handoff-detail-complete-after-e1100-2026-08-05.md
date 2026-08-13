@@ -141,7 +141,7 @@ Restitution files 45,800:
 
 - Blood Admiral remains five-layer composite history.
 - three Serrat current AI persons remain dead.
-- `회랑새` strategic propulsion remains permanently lost.
+- `파루스` strategic propulsion remains permanently lost.
 - Vera Thorn’s arm/neural injury and field chief engineer retirement remain permanent.
 - Ella Savin remains dead.
 - Ardo Rev remains dead.

@@ -355,7 +355,7 @@ No corridor count is a population count. No category grants ownership or soverei
 ## 19. Permanent Carryover Locks
 
 The following remain unchanged:
-- `회랑새` strategic propulsion: permanently lost;
+- `파루스` strategic propulsion: permanently lost;
 - Vera Thorn: permanent arm and neural injury; retired from field chief engineer role;
 - Ella Savin: dead;
 - Ardo Rev: dead;

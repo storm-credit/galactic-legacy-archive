@@ -4,7 +4,7 @@ Status: REVIEW — ACT/SUBACT LEVEL ONLY
 Owner Agents: N02 Act Architecture / N03 Episode Structure / N04 Causality / N05 Mystery-Payoff / N07 Retention / M01 Strategy / M03 Fleet / M08 Command Ethics
 Last Reviewed: 2026-08-03
 Depends On: Orpheus incident packet, GA6 decision actors, GA5 charter/depletion, [[series-payoff-ledger-v1]]
-Used By: GA6 collection registry, GA7 launch, scene-card preparation
+Used By: GA6 collection registry, GA7 launch, scene-card preparation, [[named-hull-registry-and-naming-grammar-v1]], [[maneuver-frame-lineup-master-architecture-v1]]
 Open Risks: exact losses/hostile formations and window allocation remain open; POV execution will be difficult
 
 ## 1. Grand-Act Contract

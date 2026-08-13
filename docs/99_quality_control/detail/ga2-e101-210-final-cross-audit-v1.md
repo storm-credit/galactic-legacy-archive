@@ -74,7 +74,7 @@ Verdict:
 - two route-community members later take bounded trial positions, but sustainable staffing remains unmet;
 - no hidden instant crew-family formation.
 
-### 회랑새
+### 파루스
 
 Progression:
 - inaccessible distressed hull;
@@ -178,7 +178,7 @@ All 36 accounted for.
 Agency controls:
 - no unified binding vote;
 - caregiver assignment may change;
-- one worker chooses another ship over 회랑새;
+- one worker chooses another ship over 파루스;
 - four stay in K-13;
 - three withhold destination from Haren/Academy;
 - Haren has revocable 180-day coordination mandate only;
@@ -335,7 +335,7 @@ E211 must open with:
 - Silex closed/uncertain;
 - three arrived vessels and limited cargo;
 - 9 conditional arrivals;
-- 회랑새/07 needing service and rest;
+- 파루스/07 needing service and rest;
 - no protagonist ownership/governorship;
 - no permanent route or general standard.
 

@@ -17,32 +17,38 @@ INDEX_FILE = DATA_DIR / "maneuver-frame-lineup-proposed-index-v1.csv"
 EVIDENCE_FILE = DATA_DIR / "maneuver-frame-lineup-evidence-matrix-v1.csv"
 HARD_REJECT_FILE = DATA_DIR / "mecha-hard-reject-public-names-v1.txt"
 
+# Direction C, author decision D-20260813-03 (supersedes D-20260812-01).
+# 43 chassis slots + 07 + 2 author-decision reserves.
+PORTFOLIO_ROWS = 46
+
 EXPECTED_LINEAGE_COUNTS = {
-    "L01": 4,
-    "L02": 5,
-    "L03": 4,
-    "L04": 4,
-    "L05": 3,
-    "L06": 3,
-    "L07": 3,
+    "L01": 6,
+    "L02": 8,
+    "L03": 6,
+    "L04": 7,
+    "L05": 5,
+    "L06": 6,
+    "L07": 6,
     "L08": 2,
 }
 EXPECTED_RECORD_COUNTS = {
     "VERIFIED_ENTITY": 1,
-    "CHASSIS_SLOT": 25,
+    "CHASSIS_SLOT": 43,
     "RESERVE_SLOT": 2,
 }
+# GA9 stays at zero by design: section 8 gives that arc reversible service and
+# certification overlays, not new bodies. Direction C raised every other arc.
 EXPECTED_FIRST_REVEAL_COUNTS = {
     "GA1": 4,
-    "GA2": 4,
-    "GA3": 6,
-    "GA4": 3,
-    "GA5": 4,
-    "GA6": 1,
-    "GA7": 0,
-    "GA8": 2,
+    "GA2": 6,
+    "GA3": 7,
+    "GA4": 4,
+    "GA5": 7,
+    "GA6": 4,
+    "GA7": 2,
+    "GA8": 5,
     "GA9": 0,
-    "GA10": 2,
+    "GA10": 4,
 }
 
 ALLOWED_STATUSES = {
@@ -96,6 +102,19 @@ NEW_FILES_EXCLUDED_FROM_COLLISION_SCAN = {
     ROOT / "docs" / "06_hardware" / "maneuver-frame-lineup-master-architecture-v1.md",
     ROOT / "docs" / "06_hardware" / "maneuver-frame-lineup-visual-sheet-prompt-pack-v1.md",
     ROOT / "docs" / "07_military" / "frame-formation-combat-and-collectibility-integration-audit-v1.md",
+}
+
+# Generated views mirror the CSV, so they always contain every working name.
+# They cannot constitute prior use -- the check asks whether a human already
+# spent the name somewhere, and a file that is rewritten from the CSV on every
+# build has not spent anything.
+GENERATED_DIRS_EXCLUDED_FROM_COLLISION_SCAN = (
+    ROOT / "docs" / "_catalog",
+    ROOT / "docs" / "_index",
+)
+GENERATED_FILES_EXCLUDED_FROM_COLLISION_SCAN = {
+    ROOT / "docs" / "CATALOG.md",
+    ROOT / "docs" / "HOME.md",
 }
 
 
@@ -175,6 +194,10 @@ def existing_markdown_corpus() -> str:
     for path in ROOT.rglob("*.md"):
         if path in NEW_FILES_EXCLUDED_FROM_COLLISION_SCAN:
             continue
+        if path in GENERATED_FILES_EXCLUDED_FROM_COLLISION_SCAN:
+            continue
+        if any(d in path.parents for d in GENERATED_DIRS_EXCLUDED_FROM_COLLISION_SCAN):
+            continue
         chunks.append(path.read_text(encoding="utf-8-sig").upper())
     return "\n".join(chunks)
 
@@ -208,10 +231,10 @@ def validate(
 ) -> list[str]:
     errors: list[str] = []
 
-    if len(rows) != 28:
-        errors.append(f"expected 28 portfolio rows, found {len(rows)}")
-    if len(evidence_rows) != 28:
-        errors.append(f"expected 28 evidence rows, found {len(evidence_rows)}")
+    if len(rows) != PORTFOLIO_ROWS:
+        errors.append(f"expected {PORTFOLIO_ROWS} portfolio rows, found {len(rows)}")
+    if len(evidence_rows) != PORTFOLIO_ROWS:
+        errors.append(f"expected {PORTFOLIO_ROWS} evidence rows, found {len(evidence_rows)}")
 
     lineage_counts = Counter(row["lineage_id"] for row in rows)
     if lineage_counts != Counter(EXPECTED_LINEAGE_COUNTS):
@@ -230,10 +253,10 @@ def validate(
     if repeated_evidence:
         errors.append(f"duplicate evidence slot_id: {sorted(repeated_evidence)}")
 
-    expected_slots = [f"M-{number:03d}" for number in range(1, 29)]
+    expected_slots = [f"M-{number:03d}" for number in range(1, PORTFOLIO_ROWS + 1)]
     actual_slots = [row["slot_id"] for row in rows]
     if actual_slots != expected_slots:
-        errors.append("slot ids must be ordered M-001 through M-028")
+        errors.append(f"slot ids must be ordered M-001 through M-{PORTFOLIO_ROWS:03d}")
 
     evidence_by_slot = {row["slot_id"]: row for row in evidence_rows}
     if set(evidence_by_slot) != set(actual_slots):
@@ -588,11 +611,11 @@ def main(argv: list[str]) -> int:
     front_count = sum(row["reader_tier"] == "FRONT" for row in rows)
     print("MECHA LINEUP VALIDATION PASSED")
     print("- verified canon entities: 1")
-    print("- phase-1 noncanon placed sample slots: 25")
+    print("- phase-1 noncanon placed sample slots: 43")
     print("- phase-1 author-decision sample reserves: 2")
     print(f"- manufacturing lineages: {len(lineage_counts)}")
     print(f"- phase-1 front-stage sample candidates: {front_count}")
-    print("- reuse-first process preferred; 26-32 remains an unselected scenario; independent-model count HOLD")
+    print("- reuse-first process preferred; Direction C 40-48 selected per D-20260813-03; independent-model count HOLD")
     print("- canon and technical quote tokens: matched")
     print("- adjacent-GA English/Korean name distance: passed")
     print("- E1-E20 principal-frame limit: AUX-07 only")

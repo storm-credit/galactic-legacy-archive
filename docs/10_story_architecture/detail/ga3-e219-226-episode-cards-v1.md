@@ -17,13 +17,13 @@ Trial:
 - first cross-zone chain: Garden Chain production → Anchor traffic → Transit Belt receiving/distribution;
 - Foundry provides selected cooling/valve parts;
 - Civic offices provide current service/identity/pay processing;
-- 회랑새 and 07 provide bounded relay, workshop and physical service support.
+- 파루스 and 07 provide bounded relay, workshop and physical service support.
 
 Persistent limits:
 - Anchor Crown cooling package was not chosen;
 - Foundry’s restarted line is partly creditor-pledged;
 - Transit Belt cold-chain, identity and sanitation systems are uneven;
-- 회랑새 has only a conditional berth and safety-critical repair path.
+- 파루스 has only a conditional berth and safety-critical repair path.
 
 ---
 
@@ -226,7 +226,7 @@ POV:
 - 마렌/베라 and Ardis yard/service workers.
 
 Visible goal:
-- choose which 회랑새 and 07 repairs receive scarce Ardis yard labor/parts during the trial.
+- choose which 파루스 and 07 repairs receive scarce Ardis yard labor/parts during the trial.
 
 Hidden pressure:
 - a better-restored ship could support more city work, but every yard hour and component comes from local hulls/infrastructure.
@@ -242,7 +242,7 @@ Decisive choice:
 - Maren/Vera accept only safety-critical work and leave performance repairs for later.
 
 Reward:
-- 회랑새 and 07 remain safely usable for the bounded trial.
+- 파루스 and 07 remain safely usable for the bounded trial.
 
 Cost:
 - local nonurgent vessel waits longer; ship remains slow/limited; debt increases.
@@ -345,7 +345,7 @@ Ending:
 - Foundry workers secure wage/stop terms and split output;
 - 640-person pilot gains provisional service standing without forced citizenship;
 - Toma allocates two windows with visible creditor/pay cost;
-- 회랑새 receives only safety-critical paid repairs;
+- 파루스 receives only safety-critical paid repairs;
 - shared state board exposes unknown/stale data without centralizing everything;
 - local stop prevents larger damage but leaves unequal service.
 

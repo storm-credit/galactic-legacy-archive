@@ -73,7 +73,7 @@ Offer:
 Scene units:
 1. **Real benefit** — one common command staff and current picture reduce expected alert response by 6–10 minutes.
 2. **Capture path** — the same staff would prioritize ammunition, escorts and repair, indirectly controlling ships that never accepted Rian personally.
-3. **Maren’s boundary** — ship captains must retain safety/surrender and mission acceptance; `회랑새` cannot become ceremonial flagship of a personal fleet.
+3. **Maren’s boundary** — ship captains must retain safety/surrender and mission acceptance; `파루스` cannot become ceremonial flagship of a personal fleet.
 4. **Rian’s answer** — accept command only for one named route/flight task group and one alert window under external audit; reject 24-ship standing command.
 
 Decisive choice:

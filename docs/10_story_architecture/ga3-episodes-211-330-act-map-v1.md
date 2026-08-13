@@ -4,7 +4,7 @@ Status: REVIEW — ACT/SUBACT LEVEL ONLY
 Owner Agents: N02 Act Architecture / N03 Episode Structure / N04 Causality / N07 Retention / P06 Faction Clocks / M03 Fleet Operations / M05 Logistics
 Last Reviewed: 2026-08-03
 Depends On: Ardis city/faction/node bibles, GA2 ending, first ship, route graph, [[1000-episode-grand-act-map-v1]]
-Used By: GA3 collection registry, scene-card preparation, GA4 launch
+Used By: GA3 collection registry, scene-card preparation, GA4 launch, [[named-hull-registry-and-naming-grammar-v1]], [[maneuver-frame-lineup-master-architecture-v1]]
 Open Risks: exact local cast and battle maps, detailed succession-war hooks, Gate 1 prose calibration
 
 ## 1. Grand-Act Contract

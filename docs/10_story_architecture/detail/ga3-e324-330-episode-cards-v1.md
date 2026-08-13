@@ -264,7 +264,7 @@ Hidden pressure:
 1. **Sovereign event** — verified medical/Registry chains report irreversible incapacity and death through conflicting but authentic timestamps separated by 18 minutes; legal trigger order remains disputed.
 2. **Six messages** — Registry heir recognition; Regency obedience; General Staff military freeze/protector order; Continuity key-transfer suspension; provincial consultation; founding-covenant review.
 3. **Authenticity shock** — seals, sources and institutional chains are genuinely valid inside their own protocols; Rian’s future/Archive memory marks incompatible succession dates and cannot supply one reliable king.
-4. **Ardis handoff** — the Trust preserves services, evidence and its conditional October window while refusing final accession recognition until E331 response; 회랑새 prepares an evidence-courier mission under local mandate, not governorship.
+4. **Ardis handoff** — the Trust preserves services, evidence and its conditional October window while refusing final accession recognition until E331 response; 파루스 prepares an evidence-courier mission under local mandate, not governorship.
 
 Decisive choice:
 - Ardis receives and preserves all six messages without letting the protagonist choose the sovereign at the GA3 ending.

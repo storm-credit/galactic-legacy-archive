@@ -43,7 +43,7 @@ Risk:
 
 Counterevidence:
 - E151 current care/wages/habitat services receive funds before investigation or module benefit;
-- 회랑새 accepts reduced/no immediate mission share;
+- 파루스 accepts reduced/no immediate mission share;
 - E152–153 show no single malicious deletion or perfect original;
 - E154 Jena’s name use is controlled by caravan/community and private medical data remains restricted;
 - E155 active second-frame restoration is rejected;
@@ -116,7 +116,7 @@ Counterevidence:
 - 12 household/care units;
 - separate care, work/residence, mobile, stay and private paths;
 - caregiver assignment can change;
-- one qualified worker chooses another crew over 회랑새;
+- one qualified worker chooses another crew over 파루스;
 - four people choose K-13;
 - three withhold destination from Haren/Academy;
 - one Ardis traveller is delayed but retains later slot;
@@ -166,13 +166,13 @@ Planning envelope:
 Transport:
 - care group via Neutral medical passage;
 - Ardis group split 6 + 2 + 1 delayed;
-- route group 2 회랑새 +2 other crews +3 Open Passage/Varka;
+- route group 2 파루스 +2 other crews +3 Open Passage/Varka;
 - stayers 4;
 - private 3.
 
 Service cargo:
 - critical filters preserved through split transport rather than sacrificed invisibly;
-- 회랑새 delays one paid job and loses income/cargo flexibility.
+- 파루스 delays one paid job and loses income/cargo flexibility.
 
 Verdict:
 - `PASS`.

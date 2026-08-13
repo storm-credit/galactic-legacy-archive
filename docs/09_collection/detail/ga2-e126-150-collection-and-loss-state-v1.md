@@ -54,10 +54,10 @@ The active target load remains within 3–5.
 
 | Target | E125 | E150 | Change |
 |---|---|---|---|
-| 회랑새 operational hull | first rescue active | restricted mobile; inspection/repair and debt continue | operation proven, solvency not improved |
+| 파루스 operational hull | first rescue active | restricted mobile; inspection/repair and debt continue | operation proven, solvency not improved |
 | 07 integration | first sortie | rescue/physical verification proven; condition reduced to 38–44% | no combat power increase |
 | first contract | unresolved | 205,000 BSC recognized, partial failure | relay priority and full tow lost; certificate retained |
-| KT-441 hull | distressed/occupied | Neutral-controlled holding orbit, claims unresolved | not acquired/towed by 회랑새 |
+| KT-441 hull | distressed/occupied | Neutral-controlled holding orbit, claims unresolved | not acquired/towed by 파루스 |
 | 061-derived controller | monitored low-load unit | partly destroyed, impounded, unusable | evidence/safety object, not reward |
 | modular salvage train | moving unknown | identified towed mixed assembly; occupied, one module/tug escaped | intact ghost-ship false answer retired |
 | Bay 2/service collar | serial clue | provenance relation stronger, usable object unresolved | still not recovered/installed |
@@ -128,7 +128,7 @@ No cost is offset by a stronger module or new weapon.
 - 061 identity does not unlock an intact advanced ship;
 - recovered knowledge creates safety burden, not power;
 - 07 loses reliability through rescue work;
-- 회랑새 remains slow, undercrewed and indebted;
+- 파루스 remains slow, undercrewed and indebted;
 - one major component is destroyed/impounded;
 - open-service lineage becomes more complex and dangerous;
 - protagonists gain standing/knowledge, not ownership.

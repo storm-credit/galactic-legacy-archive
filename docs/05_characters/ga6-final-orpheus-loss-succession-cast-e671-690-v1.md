@@ -59,7 +59,7 @@ GA7 carryover:
 ## 4. Vera Thorn
 
 Final action:
-- isolates `회랑새` strategic propulsion/energy bus during C convergence;
+- isolates `파루스` strategic propulsion/energy bus during C convergence;
 - survives with permanent arm/nerve injury.
 
 Permanent state:
@@ -74,7 +74,7 @@ Succession:
 ## 5. Maren Dove
 
 Final action:
-- commits `회랑새` as route/traffic/energy stabilizer with crew and physical consent;
+- commits `파루스` as route/traffic/energy stabilizer with crew and physical consent;
 - does not claim fleet command or use the ship as a flagship-owner.
 
 Post-loss role:
@@ -82,7 +82,7 @@ Post-loss role:
 - must negotiate towing, fixed route-school, rescue and claims uses;
 - retains crew/captain authority only within current mandates.
 
-## 6. `회랑새 / Corridor Wren`
+## 6. `파루스 / Parus`
 
 Final physical state:
 - hull survives;
@@ -175,7 +175,7 @@ GA7 carryover:
 - Ella resurrection or replacement moral oracle;
 - Ardo authority passing wholesale to Rian/Iven;
 - Vera miracle recovery or unchanged active-chief role;
-- `회랑새` restored strategic propulsion;
+- `파루스` restored strategic propulsion;
 - Plan M credited solely to Rian;
 - holdouts/refusals treated as one will;
 - G supporters caricatured as foolish or malicious.

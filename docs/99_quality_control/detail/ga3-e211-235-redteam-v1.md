@@ -55,7 +55,7 @@ PASS:
 
 PASS:
 - DG-ARDIS count remains exactly 9;
-- six arrive on the Ardis carrier and three on 회랑새;
+- six arrive on the Ardis carrier and three on 파루스;
 - all nine gain current placement paths by E235;
 - no person is duplicated, missing or silently converted into ship crew.
 
@@ -88,7 +88,7 @@ Controls verified:
 - E211 begins with Toma/local traffic workers before protagonist disembarkation;
 - local queue and medical priorities override hero status;
 - all technical stops and branch sequencing require current local authority;
-- 회랑새 receives paid conditional work, not command or property;
+- 파루스 receives paid conditional work, not command or property;
 - the 30-day trial has six constituencies and expires;
 - no city, district, worker body or arrival group becomes protagonist-owned.
 
@@ -315,7 +315,7 @@ PASS.
 - central 90-day package gains real supporters;
 - damaged phase-reference spine becomes the central physical problem;
 - Toma/local actors retain independent authority;
-- 회랑새 remains conditional and technically limited;
+- 파루스 remains conditional and technically limited;
 - Silex remains closed.
 
 ## 9. Final Gate Decision

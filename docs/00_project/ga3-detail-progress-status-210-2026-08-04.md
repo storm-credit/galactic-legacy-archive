@@ -96,7 +96,7 @@ Continuing conditions:
 8. corrected cutter count 7 must be carried forward.
 9. Doman retains one cutter/four frames direct Imperial unless later choice changes it.
 10. 73 t dense module remains outside.
-11. 07/회랑새 remain bounded supporting assets.
+11. 07/파루스 remain bounded supporting assets.
 
 ## 6. Next Batch
 
