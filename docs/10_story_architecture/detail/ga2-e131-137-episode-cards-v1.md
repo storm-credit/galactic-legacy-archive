@@ -12,7 +12,7 @@ Open Risks: current moving transponder identity remains unresolved until Marn op
 Date:
 - CY 742-07-27.
 
-회랑새:
+파루스:
 - docked at Lumen/Kael service chain after partial first mission;
 - certificate retained but inspection/repair required;
 - minimal discretionary revenue 9,000–18,000 BSC before repair;
@@ -348,7 +348,7 @@ Carried state:
 - joint caravan/test order needs cross-jurisdiction terms.
 
 Hook:
-- the protected deposition names a service-module serial that also appears in 회랑새’s removed Bay 2 claim.
+- the protected deposition names a service-module serial that also appears in 파루스’s removed Bay 2 claim.
 
 Specialist panel:
 - P03/P04, C02/C04, N05, X03/X04, G01.
@@ -364,7 +364,7 @@ POV:
 - 마렌.
 
 Visible goal:
-- create a lawful joint search/test mission to Neris–Marn without turning 회랑새 into a seizure ship.
+- create a lawful joint search/test mission to Neris–Marn without turning 파루스 into a seizure ship.
 
 Hidden pressure:
 - each participant wants priority if a valuable module or surviving hull is found.
@@ -376,7 +376,7 @@ Participants:
 - Neris maintainers;
 - Neutral rescue/insurance observer;
 - Helix safety/seizure representative;
-- 회랑새 mission trust;
+- 파루스 mission trust;
 - worker/witness counsel;
 - civilian repair caravan.
 
@@ -389,7 +389,7 @@ Terms negotiated:
 - worker evidence and personal identity remain protected;
 - rescue outranks component recovery during immediate danger.
 
-## Scene 135.3 — 회랑새 readiness
+## Scene 135.3 — 파루스 readiness
 
 State:
 - first-mission inspection finds no catastrophic new damage;
@@ -465,13 +465,13 @@ State change:
 ## Scene 136.3 — Route choice
 
 Options:
-- rush 회랑새 alone;
+- rush 파루스 alone;
 - travel with caravan and monitored unit;
 - send data and let claims office handle it;
 - split teams.
 
 Constraints:
-- 회랑새 cannot safely outrun modern seizure craft;
+- 파루스 cannot safely outrun modern seizure craft;
 - caravan carries witnesses/tools and civilian obligations;
 - splitting reduces crew below sustainable emergency margin.
 
@@ -541,7 +541,7 @@ Result:
 
 Decision:
 - depart with lower synchronized load, manual local fallbacks and staged testing en route;
-- unit remains under joint custody on the caravan command/service tug, not 회랑새.
+- unit remains under joint custody on the caravan command/service tug, not 파루스.
 
 ## Scene 137.4 — Marn signal moves
 
@@ -558,7 +558,7 @@ Reward:
 Cost:
 - unresolved full-load defect travels with them;
 - competitors ahead;
-- 회랑새 remains undercrewed and financially strained.
+- 파루스 remains undercrewed and financially strained.
 
 Collection state:
 - 061 unit operation layer `C`, not safe repeatable integration;

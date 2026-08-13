@@ -49,7 +49,7 @@ Required outcomes:
 4. achieve limited Silex–Ardis access, not full regional victory;
 5. retain Helix sanctions and insurer/route constraints;
 6. produce a decisive autonomous success by local operators/crew, not Rian alone;
-7. keep 회랑새 indebted/undercrewed and 07 noncombat/service-focused;
+7. keep 파루스 indebted/undercrewed and 07 noncombat/service-focused;
 8. end with Ardis’s damaged-node/city crisis and E211 launch.
 
 ## 5. Gate

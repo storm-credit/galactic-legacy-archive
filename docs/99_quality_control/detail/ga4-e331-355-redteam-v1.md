@@ -74,7 +74,7 @@ Total cargo-equivalent:
 - 8 t remains unused.
 
 Outbound people:
-- 회랑새 54;
+- 파루스 54;
 - NMC-12 16;
 - ATC-3 16;
 - 54 + 16 + 16 = **86**.
@@ -383,7 +383,7 @@ PASS:
 - Protector frame is lost;
 - Ardis node B-2 worsens after the window;
 - no root key, sovereign key or master evidence control;
-- 회랑새 remains an escort/evidence carrier under local mandate;
+- 파루스 remains an escort/evidence carrier under local mandate;
 - no claimant force becomes Rian’s army;
 - 73 t module remains outside.
 

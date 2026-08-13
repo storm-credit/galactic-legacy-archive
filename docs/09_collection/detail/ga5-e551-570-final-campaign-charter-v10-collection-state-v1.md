@@ -199,9 +199,9 @@ Conflict:
 - state/Compact, civilian convoy and local/crew/service priorities demand incompatible first access;
 - route/rescue/medical/ammunition cannot satisfy all.
 
-## 9. `회랑새` / `07호` State
+## 9. `파루스` / `07호` State
 
-`회랑새`:
+`파루스`:
 - operational route/support role;
 - repair/debt constrained;
 - strategic propulsion still available;

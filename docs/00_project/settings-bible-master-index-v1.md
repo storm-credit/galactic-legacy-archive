@@ -86,7 +86,7 @@ Key rules:
 - old systems preserve repair/emergency interoperability but are not universally stronger;
 - certified modern systems have real safety and efficiency advantages;
 - 07호 remains service/capture/rescue centered and ends as public training/rescue asset;
-- 회랑새 remains indebted, becomes outclassed and permanently loses strategic propulsion in GA6.
+- 파루스 remains indebted, becomes outclassed and permanently loses strategic propulsion in GA6.
 
 ## 6. Economy, Trade and Logistics
 
@@ -221,7 +221,7 @@ Locked examples:
 - Ardo Rev Episode 683;
 - Rin Osa Episode 762;
 - Nacre-3 Episode 889;
-- 회랑새/베라 토른 permanent GA6 transformation;
+- 파루스/베라 토른 permanent GA6 transformation;
 - 07 unique combat configuration removed/split in Episodes 1084–1085.
 
 ## 14. Quality Control

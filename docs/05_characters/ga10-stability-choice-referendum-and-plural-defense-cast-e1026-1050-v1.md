@@ -255,7 +255,7 @@ Lin:
 
 Permanent:
 - three Serrat AI persons dead;
-- `회랑새` propulsion lost;
+- `파루스` propulsion lost;
 - Vera injury/retirement;
 - Ella and Ardo dead;
 - Ardis 73 t sealed/unused.

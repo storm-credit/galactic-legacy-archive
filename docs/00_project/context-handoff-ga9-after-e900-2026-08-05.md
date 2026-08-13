@@ -320,7 +320,7 @@ Aven을 Haren이나 전체 Blood Admiral로 치환하지 않는다.
 ## 영구상태
 
 - 세라트 현재 AI 인격 3명 영구사망
-- `회랑새` 전략추진 영구상실
+- `파루스` 전략추진 영구상실
 - Vera Thorn 팔·신경 손상과 현장 수석기관장 은퇴 영구
 - Ella Savin 사망
 - Ardo Rev 사망

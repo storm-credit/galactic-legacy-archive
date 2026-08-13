@@ -164,7 +164,7 @@ Additional asset loss:
 - final tug 1–2 months.
 
 Ruling:
-- no later locked Ella/Ardo/회랑새/Vera event triggered early.
+- no later locked Ella/Ardo/파루스/Vera event triggered early.
 
 ## 9. Route Progress Audit
 

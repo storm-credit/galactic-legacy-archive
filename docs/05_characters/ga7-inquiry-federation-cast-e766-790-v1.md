@@ -328,7 +328,7 @@ Permanent state:
 - no return, hidden survival or replacement identity;
 - prior decisions remain attributable to him and cannot be reassigned to Rian or the federation.
 
-## 22. `회랑새` Engineering Community
+## 22. `파루스` Engineering Community
 
 Permanent material state:
 - strategic propulsion capability permanently lost;
@@ -374,7 +374,7 @@ GA8 handoff:
 - do not make Haren sole cause by institutional simplification;
 - do not reduce Lin to a statistic, martyr icon or universal consent proxy;
 - do not restore Ella or Ardo;
-- do not restore `회랑새` strategic propulsion;
+- do not restore `파루스` strategic propulsion;
 - do not restore Vera to field chief engineer capacity;
 - do not grant Rian a master key, federation sovereignty or Haren’s powers;
 - do not make outside/reject delegates secretly subordinate to majority vote;

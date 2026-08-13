@@ -340,7 +340,7 @@ Blood Admiral and Continuity Director:
 ## 21. Permanent-Loss Parties
 
 - three Serrat AI persons permanently dead;
-- `회랑새` strategic propulsion permanently lost;
+- `파루스` strategic propulsion permanently lost;
 - Vera Thorn permanent arm/neural injury and field retirement;
 - Ella Savin dead;
 - Ardo Rev dead;

@@ -171,7 +171,7 @@ Seed-assisted plural 참조:
 - Haren 형 집행, Seed 역할 없음, D4 현재책임 유지.
 - Blood Admiral 다층역사 유지.
 - 세라트 AI 3명 영구사망.
-- `회랑새` 전략추진 영구상실.
+- `파루스` 전략추진 영구상실.
 - Vera Thorn 팔·신경 손상 및 현장 은퇴 영구.
 - Ella Savin 사망.
 - Ardo Rev 사망.

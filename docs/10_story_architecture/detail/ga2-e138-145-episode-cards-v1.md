@@ -13,7 +13,7 @@ Date:
 - CY 742-08-05.
 
 Convoy:
-- 회랑새 as escort/inspection ship;
+- 파루스 as escort/inspection ship;
 - civilian repair caravan with mixed tugs, workshop pods and cargo/service modules;
 - one 061-derived synchronization/control unit under joint custody;
 - Neris maintainers and worker/witness representatives aboard distributed vessels;
@@ -22,7 +22,7 @@ Convoy:
 Technical:
 - control unit passed low-load test only;
 - full-load actuator/fault-isolation behavior unresolved;
-- 회랑새 remains undercrewed, indebted and restricted.
+- 파루스 remains undercrewed, indebted and restricted.
 
 Marn:
 - L3 graveyard/salvage system;
@@ -59,7 +59,7 @@ State change:
 Actors:
 - 루카 coordinates windows;
 - local tug masters retain vessel safety;
-- 회랑새 cannot command every craft;
+- 파루스 cannot command every craft;
 - 061 controller offers synchronization support but remains limited.
 
 Action:
@@ -88,7 +88,7 @@ Cost:
 - competitors gain relative lead.
 
 Collection state:
-- route knowledge is shared among local operators, not owned by 회랑새.
+- route knowledge is shared among local operators, not owned by 파루스.
 
 Mystery state:
 - moving signal remains physically plausible through debris towing/relay.
@@ -146,7 +146,7 @@ Action:
 
 Opposition:
 - Kael/Helix representatives argue that locating unsafe 061 components prevents future mass harm;
-- 리안 sees strategic connection to 회랑새 Bay 2.
+- 리안 sees strategic connection to 파루스 Bay 2.
 
 Decision:
 - repair caravan splits one small team to habitat A while main body proceeds through the search volume, with automatic abort if B crosses threshold.
@@ -282,7 +282,7 @@ Hidden pressure:
 
 Action:
 - 07 and sensor tags enter debris volume;
-- 회랑새 remains outside due collision/heat risk;
+- 파루스 remains outside due collision/heat risk;
 - no long-range weapon solution through debris.
 
 ## Scene 141.2 — Physical truth
@@ -517,7 +517,7 @@ C. staged mixed mode — preserves critical zones but leaves industry/housing sh
 Decision:
 - choose C;
 - 07 and local frames carry isolation tools/tags;
-- 회랑새 provides limited sensor/power relay but not full power;
+- 파루스 provides limited sensor/power relay but not full power;
 - Helix monitors; Neris workers and habitat crews operate branches.
 
 ## Scene 144.4 — First stage succeeds
@@ -581,7 +581,7 @@ Protocol:
 - physical watchers at four isolation points;
 - automatic shutdown disabled only inside declared branch;
 - 07 positioned for external sever/capture;
-- 회랑새 holds recovery and sensor support;
+- 파루스 holds recovery and sensor support;
 - Jena at the primary manual isolation because she knows the caravan/habitat interface.
 
 ## Scene 145.3 — Opposition and consent

@@ -265,7 +265,7 @@ Haren final state:
 Final permanent states:
 - Lin Osa remains dead with four-ledger agency preserved;
 - three Serrat current AI persons remain dead;
-- `회랑새` strategic propulsion remains lost;
+- `파루스` strategic propulsion remains lost;
 - Vera Thorn’s permanent injury and field retirement remain;
 - Ella Savin and Ardo Rev remain dead;
 - Ardis 73 t module remains externally sealed and unused.

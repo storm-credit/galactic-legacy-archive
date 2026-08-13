@@ -315,7 +315,7 @@ Protection:
 ## 18. Permanent State Locks
 
 Unchanged:
-- `회랑새` strategic propulsion permanently lost;
+- `파루스` strategic propulsion permanently lost;
 - Vera Thorn permanent arm/neural injury and field chief engineer retirement;
 - Ella Savin dead;
 - Ardo Rev dead;

@@ -28,7 +28,7 @@ Personnel:
 - 제나 아크 at primary manual isolation;
 - Neris/caravan/habitat workers at other points;
 - 07 outside with cutting/service tools;
-- 회랑새 providing limited sensor/recovery support.
+- 파루스 providing limited sensor/recovery support.
 
 ---
 
@@ -221,12 +221,12 @@ State change:
 Action:
 - Jena extracted alive;
 - injuries include pressure trauma, inhalation/chemical injury, thermal burns, hypoxia and blunt/internal damage;
-- habitat and 회랑새 medical capacity can stabilize but not perform all required regenerative/critical-care procedures.
+- habitat and 파루스 medical capacity can stabilize but not perform all required regenerative/critical-care procedures.
 
 ## Scene 148.3 — Medical route calculation
 
 Options:
-- transfer to 회랑새 then Glasswater/major center: route time too long under current stability;
+- transfer to 파루스 then Glasswater/major center: route time too long under current stability;
 - Helix emergency clinical pod: closest capable module but not fully present and transport risk remains;
 - local invasive stabilization: may extend time, carries high mortality and consent burden.
 
@@ -397,7 +397,7 @@ Locked consequences:
 - caravan loses field leader, controller and schedule;
 - workers and residents receive immediate support/claims standing but not full compensation;
 - one pending repair client experiences service loss because the caravan cannot arrive;
-- 회랑새 receives no module reward from the failure.
+- 파루스 receives no module reward from the failure.
 
 ## Scene 150.4 — Name/provenance lock
 

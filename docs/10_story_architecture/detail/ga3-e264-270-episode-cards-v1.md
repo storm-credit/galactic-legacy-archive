@@ -118,7 +118,7 @@ Hidden pressure:
 1. **Part classes** — 36 t Foundry cooling/service, 24 t Spine B sensor/authentication, 18 t Surface certified compressor replacement and 16 t mixed utility/ship adapters.
 2. **Custody proposal** — Iven requires certified storage, installation records and authority to stop use outside listed envelopes; Kera requires paid local handling and no remote work-order control.
 3. **Joint chain** — certified staff retain specification/stop authority, local workers retain physical sequence/stop and service users retain current consequence appeal.
-4. **First release** — Surface replacement and two B-4 sensor units release immediately; Foundry cooling releases under Line 3 protocol; adapters remain unassigned rather than becoming 회랑새 reward.
+4. **First release** — Surface replacement and two B-4 sensor units release immediately; Foundry cooling releases under Line 3 protocol; adapters remain unassigned rather than becoming 파루스 reward.
 
 Decisive choice:
 - split specification, physical work, service consequence and title/finance instead of naming one owner.

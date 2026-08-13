@@ -304,7 +304,7 @@ Ella Savin:
 Ardo Rev:
 - dead.
 
-`회랑새`:
+`파루스`:
 - strategic propulsion permanently lost.
 
 Ardis 73 t module:

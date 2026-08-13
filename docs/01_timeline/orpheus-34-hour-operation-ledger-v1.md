@@ -319,7 +319,7 @@ Members/domains:
 - Rian — cross-front mission intent and emergency conflict resolution; no sole manifest authority.
 - Haren — route/dependency distribution; no unilateral route denial/opening.
 - Mia/Ella medical bodies — transportability, triage and medical stops.
-- Maren/Vera — 회랑새 ship safety and relay-service limits.
+- Maren/Vera — 파루스 ship safety and relay-service limits.
 - Ardo Rev — integrated fleet defense for assigned fronts.
 - Ern Varka — Grey/local route command, independent withdrawal and constituency.
 - State/Continuity representative — minimum State-function packages and authentication.
@@ -624,7 +624,7 @@ Effect:
 
 Event:
 - Grey relay alignment and damaged convoy require a close service/traffic ship.
-- 회랑새 can hold alignment only by operating beyond old common-coolant/drive limits.
+- 파루스 can hold alignment only by operating beyond old common-coolant/drive limits.
 
 Maren/Vera decision:
 - sacrifice Reactor B, one radiator wing and aft drive truss.
@@ -633,7 +633,7 @@ Maren/Vera decision:
 Vera:
 - performs/is responsible for coolant isolation and is permanently injured.
 
-회랑새:
+파루스:
 - strategic independent propulsion permanently lost.
 - remains habitable/towable with service/rescue functions.
 
@@ -714,13 +714,13 @@ Working major hull outcome by operation end/connected retreat:
 
 - destroyed: 19 combat/support major hulls.
 - abandoned/captured beyond recovery: 11.
-- crippled and later scrapped/static conversion: 8, including 회랑새 as a special surviving transformation rather than lost hull.
+- crippled and later scrapped/static conversion: 8, including 파루스 as a special surviving transformation rather than lost hull.
 - total major combat/support hulls removed from prior strategic role: 38.
 
 Locked named:
 - Vow of Bastion destroyed.
 - Warmth lost beyond recovery.
-- 회랑새 strategic propulsion lost, hull survives.
+- 파루스 strategic propulsion lost, hull survives.
 
 Smaller craft:
 - 60–110 destroyed/abandoned/damaged beyond economical repair.

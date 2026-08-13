@@ -81,7 +81,7 @@ Hidden pressure:
 
 1. **Priority stock denial** — certified seal/body allocated to a Core/Inner medical-service contract; buying priority would displace current care elsewhere.
 2. **Local remanufacture plan** — Neris/K-13 workshop can make a compatible seal/body using known materials, but needs 36–72 hours, test stand and full cleanout.
-3. **Cargo consequences** — Ardis filters/tools delay; one damaged transit habitat’s reserve falls; cargo is partly redistributed to 회랑새/another tug at fuel and schedule cost.
+3. **Cargo consequences** — Ardis filters/tools delay; one damaged transit habitat’s reserve falls; cargo is partly redistributed to 파루스/another tug at fuel and schedule cost.
 4. **Crew decision** — captain rejects operation on the cracked seal and accepts local remanufacture plus reduced later load.
 
 Decisive choice:
@@ -230,7 +230,7 @@ Hidden pressure:
 ## Scene units
 
 1. **A17 return test** — new seal/body passes full pressure cycle and cleanout; craft certified only for reduced load/inspection interval.
-2. **Cargo redistribution** — critical Ardis filters/tools divided across A17, 회랑새 and B09 tug; one lower-priority commercial/repair cargo is left behind.
+2. **Cargo redistribution** — critical Ardis filters/tools divided across A17, 파루스 and B09 tug; one lower-priority commercial/repair cargo is left behind.
 3. **Independent decisions** — each vessel master accepts or rejects assigned mass; one refuses an additional pallet despite sponsor pressure.
 4. **Convoy departure** — partial support movement resumes; held-back commercial/service recipient receives delayed compensation/alternative plan.
 

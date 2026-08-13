@@ -71,7 +71,7 @@ Thermal/maintenance consequence:
 
 ## 5. Selected Convoy
 
-### Vessel 1 — 회랑새
+### Vessel 1 — 파루스
 
 Role:
 - bounded relay/audit translation;
@@ -217,7 +217,7 @@ No named death or third worker-governance injury should be used in E201–210.
 - Silex route closes for cooling/inspection;
 - Mixed-Service Relay and OSR O1 prove bounded use but not general certification;
 - local Silex and Ardis operators retain stop and current service authority;
-- 회랑새 arrives/receives obligation at Ardis still indebted, undercrewed and technically limited;
+- 파루스 arrives/receives obligation at Ardis still indebted, undercrewed and technically limited;
 - Ardis’s 1.42m permanent + transient city/node crisis becomes immediate GA3 setting;
 - GA2 ends with access/obligation, not ownership or full restoration.
 

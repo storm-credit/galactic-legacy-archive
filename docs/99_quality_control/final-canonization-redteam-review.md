@@ -17,7 +17,7 @@ Approved as canon-lock candidates:
 - opening-cast ages and licence/rank progression.
 - core names and dialogue-question anchors.
 - Rian/Haren/Nera/Serin/Mia/Ern survival and authority endpoints.
-- 회랑새 permanent strategic-mobility loss and rescue-school fate.
+- 파루스 permanent strategic-mobility loss and rescue-school fate.
 - 07 living-use public fate.
 - Aurel’s plural successor state.
 - exact decisive episodes/scenes for M-001–M-020.
@@ -99,10 +99,10 @@ Controls:
 Required next packet:
 - Aurel embodiment timeline and final independent-person name.
 
-### S1-05. 회랑새 and 07 both survive, creating relic-preservation softness
+### S1-05. 파루스 and 07 both survive, creating relic-preservation softness
 
 Controls:
-- 회랑새 permanently loses strategic propulsion and cannot return as upgraded flagship.
+- 파루스 permanently loses strategic propulsion and cannot return as upgraded flagship.
 - 07 loses unique combat configuration and original components.
 - at least one other beloved recurring combat ship/frame must be destroyed or retired through irreversible damage.
 - final use is ordinary training/rescue, not triumphant secret rearmament.
@@ -277,7 +277,7 @@ PASS:
 PASS:
 - remains independent and politically consequential.
 
-### 회랑새/07
+### 파루스/07
 
 PASS:
 - survive through role and component transformation, not invulnerability.

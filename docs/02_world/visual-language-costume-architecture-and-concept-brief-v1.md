@@ -228,7 +228,7 @@ Visual anchors:
 - GA7–9: configuration diverges by mission and shared operators;
 - GA10: unique combat configuration removed/split; public training/rescue variants retain recognizable service geometry without personal ownership mark.
 
-## 10. 회랑새 Visual Lock
+## 10. 파루스 Visual Lock
 
 ### Hull
 
@@ -366,7 +366,7 @@ Before approving visual canon:
 Completed:
 - faction/material/silhouette vocabulary;
 - clothing and class variation;
-- major place, 07 and 회랑새 visual locks;
+- major place, 07 and 파루스 visual locks;
 - GA8–10 visual-state logic;
 - concept-brief and similarity rules.
 

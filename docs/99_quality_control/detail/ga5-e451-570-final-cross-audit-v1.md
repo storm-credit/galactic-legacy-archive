@@ -309,7 +309,7 @@ Ruling:
 
 ## 15. Hardware Continuity
 
-`회랑새`:
+`파루스`:
 - operational before GA6;
 - strategic propulsion still available;
 - no Reactor B/Bay 2/free overhaul;

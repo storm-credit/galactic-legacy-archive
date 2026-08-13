@@ -72,7 +72,7 @@ Continuing conditions:
 7. B-2 stays at verified 18% unless a later physical operation earns more.
 8. B-4 sensor/unknown limits remain in the first live window.
 9. service residency does not silently become permanent citizenship.
-10. 07/회랑새 remain supporting assets, not city/node owners.
+10. 07/파루스 remain supporting assets, not city/node owners.
 
 ## 5. Next Batch
 

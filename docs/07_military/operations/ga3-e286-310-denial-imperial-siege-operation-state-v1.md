@@ -352,9 +352,9 @@ Doman retains:
 - 4 frames;
 - direct Imperial chain.
 
-## 15. 회랑새 / 07 State
+## 15. 파루스 / 07 State
 
-회랑새:
+파루스:
 - conditional paid contractor and one mission asset;
 - no permanent base, governorship, route title or fleet command;
 - Reactor A derated;

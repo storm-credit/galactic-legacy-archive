@@ -222,7 +222,7 @@ Preserved:
 - Lin death/four ledgers;
 - Blood Admiral five layers;
 - three Serrat AI deaths;
-- `회랑새` propulsion loss;
+- `파루스` propulsion loss;
 - Vera injury/retirement;
 - Ella and Ardo deaths;
 - Ardis 73 t sealed/unused.

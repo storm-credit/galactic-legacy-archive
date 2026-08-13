@@ -29,7 +29,7 @@ Reader-facing rule:
 |---|---|---:|---:|---|---|
 | DG-CARE | Glasswater/Lentz medical-care corridor | 13 | 4 | durable treatment, caregivers, recognized care records | first transfer group departed/accepted under conditional care compact |
 | DG-ARDIS | Ardis work-residency route | 9 | 3 | employment, housing, local registration and future node-city life | convoy segment en route; residency remains conditional |
-| DG-ROUTE | Open Passage/Varka/mobile route households | 7 | 2 | mobile work, ship/route affiliation and exit flexibility | split among 회랑새 trial work and other route crews; no permanent common employer |
+| DG-ROUTE | Open Passage/Varka/mobile route households | 7 | 2 | mobile work, ship/route affiliation and exit flexibility | split among 파루스 trial work and other route crews; no permanent common employer |
 | DG-STAY | K-13 remaining group | 4 | 2 | school, ongoing claims, current care and local relationships | remains under renewed charter/local-service agreements |
 | DG-PRIVATE | private/undisclosed independent routes | 3 | 1 | identity safety, personal/family destination and nonrepresentation | departure details sealed; Haren does not retain destination authority |
 | **Total** |  | **36** | **12** |  |  |
@@ -62,8 +62,8 @@ Rights:
 - treatment does not create corporate/state ownership or permanent labor duty.
 
 Transport:
-- Neutral medical passage carries the first 13 rather than 회랑새 alone;
-- 회랑새 contributes escort, records and transfer support only where required.
+- Neutral medical passage carries the first 13 rather than 파루스 alone;
+- 파루스 contributes escort, records and transfer support only where required.
 
 ## 4. DG-ARDIS — Work and Residency
 
@@ -102,12 +102,12 @@ Composition:
 - 7 people across 2 household/care units.
 
 Initial paths:
-- 2 people qualify for bounded trial positions on 회랑새 after training/licensing;
+- 2 people qualify for bounded trial positions on 파루스 after training/licensing;
 - 2 choose other route/convoy crews rather than the protagonist ship;
 - 3 choose Open Passage/Varka mutual-aid, repair or hospitality work.
 
 Rules:
-- employment aboard 회랑새 does not make them permanent “crew family” automatically;
+- employment aboard 파루스 does not make them permanent “crew family” automatically;
 - temporary ship work can end at the next port;
 - route households retain destination and household choice;
 - no one is required to join Ern’s network or Haren’s federation.
@@ -188,13 +188,13 @@ The 36 do not travel together on one ship.
 
 Planned first movement:
 - Neutral medical passage: DG-CARE 13;
-- 회랑새/associated convoy: parts of DG-ROUTE and transfer/evidence support;
+- 파루스/associated convoy: parts of DG-ROUTE and transfer/evidence support;
 - Ardis convoy segment: DG-ARDIS 9;
 - K-13: DG-STAY 4 do not depart;
 - sealed independent transport: DG-PRIVATE 3.
 
 This prevents:
-- 회랑새 exceeding passenger/medical limits;
+- 파루스 exceeding passenger/medical limits;
 - one accident endangering all 36;
 - Haren or Rian controlling every destination;
 - community identity being equated with permanent co-location.

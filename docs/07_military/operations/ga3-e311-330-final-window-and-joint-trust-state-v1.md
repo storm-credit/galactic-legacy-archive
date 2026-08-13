@@ -44,7 +44,7 @@ Forces and authority:
 - 73 t dense defense module remains outside under no-entry/no-use custody.
 
 Ship/frame:
-- 회랑새 remains a paid conditional contractor/mission asset;
+- 파루스 remains a paid conditional contractor/mission asset;
 - Reactor A derated;
 - Reactor B isolated;
 - active Bay 2 unavailable;
@@ -315,9 +315,9 @@ Force state:
 - E330 planning local/mixed ready-cutter count: **6**, subject to ordinary mission/maintenance status;
 - Doman’s 1 cutter + 4 frames remain separate direct-Imperial assets and are not counted in the six.
 
-## 12. 회랑새 and 07 Final GA3 State
+## 12. 파루스 and 07 Final GA3 State
 
-회랑새:
+파루스:
 - completes bounded manifest/escort/evidence/repair support;
 - remains under captain and split mission/technical authority;
 - no ownership of Ardis, Trust, route or convoy;
@@ -484,7 +484,7 @@ Ardis response at E330:
 - continue services and Joint Trust;
 - preserve conditional October window;
 - refuse final accession recognition pending E331 process;
-- prepare 회랑새/evidence-courier mission under local mandate.
+- prepare 파루스/evidence-courier mission under local mandate.
 
 No protagonist chooses the sovereign at the GA3 ending.
 

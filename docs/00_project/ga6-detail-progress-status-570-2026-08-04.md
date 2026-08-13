@@ -135,7 +135,7 @@ Formal final GA6 batch:
 
 Required sequencing:
 1. E671–675 — final arrival cutoff, exact 3.44m audit, final route capacities/compatibility, executable plan choices and pre-window authority decision; no early locked death.
-2. E676–686 — exact 34-hour operation using locked minute/hour ledger, Plan M selection at E681, Ella E680, Ardo E683 and 회랑새/Vera E684 losses.
+2. E676–686 — exact 34-hour operation using locked minute/hour ledger, Plan M selection at E681, Ella E680, Ardo E683 and 파루스/Vera E684 losses.
 3. E687–690 — immediate count, holdout/captured/missing state, original-Orpheus truth confrontation and direct GA7 handoff.
 
 Required carryover:
@@ -154,7 +154,7 @@ Required carryover:
 - making Plan M guaranteed lowest-death option;
 - erasing G/State benefits;
 - converting Rian into sole manifest/command owner;
-- restoring 회랑새 strategic propulsion or curing Vera later;
+- restoring 파루스 strategic propulsion or curing Vera later;
 - erasing holdout/captured/dead/missing consequences;
 - silent use of 73 t module.
 

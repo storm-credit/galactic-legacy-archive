@@ -258,18 +258,18 @@ Date:
 - CY 743-10-10.
 
 POV:
-- Joint Trust fields, 회랑새 crew, Neutral evidence staff and potential witness custodians.
+- Joint Trust fields, 파루스 crew, Neutral evidence staff and potential witness custodians.
 
 Visible goal:
 - authorize an evidence-courier mission and the conditional October 12 window before claimant forces seize or destroy the missing proof.
 
 Hidden pressure:
-- Rian and 회랑새 are recognizable enough that any mission can be framed as Ardis choosing a claimant or exporting the Trust’s authority.
+- Rian and 파루스 are recognizable enough that any mission can be framed as Ardis choosing a claimant or exporting the Trust’s authority.
 
 ## Scene units
 
 1. **Mission object** — recover living witness if possible; preserve physical clock/ledger/drive/medical evidence; deliver split copies/custody to a neutral joint hearing; do not recognize a sovereign.
-2. **Asset scope** — 회랑새 serves as escort/workshop/evidence carrier under captain and Trust mandate; Neutral medical/evidence cutter and Ardis courier tender retain separate masters/custody.
+2. **Asset scope** — 파루스 serves as escort/workshop/evidence carrier under captain and Trust mandate; Neutral medical/evidence cutter and Ardis courier tender retain separate masters/custody.
 3. **Window recovery** — B-2 reaches verified 14%; second B-4 direct sensor passes bounded test; current physical/technical/medical fields authorize the conditional window.
 4. **Ardis mandate** — Rian receives route/flight mission scope only; Serin evidence/provenance; Mia/Neutral witness care; no claimant negotiation or final legal judgment authority.
 
@@ -303,7 +303,7 @@ Ending:
 - no claimant receives final recognition or permanent Ardis asset authority;
 - B-2 recovers to verified 14% and the second B-4 direct sensor passes;
 - the CY743-10-12 maximum-360 t conditional window is authorized by local Trust fields;
-- 회랑새/Neutral/Ardis assets receive an evidence-recovery mission with split custody.
+- 파루스/Neutral/Ardis assets receive an evidence-recovery mission with split custody.
 
 Gate candidate:
 - `PASS PENDING B04-01 CROSS-BATCH AUDIT`.

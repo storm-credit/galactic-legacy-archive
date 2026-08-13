@@ -270,7 +270,7 @@ Record destruction:
 ## 16. Permanent Asset Locks
 
 Not collected or restored:
-- `회랑새` strategic propulsion;
+- `파루스` strategic propulsion;
 - Vera Thorn’s field capacity or uninjured arm/neural state;
 - Ella Savin;
 - Ardo Rev;

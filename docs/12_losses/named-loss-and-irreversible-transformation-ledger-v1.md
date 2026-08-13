@@ -94,7 +94,7 @@ Control:
 ### L-H03 — 엘라 사빈 / Ella Savin
 
 Code:
-- MED-001, licensed medical officer aboard/alongside 회랑새.
+- MED-001, licensed medical officer aboard/alongside 파루스.
 
 Introduction:
 - Episodes 108–115.
@@ -198,7 +198,7 @@ Control:
 ### L-T01 — 베라 토른 / Vera Thorn
 
 Event:
-- Episode **684**, Orpheus Grey-route/회랑새 damage sequence.
+- Episode **684**, Orpheus Grey-route/파루스 damage sequence.
 
 Injury:
 - severe left-arm and peripheral neural injury plus radiation/thermal exposure while isolating the ship’s common coolant trunk and enabling the drive-truss sacrifice.
@@ -212,13 +212,13 @@ Agency:
 - chooses the isolation sequence and trains others during the operation.
 
 Later role:
-- engineering safety examiner, instructor and board member at 회랑새 항로학교.
+- engineering safety examiner, instructor and board member at 파루스 항로학교.
 - she is not “fixed” into previous capacity.
 
 Institutional consequence:
 - maintenance procedures must be teachable/shared rather than dependent on her hands.
 
-### L-T02 — 회랑새 / NR72-118
+### L-T02 — 파루스 / NR72-118
 
 Event:
 - Episode **684**.
@@ -427,7 +427,7 @@ Survives as independent person-state because:
 PASS for:
 - five named human deaths.
 - Vera’s permanent injury/role change.
-- 회랑새/07 irreversible transformation.
+- 파루스/07 irreversible transformation.
 - Ardo flagship, medical carrier and escort-formation losses.
 - Nacre-3 and LIV-4 permanent record/person loss.
 

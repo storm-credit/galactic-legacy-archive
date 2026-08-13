@@ -15,7 +15,7 @@ Date:
 Arrivals:
 - Neutral medical/rescue auxiliary;
 - Ardis cargo/service carrier;
-- 회랑새;
+- 파루스;
 - 9 DG-ARDIS travellers;
 - critical but incomplete cargo/records;
 - Silex route closed.
@@ -43,14 +43,14 @@ Visible goal:
 - recover three arrivals without collapsing the existing queue or recovery cooling.
 
 Hidden pressure:
-- outside sponsors expect 회랑새 and its cargo to receive priority because it opened the Silex window.
+- outside sponsors expect 파루스 and its cargo to receive priority because it opened the Silex window.
 
 ## Scene units
 
 1. **Current queue** — two local medical/cargo craft and one repair tender already await recovery; each has a current service claim.
-2. **Arrival sequencing** — Toma’s shift places the Neutral medical auxiliary first, Ardis carrier second, 회랑새 third and holds another local commercial craft.
+2. **Arrival sequencing** — Toma’s shift places the Neutral medical auxiliary first, Ardis carrier second, 파루스 third and holds another local commercial craft.
 3. **Recovery limit** — cooling/recovery draw exceeds forecast; one berth cannot accept full service and another ship must stay on independent support.
-4. **No welcome berth** — 회랑새 receives emergency recovery and a temporary holding point, not a free repaired dock.
+4. **No welcome berth** — 파루스 receives emergency recovery and a temporary holding point, not a free repaired dock.
 
 Decisive choice:
 - Toma preserves current medical/local traffic order and makes the arriving “hero ship” wait for full service.
@@ -59,7 +59,7 @@ Reward:
 - three Silex arrivals recovered without collision/cooling cascade.
 
 Cost:
-- one local commercial/worker cargo movement delayed and 회랑새 begins paying holding/service charges immediately.
+- one local commercial/worker cargo movement delayed and 파루스 begins paying holding/service charges immediately.
 
 Relationship state:
 - Ardis’s first decisive actor is local and can deny Rian/Maren priority.
@@ -176,7 +176,7 @@ Relationship state:
 - arrivals begin becoming local residents/workers, not protagonist passengers.
 
 Hook:
-- 회랑새’s temporary holding fee and required repair estimate exceed the ship’s available discretionary funds within four days.
+- 파루스’s temporary holding fee and required repair estimate exceed the ship’s available discretionary funds within four days.
 
 ---
 
@@ -197,7 +197,7 @@ Hidden pressure:
 ## Scene units
 
 1. **Current estimate** — holding, air/water, waste, crew services, radiator/drive/07 inspection and security/data audit exceed immediate discretionary funds.
-2. **City cost** — Ardis yards/workers already serve local hulls, hospitals and infrastructure; moving 회랑새 forward delays someone else.
+2. **City cost** — Ardis yards/workers already serve local hulls, hospitals and infrastructure; moving 파루스 forward delays someone else.
 3. **Offers** — Helix/creditor priority repair tied to lien/control; Imperial protected berth tied to classified mission access; local service contract tied to actual city work.
 4. **Conditional berth** — 12-day paid/offset berth with crew wage floor and no free full overhaul; extension depends on current service performance and city vote.
 
@@ -296,7 +296,7 @@ Date:
 - CY 742-10-27.
 
 POV:
-- local trial participants and 회랑새 contract parties.
+- local trial participants and 파루스 contract parties.
 
 Visible goal:
 - define the 30-day bounded service experiment before the Garden–Transit movement begins.
@@ -306,7 +306,7 @@ Hidden pressure:
 
 ## Scene units
 
-1. **Trial scope** — one Garden–Transit transfer chain; one Anchor state board; one Foundry parts line; current identity/pay and user/worker stops; 회랑새/07 support.
+1. **Trial scope** — one Garden–Transit transfer chain; one Anchor state board; one Foundry parts line; current identity/pay and user/worker stops; 파루스/07 support.
 2. **Boundaries** — no city sovereignty, permanent keys, free ship repair, automatic route priority or full data centralization.
 3. **Resources** — conditional berth/service offset, local labor wages, cargo/food allocation and bounded external technical participation.
 4. **External alternatives** — creditor payroll/priority offer, Helix certified restoration package and Imperial protected command remain available and materially attractive.
@@ -340,7 +340,7 @@ Ending:
 - local Anchor operator Toma Cal and constituencies define current priorities;
 - cooling package allocated with visible tradeoff;
 - all 9 arrivals receive split local paths;
-- 회랑새 obtains paid conditional berth, not free repair;
+- 파루스 obtains paid conditional berth, not free repair;
 - six city failures are embodied through current services;
 - worker technical stop gains one bounded test authority;
 - 30-day Joint Service Trial signed for one Garden–Transit cross-zone chain.

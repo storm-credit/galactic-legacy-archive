@@ -281,9 +281,9 @@ Current warning:
 - route, rescue, medical and ammunition capacity cannot serve all priority groups simultaneously;
 - potential windows are physically and legally incompatible.
 
-## 13. `회랑새` and `07호`
+## 13. `파루스` and `07호`
 
-`회랑새`:
+`파루스`:
 - operational route/support hull;
 - repair/debt limited;
 - strategic propulsion still available before GA6 loss;

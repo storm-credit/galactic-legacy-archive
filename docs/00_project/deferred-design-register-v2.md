@@ -205,7 +205,7 @@ Status:
 - actual image assets `OPEN VISUAL PRODUCTION`.
 
 Resolved:
-- materials, silhouettes, clothing, class variation, 07, 회랑새, K-13, Ardis, Palimpsest, Preservation and GA10 transition visual logic.
+- materials, silhouettes, clothing, class variation, 07, 파루스, K-13, Ardis, Palimpsest, Preservation and GA10 transition visual logic.
 
 Open:
 - orthographic drawings;

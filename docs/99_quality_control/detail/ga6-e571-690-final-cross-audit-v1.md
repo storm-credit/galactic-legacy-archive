@@ -165,7 +165,7 @@ Small craft:
 - 49 lost +63 damaged +199 operational = 311.
 
 Ruling:
-- `보루의 맹세` and `회랑새` states fit the categories;
+- `보루의 맹세` and `파루스` states fit the categories;
 - no later fleet count is invented inside GA6.
 
 ## 9. Named-Loss Audit
@@ -181,7 +181,7 @@ Ardo Rev:
 - permanent death and `보루의 맹세` loss;
 - Iven inherits bounded formation only.
 
-`회랑새`/Vera:
+`파루스`/Vera:
 - E684 /09:10;
 - strategic propulsion permanently lost;
 - Vera permanent arm/nerve injury and active-chief retirement.
@@ -269,7 +269,7 @@ Not prematurely resolved:
 
 ## 15. Hardware/Long-Range Continuity
 
-`회랑새`:
+`파루스`:
 - fixed/towed future only;
 - no strategic-drive restoration.
 
