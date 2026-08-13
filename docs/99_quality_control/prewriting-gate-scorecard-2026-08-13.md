@@ -50,7 +50,7 @@ BLOCKER 2건과 FAIL 6건 중 5건이 전부 **§3 Project & Market**이다. 픽
 |---|---|---|
 | **BLOCKER** 한 줄 소개 확정 | **PASS** | [[project-charter]] §0.1 — 4안 비교 후 B 채택, 문서 CANON 승격 (2026-08-13) |
 | **BLOCKER** 핵심 독자·장르 약속 확정 | **PASS** | [[project-charter]] §0.2 — 주·부·확장 독자 구분, 장르 약속 6개 조항 |
-| 공모전 일정·분량·독점·AI 규정 확인 | **PARTIAL** | 확인 주체가 작가이며 저장소 밖 정보다. [[project-charter]] §0.4에 항목별 가정·근거·어긋났을 때의 영향·완화책·해결 시점을 기록. AI 사용 규정이 최대 위험으로 표시됨 |
+| 공모전 일정·분량·독점·AI 규정 확인 | **PASS** (2026-08-14) | 작가가 요강·FAQ를 확인. [[project-charter]] §0.4에 전수 기록. AI 규정은 **존재하지 않음**이 확인됐다 — 불명이 아니라 부재다. 이전 판정: [[project-charter]] §0.4에 항목별 가정·근거·어긋났을 때의 영향·완화책·해결 시점을 기록. AI 사용 규정이 최대 위험으로 표시됨 |
 | 한국 웹소설 참고작 분석 완료 | **PASS** | [[reference-structure-analysis-v1]] ⚠자기인증 — 회귀물 1화 구조, 수집 보상 주기, 회차 길이·호흡, 유사성 분리선 |
 | 해외 SF·메카 참고작 분석 완료 | **PASS** | [[reference-structure-analysis-v1]] ⚠자기인증 §3–§4 — 에이스 경제, 메카·함대 병존 3해법. 형태 문법은 [[maneuver-frame-lineup-master-architecture-v1]] §12 |
 | 유사성 위험·차별화 전략 문서화 | **PASS** | [[maneuver-frame-lineup-master-architecture-v1]] §12 고유성 게이트, [[mecha-lineage-mark-and-evolution-naming-system-v1]] §9 하드 리젝트 목록 |

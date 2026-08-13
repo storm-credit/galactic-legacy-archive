@@ -94,6 +94,7 @@ Prohibited:
 | 오르페우스 | GA6 operation/crisis | ships or weapons using same mythic name prohibited |
 | 아우렐 | service/continuity architecture | 아렐 계열 generated systems remain author-side |
 | 파루스 | GA2+ 첫 독립임무선 통칭 (`NR72-118`) | 폐기명 `회랑새` 재사용 금지; 라틴 어근이지만 제국 함선 의미장과 구분 |
+| 아르젠 | 국호이자 왕가 성 | 폐기명 `은하제국` 재사용 금지; 인물 `엘리안 아르젠`과 같은 성이므로 문맥이 국가/인물을 구별해야 한다 |
 
 ## 6. Atlas Name Visibility
 

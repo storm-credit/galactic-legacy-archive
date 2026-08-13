@@ -57,6 +57,7 @@ RETIRED_NAMES = [
     ("Rian Cardo", "Rian Calder", "P-001 rename, canonical-name-errata-005 / PR #99"),
     ("회랑새", "파루스", "first-ship rename, decision-log D-20260813-02"),
     ("Corridor Wren", "Parus", "first-ship rename, decision-log D-20260813-02"),
+    ("은하제국", "아르젠 제국", "polity naming, decision-log D-20260814-03"),
 ]
 
 # Documents that are allowed to contain retired names, because their purpose is
