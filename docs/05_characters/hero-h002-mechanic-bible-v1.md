@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: C02 Hero Roster / C04 Relationship / C06 Voice / H01 Mecha Engineering / H04 Manufacturing-Maintenance / P02 Political Economy
 Last Reviewed: 2026-08-03
-Depends On: academy bible, collection bible, Helix faction bible
+Depends On: [[prison-military-academy-bible-v1]], collection bible, Helix faction bible
 Used By: First frame restoration, industrial arc, open-standard technology arc
 Open Risks: Support-character reduction, implausible teenage expertise, “genius mechanic” cliché
 

@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: C01 Protagonist / C04 Relationship / C05 Psychology-Leadership / C06 Voice / M04 Mecha Tactics / N04 Choice-Causality
 Last Reviewed: 2026-08-03
-Depends On: canon core packet, original timeline, academy bible
+Depends On: [[canon-core-packet-v1]], [[original-timeline-v1]], [[prison-military-academy-bible-v1]]
 Used By: Macroplot, episode design, dialogue, battle, relationship arcs
 Open Risks: Overcompetence, excessive guilt, admiral voice in teenage body, role monopoly
 

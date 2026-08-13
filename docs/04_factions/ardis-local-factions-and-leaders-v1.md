@@ -3,8 +3,8 @@
 Status: REVIEW
 Owner Agents: P01 Politics / P02 Political Economy / P06 Faction Systems / P07 Opposition / P08 Third Powers / C03 Antagonists / N08 Faction Arcs
 Last Reviewed: 2026-08-03
-Depends On: Ardis node-city bible, GA2 regional force table, initial five-faction bible
-Used By: Episodes 211–330, local clocks, character arcs, siege and joint-trust design
+Depends On: [[ardis-node-city-bible-v1]], [[ga2-regional-force-and-clock-table-v1]], [[initial-five-faction-bible-v1]]
+Used By: [[ga3-episodes-211-330-act-map-v1]], local clocks, character arcs, siege and joint-trust design
 Open Risks: Final names/cultures and interpersonal ties remain provisional; seven groups may require scene consolidation
 
 ## 1. Design Rule

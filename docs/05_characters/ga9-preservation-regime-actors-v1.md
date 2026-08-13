@@ -4,7 +4,7 @@ Status: REVIEW
 Owner Agents: C02 Ensemble / C03 Rival / C05 Psychology / C06 Voice / P06 Faction Systems / P09 Institutions / N08 Faction Arcs
 Last Reviewed: 2026-08-03
 Depends On: preservation-regime bible, A-001, GA8 record factions, P-001 corrective position
-Used By: Episodes 901–1000, regime expansion, resistance and central-key climax
+Used By: [[ga9-episodes-901-1000-act-map-v1]], regime expansion, resistance and central-key climax
 Open Risks: final names/cultures/genders open; role consolidation with existing representatives required
 
 ## 1. Front-Stage Rule

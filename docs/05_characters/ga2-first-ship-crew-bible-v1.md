@@ -3,8 +3,8 @@
 Status: REVIEW
 Owner Agents: C02 Ensemble / M03 Fleet Operations / M05 Logistics / H04 Maintenance / P03 Maritime/Contract Law / C06 Voice / N08 Faction Arcs
 Last Reviewed: 2026-08-03
-Depends On: first ship bible, opening cast, academy charter, Neutral/Helix/Imperial representatives
-Used By: Episodes 101–210, shipboard scenes, command conflicts, GA5 fleet lineage
+Depends On: [[first-ship-bible-v1]], opening cast, academy charter, Neutral/Helix/Imperial representatives
+Used By: [[ga2-episodes-101-210-act-map-v1]], shipboard scenes, command conflicts, GA5 fleet lineage
 Open Risks: Cast inflation, captain/P-001 overlap, provisional names/cultures, too many vetoes slowing plot
 
 ## 1. Operating Principle

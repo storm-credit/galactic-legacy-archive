@@ -3,8 +3,8 @@
 Status: REVIEW
 Owner Agents: P01 Politics / P03 Law / P06 Faction Systems / P07 Opposition / P08 Third Powers / P10 Ideology / C03 Rivals / T04 AI
 Last Reviewed: 2026-08-03
-Depends On: Archive sites/Seed architecture, Blood Admiral decomposition, Continuity Office, plural evidence systems
-Used By: Episodes 801–900, Archive-right conflicts, Seed activation and GA9 transition
+Depends On: Archive sites/Seed architecture, [[blood-admiral-identity-decomposition-v1]], Continuity Office, plural evidence systems
+Used By: [[ga8-episodes-801-900-act-map-v1]], Archive-right conflicts, Seed activation and GA9 transition
 Open Risks: too many abstract factions, final names/cultures and representative consolidation
 
 ## 1. Design Rule

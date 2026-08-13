@@ -3,8 +3,8 @@
 Status: REVIEW
 Owner Agents: C02 Ensemble / C03 Rival / C05 Psychology / C06 Voice / P06 Faction Systems / P08 Third Powers / N08 Faction Arcs
 Last Reviewed: 2026-08-03
-Depends On: route federation/denial bible, Blood Admiral decomposition, H-001 bible, Continuity Custodian
-Used By: Episodes 691–800, doctrine conflicts, denial incident, GA8 record war
+Depends On: route federation/denial bible, [[blood-admiral-identity-decomposition-v1]], [[hero-h001-bible-v1]], Continuity Custodian
+Used By: [[ga7-episodes-691-800-act-map-v1]], doctrine conflicts, denial incident, GA8 record war
 Open Risks: final names/cultures/genders open; some roles may merge with existing FC/E-001 actors
 
 ## 1. Front-Stage Rule

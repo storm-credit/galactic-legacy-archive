@@ -3,7 +3,7 @@
 Status: REVIEW — WORKING CANON
 Owner Agents: C02 Ensemble / C04 Relationships / W06 Ordinary Life / P04 Family-Class / X03 Ethics / N08 Faction Arcs
 Last Reviewed: 2026-08-03
-Depends On: later-act officeholder ledger, society/culture bibles, named-loss ledger, GA4–GA10 architecture
+Depends On: [[later-act-officeholders-and-succession-ledger-v1]], society/culture bibles, [[named-loss-and-irreversible-transformation-ledger-v1]], GA4–GA10 architecture
 Used By: GA4–GA10 local stakes, beneficiary/harmed-party representation, cultural scenes and aftermath
 Open Risks: cast density, exact first-appearance episodes, some regional assignments may shift
 
