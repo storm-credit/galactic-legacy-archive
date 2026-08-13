@@ -23,7 +23,7 @@ Open Risks: 생태계가 6개로 밴드 10–12에 미달하며 추가는 작가
 |---|---:|---|---|
 | 핵심 생태계 | **6** | 10–12 | **미달. 작가 결정 사항** |
 | 내부 블록 | **24** | 32–44 | **미달** |
-| 지속 조직 | 미등록 | 68–82 | 대액트별 표에 산재 |
+| 지속 조직 | **13** | 68–82 | GA8 기록전 6 + 아르디스 7. 나머지는 대액트별 표에 산재 |
 | 일시 연합 | 미등록 | 10–16 | 미설계 |
 
 **미달을 메우지 않았다.** 생태계를 4~6개 더 만드는 것은 작가 결정이며, §15-6에 따라 승인 없이 밀어붙이지 않는다. 밴드는 감사의 제안이지 채워야 할 할당량이 아니다.
@@ -36,7 +36,7 @@ Open Risks: 생태계가 6개로 밴드 10–12에 미달하며 추가는 작가
 
 그리고 **편성은 조직이 아니다.** 감사가 "38개 편성은 분리되어야 한다"고 못 박았다. `FLT-01`~`FLT-07`은 [[named-hull-registry-and-naming-grammar-v1]]가 다루고 여기서 세지 않는다.
 
-## 2. Registry — 6 Ecosystems, 24 Blocs
+## 2. Registry — 6 Ecosystems, 24 Blocs, 13 Persistent Organisations
 
 ### 2.1 FCT-01 — 제13 교정군사학원 운영국
 
@@ -100,6 +100,32 @@ Open Risks: 생태계가 6개로 밴드 10–12에 미달하며 추가는 작가
 
 `FCT-06`은 생태계 계수에 들어가지만 **하나의 조직으로 취급하지 않는다.** 대표자와 협약이 성립하지 않는 것이 이 층의 성질이다.
 
+
+### 2.7 GA8 기록전 세력 (6)
+
+| ID | 조직 | 이 조직이 원하는 것 | 정본 출처 | 상태 |
+|---|---|---|---|---|
+| `REC-F01` | Continuity Authentication Directorate | 기록의 진위를 인증할 권한 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
+| `REC-F02` | Plural Archive Coalition | 복수의 기록이 공존할 권리 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
+| `REC-F03` | Restoration Truth Assembly | 지워진 진실의 복원 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
+| `REC-F04` | Right-to-Forget / Liberation Network | 잊힐 권리와 해방 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
+| `REC-F05` | AI and Composite Persons Compact | AI·복합 인격의 인격권 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
+| `REC-F06` | State/Helix Operational Records Alliance | 운영 기록의 국가·기업 통제 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
+
+### 2.8 아르디스 지역 세력 (7)
+
+| ID | 조직 | 이 조직이 원하는 것 | 정본 출처 | 상태 |
+|---|---|---|---|---|
+| `AR-F01` | Civic Continuity Council | 도시 서비스의 연속성 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
+| `AR-F02` | Foundry Workers’ Compact | 노동자의 몫과 안전 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
+| `AR-F03` | Node Custodian College | 노드 관리 권한의 유지 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
+| `AR-F04` | Transit and Unregistered Residents’ Assembly | 미등록 주민의 존재 인정 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
+| `AR-F05` | Ardis Federalist / Independence Coalition | 아르디스의 독립 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
+| `AR-F06` | Helix–Creditor Recovery Authority | 채권 회수 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
+| `AR-F07` | Local Defense Command | 지역 방위의 자율성 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
+
+이 13개는 대액트 범위의 **지속 조직**이며 시리즈 핵심 생태계 계수(§1.2)에 더하지 않는다. 생태계는 1000화 전체를 관통하는 축이고, 이들은 자기 대액트 안에서 살고 죽는다.
+
 ## 3. Relationship Ladder
 
 세력은 상태가 아니라 **관계의 단계**로 진행한다. 수집 등록표의 상태 코드(`T`→`I`→`C`→`G`→`L`→`R`)를 세력에 맞게 읽는다.
@@ -137,11 +163,11 @@ Open Risks: 생태계가 6개로 밴드 10–12에 미달하며 추가는 작가
 ## 6. Open Decisions
 
 1. **생태계 6 → 10–12, 블록 24 → 32–44** — 둘 다 밴드 미달. 추가 여부와 정체는 작가 결정이며 [[decision-log]]에 남겨야 한다. 초안이 블록을 28로 적었으나 실제 계수는 24다 (FCT-01·02·03·05 각 5, FCT-04 4).
-2. **지속 조직 68–82** — 대액트별 표에 산재. 별도 등록 여부 미정.
+2. **지속 조직 13 → 68–82** — GA8·아르디스는 등록했다. GA7 항로연합, GA9 보존체제, GA10 이양기는 지도자 역할로만 존재하고 조직 이름이 없어 아직 등록하지 못한다.
 3. **C6 기술과의 경계** — 공유 정비 위원회·의료 공유재 같은 항목은 제도지 기술이 아니다. 분야 태그 규칙이 이를 반영해야 한다.
 
 ## 7. Gate
 
-- 정본 승격 조건: 작가 승인. 다만 §2의 30개 항목은 이미 정본이며 이 문서는 그 정렬이다.
+- 정본 승격 조건: 작가 승인. 다만 §2의 43개 항목은 **전부 이미 정본**이며 이 문서는 그 정렬이다.
 - 조직·구성원을 자산으로 계산하지 않는다.
 - 편성(`FLT-*`)을 조직으로 세지 않는다.

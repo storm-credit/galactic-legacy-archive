@@ -214,6 +214,7 @@ python tools/validate_canon.py
 | C5 | 원고 헤더 스키마가 v2 규격이다 (v1 구초안은 이관 대상으로 표시) | WARN |
 | C6 | 엔티티 노트가 허브 규율을 지킨다 (배너·60줄 상한·정본 링크·독자 노출 상한 절) | ERROR |
 | C7 | 등록부 행이 주장하는 대액트가 실존 액트맵으로 해석된다 | ERROR |
+| C8 | 등록부가 자기 항목 수를 정확히 말한다 (`등록 불가` 표시 행은 제외) | ERROR |
 
 규칙:
 
@@ -289,6 +290,15 @@ python tools/build_index.py --check  # 낡았으면 실패 (CI가 실행)
 python tools/build_catalog.py          # 카탈로그 생성
 python tools/build_catalog.py --check  # 낡았으면 실패 (CI가 실행)
 ```
+
+612성계 인구조사도 같은 방식으로 생성한다. 아틀라스가 총계를 잠그고 스크립트가 행을 편다.
+
+```bash
+python tools/build_census.py           # 인구조사 생성
+python tools/build_census.py --check   # 낡았으면 실패 (CI가 실행)
+```
+
+스크립트는 매 실행마다 자기 상수가 아틀라스와 일치하는지 먼저 검증한다. 아틀라스를 고치고 스크립트를 안 고치면 즉시 실패한다.
 
 - 생성물은 [[CATALOG]]과 `docs/_catalog/` 4개 노트다. **직접 편집하지 않는다** — 다음 실행이 덮어쓴다.
 - 읽는 원본은 기계가 읽을 수 있는 것뿐이다 — 기체 CSV, 함선 등록표, 이름 잠금, 대액트별 수집 등록표.
