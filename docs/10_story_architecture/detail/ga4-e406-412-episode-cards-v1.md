@@ -4,7 +4,7 @@ Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C01 Character / C02 Ensemble / C04 Relationships / P01 Politics / P02 Economy / P03 Law / P04 Care / P06 Factions / T07 Networks / M01 Strategy / M03 Fleet / M05 Logistics / M07 Command / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
 Depends On: E405 parallel-governance ruling, seven-field pilot and Single Emergency Sovereign Petition
-Used By: E413–430 cards, sovereign-reference compact state and B04-04 audit
+Used By: [[ga4-e413-420-episode-cards-v1]], [[ga4-e421-430-episode-cards-v1]], sovereign-reference compact state and B04-04 audit
 Open Risks: the sovereign slot remains vacant and cannot become accession in this batch
 
 ## Shared Draft State

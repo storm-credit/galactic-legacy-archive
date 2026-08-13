@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C02 Ensemble / C04 Relationships / P01 Politics / P02 Economy / P03 Law / P04 Care / P06 Factions / T02 Navigation / T03 Habitat Systems / H02 Ship / H04 Maintenance / M03 Fleet / M05 Logistics / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: GA3 opening Ardis state, E201–210 cards, Ardis city/node/faction bibles
-Used By: E219–235 cards, arrival/service state and B03-01 audit
+Depends On: GA3 opening Ardis state, [[ga2-e201-210-episode-cards-v1]], Ardis city/node/faction bibles
+Used By: [[ga3-e219-226-episode-cards-v1]], [[ga3-e227-235-episode-cards-v1]], arrival/service state and B03-01 audit
 Open Risks: local office titles remain subordinate to existing Ardis faction bible terminology
 
 ## Shared Opening State

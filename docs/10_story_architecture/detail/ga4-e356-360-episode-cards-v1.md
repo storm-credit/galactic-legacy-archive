@@ -4,7 +4,7 @@ Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C01 Character / C02 Ensemble / P01 Politics / P02 Economy / P03 Law / P04 Care / P06 Factions / T07 Networks / M06 Intelligence / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
 Depends On: E354–355 hearing opening, six-protocol state and four claimant function tests
-Used By: E361–380 cards, interim continuity order and B04-02 audit
+Used By: [[ga4-e361-368-episode-cards-v1]], [[ga4-e369-376-episode-cards-v1]], [[ga4-e377-380-episode-cards-v1]], interim continuity order and B04-02 audit
 Open Risks: the order is nonaccession and must not become a final sovereign compact
 
 ## Shared State

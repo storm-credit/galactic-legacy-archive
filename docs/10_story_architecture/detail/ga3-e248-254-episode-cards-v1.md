@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C02 Ensemble / C04 Relationships / P01 Politics / P02 Economy / P03 Law / P04 Care / P05 Culture / P06 Factions / T03 Habitat Systems / T07 Networks / M05 Logistics / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E241–247 cards, 640-person pilot, Transit fire and essential-production protocol
-Used By: E255–260 cards, service-residency state, B-3 authentication crisis and B03-02 audit
+Depends On: [[ga3-e241-247-episode-cards-v1]], 640-person pilot, Transit fire and essential-production protocol
+Used By: [[ga3-e255-260-episode-cards-v1]], service-residency state, B-3 authentication crisis and B03-02 audit
 Open Risks: permanent citizenship and city constitution remain outside this batch
 
 ## Shared Starting State

@@ -3,8 +3,8 @@
 Status: REVIEW — SCENE-CARD LEVEL
 Owner Agents: N03 Episode / N04 Causality / P01 Politics / P02 Political Economy / P03 Law / C02 Ensemble / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: E73–78 cards, takeover packages, preference representatives, secret transfer
-Used By: E85–100 cards, siege alignments, charter terms
+Depends On: [[ga1-episodes-73-78-scene-cards-v1]], takeover packages, preference representatives, secret transfer
+Used By: [[ga1-episodes-85-92-scene-cards-v1]], [[ga1-episodes-93-100-scene-cards-v1]], siege alignments, charter terms
 Open Risks: final representatives’ office names and exact transfer scheduling remain adjustable
 
 ## Shared State at E79 Start

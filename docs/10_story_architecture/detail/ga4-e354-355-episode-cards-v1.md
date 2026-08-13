@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C01 Character / C02 Ensemble / P01 Politics / P03 Law / P04 Care / P06 Factions / T07 Networks / M06 Intelligence / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E338–353 evidence/function tests, four claimant offices and GA4 act map
+Depends On: E338–353 evidence/function tests, four claimant offices and [[ga4-episodes-331-450-act-map-v1]]
 Used By: E356–360 hearing continuation, B04-01 state and audit
 Open Risks: Act 4A hearing must not conclude before the next batch
 

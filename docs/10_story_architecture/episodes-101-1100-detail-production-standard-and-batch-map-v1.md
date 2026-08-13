@@ -3,7 +3,7 @@
 Status: CANON PROJECT CONTROL — DESIGN PRODUCTION STANDARD
 Owner Agents: A00 PM / N02 Act Architecture / N03 Episode Structure / N04 Causality / N05 Mystery / N06 Payoff / N07 Retention / N08 Faction Arcs / O01 Canon / O02 Gates / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: GA2–GA10 act maps, operational-state ledgers, census, economy, military, collection, mystery and character bibles
+Depends On: GA2–[[ga10-episodes-1001-1100-act-map-v1]]s, operational-state ledgers, census, economy, military, collection, mystery and character bibles
 Used By: all future detailed scene-card production after Episode 100
 Open Risks: this file defines production and sequence; it does not itself claim the 1,000 episode cards are complete
 

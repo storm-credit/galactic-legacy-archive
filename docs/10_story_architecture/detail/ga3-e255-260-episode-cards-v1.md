@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C02 Ensemble / C04 Relationships / P01 Politics / P02 Economy / P03 Law / P06 Factions / T02 Navigation / T03 Habitat Systems / T07 Networks / H02 Ship / H03 Sensors / H04 Maintenance / H06 Damage / M02 Operational Art / M03 Fleet / M05 Logistics / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E248–254 cards, Spine B damage map, B-3 duplicate-identity incident and essential-production protocol
-Used By: E261–270 cards, Spine B restoration state, thermal allocation and B03-02 audit
+Depends On: [[ga3-e248-254-episode-cards-v1]], Spine B damage map, B-3 duplicate-identity incident and essential-production protocol
+Used By: [[ga3-e261-263-episode-cards-v1]], [[ga3-e264-270-episode-cards-v1]], Spine B restoration state, thermal allocation and B03-02 audit
 Open Risks: first cargo/medical window and incoming external agents belong to E261–263
 
 ## Shared Starting State

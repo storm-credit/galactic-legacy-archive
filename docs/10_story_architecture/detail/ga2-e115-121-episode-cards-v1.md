@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / H02 Ship / H04 Maintenance / H05 Medical / T02 Navigation / T03 Life Support / T06 Mecha / M03 Fleet / M05 Logistics / P02 Economy / P03 Law / G04 Reward / G05 Power Creep / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: E108–114 cards, opening ship finance/state, first-ship bible, weapons calibration, crew minimum errata
-Used By: E122–125 cards, first-voyage operation state and B02-01 audit
+Depends On: [[ga2-e108-114-episode-cards-v1]], opening ship finance/state, first-ship bible, weapons calibration, crew minimum errata
+Used By: [[ga2-e122-125-episode-cards-v1]], first-voyage operation state and B02-01 audit
 Open Risks: exact component serials remain author-side until ghost-parts provenance becomes front-stage
 
 ## Shared Opening State

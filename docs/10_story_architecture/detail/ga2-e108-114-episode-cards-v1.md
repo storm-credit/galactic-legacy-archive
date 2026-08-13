@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / C01–C06 Character / M03 Fleet / M05 Logistics / P02 Economy / P03 Law / H02 Ship / H04 Maintenance / H05 Medical / T02 Navigation / T07 Data / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: E101–107 cards, crew minimum errata 003, opening ship finance/state, canonical names/voice lock
-Used By: E115–121 cards, provisional ship charter, crew and watch ledgers
+Depends On: [[ga2-e101-107-episode-cards-v1]], crew minimum errata 003, opening ship finance/state, canonical names/voice lock
+Used By: [[ga2-e115-121-episode-cards-v1]], provisional ship charter, crew and watch ledgers
 Open Risks: background crew names remain off-stage until functionally needed
 
 ## Shared Opening State

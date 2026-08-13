@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C02 Ensemble / C04 Relationships / P01 Politics / P02 Economy / P03 Law / P04 Care / P05 Culture / P06 Factions / T02 Navigation / T03 Habitat Systems / T07 Networks / H04 Maintenance / M03 Fleet / M05 Logistics / M06 Intelligence / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E261–263 cards, 412 t inbound manifest, service-residency and Foundry protocols
-Used By: E271–285 cards, provisional representation and allocation state
+Depends On: [[ga3-e261-263-episode-cards-v1]], 412 t inbound manifest, service-residency and Foundry protocols
+Used By: [[ga3-e271-277-episode-cards-v1]], [[ga3-e278-285-episode-cards-v1]], provisional representation and allocation state
 Open Risks: permanent assembly/constitution remains outside this batch
 
 ## Shared Starting State

@@ -3,7 +3,7 @@
 Status: REVIEW — ACTION EXECUTION LOCK
 Owner Agents: M04 Frame Tactics / H06 Combat Physics / T03 Habitat / N03 Episode / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: Academy/White Dock map, E21–24 scene cards, 07 state, White Dock focals
+Depends On: Academy/White Dock map, [[ga1-episodes-21-26-scene-cards-v1]], 07 state, White Dock focals
 Used By: action prose, choreography review, human spatial test, continuity audit
 Open Risks: final frame silhouettes and exact acceleration values remain prose-level variables
 

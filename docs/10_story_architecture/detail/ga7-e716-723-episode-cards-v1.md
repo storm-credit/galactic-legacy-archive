@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N05 Mystery-Payoff / P03 Law / P06 Factions / M06 Intelligence / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E691–715 route table/signature trigger, Haren D4 canon and GA7 act map
+Depends On: E691–715 route table/signature trigger, Haren D4 canon and [[ga7-episodes-691-800-act-map-v1]]
 Used By: E724–745 attribution investigation and B07-02 audit
 
 ## Shared Investigation State

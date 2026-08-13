@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / C02 Ensemble / P03 Law / P04 Care / M05 Logistics / M07 Evacuation / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E571–595 common facts, GA6 act map and Orpheus actor bibles
+Depends On: E571–595 common facts, [[ga6-episodes-571-690-act-map-v1]] and Orpheus actor bibles
 Used By: E604–620, manifest state and B06-02 audit
 
 ## Shared Starting State

@@ -3,8 +3,8 @@
 Status: REVIEW — SCENE-CARD LEVEL
 Owner Agents: N03 Episode / N04 Causality / M04 Frame Tactics / C02 Ensemble / L02 POV / G04 Reward / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: E16–20 scene cards, White Dock operation state, E-001 bible, Academy/07 state
-Used By: non-canon action tests, later manuscript authorization, E27–45 cards
+Depends On: [[ga1-episodes-16-20-scene-cards-v1]], White Dock operation state, E-001 bible, Academy/07 state
+Used By: non-canon action tests, later manuscript authorization, [[ga1-episodes-27-32-scene-cards-v1]], [[ga1-episodes-33-38-scene-cards-v1]], [[ga1-episodes-39-45-scene-cards-v1]]
 Open Risks: minor casualty names and hostile support-frame details remain open; human/mobile battle readability pending
 
 ## Shared State at E21 Start

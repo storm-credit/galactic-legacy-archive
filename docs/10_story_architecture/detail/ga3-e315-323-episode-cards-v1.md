@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C02 Ensemble / C04 Relationships / P01 Politics / P02 Economy / P03 Law / P04 Care / P06 Factions / T02 Navigation / T03 Habitat Systems / T07 Networks / H02–H06 / M01–M08 / X01–X04
 Last Reviewed: 2026-08-04
-Depends On: E311–314 cards, corrected chronology, Three-Spine Window Compact and GA3 act map
-Used By: E324–330 cards, GA3 final operation/charter state and completion audit
+Depends On: [[ga3-e311-314-episode-cards-v1]], corrected chronology, Three-Spine Window Compact and [[ga3-episodes-211-330-act-map-v1]]
+Used By: [[ga3-e324-330-episode-cards-v1]], GA3 final operation/charter state and completion audit
 Open Risks: permanent post-GA3 route schedule remains future work
 
 ## Shared Operation State

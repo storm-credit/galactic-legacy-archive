@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / C02 Ensemble / P02 Economy / P03 Law / M03 Fleet / M05 Logistics / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: GA4 final state, Vesper OOB, GA5 act map
-Used By: E458–475 cards, opening cast/state and B05-01 audit
+Depends On: GA4 final state, Vesper OOB, [[ga5-episodes-451-570-act-map-v1]]
+Used By: [[ga5-e458-464-episode-cards-v1]], [[ga5-e465-472-episode-cards-v1]], [[ga5-e473-475-episode-cards-v1]], opening cast/state and B05-01 audit
 
 ## Shared Opening State
 

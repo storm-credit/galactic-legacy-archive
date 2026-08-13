@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C02 Ensemble / C04 Relationships / P01 Politics / P02 Economy / P03 Law / P04 Care / P06 Factions / T02 Navigation / T03 Habitat Systems / T07 Networks / H02 Ship / H03 Sensors / H04 Maintenance / M03 Fleet / M05 Logistics / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: GA3 E211–235 cards, Ardis Joint Service Trial, GA3 act map
-Used By: E241–260 cards, Spine B state, Foundry strike state and B03-02 audit
+Depends On: [[ga3-e211-218-episode-cards-v1]], [[ga3-e219-226-episode-cards-v1]], [[ga3-e227-235-episode-cards-v1]], Ardis Joint Service Trial, [[ga3-episodes-211-330-act-map-v1]]
+Used By: [[ga3-e241-247-episode-cards-v1]], [[ga3-e248-254-episode-cards-v1]], [[ga3-e255-260-episode-cards-v1]], Spine B state, Foundry strike state and B03-02 audit
 Open Risks: exact later fleet arrival clocks remain later-batch data
 
 ## Shared Starting State

@@ -4,7 +4,7 @@ Status: REVIEW — SCENE-CARD LEVEL
 Owner Agents: N03 Episode / N04 Causality / C02 Ensemble / T04 Neural Medicine / P04 Education / L02 POV / O01 Canon
 Last Reviewed: 2026-08-03
 Depends On: E45 incident, imitation-cell bible, Academy lockdown/07 state, Mia bible
-Used By: E52–72 cards, Black Ward discovery, collective-punishment and myth arc
+Used By: [[ga1-episodes-52-58-scene-cards-v1]], [[ga1-episodes-59-65-scene-cards-v1]], [[ga1-episodes-66-72-scene-cards-v1]], Black Ward discovery, collective-punishment and myth arc
 Open Risks: licensed instructor patient name and exact medical prose remain open
 
 ## Shared State at E46 Start

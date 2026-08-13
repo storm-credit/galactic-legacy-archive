@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C02 Ensemble / C04 Relationships / P01 Politics / P03 Law / P06 Factions / M01 Strategy / M02 Operational Art / M03 Fleet Operations / M04 Frame Tactics / M05 Logistics / M06 Intelligence / M07 Command / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E264–270 cards, Ardis force holdings, provisional three-body board
-Used By: E278–285 cards, local defense command and Helix arrival state
+Depends On: [[ga3-e264-270-episode-cards-v1]], Ardis force holdings, provisional three-body board
+Used By: [[ga3-e278-285-episode-cards-v1]], local defense command and Helix arrival state
 Open Risks: permanent civilian-defense constitution remains later GA3 work
 
 ## Shared Starting State

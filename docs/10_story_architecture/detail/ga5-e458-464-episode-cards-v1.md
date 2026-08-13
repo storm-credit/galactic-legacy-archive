@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / C02 Ensemble / C04 Relationships / P03 Law / P04 Care / M07 Command / M08 Command Ethics / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E451–457 cards, `세 번째 종` alignment state, GA5 act map
-Used By: E465–475 cards, charter v0.1 and B05-01 audit
+Depends On: [[ga5-e451-457-episode-cards-v1]], `세 번째 종` alignment state, [[ga5-episodes-451-570-act-map-v1]]
+Used By: [[ga5-e465-472-episode-cards-v1]], [[ga5-e473-475-episode-cards-v1]], charter v0.1 and B05-01 audit
 
 ## Shared Starting State
 

@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C02 Ensemble / C04 Relationships / P01 Politics / P02 Economy / P03 Law / P04 Care / P06 Factions / T03 Habitat Systems / T07 Networks / H03 Sensors / H04 Maintenance / H05 Medical / H06 Damage / M02 Operational Art / M03 Fleet / M04 Frame Tactics / M05 Logistics / M06 Intelligence / M07 Command / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E271–277 cards, Helix convoy arrival, Foundry/cold-chain and defense state
-Used By: E286–310 cards, Helix facility-use agreement, distributed-denial and Spine C state
+Depends On: [[ga3-e271-277-episode-cards-v1]], Helix convoy arrival, Foundry/cold-chain and defense state
+Used By: [[ga3-e286-292-episode-cards-v1]], [[ga3-e293-300-episode-cards-v1]], [[ga3-e301-310-episode-cards-v1]], Helix facility-use agreement, distributed-denial and Spine C state
 Open Risks: final culprit for copied credentials and full denial network remain later work
 
 ## Shared Starting State

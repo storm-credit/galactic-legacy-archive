@@ -3,8 +3,8 @@
 Status: REVIEW — SCENE-CARD LEVEL
 Owner Agents: N03 Episode / N04 Causality / T04 Neural Medicine / M05 Logistics / P03 Rights / P08 Neutral Powers / H04 Maintenance / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: E59–65 cards, supply-freeze/corridor state, Black Ward state, 07/lockdown state
-Used By: E73–100 cards, patient oversight, Academy closure/funding crisis
+Depends On: [[ga1-episodes-59-65-scene-cards-v1]], supply-freeze/corridor state, Black Ward state, 07/lockdown state
+Used By: [[ga1-episodes-73-78-scene-cards-v1]], [[ga1-episodes-79-84-scene-cards-v1]], [[ga1-episodes-85-92-scene-cards-v1]], [[ga1-episodes-93-100-scene-cards-v1]], patient oversight, Academy closure/funding crisis
 Open Risks: exact patient allocation table and adapter-complication patient name remain open before prose
 
 ## Shared State at E66 Start

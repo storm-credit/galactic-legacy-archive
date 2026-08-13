@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / C02 Ensemble / C04 Relationships / P02 Economy / P03 Law / P04 Family-Care / P08 Frontier-Neutrality / T02 Navigation / T03 Life Support / H05 Medical / M05 Logistics / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: E151–160 cards, protected-community destination state, ship/passenger limits and route topology
-Used By: E169–175 cards, convoy operation state and B02-03 audit
+Depends On: [[ga2-e151-160-episode-cards-v1]], protected-community destination state, ship/passenger limits and route topology
+Used By: [[ga2-e169-175-episode-cards-v1]], convoy operation state and B02-03 audit
 Open Risks: receiving institutions may later fail or alter terms; no destination is guaranteed final
 
 ## Shared Opening State

@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / C02 Ensemble / C03 Opposition / P02 Economy / P03 Law / T03 Life Support / T05 Technology / T07 Networks / H01 Production / H04 Maintenance / H05 Medical / M03 Fleet / M05 Logistics / G02 Counter-Collection / G04 Reward / G05 Power Creep / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: E151–175 cards, open-service/convoy state, relay module and Jena Annex
-Used By: E186–200 cards, mixed-assembly remedy state and B02-04 audit
+Depends On: [[ga2-e151-160-episode-cards-v1]], [[ga2-e161-168-episode-cards-v1]], [[ga2-e169-175-episode-cards-v1]], open-service/convoy state, relay module and Jena Annex
+Used By: [[ga2-e186-193-episode-cards-v1]], [[ga2-e194-200-episode-cards-v1]], mixed-assembly remedy state and B02-04 audit
 Open Risks: public pressure to generalize local successes becomes the main E186–195 hazard
 
 ## Shared Opening State

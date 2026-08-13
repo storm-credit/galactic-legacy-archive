@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C02 Ensemble / C04 Relationships / P01 Politics / P02 Economy / P03 Law / P04 Care / P06 Factions / T02 Navigation / T03 Habitat Systems / T07 Networks / H02 Ship / H03 Sensors / H04 Maintenance / H05 Medical / H06 Damage / M01 Strategy / M02 Operational Art / M03 Fleet Operations / M04 Frame Tactics / M05 Logistics / M06 Intelligence / M07 Command / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E293–300 cards, 72-hour Imperial compact, denial/Spine C state and GA3 act map
-Used By: E311–330 cards, siege state, A+B+C operation and B03-04 audit
+Depends On: [[ga3-e293-300-episode-cards-v1]], 72-hour Imperial compact, denial/Spine C state and [[ga3-episodes-211-330-act-map-v1]]
+Used By: [[ga3-e311-314-episode-cards-v1]], [[ga3-e315-323-episode-cards-v1]], [[ga3-e324-330-episode-cards-v1]], siege state, A+B+C operation and B03-04 audit
 Open Risks: final joint window, Toma E322 loss and permanent trust remain later batches
 
 ## Shared Starting State

@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C02 Ensemble / C04 Relationships / P01 Politics / P02 Economy / P03 Law / P06 Factions / T02 Navigation / T03 Habitat Systems / T07 Networks / H02 Ship / H03 Sensors / H04 Maintenance / H06 Damage / M02 Operational Art / M03 Fleet / M05 Logistics / M06 Intelligence / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E255–260 cards, Spine B dry-test state, GA3 act map
-Used By: E264–285 cards, live-window operation state, allocation and external-arrival state
+Depends On: [[ga3-e255-260-episode-cards-v1]], Spine B dry-test state, [[ga3-episodes-211-330-act-map-v1]]
+Used By: [[ga3-e264-270-episode-cards-v1]], [[ga3-e271-277-episode-cards-v1]], [[ga3-e278-285-episode-cards-v1]], live-window operation state, allocation and external-arrival state
 Open Risks: second Spine B window timing remains dependent on E261–263 wear and thermal recovery
 
 ## Shared Starting State

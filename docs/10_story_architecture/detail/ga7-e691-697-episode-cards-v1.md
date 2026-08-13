@@ -3,7 +3,7 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P02 Economy / P03 Law / P04 Care / P06 Factions / M05 Logistics / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: GA6 final Orpheus state, GA7 act map and route-denial/accountability canon
+Depends On: GA6 final Orpheus state, [[ga7-episodes-691-800-act-map-v1]] and route-denial/accountability canon
 Used By: E698–715, route emergency state and B07-01 audit
 
 ## Shared Opening State

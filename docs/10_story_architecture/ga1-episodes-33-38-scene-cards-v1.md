@@ -3,8 +3,8 @@
 Status: REVIEW — SCENE-CARD LEVEL
 Owner Agents: N03 Episode / N04 Causality / H04 Maintenance / P02 Political Economy / P03 Law / G04 Acquisition / G05 Power Creep / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: E27–32 scene cards, White Dock component ledger, first-100 collection registry, Nera/Helix/Academy authority
-Used By: E39–45 cards, 07 recovery continuity, future debt/inspection arcs
+Depends On: [[ga1-episodes-27-32-scene-cards-v1]], White Dock component ledger, first-100 collection registry, Nera/Helix/Academy authority
+Used By: [[ga1-episodes-39-45-scene-cards-v1]], 07 recovery continuity, future debt/inspection arcs
 Open Risks: auction-broker/opportunist identity and exact component valuation remain open
 
 ## Shared State at E33 Start

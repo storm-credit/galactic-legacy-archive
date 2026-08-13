@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / C02 Ensemble / P02 Economy / M03 Fleet / M05 Logistics / H04 Maintenance / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: Charter v0.1 E480, Vesper OOB/loss state, GA5 act map
-Used By: E488–500 cards, maintenance board and B05-02 audit
+Depends On: Charter v0.1 E480, Vesper OOB/loss state, [[ga5-episodes-451-570-act-map-v1]]
+Used By: [[ga5-e488-494-episode-cards-v1]], [[ga5-e495-500-episode-cards-v1]], maintenance board and B05-02 audit
 
 ## Mission Set
 
