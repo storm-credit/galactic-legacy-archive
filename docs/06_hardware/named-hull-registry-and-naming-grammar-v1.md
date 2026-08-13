@@ -1,7 +1,7 @@
 # Named Hull Registry and Naming Grammar v1 — 명명 선체 등록부
 
 Status: PROPOSED — NONCANON
-Owner Agents: A00 Novel PM / H02 Naval Architecture / M03 Fleet Operations / M05 Logistics / P03 Law / P05 Naming / C5 Ships / X02 Reader Memory / X04 Continuity
+Owner: 단일 에이전트 작성 (CLAUDE.md §15-1 — 하위 에이전트 실행 증거 없음, 역할명 헤더로 독립 실행을 주장하지 않는다)
 Last Reviewed: 2026-08-13
 Depends On: [[first-ship-bible-v1]], [[ownerless-fleet-structure-and-alignment-v1]], [[military-doctrine-and-force-structure-bible-v1]], [[grand-act-force-holdings-and-readiness-matrix-v1]], [[maneuver-frame-lineup-master-architecture-v1]], [[mecha-lineage-mark-and-evolution-naming-system-v1]], [[role-demand-portfolio-count-audit-v1]], [[core-canonical-names-and-voice-lock-v1]], [[reader-facing-terminology-phonetics-and-register-bible-v1]], [[galactic-legacy-collection-bible-v1]], [[decision-log]], [[first-100-act-map-v2-consolidated]], [[ga10-episodes-1001-1100-act-map-v1]], [[ga2-episodes-101-210-act-map-v1]], [[ga3-episodes-211-330-act-map-v1]], [[ga4-episodes-331-450-act-map-v1]], [[ga5-episodes-451-570-act-map-v1]], [[ga6-episodes-571-690-act-map-v1]], [[ga7-episodes-691-800-act-map-v1]], [[ga8-episodes-801-900-act-map-v1]], [[ga9-episodes-901-1000-act-map-v1]]
 Used By: 함선 수집 설계, 함대전 장면 카드, 기체–선체 탑재 크로스워크, 모델 시트 계획
@@ -182,16 +182,34 @@ GA2 등록표의 `G2-S01`~`S14`는 배 14척이 아니라 **배 한 척의 부�
 
 진영별: 독립군 계열 9, 제국 12, 헬릭스 8, 변경 11.
 
-## 5. Reader Exposure Ceiling
+## 5. Reader Exposure — 권위 위임
+
+### 노출 — 정본 예산을 따른다
+
+**이 등록부는 자기 노출 상한을 갖지 않는다.** 독자 기억 권위는
+[[reader-facing-terminology-phonetics-and-register-bible-v1]] §2이며 예산은 거기 있다.
+
+| 회차당 | 값 |
+|---|---|
+| **총 고유명 최초 사용** | **0–4** |
+| 활성 장소 | 1–3 |
+| 활성 기관·세력 | 1–3 |
+| 신규 기술 용어 | 0–2 |
+| 10화 창 기준 활성 수집 목표 | 3–5 |
+
+초안은 등록부마다 장면당 상한을 따로 뒀고 합계가 21이 됐다. 회차당 4개인 정본에
+대해 장면당 21개였다 — 국소 판단 여섯 번이 합쳐질 때를 보지 않은 결과다
+([[registry-redteam-2026-08-13]] D1).
+
+**첫 등장에는 종류어를 붙인다.** 어근이 진영은 구별하되 종류는 구별하지 못하므로
+문장이 구별한다 — `전열함 유덱스`, `카빈 사기타`, `규격 노르마`, `봉인 열쇠
+클라비쿨라`. 재등장부터는 생략한다 (D2).
+
+아래 전면/배경 구분은 **예산 안으로 들어올 자격이 있는 항목의 목록**이며,
+몇 개를 부를 수 있는가의 허가가 아니다.
 
 40척 전부를 독자가 외울 필요는 없다. 레드팀 판정이 이미 나와 있다 — **독자 전투서열은 3~7개 편성이 정상이지 수백 선체가 아니다.**
-
-| 층 | 수 | 규칙 |
-|---|---:|---|
-| 전면 (이름을 반복 호출) | **16** | 파루스, 리메스, 폰티스, 안노나, 스테디, 유덱스, 시그눔, 발룸, 켄소르, 프라이토르, 스프라기스, 카논, 메트론, 에이드르, 베트르, 바우타 |
-| 배경 (한 번 부르고 편성으로 흡수) | 24 | 나머지 |
-| 한 장면 동시 호출 상한 | **4척** | 초과 시 편성명으로 대체 |
-| 한 회차 신규 이름 상한 | **2척** | |
+- **전면 자격**: 파루스, 리메스, 폰티스, 안노나, 스테디, 유덱스, 시그눔, 발룸, 켄소르, 프라이토르, 스프라기스, 카논, 메트론, 에이드르, 베트르, 바우타
 
 ## 6. Frame–Hull Crosswalk (초안)
 

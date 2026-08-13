@@ -1,7 +1,7 @@
 # Named Technology Lineage Registry v1 — 명명 기술 계보 등록부
 
 Status: PROPOSED — NONCANON
-Owner Agents: A00 Novel PM / T04 Applied Physics / T06 Mecha Systems / H04 Maintenance / P02 Economy / P09 Institutions / P05 Naming / C6 Technologies / X02 Reader Memory / X04 Continuity
+Owner: 단일 에이전트 작성 (CLAUDE.md §15-1 — 하위 에이전트 실행 증거 없음, 역할명 헤더로 독립 실행을 주장하지 않는다)
 Last Reviewed: 2026-08-13
 Depends On: [[technology-era-and-interoperability-bible-v1]], [[galactic-legacy-collection-bible-v1]], [[first-frame-bible-v1]], [[maneuver-frame-lineup-master-architecture-v1]], [[named-weapon-and-part-registry-v1]], [[named-hull-registry-and-naming-grammar-v1]], [[collection-desire-master-architecture-and-index-audit-v1]], [[decision-log]]
 Used By: 기술 수집 설계, 정비·보급 서사, 인증 갈등 장면, 기체–무장 호환 판정
@@ -128,14 +128,33 @@ Open Risks: 32개 중 정본은 1개뿐, 단계 사다리(이론→사회확산)
 | T-031 | `E5-03` | 레게스타 | 제도 | C0 | GA9 | 색인 권한. 지워지면 사람이 사라진다 | 제안 |
 | T-032 | `E5-04` | 레스티투티오 | 제도 | C2 | GA10 | 반환·회복 절차. 이양기의 뼈대 | 제안 |
 
-## 5. Reader Exposure Ceiling
+## 5. Reader Exposure — 권위 위임
 
-| 층 | 수 | 규칙 |
-|---|---:|---|
-| 전면 | **10** | 개방 서비스 버스 · 노르마 · 오벡스 · 크리테리온 · 디아그노시스 · 스미다 · 리우파 · 레게스타 · 세미타 · 레스티투티오 |
-| 배경 | 22 | 나머지 |
-| 한 장면 동시 호출 | **2개** | 기술명은 대사에서 가장 빨리 지친다 |
+### 노출 — 정본 예산을 따른다
 
+**이 등록부는 자기 노출 상한을 갖지 않는다.** 독자 기억 권위는
+[[reader-facing-terminology-phonetics-and-register-bible-v1]] §2이며 예산은 거기 있다.
+
+| 회차당 | 값 |
+|---|---|
+| **총 고유명 최초 사용** | **0–4** |
+| 활성 장소 | 1–3 |
+| 활성 기관·세력 | 1–3 |
+| 신규 기술 용어 | 0–2 |
+| 10화 창 기준 활성 수집 목표 | 3–5 |
+
+초안은 등록부마다 장면당 상한을 따로 뒀고 합계가 21이 됐다. 회차당 4개인 정본에
+대해 장면당 21개였다 — 국소 판단 여섯 번이 합쳐질 때를 보지 않은 결과다
+([[registry-redteam-2026-08-13]] D1).
+
+**첫 등장에는 종류어를 붙인다.** 어근이 진영은 구별하되 종류는 구별하지 못하므로
+문장이 구별한다 — `전열함 유덱스`, `카빈 사기타`, `규격 노르마`, `봉인 열쇠
+클라비쿨라`. 재등장부터는 생략한다 (D2).
+
+아래 전면/배경 구분은 **예산 안으로 들어올 자격이 있는 항목의 목록**이며,
+몇 개를 부를 수 있는가의 허가가 아니다.
+
+- **전면 자격**: 개방 서비스 버스 · 노르마 · 오벡스 · 크리테리온 · 디아그노시스 · 스미다 · 리우파 · 레게스타 · 세미타 · 레스티투티오
 **기술은 이름보다 결과로 보여준다.** 독자는 `크리테리온`을 몰라도 "인증이 안 나와서 못 뜬다"는 안다.
 
 ## 6. Collection Desire Hooks

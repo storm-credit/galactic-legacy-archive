@@ -1,7 +1,7 @@
 # Named Faction and Institution Registry v1 — 명명 세력·제도 등록부
 
 Status: PROPOSED — NONCANON
-Owner Agents: A00 Novel PM / P06 Faction Clocks / P09 Institutions / P03 Law / N08 Faction Arcs / C7 Factions / X02 Reader Memory / X03 Ethics / X04 Continuity
+Owner: 단일 에이전트 작성 (CLAUDE.md §15-1 — 하위 에이전트 실행 증거 없음, 역할명 헤더로 독립 실행을 주장하지 않는다)
 Last Reviewed: 2026-08-13
 Depends On: [[initial-five-faction-bible-v1]], [[faction-symmetry-harness]], [[faction-succession-culture-visual-identity-matrix-v1]], [[imperial-succession-law-claimants-and-intelligence-blocs-v1]], [[galactic-legacy-collection-bible-v1]], [[collection-desire-master-architecture-and-index-audit-v1]], [[named-technology-lineage-registry-v1]], [[decision-log]]
 Used By: 세력 수집 설계, 가입·협약 장면, 내부 분열 서사, 대표성 판정
@@ -141,14 +141,34 @@ Open Risks: 생태계가 6개로 밴드 10–12에 미달하며 추가는 작가
 
 **대표성 이상은 비용이 사람으로 청구된다.** 한 블록의 편을 들면 다른 블록이 적이 된다. 이것이 세력 도메인의 기본 갈등이며, 블록을 24개나 명명해 둔 이유다.
 
-## 4. Reader Exposure Ceiling
+## 4. Reader Exposure — 권위 위임
 
-| 층 | 수 | 규칙 |
-|---|---:|---|
-| 전면 생태계 | **5–8** | 한 대액트에서 활성인 것만 |
-| 전면 블록 | **6** | 그 대액트의 갈등에 직접 관여하는 것만 |
-| 한 장면 동시 호출 | **3개** | 조직명은 대사에서 가장 빨리 뭉개진다 |
+### 노출 — 정본 예산을 따른다
 
+**이 등록부는 자기 노출 상한을 갖지 않는다.** 독자 기억 권위는
+[[reader-facing-terminology-phonetics-and-register-bible-v1]] §2이며 예산은 거기 있다.
+
+| 회차당 | 값 |
+|---|---|
+| **총 고유명 최초 사용** | **0–4** |
+| 활성 장소 | 1–3 |
+| 활성 기관·세력 | 1–3 |
+| 신규 기술 용어 | 0–2 |
+| 10화 창 기준 활성 수집 목표 | 3–5 |
+
+초안은 등록부마다 장면당 상한을 따로 뒀고 합계가 21이 됐다. 회차당 4개인 정본에
+대해 장면당 21개였다 — 국소 판단 여섯 번이 합쳐질 때를 보지 않은 결과다
+([[registry-redteam-2026-08-13]] D1).
+
+**첫 등장에는 종류어를 붙인다.** 어근이 진영은 구별하되 종류는 구별하지 못하므로
+문장이 구별한다 — `전열함 유덱스`, `카빈 사기타`, `규격 노르마`, `봉인 열쇠
+클라비쿨라`. 재등장부터는 생략한다 (D2).
+
+아래 전면/배경 구분은 **예산 안으로 들어올 자격이 있는 항목의 목록**이며,
+몇 개를 부를 수 있는가의 허가가 아니다.
+
+- **전면 자격**: 한 대액트에서 활성인 것만
+- **전면 자격**: 그 대액트의 갈등에 직접 관여하는 것만
 **독자는 조직 이름보다 "누가 무엇을 원하는가"를 기억한다.** 표의 마지막 열이 실제 기억 단위다.
 
 ## 5. Collection Desire Hooks

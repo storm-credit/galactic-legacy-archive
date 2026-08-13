@@ -1,7 +1,7 @@
 # Named Place and Corridor Registry v1 — 명명 장소·항로 등록부
 
 Status: PROPOSED — NONCANON
-Owner Agents: A00 Novel PM / W02 Astrography / W04 Route Physics / P02 Economy / P09 Institutions / P05 Naming / C8 Territories / X02 Reader Memory / X03 Ethics / X04 Continuity
+Owner: 단일 에이전트 작성 (CLAUDE.md §15-1 — 하위 에이전트 실행 증거 없음, 역할명 헤더로 독립 실행을 주장하지 않는다)
 Last Reviewed: 2026-08-13
 Depends On: [[galaxy-612-system-census-and-cluster-atlas-v1]], [[census-anchor-and-scale-clarifications-v1]], [[ardis-node-city-bible-v1]], [[ga8-palimpsest-and-archive-sites-atlas-v1]], [[ga9-preservation-regime-regional-atlas-v1]], [[ga10-transition-regions-and-service-state-atlas-v1]], [[reader-facing-terminology-phonetics-and-register-bible-v1]], [[named-faction-and-institution-registry-v1]], [[decision-log]]
 Used By: 장소 수집 설계, 항로 전투, 통행권 협약, 정착·보호 서사
@@ -143,14 +143,33 @@ Open Risks: 제안 지명 26개는 정본 지명 규칙 검토를 아직 안 거
 | RT-13 | 아르켈 ↔ 전 대영역 | 완전 항로 주기 | GA9 |
 | RT-14 | 뇌른 ↔ 셀바 | 이양기 자율선 | GA10 |
 
-## 5. Reader Exposure Ceiling
+## 5. Reader Exposure — 권위 위임
 
-| 층 | 수 | 규칙 |
-|---|---:|---|
-| 전면 장소 | **12** | 한 대액트에서 실제로 장면이 벌어지는 곳만 |
-| 배경 장소 | 24 | 대사에서 한 번 불리고 지나감 |
-| 한 장면 동시 호출 | **3개** | 지명이 많으면 독자가 공간을 잃는다 |
-| 항로 | 종점 쌍으로만 | 고유명을 만들지 않는다 |
+### 노출 — 정본 예산을 따른다
+
+**이 등록부는 자기 노출 상한을 갖지 않는다.** 독자 기억 권위는
+[[reader-facing-terminology-phonetics-and-register-bible-v1]] §2이며 예산은 거기 있다.
+
+| 회차당 | 값 |
+|---|---|
+| **총 고유명 최초 사용** | **0–4** |
+| 활성 장소 | 1–3 |
+| 활성 기관·세력 | 1–3 |
+| 신규 기술 용어 | 0–2 |
+| 10화 창 기준 활성 수집 목표 | 3–5 |
+
+초안은 등록부마다 장면당 상한을 따로 뒀고 합계가 21이 됐다. 회차당 4개인 정본에
+대해 장면당 21개였다 — 국소 판단 여섯 번이 합쳐질 때를 보지 않은 결과다
+([[registry-redteam-2026-08-13]] D1).
+
+**첫 등장에는 종류어를 붙인다.** 어근이 진영은 구별하되 종류는 구별하지 못하므로
+문장이 구별한다 — `전열함 유덱스`, `카빈 사기타`, `규격 노르마`, `봉인 열쇠
+클라비쿨라`. 재등장부터는 생략한다 (D2).
+
+아래 전면/배경 구분은 **예산 안으로 들어올 자격이 있는 항목의 목록**이며,
+몇 개를 부를 수 있는가의 허가가 아니다.
+
+- **전면 자격**: 한 대액트에서 실제로 장면이 벌어지는 곳만
 
 ## 6. Collection Desire Hooks
 

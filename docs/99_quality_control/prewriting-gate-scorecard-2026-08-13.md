@@ -24,9 +24,15 @@ Open Risks: §3 Project & Market 미완이 BLOCKER 2건을 막고 있음
 | 필수 | 53 | **52** | 1 | 0 |
 | **합계** | **79** | **78** | **1** | **0** |
 
-**재채점 2026-08-13** — 최초 채점은 69 PASS / 4 PARTIAL / 6 FAIL이었다. 여섯 결손을 같은 날 닫았다: 로그라인·독자·제목은 [[project-charter]] §0으로, 참고작 분석은 [[reference-structure-analysis-v1]]로, revision harness와 미결정 목록은 실행 도구 두 개로. 공모전 규정만 PARTIAL로 남으며 이는 저장소 밖 정보다.
+**재채점 2026-08-13** — 최초 채점은 69 PASS / 4 PARTIAL / 6 FAIL이었다. 여섯 결손을 같은 날 닫았다: 로그라인·독자·제목은 [[project-charter]] §0으로, 참고작 분석은 [[reference-structure-analysis-v1]] ⚠자기인증로, revision harness와 미결정 목록은 실행 도구 두 개로. 공모전 규정만 PARTIAL로 남으며 이는 저장소 밖 정보다.
 
-**Overall Status: CONDITIONAL PASS.**
+**Overall Status: HOLD — 재채점 2026-08-13 저녁.**
+
+오전 채점이 `CONDITIONAL PASS`였으나 [[registry-redteam-2026-08-13]]이 세 결함을 확정했다. 그중 D3은 이 채점표 자체의 결함이다 — 인용 문서 57개 중 5개가 같은 날 같은 주체가 만든 것이고 둘이 BLOCKER 근거다. 채점 규칙이 요구하는 **교차검토가 없다.**
+
+게이트는 오늘 만든 문서가 독립 검토를 받을 때까지 열리지 않는다. 아래 판정은 그 조건 아래 읽는다.
+
+**이전 판정 (조건부 통과, 지금은 보류)**
 
 모든 BLOCKER가 PASS다. 필수 항목 PASS 52/53 = 98.1%로 90% 기준을 넘는다. 남은 PARTIAL 1건(공모전 규정)은 게이트 §2가 요구하는 완화책·담당자·해결 시점을 갖췄다.
 
@@ -45,8 +51,8 @@ BLOCKER 2건과 FAIL 6건 중 5건이 전부 **§3 Project & Market**이다. 픽
 | **BLOCKER** 한 줄 소개 확정 | **PASS** | [[project-charter]] §0.1 — 4안 비교 후 B 채택, 문서 CANON 승격 (2026-08-13) |
 | **BLOCKER** 핵심 독자·장르 약속 확정 | **PASS** | [[project-charter]] §0.2 — 주·부·확장 독자 구분, 장르 약속 6개 조항 |
 | 공모전 일정·분량·독점·AI 규정 확인 | **PARTIAL** | 확인 주체가 작가이며 저장소 밖 정보다. [[project-charter]] §0.4에 항목별 가정·근거·어긋났을 때의 영향·완화책·해결 시점을 기록. AI 사용 규정이 최대 위험으로 표시됨 |
-| 한국 웹소설 참고작 분석 완료 | **PASS** | [[reference-structure-analysis-v1]] — 회귀물 1화 구조, 수집 보상 주기, 회차 길이·호흡, 유사성 분리선 |
-| 해외 SF·메카 참고작 분석 완료 | **PASS** | [[reference-structure-analysis-v1]] §3–§4 — 에이스 경제, 메카·함대 병존 3해법. 형태 문법은 [[maneuver-frame-lineup-master-architecture-v1]] §12 |
+| 한국 웹소설 참고작 분석 완료 | **PASS** | [[reference-structure-analysis-v1]] ⚠자기인증 — 회귀물 1화 구조, 수집 보상 주기, 회차 길이·호흡, 유사성 분리선 |
+| 해외 SF·메카 참고작 분석 완료 | **PASS** | [[reference-structure-analysis-v1]] ⚠자기인증 §3–§4 — 에이스 경제, 메카·함대 병존 3해법. 형태 문법은 [[maneuver-frame-lineup-master-architecture-v1]] §12 |
 | 유사성 위험·차별화 전략 문서화 | **PASS** | [[maneuver-frame-lineup-master-architecture-v1]] §12 고유성 게이트, [[mecha-lineage-mark-and-evolution-naming-system-v1]] §9 하드 리젝트 목록 |
 | 제목·소개문·키워드 가설 | **PASS** | [[project-charter]] §0.3 — 정본 작품명·시장 제목·대안 2안·키워드 10개·플랫폼 소개문 초안 |
 
@@ -67,7 +73,7 @@ BLOCKER 2건과 FAIL 6건 중 5건이 전부 **§3 Project & Market**이다. 픽
 |---|---|---|
 | **BLOCKER** 성간 이동 규칙·비용 | PASS | [[galaxy-612-system-census-and-cluster-atlas-v1]], [[weapons-sensors-acceleration-calibration-v1]] §3 |
 | **BLOCKER** 통신 규칙·지연 | PASS | [[technology-era-and-interoperability-bible-v1]] §10 인터페이스 계열 |
-| **BLOCKER** 메카와 함선의 공존 이유 | PASS | [[military-doctrine-and-force-structure-bible-v1]], [[named-hull-registry-and-naming-grammar-v1]] §3 탑재 정원표 |
+| **BLOCKER** 메카와 함선의 공존 이유 | PASS | [[military-doctrine-and-force-structure-bible-v1]], [[named-hull-registry-and-naming-grammar-v1]] ⚠자기인증 §3 탑재 정원표 |
 | 에너지·연료·열·생명유지 | PASS | [[first-ship-bible-v1]] §3, [[first-frame-bible-v1]] |
 | AI의 능력·권리·제한 | PASS | [[later-region-cultures-and-ai-ordinary-life-v1]], [[ga9-preservation-regime-and-classification-bible-v1]] |
 | 경제·통화·자원·군수산업 | PASS | [[fiscal-banking-industrial-input-output-bible-v1]], [[interregional-trade-flows-and-crisis-economy-v1]] |
@@ -80,7 +86,7 @@ BLOCKER 2건과 FAIL 6건 중 5건이 전부 **§3 Project & Market**이다. 픽
 | 항목 | 판정 | 근거 |
 |---|---|---|
 | **BLOCKER** 8대 범주 획득 규칙 | PASS | [[galactic-legacy-collection-bible-v1]] §4 — 범주마다 동사가 다르다 |
-| **BLOCKER** 영웅의 자율성·이탈 | PASS | 같은 문서 C1 하드 비토, [[named-faction-and-institution-registry-v1]] §3 관계 사다리 |
+| **BLOCKER** 영웅의 자율성·이탈 | PASS | 같은 문서 C1 하드 비토, [[named-faction-and-institution-registry-v1]] ⚠자기인증 §3 관계 사다리 |
 | **BLOCKER** 신형이 구형을 폐기하지 않음 | PASS | `CLAUDE.md` §16-10 기체 계수 규칙, 각 등록부 §5 노출 상한 |
 | 희귀도·세트·실루엣·도감 | PASS | [[collection-desire-master-architecture-and-index-audit-v1]] §6.3 세트 5종 |
 | 상실·파손·탈취·복원 규칙 | PASS | [[named-loss-and-irreversible-transformation-ledger-v1]], 하중 필드 `limit_cost` 237건 |
@@ -177,7 +183,7 @@ BLOCKER 2건과 FAIL 6건 중 5건이 전부 **§3 Project & Market**이다. 픽
 | S0 위험 0개 | ✅ |
 | S1 위험 3개 이하, 첫 20화 무영향 | ✅ |
 
-**판정: CONDITIONAL PASS.** 공모전 AI 규정 확인 전까지 배치를 늘리지 않는 조건으로 집필을 시작할 수 있다.
+**판정: HOLD.** BLOCKER 2건의 근거가 자기 인증이며, 등록부 6종이 독자 기억 예산을 우회한 채 만들어졌다 ([[registry-redteam-2026-08-13]] D1). 수정은 적용했으나 독립 검토는 아직 없다.
 
 ## 14. 잔여 작업 목록
 

@@ -45,14 +45,25 @@ REQUIRED_PUBLICATION = "NOT AUTHORIZED"
 
 RETIRED = ("리안 카르도", "Rian Cardo", "회랑새", "Corridor Wren")
 
-# Per-scene ceilings the registries set. An episode is more than one scene, so
-# these are reported, not failed -- the point is to make the load visible.
-CEILINGS = {
-    "기체": ("docs/06_hardware/data/maneuver-frame-lineup-proposed-index-v1.csv", 4),
-    "무기": ("docs/06_hardware/named-weapon-and-part-registry-v1.md", 3),
-    "함선": ("docs/06_hardware/named-hull-registry-and-naming-grammar-v1.md", 4),
-    "유물": ("docs/09_collection/named-relic-and-provenance-registry-v1.md", 2),
-    "장소": ("docs/02_world/named-place-and-corridor-registry-v1.md", 3),
+# The reader-memory authority sets the budget, not the registries.
+# reader-facing-terminology-phonetics-and-register-bible-v1 section 2, per episode.
+# The registries used to carry their own per-scene ceilings; six local numbers
+# summed to 21 against a canon budget of 4, which is why they were withdrawn.
+FIRST_USE_BUDGET = 4          # total proper nouns in first-time use
+ACTIVE_PLACES = 3
+ACTIVE_ORGS = 3
+NEW_TECH_TERMS = 2
+
+# Names come from the anchor CSVs, which carry a clean `name` column. Reading
+# the markdown tables instead pulled in column headers like 비용 and 이름 as if
+# they were registry names.
+ANCHOR_SOURCES = {
+    "기체": "docs/06_hardware/data/maneuver-frame-lineup-proposed-index-v1.csv",
+    "무기": "docs/06_hardware/data/anchor-fields-weapons-v1.csv",
+    "함선": "docs/06_hardware/data/anchor-fields-hulls-v1.csv",
+    "기술": "docs/06_hardware/data/anchor-fields-technologies-v1.csv",
+    "유물": "docs/09_collection/data/anchor-fields-relics-v1.csv",
+    "장소": "docs/02_world/data/anchor-fields-places-v1.csv",
 }
 
 SENTENCE_END = re.compile(r"[.!?。…]+[\s”\"']*|\n")
@@ -60,29 +71,19 @@ KOREAN_NAME = re.compile(r"[가-힣]{2,6}")
 
 
 def registry_names() -> dict[str, set[str]]:
-    """Reader-facing names per domain, read from the registries themselves."""
+    """Reader-facing names per domain, from the anchor CSVs."""
+    import csv
+
     out: dict[str, set[str]] = {}
-    for domain, (rel, _) in CEILINGS.items():
+    for domain, rel in ANCHOR_SOURCES.items():
         path = ROOT / rel
         names: set[str] = set()
-        if not path.exists():
-            out[domain] = names
-            continue
-        if path.suffix == ".csv":
-            import csv
+        if path.exists():
             with path.open(encoding="utf-8-sig") as handle:
                 for row in csv.DictReader(handle):
-                    value = row.get("working_name_ko", "").strip()
-                    if value and value != "—":
+                    value = (row.get("name") or row.get("working_name_ko") or "").strip()
+                    if value and value != "—" and len(value) >= 2 and "(" not in value:
                         names.add(value)
-        else:
-            for line in path.read_text(encoding="utf-8").split("\n"):
-                if not line.startswith("| "):
-                    continue
-                cells = [c.strip().strip("*`") for c in line.split("|")]
-                for cell in cells[2:4]:
-                    if KOREAN_NAME.fullmatch(cell) and not cell.startswith("—"):
-                        names.add(cell)
         out[domain] = names
     return out
 
@@ -130,12 +131,18 @@ def review(path: Path, names: dict[str, set[str]]) -> tuple[list[str], list[str]
     if best > SHORT_RUN_LIMIT:
         findings.append(f"{SHORT_SENTENCE}자 미만 문장이 {best}개 연속 — §2-5 단문 남발")
 
-    for domain, found in ((d, sorted(n for n in ns if n in prose)) for d, ns in names.items()):
-        limit = CEILINGS[domain][1]
-        if len(found) > limit:
-            findings.append(
-                f"{domain} 고유명 {len(found)}개 등장 (장면당 상한 {limit}): {', '.join(found)}"
-            )
+    present: dict[str, list[str]] = {
+        d: sorted(n for n in ns if n in prose) for d, ns in names.items()
+    }
+    total = sum(len(v) for v in present.values())
+    if total > FIRST_USE_BUDGET:
+        detail = "; ".join(f"{d} {', '.join(v)}" for d, v in present.items() if v)
+        findings.append(
+            f"등록 고유명 {total}개 등장 — 회차당 최초 사용 예산 {FIRST_USE_BUDGET} "
+            f"(독자 기억 권위 §2): {detail}"
+        )
+    if len(present.get("장소", [])) > ACTIVE_PLACES:
+        findings.append(f"활성 장소 {len(present['장소'])}개 — 예산 {ACTIVE_PLACES}")
 
     words = Counter(w for w in re.findall(r"[가-힣]{3,}", prose))
     if words:

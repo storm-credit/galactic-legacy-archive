@@ -7,7 +7,7 @@
 게이트 §12는 미결정과 가정이 숨겨져 있지 않을 것을 요구한다. 숨겨져 있지는 않았고,
 한자리에 모여 있지 않았을 뿐이다. 이 목록이 그 자리다.
 
-`Open Risks`를 가진 문서 **359개** · `[ASSUMPTION]` 표기를 가진 문서 **13개**
+`Open Risks`를 가진 문서 **360개** · `[ASSUMPTION]` 표기를 가진 문서 **13개**
 
 ## 명시적 가정 `[ASSUMPTION]`
 
@@ -436,7 +436,7 @@
 | [[revision-harness]] | Overediting, voice flattening, late structural changes |
 | [[storycraft-bible]] | Formulaic scenes, over-engineering, emotional flattening |
 
-### 99_quality_control — 58건
+### 99_quality_control — 59건
 
 | 문서 | 열린 위험 |
 |---|---|
@@ -496,6 +496,7 @@
 | [[prewriting-gate-proxy-signoff-2026-08-03]] | human/mobile market response remains untested |
 | [[prewriting-gate-scorecard-2026-08-13]] | §3 Project & Market 미완이 BLOCKER 2건을 막고 있음 |
 | [[prewriting-gate]] | False confidence, unchecked placeholders, unresolved canon conflicts |
+| [[registry-redteam-2026-08-13]] | 이 검토 자체가 등록부를 만든 주체가 수행했다. 독립 검토가 아니다 |
 | [[world-bible-completion-gap-audit-v2]] | repository issue bodies are stale and do not reflect many merged completions |
 | [[world-design-01-02-03-linkage-and-payoff-audit-2026-08-13]] | 본 감사 자체가 23개 고아 문서의 첫 인바운드 링크가 된다 — 재실행 시 이 문서를 참조자에서 제외해야 한다 |
 

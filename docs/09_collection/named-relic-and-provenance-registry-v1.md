@@ -1,7 +1,7 @@
 # Named Relic and Provenance Registry v1 — 명명 유물·출처 등록부
 
 Status: PROPOSED — NONCANON
-Owner Agents: A00 Novel PM / G01 Codex / N05 Mystery-Payoff / N06 Payoff & MacGuffin / P03 Law / P09 Institutions / P05 Naming / C4 Relics / X02 Reader Memory / X03 Ethics / X04 Continuity
+Owner: 단일 에이전트 작성 (CLAUDE.md §15-1 — 하위 에이전트 실행 증거 없음, 역할명 헤더로 독립 실행을 주장하지 않는다)
 Last Reviewed: 2026-08-13
 Depends On: [[galactic-legacy-collection-bible-v1]], [[series-payoff-ledger-v1]], [[m001-m020-early-clue-episode-ledger-v1]], [[secondary-mystery-decoy-and-retirement-ledger-v1]], [[named-technology-lineage-registry-v1]], [[named-hull-registry-and-naming-grammar-v1]], [[collection-desire-master-architecture-and-index-audit-v1]], [[reader-facing-terminology-phonetics-and-register-bible-v1]], [[decision-log]]
 Used By: 유물 수집 설계, 미스터리 회수, 반환·보존 서사, 위조품 판정
@@ -120,14 +120,33 @@ C5 감사의 "고유 선체 13척"이 문서에서 재현되지 않았던 것과
 3. **기억·상처 유물은 전시물이 아니다.** `MM` 유형을 전투력이나 도감 칸으로 환산하지 않는다.
 4. **위조품도 등록한다.** 진위 판정이 사건이기 때문이며, 위조품이 진품보다 먼저 발견되는 배치를 허용한다.
 
-## 5. Reader Exposure Ceiling
+## 5. Reader Exposure — 권위 위임
 
-| 층 | 수 | 규칙 |
-|---|---:|---|
-| 전면 | **9** | 코르덱스 · 안눌루스 · 디아뎀 · 클라비쿨라 · 케네타프 · 노멘 · 프라그멘 · 시물라크룸 · 수브텍스툼 |
-| 배경 | 19 | 나머지 |
-| 한 장면 동시 호출 | **2개** | 유물은 이름보다 **무엇을 여는가**로 기억된다 |
-| 25화 블록당 신규 명명 | **1개** | 유물은 등장 자체가 사건이라 예산이 가장 적다 |
+### 노출 — 정본 예산을 따른다
+
+**이 등록부는 자기 노출 상한을 갖지 않는다.** 독자 기억 권위는
+[[reader-facing-terminology-phonetics-and-register-bible-v1]] §2이며 예산은 거기 있다.
+
+| 회차당 | 값 |
+|---|---|
+| **총 고유명 최초 사용** | **0–4** |
+| 활성 장소 | 1–3 |
+| 활성 기관·세력 | 1–3 |
+| 신규 기술 용어 | 0–2 |
+| 10화 창 기준 활성 수집 목표 | 3–5 |
+
+초안은 등록부마다 장면당 상한을 따로 뒀고 합계가 21이 됐다. 회차당 4개인 정본에
+대해 장면당 21개였다 — 국소 판단 여섯 번이 합쳐질 때를 보지 않은 결과다
+([[registry-redteam-2026-08-13]] D1).
+
+**첫 등장에는 종류어를 붙인다.** 어근이 진영은 구별하되 종류는 구별하지 못하므로
+문장이 구별한다 — `전열함 유덱스`, `카빈 사기타`, `규격 노르마`, `봉인 열쇠
+클라비쿨라`. 재등장부터는 생략한다 (D2).
+
+아래 전면/배경 구분은 **예산 안으로 들어올 자격이 있는 항목의 목록**이며,
+몇 개를 부를 수 있는가의 허가가 아니다.
+
+- **전면 자격**: 코르덱스 · 안눌루스 · 디아뎀 · 클라비쿨라 · 케네타프 · 노멘 · 프라그멘 · 시물라크룸 · 수브텍스툼
 
 ## 6. Collection Desire Hooks
 

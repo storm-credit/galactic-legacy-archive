@@ -1,7 +1,7 @@
 # Named Weapon and Part Registry v1 — 명명 무장·부품 등록부
 
 Status: PROPOSED — NONCANON
-Owner Agents: A00 Novel PM / H03 Weapons-Sensors-EW / H04 Maintenance / H06 Combat Physics / M04 Frame Tactics / M05 Logistics / P05 Naming / C3 Weapons / X02 Reader Memory / X04 Continuity
+Owner: 단일 에이전트 작성 (CLAUDE.md §15-1 — 하위 에이전트 실행 증거 없음, 역할명 헤더로 독립 실행을 주장하지 않는다)
 Last Reviewed: 2026-08-13
 Depends On: [[weapons-sensors-acceleration-calibration-v1]], [[first-frame-bible-v1]], [[first-ship-bible-v1]], [[maneuver-frame-lineup-master-architecture-v1]], [[named-hull-registry-and-naming-grammar-v1]], [[military-doctrine-and-force-structure-bible-v1]], [[collection-desire-master-architecture-and-index-audit-v1]], [[role-demand-portfolio-count-audit-v1]], [[reader-facing-terminology-phonetics-and-register-bible-v1]], [[decision-log]]
 Used By: 무기 수집 설계, 전투 장면 카드, 기체–무장 적합표, 정비·보급 서사
@@ -171,15 +171,33 @@ Open Risks: 44개 중 정본은 4개뿐이며 나머지는 승인 대기, 탄약
 | A-043 | `IR-W12-1` | 클라우스트라 | L02 | GA7 | 항로 봉쇄 장약 | 제안 |
 | A-044 | `BRN-W12-1` | 스텡슬 | L06 | GA9 | 놓는 비용보다 거두는 비용이 큼 | 제안 |
 
-## 5. Reader Exposure Ceiling
+## 5. Reader Exposure — 권위 위임
 
-| 층 | 수 | 규칙 |
-|---|---:|---|
-| 전면 (이름을 반복 호출) | **14** | 07호 4종 + 개방규격 카빈 + 사기타 · 톡손 · 게이르 · 레굴라 · 포르켑스 · 토메우스 · 님부스 · 스피쿨라 · 풀멘 |
-| 배경 (한 번 부르고 기능으로 흡수) | 30 | 나머지 |
-| 한 전투 장면 동시 호출 상한 | **3종** | 기체명 4개 상한과 합산해 장면 고유명사가 7개를 넘지 않게 한다 |
-| 25화 블록당 신규 명명 | **2종** | 기체 상한과 같은 예산에서 쓴다 |
+### 노출 — 정본 예산을 따른다
 
+**이 등록부는 자기 노출 상한을 갖지 않는다.** 독자 기억 권위는
+[[reader-facing-terminology-phonetics-and-register-bible-v1]] §2이며 예산은 거기 있다.
+
+| 회차당 | 값 |
+|---|---|
+| **총 고유명 최초 사용** | **0–4** |
+| 활성 장소 | 1–3 |
+| 활성 기관·세력 | 1–3 |
+| 신규 기술 용어 | 0–2 |
+| 10화 창 기준 활성 수집 목표 | 3–5 |
+
+초안은 등록부마다 장면당 상한을 따로 뒀고 합계가 21이 됐다. 회차당 4개인 정본에
+대해 장면당 21개였다 — 국소 판단 여섯 번이 합쳐질 때를 보지 않은 결과다
+([[registry-redteam-2026-08-13]] D1).
+
+**첫 등장에는 종류어를 붙인다.** 어근이 진영은 구별하되 종류는 구별하지 못하므로
+문장이 구별한다 — `전열함 유덱스`, `카빈 사기타`, `규격 노르마`, `봉인 열쇠
+클라비쿨라`. 재등장부터는 생략한다 (D2).
+
+아래 전면/배경 구분은 **예산 안으로 들어올 자격이 있는 항목의 목록**이며,
+몇 개를 부를 수 있는가의 허가가 아니다.
+
+- **전면 자격**: 07호 4종 + 개방규격 카빈 + 사기타 · 톡손 · 게이르 · 레굴라 · 포르켑스 · 토메우스 · 님부스 · 스피쿨라 · 풀멘
 무장은 기체보다 이름이 덜 기억된다. 독자는 `사기타`를 기억하지 못해도 "제국 표준 카빈"은 기억한다. **기능이 먼저고 이름이 나중이다.**
 
 ## 6. Collection Desire Hooks
