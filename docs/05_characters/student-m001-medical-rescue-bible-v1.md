@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: C02 Ensemble / C05 Psychology / P03 Rights / T03 Life Support / T04 Neural Medicine / N04 Choice-Causality
 Last Reviewed: 2026-08-03
-Depends On: academy bible, Black Ward act, H-001 protector, Archive identity rules
+Depends On: [[prison-military-academy-bible-v1]], Black Ward act, H-001 protector, Archive identity rules
 Used By: Episodes 46–100, medical consent, triage, civilian stakes, late public-health arc
 Open Risks: Healer-as-moral-compass cliché, implausible expertise, constant trauma role
 

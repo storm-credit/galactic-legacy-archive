@@ -3,8 +3,8 @@
 Status: REVIEW
 Owner Agents: C02 Ensemble / P01 Politics / P02 Political Economy / P08 Third Powers / C06 Voice / N08 Faction Arcs
 Last Reviewed: 2026-08-03
-Depends On: initial five-faction bible, first-100 map, A-001 foundation
-Used By: Episodes 1–100, Gate 5 completion, GA2–4 setup
+Depends On: [[initial-five-faction-bible-v1]], [[first-100-act-map-v2-consolidated]], [[antagonist-a001-continuity-director-v1]]
+Used By: [[first-100-act-map-v2-consolidated]], Gate 5 completion, GA2–4 setup
 Open Risks: Representatives becoming faction avatars, overlapping legal/technical functions, provisional identities
 
 ## Operating Rule

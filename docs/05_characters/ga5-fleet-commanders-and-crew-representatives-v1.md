@@ -4,7 +4,7 @@ Status: REVIEW
 Owner Agents: C02 Ensemble / C03 Rival / C05 Psychology / C06 Voice / M03 Fleet Operations / M08 Command Ethics / N08 Faction Arcs
 Last Reviewed: 2026-08-03
 Depends On: ownerless fleet structure, GA4 claimant outcomes, first ship crew
-Used By: Episodes 451–570, fleet-charter negotiations, battles and GA6 setup
+Used By: [[ga5-episodes-451-570-act-map-v1]], fleet-charter negotiations, battles and GA6 setup
 Open Risks: final names/cultures/genders open; cast consolidation may be needed
 
 ## 1. Front-Stage Rule

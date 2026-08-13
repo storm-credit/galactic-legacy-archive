@@ -3,8 +3,8 @@
 Status: REVIEW
 Owner Agents: P01 Politics / P03 Law / P06 Faction Systems / P07 Opposition / P09 Institutions / P10 Ideology / C03 Antagonists / N08 Faction Arcs
 Last Reviewed: 2026-08-03
-Depends On: Imperial Core geography, initial five-faction bible, Ardis ending, A-001 foundation
-Used By: Episodes 331–450, succession packets, claimant clocks, GA4 collection registry
+Depends On: [[imperial-core-and-succession-geography-v1]], [[initial-five-faction-bible-v1]], Ardis ending, [[antagonist-a001-continuity-director-v1]]
+Used By: [[ga4-episodes-331-450-act-map-v1]], succession packets, claimant clocks, GA4 collection registry
 Open Risks: Final names and personalities, exact deceased sovereign event, possible claimant consolidation
 
 ## 1. Succession Design Principle

@@ -3,8 +3,8 @@
 Status: REVIEW
 Owner Agents: C02 Ensemble / C03 Antagonist-Rival / C05 Psychology / C06 Voice / P01 Politics / P03 Law / N08 Faction Arcs
 Last Reviewed: 2026-08-03
-Depends On: succession law/claimants, Imperial Core geography, A-001 foundation
-Used By: Episodes 331–450, claimant relationship matrix, GA4 voice testing
+Depends On: succession law/claimants, [[imperial-core-and-succession-geography-v1]], [[antagonist-a001-continuity-director-v1]]
+Used By: [[ga4-episodes-331-450-act-map-v1]], claimant relationship matrix, GA4 voice testing
 Open Risks: Final names/genders/cultures open; personal relationships may change after scene-density testing
 
 ## 1. Shared Rule

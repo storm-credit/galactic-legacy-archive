@@ -3,7 +3,7 @@
 Status: REVIEW — FCT-06 블록만 PROPOSED — NONCANON
 Owner Agents: P01 Politics-Diplomacy / P02 Political Economy / P06 Faction Systems / P07 Opposition / P08 Third Powers / P09 Institutions / P10 Ideology / N08 Faction Arcs
 Last Reviewed: 2026-08-13
-Depends On: canon core packet, original timeline, academy bible, lattice economy, [[ga2-regional-force-and-clock-table-v1]] §21 FCT-R06, [[interregional-trade-flows-and-crisis-economy-v1]] §10
+Depends On: [[canon-core-packet-v1]], [[original-timeline-v1]], [[prison-military-academy-bible-v1]], lattice economy, [[ga2-regional-force-and-clock-table-v1]] §21 FCT-R06, [[interregional-trade-flows-and-crisis-economy-v1]] §10
 Used By: First 100 episodes, character bible, war clocks, political plot, 기동 프레임 슬롯 산출
 Open Risks: Provisional names, leader overfocus, economic numbers not calibrated, FCT-06 축 개수·명칭 미확정(작가 결정), FCT-06 인명 14건의 발음 충돌표 등록 미완(승격 시 수행)
 

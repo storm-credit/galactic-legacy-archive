@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: C02 Ensemble / C06 Voice / T07 Data Networks / P03 Law / N05 Mystery / G01 Collection Records
 Last Reviewed: 2026-08-03
-Depends On: academy bible, D-001/D-003, first-100 map
+Depends On: [[prison-military-academy-bible-v1]], D-001/D-003, [[first-100-act-map-v2-consolidated]]
 Used By: Episodes 21–100, evidence/communications, plural history arc
 Open Risks: Hacker cliché, convenient exposition, loyalty ambiguity becoming repetitive
 

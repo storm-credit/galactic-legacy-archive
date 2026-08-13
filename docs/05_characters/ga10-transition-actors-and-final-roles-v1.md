@@ -4,7 +4,7 @@ Status: REVIEW
 Owner Agents: C02 Ensemble / C04 Relationships / C05 Psychology / C06 Voice / P09 Institutions / N06 Ending / N08 Faction Arcs
 Last Reviewed: 2026-08-03
 Depends On: GA10 transition bible, GA9 regime actors, all core character arcs
-Used By: Episodes 1001–1100, final conflict fronts, reconstruction and epilogue
+Used By: [[ga10-episodes-1001-1100-act-map-v1]], final conflict fronts, reconstruction and epilogue
 Open Risks: final names, exact offices and relationship outcomes remain open
 
 ## 1. Front-Stage Rule

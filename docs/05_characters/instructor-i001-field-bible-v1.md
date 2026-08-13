@@ -3,8 +3,8 @@
 Status: REVIEW
 Owner Agents: C02 Ensemble / C05 Leadership Psychology / M07 Training-Personnel / P09 Institutions / C06 Voice
 Last Reviewed: 2026-08-03
-Depends On: academy bible, original timeline, first-100 map
-Used By: Episodes 1–100, academy internal blocs, protagonist mentor/conflict, charter climax
+Depends On: [[prison-military-academy-bible-v1]], [[original-timeline-v1]], [[first-100-act-map-v2-consolidated]]
+Used By: [[first-100-act-map-v2-consolidated]], academy internal blocs, protagonist mentor/conflict, charter climax
 Open Risks: secretly-good-teacher cliché, excessive authority, convenient protection
 
 ## 1. Identity

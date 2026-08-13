@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: C02 Ensemble / C04 Relationships / P04 Class-Family / P08 Frontier / M05 Logistics / M08 Command Ethics / N04 Causality
 Last Reviewed: 2026-08-03
-Depends On: protected-community focals, opening route graph, first ship, Orsen/Lysa/Ardis destinations
+Depends On: protected-community focals, [[opening-region-route-graph-v1]], first ship, Orsen/Lysa/Ardis destinations
 Used By: Episodes 161–185, H-001 arc, ship passenger conflict, GA3 population ties
 Open Risks: 36-person roster can still become numbers; final names and detailed personal histories open
 

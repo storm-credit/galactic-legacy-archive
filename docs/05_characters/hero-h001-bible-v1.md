@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: C02 Hero Roster / C03 Antagonist-Rival / C04 Relationship / C05 Psychology / M05 Logistics / N04 Causality
 Last Reviewed: 2026-08-03
-Depends On: canon core packet, original timeline, academy bible, initial faction bible
+Depends On: [[canon-core-packet-v1]], [[original-timeline-v1]], [[prison-military-academy-bible-v1]], initial faction bible
 Used By: First 100 episodes, divergence ledger, protagonist relationship arc, faction war
 Open Risks: Redemption simplification, victim-to-monster cliché, logistics talent underdramatized
 

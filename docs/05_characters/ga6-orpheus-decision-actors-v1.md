@@ -4,7 +4,7 @@ Status: REVIEW
 Owner Agents: C02 Ensemble / C03 Rival / C05 Psychology / C06 Voice / M08 Command Ethics / P08 Third Powers / N08 Faction Arcs
 Last Reviewed: 2026-08-03
 Depends On: Orpheus incident packet, GA5 commanders, Continuity Custodian, Common Fleet Charter
-Used By: Episodes 571–690, route councils, battle fronts and aftermath
+Used By: [[ga6-episodes-571-690-act-map-v1]], route councils, battle fronts and aftermath
 Open Risks: final names/cultures/genders open; cast overlap with GA5 may require consolidation
 
 ## 1. Front-Stage Rule

@@ -3,7 +3,7 @@
 Status: REVIEW — WORKING CANON
 Owner Agents: P01 Politics / P09 Institutions / M08 Command Ethics / O01 Canon / X01 Logic / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: later-act officeholder ledger, faction succession matrix, GA4–GA10 architecture and losses
+Depends On: [[later-act-officeholders-and-succession-ledger-v1]], [[faction-succession-culture-visual-identity-matrix-v1]], GA4–GA10 architecture and losses
 Used By: act state sheets, office transitions, command legality and ending audit
 Open Risks: exact dates/episodes for selected events, minor regional offices not enumerated
 

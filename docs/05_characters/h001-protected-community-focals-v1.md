@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: C02 Ensemble / C04 Relationships / P04 Class-Family / P08 Frontier / N04 Causality
 Last Reviewed: 2026-08-03
-Depends On: H-001 bible, academy contracts, culture packet, Black Ward arc
+Depends On: [[hero-h001-bible-v1]], academy contracts, culture packet, Black Ward arc
 Used By: Episodes 3–100, H-001 agency, protector transfer, GA2 convoy/community arc
 Open Risks: Community reduced to three faces, emotional manipulation, names/cultures provisional
 

@@ -3,7 +3,7 @@
 Status: REVIEW — CANON LOCK CANDIDATE
 Owner Agents: C01 Character / M06 Human Factors / T06 AI Cognition / N06 Ending / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: M-001/M-009/M-018 payoff locks, GA8–10 maps, master chronology
+Depends On: M-001/M-009/M-018 payoff locks, GA8–10 maps, [[master-series-chronology-v1]]
 Used By: Rian POV reliability, battle limits, final sacrifice, epilogue scenes
 Open Risks: exact neurological terminology and treatment details require later medical-style calibration
 

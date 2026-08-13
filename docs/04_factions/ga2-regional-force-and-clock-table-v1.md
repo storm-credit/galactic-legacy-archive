@@ -3,8 +3,8 @@
 Status: REVIEW
 Owner Agents: P06 Faction Systems / P07 Opposition / P08 Third Powers / M01 Strategy / M03 Fleet Operations / M05 Logistics / N08 Faction Arcs
 Last Reviewed: 2026-08-03
-Depends On: opening route graph, galaxy scale, initial five-faction bible, first ship bible
-Used By: Episodes 101–210, reinforcement timing, mission choices, GA3 launch
+Depends On: [[opening-region-route-graph-v1]], galaxy scale, [[initial-five-faction-bible-v1]], [[first-ship-bible-v1]]
+Used By: [[ga2-episodes-101-210-act-map-v1]], reinforcement timing, mission choices, GA3 launch
 Open Risks: Named commanders open, exact readiness changes through GA2, local polity details provisional
 
 ## 1. Scope
