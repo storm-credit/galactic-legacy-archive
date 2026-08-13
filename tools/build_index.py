@@ -116,11 +116,11 @@ class Doc:
 
 
 def collect():
-    skip = {"_index"}
+    skip = {"_index", "_catalog"}
     docs = []
     for p in sorted(DOCS.rglob("*.md")):
         parts = p.relative_to(DOCS).parts
-        if parts[0] in skip or p.name == "HOME.md":
+        if parts[0] in skip or p.name in {"HOME.md", "CATALOG.md"}:
             continue
         docs.append(Doc(p))
     return docs
