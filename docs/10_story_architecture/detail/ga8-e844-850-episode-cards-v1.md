@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P02 Economy / P03 Law / P04 Care / P06 Factions / M05 Logistics / M06 Intelligence / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E843 four-history legal-effects matrix and expiring Serrat Living Archive Compact
-Used By: B08-02 institution/cast/collection state, red-team audit and E851–875 Continuity Seed investigation
+Depends On: E843 four-history legal-effects matrix and expiring Serrat Living Archive Compact, [[ga8-e836-843-episode-cards-v1]], [[ga8-episodes-801-900-act-map-v1]]
+Used By: B08-02 institution/cast/collection state, red-team audit and E851–875 Continuity Seed investigation, [[ga8-e851-860-episode-cards-v1]], [[ga8-e861-868-episode-cards-v1]], [[ga8-e869-875-episode-cards-v1]]
 
 ## Shared Closing State
 

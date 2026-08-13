@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P02 Economy / P03 Law / P04 Care / P06 Factions / M06 Intelligence / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E901–910 treaty-key activation and efficiency results
-Used By: E919–925 participation/exit crisis and B09-01 audit
+Depends On: E901–910 treaty-key activation and efficiency results, [[ga9-e901-910-episode-cards-v1]], [[ga9-episodes-901-1000-act-map-v1]]
+Used By: E919–925 participation/exit crisis and B09-01 audit, [[ga9-e919-925-episode-cards-v1]]
 
 ## Shared Operational State
 

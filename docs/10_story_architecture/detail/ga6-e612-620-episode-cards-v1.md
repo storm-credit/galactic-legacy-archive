@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P03 Law / P04 Care / M03 Fleet / M05 Logistics / M07 Evacuation / M08 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E596–611, route dry tests, manifest categories and decision actors
-Used By: E621–645 military approach and B06-02 audit
+Depends On: E596–611, route dry tests, manifest categories and decision actors, [[ga6-e596-603-episode-cards-v1]], [[ga6-e604-611-episode-cards-v1]], [[ga6-episodes-571-690-act-map-v1]]
+Used By: E621–645 military approach and B06-02 audit, [[ga6-e621-628-episode-cards-v1]], [[ga6-e629-637-episode-cards-v1]], [[ga6-e638-645-episode-cards-v1]]
 
 ## Shared Starting State
 

@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P02 Economy / H04 Maintenance / M05 Logistics / M07 Command / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E481–487 convoy result, Charter v0.1, Vesper readiness state
-Used By: E495–500, maintenance pool and B05-02 audit
+Depends On: E481–487 convoy result, Charter v0.1, Vesper readiness state, [[ga5-e481-487-episode-cards-v1]], [[ga5-episodes-451-570-act-map-v1]]
+Used By: E495–500, maintenance pool and B05-02 audit, [[ga5-e495-500-episode-cards-v1]]
 
 ## Shared Starting State
 

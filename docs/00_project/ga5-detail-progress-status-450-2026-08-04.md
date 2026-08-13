@@ -25,9 +25,9 @@ Grand-act breakdown:
 - [[ga5-e534-540-episode-cards-v1]]
 - [[ga5-e541-547-episode-cards-v1]]
 - [[ga5-e548-550-episode-cards-v1]]
-- [[docs/07_military/operations/ga5-e526-550-outerfront-charter-v02-campaign-state-v1]]
+- [[ga5-e526-550-outerfront-charter-v02-campaign-state-v1]]
 - [[ga5-outerfront-charter-v02-campaign-cast-e526-550-v1]]
-- [[docs/09_collection/detail/ga5-e526-550-outerfront-charter-v02-campaign-state-v1]]
+- [[ga5-e526-550-outerfront-charter-v02-campaign-collection-state-v1]]
 - [[ga5-e526-550-redteam-v1]]
 
 ## 3. Outer Front Joint Mission

@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P02 Economy / P03 Law / P04 Care / P06 Factions / M06 Intelligence / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E926–935 administrative action ledgers and affected-community council
-Used By: E944–950 reform/conflict and B09-02 audit
+Depends On: E926–935 administrative action ledgers and affected-community council, [[ga9-e926-935-episode-cards-v1]], [[ga9-episodes-901-1000-act-map-v1]]
+Used By: E944–950 reform/conflict and B09-02 audit, [[ga9-e944-950-episode-cards-v1]]
 
 ## Shared Audit State
 

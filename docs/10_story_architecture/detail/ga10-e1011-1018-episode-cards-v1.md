@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N06 Ending / P03 Law / P04 Care / P06 Factions / M05 Logistics / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E1001–1010 seventeen-module architecture and live trainee tests
-Used By: E1019–1025 transition review and B10-01 audit
+Depends On: E1001–1010 seventeen-module architecture and live trainee tests, [[ga10-e1001-1010-episode-cards-v1]], [[ga10-episodes-1001-1100-act-map-v1]]
+Used By: E1019–1025 transition review and B10-01 audit, [[ga10-e1019-1025-episode-cards-v1]]
 
 ## Shared Transition State
 

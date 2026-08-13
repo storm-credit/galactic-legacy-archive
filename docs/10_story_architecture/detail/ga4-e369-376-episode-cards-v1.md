@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C01 Character / C02 Ensemble / C04 Relationships / P01 Politics / P02 Economy / P03 Law / P04 Care / P06 Factions / T02 Navigation / T03 Habitat Systems / T07 Networks / H03 Sensors / H04 Maintenance / H05 Medical / M01 Strategy / M02 Operational Art / M03 Fleet / M05 Logistics / M07 Command / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E361–368 Graybridge field result and 60-day Four-Function Continuity Order
-Used By: E377–380 compact revision, claimant compact state and B04-02 audit
+Depends On: E361–368 Graybridge field result and 60-day Four-Function Continuity Order, [[ga4-e361-368-episode-cards-v1]], [[ga4-episodes-331-450-act-map-v1]]
+Used By: E377–380 compact revision, claimant compact state and B04-02 audit, [[ga4-e377-380-episode-cards-v1]]
 Open Risks: first compact failure must not invalidate the four functions or local authority itself
 
 ## Shared Compact Attempt

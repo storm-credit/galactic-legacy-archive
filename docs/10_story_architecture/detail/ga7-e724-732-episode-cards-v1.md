@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N05 Mystery-Payoff / P03 Law / P06 Factions / M06 Intelligence / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E716–723 signature corpus and GA7 investigation contract
-Used By: E733–745 narrowed attribution and B07-02 audit
+Depends On: E716–723 signature corpus and GA7 investigation contract, [[ga7-e716-723-episode-cards-v1]], [[ga7-episodes-691-800-act-map-v1]]
+Used By: E733–745 narrowed attribution and B07-02 audit, [[ga7-e733-740-episode-cards-v1]], [[ga7-e741-745-episode-cards-v1]]
 
 ## Shared Investigation State
 

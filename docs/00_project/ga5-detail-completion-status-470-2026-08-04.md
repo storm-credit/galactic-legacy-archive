@@ -24,9 +24,9 @@ Grand-act breakdown:
 - [[ga5-e551-554-episode-cards-v1]]
 - [[ga5-e555-563-episode-cards-v1]]
 - [[ga5-e564-570-episode-cards-v1]]
-- [[docs/07_military/operations/ga5-e551-570-final-campaign-charter-v10-state-v1]]
+- [[ga5-e551-570-final-campaign-charter-v10-state-v1]]
 - [[ga5-final-campaign-charter-v10-cast-e551-570-v1]]
-- [[docs/09_collection/detail/ga5-e551-570-final-campaign-charter-v10-state-v1]]
+- [[ga5-e551-570-final-campaign-charter-v10-collection-state-v1]]
 - [[ga5-e451-570-final-cross-audit-v1]]
 
 ## 3. Final Campaign Result

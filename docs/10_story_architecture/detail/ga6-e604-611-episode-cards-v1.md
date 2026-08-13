@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / C02 Ensemble / P03 Law / P04 Care / M05 Logistics / M07 Evacuation / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E596–603 function packets, Common Fact Board and civilian councils
-Used By: E612–620, manifest categories and B06-02 audit
+Depends On: E596–603 function packets, Common Fact Board and civilian councils, [[ga6-e596-603-episode-cards-v1]], [[ga6-episodes-571-690-act-map-v1]]
+Used By: E612–620, manifest categories and B06-02 audit, [[ga6-e612-620-episode-cards-v1]]
 
 ## Shared Starting State
 

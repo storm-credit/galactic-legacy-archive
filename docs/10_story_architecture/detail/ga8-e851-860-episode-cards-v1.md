@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P03 Law / P04 Care / P06 Factions / M06 Intelligence / G04 AI / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E849–850 Continuity Seed quarantine and Serrat Multi-Provenance Accord
-Used By: E861–875 omission/connector/activation conflict and B08-03 audit
+Depends On: E849–850 Continuity Seed quarantine and Serrat Multi-Provenance Accord, [[ga8-e844-850-episode-cards-v1]], [[ga8-episodes-801-900-act-map-v1]]
+Used By: E861–875 omission/connector/activation conflict and B08-03 audit, [[ga8-e861-868-episode-cards-v1]], [[ga8-e869-875-episode-cards-v1]]
 
 ## Shared Starting State
 

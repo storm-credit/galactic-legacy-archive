@@ -194,9 +194,19 @@ def check_links(files: list[tuple[str, str]], report: Report) -> int:
             if not target:
                 continue
             total += 1
+            hits = by_basename.get(target + ".md", [])
+            # A bare name that several files answer to is ambiguous even when it
+            # also happens to match a path. [[README]] resolved silently to the
+            # repository README while ten entity notes meant the entity spec --
+            # the link worked, pointed at the wrong document, and nothing said so.
+            if "/" not in target and len(hits) > 1:
+                report.error(
+                    f"C1 {rel}: [[{target}]] is ambiguous — matches {', '.join(hits)}. "
+                    f"Use the full path form."
+                )
+                continue
             if target in by_path:
                 continue
-            hits = by_basename.get(target + ".md", [])
             if len(hits) == 1:
                 continue
             if len(hits) > 1:
@@ -379,6 +389,22 @@ def selftest() -> int:
         (
             "C1 accepts a resolvable wikilink",
             [("docs/a.md", "see [[b]]"), ("docs/b.md", "x")],
+            "links",
+            "",
+        ),
+        (
+            "C1 rejects a bare name shared by several files",
+            [("docs/a.md", "see [[README]]"),
+             ("README.md", "x"),
+             ("docs/_entities/README.md", "y")],
+            "links",
+            "C1",
+        ),
+        (
+            "C1 accepts the full path form of a shared name",
+            [("docs/a.md", "see [[docs/_entities/README]]"),
+             ("README.md", "x"),
+             ("docs/_entities/README.md", "y")],
             "links",
             "",
         ),

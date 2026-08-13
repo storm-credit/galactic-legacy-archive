@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P03 Law / P04 Care / M01 Strategy / M03 Fleet / M05 Logistics / M07 Evacuation / M08 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E646–670 physical rehearsals, final OOB and Orpheus 34-hour ledger
-Used By: E676–690 decisive operation and GA6 final audit
+Depends On: E646–670 physical rehearsals, final OOB and Orpheus 34-hour ledger, [[ga6-e646-653-episode-cards-v1]], [[ga6-e654-661-episode-cards-v1]], [[ga6-e662-670-episode-cards-v1]], [[ga6-episodes-571-690-act-map-v1]]
+Used By: E676–690 decisive operation and GA6 final audit, [[ga6-e676-686-episode-cards-v1]], [[ga6-e687-690-episode-cards-v1]]
 
 ## Shared Final-Preparation Window
 

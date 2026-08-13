@@ -3,8 +3,8 @@
 Status: REVIEW — ACT/SUBACT LEVEL ONLY
 Owner Agents: N02 Act Architecture / N03 Episode Structure / N04 Causality / N07 Retention / P06 Faction Clocks / M01 Strategy / X03 Ethics
 Last Reviewed: 2026-08-03
-Depends On: Preservation Regime bible, regime actors, GA8 Seed activation, A-001, grand-act ending
-Used By: GA9 collection registry, GA10 launch, scene-card preparation
+Depends On: Preservation Regime bible, regime actors, GA8 Seed activation, A-001, grand-act ending, [[ga9-preservation-regime-and-classification-bible-v1]], [[ga8-episodes-801-900-act-map-v1]], [[antagonist-a001-continuity-director-v1]]
+Used By: GA9 collection registry, GA10 launch, scene-card preparation, [[ga9-collection-registry-v1]], [[ga10-episodes-1001-1100-act-map-v1]]
 Open Risks: exact synchronized scale, enforcement theater, P-001 central-key mechanics and final operator defeat
 
 ## 1. Grand-Act Contract

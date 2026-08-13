@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / C03 Rival / P06 Factions / M01 Strategy / M03 Fleet / M05 Logistics / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E525 Asel opening, v0.1-R2 term, Vesper/Outer force state
-Used By: Charter v0.2, E534–550 and B05-04 audit
+Depends On: E525 Asel opening, v0.1-R2 term, Vesper/Outer force state, [[ga5-e525-episode-card-v1]], [[ga5-episodes-451-570-act-map-v1]]
+Used By: Charter v0.2, E534–550 and B05-04 audit, [[ga5-e534-540-episode-cards-v1]], [[ga5-e541-547-episode-cards-v1]], [[ga5-e548-550-episode-cards-v1]]
 
 ## Joint Mission Envelope
 

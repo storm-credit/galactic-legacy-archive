@@ -3,7 +3,7 @@
 Status: DECIDED
 Reviewed: 2026-08-08
 Reviewer Roles: A00 PM / O01 Canon / X04 Continuity / A16 Red Team / N07 Retention
-Depends On: [[README]] (docs/_entities), `CLAUDE.md` §3, §9, §11, §12, §13
+Depends On: [[docs/_entities/README]] (docs/_entities), `CLAUDE.md` §3, §9, §11, §12, §13
 Used By: [[entity-layer-design-options-and-blindspot-sweep-2026-08-08]] 채택안의 구현
 
 ## 1. 문제

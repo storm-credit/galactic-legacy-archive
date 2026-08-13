@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / T02 Navigation / T03 Life Support / M03 Fleet / M05 Logistics / M07 Evacuation / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E621–645 provisional lists, route state and Orpheus OOB
-Used By: E654–670 final preparation and B06-04 audit
+Depends On: E621–645 provisional lists, route state and Orpheus OOB, [[ga6-e621-628-episode-cards-v1]], [[ga6-e629-637-episode-cards-v1]], [[ga6-e638-645-episode-cards-v1]], [[ga6-episodes-571-690-act-map-v1]]
+Used By: E654–670 final preparation and B06-04 audit, [[ga6-e654-661-episode-cards-v1]], [[ga6-e662-670-episode-cards-v1]]
 
 ## Shared Starting State
 

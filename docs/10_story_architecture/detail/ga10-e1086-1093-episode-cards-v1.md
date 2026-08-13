@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N06 Ending / P03 Law / P04 Care / P06 Factions / M05 Logistics / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E1076–1085 final module and collection placement
-Used By: E1094–1100 final ordinary-crisis proof and series audit
+Depends On: E1076–1085 final module and collection placement, [[ga10-e1076-1085-episode-cards-v1]], [[ga10-episodes-1001-1100-act-map-v1]]
+Used By: E1094–1100 final ordinary-crisis proof and series audit, [[ga10-e1094-1100-episode-cards-v1]]
 
 ## Shared Final-Distribution State
 

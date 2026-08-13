@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / C02 Ensemble / P03 Law / P04 Care / P06 Factions / M06 Intelligence / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E741–765 Haren D4 state, Blood Admiral composite finding and Lin Osa evidence
-Used By: E776–790 inquiry/reform and B07-04 audit
+Depends On: E741–765 Haren D4 state, Blood Admiral composite finding and Lin Osa evidence, [[ga7-e741-745-episode-cards-v1]], [[ga7-e746-753-episode-cards-v1]], [[ga7-e754-765-episode-cards-v1]], [[ga7-episodes-691-800-act-map-v1]]
+Used By: E776–790 inquiry/reform and B07-04 audit, [[ga7-e776-783-episode-cards-v1]], [[ga7-e784-790-episode-cards-v1]]
 
 ## Shared Starting State
 

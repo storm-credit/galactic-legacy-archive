@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N06 Ending / P03 Law / P04 Care / P06 Factions / M05 Logistics / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E1075 defeat of the Final Continuity Fleet
-Used By: E1086–1100 final relinquishment and series audit
+Depends On: E1075 defeat of the Final Continuity Fleet, [[ga10-e1069-1075-episode-cards-v1]], [[ga10-episodes-1001-1100-act-map-v1]]
+Used By: E1086–1100 final relinquishment and series audit, [[ga10-e1086-1093-episode-cards-v1]], [[ga10-e1094-1100-episode-cards-v1]]
 
 ## Shared Opening State
 

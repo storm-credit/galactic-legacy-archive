@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / C02 Ensemble / P03 Law / P04 Care / P06 Factions / M06 Intelligence / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: GA7 E800 record-war trigger and Mutual Route Federation Charter 1.0
-Used By: E811–825 living-rights settlement and GA8 B08-01 audit
+Depends On: GA7 E800 record-war trigger and Mutual Route Federation Charter 1.0, [[ga7-e791-800-episode-cards-v1]], [[ga8-episodes-801-900-act-map-v1]]
+Used By: E811–825 living-rights settlement and GA8 B08-01 audit, [[ga8-e811-818-episode-cards-v1]], [[ga8-e819-825-episode-cards-v1]]
 
 ## Shared Starting State
 

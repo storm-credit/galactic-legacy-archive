@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P03 Law / P04 Care / P06 Factions / M05 Logistics / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E790 provisional Mutual Route Federation, D1–D4 ladder, three-key bridge and residual-duty reserve
-Used By: GA7 final cross-audit and GA8 E801–825 opening
+Depends On: E790 provisional Mutual Route Federation, D1–D4 ladder, three-key bridge and residual-duty reserve, [[ga7-e784-790-episode-cards-v1]], [[ga7-episodes-691-800-act-map-v1]]
+Used By: GA7 final cross-audit and GA8 E801–825 opening, [[ga8-e801-810-episode-cards-v1]], [[ga8-e811-818-episode-cards-v1]], [[ga8-e819-825-episode-cards-v1]]
 
 ## Shared Starting State
 

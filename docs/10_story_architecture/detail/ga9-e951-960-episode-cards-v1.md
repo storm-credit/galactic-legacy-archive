@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P03 Law / P04 Care / P06 Factions / M05 Logistics / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: GA9 E926–950 purpose separation, Perfect Route and central-response gap
-Used By: E961–975 operation/review and B09-03 audit
+Depends On: GA9 E926–950 purpose separation, Perfect Route and central-response gap, [[ga9-e926-935-episode-cards-v1]], [[ga9-e936-943-episode-cards-v1]], [[ga9-e944-950-episode-cards-v1]], [[ga9-episodes-901-1000-act-map-v1]]
+Used By: E961–975 operation/review and B09-03 audit, [[ga9-e961-968-episode-cards-v1]], [[ga9-e969-975-episode-cards-v1]]
 
 ## Shared Opening State
 

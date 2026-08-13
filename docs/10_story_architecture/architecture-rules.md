@@ -3,8 +3,8 @@
 Status: CANON
 Owner Agent: A09 Long-Form Story Architect
 Last Reviewed: 2026-08-03
-Depends On: Core concept, world rules, character bible
-Used By: Macroplot, act maps, episode design, payoff ledger
+Depends On: Core concept, world rules, character bible, [[canon-core-packet-v1]]
+Used By: Macroplot, act maps, episode design, payoff ledger, [[1000-episode-grand-act-map-v1]], [[series-payoff-ledger-v1]]
 Open Risks: Excessive hierarchy, repetitive escalation, overplanning distant episodes
 
 ## 1. Hierarchy

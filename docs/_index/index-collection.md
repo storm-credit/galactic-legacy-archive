@@ -46,8 +46,8 @@
 | [[ga5-e451-475-vesper-charter-and-loss-state-v1|ga5-e451-475-vesper-charter-and-loss-state-v1]] | GA5 E451–475 Vesper Charter Collection & Loss State v1 | REVIEW |
 | [[ga5-e476-500-charter-maintenance-pay-rescue-state-v1|ga5-e476-500-charter-maintenance-pay-rescue-state-v1]] | GA5 E476–500 Charter, Maintenance, Pay & Rescue Collectio… | REVIEW |
 | [[ga5-e501-525-title-recall-crown-outerfront-state-v1|ga5-e501-525-title-recall-crown-outerfront-state-v1]] | GA5 E501–525 Title, Recall, Crown & Outer Front Collectio… | REVIEW |
-| [[docs/09_collection/detail/ga5-e526-550-outerfront-charter-v02-campaign-state-v1|ga5-e526-550-outerfront-charter-v02-campaign-state-v1]] | GA5 E526–550 Outer Front, Charter v0.2 & Campaign Collect… | REVIEW |
-| [[docs/09_collection/detail/ga5-e551-570-final-campaign-charter-v10-state-v1|ga5-e551-570-final-campaign-charter-v10-state-v1]] | GA5 E551–570 Final Campaign & Charter v1.0 Collection Sta… | REVIEW |
+| [[ga5-e526-550-outerfront-charter-v02-campaign-collection-state-v1|ga5-e526-550-outerfront-charter-v02-campaign-collection-state-v1]] | GA5 E526–550 Outer Front, Charter v0.2 & Campaign Collect… | REVIEW |
+| [[ga5-e551-570-final-campaign-charter-v10-collection-state-v1|ga5-e551-570-final-campaign-charter-v10-collection-state-v1]] | GA5 E551–570 Final Campaign & Charter v1.0 Collection Sta… | REVIEW |
 | [[ga6-collection-registry-v1|ga6-collection-registry-v1]] | GA6 Collection Registry v1 | REVIEW |
 | [[ga6-e571-595-orpheus-common-fact-and-opening-loss-state-v1|ga6-e571-595-orpheus-common-fact-and-opening-loss-state-v1]] | GA6 E571–595 Orpheus Common-Fact & Opening Loss State v1 | REVIEW |
 | [[ga6-e596-620-function-manifest-plan-and-loss-state-v1|ga6-e596-620-function-manifest-plan-and-loss-state-v1]] | GA6 E596–620 Function, Manifest, Plan & Loss State v1 | REVIEW |

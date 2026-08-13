@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / C02 Ensemble / P03 Law / P04 Care / P06 Factions / M06 Intelligence / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E801–818 personhood, service access, record classes and eight-seat compact draft
-Used By: GA8 E826–850 four-founding-history conflict and B08-01 audit
+Depends On: E801–818 personhood, service access, record classes and eight-seat compact draft, [[ga8-e801-810-episode-cards-v1]], [[ga8-e811-818-episode-cards-v1]], [[ga8-episodes-801-900-act-map-v1]]
+Used By: GA8 E826–850 four-founding-history conflict and B08-01 audit, [[ga8-e826-835-episode-cards-v1]], [[ga8-e836-843-episode-cards-v1]], [[ga8-e844-850-episode-cards-v1]]
 
 ## Shared Starting State
 

@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P03 Law / P04 Care / M03 Fleet / M05 Logistics / M07 Evacuation / M08 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E646–661 route/population state and G/M stress evidence
-Used By: E671–690 final pre-window/operation and B06-04 audit
+Depends On: E646–661 route/population state and G/M stress evidence, [[ga6-e646-653-episode-cards-v1]], [[ga6-e654-661-episode-cards-v1]], [[ga6-episodes-571-690-act-map-v1]]
+Used By: E671–690 final pre-window/operation and B06-04 audit, [[ga6-e671-675-episode-cards-v1]], [[ga6-e676-686-episode-cards-v1]], [[ga6-e687-690-episode-cards-v1]]
 
 ## Limited Demonstration Scope
 

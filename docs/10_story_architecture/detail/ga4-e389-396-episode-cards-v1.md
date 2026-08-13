@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N07 Retention / N08 Faction Arcs / C01 Character / C02 Ensemble / C04 Relationships / P01 Politics / P02 Economy / P03 Law / P04 Care / P06 Factions / T02 Navigation / T07 Networks / M03 Fleet / M05 Logistics / M07 Command / X01 Logic / X02 Reader Memory / X03 Ethics / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E381–388 first live pilot mission, seven-field compact and Single Emergency Sovereign alternative
-Used By: E397–405 crisis cards, pilot review state and B04-03 audit
+Depends On: E381–388 first live pilot mission, seven-field compact and Single Emergency Sovereign alternative, [[ga4-e381-388-episode-cards-v1]], [[ga4-episodes-331-450-act-map-v1]]
+Used By: E397–405 crisis cards, pilot review state and B04-03 audit, [[ga4-e397-405-episode-cards-v1]]
 Open Risks: jurisdiction participation may change again after the next crisis
 
 ## Shared Parallel-Zone State

@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / M02 Operational Art / M03 Fleet / M06 Intelligence / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E541–547 campaign OOB, standing intent and authentication fallback
-Used By: E551–570 final campaign and B05-04 audit
+Depends On: E541–547 campaign OOB, standing intent and authentication fallback, [[ga5-e541-547-episode-cards-v1]], [[ga5-episodes-451-570-act-map-v1]]
+Used By: E551–570 final campaign and B05-04 audit, [[ga5-e551-554-episode-cards-v1]], [[ga5-e555-563-episode-cards-v1]], [[ga5-e564-570-episode-cards-v1]]
 
 ## Shared Starting State
 

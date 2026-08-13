@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P03 Law / P04 Care / M03 Fleet / M05 Logistics / M07 Evacuation / X04 Continuity
 Last Reviewed: 2026-08-04
-Depends On: E646–653 route rehearsals, E645 population/OOB state
-Used By: E662–670 Authority G demonstration and B06-04 audit
+Depends On: E646–653 route rehearsals, E645 population/OOB state, [[ga6-e646-653-episode-cards-v1]], [[ga6-e638-645-episode-cards-v1]], [[ga6-episodes-571-690-act-map-v1]]
+Used By: E662–670 Authority G demonstration and B06-04 audit, [[ga6-e662-670-episode-cards-v1]]
 
 ## Shared Starting State
 

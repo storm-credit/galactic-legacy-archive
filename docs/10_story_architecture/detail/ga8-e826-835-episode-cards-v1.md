@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / P03 Law / P04 Care / P06 Factions / M06 Intelligence / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E801–825 Serrat Living Archive Compact, current AI/descendant/service rights and four public founding bundles
-Used By: E836–850 adjudication, institution/cast/collection state and B08-02 audit
+Depends On: E801–825 Serrat Living Archive Compact, current AI/descendant/service rights and four public founding bundles, [[ga8-e801-810-episode-cards-v1]], [[ga8-e811-818-episode-cards-v1]], [[ga8-e819-825-episode-cards-v1]], [[ga8-episodes-801-900-act-map-v1]]
+Used By: E836–850 adjudication, institution/cast/collection state and B08-02 audit, [[ga8-e836-843-episode-cards-v1]], [[ga8-e844-850-episode-cards-v1]]
 
 ## Shared Starting State
 

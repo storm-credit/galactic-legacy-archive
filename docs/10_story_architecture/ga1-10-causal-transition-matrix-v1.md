@@ -3,8 +3,8 @@
 Status: REVIEW
 Owner Agents: O00 Novel PM / N01 Series Architect / N02 Act Architecture / N04 Causality / N05 Mystery-Payoff / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: GA1–10 act maps, collection registries, faction/character bibles, ending architecture
-Used By: Gate 6 completion audit, contraction design, scene-card dependency checks
+Depends On: GA1–10 act maps, collection registries, faction/character bibles, ending architecture, [[first-100-act-map-v2-consolidated]], [[ga2-episodes-101-210-act-map-v1]], [[ga3-episodes-211-330-act-map-v1]], [[ga4-episodes-331-450-act-map-v1]], [[ga5-episodes-451-570-act-map-v1]], [[ga6-episodes-571-690-act-map-v1]], [[ga7-episodes-691-800-act-map-v1]], [[ga8-episodes-801-900-act-map-v1]], [[ga9-episodes-901-1000-act-map-v1]], [[ga10-episodes-1001-1100-act-map-v1]]
+Used By: Gate 6 completion audit, contraction design, scene-card dependency checks, [[series-payoff-ledger-v1]]
 Open Risks: exact episode/scene locations and final named losses remain open
 
 ## 1. Matrix Rule

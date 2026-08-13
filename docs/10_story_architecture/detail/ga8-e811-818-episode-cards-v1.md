@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / C02 Ensemble / P03 Law / P04 Care / P06 Factions / M06 Intelligence / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E801–810 Serrat contact, personhood presumption and unauthorized snapshot incident
-Used By: E819–825 compact resolution and GA8 B08-01 audit
+Depends On: E801–810 Serrat contact, personhood presumption and unauthorized snapshot incident, [[ga8-e801-810-episode-cards-v1]], [[ga8-episodes-801-900-act-map-v1]]
+Used By: E819–825 compact resolution and GA8 B08-01 audit, [[ga8-e819-825-episode-cards-v1]]
 
 ## Shared Starting State
 

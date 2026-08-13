@@ -3,8 +3,8 @@
 Status: REVIEW — DETAILED EPISODE DESIGN
 Owner Agents: N03 Episode / N04 Causality / N06 Ending / P03 Law / P04 Care / P06 Factions / M05 Logistics / M07 Command / X04 Continuity
 Last Reviewed: 2026-08-05
-Depends On: E1001–1018 module distribution, crisis transfer and connector training
-Used By: GA10 E1026–1050 and B10-01 audit
+Depends On: E1001–1018 module distribution, crisis transfer and connector training, [[ga10-e1001-1010-episode-cards-v1]], [[ga10-e1011-1018-episode-cards-v1]], [[ga10-episodes-1001-1100-act-map-v1]]
+Used By: GA10 E1026–1050 and B10-01 audit, [[ga10-e1026-1035-episode-cards-v1]], [[ga10-e1036-1043-episode-cards-v1]], [[ga10-e1044-1050-episode-cards-v1]]
 
 ## Shared Review State
 
