@@ -3,8 +3,8 @@
 Status: REVIEW
 Owner Agents: P02 Political Economy / P03 Law / P04 Class-Education / P09 Institutions / M05 Logistics / O02 Risk
 Last Reviewed: 2026-08-03
-Depends On: academy bible, initial faction bible, first-100 map
-Used By: Facility map, first-100 scenes, contracts, casualties, charter design
+Depends On: [[prison-military-academy-bible-v1]], [[initial-five-faction-bible-v1]], [[first-100-act-map-v2-consolidated]]
+Used By: [[academy-white-dock-map-v1]], first-100 scenes, contracts, casualties, [[academy-provisional-charter-authority-funding-v1]] design
 Open Risks: Currency not named, wider imperial averages not yet calibrated, numbers may shift with galaxy scale
 
 ## 1. Calibration Principle

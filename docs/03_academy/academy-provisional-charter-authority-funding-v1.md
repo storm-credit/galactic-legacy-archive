@@ -3,8 +3,8 @@
 Status: REVIEW — GA1 END-STATE LOCK
 Owner Agents: P01 Politics / P02 Political Economy / P03 Law / P09 Institutions / M08 Command Ethics / T07 Networks / O02 Gate
 Last Reviewed: 2026-08-03
-Depends On: five takeover packages, siege state, Academy law calibration, Black Ward oversight
-Used By: E93–100 scene cards, GA2 first-ship lease, later institutional precedents
+Depends On: [[academy-closure-takeover-packages-v1]], [[academy-siege-force-and-front-state-v1]], [[academy-scale-law-calibration-v1]], Black Ward oversight
+Used By: [[ga1-episodes-93-100-scene-cards-v1]], GA2 first-ship lease, later institutional precedents
 Open Risks: final legal language and named signatories remain open; six-month revenue remains underfunded by design
 
 ## 1. Working Legal Name

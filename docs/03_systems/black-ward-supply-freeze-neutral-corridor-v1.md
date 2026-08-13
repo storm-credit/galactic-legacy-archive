@@ -3,8 +3,8 @@
 Status: REVIEW — CRISIS EXECUTION LOCK
 Owner Agents: T03 Life Support / T04 Neural Medicine / P02 Political Economy / P03 Law / P08 Neutral Powers / M05 Logistics / X03 Ethics
 Last Reviewed: 2026-08-03
-Depends On: Black Ward operational state, Helix faction, Neutral representative, first-100 Act C map
-Used By: E66–72 scene cards, patient triage, open adapter, GA1 financial-collapse launch
+Depends On: [[black-ward-medical-research-operational-state-v1]], Helix faction, Neutral representative, [[first-100-act-map-v2-consolidated]] Act C
+Used By: [[ga1-episodes-66-72-scene-cards-v1]], patient triage, open adapter, GA1 financial-collapse launch
 Open Risks: exact consumable names and transport-vessel model remain prose-level variables
 
 ## 1. Crisis Trigger

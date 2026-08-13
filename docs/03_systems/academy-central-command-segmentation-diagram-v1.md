@@ -3,8 +3,8 @@
 Status: REVIEW — ACTION/INSTITUTION EXECUTION LOCK
 Owner Agents: T07 Networks / T03 Habitat / M08 Command Ethics / H01 07 Systems / N03 Episode / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: Academy spatial map, siege state, charter, E91–96 scene cards
-Used By: central-key action prose, timing/state continuity, Pre-Writing Gate
+Depends On: [[academy-white-dock-map-v1]], [[academy-siege-force-and-front-state-v1]], [[academy-provisional-charter-authority-funding-v1]], [[ga1-episodes-85-92-scene-cards-v1]], [[ga1-episodes-93-100-scene-cards-v1]]
+Used By: central-key action prose, timing/state continuity, [[prewriting-gate]]
 Open Risks: exact hardware form and control-protocol vocabulary may change in prose; human comprehension remains open
 
 ## 1. Core Principle

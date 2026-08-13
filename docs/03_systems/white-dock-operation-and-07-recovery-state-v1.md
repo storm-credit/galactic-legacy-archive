@@ -3,8 +3,8 @@
 Status: REVIEW — EXECUTION LOCK CANDIDATE
 Owner Agents: M03 Fleet/Operation / M04 Frame Tactics / H01 Frame Engineering / H03 Sensors-Weapons / T03 Habitat / P03 Law / N03 Episode / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: Academy/White Dock map, Academy/07 opening state, E16–20 scene cards, E-001 bible, institutional representatives
-Used By: E21–45 scene cards, battle prose, custody and component continuity
+Depends On: [[academy-white-dock-map-v1]], [[academy-and-07-opening-operational-state-v1]], [[ga1-episodes-16-20-scene-cards-v1]], [[enemy-ace-e001-bible-v1]], [[opening-institutional-representatives-v1]]
+Used By: [[ga1-episodes-21-26-scene-cards-v1]], [[ga1-episodes-27-32-scene-cards-v1]], [[ga1-episodes-33-38-scene-cards-v1]], [[ga1-episodes-39-45-scene-cards-v1]], battle prose, custody and component continuity
 Open Risks: exact hostile-frame model names and minor casualty names remain open; human/mobile pacing may compress briefing language
 
 ## 1. Operation Window

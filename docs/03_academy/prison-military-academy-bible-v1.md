@@ -3,8 +3,8 @@
 Status: REVIEW
 Owner Agents: P03 Law / P04 Class-Education / P09 Institutions / M07 Training-Personnel / T04 Neural Systems / C02 Ensemble / N03 Episode Architecture
 Last Reviewed: 2026-08-03
-Depends On: canon core packet, original timeline, lattice warfare rules
-Used By: First 100 episodes, character recruitment, faction bible, academy missions
+Depends On: [[canon-core-packet-v1]], [[original-timeline-v1]], [[lattice-war-physics-and-ai-law]]
+Used By: First 100 episodes, character recruitment, [[initial-five-faction-bible-v1]], academy missions
 Open Risks: Excessive cruelty, implausible legal durability, too many simultaneous systems
 
 ## 1. Working Identity

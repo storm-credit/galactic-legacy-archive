@@ -3,7 +3,7 @@
 Status: REVIEW — BAND-LOCKED SNAPSHOTS
 Owner Agents: O01 Canon / M03 Fleet / M05 Logistics / T03 Habitat / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: operational state schema, master chronology, GA1–10 state matrix
+Depends On: [[operational-state-sheet-schema-v1]], [[master-series-chronology-v1]], [[ga1-10-state-checkpoint-matrix-v1]]
 Used By: detailed operation sheets and episode-card continuity
 Open Risks: exact per-ship rosters and some casualty/resource figures remain provisional
 

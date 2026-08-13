@@ -3,8 +3,8 @@
 Status: REVIEW — EXECUTION LOCK CANDIDATE
 Owner Agents: T03 Life Support / T04 Neural Medicine / T05 AI / P03 Rights / P09 Institutions / H04 Maintenance / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: Academy map/scale, imitation incident, Mia bible, Haren community, Archive/Continuity rules
-Used By: E46–72 scene cards, supply crisis, patient consent, AI-W001, GA1 siege
+Depends On: [[academy-white-dock-map-v1]]/[[academy-scale-law-calibration-v1]], [[imitation-cell-and-e45-incident-v1]], [[student-m001-medical-rescue-bible-v1]], Haren community, Archive/Continuity rules
+Used By: [[ga1-episodes-46-51-scene-cards-v1]], [[ga1-episodes-52-58-scene-cards-v1]], [[ga1-episodes-59-65-scene-cards-v1]], [[ga1-episodes-66-72-scene-cards-v1]], supply crisis, patient consent, AI-W001, [[academy-siege-force-and-front-state-v1]]
 Open Risks: exact pharmacology and neural-interface science require prose-level simplification; final senior clinician names remain open
 
 ## 1. Public and Hidden Identity
