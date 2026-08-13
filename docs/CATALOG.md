@@ -11,7 +11,7 @@
 | 인물 (정본 잠금) | 24 | [[catalog-characters]] |
 | 기체 | 46 | [[catalog-frames]] |
 | 함선 | 41 | [[catalog-hulls]] |
-| 수집 등록 항목 | 373 | [[catalog-collection]] |
+| 수집 등록 항목 | 373 | [[catalog-collection]] · [[catalog-by-domain]] |
 
 ## 아직 항목 단위로 없는 것
 

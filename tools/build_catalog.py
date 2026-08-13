@@ -144,6 +144,47 @@ def read_collection() -> dict[str, list[tuple[str, str, str]]]:
     return out
 
 
+# ---------------------------------------------------------------- domain tags
+
+# CLAUDE.md section 15-6: the C1-C8 split is the author-side domain tag, and any
+# proposed classification stays NONCANON until approved. So this is a derived
+# view, not a fact added to the repository -- the rule is printed with the
+# result so a wrong tag is visible as a wrong rule, not as a silent claim.
+#
+# First match wins, most specific first. Matched against "section title" text.
+DOMAIN_RULES: list[tuple[str, tuple[str, ...]]] = [
+    # People first, always. "Commander, Crew and Formation Relationships" is a
+    # people section, and letting "formation" claim it would file persons under
+    # ships -- the exact failure CLAUDE.md section 15-8 forbids.
+    ("C1 영웅·관계", ("relationship", "people", "crew", "commander", "claimant",
+                    "constituenc", "cast", "sacrifice", "representative",
+                    "identity and responsibility", "iconic people")),
+    ("C2 기체", ("frame", "07호", "auxilia")),
+    ("C5 함선", ("ship", "hull", "carrier", "fleet")),
+    ("C3 무기·부품", ("tool", "weapon", "module", "systems", "equipment", "part")),
+    ("C8 영토·노드", ("route", "node", "infrastructure", "region", "site", "territor",
+                    "industrial")),
+    ("C7 세력·제도", ("institution", "governance", "authority", "federation",
+                    "administrative", "public-service", "mandate", "protocol",
+                    "safeguard", "regime", "opposition", "charter", "compact",
+                    "formation", "command", "defense", "military")),
+    ("C6 기술", ("classification", "standard", "service-key", "distribution",
+               "functional", "technolog", "logistics", "repair", "readiness",
+               "service")),
+    ("C4 유물·기록", ("record", "evidence", "provenance", "archive", "seed", "key",
+                   "history", "origin", "legal", "right", "truth", "succession")),
+    ("장기 약속", ("mystery", "symbolic", "payoff", "thematic", "promise")),
+]
+
+
+def domain_of(section: str, title: str) -> str:
+    haystack = f"{section} {title}".lower()
+    for domain, keys in DOMAIN_RULES:
+        if any(k in haystack for k in keys):
+            return domain
+    return "미분류"
+
+
 # --------------------------------------------------------------------- write
 
 
@@ -211,13 +252,33 @@ def build() -> dict[Path, str]:
     pages[CAT_DIR / "catalog-collection.md"] = page(
         "수집 — 등록 항목 전체", "대액트별 수집 등록표의 항목을 한 줄씩 편 것.", body)
 
+    by_dom: dict[str, list[tuple[str, str, str, str]]] = defaultdict(list)
+    for stem, items in coll.items():
+        for i, title, section in items:
+            by_dom[domain_of(section, title)].append((i, title, section, stem))
+    order = [d for d, _ in DOMAIN_RULES] + ["미분류"]
+    body = ["> [!note] `PROPOSED — NONCANON`",
+            "> 분야 태그는 절 이름과 항목 제목에서 **규칙으로 유도한 것**이며 승인된 분류가 아니다 (CLAUDE.md §15-6).",
+            "> 규칙은 `tools/build_catalog.py`의 `DOMAIN_RULES`에 있다. 태그가 틀렸으면 규칙을 고친다.", ""]
+    for dom in order:
+        items = by_dom.get(dom, [])
+        if not items:
+            continue
+        body += [f"## {dom} — {len(items)}개", "", "| ID | 항목 | 절 | 출처 |", "|---|---|---|---|"]
+        body += [f"| `{i}` | {ti} | {s} | [[{st}]] |" for i, ti, s, st in items]
+        body.append("")
+    body += ["첫 일치 규칙이라 한 항목은 태그 하나만 받는다. 실제로는 복수 태그가 정상이며",
+             "(이동식 거주 함선은 C5이자 C8), 그 판단은 [[collection-desire-master-architecture-and-index-audit-v1]] §5가 보유한다."]
+    pages[CAT_DIR / "catalog-by-domain.md"] = page(
+        "수집 — 분야별 (C1–C8)", "같은 373개 항목을 분야 태그로 다시 묶은 것. 새 항목을 만들지 않는다.", body)
+
     home = [
         "| 분야 | 항목 수 | 카탈로그 |",
         "|---|---:|---|",
         f"| 인물 (정본 잠금) | {len(chars)} | [[catalog-characters]] |",
         f"| 기체 | {len(frames)} | [[catalog-frames]] |",
         f"| 함선 | {len(hulls)} | [[catalog-hulls]] |",
-        f"| 수집 등록 항목 | {total} | [[catalog-collection]] |",
+        f"| 수집 등록 항목 | {total} | [[catalog-collection]] · [[catalog-by-domain]] |",
         "",
         "## 아직 항목 단위로 없는 것",
         "",
