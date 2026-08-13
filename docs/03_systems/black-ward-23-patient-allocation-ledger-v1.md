@@ -3,7 +3,7 @@
 Status: REVIEW — MEDICAL/RESOURCE EXECUTION LOCK
 Owner Agents: T04 Neural Medicine / M05 Logistics / P03 Rights / X03 Ethics / O01 Canon
 Last Reviewed: 2026-08-03
-Depends On: Black Ward state, supply freeze/corridor, E66–72 scene cards
+Depends On: [[black-ward-medical-research-operational-state-v1]], [[black-ward-supply-freeze-neutral-corridor-v1]], E66–72 scene cards
 Used By: medical prose, casualty/choice continuity, Helix/adapter/Neutral outcome tracking
 Open Risks: fictional symptom/procedure wording still requires conservative prose review; exact drug/device names remain intentionally generic
 

@@ -3,7 +3,7 @@
 Status: REVIEW — EXECUTION LOCK CANDIDATE
 Owner Agents: H01 Frame Design / H04 Maintenance / T03 Habitat / M04 Frame Doctrine / N03 Episode / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: Academy bible/map, 07 lineage, opening-20 beat map, operational-state schema
+Depends On: [[prison-military-academy-bible-v1]]/[[academy-white-dock-map-v1]], [[first-frame-bible-v1]] lineage, [[ga1-episodes-1-20-beat-map-v1]], [[operational-state-sheet-schema-v1]]
 Used By: E1–20 scene cards, prose, repair and action continuity
 Open Risks: exact manufacturer/model naming and detailed engineering diagrams remain open
 

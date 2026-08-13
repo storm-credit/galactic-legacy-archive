@@ -3,7 +3,7 @@
 Status: REVIEW
 Owner Agents: T01 Orbital Science / T03 Habitat Systems / M04 Frame Tactics / H02 Ship Architecture / W05 Description / X04 Continuity
 Last Reviewed: 2026-08-03
-Depends On: academy bible, scale calibration, lattice physics, first-100 map
+Depends On: [[prison-military-academy-bible-v1]], [[academy-scale-law-calibration-v1]], [[lattice-war-physics-and-ai-law]], first-100 map
 Used By: Scene blocking, mission maps, travel time, siege, sensory description
 Open Risks: Exact structural engineering, visual concept art, full emergency-route simulation
 

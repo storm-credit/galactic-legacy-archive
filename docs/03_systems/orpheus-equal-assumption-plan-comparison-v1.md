@@ -3,7 +3,7 @@
 Status: REVIEW — COMPARATIVE SIMULATION
 Owner Agents: M01 Strategy / M05 Logistics / M07 Evacuation / T02 Navigation / X01 Logic / X03 Ethics
 Last Reviewed: 2026-08-03
-Depends On: 34-hour operation ledger, GA6 dilemma bible, operational state schema
+Depends On: [[orpheus-34-hour-operation-ledger-v1]], GA6 dilemma bible, [[operational-state-sheet-schema-v1]]
 Used By: Rian’s E681 decision, red-team fairness, GA6 scene cards
 Open Risks: exact hostile tactics and regional 90-day mortality model remain banded
 

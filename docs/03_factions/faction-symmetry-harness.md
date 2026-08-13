@@ -3,8 +3,8 @@
 Status: CANON FOR DESIGN
 Owner Agents: P06 Faction Systems Architect, P07 Opposition Strategy Director
 Last Reviewed: 2026-08-03
-Depends On: Political economy, military doctrine, character bible, chronology
-Used By: Faction bible, act architecture, war plans, diplomacy scenes, continuity review
+Depends On: Political economy, [[military-doctrine-and-force-structure-bible-v1]], character bible, [[master-series-chronology-v1]]
+Used By: [[initial-five-faction-bible-v1]], act architecture, war plans, diplomacy scenes, continuity review
 Open Risks: Protagonist-centric world, cardboard villains, frozen third parties, false moral equivalence
 
 ## 1. Core Rule

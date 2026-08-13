@@ -3,7 +3,7 @@
 Status: REVIEW — EXECUTION INFRASTRUCTURE
 Owner Agents: O01 Canon / X04 Continuity / M03 Fleet / M05 Logistics / T03 Habitat / N03 Episode
 Last Reviewed: 2026-08-03
-Depends On: master chronology, GA1–10 state checkpoints, route/fleet/node bibles
+Depends On: [[master-series-chronology-v1]], GA1–10 state checkpoints, route/fleet/node bibles
 Used By: every mission, battle, evacuation, node operation and grand-act boundary
 Open Risks: automation/validation scripts not yet implemented
 
