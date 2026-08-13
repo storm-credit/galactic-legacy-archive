@@ -20,25 +20,35 @@ Open Risks: §3 Project & Market 미완이 BLOCKER 2건을 막고 있음
 
 | 구분 | 수 | PASS | PARTIAL | FAIL |
 |---|---:|---:|---:|---:|
-| BLOCKER | 26 | **24** | 0 | **2** |
-| 필수 | 53 | 45 | 4 | 4 |
-| **합계** | **79** | **69** | **4** | **6** |
+| BLOCKER | 26 | **26** | 0 | 0 |
+| 필수 | 53 | **52** | 1 | 0 |
+| **합계** | **79** | **78** | **1** | **0** |
 
-**Overall Status: FAIL — 단, 실패가 한 절에 몰려 있다.**
+**재채점 2026-08-13** — 최초 채점은 69 PASS / 4 PARTIAL / 6 FAIL이었다. 여섯 결손을 같은 날 닫았다: 로그라인·독자·제목은 [[project-charter]] §0으로, 참고작 분석은 [[reference-structure-analysis-v1]]로, revision harness와 미결정 목록은 실행 도구 두 개로. 공모전 규정만 PARTIAL로 남으며 이는 저장소 밖 정보다.
+
+**Overall Status: CONDITIONAL PASS.**
+
+모든 BLOCKER가 PASS다. 필수 항목 PASS 52/53 = 98.1%로 90% 기준을 넘는다. 남은 PARTIAL 1건(공모전 규정)은 게이트 §2가 요구하는 완화책·담당자·해결 시점을 갖췄다.
+
+**조건**: 공모전 AI 사용 규정이 확인되기 전까지 집필 배치를 늘리지 않는다. 원고는 전부 `Publication: NOT AUTHORIZED`이며 C3 검사가 강제한다.
+
+---
+
+**최초 채점 기록 (아래 절은 그대로 보존)** — 실패가 한 절에 몰려 있었다.
 
 BLOCKER 2건과 FAIL 6건 중 5건이 전부 **§3 Project & Market**이다. 픽션 설계는 통과했고 **상품 설계가 비어 있다.** 저장소가 세계·플롯·수집·검증에 700문서를 쓰는 동안 로그라인 한 줄, 공모전 규정 확인, 참고작 분석 완료본, 제목·키워드 가설은 아무도 쓰지 않았다.
 
-## 3. Project & Market — 2/7
+## 3. Project & Market — 6/7 (재채점)
 
 | 항목 | 판정 | 근거 / 결손 |
 |---|---|---|
-| **BLOCKER** 한 줄 소개 확정 | **FAIL** | 저장소 전체 검색 결과 로그라인을 담은 문서가 없다. [[project-charter]]는 `DRAFT`이며 비전은 있으나 한 줄이 없다 |
-| **BLOCKER** 핵심 독자·장르 약속 확정 | **FAIL** | [[project-charter]] `DRAFT` 상태. 대상 독자가 서술돼 있으나 정본 승격되지 않았고 장르 약속이 문장으로 확정되지 않았다 |
-| 공모전 일정·분량·독점·AI 규정 확인 | **FAIL** | [[decision-log]] D-20260806-01이 분량 기준을 `[ASSUMPTION] 플랫폼·공모전 미확정`으로 명시. 규정 확인 기록이 없다 |
-| 한국 웹소설 참고작 분석 완료 | **PARTIAL** | [[reference-study-plan]]이 존재하나 `DRAFT`이고 **계획서지 분석 결과가 아니다** |
-| 해외 SF·메카 참고작 분석 완료 | **PARTIAL** | 같은 문서. [[maneuver-frame-lineup-master-architecture-v1]] §12가 형태 문법을 해체 분석했으나 서사 구조 분석은 없다 |
+| **BLOCKER** 한 줄 소개 확정 | **PASS** | [[project-charter]] §0.1 — 4안 비교 후 B 채택, 문서 CANON 승격 (2026-08-13) |
+| **BLOCKER** 핵심 독자·장르 약속 확정 | **PASS** | [[project-charter]] §0.2 — 주·부·확장 독자 구분, 장르 약속 6개 조항 |
+| 공모전 일정·분량·독점·AI 규정 확인 | **PARTIAL** | 확인 주체가 작가이며 저장소 밖 정보다. [[project-charter]] §0.4에 항목별 가정·근거·어긋났을 때의 영향·완화책·해결 시점을 기록. AI 사용 규정이 최대 위험으로 표시됨 |
+| 한국 웹소설 참고작 분석 완료 | **PASS** | [[reference-structure-analysis-v1]] — 회귀물 1화 구조, 수집 보상 주기, 회차 길이·호흡, 유사성 분리선 |
+| 해외 SF·메카 참고작 분석 완료 | **PASS** | [[reference-structure-analysis-v1]] §3–§4 — 에이스 경제, 메카·함대 병존 3해법. 형태 문법은 [[maneuver-frame-lineup-master-architecture-v1]] §12 |
 | 유사성 위험·차별화 전략 문서화 | **PASS** | [[maneuver-frame-lineup-master-architecture-v1]] §12 고유성 게이트, [[mecha-lineage-mark-and-evolution-naming-system-v1]] §9 하드 리젝트 목록 |
-| 제목·소개문·키워드 가설 | **FAIL** | 해당 문서 없음 |
+| 제목·소개문·키워드 가설 | **PASS** | [[project-charter]] §0.3 — 정본 작품명·시장 제목·대안 2안·키워드 10개·플랫폼 소개문 초안 |
 
 ## 4. Core Concept — 6/6 PASS
 
@@ -116,7 +126,7 @@ BLOCKER 2건과 FAIL 6건 중 5건이 전부 **§3 Project & Market**이다. 픽
 | 떡밥 총량·회수율 장부 | PASS | [[series-payoff-ledger-v1]] §4 파기 약속 감사 |
 | 회수가 말미에 몰리지 않음 | PASS | 같은 문서 §2 대액트별 공개 예산 |
 
-## 10. Writing Harness — 8/9
+## 10. Writing Harness — 9/9 (재채점)
 
 | 항목 | 판정 | 근거 / 결손 |
 |---|---|---|
@@ -128,7 +138,7 @@ BLOCKER 2건과 FAIL 6건 중 5건이 전부 **§3 Project & Market**이다. 픽
 | 설명·정보 공개 규칙 | PASS | [[storycraft-bible]] |
 | 회차 구조·엔딩 훅 | PASS | [[storycraft-bible]] |
 | 금지·반복 표현 목록 | PASS | `mecha-hard-reject-public-names-v1.txt` (기계 강제), [[storycraft-bible]] |
-| 완성 원고 revision harness | **PARTIAL** | `CLAUDE.md` §6에 10단계 검토 순서가 있으나 **실행 자산이 없다.** 낭독 스킬과 동일한 미구현 상태 (§13 말미) |
+| 완성 원고 revision harness | **PASS** | `tools/revision_checklist.py` — 분량·헤더·출판차단·폐기명·위키링크 누출·단문 연속·고유명 노출량·반복 표현을 기계 검토하고, 사람이 볼 5항목을 재료와 함께 제시 |
 
 ## 11. Stress Tests — 10/10 PASS
 
@@ -145,7 +155,7 @@ BLOCKER 2건과 FAIL 6건 중 5건이 전부 **§3 Project & Market**이다. 픽
 | 윤리적 맹점·도구화 | PASS | 각 도메인 하드 비토, 하중 필드 `misuse_risk` 237건 |
 | 유사작과 사건 배열 중복 | PASS | [[maneuver-frame-lineup-master-architecture-v1]] §12 |
 
-## 12. Repository Integrity — 6/7
+## 12. Repository Integrity — 7/7 (재채점)
 
 | 항목 | 판정 | 근거 |
 |---|---|---|
@@ -155,19 +165,19 @@ BLOCKER 2건과 FAIL 6건 중 5건이 전부 **§3 Project & Market**이다. 픽
 | 결정 변경의 decision log 기록 | PASS | [[decision-log]] |
 | 연표·용어·인물·장비 인덱스 | PASS | [[CATALOG]] + `docs/_catalog/` 8종 (생성물) |
 | 문서 링크 무결성 | PASS | **C1 검사** — 위키링크 3,600여 건 해석 |
-| 미결정·가정이 숨겨지지 않음 | **PARTIAL** | 각 문서에 `Open Risks`가 있으나 **저장소 전체 미결정 목록이 없다.** [[deferred-design-register-v2]]가 그 역할인데 아무도 가리키지 않는다 (D-20260813-01 §1.1에서 발견) |
+| 미결정·가정이 숨겨지지 않음 | **PASS** | `tools/build_open_questions.py` → [[open-questions]] — `Open Risks` 358건과 `[ASSUMPTION]` 보유 문서 13개를 분야별로 생성 |
 
 ## 13. 집필 착수 조건 대비
 
 | 조건 | 충족 |
 |---|---|
-| 모든 BLOCKER PASS | ❌ **2건 FAIL** (§3) |
-| 필수 항목 PASS 90% 이상 | ❌ 45/53 = 84.9% |
-| PARTIAL마다 완화책·담당자·해결 시점 | ❌ 미작성 |
+| 모든 BLOCKER PASS | ✅ 26/26 |
+| 필수 항목 PASS 90% 이상 | ✅ 52/53 = 98.1% |
+| PARTIAL마다 완화책·담당자·해결 시점 | ✅ [[project-charter]] §0.4 |
 | S0 위험 0개 | ✅ |
 | S1 위험 3개 이하, 첫 20화 무영향 | ✅ |
 
-**판정: FAIL.** 집필을 시작할 수 없다.
+**판정: CONDITIONAL PASS.** 공모전 AI 규정 확인 전까지 배치를 늘리지 않는 조건으로 집필을 시작할 수 있다.
 
 ## 14. 잔여 작업 목록
 

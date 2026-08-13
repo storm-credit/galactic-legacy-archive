@@ -317,3 +317,16 @@ python tools/build_census.py --check   # 낡았으면 실패 (CI가 실행)
 **질감 필드** — 실루엣, 냉각·정비 대역, 발견 장면의 구체적 묘사. 장면이 있어야 쓸 수 있다. 항목별 `PENDING_SCENE`으로 두고 해당 구간 설계·집필 때 채운다. 기체가 M-029~M-046의 섀시 증명을 미룬 것과 같은 이유다.
 
 하중 필드는 `docs/*/data/anchor-fields-*.csv`에 있고 C9가 강제한다. 새 항목을 등록하면 같은 PR에서 하중 행을 추가한다 — 빠뜨리면 CI가 실패한다.
+
+## 20. 게이트와 원고 검토 실행 자산 (2026-08-13 추가)
+
+게이트 §12(미결정이 숨겨지지 않음)와 §10(revision harness)은 문서만 있고 실행 자산이 없어 `PARTIAL`이었다. 둘 다 도구가 됐다.
+
+```bash
+python tools/build_open_questions.py         # Open Risks + [ASSUMPTION] 전수 수집
+python tools/revision_checklist.py --all     # 원고 기계 검토 + 사람이 볼 항목 제시
+```
+
+- [[open-questions]]는 생성물이다. 미결정 내용은 각 문서의 `Open Risks:` 헤더가 보유한다.
+- `revision_checklist.py`는 §6의 10단계 중 **기계가 할 수 있는 것만** 판정하고, 나머지는 재료를 뽑아 사람에게 넘긴다. 판정과 위임을 섞지 않는다.
+- 게이트 채점 상태는 [[prewriting-gate-scorecard-2026-08-13]]가 보유한다. 체크리스트 본문은 템플릿으로 유지한다.

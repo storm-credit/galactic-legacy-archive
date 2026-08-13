@@ -137,7 +137,7 @@
 | [[pre-writing-gate-open-record-2026-08-06|pre-writing-gate-open-record-2026-08-06]] | Pre-Writing Gate Open Record | CANON PROJECT CONTROL |
 | [[pre-writing-gate-review-v1|pre-writing-gate-review-v1]] | Pre-Writing Gate Review v1 | REVIEW |
 | [[prewriting-dry-audit-status-2026-08-03|prewriting-dry-audit-status-2026-08-03]] | Pre-Writing Dry-Audit Status | CANON PROJECT CONTROL |
-| [[project-charter|project-charter]] | Project Charter | DRAFT |
+| [[project-charter|project-charter]] | Project Charter | CANON |
 | [[reader-facing-terminology-phonetics-and-register-bible-v1|reader-facing-terminology-phonetics-and-register-bible-v1]] | Reader-Facing Terminology, Phonetics & Register Bible v1 | CANON PROJECT CONTROL |
 | [[settings-bible-final-status-2026-08-03|settings-bible-final-status-2026-08-03]] | Settings-Bible Final Status | FINAL CANON PROJECT CONTROL |
 | [[settings-bible-master-index-v1|settings-bible-master-index-v1]] | Settings-Bible Master Index v1 | CANON PROJECT CONTROL |
