@@ -4,7 +4,7 @@ Status: REVIEW — ACT/SUBACT LEVEL ONLY
 Owner Agents: N02 Act Architecture / N03 Episode Structure / N04 Causality / N07 Retention / G04 Reward Cadence / M03 Fleet Operations / N08 Faction Arcs
 Last Reviewed: 2026-08-03
 Depends On: Gate 6 macro map, opening route graph, first ship, crew, regional force table, community split model, [[1000-episode-grand-act-map-v1]], [[first-100-act-map-v2-consolidated]], [[ga2-first-ship-crew-bible-v1]]
-Used By: GA2 collection registry, scene-card preparation, GA3 launch, [[ga2-collection-registry-v1]], [[ga3-episodes-211-330-act-map-v1]]
+Used By: GA2 collection registry, scene-card preparation, GA3 launch, [[ga2-collection-registry-v1]], [[ga3-episodes-211-330-act-map-v1]], [[named-hull-registry-and-naming-grammar-v1]], [[maneuver-frame-lineup-master-architecture-v1]]
 Open Risks: Final cast/names, exact ship missions and battle maps, Gate 1 prose calibration still open
 
 ## 1. Grand-Act Contract

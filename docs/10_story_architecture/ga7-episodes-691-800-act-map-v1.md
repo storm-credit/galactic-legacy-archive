@@ -4,7 +4,7 @@ Status: REVIEW — ACT/SUBACT LEVEL ONLY
 Owner Agents: N02 Act Architecture / N03 Episode Structure / N04 Causality / N05 Mystery-Payoff / N07 Retention / P06 Faction Clocks / M08 Command Ethics
 Last Reviewed: 2026-08-03
 Depends On: route federation/denial bible, Blood Admiral decomposition, route-war leaders, GA6 aftermath, [[ga7-route-federation-and-denial-war-bible-v1]], [[ga6-episodes-571-690-act-map-v1]]
-Used By: GA7 collection registry, GA8 launch, scene-card preparation, [[ga7-collection-registry-v1]], [[ga8-episodes-801-900-act-map-v1]]
+Used By: GA7 collection registry, GA8 launch, scene-card preparation, [[ga7-collection-registry-v1]], [[ga8-episodes-801-900-act-map-v1]], [[named-hull-registry-and-naming-grammar-v1]], [[maneuver-frame-lineup-master-architecture-v1]]
 Open Risks: exact denial incident, theater graph and casualty/downstream ledger remain open
 
 ## 1. Grand-Act Contract

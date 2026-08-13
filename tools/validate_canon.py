@@ -243,6 +243,51 @@ def check_retired_names(files: list[tuple[str, str]], report: Report) -> int:
     return checked
 
 
+# --------------------------------------------------------------------------
+# C7 — arc claims in proposed registries
+# --------------------------------------------------------------------------
+# A registry row says which grand act an item first appears in. Nothing used to
+# verify that the arc exists, so a slot could be parked in an arc the series
+# does not have, and the row would still read as a plan.
+
+ARC_REGISTRIES = (
+    "docs/06_hardware/named-hull-registry-and-naming-grammar-v1.md",
+    "docs/06_hardware/maneuver-frame-lineup-master-architecture-v1.md",
+)
+ARC_TOKEN = re.compile(r"\bGA(\d{1,2})\b")
+
+
+def act_map_for(ga: int, stems: set[str]) -> str | None:
+    if ga == 1:
+        return next((s for s in stems if s.startswith("first-100-act-map")), None)
+    prefix, suffix = f"ga{ga}-episodes-", "-act-map-v1"
+    return next((s for s in stems if s.startswith(prefix) and s.endswith(suffix)), None)
+
+
+def check_arc_claims(files: list[tuple[str, str]], report: Report) -> int:
+    """C7 — every arc a registry row claims must have an act map."""
+    stems = {rel.rsplit("/", 1)[-1][: -len(".md")] for rel, _ in files}
+    checked = 0
+    for rel, text in files:
+        if rel not in ARC_REGISTRIES:
+            continue
+        seen: set[int] = set()
+        for line in text.split("\n"):
+            if not line.startswith("| "):
+                continue
+            for match in ARC_TOKEN.finditer(line):
+                ga = int(match.group(1))
+                if ga in seen:
+                    continue
+                seen.add(ga)
+                checked += 1
+                if not act_map_for(ga, stems):
+                    report.error(
+                        f"C7 {rel}: a row places an item in GA{ga}, which has no act map"
+                    )
+    return checked
+
+
 def parse_header(text: str) -> dict[str, str]:
     """Collect ``Key: value`` fields from the head of the file.
 
@@ -428,6 +473,21 @@ def selftest() -> int:
             "",
         ),
         (
+            "C7 detects a registry row placed in an arc with no act map",
+            [("docs/06_hardware/named-hull-registry-and-naming-grammar-v1.md",
+              "| S-001 | `FR44-207` | x | FR | 1 | GA11 | y | 제안 |")],
+            "arcs",
+            "C7",
+        ),
+        (
+            "C7 accepts an arc that has an act map",
+            [("docs/06_hardware/named-hull-registry-and-naming-grammar-v1.md",
+              "| S-001 | `FR44-207` | x | FR | 1 | GA2 | y | 제안 |"),
+             ("docs/10_story_architecture/ga2-episodes-101-210-act-map-v1.md", "x")],
+            "arcs",
+            "",
+        ),
+        (
             "C2 allows a retired name quoted as inline code",
             [("docs/05_characters/x.md", "폐기명 `Rian Cardo`는 쓰지 않는다")],
             "retired",
@@ -602,6 +662,8 @@ def selftest() -> int:
             check_retired_names(files, report)
         elif check == "entities":
             check_entity_notes(files, report)
+        elif check == "arcs":
+            check_arc_claims(files, report)
         else:
             check_manuscripts(files, report)
 
@@ -651,12 +713,14 @@ def main() -> int:
     name_scope = check_retired_names(files, report)
     episode_count = check_manuscripts(files, report)
     entity_count = check_entity_notes(files, report)
+    arc_count = check_arc_claims(files, report)
 
     report.note(f"markdown files scanned: {len(files)}")
     report.note(f"wikilinks resolved: {link_count}")
     report.note(f"documents checked for retired names: {name_scope}")
     report.note(f"episode manuscripts checked: {episode_count}")
     report.note(f"entity notes checked: {entity_count}")
+    report.note(f"registry arc claims checked: {arc_count}")
 
     if report.warnings:
         print("WARNINGS")

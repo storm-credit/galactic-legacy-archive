@@ -4,7 +4,7 @@ Status: REVIEW — ACT/SUBACT LEVEL ONLY
 Owner Agents: N02 Act Architecture / N03 Episode Structure / N04 Causality / N05 Mystery-Payoff / N07 Retention / P06 Faction Clocks / T04 AI
 Last Reviewed: 2026-08-03
 Depends On: Archive sites/Seed architecture, record-war factions, GA7 ending, [[series-payoff-ledger-v1]]
-Used By: GA8 collection registry, GA9 launch, scene-card preparation
+Used By: GA8 collection registry, GA9 launch, scene-card preparation, [[named-hull-registry-and-naming-grammar-v1]], [[maneuver-frame-lineup-master-architecture-v1]]
 Open Risks: exposition density, exact Palimpsest geography/representatives, activation-state details
 
 ## 1. Grand-Act Contract

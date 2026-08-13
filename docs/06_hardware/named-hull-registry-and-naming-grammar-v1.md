@@ -3,7 +3,7 @@
 Status: PROPOSED — NONCANON
 Owner Agents: A00 Novel PM / H02 Naval Architecture / M03 Fleet Operations / M05 Logistics / P03 Law / P05 Naming / C5 Ships / X02 Reader Memory / X04 Continuity
 Last Reviewed: 2026-08-13
-Depends On: [[first-ship-bible-v1]], [[ownerless-fleet-structure-and-alignment-v1]], [[military-doctrine-and-force-structure-bible-v1]], [[grand-act-force-holdings-and-readiness-matrix-v1]], [[maneuver-frame-lineup-master-architecture-v1]], [[mecha-lineage-mark-and-evolution-naming-system-v1]], [[role-demand-portfolio-count-audit-v1]], [[core-canonical-names-and-voice-lock-v1]], [[reader-facing-terminology-phonetics-and-register-bible-v1]], [[galactic-legacy-collection-bible-v1]], [[decision-log]]
+Depends On: [[first-ship-bible-v1]], [[ownerless-fleet-structure-and-alignment-v1]], [[military-doctrine-and-force-structure-bible-v1]], [[grand-act-force-holdings-and-readiness-matrix-v1]], [[maneuver-frame-lineup-master-architecture-v1]], [[mecha-lineage-mark-and-evolution-naming-system-v1]], [[role-demand-portfolio-count-audit-v1]], [[core-canonical-names-and-voice-lock-v1]], [[reader-facing-terminology-phonetics-and-register-bible-v1]], [[galactic-legacy-collection-bible-v1]], [[decision-log]], [[first-100-act-map-v2-consolidated]], [[ga10-episodes-1001-1100-act-map-v1]], [[ga2-episodes-101-210-act-map-v1]], [[ga3-episodes-211-330-act-map-v1]], [[ga4-episodes-331-450-act-map-v1]], [[ga5-episodes-451-570-act-map-v1]], [[ga6-episodes-571-690-act-map-v1]], [[ga7-episodes-691-800-act-map-v1]], [[ga8-episodes-801-900-act-map-v1]], [[ga9-episodes-901-1000-act-map-v1]]
 Used By: 함선 수집 설계, 함대전 장면 카드, 기체–선체 탑재 크로스워크, 모델 시트 계획
 Canon Promotion: NOT AUTHORIZED
 Publication: NOT AUTHORIZED

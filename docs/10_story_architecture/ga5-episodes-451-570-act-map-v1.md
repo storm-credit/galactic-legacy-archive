@@ -4,7 +4,7 @@ Status: REVIEW — ACT/SUBACT LEVEL ONLY
 Owner Agents: N02 Act Architecture / N03 Episode Structure / N04 Causality / N07 Retention / M01 Grand Strategy / M03 Fleet Operations / M05 Logistics / M08 Command Ethics
 Last Reviewed: 2026-08-03
 Depends On: ownerless fleet structure, fleet commanders, [[ga5-theater-route-and-campaign-map-v1]], GA4 compact
-Used By: GA5 collection registry, GA6 launch, scene-card preparation
+Used By: GA5 collection registry, GA6 launch, scene-card preparation, [[named-hull-registry-and-naming-grammar-v1]], [[maneuver-frame-lineup-master-architecture-v1]]
 Open Risks: exact enemy/third-threat identity, battle maps and commander names remain open
 
 ## 1. Grand-Act Contract
