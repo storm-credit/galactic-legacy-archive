@@ -70,24 +70,24 @@
 
 | ID | 블록 | 역할 | 원하는 것 | 상태 |
 |---|---|---|---|---|
-| `REC-F01` | Continuity Authentication Directorate | 기록의 진위를 인증할 권한 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
-| `REC-F02` | Plural Archive Coalition | 복수의 기록이 공존할 권리 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
-| `REC-F03` | Restoration Truth Assembly | 지워진 진실의 복원 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
-| `REC-F04` | Right-to-Forget / Liberation Network | 잊힐 권리와 해방 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
-| `REC-F05` | AI and Composite Persons Compact | AI·복합 인격의 인격권 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
-| `REC-F06` | State/Helix Operational Records Alliance | 운영 기록의 국가·기업 통제 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
+| `REC-F01` | 계승 인증 총국 (작업명 Continuity Authentication Directorate) | 기록의 진위를 인증할 권한 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
+| `REC-F02` | 복수 기록 연합 (작업명 Plural Archive Coalition) | 복수의 기록이 공존할 권리 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
+| `REC-F03` | 복원 진상 의회 (작업명 Restoration Truth Assembly) | 지워진 진실의 복원 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
+| `REC-F04` | 잊힐 권리 연결망 (작업명 Right-to-Forget / Liberation Network) | 잊힐 권리와 해방 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
+| `REC-F05` | 복합 인격 협약 (작업명 AI and Composite Persons Compact) | AI·복합 인격의 인격권 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
+| `REC-F06` | 국가·헬릭스 운영기록 동맹 (작업명 State/Helix Operational Records Alliance) | 운영 기록의 국가·기업 통제 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
 
 ## 아르디스 지역 세력 (7)
 
 | ID | 블록 | 역할 | 원하는 것 | 상태 |
 |---|---|---|---|---|
-| `AR-F01` | Civic Continuity Council | 도시 서비스의 연속성 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
-| `AR-F02` | Foundry Workers’ Compact | 노동자의 몫과 안전 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
-| `AR-F03` | Node Custodian College | 노드 관리 권한의 유지 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
-| `AR-F04` | Transit and Unregistered Residents’ Assembly | 미등록 주민의 존재 인정 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
-| `AR-F05` | Ardis Federalist / Independence Coalition | 아르디스의 독립 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
-| `AR-F06` | Helix–Creditor Recovery Authority | 채권 회수 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
-| `AR-F07` | Local Defense Command | 지역 방위의 자율성 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
+| `AR-F01` | 아르디스 시민 연속성 협의회 (작업명 Civic Continuity Council) | 도시 서비스의 연속성 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
+| `AR-F02` | 주조 노동자 조합 (작업명 Foundry Workers’ Compact) | 노동자의 몫과 안전 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
+| `AR-F03` | 노드 관리단 (작업명 Node Custodian College) | 노드 관리 권한의 유지 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
+| `AR-F04` | 통행·미등록 주민 회의 (작업명 Transit and Unregistered Residents’ Assembly) | 미등록 주민의 존재 인정 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
+| `AR-F05` | 아르디스 연방·독립 연합 (작업명 Ardis Federalist / Independence Coalition) | 아르디스의 독립 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
+| `AR-F06` | 헬릭스 채권 회수단 (작업명 Helix–Creditor Recovery Authority) | 채권 회수 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
+| `AR-F07` | 지역 방위 사령부 (작업명 Local Defense Command) | 지역 방위의 자율성 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
 
 총 43행 — 생태계 6, 내부 블록 28. **전부 이미 정본이다.**
 이 표는 [[initial-five-faction-bible-v1]]의 정렬이며 새 세력을 만들지 않는다.

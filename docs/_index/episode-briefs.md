@@ -28,7 +28,7 @@
 |---|---|---|---|
 | 기술 [[named-technology-lineage-registry-v1]] | `T-004` | **세미타** | 초기 계전 항로 표지 체계가 잃어버린 구간 복원의 열쇠가 된다 |
 | 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-01` | **교도군사학원 운영 주체** | 학원이 생도를 사람으로 남길지 자원으로 쓸지의 시험대 |
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-01-a` | **Education** | 생도를 사람으로 남기는 것 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-01-a` | **교육·평가** | 생도를 사람으로 남기는 것 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
 | 유물 [[named-relic-and-provenance-registry-v1]] | `RL-018` | **케네타프** | 시신 없는 묘표가 이름만 남은 전사자를 증언한다 |
 | 장소·항로 [[named-place-and-corridor-registry-v1]] | `N-001` | **K-13 / 제13학원** | 교도군사학원로서 그 대액트의 무대가 된다 |
 
@@ -111,11 +111,11 @@
 | 무기·부품 [[named-weapon-and-part-registry-v1]] | `WA-002` | **케이블 사출기** | 구조와 포획을 같은 동작으로 수행한다 |
 | 무기·부품 [[named-weapon-and-part-registry-v1]] | `WA-003` | **저속 훈련 투사기** | 살상 없이 제압이 가능하다는 것을 보이고, 동시에 그 한계도 보인다 |
 | 무기·부품 [[named-weapon-and-part-registry-v1]] | `WA-004` | **방패판** | 막는 선택이 곧 누구를 뒤에 둘지의 선택이 된다 |
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-01-b` | **Operations** | 임무 성공률과 예산 정당화 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-01-c` | **Research** | 07호 계통의 데이터 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-02-e` | **Archive** | 무엇을 남기고 무엇을 지울지의 권한 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-01-b` | **운용·출동** | 임무 성공률과 예산 정당화 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-01-c` | **연구** | 07호 계통의 데이터 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-02-e` | **기록** | 무엇을 남기고 무엇을 지울지의 권한 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
 | 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-03` | **군수·인증 연합** | 규격 지배가 폭력 없이 종속을 만드는 방식을 보인다 |
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-03-b` | **Finance & Contract** | 계약으로 만드는 종속 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-03-b` | **금융·계약** | 계약으로 만드는 종속 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
 
 ### E6
 
@@ -191,8 +191,8 @@
 | 종류 | ID | 이름 | 무엇을 위해 있는가 |
 |---|---|---|---|
 | 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-05` | **항로 중립·구호** | 통행의 자유를 지키려다 중립이 불가능해지는 지점 |
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-05-a` | **Humanitarian** | 살리는 것 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-05-b` | **Insurance** | 위험의 계산 가능성 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-05-a` | **인도** | 살리는 것 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-05-b` | **보험** | 위험의 계산 가능성 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
 | 장소·항로 [[named-place-and-corridor-registry-v1]] | `N-004` | **카엘** | 청구·공방 항구로서 그 대액트의 무대가 된다 |
 | 장소·항로 [[named-place-and-corridor-registry-v1]] | `N-005` | **브란** | 산업 계통로서 그 대액트의 무대가 된다 |
 | 장소·항로 [[named-place-and-corridor-registry-v1]] | `RT-01` | **루멘 ↔ K-13** | 학원 보급선 |
@@ -271,9 +271,9 @@
 | 종류 | ID | 이름 | 무엇을 위해 있는가 |
 |---|---|---|---|
 | 무기·부품 [[named-weapon-and-part-registry-v1]] | `WA-009` | **사기타** | 제국 양산 기체의 표준 무장으로 물량의 얼굴이 된다 |
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-01-e` | **Security** | 사고 은폐와 통제 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-01-e` | **학원 보안** | 사고 은폐와 통제 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
 | 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-02` | **제국 정보·계승 관리** | 제국 계승의 연속성이 누구를 지우면서 유지되는지를 드러낸다 |
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-02-b` | **Continuity** | 체제의 무중단 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-02-b` | **연속성** | 체제의 무중단 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
 
 ### E16
 
@@ -344,7 +344,7 @@
 
 | 종류 | ID | 이름 | 무엇을 위해 있는가 |
 |---|---|---|---|
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-01-d` | **Field** | 현장 판단권 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-01-d` | **야전** | 현장 판단권 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
 | 장소·항로 [[named-place-and-corridor-registry-v1]] | `N-002` | **백색 도크** | 개막 전장·야드로서 그 대액트의 무대가 된다 |
 | 장소·항로 [[named-place-and-corridor-registry-v1]] | `RT-02` | **K-13 ↔ 백색 도크** | 개막 작전선 |
 
@@ -412,8 +412,8 @@
 
 | 종류 | ID | 이름 | 무엇을 위해 있는가 |
 |---|---|---|---|
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-02-c` | **Purge** | 위협의 제거 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-05-e` | **Memory** | 지워진 사건의 보존 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-02-c` | **숙청** | 위협의 제거 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-05-e` | **기억** | 지워진 사건의 보존 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
 
 ### E27
 
@@ -478,8 +478,8 @@
 
 | 종류 | ID | 이름 | 무엇을 위해 있는가 |
 |---|---|---|---|
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-03-a` | **Manufacturing** | 생산량과 공정 독점 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-03-c` | **Frontier Innovation** | 규격 밖의 이익 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-03-a` | **제조** | 생산량과 공정 독점 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-03-c` | **변경 혁신** | 규격 밖의 이익 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
 | 장소·항로 [[named-place-and-corridor-registry-v1]] | `N-008` | **실렉스** | 손상된 우회로로서 그 대액트의 무대가 된다 |
 
 ### E33
@@ -544,8 +544,8 @@
 
 | 종류 | ID | 이름 | 무엇을 위해 있는가 |
 |---|---|---|---|
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-02-a` | **Dynastic** | 혈통 정통성 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-02-d` | **Cultivation** | 쓸 만한 인재의 확보 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-02-a` | **왕조** | 혈통 정통성 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-02-d` | **육성** | 쓸 만한 인재의 확보 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
 | 장소·항로 [[named-place-and-corridor-registry-v1]] | `N-003` | **루멘** | 간선·교통 허브로서 그 대액트의 무대가 된다 |
 
 ### E39
@@ -620,8 +620,8 @@
 
 | 종류 | ID | 이름 | 무엇을 위해 있는가 |
 |---|---|---|---|
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-03-d` | **Autonomous Systems** | 사람을 덜 쓰는 운용 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-03-e` | **Human Performance** | 조종사 신체 데이터 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-03-d` | **자율 체계** | 사람을 덜 쓰는 운용 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-03-e` | **인적 성능** | 조종사 신체 데이터 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
 
 ### E46
 
@@ -685,7 +685,7 @@
 
 | 종류 | ID | 이름 | 무엇을 위해 있는가 |
 |---|---|---|---|
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-05-c` | **Free Port** | 관세 없는 항로 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-05-c` | **자유항** | 관세 없는 항로 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
 | 장소·항로 [[named-place-and-corridor-registry-v1]] | `N-006` | **네리스** | 공방·시장 노드로서 그 대액트의 무대가 된다 |
 
 ### E52
@@ -970,8 +970,8 @@
 | 종류 | ID | 이름 | 무엇을 위해 있는가 |
 |---|---|---|---|
 | 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-04` | **변경 독립 무장** | 자치를 원하는 세력이 내부에서 갈라지는 과정 |
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-04-a` | **Federalist** | 협상으로 얻는 지분 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-04-c` | **Localist** | 우리 마을만의 안전 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-04-a` | **연방파** | 협상으로 얻는 지분 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-04-c` | **지역파** | 우리 마을만의 안전 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
 
 ### E79
 
@@ -1035,9 +1035,9 @@
 
 | 종류 | ID | 이름 | 무엇을 위해 있는가 |
 |---|---|---|---|
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-04-b` | **Revolutionary** | 체제 전복 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-04-d` | **Scorched** | 빼앗기느니 태우기 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
-| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-05-d` | **Security** | 중립의 무장 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-04-b` | **혁명파** | 체제 전복 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-04-d` | **초토파** | 빼앗기느니 태우기 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-05-d` | **항로연합 중립 무장** | 중립의 무장 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
 
 ### E85
 
