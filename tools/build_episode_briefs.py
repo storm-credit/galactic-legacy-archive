@@ -27,6 +27,7 @@ graph: the act map, the ledgers and the cards stop being islands.
 from __future__ import annotations
 
 import argparse
+import csv
 import re
 import sys
 from pathlib import Path
@@ -131,6 +132,35 @@ def manuscripts() -> dict[int, tuple[int, str, int]]:
     return out
 
 
+DOMAIN = {
+    "hulls": ("함선", "named-hull-registry-and-naming-grammar-v1"),
+    "weapons": ("무기·부품", "named-weapon-and-part-registry-v1"),
+    "technologies": ("기술", "named-technology-lineage-registry-v1"),
+    "relics": ("유물", "named-relic-and-provenance-registry-v1"),
+    "factions": ("세력·기관", "named-faction-and-institution-registry-v1"),
+    "places": ("장소·항로", "named-place-and-corridor-registry-v1"),
+}
+
+
+def arc_items(arc: str) -> list[tuple[str, str, str, str, str]]:
+    """(domain, registry, id, name, plot use) for items first revealed in `arc`.
+
+    The anchor CSVs are written because C9 refuses to pass without them, so
+    this costs the writer nothing extra: register an item and it appears here.
+    Granularity is the arc, not the episode -- `first_reveal` records `GA2`,
+    never `E37`. Saying so is better than inventing an episode number.
+    """
+    out = []
+    for path in sorted(ROOT.rglob("anchor-fields-*.csv")):
+        key = re.sub(r"^anchor-fields-|-v\d+$", "", path.stem)
+        label, registry = DOMAIN.get(key, (key, ""))
+        for row in csv.DictReader(path.read_text(encoding="utf-8").splitlines()):
+            if row.get("first_reveal", "").strip() == arc:
+                out.append((label, registry, row["item_id"], row["name"],
+                            row.get("plot_use", "").strip()))
+    return sorted(out)
+
+
 def render() -> str:
     acts = act_map_entries()
     windows = plant_windows()
@@ -151,6 +181,30 @@ def render() -> str:
         f"정본: [[{ACT_MAP.stem}]] · [[{PAYOFF.stem}]] · [[{BEAT_MAP.stem}]]",
         "",
     ]
+
+    items = arc_items("GA1")
+    if items:
+        out += [
+            "---",
+            "",
+            f"## GA1에서 처음 등장하는 등록 항목 — {len(items)}건",
+            "",
+            "`first_reveal`이 기록하는 단위는 **대액트**이지 회차가 아니다. 어느 회차에 "
+            "나오는지는 등록부가 모른다 — 그건 이 구간을 쓰면서 정해진다. 그래서 여기 "
+            "모아 두고, 회차마다 반복하지 않는다.",
+            "",
+            "독자 기억 예산은 회차당 최초 사용 고유명 **0–4개**다 "
+            "([[reader-facing-terminology-phonetics-and-register-bible-v1]] §2). "
+            f"이 {len(items)}건을 100화에 배분하면 회차당 약 "
+            f"{len(items) / 100:.1f}개이므로 예산 안에 들어간다.",
+            "",
+            "| 종류 | ID | 이름 | 무엇을 위해 있는가 |",
+            "|---|---|---|---|",
+        ]
+        for label, registry, iid, name, use in items:
+            link = f"[[{registry}]]" if registry else ""
+            out.append(f"| {label} {link} | `{iid}` | **{name}** | {use} |")
+        out.append("")
 
     current_act = None
     for num in sorted(acts):

@@ -12,6 +12,68 @@
 
 ---
 
+## GA1에서 처음 등장하는 등록 항목 — 51건
+
+`first_reveal`이 기록하는 단위는 **대액트**이지 회차가 아니다. 어느 회차에 나오는지는 등록부가 모른다 — 그건 이 구간을 쓰면서 정해진다. 그래서 여기 모아 두고, 회차마다 반복하지 않는다.
+
+독자 기억 예산은 회차당 최초 사용 고유명 **0–4개**다 ([[reader-facing-terminology-phonetics-and-register-bible-v1]] §2). 이 51건을 100화에 배분하면 회차당 약 0.5개이므로 예산 안에 들어간다.
+
+| 종류 | ID | 이름 | 무엇을 위해 있는가 |
+|---|---|---|---|
+| 기술 [[named-technology-lineage-registry-v1]] | `T-004` | **세미타** | 초기 계전 항로 표지 체계가 잃어버린 구간 복원의 열쇠가 된다 |
+| 기술 [[named-technology-lineage-registry-v1]] | `T-009` | **노르마** | 제국 표준을 따르지 않으면 존재하지 않는 것이 된다 |
+| 기술 [[named-technology-lineage-registry-v1]] | `T-023` | **개방 서비스 버스** | 07호의 고유 계통이 개방규격 확산의 씨앗이 된다 |
+| 무기·부품 [[named-weapon-and-part-registry-v1]] | `WA-001` | **열절단창** | 07호가 파괴가 아니라 여는 것으로 싸운다는 개막 선언 |
+| 무기·부품 [[named-weapon-and-part-registry-v1]] | `WA-002` | **케이블 사출기** | 구조와 포획을 같은 동작으로 수행한다 |
+| 무기·부품 [[named-weapon-and-part-registry-v1]] | `WA-003` | **저속 훈련 투사기** | 살상 없이 제압이 가능하다는 것을 보이고, 동시에 그 한계도 보인다 |
+| 무기·부품 [[named-weapon-and-part-registry-v1]] | `WA-004` | **방패판** | 막는 선택이 곧 누구를 뒤에 둘지의 선택이 된다 |
+| 무기·부품 [[named-weapon-and-part-registry-v1]] | `WA-009` | **사기타** | 제국 양산 기체의 표준 무장으로 물량의 얼굴이 된다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-01` | **교도군사학원 운영 주체** | 학원이 생도를 사람으로 남길지 자원으로 쓸지의 시험대 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-01-a` | **Education** | 생도를 사람으로 남기는 것 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-01-b` | **Operations** | 임무 성공률과 예산 정당화 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-01-c` | **Research** | 07호 계통의 데이터 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-01-d` | **Field** | 현장 판단권 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-01-e` | **Security** | 사고 은폐와 통제 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-02` | **제국 정보·계승 관리** | 제국 계승의 연속성이 누구를 지우면서 유지되는지를 드러낸다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-02-a` | **Dynastic** | 혈통 정통성 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-02-b` | **Continuity** | 체제의 무중단 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-02-c` | **Purge** | 위협의 제거 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-02-d` | **Cultivation** | 쓸 만한 인재의 확보 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-02-e` | **Archive** | 무엇을 남기고 무엇을 지울지의 권한 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-03` | **군수·인증 연합** | 규격 지배가 폭력 없이 종속을 만드는 방식을 보인다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-03-a` | **Manufacturing** | 생산량과 공정 독점 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-03-b` | **Finance & Contract** | 계약으로 만드는 종속 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-03-c` | **Frontier Innovation** | 규격 밖의 이익 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-03-d` | **Autonomous Systems** | 사람을 덜 쓰는 운용 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-03-e` | **Human Performance** | 조종사 신체 데이터 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-04` | **변경 독립 무장** | 자치를 원하는 세력이 내부에서 갈라지는 과정 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-04-a` | **Federalist** | 협상으로 얻는 지분 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-04-b` | **Revolutionary** | 체제 전복 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-04-c` | **Localist** | 우리 마을만의 안전 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-04-d` | **Scorched** | 빼앗기느니 태우기 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-05` | **항로 중립·구호** | 통행의 자유를 지키려다 중립이 불가능해지는 지점 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-05-a` | **Humanitarian** | 살리는 것 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-05-b` | **Insurance** | 위험의 계산 가능성 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-05-c` | **Free Port** | 관세 없는 항로 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-05-d` | **Security** | 중립의 무장 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-05-e` | **Memory** | 지워진 사건의 보존 — 이 요구가 생태계 안에서 다른 블록과 부딪힌다 |
+| 세력·기관 [[named-faction-and-institution-registry-v1]] | `F-06` | ****단일 세력 아님**** | 대표자가 없어 협약이 성립하지 않는 층 |
+| 유물 [[named-relic-and-provenance-registry-v1]] | `RL-018` | **케네타프** | 시신 없는 묘표가 이름만 남은 전사자를 증언한다 |
+| 장소·항로 [[named-place-and-corridor-registry-v1]] | `N-001` | **K-13 / 제13학원** | 교도군사학원로서 그 대액트의 무대가 된다 |
+| 장소·항로 [[named-place-and-corridor-registry-v1]] | `N-002` | **백색 도크** | 개막 전장·야드로서 그 대액트의 무대가 된다 |
+| 장소·항로 [[named-place-and-corridor-registry-v1]] | `N-003` | **루멘** | 간선·교통 허브로서 그 대액트의 무대가 된다 |
+| 장소·항로 [[named-place-and-corridor-registry-v1]] | `N-004` | **카엘** | 청구·공방 항구로서 그 대액트의 무대가 된다 |
+| 장소·항로 [[named-place-and-corridor-registry-v1]] | `N-005` | **브란** | 산업 계통로서 그 대액트의 무대가 된다 |
+| 장소·항로 [[named-place-and-corridor-registry-v1]] | `N-006` | **네리스** | 공방·시장 노드로서 그 대액트의 무대가 된다 |
+| 장소·항로 [[named-place-and-corridor-registry-v1]] | `N-007` | **마른** | 잔해장·인양 성계로서 그 대액트의 무대가 된다 |
+| 장소·항로 [[named-place-and-corridor-registry-v1]] | `N-008` | **실렉스** | 손상된 우회로로서 그 대액트의 무대가 된다 |
+| 장소·항로 [[named-place-and-corridor-registry-v1]] | `N-009` | **아르디스** | 노드 도시·성계로서 그 대액트의 무대가 된다 |
+| 장소·항로 [[named-place-and-corridor-registry-v1]] | `N-010` | **팔림프세스트** | GA8 기록 지역로서 그 대액트의 무대가 된다 |
+| 장소·항로 [[named-place-and-corridor-registry-v1]] | `RT-01` | **루멘 ↔ K-13** | 학원 보급선 |
+| 장소·항로 [[named-place-and-corridor-registry-v1]] | `RT-02` | **K-13 ↔ 백색 도크** | 개막 작전선 |
+
+---
+
 ## A1 — 「기록되지 않은 생도」 / 1–5화
 
 ### E1
