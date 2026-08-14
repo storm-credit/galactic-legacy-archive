@@ -17,7 +17,9 @@ Mechanical, reported as findings:
 Human, reported as prompts with the material pulled out:
 
     scene purpose, causality and motive, combat space, payoff placement,
-    and the episode's closing line.
+    the episode's closing line, and the two narration axes that need ears:
+    whether six voices survive covering the tags, and whether a clue line
+    stays flat when read aloud.
 
     python tools/revision_checklist.py manuscript/ga1/001-*.md
     python tools/revision_checklist.py --all
@@ -102,6 +104,103 @@ def sentences(prose: str) -> list[str]:
     return [s.strip() for s in SENTENCE_END.split(prose) if s and s.strip()]
 
 
+def narration_runs(prose: str) -> int:
+    """Longest run of short sentences inside one unbroken narration block.
+
+    Section 2-5 forbids chopping the reader's breath with strings of short
+    sentences. Two things are not that:
+
+    - dialogue, which is short by nature;
+    - narration lines separated by dialogue, which the reader receives as
+      alternating rhythm, not as a run.
+
+    So the run resets whenever a spoken line or a system block intervenes.
+    Measuring without those resets failed every argument scene in the draft,
+    which was the measurement's fault.
+    """
+    best = run = 0
+    for line in prose.split("\n"):
+        s = line.strip()
+        if not s:
+            continue
+        if s.startswith("[") or "“" in s or "”" in s or '"' in s:
+            run = 0
+            continue
+        for piece in SENTENCE_END.split(s):
+            piece = piece.strip()
+            if not piece:
+                continue
+            run = run + 1 if len(piece) < SHORT_SENTENCE else 0
+            best = max(best, run)
+    return best
+
+
+# Grammatical staples. Repeating 있었다 is Korean, not a tic; the check exists
+# to surface a distinctive word being leaned on.
+REPETITION_STOPLIST = {
+    "있었다", "없었다", "않았다", "이었다", "아니었다", "같았다", "보였다",
+    "그것은", "그러나", "그리고", "하지만",
+}
+PRONUNCIATION_SOURCE = "docs/00_project/reader-facing-terminology-phonetics-and-register-bible-v1.md"
+NARRATION_HARNESS = "docs/13_writing_harness/narration-harness-v1.md"
+
+# A bracketed line is read in a machine voice, so anything the machine did not
+# print must not wear brackets -- signs, labels, stencils, printed notices.
+PHYSICAL_MARK_WORDS = (
+    "표지판", "명\李", "각인", "인쇄", "게시", "퀢말",
+)
+DIALOGUE_TAGS = ("말했다", "물었다", "답했다", "대답했다",
+                 "덧붙였다", "중얼거렸다", "외쳤다", "속삭였다")
+TAG_DOMINANCE = 0.55
+
+
+def pronunciation_entries() -> set[str]:
+    """Names the pronunciation dictionary already fixes (narration axis 4)."""
+    out: set[str] = set()
+    for rel in (PRONUNCIATION_SOURCE, NARRATION_HARNESS):
+        path = ROOT / rel
+        if not path.exists():
+            continue
+        for line in path.read_text(encoding="utf-8").split("\n"):
+            if line.startswith("|"):
+                cell = line.split("|")[1].strip().strip("`*")
+                if cell and re.fullmatch(r"[가-힣][가-힣 /·0-9A-Za-z-]{0,20}", cell):
+                    out.add(cell)
+            if "발음 고정" in line or "한글 정본 표기를 따른다" in line:
+                out.update(re.findall(r"[가-힣]{2,6}", line))
+            for src, _dst in re.findall(r"`([^`]+?)\s*→\s*([^`]+?)`", line):
+                out.add(src.strip())
+    return out
+
+
+def narration_findings(prose: str, names: dict) -> list:
+    """narration-harness-v1 axes 2, 3 and 4, the machine-checkable parts."""
+    out: list = []
+
+    for line in prose.split("\n"):
+        s = line.strip()
+        if s.startswith("[") and s.endswith("]") and any(w in s for w in PHYSICAL_MARK_WORDS):
+            out.append(f"물리 표식에 대괄호 — 낭독이 기계음으로 읽는다: {s[:40]}")
+
+    known = pronunciation_entries()
+    if known:
+        used = {n for ns in names.values() for n in ns if n in prose}
+        missing = sorted(n for n in used if n not in known)
+        if missing:
+            out.append("발음 사전 미등재 고유명 — 낭독이 임의 발음을 만든다: " + ", ".join(missing))
+
+    counts = {tag: prose.count(tag) for tag in DIALOGUE_TAGS}
+    tagged = sum(counts.values())
+    if tagged >= 8:
+        tag, top = max(counts.items(), key=lambda kv: kv[1])
+        if top / tagged > TAG_DOMINANCE:
+            out.append(
+                f"대사 태그 {tagged}개 중 '{tag}'가 {top}개 ({top/tagged:.0%}) — "
+                f"화자 구별이 태그에 실리지 않는다 (축 2)"
+            )
+    return out
+
+
 def review(path: Path, names: dict[str, set[str]]) -> tuple[list[str], list[str]]:
     text = path.read_text(encoding="utf-8")
     prose = body_of(text)
@@ -124,12 +223,9 @@ def review(path: Path, names: dict[str, set[str]]) -> tuple[list[str], list[str]
     if "[[" in prose:
         findings.append("원고 본문에 위키링크가 있다 (CLAUDE.md §14-5)")
 
-    run = best = 0
-    for s in sentences(prose):
-        run = run + 1 if len(s) < SHORT_SENTENCE else 0
-        best = max(best, run)
+    best = narration_runs(prose)
     if best > SHORT_RUN_LIMIT:
-        findings.append(f"{SHORT_SENTENCE}자 미만 문장이 {best}개 연속 — §2-5 단문 남발")
+        findings.append(f"{SHORT_SENTENCE}자 미만 지문이 {best}개 연속 — §2-5 단문 남발")
 
     present: dict[str, list[str]] = {
         d: sorted(n for n in ns if n in prose) for d, ns in names.items()
@@ -144,7 +240,10 @@ def review(path: Path, names: dict[str, set[str]]) -> tuple[list[str], list[str]
     if len(present.get("장소", [])) > ACTIVE_PLACES:
         findings.append(f"활성 장소 {len(present['장소'])}개 — 예산 {ACTIVE_PLACES}")
 
-    words = Counter(w for w in re.findall(r"[가-힣]{3,}", prose))
+    findings += narration_findings(prose, names)
+
+    words = Counter(w for w in re.findall(r"[가-힣]{3,}", prose)
+                    if w not in REPETITION_STOPLIST)
     if words:
         word, count = words.most_common(1)[0]
         if count >= 8:
@@ -156,6 +255,8 @@ def review(path: Path, names: dict[str, set[str]]) -> tuple[list[str], list[str]
         "인과와 동기: 인물의 선택이 앞 회차에서 설명되는가",
         "전투 공간: 위치·거리·시야·관성·장비 상태가 따라가지는가 (§2-6)",
         "복선: 이 회차가 심거나 회수하는 것이 회수 장부에 있는가",
+        "낭독 축 2: 화자 표기를 가려도 여섯 명이 구별되는가",
+        "낭독 축 5: 복선 문장을 평문 톤으로 읽어도 정보가 새지 않는가",
         f"엔딩 훅 — 마지막 줄: {lines[-1][:70] if lines else '(없음)'}",
     ]
     return findings, prompts
