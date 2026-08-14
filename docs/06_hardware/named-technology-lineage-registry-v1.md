@@ -4,7 +4,7 @@ Status: PROPOSED — NONCANON
 Owner: 단일 에이전트 작성 (CLAUDE.md §15-1 — 하위 에이전트 실행 증거 없음, 역할명 헤더로 독립 실행을 주장하지 않는다)
 Last Reviewed: 2026-08-13
 Depends On: [[technology-era-and-interoperability-bible-v1]], [[galactic-legacy-collection-bible-v1]], [[first-frame-bible-v1]], [[maneuver-frame-lineup-master-architecture-v1]], [[named-weapon-and-part-registry-v1]], [[named-hull-registry-and-naming-grammar-v1]], [[collection-desire-master-architecture-and-index-audit-v1]], [[decision-log]]
-Used By: 기술 수집 설계, 정비·보급 서사, 인증 갈등 장면, 기체–무장 호환 판정
+Used By: 기술 수집 설계, 정비·보급 서사, 인증 갈등 장면, 기체–무장 호환 판정, 서브액트 배정 [[first-100-act-map-v2-consolidated]] · [[episode-briefs]]
 Canon Promotion: NOT AUTHORIZED
 Publication: NOT AUTHORIZED
 Open Risks: 32개 중 정본은 1개뿐, 단계 사다리(이론→사회확산)에서 각 계보가 지금 어디 있는지는 대액트별로 다시 잠가야 함, C7 제도와의 경계가 일부 흐림

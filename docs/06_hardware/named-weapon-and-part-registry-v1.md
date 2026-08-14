@@ -4,7 +4,7 @@ Status: PROPOSED — NONCANON
 Owner: 단일 에이전트 작성 (CLAUDE.md §15-1 — 하위 에이전트 실행 증거 없음, 역할명 헤더로 독립 실행을 주장하지 않는다)
 Last Reviewed: 2026-08-13
 Depends On: [[weapons-sensors-acceleration-calibration-v1]], [[first-frame-bible-v1]], [[first-ship-bible-v1]], [[maneuver-frame-lineup-master-architecture-v1]], [[named-hull-registry-and-naming-grammar-v1]], [[military-doctrine-and-force-structure-bible-v1]], [[collection-desire-master-architecture-and-index-audit-v1]], [[role-demand-portfolio-count-audit-v1]], [[reader-facing-terminology-phonetics-and-register-bible-v1]], [[decision-log]]
-Used By: 무기 수집 설계, 전투 장면 카드, 기체–무장 적합표, 정비·보급 서사
+Used By: 무기 수집 설계, 전투 장면 카드, 기체–무장 적합표, 정비·보급 서사, 서브액트 배정 [[first-100-act-map-v2-consolidated]] · [[episode-briefs]]
 Canon Promotion: NOT AUTHORIZED
 Publication: NOT AUTHORIZED
 Open Risks: 44개 중 정본은 4개뿐이며 나머지는 승인 대기, 탄약·열·인증·보급 연결(C3 HOLD 사유)이 아직 개체별로 풀리지 않음, GA6–GA10 배치는 액트맵 대조만 거쳤고 회차 카드 대조는 미실시

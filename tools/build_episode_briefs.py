@@ -52,7 +52,13 @@ ACT_MAP = DOCS / "10_story_architecture/first-100-act-map-v2-consolidated.md"
 BEAT_MAP = DOCS / "10_story_architecture/ga1-episodes-1-20-beat-map-v1.md"
 PAYOFF = DOCS / "11_mystery/series-payoff-ledger-v1.md"
 
-SUBACT = re.compile(r"^## (A\d+) — (.+?) / Episodes (\d+)[–-](\d+)\s*$")
+# Two heading shapes for the same thing. The first-100 map writes
+# `## A1 — title / Episodes 1–5`; the later arcs write
+# `## 3. Subact 2A-1 — title / Episodes 101–107`. Matching only the first
+# shape silently filed episodes 21-100 under A4, because the loop kept the
+# last sub-act it had seen.
+SUBACT = re.compile(
+    r"^## (?:\d+\.\s*)?(?:Subact\s+)?([A-D]\d+|\d[A-Z]-\d+) — (.+?) / Episodes? (\d+)[–-](\d+)\s*$")
 EPISODE = re.compile(r"^E(\d+):\s*$")
 MYSTERY = re.compile(r"^## (M-\d+) — (.+?)\s*$")
 PLANT = re.compile(r"^### Plant — Episodes? (\d+)(?:[–-](\d+))?")
@@ -142,13 +148,15 @@ DOMAIN = {
 }
 
 
-def arc_items(arc: str) -> list[tuple[str, str, str, str, str]]:
-    """(domain, registry, id, name, plot use) for items first revealed in `arc`.
+def arc_items(arc: str) -> list[tuple[str, str, str, str, str, str]]:
+    """(sub-act, domain, registry, id, name, plot use) for items in `arc`.
 
     The anchor CSVs are written because C9 refuses to pass without them, so
     this costs the writer nothing extra: register an item and it appears here.
-    Granularity is the arc, not the episode -- `first_reveal` records `GA2`,
-    never `E37`. Saying so is better than inventing an episode number.
+    The `subact` column is what actually connects a registry to the act map --
+    an arc label alone puts fifty-one items in one bucket and tells the writer
+    of any single sub-act nothing. An empty value means nobody has placed the
+    item yet, and it is reported as unplaced rather than filed somewhere.
     """
     out = []
     for path in sorted(ROOT.rglob("anchor-fields-*.csv")):
@@ -156,7 +164,8 @@ def arc_items(arc: str) -> list[tuple[str, str, str, str, str]]:
         label, registry = DOMAIN.get(key, (key, ""))
         for row in csv.DictReader(path.read_text(encoding="utf-8").splitlines()):
             if row.get("first_reveal", "").strip() == arc:
-                out.append((label, registry, row["item_id"], row["name"],
+                out.append((row.get("subact", "").strip(), label, registry,
+                            row["item_id"], row["name"],
                             row.get("plot_use", "").strip()))
     return sorted(out)
 
@@ -183,28 +192,42 @@ def render() -> str:
     ]
 
     items = arc_items("GA1")
+    by_subact: dict[str, list] = {}
+    for row in items:
+        by_subact.setdefault(row[0], []).append(row)
+    unplaced = by_subact.pop("", [])
     if items:
         out += [
             "---",
             "",
-            f"## GA1에서 처음 등장하는 등록 항목 — {len(items)}건",
+            f"## GA1 등록 항목 — {len(items)}건이 {len(by_subact)}개 서브액트에 배정됨",
             "",
-            "`first_reveal`이 기록하는 단위는 **대액트**이지 회차가 아니다. 어느 회차에 "
-            "나오는지는 등록부가 모른다 — 그건 이 구간을 쓰면서 정해진다. 그래서 여기 "
-            "모아 두고, 회차마다 반복하지 않는다.",
+            "`first_reveal`은 **대액트**까지만 안다. 서브액트 배정은 별도이며, 그것이 "
+            "등록부와 액트맵을 실제로 잇는 간선이다 — 대액트 라벨만으로는 51건이 한 "
+            "바구니에 들어가 어느 서브액트를 쓰든 아무것도 건네주지 못한다.",
             "",
             "독자 기억 예산은 회차당 최초 사용 고유명 **0–4개**다 "
             "([[reader-facing-terminology-phonetics-and-register-bible-v1]] §2). "
-            f"이 {len(items)}건을 100화에 배분하면 회차당 약 "
-            f"{len(items) / 100:.1f}개이므로 예산 안에 들어간다.",
+            f"{len(items)}건을 100화에 배분하면 회차당 약 {len(items) / 100:.1f}개다.",
             "",
-            "| 종류 | ID | 이름 | 무엇을 위해 있는가 |",
-            "|---|---|---|---|",
         ]
-        for label, registry, iid, name, use in items:
+        if unplaced:
+            out += [f"**서브액트 미배정 {len(unplaced)}건** — 어디에 놓을지 아직 "
+                    "정해지지 않았다. 임의로 채우지 않는다.", "",
+                    "| ID | 이름 |", "|---|---|"]
+            out += [f"| `{r[3]}` | {r[4]} |" for r in unplaced]
+            out.append("")
+
+    def subact_items(sub: str) -> list[str]:
+        rows = by_subact.get(sub, [])
+        if not rows:
+            return []
+        block = [f"**이 서브액트에 배정된 등록 항목 — {len(rows)}건**", "",
+                 "| 종류 | ID | 이름 | 무엇을 위해 있는가 |", "|---|---|---|---|"]
+        for _sub, label, registry, iid, name, use in rows:
             link = f"[[{registry}]]" if registry else ""
-            out.append(f"| {label} {link} | `{iid}` | **{name}** | {use} |")
-        out.append("")
+            block.append(f"| {label} {link} | `{iid}` | **{name}** | {use} |")
+        return block + [""]
 
     current_act = None
     for num in sorted(acts):
@@ -212,6 +235,7 @@ def render() -> str:
         if aid != current_act:
             current_act = aid
             out += ["---", "", f"## {aid} — 「{title}」 / {rng}화", ""]
+            out += subact_items(aid)
 
         out.append(f"### E{num}")
         out.append("")

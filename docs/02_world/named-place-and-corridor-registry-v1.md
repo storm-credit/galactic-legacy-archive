@@ -4,7 +4,7 @@ Status: PROPOSED — NONCANON
 Owner: 단일 에이전트 작성 (CLAUDE.md §15-1 — 하위 에이전트 실행 증거 없음, 역할명 헤더로 독립 실행을 주장하지 않는다)
 Last Reviewed: 2026-08-13
 Depends On: [[galaxy-612-system-census-and-cluster-atlas-v1]], [[census-anchor-and-scale-clarifications-v1]], [[ardis-node-city-bible-v1]], [[ga8-palimpsest-and-archive-sites-atlas-v1]], [[ga9-preservation-regime-regional-atlas-v1]], [[ga10-transition-regions-and-service-state-atlas-v1]], [[reader-facing-terminology-phonetics-and-register-bible-v1]], [[named-faction-and-institution-registry-v1]], [[decision-log]]
-Used By: 장소 수집 설계, 항로 전투, 통행권 협약, 정착·보호 서사
+Used By: 장소 수집 설계, 항로 전투, 통행권 협약, 정착·보호 서사, 서브액트 배정 [[first-100-act-map-v2-consolidated]] · [[episode-briefs]]
 Canon Promotion: NOT AUTHORIZED
 Publication: NOT AUTHORIZED
 Open Risks: 제안 지명 26개는 정본 지명 규칙 검토를 아직 안 거침, 항로 14개는 고유명 없이 종점 쌍으로만 식별

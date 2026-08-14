@@ -4,7 +4,7 @@ Status: PROPOSED — NONCANON
 Owner: 단일 에이전트 작성 (CLAUDE.md §15-1 — 하위 에이전트 실행 증거 없음, 역할명 헤더로 독립 실행을 주장하지 않는다)
 Last Reviewed: 2026-08-13
 Depends On: [[galactic-legacy-collection-bible-v1]], [[series-payoff-ledger-v1]], [[m001-m020-early-clue-episode-ledger-v1]], [[secondary-mystery-decoy-and-retirement-ledger-v1]], [[named-technology-lineage-registry-v1]], [[named-hull-registry-and-naming-grammar-v1]], [[collection-desire-master-architecture-and-index-audit-v1]], [[reader-facing-terminology-phonetics-and-register-bible-v1]], [[decision-log]]
-Used By: 유물 수집 설계, 미스터리 회수, 반환·보존 서사, 위조품 판정
+Used By: 유물 수집 설계, 미스터리 회수, 반환·보존 서사, 위조품 판정, 서브액트 배정 [[first-100-act-map-v2-consolidated]] · [[episode-briefs]]
 Canon Promotion: NOT AUTHORIZED
 Publication: NOT AUTHORIZED
 Open Risks: 28개 중 정본 실물은 없음, 각 유물이 여는 대상(영웅·함선·기술·역사)의 확정은 회수 장부와 대조 필요, 반환 대상 공동체의 동의 절차 미설계

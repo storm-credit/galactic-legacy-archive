@@ -4,7 +4,7 @@ Status: PROPOSED — NONCANON
 Owner: 단일 에이전트 작성 (CLAUDE.md §15-1 — 하위 에이전트 실행 증거 없음, 역할명 헤더로 독립 실행을 주장하지 않는다)
 Last Reviewed: 2026-08-13
 Depends On: [[first-ship-bible-v1]], [[ownerless-fleet-structure-and-alignment-v1]], [[military-doctrine-and-force-structure-bible-v1]], [[grand-act-force-holdings-and-readiness-matrix-v1]], [[maneuver-frame-lineup-master-architecture-v1]], [[mecha-lineage-mark-and-evolution-naming-system-v1]], [[role-demand-portfolio-count-audit-v1]], [[core-canonical-names-and-voice-lock-v1]], [[reader-facing-terminology-phonetics-and-register-bible-v1]], [[galactic-legacy-collection-bible-v1]], [[decision-log]], [[first-100-act-map-v2-consolidated]], [[ga10-episodes-1001-1100-act-map-v1]], [[ga2-episodes-101-210-act-map-v1]], [[ga3-episodes-211-330-act-map-v1]], [[ga4-episodes-331-450-act-map-v1]], [[ga5-episodes-451-570-act-map-v1]], [[ga6-episodes-571-690-act-map-v1]], [[ga7-episodes-691-800-act-map-v1]], [[ga8-episodes-801-900-act-map-v1]], [[ga9-episodes-901-1000-act-map-v1]]
-Used By: 함선 수집 설계, 함대전 장면 카드, 기체–선체 탑재 크로스워크, 모델 시트 계획
+Used By: 함선 수집 설계, 함대전 장면 카드, 기체–선체 탑재 크로스워크, 모델 시트 계획, 서브액트 배정 [[first-100-act-map-v2-consolidated]] · [[episode-briefs]]
 Canon Promotion: NOT AUTHORIZED
 Publication: NOT AUTHORIZED
 Open Risks: 40척 중 정본은 1척뿐이며 나머지는 전부 승인 대기, 탑재 정원 수치는 급수 문법의 초안이고 개별 선체 실측이 아님, GA7–GA10 소속 이동 경로 미확정, 노획 계승 선체의 개명 시점 미확정

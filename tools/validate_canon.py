@@ -429,6 +429,104 @@ def check_payoffs(report: Report, sets=None, root: Path | None = None) -> int:
     return checked
 
 
+# --------------------------------------------------------------------------
+# C10 -- a load-bearing field repeated across items was not written for them
+# --------------------------------------------------------------------------
+# C9 asks whether the field is present. Present is not the same as authored:
+# the place rows carried one sentence about corridor consent across all
+# fourteen corridors, and the faction rows carried one sentence about blocs
+# conflicting across twenty-four blocs. Every cell was full and C9 passed.
+#
+# Section 19 says these fields exist to CONSTRAIN the story -- what this item
+# costs, how it can be misused. A sentence that is true of every item in the
+# domain constrains nothing. So this counts distinct values: when one string
+# covers a large share of the rows, it is a category label that was pasted
+# down the column, and the items underneath it are undesigned.
+
+TEMPLATE_SHARE = 0.20   # one value covering this much of a column is a label
+TEMPLATE_MIN_ROWS = 5   # below this a repeat is a coincidence, not a pattern
+
+
+def check_authored_fields(report: Report, sets=None, root: Path | None = None) -> int:
+    """C10 -- load-bearing fields must differ between items."""
+    import csv as _csv
+
+    checked = 0
+    base = root or ROOT
+    for csv_rel, _doc_rel, _prefixes in (sets or ANCHOR_SETS):
+        csv_path = base / csv_rel
+        if not csv_path.exists():
+            continue
+        with csv_path.open(encoding="utf-8") as handle:
+            rows = list(_csv.DictReader(handle))
+        if len(rows) < TEMPLATE_MIN_ROWS:
+            continue
+        for field in ("plot_use", "limit_cost", "misuse_risk"):
+            counts: dict[str, int] = {}
+            for row in rows:
+                value = row.get(field, "").strip()
+                if value:
+                    counts[value] = counts.get(value, 0) + 1
+            if not counts:
+                continue
+            checked += 1
+            value, hits = max(counts.items(), key=lambda kv: kv[1])
+            if hits >= TEMPLATE_MIN_ROWS and hits / len(rows) >= TEMPLATE_SHARE:
+                report.error(
+                    f"C10 {csv_rel}: {field} repeats one sentence over {hits} of "
+                    f"{len(rows)} rows — written for the category, not the items "
+                    f"({value[:40]}...)"
+                )
+    return checked
+
+
+# --------------------------------------------------------------------------
+# C11 -- a sub-act an item claims must exist in an act map
+# --------------------------------------------------------------------------
+# C7 checks the arc. The arc is too coarse to connect anything: fifty-one
+# items claiming GA1 leave the writer of any single sub-act with nothing. The
+# `subact` column is the edge that actually joins a registry to the act map,
+# so a value there must name a heading some act map really carries. Empty is
+# allowed and means nobody has placed the item -- that is a decision waiting,
+# not a broken link, and the brief reports it as unplaced.
+
+SUBACT_HEADING = re.compile(
+    r"^## (?:\d+\.\s*)?(?:Subact\s+)?([A-D]\d+|\d[A-Z]-\d+) — .+ / Episodes? \d+")
+
+
+def known_subacts(root: Path) -> set[str]:
+    found: set[str] = set()
+    for path in (root / "docs/10_story_architecture").glob("*act-map*.md"):
+        for line in path.read_text(encoding="utf-8").split("\n"):
+            match = SUBACT_HEADING.match(line)
+            if match:
+                found.add(match.group(1))
+    return found
+
+
+def check_subact_links(report: Report, root: Path | None = None) -> int:
+    """C11 -- every sub-act an anchor row claims resolves to an act map."""
+    import csv as _csv
+
+    base = root or ROOT
+    known = known_subacts(base)
+    checked = 0
+    for path in sorted(base.rglob("anchor-fields-*.csv")):
+        rel = path.relative_to(base).as_posix()
+        with path.open(encoding="utf-8") as handle:
+            for row in _csv.DictReader(handle):
+                value = row.get("subact", "").strip()
+                if not value:
+                    continue
+                checked += 1
+                if value not in known:
+                    report.error(
+                        f"C11 {rel}: {row['item_id']} claims sub-act {value}, "
+                        f"which no act map carries"
+                    )
+    return checked
+
+
 def parse_header(text: str) -> dict[str, str]:
     """Collect ``Key: value`` fields from the head of the file.
 
@@ -852,6 +950,62 @@ def selftest() -> int:
          '"item_id","first_reveal","final_payoff","plot_use","limit_cost","misuse_risk"\n'
          '"WA-001","GA2","GA5","u","c","r"\n', ""),
     ]
+    nl = chr(10)
+    HEAD = ('"item_id","first_reveal","final_payoff","plot_use","limit_cost",'
+            '"misuse_risk"' + nl)
+    same = "".join(f'"WA-00{i}","GA1","GA5","u","같은 한 문장","r{i}"' + nl
+                   for i in range(1, 7))
+    diff = "".join(f'"WA-00{i}","GA1","GA5","u{i}","고유한 문장 {i}","r{i}"' + nl
+                   for i in range(1, 7))
+    c10_cases = [
+        ("C10 detects one sentence pasted down a load-bearing column",
+         "", HEAD + same, "C10"),
+        ("C10 accepts a column whose rows differ", "", HEAD + diff, ""),
+    ]
+    for name, _doc, csv_text, expected in c10_cases:
+        with tempfile.TemporaryDirectory() as tmp:
+            base = Path(tmp)
+            (base / "d").mkdir()
+            (base / "d" / "anchor.csv").write_text(csv_text, encoding="utf-8")
+            report = Report()
+            check_authored_fields(report, [("d/anchor.csv", "d/reg.md", "WA-")], base)
+            found = report.errors + report.warnings
+            ok = any(i.startswith(expected) for i in found) if expected else not found
+        if ok:
+            print(f"  PASS  {name}")
+        else:
+            failures += 1
+            print(f"  FAIL  {name}: {found}")
+
+    act_head = "## A2 — 나사 하나의 소유권 / Episodes 6–10" + nl
+    c11_cases = [
+        ("C11 detects a sub-act no act map carries",
+         act_head, HEAD.replace('"first_reveal"', '"first_reveal","subact"')
+         + '"WA-001","GA1","Z9","GA5","u","c","r"' + nl, "C11"),
+        ("C11 accepts a sub-act an act map carries",
+         act_head, HEAD.replace('"first_reveal"', '"first_reveal","subact"')
+         + '"WA-001","GA1","A2","GA5","u","c","r"' + nl, ""),
+        ("C11 accepts an unplaced item",
+         act_head, HEAD.replace('"first_reveal"', '"first_reveal","subact"')
+         + '"WA-001","GA1","","GA5","u","c","r"' + nl, ""),
+    ]
+    for name, act_text, csv_text, expected in c11_cases:
+        with tempfile.TemporaryDirectory() as tmp:
+            base = Path(tmp)
+            (base / "docs" / "10_story_architecture").mkdir(parents=True)
+            (base / "docs" / "10_story_architecture" / "x-act-map-v1.md").write_text(
+                act_text, encoding="utf-8")
+            (base / "anchor-fields-x-v1.csv").write_text(csv_text, encoding="utf-8")
+            report = Report()
+            check_subact_links(report, base)
+            found = report.errors + report.warnings
+            ok = any(i.startswith(expected) for i in found) if expected else not found
+        if ok:
+            print(f"  PASS  {name}")
+        else:
+            failures += 1
+            print(f"  FAIL  {name}: {found}")
+
     for name, doc_text, csv_text, expected in c9_cases:
         with tempfile.TemporaryDirectory() as tmp:
             base = Path(tmp)
@@ -867,7 +1021,7 @@ def selftest() -> int:
         else:
             failures += 1
             print(f"  FAIL  {name}: {found}")
-    cases = list(cases) + c9_cases
+    cases = list(cases) + c9_cases + c10_cases + c11_cases
 
     print()
     if failures:
@@ -904,6 +1058,8 @@ def main() -> int:
     arc_count = check_arc_claims(files, report)
     count_scope = check_registry_counts(files, report)
     payoff_scope = check_payoffs(report)
+    authored_scope = check_authored_fields(report)
+    subact_scope = check_subact_links(report)
 
     report.note(f"markdown files scanned: {len(files)}")
     report.note(f"wikilinks resolved: {link_count}")
@@ -913,6 +1069,8 @@ def main() -> int:
     report.note(f"registry arc claims checked: {arc_count}")
     report.note(f"registries counting themselves: {count_scope}")
     report.note(f"items with a recorded payoff: {payoff_scope}")
+    report.note(f"load-bearing columns checked for template fill: {authored_scope}")
+    report.note(f"items joined to a sub-act of an act map: {subact_scope}")
 
     if report.warnings:
         print("WARNINGS")

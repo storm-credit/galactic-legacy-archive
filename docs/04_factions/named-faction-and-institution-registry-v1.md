@@ -4,7 +4,7 @@ Status: PROPOSED — NONCANON
 Owner: 단일 에이전트 작성 (CLAUDE.md §15-1 — 하위 에이전트 실행 증거 없음, 역할명 헤더로 독립 실행을 주장하지 않는다)
 Last Reviewed: 2026-08-13
 Depends On: [[initial-five-faction-bible-v1]], [[faction-symmetry-harness]], [[faction-succession-culture-visual-identity-matrix-v1]], [[imperial-succession-law-claimants-and-intelligence-blocs-v1]], [[galactic-legacy-collection-bible-v1]], [[collection-desire-master-architecture-and-index-audit-v1]], [[named-technology-lineage-registry-v1]], [[decision-log]]
-Used By: 세력 수집 설계, 가입·협약 장면, 내부 분열 서사, 대표성 판정
+Used By: 세력 수집 설계, 가입·협약 장면, 내부 분열 서사, 대표성 판정, 서브액트 배정 [[first-100-act-map-v2-consolidated]] · [[episode-briefs]]
 Canon Promotion: NOT AUTHORIZED
 Publication: NOT AUTHORIZED
 Open Risks: 생태계가 6개로 밴드 10–12에 미달하며 추가는 작가 결정, 일시 연합 10–16과 지속 조직 68–82은 미등록, C6 기술과의 경계가 일부 흐림
