@@ -147,7 +147,7 @@ NARRATION_HARNESS = "docs/13_writing_harness/narration-harness-v1.md"
 # A bracketed line is read in a machine voice, so anything the machine did not
 # print must not wear brackets -- signs, labels, stencils, printed notices.
 PHYSICAL_MARK_WORDS = (
-    "표지판", "명\李", "각인", "인쇄", "게시", "퀢말",
+    "표지판", "명찰", "각인", "인쇄", "게시", "팻말", "스텐실",
 )
 DIALOGUE_TAGS = ("말했다", "물었다", "답했다", "대답했다",
                  "덧붙였다", "중얼거렸다", "외쳤다", "속삭였다")
@@ -201,6 +201,60 @@ def narration_findings(prose: str, names: dict) -> list:
     return out
 
 
+ACT_MAP = "docs/10_story_architecture/first-100-act-map-v2-consolidated.md"
+PAYOFF_LEDGER = "docs/11_mystery/series-payoff-ledger-v1.md"
+
+SUBACT_HEAD = re.compile(r"^## (A\d+) — (.+?) / Episodes (\d+)[–-](\d+)\s*$")
+EPISODE_HEAD = re.compile(r"^E(\d+):\s*$")
+PLANT_WINDOW = re.compile(r"^### Plant — Episodes? (\d+)(?:[–-](\d+))?")
+MYSTERY_HEAD = re.compile(r"^## (M-\d+) — (.+?)\s*$")
+
+
+def act_map_entry(number: int) -> tuple[str, list[str]] | None:
+    """(sub-act label, what the act map says this episode does)."""
+    path = ROOT / ACT_MAP
+    if not path.exists():
+        return None
+    subact = ""
+    lines = path.read_text(encoding="utf-8").split("\n")
+    for i, line in enumerate(lines):
+        head = SUBACT_HEAD.match(line)
+        if head:
+            a, title, lo, hi = head.groups()
+            subact = f"{a} 「{title}」 / {lo}–{hi}화"
+            continue
+        ep = EPISODE_HEAD.match(line.strip())
+        if ep and int(ep.group(1)) == number:
+            body = []
+            for nxt in lines[i + 1:]:
+                if nxt.startswith("- "):
+                    body.append(nxt[2:].strip())
+                elif body or nxt.strip():
+                    break
+            return subact, body
+    return None
+
+
+def active_clues(number: int) -> list[str]:
+    """Mysteries whose plant window covers this episode."""
+    path = ROOT / PAYOFF_LEDGER
+    if not path.exists():
+        return []
+    out, current = [], ""
+    for line in path.read_text(encoding="utf-8").split("\n"):
+        head = MYSTERY_HEAD.match(line)
+        if head:
+            current = f"{head.group(1)} {head.group(2)}"
+            continue
+        window = PLANT_WINDOW.match(line)
+        if window and current:
+            lo = int(window.group(1))
+            hi = int(window.group(2)) if window.group(2) else lo
+            if lo <= number <= hi:
+                out.append(current)
+    return out
+
+
 def review(path: Path, names: dict[str, set[str]]) -> tuple[list[str], list[str]]:
     text = path.read_text(encoding="utf-8")
     prose = body_of(text)
@@ -250,7 +304,29 @@ def review(path: Path, names: dict[str, set[str]]) -> tuple[list[str], list[str]
             findings.append(f"'{word}'가 {count}회 반복 — 반복 표현 검토")
 
     lines = [l.strip() for l in prose.split("\n") if l.strip()]
-    prompts = [
+
+    number = None
+    m = re.search(r"^Episode:\s*E(\d+)", text, re.M)
+    if m:
+        number = int(m.group(1))
+    elif re.match(r"^\d{3}-", path.name):
+        number = int(path.name[:3])
+
+    structure: list[str] = []
+    if number is not None:
+        entry = act_map_entry(number)
+        if entry:
+            subact, body = entry
+            structure.append(f"서브액트: {subact}")
+            for b in body:
+                structure.append(f"액트맵이 이 회차에 요구하는 것: {b}")
+        else:
+            findings.append(f"E{number}가 액트맵에 없다 — 구조 밖 회차")
+        clues = active_clues(number)
+        if clues:
+            structure.append("심기 구간이 열린 미스터리: " + " · ".join(clues))
+
+    prompts = structure + [
         "장면 목적: 이 회차의 각 장면이 무엇을 바꾸는가",
         "인과와 동기: 인물의 선택이 앞 회차에서 설명되는가",
         "전투 공간: 위치·거리·시야·관성·장비 상태가 따라가지는가 (§2-6)",
