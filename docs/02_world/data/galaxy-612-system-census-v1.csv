@@ -309,7 +309,7 @@
 "SYS-308","툰드리","Frontier","FR-C08","L3","28","relay","rescue","unaligned_or_local","sparse_or_seasonal","PENDING","PROTECTED_NAME"
 "SYS-309","뇌른","Frontier","FR-C09","L3","28","salvage","recovery","unaligned_or_local","sparse_or_seasonal","PENDING","PROTECTED_NAME"
 "SYS-310","셀바","Frontier","FR-C10","L3","28","outpost","patrol","unaligned_or_local","sparse_or_seasonal","PENDING","PROTECTED_NAME"
-"SYS-311","","Frontier","FR-C11","L3","28","settlement","subsistence","unaligned_or_local","sparse_or_seasonal","PENDING",""
+"SYS-311","검은 병동","Frontier","FR-C11","L3","28","settlement","subsistence","unaligned_or_local","sparse_or_seasonal","PENDING","PROTECTED_NAME"
 "SYS-312","","Frontier","FR-C12","L3","28","relay","rescue","unaligned_or_local","sparse_or_seasonal","PENDING",""
 "SYS-313","","Frontier","FR-C13","L3","28","salvage","recovery","unaligned_or_local","sparse_or_seasonal","PENDING",""
 "SYS-314","","Frontier","FR-C14","L3","28","outpost","patrol","unaligned_or_local","sparse_or_seasonal","PENDING",""

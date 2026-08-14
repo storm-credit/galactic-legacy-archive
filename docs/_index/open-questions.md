@@ -7,7 +7,7 @@
 게이트 §12는 미결정과 가정이 숨겨져 있지 않을 것을 요구한다. 숨겨져 있지는 않았고,
 한자리에 모여 있지 않았을 뿐이다. 이 목록이 그 자리다.
 
-`Open Risks`를 가진 문서 **360개** · `[ASSUMPTION]` 표기를 가진 문서 **13개**
+`Open Risks`를 가진 문서 **360개** · `[ASSUMPTION]` 표기를 가진 문서 **14개**
 
 ## 명시적 가정 `[ASSUMPTION]`
 
@@ -28,6 +28,7 @@
 | [[ga1-e1-v2-design-canon-narration-conformance-audit-2026-08-08]] | 1 |
 | [[pre-writing-readiness-audit-v1]] | 1 |
 | [[prewriting-gate-scorecard-2026-08-13]] | 1 |
+| [[registry-redteam-2026-08-13]] | 1 |
 
 ## 손으로 관리하는 등록부
 

@@ -105,24 +105,24 @@ Open Risks: 생태계가 6개로 밴드 10–12에 미달하며 추가는 작가
 
 | ID | 조직 | 이 조직이 원하는 것 | 정본 출처 | 상태 |
 |---|---|---|---|---|
-| `REC-F01` | 계승 인증 총국 (작업명 Continuity Authentication Directorate) | 기록의 진위를 인증할 권한 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
-| `REC-F02` | 복수 기록 연합 (작업명 Plural Archive Coalition) | 복수의 기록이 공존할 권리 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
-| `REC-F03` | 복원 진상 의회 (작업명 Restoration Truth Assembly) | 지워진 진실의 복원 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
-| `REC-F04` | 잊힐 권리 연결망 (작업명 Right-to-Forget / Liberation Network) | 잊힐 권리와 해방 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
-| `REC-F05` | 복합 인격 협약 (작업명 AI and Composite Persons Compact) | AI·복합 인격의 인격권 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
-| `REC-F06` | 국가·헬릭스 운영기록 동맹 (작업명 State/Helix Operational Records Alliance) | 운영 기록의 국가·기업 통제 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
+| `REC-F01` | 계승 인증 총국 (작업명 Continuity Authentication Directorate) | 기록의 진위를 인증할 권한 | [[ga8-record-war-factions-and-representatives-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
+| `REC-F02` | 복수 기록 연합 (작업명 Plural Archive Coalition) | 복수의 기록이 공존할 권리 | [[ga8-record-war-factions-and-representatives-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
+| `REC-F03` | 복원 진상 의회 (작업명 Restoration Truth Assembly) | 지워진 진실의 복원 | [[ga8-record-war-factions-and-representatives-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
+| `REC-F04` | 잊힐 권리 연결망 (작업명 Right-to-Forget / Liberation Network) | 잊힐 권리와 해방 | [[ga8-record-war-factions-and-representatives-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
+| `REC-F05` | 복합 인격 협약 (작업명 AI and Composite Persons Compact) | AI·복합 인격의 인격권 | [[ga8-record-war-factions-and-representatives-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
+| `REC-F06` | 국가·헬릭스 운영기록 동맹 (작업명 State/Helix Operational Records Alliance) | 운영 기록의 국가·기업 통제 | [[ga8-record-war-factions-and-representatives-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
 
 ### 2.8 아르디스 지역 세력 (7)
 
 | ID | 조직 | 이 조직이 원하는 것 | 정본 출처 | 상태 |
 |---|---|---|---|---|
-| `AR-F01` | 아르디스 시민 연속성 협의회 (작업명 Civic Continuity Council) | 도시 서비스의 연속성 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
-| `AR-F02` | 주조 노동자 조합 (작업명 Foundry Workers’ Compact) | 노동자의 몫과 안전 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
-| `AR-F03` | 노드 관리단 (작업명 Node Custodian College) | 노드 관리 권한의 유지 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
-| `AR-F04` | 통행·미등록 주민 회의 (작업명 Transit and Unregistered Residents’ Assembly) | 미등록 주민의 존재 인정 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
-| `AR-F05` | 아르디스 연방·독립 연합 (작업명 Ardis Federalist / Independence Coalition) | 아르디스의 독립 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
-| `AR-F06` | 헬릭스 채권 회수단 (작업명 Helix–Creditor Recovery Authority) | 채권 회수 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
-| `AR-F07` | 지역 방위 사령부 (작업명 Local Defense Command) | 지역 방위의 자율성 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
+| `AR-F01` | 아르디스 시민 연속성 협의회 (작업명 Civic Continuity Council) | 도시 서비스의 연속성 | [[ardis-local-factions-and-leaders-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
+| `AR-F02` | 주조 노동자 조합 (작업명 Foundry Workers’ Compact) | 노동자의 몫과 안전 | [[ardis-local-factions-and-leaders-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
+| `AR-F03` | 노드 관리단 (작업명 Node Custodian College) | 노드 관리 권한의 유지 | [[ardis-local-factions-and-leaders-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
+| `AR-F04` | 통행·미등록 주민 회의 (작업명 Transit and Unregistered Residents’ Assembly) | 미등록 주민의 존재 인정 | [[ardis-local-factions-and-leaders-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
+| `AR-F05` | 아르디스 연방·독립 연합 (작업명 Ardis Federalist / Independence Coalition) | 아르디스의 독립 | [[ardis-local-factions-and-leaders-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
+| `AR-F06` | 헬릭스 채권 회수단 (작업명 Helix–Creditor Recovery Authority) | 채권 회수 | [[ardis-local-factions-and-leaders-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
+| `AR-F07` | 지역 방위 사령부 (작업명 Local Defense Command) | 지역 방위의 자율성 | [[ardis-local-factions-and-leaders-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
 
 이 13개는 대액트 범위의 **지속 조직**이며 시리즈 핵심 생태계 계수(§1.2)에 더하지 않는다. 생태계는 1000화 전체를 관통하는 축이고, 이들은 자기 대액트 안에서 살고 죽는다.
 
