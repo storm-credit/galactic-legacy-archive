@@ -461,7 +461,12 @@ def check_authored_fields(report: Report, sets=None, root: Path | None = None) -
             rows = list(_csv.DictReader(handle))
         if len(rows) < TEMPLATE_MIN_ROWS:
             continue
-        for field in ("plot_use", "limit_cost", "misuse_risk"):
+        # Every column except the ones that are supposed to repeat: ids and
+        # names are unique by construction, arcs and sub-acts are shared on
+        # purpose, and texture_status is a state word with three legal values.
+        fixed = {"item_id", "name", "first_reveal", "final_payoff", "subact",
+                 "texture_status", "related_mystery"}
+        for field in [f for f in rows[0] if f not in fixed]:
             counts: dict[str, int] = {}
             for row in rows:
                 value = row.get(field, "").strip()
