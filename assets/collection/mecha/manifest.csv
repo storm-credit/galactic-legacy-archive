@@ -1,0 +1,3 @@
+slot_id,formal_code,name_ko,name_en,lineage_id,entity_status,visual_status,sheet_path,notes
+HOLD-AXIOM,LFX-01,액시엄,AXIOM,L08,PROPOSED_NONCANON,VISUAL_APPROVED_BY_USER,assets/collection/mecha/hold-lfx-01-axiom/sheet-v1.png,"별도 legacy candidate; image does not promote canon"
+M-001,AUX-07,07호,07,L01,CANON_ENTITY,VISUAL_DRAFT,assets/collection/mecha/m-001-aux-07/sheet-v1.png,"generated sheet may contain noncanon/invented labels or values; canon facts remain source-controlled"
