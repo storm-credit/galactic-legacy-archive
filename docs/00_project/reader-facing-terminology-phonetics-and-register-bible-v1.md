@@ -4,7 +4,7 @@ Status: CANON PROJECT CONTROL — READER MEMORY AUTHORITY
 Owner Agents: P05 Culture-Language / C06 Voice / X02 Reader Memory / N07 Retention / O01 Canon / R07 Similarity
 Last Reviewed: 2026-08-03
 Depends On: [[core-canonical-names-and-voice-lock-v1]], 612-system census, faction/culture bibles, technical and military bibles
-Used By: all future scene cards, maps, dialogue, glossary and manuscript work
+Used By: all future scene cards, maps, dialogue, glossary and manuscript work, [[named-place-and-corridor-registry-v1]] 지명 명명
 Open Risks: human mobile recall testing remains blocked until an explicit writing phase
 
 ## 1. Core Rule

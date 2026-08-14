@@ -96,6 +96,13 @@ def render() -> str:
                 "| 문서 | 표기 수 |", "|---|---:|"]
         out += [f"| [[{stem}]] | {n} |" for stem, n in sorted(assumptions, key=lambda x: -x[1])]
         out.append("")
+    out += ["## 손으로 관리하는 등록부", "",
+            "이 생성 목록 이전부터 있던 것들이다. 생성물이 대체하지 않으며, "
+            "각자 다른 것을 센다.", "",
+            "- [[blind-spot-register]] — 맹점 훑기 결과",
+            "- [[deferred-design-register-v2]] — 보류한 설계 항목",
+            "- [[deferred-detail-completion-ci-closure-v1]] — 상세 완성 보류 마감",
+            ""]
     out += ["## 분야별 열린 위험", ""]
     for section in sorted(risks):
         out += [f"### {section} — {len(risks[section])}건", "", "| 문서 | 열린 위험 |", "|---|---|"]

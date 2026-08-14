@@ -29,6 +29,14 @@
 | [[pre-writing-readiness-audit-v1]] | 1 |
 | [[prewriting-gate-scorecard-2026-08-13]] | 1 |
 
+## 손으로 관리하는 등록부
+
+이 생성 목록 이전부터 있던 것들이다. 생성물이 대체하지 않으며, 각자 다른 것을 센다.
+
+- [[blind-spot-register]] — 맹점 훑기 결과
+- [[deferred-design-register-v2]] — 보류한 설계 항목
+- [[deferred-detail-completion-ci-closure-v1]] — 상세 완성 보류 마감
+
 ## 분야별 열린 위험
 
 ### 00_project — 25건

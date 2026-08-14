@@ -4,7 +4,7 @@ Status: REVIEW — CANON LOCK CANDIDATE
 Owner Agents: C01 Character Bible / C06 Voice / P05 Culture / O01 Canon / X04 Continuity
 Last Reviewed: 2026-08-03
 Depends On: opening cast, crew bible, claimant/fleet/route/record faction bibles, [[master-series-chronology-v1]]
-Used By: all scene cards, manuscript prose, dialogue audits, name-propagation pass
+Used By: all scene cards, manuscript prose, dialogue audits, name-propagation pass, 대액트별 배역 정본 — [[ga4-frontstage-claimants-bible-v1]], [[ga5-fleet-commanders-and-crew-representatives-v1]], [[ga6-orpheus-decision-actors-v1]], [[ga9-preservation-regime-actors-v1]]
 Open Risks: side-character names and faction-specific pronunciation tests remain open
 
 ## 1. Naming Policy

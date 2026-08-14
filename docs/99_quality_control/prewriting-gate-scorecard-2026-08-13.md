@@ -61,8 +61,8 @@ BLOCKER 2건과 FAIL 6건 중 5건이 전부 **§3 Project & Market**이다. 픽
 | **BLOCKER** 한 줄 소개 확정 | **PASS** | [[project-charter]] §0.1 — 4안 비교 후 B 채택, 문서 CANON 승격 (2026-08-13) |
 | **BLOCKER** 핵심 독자·장르 약속 확정 | **PASS** | [[project-charter]] §0.2 — 주·부·확장 독자 구분, 장르 약속 6개 조항 |
 | 공모전 일정·분량·독점·AI 규정 확인 | **PASS** (2026-08-14) | 작가가 요강·FAQ를 확인. [[project-charter]] §0.4에 전수 기록. AI 규정은 **존재하지 않음**이 확인됐다 — 불명이 아니라 부재다. 이전 판정: [[project-charter]] §0.4에 항목별 가정·근거·어긋났을 때의 영향·완화책·해결 시점을 기록. AI 사용 규정이 최대 위험으로 표시됨 |
-| 한국 웹소설 참고작 분석 완료 | **PASS** | [[reference-structure-analysis-v1]] ⚠자기인증 — 회귀물 1화 구조, 수집 보상 주기, 회차 길이·호흡, 유사성 분리선 |
-| 해외 SF·메카 참고작 분석 완료 | **PASS** | [[reference-structure-analysis-v1]] ⚠자기인증 §3–§4 — 에이스 경제, 메카·함대 병존 3해법. 형태 문법은 [[maneuver-frame-lineup-master-architecture-v1]] §12 |
+| 한국 웹소설 참고작 분석 완료 | **PASS** (근거 정정 2026-08-14) | **원래 있었다.** [[gate1-pattern-synthesis]]가 개막 훅 5종·첫 5화 기능 지도·첫 20화 보상 주기·영웅 등장 4종·유사작 대조표를 담고 있고 [[gate1-reference-baseline]]가 그 아래 있다. 8/13 채점은 [[reference-study-plan]]이 `DRAFT`인 것만 보고 분석이 없다고 판정했다 — 다른 이름으로 이미 있는 문서를 못 찾은 것이다. [[reference-structure-analysis-v1]]는 그 위에 회차 길이·호흡을 더한 보완이다 |
+| 해외 SF·메카 참고작 분석 완료 | **PASS** (근거 정정 2026-08-14) | [[gate1-pattern-synthesis]]의 유사성 대조표가 건담 계열·은하영웅전설 대조를 이미 갖고 있었다. [[reference-structure-analysis-v1]] §3–§4가 에이스 경제와 메카·함대 병존 3해법을 더한다. 형태 문법은 [[maneuver-frame-lineup-master-architecture-v1]] §12 |
 | 유사성 위험·차별화 전략 문서화 | **PASS** | [[maneuver-frame-lineup-master-architecture-v1]] §12 고유성 게이트, [[mecha-lineage-mark-and-evolution-naming-system-v1]] §9 하드 리젝트 목록 |
 | 제목·소개문·키워드 가설 | **PASS** | [[project-charter]] §0.3 — 정본 작품명·시장 제목·대안 2안·키워드 10개·플랫폼 소개문 초안 |
 
@@ -202,7 +202,7 @@ BLOCKER 2건과 FAIL 6건 중 5건이 전부 **§3 Project & Market**이다. 픽
 1. **로그라인 한 줄** — BLOCKER. [[project-charter]]에 확정하고 CANON 승격.
 2. **핵심 독자·장르 약속** — BLOCKER. 같은 문서.
 3. **공모전 규정 확인** — 일정·분량·독점·AI 사용 규정. 작가만 할 수 있다(외부 정보).
-4. **참고작 분석 완료본** — [[reference-study-plan]]이 계획서에 머물러 있다. 구조·훅·보상주기·회차길이를 실제로 분석해 결과 문서로.
+4. ~~참고작 분석 완료본~~ — **해소.** 분석은 [[gate1-pattern-synthesis]]로 이미 존재했고 8/13 채점이 찾지 못했을 뿐이다.
 5. **제목·소개문·키워드 가설** — 3안 비교 정도로 충분하다.
 6. **PARTIAL 2건 완화책** — revision harness 실행 자산, 저장소 미결정 목록.
 
