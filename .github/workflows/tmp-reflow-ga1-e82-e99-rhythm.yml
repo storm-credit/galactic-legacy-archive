@@ -1,0 +1,50 @@
+name: Temporary narration rhythm reflow GA1 E82 E84 E93 E99
+
+on:
+  push:
+    branches:
+      - manuscript/ga1-e82-e99-narration-rhythm-reflow
+    paths:
+      - '.github/workflows/tmp-reflow-ga1-e82-e99-rhythm.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  reflow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Reflow selected narration paragraphs
+        run: python .github/scripts/tmp_reflow_ga1_e82_e99_rhythm.py
+      - name: Validate repository
+        run: |
+          python tools/validate_canon.py --selftest
+          python tools/validate_canon.py
+          python tools/build_index.py --check
+          python tools/build_catalog.py --check
+          python tools/build_census.py --check
+          python tools/validate_mecha_lineup.py --selftest
+          python tools/validate_mecha_lineup.py
+          python tools/validate_frame_formation_integration.py --selftest
+          python tools/validate_frame_formation_integration.py
+          python tools/validate_role_demand_portfolio.py --selftest
+          python tools/validate_role_demand_portfolio.py
+          git diff --check
+      - name: Commit only selected manuscripts and remove temporary tooling
+        run: |
+          git config user.name 'storm-credit'
+          git config user.email 'stormcredit0725@gmail.com'
+          git rm .github/workflows/tmp-reflow-ga1-e82-e99-rhythm.yml
+          git rm .github/scripts/tmp_reflow_ga1_e82_e99_rhythm.py
+          git add manuscript/ga1/082-다섯-개의-문-v1.md
+          git add manuscript/ga1/084-학원-헌장-0.1-v1.md
+          git add manuscript/ga1/093-중앙키-v1.md
+          git add manuscript/ga1/099-살아남은-학교의-청구서-v1.md
+          git commit -m 'Reflow GA1 governance and aftermath narration rhythm'
+          git push origin HEAD:manuscript/ga1-e82-e99-narration-rhythm-reflow
