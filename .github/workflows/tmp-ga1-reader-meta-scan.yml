@@ -1,4 +1,4 @@
-name: Temporary GA1 reader meta scan
+name: Temporary GA1 reader meta cleanup
 
 on:
   push:
@@ -6,15 +6,43 @@ on:
       - agent/ga1-e21-e100-reader-line-edit
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  scan:
+  clean-and-validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Scan E21-E100 reader-facing manuscript body
+      - name: Apply exact E21-E100 reader-facing cleanup
         run: python tools/tmp_scan_ga1_reader_meta.py
+      - name: Check patch whitespace
+        run: git diff --check
+      - name: Validate canon and manuscript contracts
+        run: python tools/validate_canon.py
+      - name: Check generated index
+        run: python tools/build_index.py --check
+      - name: Check generated catalogue
+        run: python tools/build_catalog.py --check
+      - name: Check generated census
+        run: python tools/build_census.py --check
+      - name: Validate mecha lineup
+        run: python tools/validate_mecha_lineup.py
+      - name: Validate frame formation integration
+        run: python tools/validate_frame_formation_integration.py
+      - name: Validate role demand portfolio
+        run: python tools/validate_role_demand_portfolio.py
+      - name: Commit only validated manuscript edits
+        run: |
+          rm tools/tmp_scan_ga1_reader_meta.py
+          rm .github/workflows/tmp-ga1-reader-meta-scan.yml
+          git add -A
+          git diff --cached --check
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "QC: remove reader-facing episode meta from GA1 E21-E100"
+          git push origin HEAD:agent/ga1-e21-e100-reader-line-edit
