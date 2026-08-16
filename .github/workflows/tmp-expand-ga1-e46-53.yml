@@ -21,6 +21,34 @@ jobs:
         with:
           python-version: '3.11'
       - name: Apply approved scene-beat expansions
-        shell: bash
+        run: python .github/scripts/tmp_expand_ga1_e46_53.py
+      - name: Validate repository
         run: |
-          echo 'ZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgpyb290ID0gUGF0aCgibWFudXNjcmlwdC9nYTEiKQoKZGVmIGluc2VydF9hZnRlcihwYXRoLCBhbmNob3IsIGFkZGl0aW9uKToKICAgIHAgPSByb290IC8gcGF0aAogICAgdGV4dCA9IHAucmVhZF90ZXh0KGVuY29kaW5nPSJ1dGYtOCIpCiAgICBuID0gdGV4dC5jb3VudChhbmNob3IpCiAgICBpZiBuICE9IDE6CiAgICAgICAgcmFpc2UgU3lzdGVtRXhpdChmIntwYXRofTogZXhwZWN0ZWQgYW5jaG9yIG9uY2UsIGdvdCB7bn06IHthbmNob3JbOjYwXSFyfSIpCiAgICB0ZXh0ID0gdGV4dC5yZXBsYWNlKGFuY2hvciwgYW5jaG9yICsgYWRkaXRpb24sIDEpCiAgICBwLndyaXRlX3RleHQodGV4dCwgZW5jb2Rpbmc9InV0Zi04IikKCmluc2VydF9hZnRlcigKICAgICIwNDYt65GQLeuylOynuC3ri6TshK8t67KI7Ke4LuuLteycdjEubWQiLAogICAgIu2VmOugjOydgCDtmITsnqUg7J6R7JeF7Iqk7LyA7KSE7J2EIOyXtOyXiOuLpC5cbiIsCiAgICByJycnCuq3uOuKlCDstpzsnoXquLDroZ3rp4wg67O07KeAIOyViOuVmOuLpC4KCkI1LUMg6rWQ64yA7KGw6rCALCDslrDslrTrs7XslYQg7J2464KY6riw66Gd7J2EIOu2iOufrOyZlOuLpC4g7J6R7JeF7J6QIOuRkCDrqoXsnYQg65Ok7Ja06rCA6riwIOyngeyghCDrsJjslYQg7ZKI66qp7J20IOuCqOyVhCDsnojsl4jri6QuIO2VhO2EsCDtlZjrgpjsnYAg64K07J6sIOuwmOuCqCDsiqTsubjsnbQg7LCN7ZiI6rOgLCDri6Trpbgg7ZWY64KY64qUIOywje2eiOyngCDslYrsnZjrj6jsl5jsi6QuIO2GteuhnCDssp3soJDsmqkg67Cw7YSw66as64+EIOy2nOqzoOuQnCDssYTsl7jsnZjri6QuCgrigJzrkZgg64ukIOyViOyXkCDsnojsnYQg6rCA64ql7ISx7J20IOuGkuyVhC7igJ0KCu2VmOugjOydtCDr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“4ayy66eIQuKAnQoK7J6R7JeF7J6Q64qUIOuwlOuhnCDriKY7Jik7KeAIOyViuOyVnOuLpC4KCuKAnOqwgOydtCDrl6TrlrTslqwg7IKs656M7J20IOuDieqwgOuNlSDsoITsnYQg7IiYIOyeiOyWtOyalC7igJ0KCu2VmOugjOydtCDtmITsnqzsnbjsm5Ag7KeA64+E66W8IO2ZleyduO2WiOuLpC4KCuKAnOydkeuLteyngOqwgCDriJjslrTslrQuIOuLpOuluCDstqnsrprroZwg7Jyg64+EIOykkeydtOyVvC7igJ0KCuq3uOygnOyVvCDsnoXshJzsl4jqsIAg66qo7J2EIO2LtOugiOuEjCDso5HsnYAg66y47Ya17J2EIOu5oOyguOuCmOyZlOuLpC4g65Gk7J2065+QIOyymOyydOyXkOuKlCDsoJDqsbAg7JqU6rWs7JeQIOuPmeyhsO2WiOuNl%3D...
+          python tools/validate_canon.py --selftest
+          python tools/validate_canon.py
+          python tools/build_index.py --check
+          python tools/build_catalog.py --check
+          python tools/build_census.py --check
+          python tools/validate_mecha_lineup.py --selftest
+          python tools/validate_mecha_lineup.py
+          python tools/validate_frame_formation_integration.py --selftest
+          python tools/validate_frame_formation_integration.py
+          python tools/validate_role_demand_portfolio.py --selftest
+          python tools/validate_role_demand_portfolio.py
+          git diff --check
+      - name: Commit manuscript changes and remove temporary tooling
+        run: |
+          git config user.name 'storm-credit'
+          git config user.email 'stormcredit0725@gmail.com'
+          git rm .github/workflows/tmp-expand-ga1-e46-53.yml
+          git rm .github/scripts/tmp_expand_ga1_e46_53.py
+          git add manuscript/ga1/046-두-번째-다섯-번째-답-v1.md
+          git add manuscript/ga1/047-스물다섯-명의-동의-v1.md
+          git add manuscript/ga1/048-누가-복사했는가-v1.md
+          git add manuscript/ga1/049-벌은-가장-넓게-퍼진다-v1.md
+          git add manuscript/ga1/050-다섯-번째-답은-없다-v1.md
+          git add manuscript/ga1/051-공개된-병원에-없는-치료-v1.md
+          git add manuscript/ga1/052-검은-병동은-병원이다-v1.md
+          git add manuscript/ga1/053-하루를-사는-사람들-v1.md
+          git commit -m 'Revise GA1 E46-E53 with approved scene expansion'
+          git push origin HEAD:manuscript/ga1-e46-53-structural-expansion
