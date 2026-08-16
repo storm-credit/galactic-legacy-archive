@@ -1,0 +1,52 @@
+name: Temporary manuscript schema detection fix
+
+on:
+  push:
+    branches:
+      - qc/fix-manuscript-schema-detection
+
+permissions:
+  contents: write
+
+jobs:
+  patch-and-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Apply schema-detection patch
+        run: python .github/scripts/tmp_fix_manuscript_schema_detection.py
+
+      - name: Run validator self-tests
+        run: python tools/validate_canon.py --selftest
+
+      - name: Run full canon/manuscript validation
+        run: python tools/validate_canon.py | tee /tmp/validate.txt
+
+      - name: Assert current-schema E21-E100 no longer emit C5
+        shell: bash
+        run: |
+          if grep -E 'C5 manuscript/ga1/(0(2[1-9]|[3-9][0-9])|100)-' /tmp/validate.txt; then
+            echo 'current-schema E21-E100 still emit C5 warnings'
+            exit 1
+          fi
+
+      - name: Check patch cleanliness
+        run: git diff --check
+
+      - name: Commit validator fix and remove temporary tooling
+        shell: bash
+        run: |
+          git config user.name 'storm-credit'
+          git config user.email 'stormcredit0725@gmail.com'
+          git add tools/validate_canon.py
+          git rm .github/scripts/tmp_fix_manuscript_schema_detection.py
+          git rm .github/workflows/tmp-fix-manuscript-schema-detection.yml
+          git commit -m 'QC: detect manuscript schema from headers'
+          git push origin HEAD:qc/fix-manuscript-schema-detection
