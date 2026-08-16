@@ -1,0 +1,20 @@
+name: Temporary GA1 reader meta scan
+
+on:
+  push:
+    branches:
+      - agent/ga1-e21-e100-reader-line-edit
+
+permissions:
+  contents: read
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Scan E21-E100 reader-facing manuscript body
+        run: python tools/tmp_scan_ga1_reader_meta.py
