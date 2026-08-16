@@ -821,8 +821,8 @@ Pre-Writing Gate 개방 당시 첫 권장 집필 배치는 E1~5였다. 이후 �
 
 - GA1의 **초고 생산·개정·자체감사 범위를 E100까지 승인**한다.
 - E1~5 이후 E6~100도 현행 장면카드·정본·집필 워크플로를 따라 자동 진행할 수 있다.
-- 이 범위 확대는 GAUTHRIT-APPROVED`, 공개, 유료연재, 출팄 승인을 의미하지 앋는다.
-- 원고는 별도 자가 승인 전까지 `DRAFT | REVISED`와 `Publication: NOT AUTHORIZEDඅ로 유지한다.
+- 이 범위 확대는 `AUTHOR-APPROVED`, 공개, 유료연재, 출판 승인을 의미하지 않는다.
+- 원고는 별도 작가 승인 전까지 `DRAFT | REVISED`와 `Publication: NOT AUTHORIZED`를 유지한다.
 - 특정 원고 PR에 `병합하지 마`, `Draft PR로만`, `작가 승인 전 병합 금지`가 명시되어 있으면 그 개별 보류가 D-20260816-02의 기본 main 통합보다 우선한다.
 
 ### Reasons
