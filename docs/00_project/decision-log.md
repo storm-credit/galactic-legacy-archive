@@ -2,7 +2,7 @@
 
 Status: CANON
 Owner Agent: A00 Novel PM Orchestrator
-Last Reviewed: 2026-08-08
+Last Reviewed: 2026-08-16
 Depends On: None
 Used By: All project documents
 Open Risks: Unrecorded conversational decisions
@@ -490,6 +490,7 @@ P-001의 유일한 독자 노출 정본명을 **`리안 칼데르 / Rian Calder`
 ### Reversal Condition
 
 작가가 P-001의 전체 이름을 다시 명시적으로 변경할 때만 재검토한다.
+
 ## D-20260812-01 — 기동 프레임 포트폴리오 방향 B 채택
 Status: ACCEPTED
 Date: 2026-08-12
@@ -702,3 +703,104 @@ Decision Owner: 작가
 ### Reversal Condition
 
 섀시 증명 단계에서 후보가 40건에 미달하면 B안(32–40)으로 되돌린다.
+
+---
+
+## D-20260816-01 — 회차 분량 하한은 사후 게이트이며 패딩을 금지한다
+
+Status: ACCEPTED
+Date: 2026-08-16
+Decision Owner: 작가
+
+### Context
+
+GA1 E21~100 초고 생산 후 C4 하한 검사를 수행하면서, 여러 회차가 공백 포함 5,500자 미만임을 확인했다. 보강 과정에서 `몇 자 부족한가`가 작업의 전면 지표가 되면, 승인 장면카드의 실제 장면을 복원하는 대신 묘사·독백·대사·UI를 늘려 숫자를 맞출 위험이 있다. 작가는 명시적으로 “그럴 거면 내용이나 장면을 더 넣어야지 억지로 묘사하면 안 된다”고 판정했다.
+
+### Options Considered
+
+- A. C4 부족 자수를 계산해 같은 분량만큼 문장을 보강한다 — 반려. 숫자가 집필 목표가 된다.
+- B. C4 하한을 제거한다 — 반려. 최소 회차 밀도 검증 기능까지 사라진다.
+- C. **장면 완전성을 먼저 감사하고 C4는 마지막 사후 게이트로만 사용한다** — 채택.
+
+### Decision
+
+1. 공백 포함 5,500자는 사후 QC 하한이다. 집필 목표가 아니다.
+2. 원고 순서는 `승인 장면카드 완전 구현 → 구조·인과·동기 → 정본·연속성 → 문체·낭독 → 훅 → 패딩 삭제 → C4`로 고정한다.
+3. `N자 부족 → N자 추가` 방식은 금지한다.
+4. 추가·유지 문장은 행동·정보·관계·선택·인과·위험·비용·보상·후속 상태 중 하나 이상을 움직여야 한다.
+5. `PADDING / REPEAT / EMPTY-SENSORY / LOOP-DIALOGUE / DECORATIVE-UI / SLOW-MOTION-FILL / THOUGHT-LOOP`을 문체/낭독 FAIL 태그로 사용한다.
+6. 패딩 삭제 때문에 C4 하한 아래로 내려가도 삭제를 되돌리지 않는다. 장면카드에서 생략·압축된 승인 비트를 실제 장면으로 복원한다.
+7. 승인 비트가 충분한데도 미달이면 `STRUCTURAL LENGTH REVIEW`로 보내며, 새 사건·능력·기술·죽음·관계·권한·정본 사실을 분량용으로 만들지 않는다.
+8. 상한은 없다. 장면 완결이 분량보다 우선한다.
+
+### Reasons
+
+- D-20260812-02가 이미 “숫자가 남아 있으면 후속 에이전트가 목표로 읽는다”는 실패를 확인했다.
+- 웹소설 분량은 사건·선택·저항·후속비용의 실제 장면화 결과여야 한다.
+- 기능 없는 문장은 낭독에서도 정보·감정의 전진 없이 호흡만 늘린다.
+
+### Consequences
+
+- E21~100 보강은 C4 부족 자수 순으로 문장을 채우는 작업이 아니라, 승인 카드 대비 장면 압축·누락 및 패딩을 먼저 감사하는 작업으로 전환한다.
+- 이미 보강된 E21~40도 같은 기준으로 역감사한다.
+- C4는 계속 유지하되 마지막 단계에서만 사용한다.
+
+### Affected Documents
+
+- [[CLAUDE]] §2, §6, §10, §13, §20
+- [[manuscript-production-workflow-v1]] §3.1~3.10
+- [[gate1-korean-webnovel-pov-prose-calibration-v1]] §5, §13
+- 이후 모든 원고·낭독 감사
+
+### Reversal Condition
+
+작가가 회차 하한 자체를 폐기하거나 플랫폼 규정 때문에 별도 분량 정책을 명시적으로 채택할 때만 재검토한다.
+
+---
+
+## D-20260816-02 — 완료 작업은 검증 후 main까지 통합한다
+
+Status: ACCEPTED
+Date: 2026-08-16
+Decision Owner: 작가
+
+### Context
+
+기존 운영은 설계·QC 작업과 원고 작업 모두 브랜치/PR에 남겨 두는 경우가 있었고, 특히 원고 PR은 작가의 별도 병합 지시를 매번 기다렸다. 작가는 “할 때마다 메인에 푸쉬까지 해줘, 앞으로는”이라고 상시 운영 지시를 내렸다.
+
+### Options Considered
+
+- A. 기존처럼 매 작업마다 별도 병합 승인을 다시 요청한다 — 작가의 자동 진행 지시와 충돌.
+- B. 검증 없이 직접 main에 커밋한다 — 비교·CI·PR 기록이 사라져 안전하지 않다.
+- C. **latest main에서 브랜치 → 검증 → PR → main 병합 → 병합 상태 재확인**을 기본 완료 흐름으로 한다 — 채택.
+
+### Decision
+
+1. 완료된 저장소 작업은 검증 후 PR을 거쳐 main까지 병합하는 것을 기본값으로 한다.
+2. 작가가 특정 작업에 `병합하지 마`, `Draft PR로만`, `보류`라고 지시하면 그 현재 지시가 우선한다.
+3. main 병합은 저장소 통합 승인이다. **콘텐츠의 `AUTHOR-APPROVED` 승격, 공개·출판·유료연재 승인을 의미하지 않는다.**
+4. 원고가 main에 병합되어도 별도 콘텐츠 승인 없이는 `Status: DRAFT | REVISED`, `Publication: NOT AUTHORIZED`를 유지한다.
+5. 병합 후 PR을 다시 조회해 `state=closed`, `merged=true`, 실제 merge SHA를 확인한다.
+
+### Reasons
+
+- 새 채팅에서도 main이 실제 작업 결과를 보유해야 중복 작업과 상태 착오가 줄어든다.
+- PR 기록과 검증은 유지하면서 사용자의 자동 진행 요구를 충족할 수 있다.
+- 저장소 통합과 출판/정본 승격을 분리하면 안전 게이트를 유지할 수 있다.
+
+### Consequences
+
+- 향후 작업 완료 보고는 브랜치/PR만이 아니라 실제 main 반영 SHA까지 포함한다.
+- 기존 open manuscript PR은 이 결정만으로 즉시 일괄 병합하지 않는다. 각 배치가 현재 작업에서 검증·완료될 때 이 기본 흐름을 적용한다.
+- issue #26 출판 전 하드 블로커와 `Publication: NOT AUTHORIZED`는 유지된다.
+
+### Affected Documents
+
+- [[CLAUDE]] §21
+- [[manuscript-production-workflow-v1]] §3.9~3.10
+- [[decision-log]]
+- 향후 모든 GitHub 작업 흐름
+
+### Reversal Condition
+
+작가가 특정 작업 또는 프로젝트 전체에 대해 main 자동 병합을 중단하라고 지시할 때 재검토한다.
