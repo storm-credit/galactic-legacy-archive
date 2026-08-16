@@ -1,0 +1,49 @@
+name: Temporary GA1 E50 E67 E73 medium-breath reflow
+
+on:
+  push:
+    branches:
+      - manuscript/ga1-e50-e73-medium-breath-reflow
+    paths:
+      - '.github/workflows/tmp-reflow-ga1-e50-e73-breath.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  reflow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Apply medium-breath reflow
+        run: python .github/scripts/tmp_reflow_ga1_e50_e73_breath.py
+      - name: Validate repository
+        run: |
+          python tools/validate_canon.py --selftest
+          python tools/validate_canon.py
+          python tools/build_index.py --check
+          python tools/build_catalog.py --check
+          python tools/build_census.py --check
+          python tools/validate_mecha_lineup.py --selftest
+          python tools/validate_mecha_lineup.py
+          python tools/validate_frame_formation_integration.py --selftest
+          python tools/validate_frame_formation_integration.py
+          python tools/validate_role_demand_portfolio.py --selftest
+          python tools/validate_role_demand_portfolio.py
+          git diff --check
+      - name: Commit manuscripts and remove temporary tooling
+        run: |
+          git config user.name 'storm-credit'
+          git config user.email 'stormcredit0725@gmail.com'
+          git rm .github/workflows/tmp-reflow-ga1-e50-e73-breath.yml
+          git rm .github/scripts/tmp_reflow_ga1_e50_e73_breath.py
+          git add manuscript/ga1/050-다섯-번째-답은-없다-v1.md
+          git add manuscript/ga1/067-위험을-고르는-사람-v1.md
+          git add manuscript/ga1/073-남은-날짜는-서른-v1.md
+          git commit -m 'Normalize GA1 E50 E67 E73 narration breath'
+          git push origin HEAD:manuscript/ga1-e50-e73-medium-breath-reflow
