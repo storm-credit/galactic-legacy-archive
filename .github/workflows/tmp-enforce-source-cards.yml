@@ -1,0 +1,44 @@
+name: Temporary Source Cards contract enforcement
+
+on:
+  push:
+    branches:
+      - qc/enforce-manuscript-source-cards
+
+permissions:
+  contents: write
+
+jobs:
+  patch-and-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Apply Source Cards contract patch
+        run: python .github/scripts/tmp_enforce_source_cards.py
+
+      - name: Run validator self-tests
+        run: python tools/validate_canon.py --selftest
+
+      - name: Run full canon/manuscript validation
+        run: python tools/validate_canon.py
+
+      - name: Check patch cleanliness
+        run: git diff --check
+
+      - name: Commit validator fix and remove temporary tooling
+        shell: bash
+        run: |
+          git config user.name 'storm-credit'
+          git config user.email 'stormcredit0725@gmail.com'
+          git add tools/validate_canon.py
+          git rm .github/scripts/tmp_enforce_source_cards.py
+          git rm .github/workflows/tmp-enforce-source-cards.yml
+          git commit -m 'QC: require Source Cards in current manuscript headers'
+          git push origin HEAD:qc/enforce-manuscript-source-cards
