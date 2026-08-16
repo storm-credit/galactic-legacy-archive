@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import re
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -8,36 +9,227 @@ MANUSCRIPT_DIR = ROOT / "manuscript" / "ga1"
 EP_RE = re.compile(r"^(\d{3})-")
 META_RE = re.compile(r"(?<![A-Za-z0-9_])E\d{1,3}(?![A-Za-z0-9_])")
 
-hits: list[tuple[str, int, str, str]] = []
+REPLACEMENTS: dict[str, list[tuple[str, str]]] = {
+    "021-안전구역-안의-적-v1.md": [
+        ("E17 뒤 회복이 끝난 게 아니야.", "그 사고 뒤 회복이 끝난 게 아니야."),
+    ],
+    "024-기체를-남겨두고-v1.md": [
+        ("센서 한쪽은 E22에서 에른이 끊어놓은 채였다.", "센서 한쪽은 에른이 먼저 끊어놓은 채였다."),
+        ("E23에서 죽은 한 명만이 아니었다.", "직전 구조전에서 죽은 한 명만이 아니었다."),
+    ],
+    "025-구조선은-망명선이-아니다-v1.md": [
+        ("“E23에서 심정지 온 사람은?”", "“구조전에서 심정지 온 사람은?”"),
+    ],
+    "026-돌아온-죄수들-v1.md": [
+        ("“E23에서 사용했으니 당연합니다.”", "“직전 구조전에서 사용했으니 당연합니다.”"),
+    ],
+    "029-구하지-말라는-사람-v1.md": [
+        ("E17에서 조건을 숨겼던 일이 아직 남아 있었다.", "현재 기체의 조건을 숨긴 채 밀어붙였던 일이 아직 남아 있었다."),
+    ],
+    "032-출발하지-못한-수송선-v1.md": [
+        ("“아래 프레임 보는 눈이 E29하고 똑같아요.”", "“아래 프레임 보는 눈이 사람을 빼내겠다고 계산할 때하고 똑같아요.”"),
+    ],
+    "033-판결보다-빠른-경매-v1.md": [
+        ("리안은 그 장면을 보며 E29에서 유노가 왜 자백을 놓지 않았는지 다시 이해했다.", "리안은 그 장면을 보며 유노가 왜 그 자백을 놓지 않았는지 다시 이해했다."),
+    ],
+    "034-기체의-가격-v1.md": [
+        ("리안은 E33에서 보았던 절도 경로를 다시 떠올렸다.", "리안은 경매장에서 보았던 절도 경로를 다시 떠올렸다."),
+    ],
+    "038-도착하지-않은-코어-v1.md": [
+        ("리안은 E34에서 세린이 했던 말을 떠올렸다. 문서의 수령표시는 물리 스캔이 아니라고 했던 말.", "리안은 부품 인수를 따지던 날 세린이 했던 말을 떠올렸다. 문서의 수령표시는 물리 스캔이 아니라고 했던 말."),
+    ],
+    "040-국가가-숨기는-방식-v1.md": [
+        ("E17 이후 여러 번 문제를 만든 방식이었다.", "현재 조건을 건너뛰다 여러 번 문제를 만든 방식이었다."),
+    ],
+    "045-네-사람이-열어야-움직인다-v1.md": [
+        ("하지만 그들은 E42에서 이런 상황을 위해 좁은 비상범위를 미리 적어두었다.", "하지만 그들은 공동관리 협상 때 이런 상황을 위해 좁은 비상범위를 미리 적어두었다."),
+    ],
+    "046-두-번째-다섯-번째-답-v1.md": [
+        ("내부 냉각과 문제어 일부 불안정.", "내부 냉각과 문 제어 일부 불안정."),
+    ],
+    "048-누가-복사했는가-v1.md": [
+        ("E31에서 학원·후원기관 시스템에 미리 배포됐던 일부 시험 메타데이터.", "사고 전부터 학원·후원기관 시스템에 미리 배포됐던 일부 시험 메타데이터."),
+        ("세린은 사고자료보다 E31 자료에서 더 불편한 연결을 찾았다.", "세린은 사고자료보다 기존 시험자료에서 더 불편한 연결을 찾았다."),
+    ],
+    "050-다섯-번째-답은-없다-v1.md": [
+        ("그 이름들이,\n\n현재 운영 중인 병원의 접근명단 안에 살아 있었다.", "그 식별자들이,\n\n현재 운영 중인 병원의 접근명단 안에 남아 있었다."),
+    ],
+    "054-치료와-실험-사이-v1.md": [
+        ("“닮았다는 이유로 연결하지 마요. E17에서 이미 한 번 그러다 기체 부쉈잖아.”", "“닮았다는 이유로 연결하지 마요. 전에 이미 한 번 그러다 기체 부쉈잖아.”"),
+    ],
+    "057-살아-있는-이름-닫힌-이름-v1.md": [
+        ("E40의 코어 격리실.", "코어 격리실."),
+        ("E43의 다자 인계.", "다자 인계 절차."),
+    ],
+    "062-하렌이-찾던-사람-v1.md": [
+        ("“E61에서 데이터 하나 진짜로 지웠어.”", "“환자 요청으로 데이터 하나 진짜로 지웠어.”"),
+        ("네라가 E53에서 본 세 줄 작업표식도 그 계열이었다.", "네라가 병동 작업실에서 본 세 줄 작업표식도 그 계열이었다."),
+    ],
+    "063-한-사람을-되살리는-가격-v1.md": [
+        ("E54에서 아멜이 했던 말과 같았다.", "치료와 실험의 경계를 따질 때 아멜이 했던 말과 같았다."),
+    ],
+    "064-데려가지-못하게-하는-법-v1.md": [
+        ("“E61 삭제조각도?”", "“그때 삭제된 조각도?”"),
+    ],
+    "065-죽은-사람에게-필요한-약-v1.md": [
+        ("E63에서 적어 둔 문장을 다시 꺼냈다.", "신원 회복 선택지를 비교하며 적어 둔 문장을 다시 꺼냈다."),
+        ("[E61 환자 삭제요청 로컬 원시조각: 통상 접근 불가]", "[환자 삭제요청 로컬 원시조각: 통상 접근 불가]"),
+        ("리안은 E61 항목을 오래 봤다.", "리안은 삭제요청 항목을 오래 봤다."),
+        ("E61에서 이미 한 번 졌다.", "환자의 삭제권 앞에서 이미 한 번 졌다."),
+    ],
+    "069-냉각수를-옮기는-에이스-v1.md": [
+        ("E44 때 말한 그대로.", "재조립 직후 말한 그대로."),
+    ],
+    "070-안전한-독점-v1.md": [
+        ("07호는 E69 외부 서비스 임무 뒤 재점검에 들어갔다.", "07호는 냉각수 운송 임무 뒤 재점검에 들어갔다."),
+        ("“이미 치료안전 모델에 들어간 데이터를 완전히 회수할 수 없다는 건 E61에서 확인했습니다.”", "“이미 치료안전 모델에 들어간 데이터를 완전히 회수할 수 없다는 건 앞선 삭제요청 때 확인했습니다.”"),
+    ],
+    "071-환자를-지키는-포위-v1.md": [
+        ("07호는 E69 점검 중이었다.", "07호는 냉각수 운송 뒤 점검 중이었다."),
+        ("E61에서는 환자 요청으로 연구조각 하나가 실제로 사라졌다.", "앞선 삭제요청에서는 환자 요청으로 연구조각 하나가 실제로 사라졌다."),
+        ("E64와 E69에서는 데이터 운송체를 놓쳤다.", "환자 이송 때와 냉각수 운송 때는 데이터 운송체를 놓쳤다."),
+    ],
+    "072-살아남았지만-유지할-수-없는-것-v1.md": [
+        ("E71 사후 검토의 첫 화면에는 사람 수보다 치료경로가 먼저 나왔다.", "포위 사태 사후 검토의 첫 화면에는 사람 수보다 치료경로가 먼저 나왔다."),
+        ("화면에는 E67의 어댑터 합병증 환자와 E71 승인 지연 중 악화된 환자가 따로 표시됐다.", "화면에는 위험 경로의 어댑터 합병증 환자와 포위 중 승인 지연으로 악화된 환자가 따로 표시됐다."),
+        ("“남 때문에 고른 선택도 내 선택일 수 있다고 E67에서 이미 싸웠잖아.”", "“남 때문에 고른 선택도 내 선택일 수 있다고 위험한 치료경로를 고를 때 이미 싸웠잖아.”"),
+        ("“E71에서 이미 증명했지.”", "“이번 포위에서 이미 증명했지.”"),
+        ("리안은 E54를 떠올렸다.", "리안은 치료와 실험의 경계를 처음 따졌던 날을 떠올렸다."),
+    ],
+    "073-남은-날짜는-서른-v1.md": [
+        ("07호는 E69 이후 점검이 끝나지 않았다.", "07호는 냉각수 운송 임무 뒤 점검이 끝나지 않았다."),
+        ("Yori가 말했다.", "요리가 말했다."),
+    ],
+    "074-자유롭게-버려지는-사람들-v1.md": [
+        ("E71 환자 악화.", "포위 중 환자 악화."),
+        ("그 말은 E45 때와 달랐다.", "그 말은 다섯 번째 답 모방 소동 때와 달랐다."),
+    ],
+    "075-누가-누구를-대표하는가-v1.md": [
+        ("블랙 워드 E60에서 이미 겪은 문제였다.", "블랙 워드 기록 공개 때 이미 겪은 문제였다."),
+    ],
+    "077-천사백사십두-개의-대답-v1.md": [
+        ("E26과 E32에서 이미 본 사고였다.", "복귀 조사와 수송선 출발 지연 때 이미 본 사고였다."),
+        ("E75에서 이미 한 번 새었다.", "선호조사 준비 때 이미 한 번 새었다."),
+    ],
+    "078-비밀-이송-v1.md": [
+        ("E40에서 코어를 숨겼던 사람.", "코어를 격리해 숨겼던 사람."),
+    ],
+    "079-제국은-학교를-살릴-수-있다-v1.md": [
+        ("분산권한이 E71에서 환자 한 명을 더 다치게 했다.", "분산권한은 병동 포위 때 승인 지연으로 환자 한 명을 더 다치게 했다."),
+    ],
+    "081-이름-없는-사람들의-출구-v1.md": [
+        ("세린이 E74에서 만든 문구를 다시 올렸다.", "세린이 외부 제안들을 비교하며 만든 문구를 다시 올렸다."),
+    ],
+    "082-다섯-개의-문-v1.md": [
+        ("“맞아. E71에서 늦어서 사람 더 다쳤어.”", "“맞아. 병동 포위 때 늦어서 사람 더 다쳤어.”"),
+        ("“기능을 너무 잘게 쪼개면 E71처럼 늦어집니다.”", "“기능을 너무 잘게 쪼개면 그 병동 포위 때처럼 늦어집니다.”"),
+    ],
+    "083-일곱-번째-선택지-v1.md": [
+        ("하렌은 E82에서 만든 기능표를 다시 띄웠다.", "하렌은 다섯 운영안을 비교하며 만든 기능표를 다시 띄웠다."),
+        ("“E71에서 문제는 응급전환까지 여러 사람 찾느라 늦었다는 겁니다.”", "“병동 포위 때 문제는 응급전환까지 여러 사람 찾느라 늦었다는 겁니다.”"),
+    ],
+    "084-학원-헌장-0.1-v1.md": [
+        ("리안은 E45의 다섯 번째 답 소동을 떠올렸다.", "리안은 다섯 번째 답 모방 소동을 떠올렸다."),
+        ("E71의 환자 악화 때문에 누구도 가볍게 다루지 않았다.", "병동 포위 중 환자 악화 때문에 누구도 가볍게 다루지 않았다."),
+    ],
+    "088-환자를-옮기는-군대-v1.md": [
+        ("E85 이후 외부 이송선과 프레임은 계속 움직였고,", "공성전이 열린 뒤 외부 이송선과 프레임은 계속 움직였고,"),
+    ],
+    "090-전쟁의-공식-기록-v1.md": [
+        ("“E73 이후 민원·상담 원본 일부. 그리고 과거 보안복제본 몇 묶음.”", "“폐교 시한 공지 뒤 민원·상담 원본 일부. 그리고 과거 보안복제본 몇 묶음.”"),
+    ],
+    "095-느린-명령의-대가-v1.md": [
+        ("E85 충돌에서 생긴 미세손상까지 계산에 들어가 있지 않았다.", "첫 도크 충돌에서 생긴 미세손상까지 계산에 들어가 있지 않았다."),
+        ("“응급상황에 빠른 중앙행동이 필요할 수 있다는 건 이미 E88에서 확인됐습니다.”", "“응급상황에 빠른 중앙행동이 필요할 수 있다는 건 환자 이송 위기 때 이미 확인됐습니다.”"),
+    ],
+    "097-헌장은-승리문이-아니다-v1.md": [
+        ("리안은 E93 중앙키 사용기록을 올렸다.", "리안은 중앙키 사용기록을 올렸다."),
+        ("E95 Ring C에서는 중앙 잔여권한이 작업자 여덟 명을 구했다.", "그 뒤 Ring C에서는 중앙 잔여권한이 작업자 여덟 명을 구했다."),
+    ],
+    "098-돌아오지-않는-사람들-v1.md": [
+        ("“E96 명령불복.”", "“봉쇄명령 불복.”"),
+    ],
+    "099-살아남은-학교의-청구서-v1.md": [
+        ("“E96 때보다 낮네.”", "“재조립 직후보다 낮네.”"),
+    ],
+}
 
-for path in sorted(MANUSCRIPT_DIR.glob("*-v1.md")):
-    match = EP_RE.match(path.name)
-    if not match:
-        continue
-    episode = int(match.group(1))
-    if not 21 <= episode <= 100:
-        continue
 
-    lines = path.read_text(encoding="utf-8").splitlines()
-    body_started = False
-    for lineno, line in enumerate(lines, 1):
-        if line.startswith("# 제"):
-            body_started = True
-        if not body_started:
+def split_header_body(text: str, path: Path) -> tuple[str, str]:
+    marker = "# 제"
+    pos = text.find(marker)
+    if pos < 0:
+        raise RuntimeError(f"missing manuscript title marker: {path}")
+    return text[:pos], text[pos:]
+
+
+def fail(message: str) -> None:
+    print(f"ERROR: {message}", file=sys.stderr)
+    raise SystemExit(1)
+
+
+def main() -> None:
+    planned = sum(len(items) for items in REPLACEMENTS.values())
+    if planned != 62:
+        fail(f"replacement table must contain 62 entries, got {planned}")
+
+    changed_files: list[str] = []
+    applied = 0
+
+    for filename, replacements in REPLACEMENTS.items():
+        path = MANUSCRIPT_DIR / filename
+        if not path.exists():
+            fail(f"missing target file: {path.relative_to(ROOT)}")
+
+        original = path.read_text(encoding="utf-8")
+        header, body = split_header_body(original, path)
+
+        for old, new in replacements:
+            count = body.count(old)
+            if count != 1:
+                fail(f"expected exactly one match in {filename}, got {count}: {old!r}")
+            body = body.replace(old, new, 1)
+            applied += 1
+
+        updated = header + body
+        if updated == original:
+            fail(f"no change produced for {filename}")
+        path.write_text(updated, encoding="utf-8")
+        changed_files.append(filename)
+
+    if applied != 62:
+        fail(f"expected 62 applied replacements, got {applied}")
+
+    residual_hits: list[str] = []
+    for path in sorted(MANUSCRIPT_DIR.glob("*-v1.md")):
+        match = EP_RE.match(path.name)
+        if not match:
             continue
+        episode = int(match.group(1))
+        if not 21 <= episode <= 100:
+            continue
+        _, body = split_header_body(path.read_text(encoding="utf-8"), path)
+        for lineno, line in enumerate(body.splitlines(), 1):
+            if META_RE.search(line) or "Yori" in line or "문제어" in line:
+                residual_hits.append(f"{path.name}:body+{lineno}: {line}")
 
-        kinds: list[str] = []
-        if META_RE.search(line):
-            kinds.append("EPISODE_META")
-        if "Yori" in line:
-            kinds.append("YORI")
-        if "문제어" in line:
-            kinds.append("TYPO")
-        if "CLOSED" in line and "살아 있었다" in line:
-            kinds.append("CLOSED_SURVIVAL")
-        if kinds:
-            hits.append((str(path.relative_to(ROOT)), lineno, ",".join(kinds), line))
+    if residual_hits:
+        print("READER_META_HITS_AFTER=", len(residual_hits), sep="")
+        for hit in residual_hits:
+            print(hit)
+        fail("reader-facing production meta/typo remains")
 
-print(f"READER_META_HITS={len(hits)}")
-for path, lineno, kinds, line in hits:
-    print(f"{kinds}\t{path}:{lineno}\t{line}")
+    e50 = (MANUSCRIPT_DIR / "050-다섯-번째-답은-없다-v1.md").read_text(encoding="utf-8")
+    _, e50_body = split_header_body(e50, MANUSCRIPT_DIR / "050-다섯-번째-답은-없다-v1.md")
+    if "현재 운영 중인 병원의 접근명단 안에 살아 있었다." in e50_body:
+        fail("E50 CLOSED wording still implies biological survival")
+
+    print(f"REPLACEMENTS_APPLIED={applied}")
+    print(f"FILES_CHANGED={len(changed_files)}")
+    for filename in changed_files:
+        print(f"CHANGED\t{filename}")
+    print("READER_META_HITS_AFTER=0")
+
+
+if __name__ == "__main__":
+    main()
