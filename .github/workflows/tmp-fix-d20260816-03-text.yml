@@ -1,0 +1,56 @@
+name: Temporary fix D-20260816-03 text corruption
+
+on:
+  push:
+    branches:
+      - agent/fix-d20260816-03-text-corruption
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Repair exact corrupted lines
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('docs/00_project/decision-log.md')
+          t = p.read_text(encoding='utf-8')
+          reps = [
+              ('- 이 범위 확대는 GAUTHRIT-APPROVED`, 공개, 유료연재, 출팄 승인을 의미하지 앋는다.', '- 이 범위 확대는 `AUTHOR-APPROVED`, 공개, 유료연재, 출판 승인을 의미하지 않는다.'),
+              ('- 원고는 별도 자가 승인 전까지 `DRAFT | REVISED`와 `Publication: NOT AUTHORIZEDඅ로 유지한다.', '- 원고는 별도 작가 승인 전까지 `DRAFT | REVISED`와 `Publication: NOT AUTHORIZED`를 유지한다.'),
+          ]
+          for old, new in reps:
+              c = t.count(old)
+              if c != 1:
+                  raise SystemExit(f'expected one corrupted line, got {c}: {old}')
+              t = t.replace(old, new, 1)
+          p.write_text(t, encoding='utf-8')
+          PY
+      - name: Validate repository
+        run: |
+          git diff --check
+          python tools/validate_canon.py
+          python tools/build_index.py --check
+          python tools/build_catalog.py --check
+          python tools/build_census.py --check
+      - name: Commit repaired decision log only
+        shell: bash
+        run: |
+          rm .github/workflows/tmp-fix-d20260816-03-text.yml
+          git add docs/00_project/decision-log.md .github/workflows/tmp-fix-d20260816-03-text.yml
+          git diff --cached --check
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Control: repair D-20260816-03 text corruption"
+          git push origin HEAD:agent/fix-d20260816-03-text-corruption
