@@ -1,0 +1,49 @@
+name: Temporary GA1 E43 E44 E65 UI cluster cleanup
+
+on:
+  push:
+    branches:
+      - manuscript/ga1-e43-e65-ui-cluster-cleanup
+    paths:
+      - '.github/workflows/tmp-cleanup-ga1-e43-e65-ui.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Apply UI cluster cleanup
+        run: python .github/scripts/tmp_cleanup_ga1_e43_e65_ui.py
+      - name: Validate repository
+        run: |
+          python tools/validate_canon.py --selftest
+          python tools/validate_canon.py
+          python tools/build_index.py --check
+          python tools/build_catalog.py --check
+          python tools/build_census.py --check
+          python tools/validate_mecha_lineup.py --selftest
+          python tools/validate_mecha_lineup.py
+          python tools/validate_frame_formation_integration.py --selftest
+          python tools/validate_frame_formation_integration.py
+          python tools/validate_role_demand_portfolio.py --selftest
+          python tools/validate_role_demand_portfolio.py
+          git diff --check
+      - name: Commit manuscripts and remove temporary tooling
+        run: |
+          git config user.name 'storm-credit'
+          git config user.email 'stormcredit0725@gmail.com'
+          git rm .github/workflows/tmp-cleanup-ga1-e43-e65-ui.yml
+          git rm .github/scripts/tmp_cleanup_ga1_e43_e65_ui.py
+          git add manuscript/ga1/043-돌려받지-않는-코어-v1.md
+          git add manuscript/ga1/044-다시-조립된-07호-v1.md
+          git add manuscript/ga1/065-죽은-사람에게-필요한-약-v1.md
+          git commit -m 'Reduce GA1 E43 E44 E65 UI narration clusters'
+          git push origin HEAD:manuscript/ga1-e43-e65-ui-cluster-cleanup
