@@ -1,0 +1,97 @@
+name: Temporary record GA1 E100 scope decision
+
+on:
+  push:
+    branches:
+      - agent/record-ga1-e100-scope-decision
+
+permissions:
+  contents: write
+
+jobs:
+  record:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Append accepted scope decision once
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path('docs/00_project/decision-log.md')
+          text = path.read_text(encoding='utf-8')
+          key = '## D-20260816-03 — GA1 초고 생산 범위를 E100까지 확대'
+          if key in text:
+              raise SystemExit('decision already exists; refusing duplicate append')
+
+          entry = r'''
+
+---
+
+## D-20260816-03 — GA1 초고 생산 범위를 E100까지 확대
+
+Status: ACCEPTED
+Date: 2026-08-16
+Decision Owner: 작가
+
+### Context
+
+Pre-Writing Gate 개방 당시 첫 권장 집필 배치는 E1~5였다. 이후 작가는 원고 작업 중 `이어서 100화까지써줘`라고 명시하여, 초고 생산을 E100까지 연속 진행하도록 범위를 확대했다. 기존 첫 배치 준비 문서는 당시 착수 기준을 기록한 역사 문서이므로 소급해 다시 정의하지 않는다.
+
+### Decision
+
+- GA1의 **초고 생산·개정·자체감사 범위를 E100까지 승인**한다.
+- E1~5 이후 E6~100도 현행 장면카드·정본·집필 워크플로를 따라 자동 진행할 수 있다.
+- 이 범위 확대는 `AUTHOR-APPROVED`, 공개, 유료연재, 출판 승인을 의미하지 않는다.
+- 원고는 별도 작가 승인 전까지 `DRAFT | REVISED`와 `Publication: NOT AUTHORIZED`를 유지한다.
+- 특정 원고 PR에 `병합하지 마`, `Draft PR로만`, `작가 승인 전 병합 금지`가 명시되어 있으면 그 개별 보류가 D-20260816-02의 기본 main 통합보다 우선한다.
+
+### Reasons
+
+- 작가의 최신 명시 지시가 초기 권장 배치 범위보다 우선한다.
+- 설계가 완료된 E1~100을 실제 원고로 검증하면서도 콘텐츠 승인과 저장소 통합을 분리하기 위해서다.
+- 첫 배치 문서의 역사적 의미를 보존하면서 현재 실행권한만 단일 결정 로그에서 추적한다.
+
+### Consequences
+
+- E21~100처럼 검증이 끝난 DRAFT 원고는 D-20260816-02에 따라 main에 통합할 수 있다.
+- E6~20 v2처럼 PR 자체에 명시적 작가승인 병합 보류가 남아 있는 경우 Draft/unmerged 상태를 유지한 채 QC는 계속할 수 있다.
+- E100 이후 신규 원고 생산은 이 결정만으로 승인되지 않는다.
+- issue #26 인간·모바일 테스트 및 현행 출판 게이트는 계속 출판 전 하드 블로커다.
+
+### Affected Documents
+
+- [[manuscript-production-workflow-v1]]
+- [[first-writing-batch-readiness-v1]] (역사적 첫 배치 기준은 유지)
+- GA1 E1~100 manuscript branches/files
+
+### Reversal Condition
+
+작가가 초고 생산 범위를 축소·보류하거나 E100 이후 범위를 새로 명시할 때만 변경한다.
+'''
+          path.write_text(text.rstrip() + entry + '\n', encoding='utf-8')
+          PY
+      - name: Validate repository
+        run: |
+          git diff --check
+          python tools/validate_canon.py
+          python tools/build_index.py --check
+          python tools/build_catalog.py --check
+          python tools/build_census.py --check
+      - name: Commit validated decision only
+        shell: bash
+        run: |
+          rm .github/workflows/tmp-record-ga1-e100-scope-decision.yml
+          git add docs/00_project/decision-log.md .github/workflows/tmp-record-ga1-e100-scope-decision.yml
+          git diff --cached --check
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Control: record GA1 E100 draft-production scope"
+          git push origin HEAD:agent/record-ga1-e100-scope-decision
