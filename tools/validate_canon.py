@@ -83,7 +83,7 @@ HISTORY_EXEMPT = (
 # places it above and renames the fields. Legacy drafts are preserved as
 # historical text, so the validator tolerates their schema but still enforces the
 # one guarantee that must hold everywhere: nothing is publishable.
-REQUIRED_MANUSCRIPT_FIELDS = ("Status", "Episode", "Canon Check", "Publication")
+REQUIRED_MANUSCRIPT_FIELDS = ("Status", "Episode", "Source Cards", "Canon Check", "Publication")
 LEGACY_MANUSCRIPT_FIELDS = ("Status", "Publication Status", "POV", "Canon Basis")
 
 # Either schema's publication field. Whichever exists must carry the block.
@@ -726,6 +726,18 @@ def selftest() -> int:
         (
             "C3 detects a manuscript with no publication field at all",
             [("manuscript/ga1/001-x-v2.md", "Status: REVISED\n\n# t\n\nbody")],
+            "manuscripts",
+            "C3",
+        ),
+        (
+            "C3 requires Source Cards on current-schema manuscripts",
+            [
+                (
+                    "manuscript/ga1/021-x-v1.md",
+                    "Status: DRAFT\nEpisode: E21\nCanon Check: SELF-PASS\n"
+                    "Publication: NOT AUTHORIZED\n\n# 제21화 t\n\n" + "가" * 6000,
+                )
+            ],
             "manuscripts",
             "C3",
         ),
