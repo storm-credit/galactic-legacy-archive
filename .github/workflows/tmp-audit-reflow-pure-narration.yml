@@ -1,0 +1,54 @@
+name: Temporary audit pure narration after reflow
+
+on:
+  push:
+    branches:
+      - manuscript/ga1-e82-e99-narration-rhythm-reflow
+    paths:
+      - '.github/workflows/tmp-audit-reflow-pure-narration.yml'
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Scan pure narration runs
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          files=[
+            '082-다섯-개의-문-v1.md',
+            '084-학원-헌장-0.1-v1.md',
+            '093-중앙키-v1.md',
+            '099-살아남은-학교의-청구서-v1.md',
+          ]
+          tag_re=re.compile(r'^(?:[^\n]{1,24})(?:말했다|물었다|답했다|덧붙였다|중얼거렸다|웃었다|한숨을 쉬었다|고개를 끄덕였다|고개를 저었다|말을 잘랐다|소리쳤다|외쳤다|욕했다|읽었다|확인했다|바라봤다|봤다|멈췄다|대답하지 않았다)\.?$')
+          root=Path('manuscript/ga1')
+          for fn in files:
+            t=(root/fn).read_text(encoding='utf-8')
+            t=t[t.find('# 제'):]
+            paras=[x.strip() for x in re.split(r'\n\s*\n',t) if x.strip()]
+            runs=[]; cur=[]
+            for q in paras:
+              meta=q.startswith('#') or q=='* * *'
+              ui=q.startswith('[') and q.endswith(']')
+              dialogue=q.startswith(('“','"'))
+              code=q.startswith('`') and q.endswith('`')
+              tag=bool(tag_re.match(q))
+              short=(len(q)<=24)
+              if short and not (meta or ui or dialogue or code or tag):
+                cur.append(q.replace('\n',' / '))
+              else:
+                if len(cur)>=2: runs.append(cur)
+                cur=[]
+            if len(cur)>=2: runs.append(cur)
+            runs.sort(key=len, reverse=True)
+            print(f'\n=== {fn} ===')
+            print('RUN_COUNT',len(runs),'MAX',max([len(r) for r in runs],default=0))
+            for r in runs[:8]:
+              print(f'RUN {len(r)} :: '+' || '.join(r))
+          PY
