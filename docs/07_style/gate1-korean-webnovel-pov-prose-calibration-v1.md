@@ -2,7 +2,7 @@
 
 Status: REVIEW — NON-CANON TEST MATERIAL
 Owner Agents: L01 Prose / L02 POV / N07 Retention / X02 Reader / O02 Gate
-Last Reviewed: 2026-08-03
+Last Reviewed: 2026-08-16
 Depends On: [[core-canonical-names-and-voice-lock-v1]]/voices, opening GA1 architecture, public-platform research
 Used By: first-five scene cards, prose harness, Pre-Writing Gate decision
 Open Risks: blind-reader testing and full 1–5 episode samples remain open
@@ -184,7 +184,7 @@ Recommended balance per episode draft (floor 5,500 characters, no ceiling — D-
 - 15–25% explanation/reflection embedded in current stakes.
 - Archive/UI text usually under 3–5% and absent from many episodes.
 
-These are diagnostic ranges, not quotas.
+These are diagnostic ranges, not quotas. **The 5,500-character floor is also a post-draft gate, not a writing target.** The writer must not calculate `N characters missing` and manufacture prose to fill that amount.
 
 Avoid:
 
@@ -202,6 +202,7 @@ Preferred:
 
 Rule:
 - sentence length follows information/action shape, not a fashion for fragments.
+- length follows scene completeness, not a numeric deficit.
 
 ---
 
@@ -369,3 +370,70 @@ Pre-Writing Gate:
 ## 12. Amendment 2026-08-06
 
 §11이 요구한 인간 독자 검증(블라인드 음성 식별, 모바일 반응)은 작가 판정 D-20260806-02에 따라 **출판 전 블로커**로 재분류되었다. 초고 생산은 AI 프록시 감사 + 출판 차단 유지를 조건으로 진행 가능하다. 인간 테스트는 첫 배치와 병행 실행하며, 결과가 임계 미달을 반복하면 본 캘리브레이션을 재실행한다. 현행 게이트 상태는 [[pre-writing-gate-open-record-2026-08-06]]가 통제한다.
+
+---
+
+## 13. Anti-Padding & Scene-Completeness Hard Lock — 2026-08-16
+
+D-20260816-01에 따라 다음은 **문체 권장사항이 아니라 원고 FAIL 조건**이다.
+
+### 13.1 우선순위
+
+1. 승인 장면카드의 사건·갈등·선택·독립 인물 행동·인과·비용·후속 상태를 완전한 장면으로 구현한다.
+2. 구조·인과·동기·문체·낭독·훅을 감사한다.
+3. 기능 없는 문장을 삭제한다.
+4. **그 뒤에만** C4 5,500자 하한을 검사한다.
+
+`C4 부족 자수 → 그만큼 쓰기` 순서는 금지한다.
+
+### 13.2 문장 존재 이유 검사
+
+추가·유지되는 문장은 최소 하나를 변화시켜야 한다.
+
+- 인물이 실제로 무엇을 한다.
+- 새 정보가 확인·반박·제한된다.
+- 관계나 권한이 변한다.
+- 선택지가 열리거나 닫힌다.
+- 원인과 결과의 연결이 생긴다.
+- 위험·비용·보상·후속 상태가 구체화된다.
+- 화자 음성 또는 현재 장면의 감각이 **현재 행동/선택 판단에 필요한 정보**를 준다.
+
+어느 항목도 수행하지 않으면 삭제 후보이다.
+
+### 13.3 금지 패딩 유형
+
+- **PADDING**: 분량 확보만을 위해 존재하는 문장/문단.
+- **REPEAT**: 이미 전달된 사실·감정·결론을 정보 변화 없이 다시 말함.
+- **EMPTY-SENSORY**: 선택·위험·사회·심리·공간 판단에 쓰이지 않는 감각 묘사.
+- **LOOP-DIALOGUE**: 인물들이 같은 입장만 다른 문장으로 반복하고 협상 상태가 변하지 않음.
+- **DECORATIVE-UI**: 선택·갈등·증거·보상 기능 없는 시스템/문서/표시창.
+- **SLOW-MOTION-FILL**: 중요하지 않은 걷기·손동작·시선 이동·기계 동작을 분량 때문에 세분화함.
+- **THOUGHT-LOOP**: 이미 내린 판단을 주인공이 같은 결론으로 여러 번 되짚음.
+
+낭독 시 위 유형은 정보·감정의 전진 없이 호흡만 늘어지므로 **낭독감사에서도 PATCH/REWORK 사유**로 취급한다.
+
+### 13.4 미달 처리
+
+C4가 5,500자 미만이면 먼저 장면카드를 대조한다.
+
+- 승인 비트가 생략·요약됐다 → **요약을 실제 장면으로 복원**한다.
+- 선택의 전제/저항/후속비용이 한 줄로 압축됐다 → 그 인과를 행동과 대화가 있는 장면으로 복원한다.
+- 독립 인물 행동이 리안의 설명으로 대체됐다 → 가능한 범위에서 해당 인물이 직접 행동·거절·선택하게 복원한다.
+- 승인 비트가 이미 충분히 구현됐다 → `STRUCTURAL LENGTH REVIEW`. **패딩 금지.** 필요한 경우 작가에게 구조적 추가 장면/비트 변경을 제안한다.
+
+### 13.5 하한보다 품질이 우선하는 삭제 규칙
+
+패딩을 삭제했더니 5,500자 아래로 내려가더라도 **삭제를 되돌리지 않는다.** 하한 미달은 구조 문제로 다시 진단한다. 품질이 낮은 문장을 C4 통과 증거로 보존하는 것을 금지한다.
+
+### 13.6 정본 변경 금지
+
+분량 해결 목적으로 다음을 새로 만들 수 없다.
+
+- 새 사건·전투·임무
+- 새 능력·기술·무장
+- 새 죽음·생존·부상·영구손실
+- 새 관계·배신·충성
+- 새 권한·기관·법적 지위
+- 새 숫자·정본 사실·미스터리 정답
+
+필요하다면 이는 원고 보강이 아니라 **설계 변경 제안**이며 정본 변경 절차를 먼저 거친다.
