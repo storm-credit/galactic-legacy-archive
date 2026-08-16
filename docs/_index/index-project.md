@@ -146,7 +146,7 @@
 | [[specialist-routing-index|specialist-routing-index]] | Specialist Routing Index | CANON |
 | [[workflow|workflow]] | End-to-End Workflow & Harness | CANON |
 
-## 99_quality_control (103)
+## 99_quality_control (104)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
@@ -163,6 +163,7 @@
 | [[final-canonization-redteam-review|final-canonization-redteam-review]] | Final Canonization Red-Team Review | REVIEW COMPLETE |
 | [[final-settings-bible-completion-audit-v3|final-settings-bible-completion-audit-v3]] | Final Settings-Bible Completion Audit v3 | REVIEW COMPLETE |
 | [[frame-lineup-faction-coverage-gap-2026-08-13|frame-lineup-faction-coverage-gap-2026-08-13]] | 기동 프레임 라인업 | QUALITY-CONTROL |
+| [[ga1-e001-e020-narration-audit-v1|ga1-e001-e020-narration-audit-v1]] | GA1 E001~E020 낭독 감사 v1 | — |
 | [[ga1-e1-5-first-draft-continuity-voice-audit-v1|ga1-e1-5-first-draft-continuity-voice-audit-v1]] | GA1 Episodes 1–5 First-Draft Continuity & Voice Audit v1 | QUALITY-CONTROL |
 | [[ga1-e1-5-first-draft-redteam|ga1-e1-5-first-draft-redteam]] | GA1 Episodes 1–5 First-Draft Red-Team Review | QUALITY-CONTROL |
 | [[ga1-e1-v2-design-canon-narration-conformance-audit-2026-08-08|ga1-e1-v2-design-canon-narration-conformance-audit-2026-08-08]] | Conformance Audit | REVIEW COMPLETE |
