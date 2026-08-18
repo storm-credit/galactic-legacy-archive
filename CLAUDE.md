@@ -168,6 +168,8 @@ Open Risks:
 3. SF 모드 4종: 시스템UI(기계음), 무전·교신(관제사 톤·박진감), 전투(호흡만 가속), 청문·기록(격식체·톤 전환).
 4. 발음 사전: 인명·용어·숫자 읽기를 사전에 고정, 임의 발음 금지.
 5. 스포일러 억양 금지: 복선 문장은 평문 톤 — 낭독으로 정보 상한을 깨지 않는다.
+
+문체 참고작과 딥리드 절차는 [[prose-style-reference-shortlist-v1]]가 보유한다 — 1군은 같은 판(문피아 SF·밀리터리 웹소설), 2군은 보정용이며, 문장 복제는 §2-4에 따라 금지다. 원고에 새 고유명이 들어가면 같은 PR에서 [[narration-harness-v1]] 발음 사전에 등재한다.
 6. **Anti-Padding 낭독 검사**: 정보·감정·선택이 전진하지 않은 채 호흡만 늘어나는 `PADDING / REPEAT / EMPTY-SENSORY / LOOP-DIALOGUE / DECORATIVE-UI / SLOW-MOTION-FILL / THOUGHT-LOOP`은 PATCH/REWORK 사유다. 분량 하한 때문에 유지하지 않는다.
 
 ## 11. 문서 링크 규칙 (2026-08-08 추가)
