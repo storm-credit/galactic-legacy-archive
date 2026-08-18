@@ -75,6 +75,7 @@ Action:
 - Haren’s route plan is tested through a 07/virtual or low-output navigation sequence.
 - Rian demonstrates quick pilot adaptation.
 - Haren deliberately changes one route variable to test whether Rian shares uncertainty or simply commands.
+- third variable: a drifting worker mid-route; WA-002 cable recovery costs 40 immobile seconds, Haren covers the window himself (D-20260819-01 승인 비트)
 
 Result:
 - successful partial run; Rian states which future assumption he cannot verify.
@@ -114,6 +115,7 @@ Goal:
 
 Action:
 - Serin preserves raw sensor geometry rather than official summary.
+- pulling the raw archive adds a line under the E9 surveillance flag; Serin logs her reason first (D-20260819-01 승인 비트)
 - the clean shot line crosses a route/witness/service target behind Rian’s future position.
 
 Rian memory:
@@ -128,6 +130,7 @@ Location:
 Action:
 - Ern’s craft appears briefly.
 - he diverts/withholds fire to open an escape corridor for a courier/witness/worker craft while an Academy/contract security asset closes in.
+- Rian recognizes the move from 07's service documents -- the same W10 work grammar, not military grammar (M-012) (D-20260819-01 승인 비트)
 - he is not helping Rian’s cell, who are not yet present.
 
 Concrete effect:
@@ -209,6 +212,7 @@ Location:
 Action:
 - they see how contributor files close when designs/claims move into an institutional office.
 - a separate actual worker death has a different evidence trail.
+- Nera queries her own E7-protected contribution: two Helix views, one reuse request held at her own condition (M-016) (D-20260819-01 승인 비트)
 
 Serin distinction:
 - closed record, missing person and physical death are separate states, even if later histories compress them.
@@ -248,6 +252,7 @@ Opening:
 
 Effect:
 - closed/certified systems demonstrably save a person.
+- across the bay the training projector shows the other face: certified to be safe, certified to be insufficient -- condition, not capability (D-20260819-01 승인 비트)
 - Helix representative explains testing/warranty/compatibility obligations without villain rhetoric.
 
 Goal:
