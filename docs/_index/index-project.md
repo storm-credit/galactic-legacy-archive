@@ -9,7 +9,7 @@
 
 정본 목록은 [[HOME]]에서 갈라집니다.
 
-## 00_project (132)
+## 00_project (133)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
@@ -31,6 +31,7 @@
 | [[context-handoff-ga9-after-e900-2026-08-05|context-handoff-ga9-after-e900-2026-08-05]] | Context Handoff | NEW-WINDOW EXECUTION PROMPT |
 | [[context-window-handoff-protocol|context-window-handoff-protocol]] | Context Window Handoff Protocol | CANON PROJECT CONTROL |
 | [[culture-community-scale-status-2026-08-03|culture-community-scale-status-2026-08-03]] | Culture, Community & Scale Status | CANON PROJECT CONTROL |
+| [[current-work-status-2026-08-17|current-work-status-2026-08-17]] | Current Work Status | PROJECT CONTROL |
 | [[decision-log|decision-log]] | Decision Log | CANON |
 | [[deferred-design-register-v1|deferred-design-register-v1]] | Deferred Design Register v1 | CANON PROJECT CONTROL |
 | [[deferred-design-register-v2|deferred-design-register-v2]] | Deferred Design Register v2 | CANON PROJECT CONTROL |
@@ -146,7 +147,7 @@
 | [[specialist-routing-index|specialist-routing-index]] | Specialist Routing Index | CANON |
 | [[workflow|workflow]] | End-to-End Workflow & Harness | CANON |
 
-## 99_quality_control (108)
+## 99_quality_control (109)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
@@ -157,6 +158,7 @@
 | [[deferred-detail-completion-redteam-v1|deferred-detail-completion-redteam-v1]] | Deferred-Detail Completion Red Team v1 | REVIEW COMPLETE |
 | [[design-linkage-04-13-audit-and-frame-standing-2026-08-13|design-linkage-04-13-audit-and-frame-standing-2026-08-13]] | 설계 문서 04–13 연결성 감사 + 기체 진행 현황 (2026-08-13) | QUALITY-CONTROL |
 | [[design-only-world-bible-batch-redteam|design-only-world-bible-batch-redteam]] | Design-Only World-Bible Batch Red-Team | REVIEW COMPLETE |
+| [[e1-20-full-review-pass-2026-08-18|e1-20-full-review-pass-2026-08-18]] | E1~20 전편 재검토 패스 | REVIEW PASS |
 | [[e101-1100-complete-detail-cross-audit-v1|e101-1100-complete-detail-cross-audit-v1]] | E101–1100 Complete Detailed-Design Cross-Audit v1 | PASS |
 | [[entity-layer-design-options-and-blindspot-sweep-2026-08-08|entity-layer-design-options-and-blindspot-sweep-2026-08-08]] | Design Options & Blindspot Sweep | DECIDED |
 | [[execution-state-orpheus-opening20-redteam|execution-state-orpheus-opening20-redteam]] | Execution State / Orpheus / Opening-20 Red-Team Review | REVIEW COMPLETE |

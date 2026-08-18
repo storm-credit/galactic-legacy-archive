@@ -1,6 +1,6 @@
 # Current Work Status — 2026-08-17
 
-Status: PROJECT CONTROL — CURRENT SNAPSHOT
+Status: PROJECT CONTROL — HISTORICAL SNAPSHOT (2026-08-18 병합 시점에 이미 후속 병합 #136–#138, #167–#176으로 대체됨. 현재 상태는 main과 [[decision-log]]가 권위)
 Owner Agents: A00 PM / O01 Canon / O02 Gates / X04 Continuity
 Last Reviewed: 2026-08-17
 Depends On: [[effective-canon-status-manifest-v1]], [[pre-writing-gate-open-record-2026-08-06]], [[decision-log]], [[first-writing-batch-readiness-v1]]
