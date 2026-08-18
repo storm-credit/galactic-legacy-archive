@@ -101,11 +101,12 @@
 |---|---|---|
 | [[named-loss-and-irreversible-transformation-ledger-v1|named-loss-and-irreversible-transformation-ledger-v1]] | Named Loss & Irreversible Transformation Ledger v1 | REVIEW |
 
-## 12_research (4)
+## 12_research (5)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
 | [[gate1-pattern-synthesis|gate1-pattern-synthesis]] | Gate 1 Pattern Synthesis | REVIEW |
 | [[gate1-reference-baseline|gate1-reference-baseline]] | Gate 1 Reference Baseline | REVIEW |
+| [[prose-style-reference-shortlist-v1|prose-style-reference-shortlist-v1]] | Prose Style Reference Shortlist v1 | DRAFT |
 | [[reference-structure-analysis-v1|reference-structure-analysis-v1]] | Reference Structure Analysis v1 | CANON FOR DESIGN |
 | [[reference-study-plan|reference-study-plan]] | Reference Study Plan | DRAFT |
