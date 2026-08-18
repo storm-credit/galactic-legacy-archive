@@ -253,6 +253,67 @@ def act_map_entry(number: int) -> tuple[str, list[str]] | None:
     return None
 
 
+
+AI_TELL_ENDING = 30          # both closing paragraphs at or under this length
+AI_TELL_DENSITY = 3.5        # ~것이었다 family per 1,000 chars before it flags
+
+
+def ai_tell_findings(prose: str) -> tuple[list, list]:
+    """Measure machine-prose signatures. Returns (findings, measurements).
+
+    A same-model review cannot hear its own voice, so this axis measures
+    instead of judging: conclusion-narration density, triad parallelism,
+    simile crutches, rhythm evenness. Only the two-line abstract closer is a
+    finding outright -- it is the clearest AI signature and the cheapest to
+    vary by hand.
+    """
+    import statistics
+
+    findings: list = []
+    measures: list = []
+    paras = [x.strip() for x in prose.split("\n") if x.strip()]
+    narr = [x for x in paras if not x.startswith(("\u201c", '"', "[", "#"))]
+    if not narr:
+        return findings, measures
+
+    # 1. aphorism-pair closer
+    tail = [x for x in paras if not x.startswith("[")][-2:]
+    if (len(tail) == 2
+            and all(len(x) <= AI_TELL_ENDING for x in tail)
+            and not any(ch.isdigit() for x in tail for ch in x)
+            and not any(x.startswith(("\u201c", '"')) for x in tail)):
+        findings.append(
+            "마지막 두 지문이 짧은 추상문 쌍 — 경구 마무리는 기계 문장의 대표 흔적. "
+            "구체 감각이나 행동으로 끝나는지 확인")
+
+    # 2. conclusion-narration density
+    fam = sum(prose.count(w) for w in ("것이었다", "터였다", "수 있었다", "수 없었다"))
+    per_k = fam * 1000 / max(len(prose), 1)
+    if per_k > AI_TELL_DENSITY:
+        findings.append(
+            f"결론 서술형(것이었다·터였다·수 있었다)이 1,000자당 {per_k:.1f}회 — "
+            "행동이 아니라 판정을 서술하고 있지 않은지 확인")
+    measures.append(f"결론 서술형 밀도 {per_k:.1f}/천자")
+
+    # 3. triad parallelism inside one sentence
+    sents = [s for x in narr for s in x.split("다.") if s.strip()]
+    triads = sum(1 for s in sents if "고, " in s and ("며 " in s or "며, " in s))
+    measures.append(f"삼항 병렬 문장 {triads}개")
+
+    # 4. simile crutch
+    measures.append(f"'마치' {prose.count('마치')}회 · '처럼' {prose.count('처럼')}회")
+
+    # 5. rhythm evenness -- coefficient of variation of narration lengths
+    lens = [len(x) for x in narr if len(x) > 5]
+    if len(lens) >= 8:
+        cv = statistics.pstdev(lens) / (sum(lens) / len(lens))
+        measures.append(f"지문 길이 변동계수 {cv:.2f} (0.35 미만이면 균일 리듬 의심)")
+        if cv < 0.35:
+            findings.append(
+                f"지문 길이 변동계수 {cv:.2f} — 문단 호흡이 기계적으로 균일. "
+                "긴 문단과 한 줄 문단의 대비가 있는지 확인")
+    return findings, measures
+
 def active_clues(number: int) -> list[str]:
     """Mysteries whose plant window covers this episode."""
     path = ROOT / PAYOFF_LEDGER
@@ -307,6 +368,8 @@ def review(path: Path, names: dict[str, set[str]]) -> tuple[list[str], list[str]
     best = narration_runs(prose)
     if best > SHORT_RUN_LIMIT:
         findings.append(f"{SHORT_SENTENCE}자 미만 지문이 {best}개 연속 — §2-5 단문 남발")
+    ai_finds, ai_measures = ai_tell_findings(prose)
+    findings.extend(ai_finds)
 
     present: dict[str, list[str]] = {
         d: sorted(n for n in ns if n in prose) for d, ns in names.items()
@@ -360,6 +423,7 @@ def review(path: Path, names: dict[str, set[str]]) -> tuple[list[str], list[str]
         "복선: 이 회차가 심거나 회수하는 것이 회수 장부에 있는가",
         "낭독 축 2: 화자 표기를 가려도 여섯 명이 구별되는가",
         "낭독 축 5: 복선 문장을 평문 톤으로 읽어도 정보가 새지 않는가",
+        "낭독 검수 6 (AI 흔적, 배치 단위 판정): " + " · ".join(ai_measures),
         f"엔딩 훅 — 마지막 줄: {lines[-1][:70] if lines else '(없음)'}",
     ]
     return findings, prompts
