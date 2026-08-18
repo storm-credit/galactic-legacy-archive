@@ -236,6 +236,7 @@ Cost:
 
 End hook:
 - Haren receives the first list of people whose treatment/status will stop.
+- the list shows eleven accounts with grades and no visible names; Haren refuses to guess names aloud (D-20260819-01 승인 비트)
 
 Clues:
 - M-006, M-016.
@@ -299,6 +300,7 @@ Cost:
 Action:
 - Academy/Operations converts the dispute into a formal live betrayal evaluation:
   - White Dock operation determines equipment, student and guarantee outcomes.
+- tool check before conversion: the thermal cutter's 90-second cooldown enters the mission plan as a rescue-order constraint (D-20260819-01 승인 비트)
 - Juno’s rival cell may be assigned support/opposition role.
 
 End hook:
