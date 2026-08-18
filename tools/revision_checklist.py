@@ -184,7 +184,25 @@ def narration_findings(prose: str, names: dict) -> list:
 
     known = pronunciation_entries()
     if known:
-        used = {n for ns in names.values() for n in ns if n in prose}
+        # A name counts as used only at a word boundary. `n in prose` matched
+        # the relic 리마 inside 허리마운트. Korean never prefix-compounds a
+        # proper noun, so the preceding character must not be Hangul; the
+        # following character may be a particle but not the middle of a word.
+        josa = set("은는이가을를과와도의로에게서만까지부터라야며처럼보다")
+        def _used(name: str) -> bool:
+            start = 0
+            while True:
+                i = prose.find(name, start)
+                if i < 0:
+                    return False
+                before = prose[i - 1] if i > 0 else " "
+                after_i = i + len(name)
+                after = prose[after_i] if after_i < len(prose) else " "
+                if not ("가" <= before <= "힣") and (
+                        not ("가" <= after <= "힣") or after in josa):
+                    return True
+                start = i + 1
+        used = {n for ns in names.values() for n in ns if _used(n)}
         missing = sorted(n for n in used if n not in known)
         if missing:
             out.append("발음 사전 미등재 고유명 — 낭독이 임의 발음을 만든다: " + ", ".join(missing))
