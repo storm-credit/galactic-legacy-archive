@@ -137,7 +137,7 @@
 | [[pre-writing-gate-open-record-2026-08-06|pre-writing-gate-open-record-2026-08-06]] | Pre-Writing Gate Open Record | CANON PROJECT CONTROL |
 | [[pre-writing-gate-review-v1|pre-writing-gate-review-v1]] | Pre-Writing Gate Review v1 | REVIEW |
 | [[prewriting-dry-audit-status-2026-08-03|prewriting-dry-audit-status-2026-08-03]] | Pre-Writing Dry-Audit Status | CANON PROJECT CONTROL |
-| [[project-charter|project-charter]] | Project Charter | DRAFT |
+| [[project-charter|project-charter]] | Project Charter | CANON |
 | [[reader-facing-terminology-phonetics-and-register-bible-v1|reader-facing-terminology-phonetics-and-register-bible-v1]] | Reader-Facing Terminology, Phonetics & Register Bible v1 | CANON PROJECT CONTROL |
 | [[settings-bible-final-status-2026-08-03|settings-bible-final-status-2026-08-03]] | Settings-Bible Final Status | FINAL CANON PROJECT CONTROL |
 | [[settings-bible-master-index-v1|settings-bible-master-index-v1]] | Settings-Bible Master Index v1 | CANON PROJECT CONTROL |
@@ -146,7 +146,7 @@
 | [[specialist-routing-index|specialist-routing-index]] | Specialist Routing Index | CANON |
 | [[workflow|workflow]] | End-to-End Workflow & Harness | CANON |
 
-## 99_quality_control (104)
+## 99_quality_control (106)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
@@ -251,6 +251,8 @@
 | [[prewriting-gate-dry-audit-2026-08-03|prewriting-gate-dry-audit-2026-08-03]] | Pre-Writing Gate Dry Audit | REVIEW COMPLETE |
 | [[prewriting-gate-evidence-matrix-v2|prewriting-gate-evidence-matrix-v2]] | Pre-Writing Gate Evidence Matrix v2 | REVIEW |
 | [[prewriting-gate-proxy-signoff-2026-08-03|prewriting-gate-proxy-signoff-2026-08-03]] | Pre-Writing Gate Proxy Sign-Off | CANON PROJECT CONTROL |
+| [[prewriting-gate-scorecard-2026-08-13|prewriting-gate-scorecard-2026-08-13]] | Pre-Writing Gate Scorecard | REVIEW COMPLETE |
+| [[registry-redteam-2026-08-13|registry-redteam-2026-08-13]] | Registry Red-Team | REVIEW COMPLETE |
 | [[society-and-culture-completion-redteam|society-and-culture-completion-redteam]] | Society & Culture Completion Red-Team | REVIEW COMPLETE |
 | [[world-bible-completion-gap-audit-v2|world-bible-completion-gap-audit-v2]] | World-Bible Completion Gap Audit v2 | REVIEW COMPLETE |
 | [[world-design-01-02-03-linkage-and-payoff-audit-2026-08-13|world-design-01-02-03-linkage-and-payoff-audit-2026-08-13]] | 세계관 01·02·03 연결성·회수 감사 (2026-08-13) | QUALITY-CONTROL |

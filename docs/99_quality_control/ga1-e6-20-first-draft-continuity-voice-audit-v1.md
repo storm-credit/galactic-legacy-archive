@@ -42,7 +42,7 @@ Verdict:
 
 ## 3. Episode Function Check
 
-### E6 — 열세 칸
+### E6 — 열세 칸의 오차
 
 - temporary cell conditions and exit rights established.
 - Archive person/function counting mismatch shown.
@@ -51,7 +51,7 @@ Verdict:
 
 PASS.
 
-### E7 — 주인이 여섯인 기체
+### E7 — 비품 번호 07
 
 - six separate claims are physically shown.
 - Rian’s future-value ownership argument fails.
@@ -60,7 +60,7 @@ PASS.
 
 PASS.
 
-### E8 — 왕의 열쇠가 연 문
+### E8 — 아르젠의 열쇠, 권한 미상
 
 - service-alignment maneuver proves ace timing.
 - current thruster map corrects future over-rotation.
@@ -68,7 +68,7 @@ PASS.
 
 PASS.
 
-### E9 — 기록은 먼저 배신한다
+### E9 — 기록이 먼저 배신한다
 
 - incorrect official effect physically closes doors.
 - narrow correction protects unrelated personal data.
@@ -77,7 +77,7 @@ PASS.
 
 PASS.
 
-### E10 — 살아 있는데 죽은 사람
+### E10 — 기록상 없는 환자
 
 - Soma’s present body and consent lead.
 - Rian’s automatic identity-restoration plan is rejected.
@@ -94,7 +94,7 @@ PASS.
 
 PASS.
 
-### E12 — 쏘지 않은 조준선
+### E12 — 미식별 기체, 사격 없음
 
 - Ern saves/opens a route for another craft, not Rian.
 - warning is a bounded physical contingency, not alliance.
@@ -102,7 +102,7 @@ PASS.
 
 PASS.
 
-### E13 — 네라 비크, 사망
+### E13 — 사망 항목, 미확정
 
 - `CLOSED`, missing and physical death are separated.
 - Rian’s protective control is recorded and withdrawn.
@@ -123,7 +123,7 @@ PASS after correction.
 
 PASS.
 
-### E15 — 선택받지 못한 팀
+### E15 — 대신 떨어진 사람들
 
 - Rian’s future-important-person selection is rejected.
 - cross-cell drill preserves separate command.
@@ -141,7 +141,7 @@ PASS.
 
 PASS.
 
-### E17 — 미래의 정답이 부러뜨린 것
+### E17 — 07호는 그 기동을 못 버틴다
 
 - Rian discloses risk but understates the missing reinforcement’s role.
 - spectacular score gain is real.
@@ -159,7 +159,7 @@ PASS.
 
 PASS.
 
-### E19 — 이름이 없는 장부
+### E19 — 등재되지 않은 명단
 
 - 36-person community is represented through Dana, Rivo and Orvan disagreement.
 - Haren does not represent all people.
@@ -168,7 +168,7 @@ PASS.
 
 PASS.
 
-### E20 — 세 가지 답
+### E20 — 누구도 버리지 않는다
 
 - three institutional choices and their concrete losses are restated.
 - Adel Sern’s future-relevant offer is materially tempting.

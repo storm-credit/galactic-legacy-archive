@@ -98,7 +98,7 @@ End hook:
 
 ---
 
-# Episode 17 — 미래의 정답이 부러뜨린 것
+# Episode 17 — 07호는 그 기동을 못 버틴다
 
 Date:
 - CY 742-04-02.
@@ -242,7 +242,7 @@ Clues:
 
 ---
 
-# Episode 19 — 이름이 없는 장부
+# Episode 19 — 등재되지 않은 명단
 
 Date:
 - CY 742-04-04.
@@ -309,7 +309,7 @@ Clue:
 
 ---
 
-# Episode 20 — 세 가지 답
+# Episode 20 — 누구도 버리지 않는다
 
 Date:
 - CY 742-04-05.

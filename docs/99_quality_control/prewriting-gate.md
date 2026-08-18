@@ -143,6 +143,11 @@ Open Risks: False confidence, unchecked placeholders, unresolved canon conflicts
 
 ## 13. Final Sign-Off
 
+**2026-08-13 채점 결과는 [[prewriting-gate-scorecard-2026-08-13]]에 있다.**
+판정  — BLOCKER 24/26 PASS, 실패 2건은 모두 §3 Project & Market이다.
+이 체크리스트 자체는 템플릿으로 유지하고 채점 상태는 채점표가 보유한다.
+
+
 ```markdown
 Gate Date:
 Overall Status: PASS | CONDITIONAL PASS | FAIL

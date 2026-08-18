@@ -1,10 +1,10 @@
 # Named Hull Registry and Naming Grammar v1 — 명명 선체 등록부
 
 Status: PROPOSED — NONCANON
-Owner Agents: A00 Novel PM / H02 Naval Architecture / M03 Fleet Operations / M05 Logistics / P03 Law / P05 Naming / C5 Ships / X02 Reader Memory / X04 Continuity
+Owner: 단일 에이전트 작성 (CLAUDE.md §15-1 — 하위 에이전트 실행 증거 없음, 역할명 헤더로 독립 실행을 주장하지 않는다)
 Last Reviewed: 2026-08-13
 Depends On: [[first-ship-bible-v1]], [[ownerless-fleet-structure-and-alignment-v1]], [[military-doctrine-and-force-structure-bible-v1]], [[grand-act-force-holdings-and-readiness-matrix-v1]], [[maneuver-frame-lineup-master-architecture-v1]], [[mecha-lineage-mark-and-evolution-naming-system-v1]], [[role-demand-portfolio-count-audit-v1]], [[core-canonical-names-and-voice-lock-v1]], [[reader-facing-terminology-phonetics-and-register-bible-v1]], [[galactic-legacy-collection-bible-v1]], [[decision-log]], [[first-100-act-map-v2-consolidated]], [[ga10-episodes-1001-1100-act-map-v1]], [[ga2-episodes-101-210-act-map-v1]], [[ga3-episodes-211-330-act-map-v1]], [[ga4-episodes-331-450-act-map-v1]], [[ga5-episodes-451-570-act-map-v1]], [[ga6-episodes-571-690-act-map-v1]], [[ga7-episodes-691-800-act-map-v1]], [[ga8-episodes-801-900-act-map-v1]], [[ga9-episodes-901-1000-act-map-v1]]
-Used By: 함선 수집 설계, 함대전 장면 카드, 기체–선체 탑재 크로스워크, 모델 시트 계획
+Used By: 함선 수집 설계, 함대전 장면 카드, 기체–선체 탑재 크로스워크, 모델 시트 계획, 서브액트 배정 [[first-100-act-map-v2-consolidated]] · [[episode-briefs]]
 Canon Promotion: NOT AUTHORIZED
 Publication: NOT AUTHORIZED
 Open Risks: 40척 중 정본은 1척뿐이며 나머지는 전부 승인 대기, 탑재 정원 수치는 급수 문법의 초안이고 개별 선체 실측이 아님, GA7–GA10 소속 이동 경로 미확정, 노획 계승 선체의 개명 시점 미확정
@@ -18,7 +18,8 @@ Open Risks: 40척 중 정본은 1척뿐이며 나머지는 전부 승인 대기,
 | 출처 | 주장 | 검증 결과 |
 |---|---|---|
 | `role-demand-category-bands-proposed-v1.csv` C5 | 등록표 28행 / **고유 선체 13척** | **재현 불가** |
-| 이 문서 | — | **검증된 명명 선체 1척** |
+| 이 문서 (초안) | — | 검증된 명명 선체 1척 — **이것도 틀렸다** |
+| 독립 검토 후 | 손실 장부 L-S01·L-S02 | **정본 명명 선체 3척** (07호의 배 + 잠긴 상실 2척) |
 
 GA2 등록표의 `G2-S01`~`S14`는 배 14척이 아니라 **배 한 척의 부위와 권리**다. S01 선체·신탁, S02 지휘 헌장, S03 A로 통항 인증, S04 B로 제한 첨두 지원, S05 공용냉각 우회, S06 07호 크레이들, S07 부분 베이2·계전 서비스 칼라, S08 공방 모듈, S09 의무·피난 개조 패키지. [[maneuver-frame-lineup-master-architecture-v1]]가 "415 등록표 행은 415대가 아니다"로 잡아낸 함정이 함선에서 그대로 반복됐고, 그때는 잡히지 않았다.
 
@@ -26,7 +27,7 @@ GA2 등록표의 `G2-S01`~`S14`는 배 14척이 아니라 **배 한 척의 부�
 
 `NR72-061`은 선체가 아니다. GA2 미스터리의 대상이며 정본이 "온전한 선체는 현 증거에 존재하지 않고 등록·부품·노동·청구권 계보로 분산 종결"이라고 닫아뒀다.
 
-따라서 이 등록부는 13이 아니라 **1에서 시작한다**. CLAUDE.md §15-7.
+따라서 이 등록부는 13이 아니라 **3에서 시작한다** (§3.0). 초안이 1이라고 적은 것은 손실 장부를 확인하지 않은 결과이며, 유령 기준선을 잡겠다고 쓴 문서가 같은 실수를 했다. CLAUDE.md §15-7.
 
 ### 1.2 채택된 방향
 
@@ -106,7 +107,21 @@ GA2 등록표의 `G2-S01`~`S14`는 배 14척이 아니라 **배 한 척의 부�
 
 ## 4. Registry — 40 Named Hulls
 
-정본은 M-000 한 척뿐이다. 나머지 39척은 전부 승인 대기이며 어느 것도 새 능력·기술을 추가하지 않는다.
+정본은 세 척이다 — 07호의 배와 손실 장부가 잠근 두 척(§3.0). 나머지 39척은 전부 승인 대기이며 어느 것도 새 능력·기술을 추가하지 않는다.
+
+### 3.0 정본 명명 선체 — 손실 장부 (2)
+
+초안은 "검증된 명명 선체 1척"에서 시작한다고 적었다. **틀렸다.** 손실 장부가 이미
+두 척을 이름까지 잠가 두었고, 같은 세션에서 그 문서를 인용하면서도 놓쳤다
+([[registry-redteam-2026-08-13]] 이후 독립 검토가 잡아냈다).
+
+| ID | 이름 | 급수 | 성격 | 정본 출처 | 상태 |
+|---|---|---|---|---|---|
+| S-101 | 보루의 맹세 / Vow of Bastion | CR | 아르도 레브의 지휘순양함. 상징 기함은 살아남지 못한다 | [[named-loss-and-irreversible-transformation-ledger-v1]] L-S01 | **CANON** |
+| S-102 | 온기 / Warmth | MD | 오르페우스 의무모함 | [[named-loss-and-irreversible-transformation-ledger-v1]] L-S02 | **CANON** |
+
+두 척은 **상실이 이미 잠긴 선체**다. 이 등록부는 그 사실을 기록만 하며 운용 상태를
+다시 쓰지 않는다. 손실 조건은 장부가 보유한다.
 
 ### 4.1 독립군·주인공 계열 (노획 계승)
 
@@ -175,23 +190,42 @@ GA2 등록표의 `G2-S01`~`S14`는 배 14척이 아니라 **배 한 척의 부�
 
 | 구분 | 수 |
 |---|---:|
-| 정본 선체 | **1** |
+| 정본 선체 | **3** |
 | 제안 선체 | **39** |
-| 등록부 총계 | **40** (밴드 32–48 내) |
+| 정본 상실 잠금 선체 | **2** (§3.0) |
+| 등록부 총계 | **42** (밴드 32–48 내) |
 | 선체 아닌 등재 항목 | 1 (`NR72-061`, 계수 제외) |
 
 진영별: 독립군 계열 9, 제국 12, 헬릭스 8, 변경 11.
 
-## 5. Reader Exposure Ceiling
+## 5. Reader Exposure — 권위 위임
+
+### 노출 — 정본 예산을 따른다
+
+**이 등록부는 자기 노출 상한을 갖지 않는다.** 독자 기억 권위는
+[[reader-facing-terminology-phonetics-and-register-bible-v1]] §2이며 예산은 거기 있다.
+
+| 회차당 | 값 |
+|---|---|
+| **총 고유명 최초 사용** | **0–4** |
+| 활성 장소 | 1–3 |
+| 활성 기관·세력 | 1–3 |
+| 신규 기술 용어 | 0–2 |
+| 10화 창 기준 활성 수집 목표 | 3–5 |
+
+초안은 등록부마다 장면당 상한을 따로 뒀고 합계가 21이 됐다. 회차당 4개인 정본에
+대해 장면당 21개였다 — 국소 판단 여섯 번이 합쳐질 때를 보지 않은 결과다
+([[registry-redteam-2026-08-13]] D1).
+
+**첫 등장에는 종류어를 붙인다.** 어근이 진영은 구별하되 종류는 구별하지 못하므로
+문장이 구별한다 — `전열함 유덱스`, `카빈 사기타`, `규격 노르마`, `봉인 열쇠
+클라비쿨라`. 재등장부터는 생략한다 (D2).
+
+아래 전면/배경 구분은 **예산 안으로 들어올 자격이 있는 항목의 목록**이며,
+몇 개를 부를 수 있는가의 허가가 아니다.
 
 40척 전부를 독자가 외울 필요는 없다. 레드팀 판정이 이미 나와 있다 — **독자 전투서열은 3~7개 편성이 정상이지 수백 선체가 아니다.**
-
-| 층 | 수 | 규칙 |
-|---|---:|---|
-| 전면 (이름을 반복 호출) | **16** | 파루스, 리메스, 폰티스, 안노나, 스테디, 유덱스, 시그눔, 발룸, 켄소르, 프라이토르, 스프라기스, 카논, 메트론, 에이드르, 베트르, 바우타 |
-| 배경 (한 번 부르고 편성으로 흡수) | 24 | 나머지 |
-| 한 장면 동시 호출 상한 | **4척** | 초과 시 편성명으로 대체 |
-| 한 회차 신규 이름 상한 | **2척** | |
+- **전면 자격**: 파루스, 리메스, 폰티스, 안노나, 스테디, 유덱스, 시그눔, 발룸, 켄소르, 프라이토르, 스프라기스, 카논, 메트론, 에이드르, 베트르, 바우타
 
 ## 6. Frame–Hull Crosswalk (초안)
 

@@ -10,7 +10,7 @@ Open Risks: Exact calendar, names, battle geography, casualty scale remain provi
 ## 1. Timeline Convention
 
 - `R0`: 주인공이 회귀한 교도군사학교 시점.
-- `R+20`: 원래 시간선의 은하제국 최종 붕괴와 주인공 사망·회귀 시점.
+- `R+20`: 원래 시간선의 아르젠 제국 최종 붕괴와 주인공 사망·회귀 시점.
 - 아래 연도는 상대연도이며 정식 제국력은 세계 연표 확정 후 부여한다.
 - 각 사건은 `Surface Event / Structural Cause / Protagonist Knowledge / Archive Version / Hidden Truth`를 분리한다.
 

@@ -1,10 +1,10 @@
 # Named Faction and Institution Registry v1 — 명명 세력·제도 등록부
 
 Status: PROPOSED — NONCANON
-Owner Agents: A00 Novel PM / P06 Faction Clocks / P09 Institutions / P03 Law / N08 Faction Arcs / C7 Factions / X02 Reader Memory / X03 Ethics / X04 Continuity
+Owner: 단일 에이전트 작성 (CLAUDE.md §15-1 — 하위 에이전트 실행 증거 없음, 역할명 헤더로 독립 실행을 주장하지 않는다)
 Last Reviewed: 2026-08-13
 Depends On: [[initial-five-faction-bible-v1]], [[faction-symmetry-harness]], [[faction-succession-culture-visual-identity-matrix-v1]], [[imperial-succession-law-claimants-and-intelligence-blocs-v1]], [[galactic-legacy-collection-bible-v1]], [[collection-desire-master-architecture-and-index-audit-v1]], [[named-technology-lineage-registry-v1]], [[decision-log]]
-Used By: 세력 수집 설계, 가입·협약 장면, 내부 분열 서사, 대표성 판정
+Used By: 세력 수집 설계, 가입·협약 장면, 내부 분열 서사, 대표성 판정, 서브액트 배정 [[first-100-act-map-v2-consolidated]] · [[episode-briefs]]
 Canon Promotion: NOT AUTHORIZED
 Publication: NOT AUTHORIZED
 Open Risks: 생태계가 6개로 밴드 10–12에 미달하며 추가는 작가 결정, 일시 연합 10–16과 지속 조직 68–82은 미등록, C6 기술과의 경계가 일부 흐림
@@ -96,33 +96,33 @@ Open Risks: 생태계가 6개로 밴드 10–12에 미달하며 추가는 작가
 
 | ID | 블록 | 역할 | 이 블록이 원하는 것 | 상태 |
 |---|---|---|---|---|
-| F-06 | **단일 세력 아님** | 밀수·중개·용병·정보상의 느슨한 층 | 층마다 다르다 | **CANON** |
+| F-06 | **단일 세력 아님** | 밀수·중개·용병·정보상의 느슨한 층 | 층마다 다르다 | **PROPOSED — NONCANON** |
 
-`FCT-06`은 생태계 계수에 들어가지만 **하나의 조직으로 취급하지 않는다.** 대표자와 협약이 성립하지 않는 것이 이 층의 성질이다.
+`FCT-06`은 **원본이 이 블록만 `PROPOSED — NONCANON`으로 표시한다** ([[initial-five-faction-bible-v1]] FCT-06 블록). 초안이 CANON으로 적은 것은 오기다. 생태계 계수에 들어가지만 **하나의 조직으로 취급하지 않는다.** 대표자와 협약이 성립하지 않는 것이 이 층의 성질이다.
 
 
 ### 2.7 GA8 기록전 세력 (6)
 
 | ID | 조직 | 이 조직이 원하는 것 | 정본 출처 | 상태 |
 |---|---|---|---|---|
-| `REC-F01` | Continuity Authentication Directorate | 기록의 진위를 인증할 권한 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
-| `REC-F02` | Plural Archive Coalition | 복수의 기록이 공존할 권리 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
-| `REC-F03` | Restoration Truth Assembly | 지워진 진실의 복원 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
-| `REC-F04` | Right-to-Forget / Liberation Network | 잊힐 권리와 해방 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
-| `REC-F05` | AI and Composite Persons Compact | AI·복합 인격의 인격권 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
-| `REC-F06` | State/Helix Operational Records Alliance | 운영 기록의 국가·기업 통제 | [[ga8-record-war-factions-and-representatives-v1]] | **CANON** |
+| `REC-F01` | 계승 인증 총국 (작업명 Continuity Authentication Directorate) | 기록의 진위를 인증할 권한 | [[ga8-record-war-factions-and-representatives-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
+| `REC-F02` | 복수 기록 연합 (작업명 Plural Archive Coalition) | 복수의 기록이 공존할 권리 | [[ga8-record-war-factions-and-representatives-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
+| `REC-F03` | 복원 진상 의회 (작업명 Restoration Truth Assembly) | 지워진 진실의 복원 | [[ga8-record-war-factions-and-representatives-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
+| `REC-F04` | 잊힐 권리 연결망 (작업명 Right-to-Forget / Liberation Network) | 잊힐 권리와 해방 | [[ga8-record-war-factions-and-representatives-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
+| `REC-F05` | 복합 인격 협약 (작업명 AI and Composite Persons Compact) | AI·복합 인격의 인격권 | [[ga8-record-war-factions-and-representatives-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
+| `REC-F06` | 국가·헬릭스 운영기록 동맹 (작업명 State/Helix Operational Records Alliance) | 운영 기록의 국가·기업 통제 | [[ga8-record-war-factions-and-representatives-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
 
 ### 2.8 아르디스 지역 세력 (7)
 
 | ID | 조직 | 이 조직이 원하는 것 | 정본 출처 | 상태 |
 |---|---|---|---|---|
-| `AR-F01` | Civic Continuity Council | 도시 서비스의 연속성 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
-| `AR-F02` | Foundry Workers’ Compact | 노동자의 몫과 안전 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
-| `AR-F03` | Node Custodian College | 노드 관리 권한의 유지 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
-| `AR-F04` | Transit and Unregistered Residents’ Assembly | 미등록 주민의 존재 인정 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
-| `AR-F05` | Ardis Federalist / Independence Coalition | 아르디스의 독립 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
-| `AR-F06` | Helix–Creditor Recovery Authority | 채권 회수 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
-| `AR-F07` | Local Defense Command | 지역 방위의 자율성 | [[ardis-local-factions-and-leaders-v1]] | **CANON** |
+| `AR-F01` | 아르디스 시민 연속성 협의회 (작업명 Civic Continuity Council) | 도시 서비스의 연속성 | [[ardis-local-factions-and-leaders-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
+| `AR-F02` | 주조 노동자 조합 (작업명 Foundry Workers’ Compact) | 노동자의 몫과 안전 | [[ardis-local-factions-and-leaders-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
+| `AR-F03` | 노드 관리단 (작업명 Node Custodian College) | 노드 관리 권한의 유지 | [[ardis-local-factions-and-leaders-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
+| `AR-F04` | 통행·미등록 주민 회의 (작업명 Transit and Unregistered Residents’ Assembly) | 미등록 주민의 존재 인정 | [[ardis-local-factions-and-leaders-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
+| `AR-F05` | 아르디스 연방·독립 연합 (작업명 Ardis Federalist / Independence Coalition) | 아르디스의 독립 | [[ardis-local-factions-and-leaders-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
+| `AR-F06` | 헬릭스 채권 회수단 (작업명 Helix–Creditor Recovery Authority) | 채권 회수 | [[ardis-local-factions-and-leaders-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
+| `AR-F07` | 지역 방위 사령부 (작업명 Local Defense Command) | 지역 방위의 자율성 | [[ardis-local-factions-and-leaders-v1]] | **제안** (한국어명 작가 승인 대기 · D-20260814-06) |
 
 이 13개는 대액트 범위의 **지속 조직**이며 시리즈 핵심 생태계 계수(§1.2)에 더하지 않는다. 생태계는 1000화 전체를 관통하는 축이고, 이들은 자기 대액트 안에서 살고 죽는다.
 
@@ -141,14 +141,34 @@ Open Risks: 생태계가 6개로 밴드 10–12에 미달하며 추가는 작가
 
 **대표성 이상은 비용이 사람으로 청구된다.** 한 블록의 편을 들면 다른 블록이 적이 된다. 이것이 세력 도메인의 기본 갈등이며, 블록을 24개나 명명해 둔 이유다.
 
-## 4. Reader Exposure Ceiling
+## 4. Reader Exposure — 권위 위임
 
-| 층 | 수 | 규칙 |
-|---|---:|---|
-| 전면 생태계 | **5–8** | 한 대액트에서 활성인 것만 |
-| 전면 블록 | **6** | 그 대액트의 갈등에 직접 관여하는 것만 |
-| 한 장면 동시 호출 | **3개** | 조직명은 대사에서 가장 빨리 뭉개진다 |
+### 노출 — 정본 예산을 따른다
 
+**이 등록부는 자기 노출 상한을 갖지 않는다.** 독자 기억 권위는
+[[reader-facing-terminology-phonetics-and-register-bible-v1]] §2이며 예산은 거기 있다.
+
+| 회차당 | 값 |
+|---|---|
+| **총 고유명 최초 사용** | **0–4** |
+| 활성 장소 | 1–3 |
+| 활성 기관·세력 | 1–3 |
+| 신규 기술 용어 | 0–2 |
+| 10화 창 기준 활성 수집 목표 | 3–5 |
+
+초안은 등록부마다 장면당 상한을 따로 뒀고 합계가 21이 됐다. 회차당 4개인 정본에
+대해 장면당 21개였다 — 국소 판단 여섯 번이 합쳐질 때를 보지 않은 결과다
+([[registry-redteam-2026-08-13]] D1).
+
+**첫 등장에는 종류어를 붙인다.** 어근이 진영은 구별하되 종류는 구별하지 못하므로
+문장이 구별한다 — `전열함 유덱스`, `카빈 사기타`, `규격 노르마`, `봉인 열쇠
+클라비쿨라`. 재등장부터는 생략한다 (D2).
+
+아래 전면/배경 구분은 **예산 안으로 들어올 자격이 있는 항목의 목록**이며,
+몇 개를 부를 수 있는가의 허가가 아니다.
+
+- **전면 자격**: 한 대액트에서 활성인 것만
+- **전면 자격**: 그 대액트의 갈등에 직접 관여하는 것만
 **독자는 조직 이름보다 "누가 무엇을 원하는가"를 기억한다.** 표의 마지막 열이 실제 기억 단위다.
 
 ## 5. Collection Desire Hooks

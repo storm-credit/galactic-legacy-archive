@@ -61,7 +61,7 @@ Clues:
 Hook:
 - why does the service interface recognize him?
 
-## Episode 2 — 한 사람의 벌이 서른여섯 명에게 간다
+## Episode 2 — 연대 책임 36인
 
 Goal:
 - prevent the accident from becoming sabotage/collective penalty.
@@ -86,7 +86,7 @@ Clues:
 Hook:
 - re-test equipment assignment includes 07.
 
-## Episode 3 — 조종사는 기체를 고칠 수 없다
+## Episode 3 — 출력 제한 기동 허가
 
 Goal:
 - make 07 safe enough to enter re-test.
@@ -111,7 +111,7 @@ Clues:
 Hook:
 - service protocol resembles Archive warning family.
 
-## Episode 4 — 오르페우스의 빈칸
+## Episode 4 — 기록 결손: 오르페우스
 
 Goal:
 - predict re-test hazard without being medically removed.
@@ -136,7 +136,7 @@ Clues:
 Hook:
 - test parameters were changed after someone accessed the incident file.
 
-## Episode 5 — 다섯 번째 답의 시작
+## Episode 5 — 승인되지 않은 다섯 번째 답
 
 Goal:
 - complete safety test without abandoning target, accepting sabotage label or sacrificing one member as sole culprit.
@@ -168,7 +168,7 @@ Hook:
 
 # Mini-Arc B — 셀은 팀이 아니라 계약이다 / Episodes 6–10
 
-## Episode 6 — 열세 칸
+## Episode 6 — 열세 칸의 오차
 
 Goal:
 - understand the provisional cell evaluation and Archive’s changing hero count.
@@ -193,7 +193,7 @@ Clue:
 Hook:
 - 07’s ownership/stripping hearing occurs before their next test.
 
-## Episode 7 — 주인이 여섯인 기체
+## Episode 7 — 비품 번호 07
 
 Goal:
 - keep 07 available through the hearing.
@@ -225,7 +225,7 @@ Clues:
 Hook:
 - Imperial identification key opens only a maintenance/service layer, not pilot command.
 
-## Episode 8 — 왕의 열쇠가 연 문
+## Episode 8 — 아르젠의 열쇠, 권한 미상
 
 Goal:
 - determine what the Imperial key actually grants.
@@ -250,7 +250,7 @@ Clues:
 Hook:
 - Haren’s account receives a transfer-review acceleration tied to the cell’s new value.
 
-## Episode 9 — 기록은 먼저 배신한다
+## Episode 9 — 기록이 먼저 배신한다
 
 Goal:
 - prevent an incorrect evaluation record from automatically disqualifying the cell/Haren account.
@@ -274,7 +274,7 @@ Clues:
 Hook:
 - one closed identity belongs to someone physically present at the Academy.
 
-## Episode 10 — 살아 있는데 죽은 사람
+## Episode 10 — 기록상 없는 환자
 
 Goal:
 - verify the closed identity without exposing the person to forced transfer.
@@ -328,7 +328,7 @@ Clue:
 Hook:
 - White Dock exercise now includes an unannounced external opposition craft.
 
-## Episode 12 — 쏘지 않은 조준선
+## Episode 12 — 미식별 기체, 사격 없음
 
 Goal:
 - identify the external craft/ace before the real test.
@@ -353,7 +353,7 @@ Clue:
 Hook:
 - warning predicts a test rule that Academy briefing denies.
 
-## Episode 13 — 네라 비크, 사망
+## Episode 13 — 사망 항목, 미확정
 
 Goal:
 - understand a future record that lists Nera as closed/dead without destabilizing her.
@@ -403,7 +403,7 @@ Clue:
 Hook:
 - rival cell loses a sponsor benefit because resources moved to Rian’s cell.
 
-## Episode 15 — 선택받지 못한 팀
+## Episode 15 — 대신 떨어진 사람들
 
 Goal:
 - face the cost imposed on another student group and preserve White Dock eligibility.
@@ -454,7 +454,7 @@ Cost:
 Hook:
 - test requires choosing which system remains powered.
 
-## Episode 17 — 미래의 정답이 부러뜨린 것
+## Episode 17 — 07호는 그 기동을 못 버틴다
 
 Goal:
 - adapt after Rian applies a future maneuver/load sequence that damages current 07.
@@ -508,7 +508,7 @@ Clues:
 Hook:
 - Doran account receives immediate medicine suspension notice.
 
-## Episode 19 — 이름이 없는 장부
+## Episode 19 — 등재되지 않은 명단
 
 Goal:
 - identify who in Haren’s community will lose care first and whether the notice is lawful/current.
@@ -533,7 +533,7 @@ Clue:
 Hook:
 - Academy converts the decision into a formal live betrayal test at White Dock simulation/training route.
 
-## Episode 20 — 세 가지 답
+## Episode 20 — 누구도 버리지 않는다
 
 Goal:
 - survive the formal test without obeying, betraying or assigning one sacrificial culprit.

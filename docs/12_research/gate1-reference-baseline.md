@@ -203,7 +203,7 @@ Our use:
 Source: https://www.viz.com/legend-of-the-galactic-heroes
 
 Verified public facts:
-- 은하제국과 자유행성동맹의 장기전, 라인하르트와 양 웬리의 대칭적 정치·군사 서사.
+- 아르젠 제국과 자유행성동맹의 장기전, 라인하르트와 양 웬리의 대칭적 정치·군사 서사.
 
 Transferable principles:
 - 양측 모두 자기 체제의 모순과 지킬 가치가 있다.

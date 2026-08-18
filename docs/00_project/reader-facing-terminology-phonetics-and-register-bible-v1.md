@@ -4,7 +4,7 @@ Status: CANON PROJECT CONTROL — READER MEMORY AUTHORITY
 Owner Agents: P05 Culture-Language / C06 Voice / X02 Reader Memory / N07 Retention / O01 Canon / R07 Similarity
 Last Reviewed: 2026-08-03
 Depends On: [[core-canonical-names-and-voice-lock-v1]], 612-system census, faction/culture bibles, technical and military bibles
-Used By: all future scene cards, maps, dialogue, glossary and manuscript work
+Used By: all future scene cards, maps, dialogue, glossary and manuscript work, [[named-place-and-corridor-registry-v1]] 지명 명명
 Open Risks: human mobile recall testing remains blocked until an explicit writing phase
 
 ## 1. Core Rule
@@ -94,6 +94,7 @@ Prohibited:
 | 오르페우스 | GA6 operation/crisis | ships or weapons using same mythic name prohibited |
 | 아우렐 | service/continuity architecture | 아렐 계열 generated systems remain author-side |
 | 파루스 | GA2+ 첫 독립임무선 통칭 (`NR72-118`) | 폐기명 `회랑새` 재사용 금지; 라틴 어근이지만 제국 함선 의미장과 구분 |
+| 아르젠 | 국호이자 왕가 성 | 폐기명 `은하제국` 재사용 금지; 인물 `엘리안 아르젠`과 같은 성이므로 문맥이 국가/인물을 구별해야 한다 |
 
 ## 6. Atlas Name Visibility
 
