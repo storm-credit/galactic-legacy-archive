@@ -146,7 +146,7 @@
 | [[specialist-routing-index|specialist-routing-index]] | Specialist Routing Index | CANON |
 | [[workflow|workflow]] | End-to-End Workflow & Harness | CANON |
 
-## 99_quality_control (106)
+## 99_quality_control (107)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
@@ -246,6 +246,7 @@
 | [[opening20-scene-card-redteam|opening20-scene-card-redteam]] | Opening-20 Scene-Card & 07-State Red-Team Review | REVIEW COMPLETE |
 | [[orchestra-domain-coverage-matrix-v1|orchestra-domain-coverage-matrix-v1]] | Orchestra Domain Coverage Matrix v1 | REVIEW COMPLETE |
 | [[orchestra-verification-audit-v1|orchestra-verification-audit-v1]] | Orchestra Verification Audit v1 | REVIEW COMPLETE |
+| [[pr136-actmap-compliance-notes-2026-08-18|pr136-actmap-compliance-notes-2026-08-18]] | PR #136 검토 노트 | REVIEW NOTE |
 | [[pre-writing-readiness-audit-v1|pre-writing-readiness-audit-v1]] | Pre-Writing Readiness Audit v1 | REVIEW |
 | [[prewriting-gate|prewriting-gate]] | Pre-Writing Gate | CANON |
 | [[prewriting-gate-dry-audit-2026-08-03|prewriting-gate-dry-audit-2026-08-03]] | Pre-Writing Gate Dry Audit | REVIEW COMPLETE |
