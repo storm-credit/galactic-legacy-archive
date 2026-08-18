@@ -20,6 +20,7 @@ on:
       - 'tools/build_census.py'
       - 'tools/build_open_questions.py'
       - 'tools/build_episode_briefs.py'
+      - 'tools/promotion_review.py'
       - 'tools/validate_mecha_lineup.py'
       - 'tools/validate_frame_formation_integration.py'
       - 'tools/validate_role_demand_portfolio.py'
@@ -37,6 +38,7 @@ on:
       - 'tools/build_census.py'
       - 'tools/build_open_questions.py'
       - 'tools/build_episode_briefs.py'
+      - 'tools/promotion_review.py'
       - 'tools/validate_mecha_lineup.py'
       - 'tools/validate_frame_formation_integration.py'
       - 'tools/validate_role_demand_portfolio.py'
@@ -70,6 +72,8 @@ jobs:
         run: python tools/build_open_questions.py --check
       - name: Check the episode briefs are current
         run: python tools/build_episode_briefs.py --check
+      - name: Check the promotion scorecard is current
+        run: python tools/promotion_review.py --check
       - name: Verify mecha lineup checks still fire
         run: python tools/validate_mecha_lineup.py --selftest
       - name: Validate mecha lineup planning data
