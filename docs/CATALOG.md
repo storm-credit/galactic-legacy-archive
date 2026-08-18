@@ -15,7 +15,7 @@
 | 기술 계보 | 32 | [[catalog-technologies]] |
 | 유물 | 28 | [[catalog-relics]] |
 | 세력·블록 | 43 | [[catalog-factions]] |
-| 장소·항로 | 36 + 14 | [[catalog-places]] |
+| 장소·항로 | 37 + 14 | [[catalog-places]] |
 | 수집 등록 항목 | 373 | [[catalog-collection]] · [[catalog-by-domain]] |
 
 ## 남은 빈칸

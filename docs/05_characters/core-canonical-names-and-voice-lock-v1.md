@@ -4,7 +4,7 @@ Status: REVIEW — CANON LOCK CANDIDATE
 Owner Agents: C01 Character Bible / C06 Voice / P05 Culture / O01 Canon / X04 Continuity
 Last Reviewed: 2026-08-03
 Depends On: opening cast, crew bible, claimant/fleet/route/record faction bibles, [[master-series-chronology-v1]]
-Used By: all scene cards, manuscript prose, dialogue audits, name-propagation pass
+Used By: all scene cards, manuscript prose, dialogue audits, name-propagation pass, 대액트별 배역 정본 — [[ga4-frontstage-claimants-bible-v1]], [[ga5-fleet-commanders-and-crew-representatives-v1]], [[ga6-orpheus-decision-actors-v1]], [[ga9-preservation-regime-actors-v1]]
 Open Risks: side-character names and faction-specific pronunciation tests remain open
 
 ## 1. Naming Policy
@@ -403,6 +403,29 @@ Role:
 
 Voice:
 - insists crews are citizens and contract parties, not hull components.
+
+---
+
+## 7.5 Polity Names — Final Lock
+
+### 아르젠 제국 / Arzen Empire
+
+Canonical formal name:
+- `아르젠 제국`.
+
+Everyday narration:
+- `제국`. 저장소의 기존 153회 용례가 그대로 유효하다.
+
+Frontier and independence register:
+- `중앙` 또는 `아르젠` — 후자는 경멸조로 쓰인다.
+
+Name origin:
+- 등록 왕조의 성. `C-HEIR-001 엘리안 아르젠`이 그 가문의 계승자다.
+- **국호가 왕가 이름이므로 "누가 아르젠인가"가 곧 "누가 제국인가"가 된다.** GA4 계승 분쟁이 국호 자체를 흔든다.
+
+Prohibited:
+- `은하제국` — 폐기. 보통명사이며 기존 프랜차이즈 국호와 동일하다 (D-20260814-03).
+- 왕가 성과 다른 국호를 새로 만들지 않는다.
 
 ---
 
