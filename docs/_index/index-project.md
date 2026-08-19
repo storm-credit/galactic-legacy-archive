@@ -9,7 +9,7 @@
 
 정본 목록은 [[HOME]]에서 갈라집니다.
 
-## 00_project (133)
+## 00_project (134)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
@@ -121,6 +121,7 @@
 | [[gates1-3-deliverables-index|gates1-3-deliverables-index]] | Gates 1–3 Deliverables Index | — |
 | [[issue-26-status-resolution-proposal-v1|issue-26-status-resolution-proposal-v1]] | Issue #26 지위 모순 해결 제안서 v1 | PROPOSAL |
 | [[late-series-world-atlas-status-2026-08-03|late-series-world-atlas-status-2026-08-03]] | Late-Series World Atlas Status | CANON PROJECT CONTROL |
+| [[local-action-space-audit-2026-08-19|local-action-space-audit-2026-08-19]] | Local Action Space Audit | PROJECT CONTROL |
 | [[macro-economy-and-trade-status-2026-08-03|macro-economy-and-trade-status-2026-08-03]] | Macro Economy & Trade Status | CANON PROJECT CONTROL |
 | [[manuscript-production-workflow-v1|manuscript-production-workflow-v1]] | Manuscript Production Workflow v1 | REVIEW |
 | [[military-doctrine-and-holdings-status-2026-08-03|military-doctrine-and-holdings-status-2026-08-03]] | Military Doctrine & Holdings Status | CANON PROJECT CONTROL |
