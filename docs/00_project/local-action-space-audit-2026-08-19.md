@@ -127,13 +127,19 @@ OS 표준 워크플로 9단계 중 8단계가 이 저장소에 선행 존재한�
 | Groupthink Critic | 완화됨 — 독립 오케스트라를 별도 모델(Codex)로 실행한 기록이 [[registry-redteam-2026-08-13]] §5·§7에 있다 |
 | Unrecorded plan drift | 해당 없음 — §9-6 |
 
-## 7. 플러그인 설치 (사용자 환경 작업)
+## 7. 플러그인 설치 — 완료 (2026-08-19)
 
-밴드 색인은 플러그인 없이도 동작한다. OS가 제공하는 `os-preflight` · `os-state` 스킬과 `independent-critic` 에이전트를 쓰려면 사용자가 직접 설치한다.
+**설치됨**: `minimum-action-agent-os@storm-credit-agent-os` v0.1.1, user 스코프, enabled. 마켓플레이스는 이미 등록돼 있었고 플러그인만 설치했다.
 
-```text
-/plugin marketplace add storm-credit/minimum-action-agent-os
-/plugin install minimum-action-agent-os@storm-credit-agent-os
+검증: `claude plugin validate` 통과(경고 1건 — 마켓플레이스 description 없음, 비차단). 캐시 `0.1.1`에 자산 확인 — 스킬 `os-preflight`·`os-state`, 에이전트 `independent-critic`, 규칙 3종. 구버전 `0.1.0`은 orphaned 표시.
+
+설치에 쓴 명령:
+
+```bash
+claude plugin marketplace add storm-credit/minimum-action-agent-os
+claude plugin install minimum-action-agent-os@storm-credit-agent-os
 ```
 
-설치 전에는 CLAUDE.md §26의 해당 항목이 선택 사항이다. **에이전트를 이 저장소에 복제하지 않는다** — 어댑터가 플러그인 배포를 권고하고, 복제는 중복 생성이다.
+**에이전트를 이 저장소에 복제하지 않는다** — 어댑터가 플러그인 배포를 권고하고, 복제는 중복 생성이다. 이 저장소의 `.claude/`는 계속 비어 있으며, 그래서 노드 A의 프로젝트 선언 action space는 여전히 0이다.
+
+**적용 순서 주의**: OS 스킬은 §6 하네스와 §13 검증기를 대체하지 않는다. 정본 판정·게이트·C1–C11은 이 저장소가 계속 갖는다.

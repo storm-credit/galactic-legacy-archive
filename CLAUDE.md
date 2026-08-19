@@ -435,7 +435,7 @@ python tools/promotion_review.py --check  # 낡았으면 실패 (CI가 실행)
 - 최소 도구·최소 컨텍스트·최소 권한을 적용한다.
 - **새 에이전트를 만들기 전에** 직접 작업·규칙·스킬로 충분한지 먼저 묻는다. 컨텍스트·도구·권한·증거·독립성 경계가 실재할 때만 에이전트로 만든다.
 - 현재 감사 결과와 밴드 색인은 [[local-action-space-audit-2026-08-19]]가 보유한다. 역할을 고를 때 그 §3 밴드를 진입점으로 쓴다.
-- 플러그인을 설치한 환경에서는 `/minimum-action-agent-os:os-preflight`(착수 전)와 `/minimum-action-agent-os:os-state`(상태 변경 후), `minimum-action-agent-os:independent-critic`(독립 검토)를 쓸 수 있다. 미설치 시 선택 사항이며, 그 자리는 §6 하네스·§15-3 독립 감사가 이미 맡는다.
+- 플러그인이 **user 스코프로 설치돼 있다** (`minimum-action-agent-os@storm-credit-agent-os` v0.1.1, 2026-08-19). `/minimum-action-agent-os:os-preflight`(착수 전), `/minimum-action-agent-os:os-state`(상태 변경 후), `minimum-action-agent-os:independent-critic`(독립 검토)를 쓸 수 있다. **이 셋은 §6 하네스·§15-3 독립 감사를 대체하지 않고 보완한다** — 정본 판정과 게이트는 계속 §6·§13이 갖는다.
 
 **도메인 정본은 항상 이 저장소가 갖는다.** OS는 "어떻게 일할지"만 규정하며 Canon·Spec·Freeze·원고를 덮어쓰지 않는다. 충돌 시 순서는 ① 작가의 현재 지시 ② 이 저장소의 정본 ③ OS 원칙이다.
 
