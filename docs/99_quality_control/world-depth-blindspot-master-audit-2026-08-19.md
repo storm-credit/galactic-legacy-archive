@@ -2,32 +2,26 @@
 
 Status: QUALITY-CONTROL — LIVING EXPANSION AUDIT
 Effective Authority: QC / does not amend canon by itself
-Owner Agents: A00 PM / X01 Logic / X04 Continuity / X06 Coverage / T01 World Science / P02 Economy / P05 Culture / P06 Factions / W06 Ordinary Life
+Owner Agents: A00 PM / X01 Logic / X04 Continuity / X06 Coverage / T01 World Science / P02 Economy / P05 Culture / P06 Factions / W06 Ordinary Life / A16 Red Team
 Last Reviewed: 2026-08-19
-Depends On: [[final-settings-bible-completion-audit-v3]], [[deferred-design-register-v2]], [[effective-canon-status-manifest-v1]], current world/faction/system bibles, 2026-08-19 author expansion directions
-Used By: post-completion world-depth expansion, PR #188 review, future settings-bible extensions
+Depends On: [[final-settings-bible-completion-audit-v3]], [[deferred-design-register-v2]], [[effective-canon-status-manifest-v1]], [[species-civilization-codex-master-architecture-v1]], [[planetary-ecology-biosphere-and-environmental-disaster-architecture-v1]], [[crime-smuggling-piracy-gray-market-and-justice-architecture-v1]], [[language-translation-and-intercultural-communication-architecture-v1]], [[faith-civic-movement-and-mutual-aid-organization-architecture-v1]]
+Used By: PR #188 review, future world-depth derivation, author-decision isolation, canon-promotion planning
 Canon Promotion: NOT AUTHORIZED BY THIS AUDIT
 Publication: NOT AUTHORIZED
 
 ---
 
-## 0. Why this audit exists after “settings bible complete”
+## 0. Why this audit still exists after “settings bible complete”
 
-[[final-settings-bible-completion-audit-v3]] correctly answered the question it was designed to answer:
+[[final-settings-bible-completion-audit-v3]] remains valid for its original question: the 1,100-episode story has enough governing authority to draft without inventing foundational physics/economy/military/core-plot rules during execution.
 
-> Can the 1,100-episode story be planned/written without inventing foundational rules for physics, economy, military, core society, institutions, collection, mystery and ending during execution?
-
-Its answer was YES.
-
-The author’s 2026-08-19 direction raises a **new depth requirement**:
+The author later raised a new quality bar:
 
 - the galaxy should feel like a genuinely large space-opera civilization;
-- it should support a real species/civilization codex;
-- whole-world brainstorming and blind-spot sweeps should continue even where the old completion gate had enough authority for prose production.
+- a real species/civilization codex should exist;
+- world design should keep receiving constructive brainstorming + adversarial blindspot review.
 
-Therefore:
-
-> old completion remains valid for the old production gate; this audit measures **encyclopedic/world-lived depth under the expanded author requirement**.
+Therefore this audit measures **expanded lived-galaxy / encyclopedic depth**, not whether the prior drafting gate was wrong.
 
 No previous canon is silently revoked.
 
@@ -35,262 +29,306 @@ No previous canon is silently revoked.
 
 ## 1. Rating model
 
-### GREEN — deep enough / governing authority strong
+### GREEN — governing authority already strong
+Core rules and enough lived examples exist. Future work is local derivation.
 
-Core rules plus enough lived/institutional examples exist. Future additions are local expansion.
+### BLUE-PASS — structural gap found, noncanon architecture now exists
+The foundational design problem is no longer blank. Canon facts, named instances, regional derivation or author approval may still be open.
 
-### AMBER — functional but thin
+### AMBER — usable but still materially thin
+A front-stage story would still require significant new governing decisions.
 
-Enough exists to support current plot, but a large galaxy would feel noticeably flatter if the domain became front-stage.
+### RED — foundational architecture still absent
+Front-stage use would force foundational invention during writing.
 
-### RED — structural depth gap
-
-The domain is nearly absent as a coherent setting layer; front-stage use would require inventing foundational rules during writing.
-
-### BLUE — actively being expanded in PR #188
-
-A gap was found and architecture is now being built in noncanon form.
+### HOLD — architecture exists but author decision is required before historical/canonical assignment
 
 ---
 
-# 2. Domain scorecard
+# 2. Updated Domain Scorecard
 
-| Domain | Rating | Existing strength | Missing depth / risk | Next action |
-|---|---|---|---|---|
-| lattice physics / travel / communication | GREEN | node hierarchy, delays, route law, combat constraints | exact local astronomy coupled by scene | maintain |
-| 612-system geography / population scale | GREEN | 612 systems, 48 clusters, 76b + ~6b irregular | species/demographic sublayer new | supplement, do not rewrite totals |
-| macro economy / trade / banking / war economy | GREEN | prices, wages, trade, IO, sanctions, shortages | biological/ecological externalities thin | link ecology later |
-| military doctrine / fleets / logistics | GREEN | roles, force scale, readiness, replacement, support | species ergonomics and middle-layer orgs new | cross-audit active |
-| maneuver-frame strategic logic | GREEN | why frames exist, roles, 07 limits | lineage/history and broad ecosystem needed | BLUE via prototype work |
-| frame industrial lineages / prototype ancestry | BLUE | 07 canon + noncanon lineup seeds | historical ancestry previously thin | PR #188 active |
-| ships / fleet ownership / support ecology | GREEN | first ship, fleet ownership, support rules | mixed-species service costs new | supplement active |
-| AI / composite personhood | GREEN | person/tool/office boundaries, ordinary life, late politics | AI cultural diversity can still grow | local expansion |
-| reproduction / genetics / continuity medicine | GREEN | G0–G5, gestation, cloning limits, rights | augmentation social ecology previously thin | BLUE |
-| posthuman / cybernetic societies | BLUE | strong medical/legal seeds | no unified class, service, military ecology before PR #188 | PR #188 active |
-| biological intelligent species | BLUE | personhood schema has room; faction taxonomy names species | no actual species codex previously | PR #188 active |
-| multi-species infrastructure | BLUE | no prior full baseline | ships/hospitals/schools/prisons/cockpits need service model | PR #188 active |
-| family / guardianship / class / care | GREEN | broad forms and rights | species-specific applications new | derive after species approval |
-| education / media / art / sport / holidays | GREEN | dedicated bibles | alien sensory/art/sport applications absent | later derivative layer |
-| religion / philosophy | AMBER | six broad traditions + secular ethics | named durable institutions/leaders and interspecies religious history thin | architecture pass |
-| civic / ideological movements | AMBER | rights/refusal/witness movements in later acts | durable organization ecology weak; earlier faction QC flagged it | architecture pass |
-| houses / dynastic lineages | BLUE | GA4 succession law and founding-house concepts | house-by-house material/institutional ecology thin | PR #188 active |
-| knight/service orders | BLUE | conceptually implied by guard/service institutions | no dedicated order ecosystem previously | PR #188 active |
-| local / frontier defense forces | BLUE | doctrine and mission references exist | independent institutional ecology previously shallow | PR #188 active |
-| mercenaries / gray companies | BLUE | GA2 mercenary ethics, Gray Layer seeds | legal/economic company ecology previously noncanon/thin | PR #188 active |
-| piracy / smuggling / black market / organized crime | AMBER | trade crisis, smugglers, pirate actors and gray economy exist | criminal institutions, markets, law enforcement and victim economy not unified | dedicated architecture recommended |
-| courts / policing / criminal justice | AMBER | law, detention, customs, custody and accountability appear per arc | ordinary civilian justice/policing system fragmented across docs | integrate with crime architecture |
-| languages / dialects / reader terminology | AMBER | reader register controls; GA8 translation/provenance strong | galaxy-wide everyday multilingual economy, legal/medical interpreting, non-auditory language thin | dedicated service architecture recommended |
-| planetary colonization / settlement history | AMBER | 612 inhabited systems, local governance, agriculture/industry tags | how worlds became habitable, settlement waves and indigenous biosphere policy weak | ecology/settlement architecture |
-| terraforming / biosphere engineering | RED | no coherent domain found | rules, timescale, costs, ethics and failure states absent | high-priority design |
-| non-sapient alien flora/fauna | RED | virtually no coherent codex/domain found | planets risk feeling like backdrops with human crops only | high-priority design |
-| planetary ecology / food webs / invasive species | RED | agriculture appears economically | ecological causality and native/introduced life absent | high-priority design |
-| climate / environmental disasters | AMBER→RED | shortages/disaster logistics exist; new multispecies doc adds generic disaster types | planetary drought, desertification, crop collapse, biosphere cascade lack governing bible | merge into ecology architecture |
-| agriculture / food production | AMBER | census/economy identify agriculture, food trade and shortages | crop ecology, species diets, soil/closed-loop biology thin | ecology link |
-| epidemiology / zoonosis / cross-species disease | RED | quarantine/medicine rules exist | no cross-species ecological disease framework | ecology + medical extension |
-| natural resources / environmental externalities | AMBER | mining/industry/trade exist | ecological damage, reclamation, habitat loss, planetary commons weak | ecology/economy link |
-| architecture / costume / visual language | GREEN | dedicated visual language authority | species-specific body-plan extensions new | derive after species design |
-| ordinary consumer technology / domestic life | GREEN/AMBER | many ordinary-life examples | species-specific domestic tech new | local derivation |
-| naming / phonetics | GREEN for current cast | collision/reader controls exist | species naming grammar not yet built | after species survives design |
-| deep-time archaeology / precursor civilizations | AMBER | Archive sites, old protocols, AXIOM proposal | biological/civilizational deep-time roster not yet defined | controlled species overlay |
-
----
-
-# 3. Highest-risk hidden gaps
-
-## GAP-A — Planets exist strategically, not biologically
-
-The setting knows:
-- where systems are;
-- what they produce;
-- what routes matter;
-- who governs them.
-
-It often does **not** yet know:
-- what native life exists;
-- what ecology supports settlement;
-- what people introduced;
-- what can go extinct;
-- what cannot be replaced by a fabricator;
-- what long-term environmental damage war/industry causes.
-
-Effect if ignored:
-- 612 systems become 612 labels rather than 612 lived worlds.
-
-Priority:
-- **S0 for expanded-world-depth goal, not a blocker for already-approved first drafting batch.**
+| Domain | Current rating | What now exists | What still remains |
+|---|---|---|---|
+| lattice physics / travel / communication | GREEN | node hierarchy, delays, route law, physical combat constraints | exact local astronomy when front-stage |
+| 612-system geography / population totals | GREEN | 612 systems, 48 clusters, 76.0b registered + ~6b irregular/mobile/stateless | species/ecology supplementary layers, not total rewrite |
+| macro economy / trade / banking / war economy | GREEN | prices, wages, IO, sanctions, shortages | regional ecological externalities as derived cases |
+| military doctrine / fleets / logistics | GREEN | force scale, readiness, replacement, support, faction doctrines | species-specific derivation when canonized |
+| maneuver-frame strategic logic | GREEN | why frames exist, roles, 07 limits, fleet primacy | local model lineage expansion |
+| foundational prototype ancestry | BLUE-PASS | numbered demonstrator-program architecture; success/result vs present-provenance axes; 07/AUXILIA/AXIOM boundaries | exact slot outcomes, dates, program name, canon promotion |
+| frame industrial ecosystem | BLUE-PASS | role-demand crosswalks and middle-layer organization links | named production models only when story/industry demand proves need |
+| AI / composite personhood | GREEN | person/tool/office separation, ordinary life, late politics | optional cultural diversity expansion |
+| reproduction / genetics / continuity medicine | GREEN | G0–G5, gestation, cloning, personhood limits | species-pair reproduction rules remain HOLD |
+| posthuman / cybernetic societies | BLUE-PASS | unified augmentation/cybernetic/genetic diversity architecture with cost and rights | named subcultures/corps only where story demands |
+| biological intelligent species | BLUE-PASS | S1/S2/S3 architecture, 7 nonhuman S1 working cards, 10 active S2 roles, 4 S3 roles, promotion gate | exact names/biologies/counts/home regions/canon status |
+| species ordinary-life diversity | BLUE-PASS | 28 role bundles spanning civilian/expert/political/anti-stereotype roles | select only necessary named people; no mass cast inflation |
+| multi-species infrastructure | BLUE-PASS | ships, housing, hospital, school, prison, rescue, public service and rights architecture + reference cases | regional capacity bands and front-stage implementations |
+| species naming / phonetics | BLUE-PASS | layered dual-name grammar and 7 working labels | external collision screen and canon approval |
+| species demographics | HOLD | DEM-A/B/C scenarios; DEM-B recommended reversible planning assumption | exact shares and macroregion assignments |
+| Imperial multi-species history | HOLD | IMP-A–D audited; IMP-D strongest minimum-retcon architecture | author decision before any founding/contact/history fact is canonized |
+| family / guardianship / class / care | GREEN | broad forms and rights | species-specific derived applications |
+| education / media / art / sport / holidays | GREEN | dedicated social bibles | species-specific sensory/body-plan examples when needed |
+| religion / philosophy | GREEN for doctrine architecture | six broad traditions + secular ethics already existed | named local traditions remain story-coupled |
+| faith institutions / civic movements | BLUE-PASS | 10 institutional archetypes with money, service, succession, coercive shadows | exact named bodies/leaders only when plot demands |
+| houses / dynastic lineages | BLUE-PASS | house/lineage/patronage/service architecture linked to GA4 law | exact houses, alliances and species composition require approval/story demand |
+| knight / service orders | BLUE-PASS | order archetypes + role-demand architecture | named orders and inherited machine claims only when justified |
+| local / frontier defense | BLUE-PASS | garrison/reserve/emergency-force architecture | named formations coupled to episodes/regions |
+| mercenary / gray companies | BLUE-PASS | mercenary/pirate/illicit network archetypes | canon organizations only after faction-need test |
+| piracy / smuggling / black market | BLUE-PASS | integrated crime/gray-market architecture | front-stage named networks and victim cases |
+| courts / policing / criminal justice | BLUE-PASS | customs, policing, insurance investigation, military jurisdiction, neutral arbitration integrated | local statutes/institutions by region |
+| languages / translation | BLUE-PASS | everyday translation, certified legal/medical/military interpreting, non-auditory channels, provenance/liability | actual species language details only for surviving species concepts |
+| planetary colonization / settlement | BLUE-PASS | ecology/settlement architecture now provides native/engineered/mixed biosphere logic | concrete settlement-wave examples for front-stage worlds |
+| terraforming / biosphere engineering | BLUE-PASS | timescale/cost/failure/ethics architecture exists | front-stage planet parameters |
+| non-sapient alien flora/fauna | BLUE-PASS | design rules and ecological function now exist | named organisms only for front-stage ecosystems |
+| food webs / invasive species | BLUE-PASS | governing ecology architecture exists | concrete regional examples |
+| climate / environmental disasters | BLUE-PASS | drought/desertification/crop/biosphere cascade and habitat failures integrated | no new GA disaster without author decision |
+| agriculture / food production ecology | BLUE-PASS | native/imported crop, closed-loop food, species diets and failure logic | local crop/food chains |
+| epidemiology / cross-species disease | BLUE-PASS | quarantine/ecological disease layer tied to medicine/species | specific pathogens only if story-relevant |
+| natural resources / environmental externalities | BLUE-PASS | extraction/reclamation/ecological damage/commons logic | front-stage industrial cases |
+| architecture / costume / visual language | GREEN | existing visual authority | body-plan extensions derived after species approval |
+| ordinary consumer/domestic technology | GREEN/BLUE-PASS | existing ordinary life + multi-species domestic service rules | named consumer products unnecessary unless plot-useful |
+| deep-time archaeology / precursor civilizations | BLUE-PASS | S3 portfolio + strict no-universal-precursor controls | exact extinct peoples, dates and AXIOM relation HOLD |
+| GA1–GA10 species integration | BLUE-PASS | exposure ladder and per-GA ceiling; no new grand act required | exact insertion into approved cards requires impact review |
 
 ---
 
-## GAP-B — Species without ecology would become character skins
+# 3. What Has Actually Been Closed in PR #188
 
-PR #188 fixes sapient species architecture, but intelligent species need evolutionary/ecological contexts.
+## CLOSED-A — species is no longer a cosmetic category
 
-Required link:
+Before this expansion, `species/personhood` existed as a field but biological peoples were not materially designed.
 
-```text
-star/planet/habitat conditions
-→ biosphere or engineered ecology
-→ body plan / metabolism
-→ settlement infrastructure
-→ culture/economy
-→ war/logistics
-```
+Now the branch provides:
+- species taxonomy;
+- S1/S2/S3 scale;
+- body/environment/medicine/ordinary-life schema;
+- faction separation;
+- infrastructure requirements;
+- military/logistics/mecha consequences;
+- anti-stereotype character bundles;
+- GA reveal discipline.
 
-Without this, species differences become arbitrary.
+This is an **architecture closure**, not canonization of the seven working labels.
 
----
+## CLOSED-B — planets no longer need to be strategic labels only
 
-## GAP-C — Agriculture is economic but not ecological
-
-Current economy can say a region exports food.
-
-Expanded world depth must also answer:
-- native versus imported crops;
-- closed habitat agriculture;
-- soil or substrate systems;
-- pollination/reproduction;
-- crop disease;
-- water cycles;
-- species-specific food chemistry;
-- war damage and recovery time.
-
-No need to simulate every farm. Need a governing architecture plus front-stage examples.
-
----
-
-## GAP-D — Crime appears as actors, not a full economy
-
-Smugglers, pirates, gray actors and covert contractors exist.
-
-Still thin:
-- stolen-goods laundering;
-- ship/frame title fraud;
-- identity markets;
-- counterfeit parts;
-- medical/implant black markets;
-- route-slot fraud;
-- debt enforcement;
-- protection rackets;
-- salvage crime;
-- cyber/record crime;
-- police/customs jurisdiction;
-- prisons and rehabilitation outside Academy context.
-
-This gap matters especially in GA2 and GA4.
-
----
-
-## GAP-E — Language is strong in mystery, weak in everyday infrastructure
-
-GA8 has translation, emulation, old language and provenance themes.
-
-But a multi-species galaxy needs earlier mundane rules for:
-- trade common languages;
-- code-switching;
-- machine translation;
-- certified legal/medical interpretation;
-- non-auditory language;
-- names/titles that do not map one-to-one;
-- translation latency/failure in battle;
-- language access as class.
-
-This should remain lightweight in prose while deep in author-side rules.
-
----
-
-## GAP-F — Faith traditions exist; institutions are thin
-
-The faith bible has philosophy and ritual families, which is good.
-
-The expanded setting still needs a **small number of durable institutional forms**:
-- memorial/service fraternities;
-- route pilgrim/hospitality networks;
-- maker/steward guild-temple hybrids;
-- witness/archive communities;
-- refusal/silence sanctuaries;
-- secular civic ethics institutions.
-
-Do not build one galactic church per belief.
-
----
-
-# 4. Priority order
-
-## Priority 1 — Ecology/Biosphere architecture
-
-One integrated source-of-truth document should cover:
-- naturally habitable vs engineered habitats;
-- biosphere types;
+[[planetary-ecology-biosphere-and-environmental-disaster-architecture-v1]] now provides the governing layer for:
+- natural / engineered / mixed biospheres;
 - terraforming;
-- flora/fauna design rules;
-- agriculture and food webs;
+- non-sapient life;
+- agriculture;
 - invasive species;
 - environmental disasters;
-- extinction/conservation;
-- disease ecology;
-- military/industrial ecological damage.
+- ecological disease;
+- war/industrial damage and recovery.
 
-This is the largest untouched foundational layer.
+Still needed:
+- front-stage planet examples, not 612 full encyclopedias.
 
-## Priority 2 — Crime / Gray Economy / Justice architecture
+## CLOSED-C — gray economy and justice now form one system
 
-Unify existing scattered criminal, smuggling, piracy, custody and enforcement seeds.
+[[crime-smuggling-piracy-gray-market-and-justice-architecture-v1]] prevents “pirate = random villain” design by tying illicit markets to:
+- sanctions;
+- title/provenance fraud;
+- counterfeit parts;
+- identity;
+- medicine;
+- route slots;
+- debt;
+- policing/customs/jurisdiction.
 
-## Priority 3 — Language / Translation architecture
+## CLOSED-D — translation no longer disappears behind a magic universal translator
 
-Generalize GA8 translation depth into ordinary multi-species society.
+[[language-translation-and-intercultural-communication-architecture-v1]] distinguishes:
+- high-quality routine translation;
+- certified/high-liability law, medicine and military communication;
+- non-auditory channels;
+- names/titles that do not map 1:1;
+- Archive/provenance consequences.
 
-## Priority 4 — Faith/Civic institution architecture
+## CLOSED-E — faith now has material institutions without inventing one galactic church
 
-Turn existing belief families into limited durable organizations without faction inflation.
+[[faith-civic-movement-and-mutual-aid-organization-architecture-v1]] turns existing philosophical families into plausible:
+- memorial trusts;
+- route hospitality;
+- repair covenants;
+- witness commons;
+- quiet sanctuaries;
+- mutual aid;
+- personhood/access rights;
+- biosphere coalitions;
+- veteran/survivor groups;
+- inter-species civic-access coalitions.
 
-## Priority 5 — Derived crosswalks
+Each has money/property/service/succession/shadow rather than moral purity.
 
-After the above:
-- species ↔ ecology;
-- planet ↔ food/resource;
-- crime ↔ mercenary/gray layer;
-- language ↔ species/Archive;
-- faith ↔ species/culture/faction.
+## CLOSED-F — species does not require a new story spine
 
----
+[[species-ga1-ga10-exposure-and-continuity-impact-audit-v1]] shows the layer fits existing engines:
+- GA1 background breadth only;
+- GA2 ship/contract ordinary life;
+- GA3 city/public service;
+- GA4 law/history;
+- GA5 mixed-fleet logistics;
+- GA6 evacuation payoff;
+- GA7 species-independent faction sides;
+- GA8 deep-time/provenance;
+- GA9 classification;
+- GA10 plural ordinary-life payoff.
 
-# 5. Anti-overdesign rule
-
-The author asked for deeper world design, not an encyclopedia that delays all storytelling forever.
-
-Therefore:
-
-1. build governing architectures first;
-2. only front-stage worlds/species/organizations get full entries;
-3. background worlds use deterministic templates/bands;
-4. no more than one source-of-truth file per domain;
-5. new detail must connect to at least two of: story, character, economy, military, mystery, ordinary life;
-6. if a detail has no plausible story consequence, keep it as a generator parameter or omit it.
-
----
-
-# 6. Canon-change boundary
-
-Safe without author decision:
-- noncanon architecture;
-- role matrices;
-- gap audits;
-- reversible scenarios;
-- generic ecology/justice/language rules that do not assign facts to existing characters/events.
-
-Author decision required before canonizing:
-- new sapient species names/biologies;
-- Imperial founding history changes;
-- existing character species reassignment;
-- named homeworlds that alter chronology;
-- new core factions;
-- a new GA event caused by environmental disaster;
-- AXIOM precursor origin;
-- any change to existing irreversible event.
+No new grand act is required.
 
 ---
 
-## 7. Current verdict
+# 4. Remaining High-Ripple Decisions — NOT SAFE TO AUTO-CANONIZE
 
-> **The old setting bible remains production-complete, but the expanded “lived galaxy / species-codex” standard reveals one major untouched layer: planetary ecology and non-sapient life. Crime/justice, language/translation and faith institutions are secondary thin layers. These should now be deepened in that order.**
+## DEC-01 — Imperial historical model
+
+Recommended:
+- IMP-D layered transformation.
+
+Meaning:
+- early Imperial core human-dominant/human-led;
+- several nonhuman civilizations independently predate Imperial contact;
+- centuries of treaty, conflict, migration and service integration create the genuinely multi-species present Empire;
+- human-default institutional path dependence remains visible.
+
+Why HOLD:
+- affects Founding Covenant, houses, law, language, standards and GA4 legitimacy.
+
+## DEC-02 — demographic model
+
+Working assumption:
+- DEM-B: human/human-derived 50–60%, core nonhuman combined 30–40%, regional/rare 8–15%, no single nonhuman necessarily above 10–12%.
+
+Why HOLD:
+- exact percentages are not required for current safe design and would propagate into 612-system data.
+
+## DEC-03 — seven S1 working species
+
+Current internal handles:
+- Braxi;
+- Seia;
+- Numar;
+- Ivra;
+- Tesar;
+- Kelik;
+- Verin.
+
+Why HOLD:
+- names, exact biological envelopes, home regions and counts are proposal-level.
+
+## DEC-04 — Verin classification
+
+Open:
+- independent engineered species;
+- human-derived engineered clade.
+
+Why important:
+- determines whether the S1 portfolio still contains enough genuinely independent nonhuman origins.
+
+## DEC-05 — interspecies reproduction
+
+Do not default to Star-Wars-style universal biological compatibility.
+
+Possible project rule:
+- most independent species cannot reproduce biologically together;
+- advanced medicine can support some family/reproductive arrangements case-by-case;
+- human-derived clades may have broader compatibility;
+- family/kinship does not require shared genetics.
+
+Exact rule remains HOLD.
+
+## DEC-06 — exact first appearances
+
+The exposure ceiling is designed, but approved scene cards have not been rewritten.
+
+Exact episode insertion requires:
+- card-level need;
+- character load check;
+- continuity impact;
+- author approval if material events change.
+
+---
+
+# 5. Remaining Work That Is Safe and Derived
+
+These are not new foundational design gaps.
+
+### D1 — front-stage ecological reference worlds
+Build a small portfolio of representative worlds/habitats:
+- naturally habitable mixed biosphere;
+- heavily engineered settlement;
+- closed habitat;
+- damaged/recovery world;
+- extreme-species home environment.
+
+No need to write 612 ecosystems.
+
+### D2 — macroregion species/service distribution scaffold
+Add supplementary planning bands by Core/Inner/Middle/Frontier rather than exact ethnic counts for every system.
+
+### D3 — first mixed-species ship cast/reference package
+Use 2–3 species and existing GA2 functions to prove ordinary operation without modifying cards yet.
+
+### D4 — external naming collision check
+Run before any working species label is promoted.
+
+### D5 — prototype ↔ species/ergonomics cross-audit
+Test whether only a small subset of the 01–20 demonstrator questions need cross-body/service compatibility pressure.
+
+### D6 — independent critique / continuity promotion review
+Required before moving any of these proposals toward effective canon.
+
+---
+
+# 6. Anti-Overdesign Control
+
+The expanded world is **not** finished by maximizing document count.
+
+Rules:
+1. architecture once, derivation many times;
+2. only front-stage worlds/species/organizations receive full entries;
+3. background systems use bands/templates;
+4. a new detail must affect at least two of story, character, economy, military, mystery, ordinary life;
+5. species names should be reused before new ones are introduced;
+6. no more than 5–6 species names central in one subact;
+7. GA6+ should pay off known diversity, not continuously add lore;
+8. no universal precursor and no species-specific hero-machine inflation.
+
+---
+
+# 7. Expanded-Depth Verdict
+
+### Foundational architecture status
+
+> **PASS WITH AUTHOR-DECISION HOLDS**
+
+The previous RED/AMBER structural gaps for:
+- biological intelligent species;
+- multi-species infrastructure;
+- planetary ecology/non-sapient life;
+- crime/justice;
+- language/translation;
+- faith/civic organizations;
+- houses/orders/gray/local-force middle layer;
+- posthuman/cybernetic ecology;
+- prototype ancestry
+
+now have coherent NONCANON architecture on PR #188.
+
+### What this does NOT mean
+
+It does not mean:
+- the seven species are canon;
+- IMP-D is canon;
+- every planet has been designed;
+- every S2/S3 species must exist;
+- existing scene cards have changed;
+- manuscript prose may be silently rewritten;
+- publication is authorized.
+
+### Next true bottleneck
+
+The bottleneck has moved from **“world architecture missing”** to:
+
+> **author decisions on high-ripple history/species boundaries + selective front-stage derivation + independent promotion audit.**
