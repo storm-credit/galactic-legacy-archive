@@ -3,437 +3,599 @@
 Status: QUALITY-CONTROL — NONCANON BRANCH AUDIT
 Effective Authority: QC only
 Owner Agents: O01 Canon / O02 Gate / X01 Logic / X02 Reader Memory / X04 Continuity / X06 Coverage / A16 Red Team
-Last Reviewed: 2026-08-19
-Depends On: all PR #188 proposal/QC documents through [[species-world-expansion-author-decision-gate-v2]]
+Last Reviewed: 2026-08-20
+Depends On: all PR #188 proposal/QC documents through [[species-world-expansion-author-decision-gate-v2]], [[prototype-program-author-decision-gate-v1]], [[species-prototype-crossdomain-boundary-audit-v1]], [[prototype-canon-promotion-impact-map-v1]]
 Used By: PR #188 review, future promotion split, next-chat handoff
 Canon Promotion: NOT AUTHORIZED
 Publication: NOT AUTHORIZED
 
+---
+
 ## 1. Audit question
 
-Does PR #188 now form one internally coherent NONCANON expansion layer, or have the prototype/species/ecology/faction/naming documents begun contradicting each other or current main authority?
+Does PR #188 now form one internally coherent NONCANON expansion layer after:
+- species portfolio pruning;
+- GA2/GA3 exposure revision;
+- prototype-program industrial-history design;
+- exact P01–P20 stress allocation;
+- 07 designation/provenance options;
+- frame reuse pruning;
+- protagonist-absence audits?
 
-Result:
+Current result:
 
-> **PASS WITH EXPLICIT HOLDS — no S0 internal contradiction found.**
+> **PASS WITH EXPLICIT HOLDS — no S0 internal contradiction found after latest propagation fixes.**
 
-The branch contains a large amount of new design, but the governing boundaries remain consistent:
-- existing main canon/spec/manuscript is not edited;
-- new species facts remain proposal-level;
-- history/population/naming decisions are isolated rather than silently canonized;
-- 07/AXIOM and GA1–GA10 boundaries remain intact.
+Important:
+- older proposal files preserve exploration history;
+- the **latest decision gates + pruning/propagation audits control PR #188 recommendation state**;
+- proposal existence does not create canon.
 
-## 2. Git-level safety finding
+---
 
-At the latest compare before this audit:
-- branch was ahead of main and `behind_by=0`;
-- every changed path was an **added proposal/QC file**;
-- there were no modifications or deletions to existing main files in PR #188.
+# 2. Git-level safety
 
-Interpretation:
-- current canon text has not been silently rewritten;
-- merging PR #188 would add proposal/QC material to main, not promote its content to canon by itself;
-- final merge still requires author approval under project rules.
+Latest verified compare before this refresh:
+- base `main` = `0fd812b25e70ad83fe20fd267d9d19a2499d5632`;
+- branch ahead, `behind_by=0`;
+- changed paths are additions only at that checkpoint;
+- existing main canon/manuscript files are not modified or deleted by PR #188.
 
-## 3. Population and geography invariants
+Current PR policy:
+- Draft remains review archive;
+- WHOLE-PR canon promotion = REJECT;
+- final merge requires explicit author instruction;
+- future canon changes should be narrow CP packages.
 
-### Locked values checked
+---
 
+# 3. Population / geography invariants
+
+Existing scale remains unchanged:
 - 612 inhabited systems;
 - 48 clusters;
 - 76.0b registered population;
-- ~6b irregular/mobile/stateless population;
-- Core: 24 / 24.0b;
-- Inner: 96 / 25.0b;
-- Middle: 180 / 18.0b;
-- Frontier: 312 / 9.0b.
+- ~6b irregular/mobile/stateless;
+- Core 24 / 24.0b;
+- Inner 96 / 25.0b;
+- Middle 180 / 18.0b;
+- Frontier 312 / 9.0b.
 
-Finding:
-- no PR #188 proposal changes these totals.
+PR #188 does not change those totals.
 
-### Demographic scenario check
-
-DEM-B uses ranges:
+DEM-B remains a reversible scenario band only:
 - human/human-derived 50–60%;
-- core nonhuman combined 30–40%;
-- regional/rare 8–15%.
-
-Potential ambiguity found:
-- independent range maxima can sum above 100%.
-
-Correction already encoded in [[species-world-expansion-author-decision-gate-v2]]:
-- ranges are scenario bands, not independent additive maxima;
-- any instantiated demographic mix must sum to 100%;
-- `55/35/10` may be used only as a calculation fixture.
+- core/recurring nonhuman combined roughly 30–40%;
+- regional/rare roughly 8–15%;
+- actual instantiated values must sum to 100%.
 
 Verdict:
-- **PASS after clarification.**
+- **PASS / exact demographic canon HOLD.**
 
-## 4. Settlement-sphere terminology conflict
+---
 
-Existing main authority uses:
+# 4. `Human Lattice Sphere` terminology
+
+Existing main uses:
 - `인류 정착격자권 / Human Lattice Sphere`.
 
-PR #188 proposes a genuinely multi-species present.
+Latest recommendation:
+- if A4/IMP-D is approved, preserve this as a historical human-core legacy term;
+- add one modern reader-safe neutral formal/common term later;
+- allow limited contested/legacy usage by provenance/ideology.
 
-This is a real semantic/historical conflict, not a numerical contradiction.
-
-Resolution state:
-- **HOLD isolated in Decision G**.
-
-Recommended future resolution:
-- retain `Human Lattice Sphere` as historical/Core legacy terminology under IMP-D;
-- establish one modern neutral formal/common name if author approves;
-- do not overwrite the old term as a mere typo.
+No replacement term is currently approved.
 
 Verdict:
-- **PASS WITH AUTHOR HOLD.**
+- **REAL SEMANTIC/HISTORICAL CONFLICT ISOLATED IN AUTHOR GATE A/G.**
 
-## 5. Species portfolio-count consistency
+---
 
-Master planning target:
-- S1 core: roughly 6–8 reader-important species/peoples;
-- S2: 10–15 regional;
-- S3: 3–6 rare/isolated/extinct/disputed.
+# 5. Species portfolio — latest tier state
 
-Current branch:
-- humanity/human-derived anchor + seven nonhuman functional S1 slots = 8 top-level core entries if humanity is counted;
-- S2 active 10 + reserve 4 + one cut/merge;
-- S3 functional candidates 4.
+Older branch documents experimented with humanity + seven nonhuman S1 functional slots.
 
-Finding:
-- all are within the original planning envelope.
+Latest pruning supersedes the **equal-core interpretation**.
 
-Important:
-- S1-08 may become human-derived instead of independently nonhuman.
-- if so, total biological-origin diversity changes but the reader-memory envelope does not automatically require replacement.
+## Strong core candidates
+- S1-03 low-g pressure/vibration-sensitive;
+- S1-04 fluid-supported/amphibious;
+- S1-05 obligate symbiotic one-person biology;
+- S1-06 long-lived radial five-limb.
 
-Verdict:
-- **PASS.**
+## Conditional core
+- S1-02 high-g compact differentiated four-limb;
+- S1-08 engineered developmental lineage.
 
-## 6. Naming consistency
+## Regional-major demotion
+- S1-07 electrosensory anchored → S2 candidate.
 
-Problem:
-- early proposal files use aliases Braxi / Seia / Numar / Ivra / Tesar / Kelik / Verin.
-- external collision screening later rejected or reopened several aliases.
+Therefore:
 
-Control now in force:
-- stable identities are S1-02 through S1-08;
-- [[species-working-name-status-overlay-v1]] explicitly maps old aliases to slot IDs;
-- [[species-replacement-name-second-pass-2026-08-19]] holds final naming rather than forcing churn;
-- [[species-world-expansion-author-decision-gate-v2]] no longer asks the author to approve the old names.
-
-Finding:
-- old labels are stale aliases, not contradictory biology.
-
-Risk:
-- a future agent could read an older file without the overlay.
-
-Mitigation:
-- promotion/handoff should list overlay as mandatory read;
-- one atomic alias migration before any canon-promotion split.
+> `seven designed functional concepts` may remain in branch history, but `seven equal recurring core species` is no longer the recommendation.
 
 Verdict:
-- **PASS WITH NAMING HOLD.**
+- **PASS AFTER PRUNING PROPAGATION.**
 
-## 7. Species ≠ faction consistency
+---
 
-Checked across:
-- species master architecture;
-- faction distribution crosswalk;
-- faith/civic organizations;
-- houses/orders/mercenaries/local defense;
-- character role bundles;
-- GA exposure audit.
+# 6. Species exposure — latest state
 
-Shared rule remains consistent:
-- biological species does not determine state/faction/culture/religion/class/loyalty;
-- same species must appear across different political contexts;
-- a species-majority polity does not represent the whole species.
+GA1:
+- X0 only by default.
 
-No file authorizes one species = one empire/faction.
+GA2:
+- S1-03 ordinary caregiver/family role first;
+- S1-05 ordinary paid support/service role second.
+
+GA3 early:
+- reuse S1-03/S1-05;
+- no mandatory new species.
+
+GA3 middle/late:
+- S1-04 ordinary city exposure;
+- S1-06 young ordinary civic/municipal seed.
+
+GA4:
+- deepen known legal/history effects.
+
+GA5:
+- reuse known populations; regional S2 can enter by actual route/fleet need.
+
+GA6:
+- new-core introduction freeze.
+
+GA7:
+- species cannot map to war sides.
+
+GA8:
+- deep history/S3 layer opens only after present-day ordinary people are familiar.
+
+GA9–10:
+- reuse/payoff; no novelty pressure.
+
+Old GA3 S1-02 default insertion is superseded as a recommendation.
 
 Verdict:
 - **PASS.**
 
-## 8. Species ≠ dedicated mecha consistency
+---
 
-Checked across:
-- species role matrix;
-- prototype cards;
-- organization→frame crosswalk;
-- prototype↔species ergonomics audit.
+# 7. First-frontstage minimum-fact control
 
-Shared rule:
-1. use standard equipment if possible;
-2. use seat/software/adapter module next;
-3. dedicated cockpit/environment module if necessary;
-4. separate chassis only after repeated mission/production/service demand proves it.
+S1-03 and S1-05 now have explicit first-exposure fact ceilings.
 
-No automatic one-species/one-frame roster is authorized.
+S1-03:
+- ordinary caregiver/person first;
+- one rest/acceleration/vibration cost;
+- no machine-diagnosis superpower;
+- homeworld/reproduction/deep history HOLD.
+
+S1-05:
+- ordinary paid worker/person first;
+- one integrated-person medical/food support fact;
+- no hive-mind/dual-personality reveal;
+- reproduction/deep origin/legal edge cases HOLD.
+
+Verdict:
+- **PASS — PEOPLE BEFORE ENCYCLOPEDIA.**
+
+---
+
+# 8. Anti-monoculture / civilization-shape consistency
+
+Strong-core candidates use intentionally different civilization shapes:
+- S1-03 distributed low-g habitat network + route diaspora;
+- S1-04 fluid municipal/city network + mixed dry diaspora;
+- S1-05 diaspora-heavy integrated people with multiple cultural/medical centers;
+- S1-06 old regional institutional traditions + diaspora + generational reform.
+
+Shared controls:
+- species != state/faction/culture;
+- no species-wide spokesperson;
+- internal politics not reducible to biology;
+- non-utilitarian culture required;
+- communities act without Rian.
 
 Verdict:
 - **PASS.**
 
-## 9. 01–20 prototype consistency
+---
 
-Stable proposal rule:
-- numbered objects are historical demonstrator slots/test articles, not a modern 20-machine lineup;
-- success, partial success, failure and cancellation coexist;
-- developmental result and present provenance are separate axes;
-- not a collectible scavenger checklist.
+# 9. Naming state
 
-Species cross-audit does not redefine the program.
+Old aliases remain NONCANON historical handles and several failed external collision screening.
 
-It only marks:
-- H03/H09/H15/H17 as species-sensitive secondary pressures;
-- H07 as strongest direct service/interface connection.
-
-07 remains:
-- service/interoperability ancestry;
-- not universal species machine;
-- not the strongest frame;
-- not proven multi-species pilot-certified.
-
-AXIOM remains:
-- separate HOLD;
-- not universal master blueprint.
+Current control:
+- stable IDs only;
+- no seven-name simultaneous migration now;
+- name only species that survive tier/story demand;
+- exact Korean + Latin internal/external screen before promotion;
+- one atomic migration per active naming batch.
 
 Verdict:
-- **PASS.**
+- **NAMING HOLD / NO CURRENT BLOCKER.**
 
-## 10. 07 designation/origin conflict remains pre-existing
+---
 
-Known existing tension:
-- `CTF-13/07`;
-- `AUX-07`;
-- `AUXILIA-0` lineage/origin language.
+# 10. Species / posthuman / AI boundary
 
-PR #188 does not silently resolve this.
-
-The prototype architecture deliberately avoids naming the whole 01–20 program AUXILIA.
-
-Verdict:
-- **PASS / PRE-EXISTING HOLD PRESERVED.**
-
-## 11. Posthuman / cybernetic / species boundary consistency
-
-Shared taxonomy:
-- baseline humans;
-- human-derived genetic/posthuman lineages;
-- cybernetic/prosthetic/embodiment states;
+Current separation remains consistent:
 - biological independent species;
-- engineered biological lineages;
-- AI/composite persons.
+- human-derived genetic/posthuman lineages;
+- cybernetic/embodiment states;
+- AI/composite persons;
+- engineered biological lineages.
 
-Important:
-- cybernetic state is not itself a species;
-- AI/composite persons are not counted as biological species;
-- S1-08 ontology remains explicitly unresolved.
+S1-08 is the only major ontology HOLD:
+- D1 independent engineered nonhuman → conditional S1 candidate;
+- D2 human-derived → move to posthuman layer.
+
+Do not invent a replacement core species automatically if D2 is chosen.
 
 Verdict:
 - **PASS WITH S1-08 HOLD.**
 
-## 12. Genetics and reproduction consistency
+---
 
-Existing G0–G5 genetic medicine remains governing authority.
+# 11. Species / equipment boundary
 
-PR #188 does not authorize:
-- deterministic genius/loyalty bloodlines;
-- universal hidden genetic origin;
-- universal cross-species reproduction.
+Latest frame/org/species audits agree:
+1. shared chassis first;
+2. cockpit/seat/software/environment adapter;
+3. mission package/permanent refit;
+4. separate chassis only when load frame + 2 major systems + independent service/certification/loss path are proven.
 
-Recommended E2 rule remains proposal-only:
-- independent species mostly genetically incompatible;
-- limited assisted reproduction only where actual biology permits;
-- human-derived clades potentially broader compatibility;
-- family/guardianship not defined by genetics.
+Species existence does not imply dedicated equipment lineage.
 
-Verdict:
-- **PASS WITH AUTHOR HOLD.**
-
-## 13. Multi-species infrastructure consistency
-
-Shared architecture:
-- equal personhood does not imply every site supports every physiology;
-- MS0–MS3 describe service capability, not citizen worth;
-- adaptation consumes mass, volume, power, staff, training and money;
-- emergency scarcity remains real;
-- operational separation by environment must not silently become political segregation.
-
-Reference ship and Ardis district both implement the same rule.
-
-Macroregion scaffold is compatible:
-- Core/Inner generally higher service density;
-- Middle variable;
-- Frontier may be less mixed per settlement because support itself is costly.
+S1-07 demotion strengthens this control.
 
 Verdict:
 - **PASS.**
 
-## 14. Planetary ecology consistency
+---
 
-Architecture and five reference cases agree on:
-- native/engineered/mixed/closed/damaged/extreme ecology;
-- no “breathable = edible/safe” shortcut;
-- terraforming is slow, maintained infrastructure;
-- ecological damage can outlast wars;
-- native life is usually ecologically ordinary, not monster-of-the-week content;
-- no requirement to design 612 biospheres.
+# 12. Maneuver-frame candidate count / reuse consistency
 
-Front-stage derivation rule remains:
-- only worlds that enter story receive full ecological packets.
+Historical `28 candidate / need +4` gap is no longer a current shortage after later lineup expansion.
+
+Current issue:
+- role→chassis overclassification and duplication.
+
+Latest reuse audit keeps the large M-row surface as a **review pool**, not a promise of independent chassis.
+
+Strong/base chassis-proof candidates include:
+- M002;
+- M005;
+- M007;
+- M010;
+- M014;
+- M018;
+- M022;
+- M024;
+- plus existing 07.
+
+Many M029+ roles are variant/reuse/ship-module-first.
+
+Verdict:
+- **PASS / NEW MODEL CREATION BLOCKED UNTIL REUSE PROOF FAILS.**
+
+---
+
+# 13. Prototype program — latest architecture
+
+The current recommendation is **not** a 20-machine legendary set.
+
+### Structural model
+- distributed experimental authorization umbrella;
+- multiple contractors/regions/institutions;
+- numbered slot != manufacturer/model;
+- some slots not full frames.
+
+### Historical origin
+Recommended H-E layered crisis:
+
+```text
+relay/habitat expansion
+→ contractor/regional fragmentation
+→ numbered competitive experiments
+→ node/security crisis militarizes part of program
+→ reconstruction selects usable lessons
+→ Era-2 standardization
+```
+
+### Engineering-result philosophy
+Current Option-B stress distribution:
+- O0 3;
+- O1 5;
+- O2 6;
+- O3 5;
+- O4 1.
+
+### Modern ancestry
+- 3–5 O3 whole-lineage successes sufficient;
+- many O1/O2 lessons survive;
+- modern L01–L08 recombine roots rather than map one-to-one.
+
+Verdict:
+- **PASS FOR NONCANON / AUTHOR DECISION HOLD.**
+
+---
+
+# 14. P01–P20 stress map consistency
+
+Current internal Option-B mapping is coherent after redundancy audit.
+
+Critical red pairs:
+- P07 vs P17: physical/service emergency access vs later scoped/auditable authority;
+- P06 vs P18: damaged-article repairability vs whole weak-logistics ecology;
+- P03 vs P13: failed general operational coupling vs exceptional narrow non-scalable test envelope.
+
+No exact slot map is canon.
+
+Recommended author lock order:
+1. approve outcome philosophy before exact mapping;
+2. exact P-map later if still useful.
+
+Verdict:
+- **PASS WITH REDUNDANCY CONTROLS.**
+
+---
+
+# 15. Prototype survival / relic-hunt control
+
+Recommended S-B present pressure:
+- R0 4;
+- R1 5;
+- R2 6;
+- R3 operational rebuilt historical article **1**;
+- R4 2;
+- R5 2.
+
+If 07 historical-slot reconciliation is approved:
+- P07 may be sole default R3 candidate.
+
+Other O3 roots:
+- prefer descendant-only R2.
+
+P13 O4:
+- prefer sealed/fragment/disputed;
+- operational R3 rejected by default.
+
+Verdict:
+- **PASS — NO 01–20 TREASURE HUNT.**
+
+---
+
+# 16. 07 designation / provenance state
+
+Existing accepted identifiers:
+- `CTF-13/07` school/asset layer;
+- `AUX-07` current administrative registry;
+- `AUXILIA-0` hidden service/intervention lineage wording;
+- `07호` everyday reader-facing name.
+
+Latest recommended proposal if numbered direction is approved:
+
+```text
+Historical Slot 07
+→ AUXILIA-0 service/intervention technical lineage/workstream
+→ rebuild/reclassification/military adaptation
+→ AUX-07 current registry
+→ CTF-13/07 Academy asset
+→ 07호
+```
+
+This is **NOT canonized**.
+
+Controls:
+- AUXILIA-0 does not automatically mean Prototype 0;
+- not all numbered slots are AUXILIA;
+- 06/08 not sister machines by default;
+- current hull need not be 100% original metal.
+
+Verdict:
+- **RECONCILIATION OPTION READY / AUTHOR HOLD.**
+
+---
+
+# 17. 07 physical-envelope drift
+
+Pre-existing values:
+- first-frame bible: `10.8 m provisional / 41 t opening configuration`;
+- opening operational state + current entity hub: `11.6 m / 48–57 t`.
+
+Latest audit finding:
+- old smaller value is localized to the provisional first-frame calibration;
+- later execution state + entity hub agree on larger value.
+
+Recommendation:
+- future narrow S2 correction: `11.6 m / 48–57 t` supersedes stale provisional values;
+- do not invent old P07 physical configuration solely to save 10.8/41.
+
+No canon file has been patched by #188.
+
+Verdict:
+- **NARROW S2 DRIFT / SEPARATE AUTHOR-CONTROLLED PATCH.**
+
+---
+
+# 18. Prototype reveal / story architecture
+
+Existing locked cards already teach the needed grammar.
+
+GA1:
+- 07 anomaly.
+
+GA2 061:
+- lineage distributed through parts/labor/credentials/rights.
+
+GA2 open-service accident:
+- failure becomes safety/governance/medical history.
+
+GA2 Silex + GA4:
+- legacy authority can be bounded without sovereignty.
+
+GA3:
+- success becomes reproducible production/institutions.
+
+GA5–7:
+- technical inheritance crosses political sides; no prototype hunt.
+
+GA8:
+- conflicting archive/provenance machinery already supports full historical reconstruction.
+
+Verdict:
+- **NO NEW PROTOTYPE EXPOSITION ARC REQUIRED.**
+
+---
+
+# 19. Species × prototype boundary
+
+Cross-domain audit locks:
+- species diversity can add interoperability pressure but is not hidden program origin;
+- P07 is not secret universal alien-compatible frame;
+- no core species gets automatic P-lineage;
+- P13 is not a superior-species pilot artifact;
+- S1-08 is not a product of the maneuver-frame program;
+- AXIOM is not universal alien source of P01–P20.
+
+Approvals can be independent.
 
 Verdict:
 - **PASS.**
 
-## 15. Crime / gray economy / civic institutions consistency
+---
 
-Crime architecture and faith/civic architecture both obey:
-- institutions require money, property, labor, jurisdiction/succession;
-- morally positive service does not imply moral purity;
-- illicit systems arise from real gaps in sanctions, certification, medicine, title, route and identity;
-- organizations act independently of Rian.
+# 20. Protagonist / ensemble consistency
 
-No gray group or civic movement is automatically granted a dedicated frame/fleet.
+Existing canon and new QC agree:
+- Rian remains central but does not generate all causality;
+- major people/factions plan/fail/succeed while he is absent;
+- front-stage new organization/species must pass a 10-episode Rian-removal test.
 
-Verdict:
-- **PASS.**
-
-## 16. Language / translation consistency
-
-Shared rule:
-- routine translation can be excellent;
-- legal, medical, military and historical translation preserves liability/provenance;
-- non-auditory species channels require interface/interpretation rather than magical universalization;
-- public reader-facing name remains simple.
-
-Naming hold is compatible with this because slot IDs are author-side only, not reader-facing canon.
+Asset controls:
+- Rian: 07 lineage enough by default;
+- Ern: signature hull/custom/rebuild possible, historical prototype not required;
+- Haren: route/fleet/logistics identity, no compensatory prototype frame;
+- Nera: technical commons/standards, not prototype stable;
+- Mia: service/medical assets;
+- Serin: provenance/records;
+- Aurel: institutional architecture.
 
 Verdict:
-- **PASS.**
+- **PASS / HERO-MACHINE FLOOD CONTROLLED.**
 
-## 17. GA1–GA10 continuity consistency
+---
 
-No existing approved scene card has been changed.
+# 21. Author-decision packets now authoritative inside PR #188
 
-Exposure ceiling:
-- GA1: X0 background only by default;
-- GA2: first 2 S1 recurring ordinary people;
-- GA3: normalization in city/public service;
-- GA4: law/history only after ordinary coexistence is established;
-- GA5: mixed-fleet logistics;
-- GA6: no new species, evacuation payoff;
-- GA7: same species across multiple sides;
-- GA8: S3/deep-history layer;
-- GA9: classification/standardization;
-- GA10: no novelty push, ordinary plural ending.
+### Species
+`docs/00_project/species-world-expansion-author-decision-gate-v2.md`
 
-This preserves existing act engines rather than adding a species subplot.
+Latest high-ripple package:
+1. A4/IMP-D?
+2. Human Lattice Sphere → historical term + modern neutral term?
+3. 4 strong / 2 conditional / 1 S2 tier structure?
+4. S1-08 D1 independent nonhuman or D2 human-derived?
 
-Verdict:
-- **PASS.**
+### Prototype
+`docs/00_project/prototype-program-author-decision-gate-v1.md`
 
-## 18. Reader-memory consistency
+Latest high-ripple package:
+1. distributed experimental umbrella?
+2. H-E layered crisis origin?
+3. failure/partial-heavy O0/O1/O2/O3/O4 philosophy?
+4. historical Slot-07 reconciliation?
 
-Potential load:
-- seven S1 slots;
-- up to ten active S2 concepts;
-- four S3 functions;
-- existing huge cast/faction/mecha vocabulary.
+No author ACCEPTED record exists yet for these proposal decisions.
 
-Controls agree across files:
-- not all slots are named/foregrounded simultaneously;
-- 5–6 species names max central in one subact;
-- reuse before introduction;
-- GA6+ shifts toward payoff;
-- old aliases are not reader canon.
+---
 
-Verdict:
-- **PASS IF EXPOSURE CEILINGS ARE ENFORCED.**
+# 22. Promotion structure
 
-## 19. Main-authority modification audit
+WHOLE-PR PROMOTION:
+- **REJECT.**
 
-At audit time PR #188 compare showed only newly added paths.
+Future narrow packages only.
 
-Therefore it has not changed:
-- current Canon Constitution/control docs;
-- decision log;
-- effective canon manifest;
-- existing world bibles;
-- scene cards;
-- manuscript;
-- code/tools/data.
+Species:
+- CP-A history/name;
+- CP-B approved species facts;
+- CP-C exact episode integration.
 
-This is intentional.
+Prototype:
+- CP-D1 program architecture/history;
+- CP-D2 07 provenance;
+- CP-D2b physical envelope;
+- CP-D3 exact outcome facts;
+- CP-D4 selective historical packets;
+- CP-D5 exact physical artifacts only when story demands them.
 
-Future canon promotion must happen through a smaller follow-up change set after author decisions, not by pretending proposal presence equals authority.
+No package automatically promotes manuscript/publication state.
 
-Verdict:
-- **PASS.**
+---
 
-## 20. Open issue register
+# 23. Open HOLD register — latest
 
-### HOLD-01 — Imperial history
-Decision A / IMP-D.
+### Species
+- S-H01 IMP-D history;
+- S-H02 Human Lattice legacy/current naming;
+- S-H03 exact demographics;
+- S-H04 individual core-species canonization;
+- S-H05 S1-08 ontology;
+- S-H06 reproduction;
+- S-H07 final names;
+- S-H08 exact first appearances.
 
-### HOLD-02 — Human Lattice Sphere terminology
-Decision G; coupled to IMP-D.
+### Prototype / frame
+- P-H01 distributed umbrella canon;
+- P-H02 exact historical origin chronology;
+- P-H03 exact P01–P20 outcome map;
+- P-H04 07 historical Slot-07 relation;
+- P-H05 exact survivor ownership/location;
+- P-H06 AXIOM relation;
+- P-H07 07 physical-envelope canon correction;
+- P-H08 exact sponsors/manufacturers/casualties/public codes.
 
-### HOLD-03 — exact demographics
-DEM-B range only; no fixed percentage.
+No HOLD is represented as completed canon fact.
 
-### HOLD-04 — seven functional S1 portfolio
-Safe for design, not approved canon.
+---
 
-### HOLD-05 — S1-08 ontology
-Independent engineered nonhuman vs human-derived clade.
+# 24. Final red-team verdict
 
-### HOLD-06 — reproduction
-E2 recommended, not canon.
+### Existing-main preservation
+**PASS.**
 
-### HOLD-07 — species names
-Slot IDs stable; final public names pending.
+### Internal branch logic
+**PASS AFTER LATEST PRUNING/GATE PROPAGATION.**
 
-### HOLD-08 — exact first-appearance episodes
-Exposure architecture exists; card insertion not authorized.
+### Species reader load
+**PASS WITH 4-STRONG CORE DISCIPLINE.**
 
-### HOLD-09 — 07/AUX designation reconciliation
-Pre-existing issue preserved.
+### Prototype relic/hero-machine load
+**PASS WITH DESCENDANT/REUSE-FIRST DISCIPLINE.**
 
-### HOLD-10 — AXIOM
-Origin/capability/pilot/deployment still separate HOLD.
+### Multi-front/protagonist independence
+**PASS.**
 
-No HOLD is hidden as a completed canon fact.
+### Hidden universal-origin risk
+**PASS / FORBIDDEN LINKS EXPLICITLY LOCKED.**
 
-## 21. Final critic verdict
-
-### Internal logic
-**PASS**
-
-### Canon preservation
-**PASS**
-
-### Reader-load control
-**PASS WITH DISCIPLINE REQUIREMENT**
-
-### Naming
-**HOLD**
-
-### Historical integration
-**HOLD**
+### Canon promotion readiness
+**READY FOR AUTHOR DECISION, NOT READY FOR AUTOMATIC PROMOTION.**
 
 ### Publication
-**NOT AUTHORIZED**
+**NOT AUTHORIZED.**
 
 ### Overall
 
-> **PASS WITH EXPLICIT AUTHOR-DECISION HOLDS.**
+> **FOUNDATIONAL EXPANSION ARCHITECTURE: PASS WITH EXPLICIT AUTHOR-DECISION HOLDS.**
+>
+> **NO FURTHER GENERIC FOUNDATION DOCUMENTS SHOULD BE CREATED MERELY TO INCREASE DEPTH.**
 
-No further generic foundation architecture should be created merely to increase document count.
-
-Next useful work is one of:
-1. author resolves A/G/C/D when ready;
-2. derive a specific front-stage species/world only when a GA role demands it;
-3. run independent promotion critique on this branch;
-4. split approved architecture from speculative alternatives before any future canon promotion.
+Next useful work must be one of:
+1. author decision on a high-ripple packet;
+2. concrete front-stage derivation demanded by an existing GA;
+3. independent promotion critique in a runtime that can supply it;
+4. narrow canon patch after explicit approval.
