@@ -3,39 +3,37 @@
 Status: PROPOSED — AUTHOR DECISION PACKET / NONCANON — SUPERSEDES v1 INSIDE PR #188
 Effective Authority: NC
 Owner Agents: A00 PM / O01 Canon / O02 Gate / X04 Continuity / X06 Coverage / A16 Red Team
-Last Reviewed: 2026-08-19
-Depends On: [[world-depth-blindspot-master-audit-2026-08-19]], [[species-civilization-codex-master-architecture-v1]], [[species-demography-and-contact-architecture-v1]], [[imperial-multispecies-history-continuity-impact-audit-2026-08-19]], [[species-working-name-status-overlay-v1]], [[species-replacement-name-second-pass-2026-08-19]], [[species-ga1-ga10-exposure-and-continuity-impact-audit-v1]], [[galaxy-node-fleet-economy-scale-v1]]
+Last Reviewed: 2026-08-20
+Depends On: [[world-depth-blindspot-master-audit-2026-08-19]], [[species-civilization-codex-master-architecture-v1]], [[species-demography-and-contact-architecture-v1]], [[imperial-multispecies-history-continuity-impact-audit-2026-08-19]], [[core-species-demand-and-tier-pruning-audit-v1]], [[species-tier-pruning-propagation-and-exposure-adjustment-v1]], [[core-species-civilization-shape-and-anti-monoculture-audit-v1]], [[ga2-first-frontstage-species-minimum-fact-packet-v1]], [[species-working-name-status-overlay-v1]], [[species-replacement-name-second-pass-2026-08-19]], [[galaxy-node-fleet-economy-scale-v1]]
 Supersedes: [[species-world-expansion-author-decision-gate-v1]] within this proposal branch
-Used By: author decision, future decision-log entries, canon-promotion branches
+Used By: author decision, future decision-log entries, narrow canon-promotion branches
 Canon Promotion: NOT AUTHORIZED
 Publication: NOT AUTHORIZED
-Open Risks: `인류 정착격자권 / Human Lattice Sphere` is existing project language and must be reconciled explicitly if a genuinely multi-species present is canonized
+Open Risks: `인류 정착격자권 / Human Lattice Sphere` is existing project language and must be reconciled explicitly if a genuinely multi-species present is canonized; final names, exact demographics, reproduction and exact first appearances remain HOLD
+
+---
 
 ## 1. Purpose
 
-PR #188 has enough architecture to continue safely without constant author interruption.
+PR #188 has enough architecture to stop broad foundation expansion.
 
-Only decisions that would materially alter:
-- distant Imperial history;
-- identity of the known settlement sphere;
-- population interpretation;
-- core species ontology;
-- reproductive law
-are isolated here.
+This gate isolates only choices that materially affect:
+- Imperial history;
+- the identity/name of the known 612-system settlement sphere;
+- demographic interpretation;
+- which biological peoples deserve persistent core-reader memory;
+- S1-08 ontology;
+- reproduction/family law.
 
-Everything else remains derived/NONCANON until a front-stage use exists.
+Later QC has **pruned** the original equal-seven S1 concept. This gate therefore no longer asks the author to accept seven equal core species.
+
+Everything not explicitly approved remains NONCANON.
 
 ---
 
 # 2. Decision A — Imperial Multi-Species Historical Model
 
-## Problem
-
-A genuine multi-species Empire must explain why the present can be plural while old institutions, founding law and much current infrastructure remain human-default.
-
-## Options
-
-### A1 — Human expansion empire
+## A1 — Human expansion empire
 
 Humans form the Imperial state first and later conquer/treaty/incorporate independent nonhuman civilizations.
 
@@ -43,9 +41,9 @@ Strength:
 - lowest continuity cost.
 
 Weakness:
-- can reduce every other people to an appendix of human history.
+- risks reducing other peoples to appendices of human history.
 
-### A2 — Multi-species founding covenant
+## A2 — Multi-species founding covenant
 
 Several species jointly found the Empire.
 
@@ -55,136 +53,103 @@ Strength:
 Weakness:
 - high conflict with current dynasty, Founding Covenant and human-default path dependence.
 
-### A3 — Service federation became Empire
+## A3 — Service federation became Empire
 
 Cross-species route/service agreements centralize into imperial institutions.
 
 Strength:
-- fits routes and interoperability.
+- fits route/interoperability themes.
 
 Weakness:
-- too neatly mirrors GA10 and requires large founding-history rewrite.
+- too neatly mirrors GA10 and requires a large founding-history rewrite.
 
-### A4 — Layered transformation
+## A4 — Layered Transformation / IMP-D
 
 - early Imperial Core is human-dominant/human-led;
 - several nonhuman civilizations already independently exist before Imperial contact;
-- contact occurs through different combinations of trade, war, rescue, migration and treaty;
+- contact histories differ: trade, war, rescue, migration, treaty and partial incorporation;
 - centuries of institutional integration make the CY 742 Empire genuinely multi-species;
-- old human-default standards remain as path dependence, not biological superiority.
+- old human-default infrastructure persists through historical path dependence rather than biological superiority;
+- species remain politically plural inside and outside Imperial institutions.
 
 Strength:
 - best continuity/depth balance;
 - preserves dynasty and SP-07;
-- gives nonhuman peoples independent pre-Imperial history and later co-authorship of shared civilization.
+- gives nonhuman peoples pre-Imperial agency and later co-authorship of shared civilization;
+- supports different civilization shapes rather than one species-state template.
 
 Weakness:
-- requires a carefully bounded historical chronology.
+- requires later bounded chronology work.
 
-## Recommendation
+### Recommendation
 
-> **A4 / IMP-D — Layered Transformation**
+> **A4 / IMP-D — Layered Transformation.**
 
 ### Author status
 
-`HOLD — explicit approval required before historical canon promotion`
+`HOLD — explicit approval required before historical canon promotion.`
 
 ---
 
-# 3. Decision G — What does `Human Lattice Sphere` mean in a multi-species present?
+# 3. Decision G — `Human Lattice Sphere` in a multi-species present
 
-## Existing authority conflict
-
-[[galaxy-node-fleet-economy-scale-v1]] currently uses:
+Current WC scale language uses:
 
 > `인류 정착격자권 / Human Lattice Sphere`
 
 for the known 612-system inhabited network.
 
-The same document records:
-- 612 inhabited systems as recommended working canon;
-- 76b registered population;
-- ~6b additional irregular/mobile population.
+The same source records 76.0b registered population and ~6b irregular/mobile/stateless population, but does not explicitly define all of them as biologically human.
 
-It does **not** explicitly say all 76b are biologically human, but the sphere label is plainly human-centered.
+The human-centered sphere label cannot be silently erased.
 
-This cannot be silently edited away.
-
-## Options
-
-### G1 — Keep as modern official universal name
-
-Meaning:
-- everyone still officially calls the whole civilization `Human Lattice Sphere` despite a large nonhuman population.
+## G1 — keep as modern official universal name
 
 Pros:
 - zero terminology change.
 
 Cons:
-- politically implausible if 30–40% of the registered population is core nonhuman;
-- makes nonhuman integration feel cosmetic or subordinated.
+- implausible if a large present population is nonhuman;
+- makes plural integration feel cosmetic/subordinate.
 
 Verdict:
-- **not recommended** under DEM-B/IMP-D.
+- **not recommended under A4.**
 
-### G2 — Historical/externalized legacy term
-
-Meaning:
-- `Human Lattice Sphere` is the old Core/cartographic/historical term inherited from the human-dominant expansion era;
-- modern law/administration uses a broader formal name;
-- characters may still use the old name depending on age, region, ideology or document provenance.
-
-Pros:
-- preserves current text as historically meaningful rather than “wrong”;
-- creates useful language politics and Archive provenance;
-- strongly fits IMP-D path dependence.
-
-Cons:
-- requires one new modern neutral formal term.
-
-### G3 — Translation convention only
+## G2 — historical human-core legacy term + modern neutral formal/common name
 
 Meaning:
-- `Human Lattice Sphere` is an author-side/reader-facing translation for a broader term meaning something closer to “people/civilized settlement lattice.”
+- `Human Lattice Sphere` is inherited from the early human-dominant expansion/cartographic era;
+- modern law/administration uses one broader reader-safe term;
+- old records, some Core institutions and ideological language can still retain the historical name.
 
 Pros:
-- minimal setting complication.
+- preserves existing text as historically meaningful rather than simply wrong;
+- creates useful language/provenance politics;
+- fits Archive and path-dependence themes.
 
-Cons:
-- risks feeling like a semantic patch;
-- weakens the historical human-default logic already present elsewhere.
+## G3 — translation convention only
 
-### G4 — Keep term as contested political label
+Low disruption but too much of a semantic patch.
 
-Meaning:
-- no universally accepted replacement;
-- Imperial Core, provinces, Neutral routes and different species use competing names.
+## G4 — several competing current names with no primary neutral term
 
-Pros:
-- realistic political texture.
+Realistic texture, but too much noun load if used as default.
 
-Cons:
-- too many active terms can hurt reader recall.
+### Recommendation
 
-## Recommendation
+> **G2 + limited G4 texture.**
 
-> **G2 with limited G4 texture.**
-
-Architecture:
-- one modern reader-safe formal/common neutral term;
-- `Human Lattice Sphere` survives as historical Core terminology and appears deliberately in old records, reactionary/legal contexts or legacy datasets;
-- local/self-names remain background unless a scene needs them.
-
-Important:
-- exact replacement term should be designed only after A4/IMP-D is approved.
+Exact modern replacement term is designed only after A4 approval.
 
 ### Author status
 
-`HOLD — coupled to Decision A`
+`HOLD — coupled to Decision A.`
 
 ---
 
 # 4. Decision B — Demographic Planning Model
+
+No exact percentage is required for current NONCANON design.
 
 ## B1 — human-heavy
 - human/human-derived 68–76%;
@@ -193,96 +158,149 @@ Important:
 
 ## B2 — human-majority plural
 - human/human-derived 50–60%;
-- core nonhuman combined 30–40%;
-- regional/rare 8–15%;
-- no single nonhuman necessarily >10–12%.
+- recurring/core nonhuman combined roughly 30–40%;
+- regional/rare roughly 8–15%;
+- no single nonhuman people needs >10–12%.
 
 ## B3 — no biological majority
 - human/human-derived 30–42%;
 - nonhuman combined majority.
 
-## Recommendation
+### Recommendation
 
-> **B2 as reversible planning architecture.**
+> **B2 as a reversible planning band.**
 
-Numerical rule:
-- these are scenario bands, not independently additive maxima;
-- any actual chosen composition must sum to 100% and remain inside the bands;
-- a neutral test point such as `55 / 35 / 10` may be used only as a calculation fixture, not canon.
-
-AI/composite census treatment remains a separate personhood/statistical question.
+Rules:
+- actual selected shares must sum to 100%;
+- `55 / 35 / 10` may be used only as a calculation fixture;
+- AI/composite census treatment remains a separate personhood/statistical question;
+- species-tier pruning does not imply population importance: an S2 regional-major people can still be numerous in a region.
 
 ### Author status
 
-`OPTIONAL NOW — continue as [ASSUMPTION] if unanswered`
+`OPTIONAL NOW — safe [ASSUMPTION] only, not canon.`
 
 ---
 
-# 5. Decision C — Core Functional Species Portfolio
+# 5. Decision C — Core Species Portfolio after pruning
 
-Current stable IDs:
+The earlier equal-seven S1 interpretation is superseded inside PR #188 by [[core-species-demand-and-tier-pruning-audit-v1]].
 
-1. `S1-02` — high-gravity compact four-limb;
-2. `S1-03` — low-gravity pressure/vibration-sensitive;
-3. `S1-04` — fluid-supported amphibious;
-4. `S1-05` — obligate symbiotic one-person biology;
-5. `S1-06` — long-lived radial five-limb;
-6. `S1-07` — electrosense/thermal-cycle;
-7. `S1-08` — engineered developmental lineage.
+Humanity/human-derived people remain the opening anchor but are not one monolithic culture.
 
-Humanity/human-derived people remain the opening anchor.
+## C-STRONG — current strong core candidates
 
-## Why IDs, not names
+### S1-03 — low-g pressure/vibration-sensitive
 
-The first naming pass produced several external collisions. All old aliases are therefore temporary/deprecated under [[species-working-name-status-overlay-v1]].
+Why core-worthy:
+- gravity/rest/acceleration affects family life, housing, ships and evacuation;
+- cannot be replaced simply by a technical sensor or implant;
+- strong GA2/3/5/6/9 reuse.
 
-No reader-facing species name is being requested for approval now.
+First-frontstage preference:
+- ordinary caregiver/family role, not hull specialist.
 
-## Recommendation
+### S1-04 — fluid-supported/amphibious
 
-> Keep the **seven functional slots** as the design portfolio and canonize/reject them individually only when front-stage demand is proven.
+Why core-worthy:
+- unavoidable water/fluid-support mass, sanitation, housing, medical and evacuation consequences;
+- strong GA3/5/6/9/10 institutional use.
+
+### S1-05 — obligate symbiotic one-person biology
+
+Why core-worthy:
+- biological plurality inside one ordinary legal/social person creates medical/personhood/Archive questions not reducible to cybernetics or AI composites;
+- strong GA2/3/4/6/8/9 use.
+
+### S1-06 — long-lived radial five-limb
+
+Why core-worthy:
+- changes political time, office terms, punishment, maturation, casualty recovery and living historical memory;
+- strong GA3/4/5/8/10 use.
+
+## C-CONDITIONAL — prove before persistent core promotion
+
+### S1-02 — high-g compact differentiated four-limb
+
+Keep only if its independent civic/cultural/history value exceeds overlap with human-derived high-g/posthuman adaptation.
+
+If not:
+- demote to S2 regional-major, do not delete.
+
+### S1-08 — engineered developmental lineage
+
+Core status depends on Decision D.
+
+If independent engineered nonhuman:
+- may remain S1 candidate.
+
+If human-derived:
+- move into posthuman/genetic-lineage architecture.
+
+## C-DEMOTED — regional-major candidate
+
+### S1-07 — electrosensory anchored people
+
+Current recommendation:
+- **S2 regional-major**, not recurring-core obligation.
+
+Reason:
+- useful biology and EM-accessibility politics remain;
+- but core story demand overlaps too strongly with S1-03 mechanosense, S2 sensory diversity, cybernetic sensors and existing EW systems;
+- most obvious roles over-concentrate them in engineering/EW.
+
+No design deletion is required.
+
+### Recommendation
+
+> **Do not approve “seven equal core species.” Approve/reject core candidates individually. Current working shape = 4 strong / 2 conditional / 1 S2 demotion.**
 
 ### Author status
 
-`HOLD FOR FINAL CANON / SAFE FOR NONCANON DESIGN`
+`HOLD FOR CANON / SAFE FOR NONCANON DESIGN.`
 
 ---
 
 # 6. Decision D — S1-08 Ontology
 
-## D1 — independent engineered nonhuman species
+## D1 — independent engineered nonhuman people
 
-- ancestors are nonhuman biological life or an independently engineered biological stock;
-- an old civilization engineered a stable self-reproducing people;
-- creator-era asset designations become historical personhood/provenance issues.
+- ancestors are independently nonhuman biological stock or an independently engineered biological lineage;
+- an old civilization deliberately shaped a stable self-reproducing people;
+- current people are citizens/persons, not products;
+- creator-era asset designations can create historical personhood/provenance problems.
 
 Pros:
-- preserves genuinely alien breadth;
-- strongest designed-purpose versus personhood theme.
+- preserves genuinely independent alien breadth;
+- strongest designed-purpose versus current-personhood theme.
 
 Risk:
-- creator must not become universal precursor.
+- creator must not become a universal precursor;
+- must not connect automatically to AXIOM or 01–20 prototype program.
 
 ## D2 — human-derived engineered clade
 
 - descendants of engineered humans;
-- enough biological divergence to require distinct medicine/social recognition.
+- sufficiently divergent medicine/development/community continuity to qualify as a clade.
 
 Pros:
 - strong posthuman continuity.
 
 Risk:
-- overlaps existing augmentation/genetic layer and reduces independent alien variety.
+- overlaps existing augmentation/genetic architecture;
+- should not consume one independent nonhuman S1 slot.
 
-## Recommendation
+### Recommendation
 
-> **D1 slightly preferred** for the current species-codex goal.
+> **D1 slightly preferred if S1-08 remains in the nonhuman core portfolio.**
 
-If D2 is selected, replace S1-08 later with another independently originated biological species only if portfolio coverage still needs it.
+If D2 is chosen:
+- move S1-08 to posthuman architecture;
+- **do not automatically invent a replacement core species.** Four strong core nonhuman peoples may already be enough with S2/S3 breadth.
 
 ### Author status
 
-`HOLD — not required for current architecture work`
+`HOLD — high ontology ripple.`
 
 ---
 
@@ -290,91 +308,191 @@ If D2 is selected, replace S1-08 later with another independently originated bio
 
 ## E1 — universal compatibility
 
-Reject.
+**REJECT.**
 
-Why:
-- biologically flattens genuinely independent species;
-- creates enormous silent family/lineage/succession consequences.
+It biologically flattens independent species and creates enormous silent family/succession consequences.
 
 ## E2 — mostly incompatible independent species + limited case-by-case assisted reproduction
 
-- independent species generally cannot produce shared-genome offspring naturally;
-- advanced reproductive medicine can support only cases with demonstrated biological feasibility;
+- independent species generally cannot naturally produce shared-genome offspring;
+- advanced reproductive medicine can support only biologically feasible cases;
 - human-derived clades can have broader compatibility;
-- adoption, guardianship, gestation assistance and mixed households remain ordinary routes to family.
+- adoption, guardianship, gestation assistance and mixed households remain ordinary family routes.
 
-## E3 — absolute genetic incompatibility between all independent species
+## E3 — absolute incompatibility in every independent-species pairing
 
 Clean but unnecessarily rigid.
 
-## Recommendation
+### Recommendation
 
-> **E2**
+> **E2.**
 
 ### Author status
 
-`HOLD — high law/family/medicine ripple`
+`HOLD — high family/medicine/law ripple.`
 
 ---
 
-# 8. Decision F — Early Reader Exposure
+# 8. Decision F — Early Reader Exposure after pruning
 
 ## F1 — diverse GA1 foreground cast
 
-Reject by default: overloads the opening and risks existing card rewrite.
+Reject by default.
 
-## F2 — GA1 background-normalized / GA2 foreground
+GA1 already has high noun/mystery load and approved cards.
 
-- GA1: X0 signs, records, adapters, medical/service categories, media;
-- GA2: two S1 species become recurring ordinary people;
-- GA3: multi-species public life is normalized.
+## F2 — GA1 background-normalized / GA2 ordinary foreground
+
+Latest preferred spine:
+
+### GA1
+- X0 signs/adapters/medical categories/media only by default.
+
+### GA2
+- first ordinary recurring: S1-03;
+- second ordinary recurring: S1-05.
+
+### GA3 early
+- reuse those people/species;
+- no mandatory new core name.
+
+### GA3 middle/late
+- S1-04 ordinary city exposure;
+- S1-06 late seed as a **young ordinary civic/municipal person**, not ancient witness.
+
+### GA4 onward
+- deepen already-known people before adding conditional core species.
+
+### GA6
+- introduction freeze.
+
+### GA8
+- deep history only after ordinary present-day people are familiar.
 
 ## F3 — hide nonhumans until later revelation
 
-Reject: makes a mature plural civilization feel retrofitted.
+Reject: makes a mature plural civilization look retrofitted.
 
-## Recommendation
+### Recommendation
 
-> **F2**
+> **F2, latest pruned form.**
 
 ### Author status
 
-`SAFE WORKING DEFAULT — no scene-card change until a concrete insertion is reviewed`
+`SAFE WORKING DEFAULT — exact scene-card assignment remains HOLD.`
 
 ---
 
-# 9. Decision Priority
+# 9. Civilization-shape control
 
-### Required before distant-history canon promotion
+If C-STRONG species are later approved, do not give all of them the same `homeworld + species-state + diaspora` template.
+
+Current NONCANON shape stress test:
+
+- S1-03: distributed low-g habitat/commonwealth network + route diaspora + mixed urban populations;
+- S1-04: fluid municipal/city network + mixed dry-habitat diaspora;
+- S1-05: diaspora-heavy integrated people with several old cultural/medical centers, no required dominant species-state;
+- S1-06: old regional political/institutional traditions + broad diaspora + generational reform conflict.
+
+Requirements:
+- species != government;
+- same species appears in several factions/institutions;
+- at least two internal political disagreements unrelated to biology;
+- at least one non-utilitarian culture/hobby/aesthetic layer;
+- each polity/community passes Rian-removal test.
+
+No named state/city/homeworld is approved here.
+
+---
+
+# 10. Naming status
+
+Old working aliases such as Braxi/Seia/Numar/Ivra/Tesar/Kelik/Verin are not promotion-ready and several have direct external collisions.
+
+Current rule:
+- stable identity = slot ID;
+- do not generate seven equal final names;
+- name only species that survive core/regional tier decisions and need front-stage use;
+- run Korean + Latin internal/external collision screen before finalization;
+- one atomic migration per approved naming batch.
+
+Naming is **not a current author blocker**.
+
+---
+
+# 11. Decision priority
+
+## Required before distant-history canon promotion
+
 1. **A — IMP-D history**
-2. **G — settlement-sphere naming/status**, coupled to A
+2. **G — Human Lattice legacy-name treatment**, coupled to A
 
-### Required before final core species canonization
-3. C — seven functional slots
-4. D — S1-08 ontology
-5. E — reproduction rule
+## Required before core species canon promotion
 
-### Can remain planning assumptions
+3. **C — individual core-tier decisions**, using 4 strong / 2 conditional / 1 S2 recommendation
+4. **D — S1-08 ontology** if S1-08 is retained
+5. **E — reproduction rule** before family/law facts are canonized
+
+## Can remain planning assumptions
+
 6. B — demographic bands
-7. F — exposure pattern
+7. F — exposure pattern until exact scene-card insertion
+8. civilization-shape stress models
+9. names
 
 ---
 
-# 10. Shortest Author Decision Package
+# 12. Shortest Author Decision Package
 
-If the author wants only the true high-ripple choices later, ask:
+If only high-ripple choices are requested later, ask:
 
 1. **제국사는 A4/IMP-D로 갈 것인가?**
-2. **`인류 정착격자권`은 옛 인간 중심 역사명으로 남기고 현대 중립 명칭을 따로 둘 것인가(G2)?**
-3. **S1-02~08의 7개 기능적 핵심종 방향을 유지할 것인가?**
-4. **S1-08은 독립 인공기원 외계종(D1)인가, 인간파생종(D2)인가?**
+2. **`인류 정착격자권`을 옛 인간 중심 역사명으로 남기고 현대 중립 명칭을 따로 둘 것인가(G2)?**
+3. **핵심종은 7개 동급이 아니라 `S1-03/04/05/06 강한 핵심 + S1-02/08 조건부 + S1-07 S2 강등` 구조로 갈 것인가?**
+4. **S1-08을 남긴다면 독립 인공기원 비인간종(D1)인가, 인간파생종(D2)인가?**
 
-Everything else can continue as NONCANON derivation.
+Reproduction, exact demographics, names and exact first appearances can stay HOLD until their story use approaches.
 
 ---
 
-# 11. Gate Result
+# 13. Promotion split if approved later
 
-> **ARCHITECTURE PASS / CANON PROMOTION HOLD**
+Do not promote PR #188 wholesale.
 
-The project does not need a new grand act or a rewrite from zero. The remaining work is controlled historical reconciliation, selective front-stage derivation, naming, and promotion audit.
+### CP-A — Imperial history + settlement-sphere naming
+- A4/G2 only after explicit approval;
+- history/scale/law terminology ripple audit required.
+
+### CP-B — species taxonomy + individually approved core facts
+- promote only accepted species, not rejected/conditional design history;
+- S2/S3 remain framework until needed.
+
+### CP-C — exact existing-episode integration
+- only after final public name + character-load + continuity review;
+- existing named characters are not silently reassigned.
+
+No publication/manuscript authority follows from any CP package.
+
+---
+
+# 14. Gate Result
+
+### Architecture
+**PASS.**
+
+### Equal-seven core portfolio
+**SUPERSEDED / REJECTED BY LATER QC.**
+
+### Current core portfolio recommendation
+**4 STRONG / 2 CONDITIONAL / 1 S2 DEMOTION.**
+
+### Exact names/demographics/reproduction/first appearances
+**HOLD.**
+
+### Existing canon changed by this gate
+**NONE.**
+
+### Whole-PR canon promotion
+**REJECT.**
+
+> **ARCHITECTURE PASS / AUTHOR DECISION HOLD — the galaxy may be biologically broad without forcing every designed species into permanent core-reader memory.**
