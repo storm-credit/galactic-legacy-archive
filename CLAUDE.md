@@ -425,3 +425,18 @@ python tools/promotion_review.py --check  # 낡았으면 실패 (CI가 실행)
 - `texture_status` — `SCENE_WRITTEN` / `SCENE_PENDING_IN_ARC` / `PENDING_SCENE`
 
 값은 원고에서 끌어온다. 지어내서 원고와 따로 놀게 하지 않는다.
+
+## 26. Minimum Action Agent OS (2026-08-19 추가)
+
+이 프로젝트는 `storm-credit/minimum-action-agent-os`를 **작업 방법론으로만** 따른다. OS 본문은 이 파일에 복사하지 않는다.
+
+- **Local action space를 최소화한다.** 한 reasoning node에서 직접 선택 가능한 에이전트·도구·스킬·MCP·기타 callable을 기본 `<= 5`로 유지한다.
+- **전체 에이전트 수에는 제한이 없다.** [[agent-orchestra-registry-v1]]의 61역할은 그대로 유지한다. 늘려야 하면 라우터·전문가로 계층화한다.
+- 최소 도구·최소 컨텍스트·최소 권한을 적용한다.
+- **새 에이전트를 만들기 전에** 직접 작업·규칙·스킬로 충분한지 먼저 묻는다. 컨텍스트·도구·권한·증거·독립성 경계가 실재할 때만 에이전트로 만든다.
+- 현재 감사 결과와 밴드 색인은 [[local-action-space-audit-2026-08-19]]가 보유한다. 역할을 고를 때 그 §3 밴드를 진입점으로 쓴다.
+- 플러그인을 설치한 환경에서는 `/minimum-action-agent-os:os-preflight`(착수 전)와 `/minimum-action-agent-os:os-state`(상태 변경 후), `minimum-action-agent-os:independent-critic`(독립 검토)를 쓸 수 있다. 미설치 시 선택 사항이며, 그 자리는 §6 하네스·§15-3 독립 감사가 이미 맡는다.
+
+**도메인 정본은 항상 이 저장소가 갖는다.** OS는 "어떻게 일할지"만 규정하며 Canon·Spec·Freeze·원고를 덮어쓰지 않는다. 충돌 시 순서는 ① 작가의 현재 지시 ② 이 저장소의 정본 ③ OS 원칙이다.
+
+**중복 생성 금지**: 의도 확인·맹점 훑기·함정 체크·4안 비교·본보기 조사·독립 Critic·하네스·이탈 기록·상태 갱신은 §2·§3·§6·§9·§13·§15·§21에 이미 있다. OS 적용을 이유로 같은 규칙을 다시 만들지 않는다.
