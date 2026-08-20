@@ -13,6 +13,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C1 인물·관계, C5 함선
 - `READER_DESIRE_MAIN`: Vesper Depot crowded with formations waiting on pay, repairs, orders and recognition. → 7–10 day shared defensive/service mandate for Vesper Depot and Talren routes.
 - `DISCOVERY`: Vesper Depot crowded with formations waiting on pay, repairs, orders and recognition.
@@ -35,6 +36,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C5 함선, C7 세력·제도, C1 인물·관계
 - `READER_DESIRE_MAIN`: resolve disputed ship without massacre or simple captain victory. → first ship-specific oath/mission agreement and crew representative.
 - `DISCOVERY`: resolve disputed ship without massacre or simple captain victory.
@@ -56,14 +58,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C7 세력·제도
-- `READER_DESIRE_MAIN`: Standing Defensive Intent → standing defensive intent and emergency authentication path.
-- `DISCOVERY`: Standing Defensive Intent
-- `ACQUISITION_OR_CONNECTION`: standing defensive intent and emergency authentication path.
-- `SYNERGY_OR_USE`: standing defensive intent and emergency authentication path.
-- `COST_REFUSAL_OR_LOSS`: central-command advocates gain credibility. one ship blames charter process and defects/grounds.
-- `SET_ADVANCE_CONDITION`: standing defensive intent and emergency authentication path.
-- `NEXT_DESIRE`: `G`.
+- `READER_DESIRE_MAIN`: a real attack shows centralized Protector orders are faster while shared authentication and mandate rules delay deployment. → repel enough of the threat to establish standing defensive intent and an emergency authentication path without granting permanent unified fleet command.
+- `DISCOVERY`: a real attack shows centralized Protector orders are faster while shared authentication and mandate rules delay deployment.
+- `ACQUISITION_OR_CONNECTION`: repel enough of the threat to establish standing defensive intent and an emergency authentication path without granting permanent unified fleet command.
+- `SYNERGY_OR_USE`: P-001 commands one task group while FC-001 and a captain independently stabilize other fronts under standing rules.
+- `COST_REFUSAL_OR_LOSS`: the delay costs cargo, workers, ship or lives, central-command advocates gain credibility and one ship defects or grounds.
+- `SET_ADVANCE_CONDITION`: P-001 commands one task group while FC-001 and a captain independently stabilize other fronts under standing rules.
+- `NEXT_DESIRE`: repair tender, missiles and payroll are now the binding constraint, shifting collection desire from combat ships to the support system that makes a fleet real.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지
 - `ACTIVE_TARGETS`:
   - `CLT-GA5-G5-C03` / `G5-C03` / Standing Defensive Intent — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=124
@@ -76,6 +79,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: define temporary formation/task command for upcoming operations. → first Common Fleet Charter v0.1 and task force.
 - `DISCOVERY`: define temporary formation/task command for upcoming operations.
@@ -97,14 +101,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C5 함선, C6 기술·표준, C1 인물·관계
-- `READER_DESIRE_MAIN`: Mobile Repair Tender / Crew Pay/Pension/Family Guarantee / Distributed Parts and Cannibalization Pool → tender and partial repair/pay capacity.
-- `DISCOVERY`: Mobile Repair Tender / Crew Pay/Pension/Family Guarantee / Distributed Parts and Cannibalization Pool
-- `ACQUISITION_OR_CONNECTION`: tender and partial repair/pay capacity.
-- `SYNERGY_OR_USE`: tender and partial repair/pay capacity.
-- `COST_REFUSAL_OR_LOSS`: convoy cargo split or one combat ship sacrificed/abandoned. tender condition worse than expected.
-- `SET_ADVANCE_CONDITION`: tender and partial repair/pay capacity.
-- `NEXT_DESIRE`: yard/tender can restore only a fraction of ships; allocation becomes political.
+- `READER_DESIRE_MAIN`: the mobile repair tender, engineers, payroll/family records and parts are more decisive to fleet survival than another combat hull and are exposed to competing claims/seizure. → protect or recover enough tender and repair/pay capacity to keep the fleet operable without treating the support crews and records as prize cargo.
+- `DISCOVERY`: the mobile repair tender, engineers, payroll/family records and parts are more decisive to fleet survival than another combat hull and are exposed to competing claims/seizure.
+- `ACQUISITION_OR_CONNECTION`: protect or recover enough tender and repair/pay capacity to keep the fleet operable without treating the support crews and records as prize cargo.
+- `SYNERGY_OR_USE`: escort restraint, FC-004/yard route and repair triage, evidence and crew-integration concerns make support preservation the mission objective.
+- `COST_REFUSAL_OR_LOSS`: convoy cargo is split or a combat ship is sacrificed/abandoned, and the tender is in worse condition than expected.
+- `SET_ADVANCE_CONDITION`: escort restraint, FC-004/yard route and repair triage, evidence and crew-integration concerns make support preservation the mission objective.
+- `NEXT_DESIRE`: limited repair capacity creates the next desire: decide transparently which ships return to service and which remain grounded.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA5-G5-L02` / `G5-L02` / Mobile Repair Tender — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=123
@@ -119,6 +124,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준
 - `READER_DESIRE_MAIN`: allocate limited yard/tender time, parts, missiles and crews. → pooled maintenance rules and distributed parts inventory.
 - `DISCOVERY`: allocate limited yard/tender time, parts, missiles and crews.
@@ -141,6 +147,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준
 - `READER_DESIRE_MAIN`: establish pay, pension, family, rescue/parole and lawful-refusal system. → provisional crew guarantee and review/parole structure.
 - `DISCOVERY`: establish pay, pension, family, rescue/parole and lawful-refusal system.
@@ -163,6 +170,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도
 - `READER_DESIRE_MAIN`: integrate or neutralize surrendered/captured ships without claimant/personal ownership. → additional 3–8 ships/support capability and legal precedent.
 - `DISCOVERY`: integrate or neutralize surrendered/captured ships without claimant/personal ownership.
@@ -187,6 +195,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C5 함선, C8 영토·노드·문명, C7 세력·제도, C6 기술·표준
 - `READER_DESIRE_MAIN`: determine which recalls are real emergencies and what obligations remain. → first recall/exit framework with notice, replacement and remaining obligations.
 - `DISCOVERY`: determine which recalls are real emergencies and what obligations remain.
@@ -209,14 +218,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C7 세력·제도, C5 함선, C8 영토·노드·문명, C6 기술·표준
-- `READER_DESIRE_MAIN`: Crown/Civilian Escort Commitment / Civilian Convoy/Route Capacity / Provincial Contribution Network → public/civil legitimacy for fleet charter.
-- `DISCOVERY`: Crown/Civilian Escort Commitment / Civilian Convoy/Route Capacity / Provincial Contribution Network
-- `ACQUISITION_OR_CONNECTION`: public/civil legitimacy for fleet charter.
-- `SYNERGY_OR_USE`: public/civil legitimacy for fleet charter.
-- `COST_REFUSAL_OR_LOSS`: military objective or depot position weakened. one convoy/group delayed/lost/forced to change route.
-- `SET_ADVANCE_CONDITION`: public/civil legitimacy for fleet charter.
-- `NEXT_DESIRE`: Outer Front commander FC-005 accuses Core compact fleet of protecting symbols/civilians while abandoning actual war line—or vice versa.
+- `READER_DESIRE_MAIN`: after a damaging provincial withdrawal, Talren/Civilian Chain must be protected with fewer ships while civilians still have multiple destinations and local commanders retain independent choices. → preserve enough civilian/convoy movement to earn public legitimacy for the fleet charter without pretending the missing formation can be replaced costlessly.
+- `DISCOVERY`: after a damaging provincial withdrawal, Talren/Civilian Chain must be protected with fewer ships while civilians still have multiple destinations and local commanders retain independent choices.
+- `ACQUISITION_OR_CONNECTION`: preserve enough civilian/convoy movement to earn public legitimacy for the fleet charter without pretending the missing formation can be replaced costlessly.
+- `SYNERGY_OR_USE`: escort, evacuation, route defense, misinformation response and an autonomous provincial/Crown success cover different pieces of the reduced-force mission.
+- `COST_REFUSAL_OR_LOSS`: a military objective/depot position weakens and one convoy/group is delayed, lost or forced to change route.
+- `SET_ADVANCE_CONDITION`: escort, evacuation, route defense, misinformation response and an autonomous provincial/Crown success cover different pieces of the reduced-force mission.
+- `NEXT_DESIRE`: FC-005 challenges the coalition's legitimacy from the Outer Front, making earned local command the next relationship/authority target.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA5-G5-F05` / `G5-F05` / Crown/Civilian Escort Commitment — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=119
@@ -231,6 +241,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C5 함선, C8 영토·노드·문명, C6 기술·표준
 - `READER_DESIRE_MAIN`: negotiate/cooperate with FC-005 and Outer Front forces. → access to Outer Front ships/routes and main rejecter relationship.
 - `DISCOVERY`: negotiate/cooperate with FC-005 and Outer Front forces.
@@ -253,6 +264,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C6 기술·표준, C5 함선, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: revise fleet charter with enforceable recall/exit, burden, support and command terms before offensive. → Common Fleet Charter v0.2 with burdens and exit.
 - `DISCOVERY`: revise fleet charter with enforceable recall/exit, burden, support and command terms before offensive.
@@ -275,6 +287,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C5 함선, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: define shared intent and allocate formations/resources. → operational plan and delegated authority.
 - `DISCOVERY`: define shared intent and allocate formations/resources.
@@ -298,14 +311,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C7 세력·제도, C5 함선, C8 영토·노드·문명
-- `READER_DESIRE_MAIN`: Delegated Formation Command and Standing Rules / Bounded P-001 Theater/Task Command / Autonomous Front Victory Record → charter proves it can function without central real-time control.
-- `DISCOVERY`: Delegated Formation Command and Standing Rules / Bounded P-001 Theater/Task Command / Autonomous Front Victory Record
-- `ACQUISITION_OR_CONNECTION`: charter proves it can function without central real-time control.
-- `SYNERGY_OR_USE`: charter proves it can function without central real-time control.
-- `COST_REFUSAL_OR_LOSS`: casualties, lost ships or objective due ambiguity. audit/blame conflict begins before campaign ends.
-- `SET_ADVANCE_CONDITION`: charter proves it can function without central real-time control.
-- `NEXT_DESIRE`: P-001 must choose where to commit remaining reserve/07/first ship.
+- `READER_DESIRE_MAIN`: a formation loses communication/authentication or receives conflicting orders, removing Rian's real-time command from the test of the Common Fleet Charter. → prove that shared intent and standing rules can produce autonomous success without pretending ambiguity will never cause failure.
+- `DISCOVERY`: a formation loses communication/authentication or receives conflicting orders, removing Rian's real-time command from the test of the Common Fleet Charter.
+- `ACQUISITION_OR_CONNECTION`: prove that shared intent and standing rules can produce autonomous success without pretending ambiguity will never cause failure.
+- `SYNERGY_OR_USE`: subordinate commanders choose independently across civilian, depot, provincial, Protector and Outer Front responsibilities.
+- `COST_REFUSAL_OR_LOSS`: at least one success coexists with one failure/misinterpretation, casualties or lost ships/objective, and audit/blame begins before the campaign ends.
+- `SET_ADVANCE_CONDITION`: subordinate commanders choose independently across civilian, depot, provincial, Protector and Outer Front responsibilities.
+- `NEXT_DESIRE`: Rian's remaining reserve/07/first ship cannot cover every front, so the next desire is who may decide where the last concentrated capacity goes.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA5-G5-C10` / `G5-C10` / Delegated Formation Command and Standing Rules — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=127
@@ -322,6 +336,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C5 함선, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: commit reserve/support to one front while others suffer. → commit reserve/support to one front while others suffer.
 - `DISCOVERY`: commit reserve/support to one front while others suffer.
@@ -345,6 +360,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C5 함선, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: assess campaign, formalize charter and respond to emerging Orpheus crisis. → Common Fleet Charter v1.0 and distributed formation network. P-001 receives limited theater/task command standing. rescue/pay/repair/authentication and audit systems operational.
 - `DISCOVERY`: assess campaign, formalize charter and respond to emerging Orpheus crisis.

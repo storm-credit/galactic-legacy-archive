@@ -13,6 +13,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: NR72-118 reaches Ardis damaged, indebted and carrying competing claims, workers and community-linked passengers. → 72-hour emergency service permit and public arrival record.
 - `DISCOVERY`: NR72-118 reaches Ardis damaged, indebted and carrying competing claims, workers and community-linked passengers.
@@ -33,6 +34,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C6 기술·표준, C8 영토·노드·문명, C7 세력·제도
 - `READER_DESIRE_MAIN`: choose first emergency allocation among life support, medicine, node diagnostics and ship repair. → credibility with Transit/Garden/service workers. first citywide data-sharing agreement.
 - `DISCOVERY`: choose first emergency allocation among life support, medicine, node diagnostics and ship repair.
@@ -54,6 +56,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C8 영토·노드·문명, C6 기술·표준, C7 세력·제도, C4 유물·증거
 - `READER_DESIRE_MAIN`: Spine B physically repairable. Spine C partly alive and linked to old service authority. common thermal deficit makes simultaneous city/traffic/defense impossible. one old shutdown record was politically edited, but full truth remains open. → public multi-source damage map and repair sequence options.
 - `DISCOVERY`: Spine B physically repairable. Spine C partly alive and linked to old service authority. common thermal deficit makes simultaneous city/traffic/defense impossible. one old shutdown record was politically edited, but full truth remains open.
@@ -78,6 +81,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, RELATIONSHIP, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C6 기술·표준, C8 영토·노드·문명, C4 유물·증거
 - `READER_DESIRE_MAIN`: create temporary rules that keep city functioning during repair negotiations. → 30-day minimum-service and diagnostic pact. first ship assigned as one service/escort contractor, not command center.
 - `DISCOVERY`: create temporary rules that keep city functioning during repair negotiations.
@@ -100,6 +104,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, CIVILIZATION, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도, C2 기체, C4 유물·증거
 - `READER_DESIRE_MAIN`: restart essential repairs without crushing strike or letting life support fail. → essential-only production protocol and worker audit/representation.
 - `DISCOVERY`: restart essential repairs without crushing strike or letting life support fail.
@@ -122,6 +127,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, RELATIONSHIP, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C6 기술·표준, C2 기체, C4 유물·증거
 - `READER_DESIRE_MAIN`: define service, residence and representation for 170,000 transient/unregistered people. → actual access and representation for defined groups. S-001/M-001 systems gain local corrections/limits.
 - `DISCOVERY`: define service, residence and representation for 170,000 transient/unregistered people.
@@ -144,6 +150,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `EVENT, CIVILIZATION, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C8 영토·노드·문명, C6 기술·표준, C2 기체, C4 유물·증거
 - `READER_DESIRE_MAIN`: repair Spine B enough for low-capacity service traffic. → Spine B limited cargo/medical window and alternative diagnostics.
 - `DISCOVERY`: repair Spine B enough for low-capacity service traffic.
@@ -167,6 +174,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, RELATIONSHIP, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C6 기술·표준, C2 기체, C4 유물·증거
 - `READER_DESIRE_MAIN`: prevent new supply/traffic from simply strengthening the most powerful factions. → provisional city assembly/board that can authorize Phase 3 decisions.
 - `DISCOVERY`: prevent new supply/traffic from simply strengthening the most powerful factions.
@@ -189,6 +197,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C4 유물·증거
 - `READER_DESIRE_MAIN`: determine interim lawful command before external task groups arrive. → transparent readiness/defense map.
 - `DISCOVERY`: determine interim lawful command before external task groups arrive.
@@ -212,6 +221,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C4 유물·증거
 - `READER_DESIRE_MAIN`: prevent Helix seizure/lockout while securing medicine and parts. → temporary supply and facility-use agreement with limited creditor rights.
 - `DISCOVERY`: prevent Helix seizure/lockout while securing medicine and parts.
@@ -234,6 +244,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `LINEAGE, FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C4 유물·증거
 - `READER_DESIRE_MAIN`: stop unilateral destruction without giving all node control to Civic/Defense/Imperial actors. → partial Spine C recovery and Service Authority E/local-custody protocol.
 - `DISCOVERY`: stop unilateral destruction without giving all node control to Civic/Defense/Imperial actors.
@@ -258,6 +269,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C5 함선
 - `READER_DESIRE_MAIN`: respond to Imperial emergency command offer/ultimatum. → combined defense for imminent siege.
 - `DISCOVERY`: respond to Imperial emergency command offer/ultimatum.
@@ -281,6 +293,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C5 함선, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: assign authority/resources without one central owner. → joint operational plan and emergency key split.
 - `DISCOVERY`: assign authority/resources without one central owner.
@@ -303,14 +316,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C3 무기·부품
-- `READER_DESIRE_MAIN`: Delegated Standing Rules / Fixed Defense Segmentation / Major Loss Record → standing delegated rules and local autonomous response improve.
-- `DISCOVERY`: Delegated Standing Rules / Fixed Defense Segmentation / Major Loss Record
-- `ACQUISITION_OR_CONNECTION`: standing delegated rules and local autonomous response improve.
-- `SYNERGY_OR_USE`: standing delegated rules and local autonomous response improve.
-- `COST_REFUSAL_OR_LOSS`: named casualties and political backlash; some demand central takeover.
-- `SET_ADVANCE_CONDITION`: standing delegated rules and local autonomous response improve.
-- `NEXT_DESIRE`: node thermal reserve and traffic convoy make one final high-risk window necessary.
+- `READER_DESIRE_MAIN`: distributed authorization delays a real response and proves that central Imperial command could likely have reduced the immediate loss. → improve standing delegated rules and local autonomous response without using the failure as proof that Ardis must surrender permanent central control.
+- `DISCOVERY`: distributed authorization delays a real response and proves that central Imperial command could likely have reduced the immediate loss.
+- `ACQUISITION_OR_CONNECTION`: improve standing delegated rules and local autonomous response without using the failure as proof that Ardis must surrender permanent central control.
+- `SYNERGY_OR_USE`: local defense/service actors, records, evacuation and standing rules act without waiting for Rian and expose spoof/delay causes.
+- `COST_REFUSAL_OR_LOSS`: irreversible damage, named casualties and political backlash give central-takeover advocates a credible case.
+- `SET_ADVANCE_CONDITION`: local defense/service actors, records, evacuation and standing rules act without waiting for Rian and expose spoof/delay causes.
+- `NEXT_DESIRE`: reduced thermal reserve and traffic pressure force one final high-risk joint A+B+C window.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA3-G3-R10` / `G3-R10` / Delegated Standing Rules — `EPISODE_OVERLAP+TITLE_TEXT` score=119
@@ -326,14 +340,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C8 영토·노드·문명, C7 세력·제도
-- `READER_DESIRE_MAIN`: Limited A+B+C Joint Reference Window / Local Succession/Operator Training Program / Fixed Defense Segmentation → E315–323. / E285–330. / E271–323.
-- `DISCOVERY`: Limited A+B+C Joint Reference Window / Local Succession/Operator Training Program / Fixed Defense Segmentation
-- `ACQUISITION_OR_CONNECTION`: E315–323. / E285–330. / E271–323.
-- `SYNERGY_OR_USE`: convoy/traffic and city survival. / reduces dependence on AR-NOD-001 and imported experts. / separates traffic/node/civilian controls and limits single seizure.
-- `COST_REFUSAL_OR_LOSS`: ship/node/district damage and restricted future capacity. political opposition gains credible argument.
-- `SET_ADVANCE_CONDITION`: convoy/traffic and city survival. / reduces dependence on AR-NOD-001 and imported experts. / separates traffic/node/civilian controls and limits single seizure.
-- `NEXT_DESIRE`: with immediate survival secured, the city must choose permanent authority and external status before victorious factions rewrite the emergency arrangement.
+- `READER_DESIRE_MAIN`: Ardis must run the limited A+B+C reference operation under attack while moving convoy/civilian traffic, denying seizure and preserving local authority. → achieve a limited-throughput survival window without converting technical coordination into a single permanent emergency key or monopoly.
+- `DISCOVERY`: Ardis must run the limited A+B+C reference operation under attack while moving convoy/civilian traffic, denying seizure and preserving local authority.
+- `ACQUISITION_OR_CONNECTION`: achieve a limited-throughput survival window without converting technical coordination into a single permanent emergency key or monopoly.
+- `SYNERGY_OR_USE`: Custodians, civic/transit/foundry services, defense, Neutral audit, narrow Imperial coordination and local workers each own different operational decisions.
+- `COST_REFUSAL_OR_LOSS`: ship/node/district damage and restricted future capacity remain, and political opposition gains a credible argument despite survival.
+- `SET_ADVANCE_CONDITION`: Custodians, civic/transit/foundry services, defense, Neutral audit, narrow Imperial coordination and local workers each own different operational decisions.
+- `NEXT_DESIRE`: with immediate survival secured, the next desire is to turn the emergency arrangement into a permanent local trust before victors capture it.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음
 - `ACTIVE_TARGETS`:
   - `CLT-GA3-G3-N09` / `G3-N09` / Limited A+B+C Joint Reference Window — `EPISODE_OVERLAP+TITLE_TEXT` score=117
@@ -348,6 +363,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, LINEAGE, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C4 유물·증거
 - `READER_DESIRE_MAIN`: convert emergency operation into a 1–3 year local joint-trust charter/treaty. → Ardis Node Joint Trust and limited regional route. repair/production alliance and political recognition enough to act.
 - `DISCOVERY`: convert emergency operation into a 1–3 year local joint-trust charter/treaty.

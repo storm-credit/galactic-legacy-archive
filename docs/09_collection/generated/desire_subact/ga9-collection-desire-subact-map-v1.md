@@ -13,6 +13,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, FUNCTIONAL, LINEAGE`
 - `MATCH_DEPTH`: `A-MANUAL`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C4 유물·증거
 - `READER_DESIRE_MAIN`: synchronized corridors show immediate effects after GA8 activation. → public trust and successful corrective exception.
 - `DISCOVERY`: synchronized corridors show immediate effects after GA8 activation.
@@ -37,6 +38,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: investigate how domain classifications produce material permissions without one visible moral score. → classification audit map and appeals access.
 - `DISCOVERY`: investigate how domain classifications produce material permissions without one visible moral score.
@@ -57,6 +59,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: determine P-001’s corrective role and whether exceptions can be institutionalized. → reverses one classification/systemic error and exposes a model blind spot.
 - `DISCOVERY`: determine P-001’s corrective role and whether exceptions can be institutionalized.
@@ -77,6 +80,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, FUNCTIONAL, LINEAGE`
 - `MATCH_DEPTH`: `A-MANUAL`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도, C4 유물·증거
 - `READER_DESIRE_MAIN`: synchronize a willing region/institution and observe interdependence effects. → clear regime legitimacy and service expansion.
 - `DISCOVERY`: synchronize a willing region/institution and observe interdependence effects.
@@ -101,6 +105,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: save people whose appeals cannot finish before medical/route/housing deadlines. → emergency appeal/continuity provision and named lives saved.
 - `DISCOVERY`: save people whose appeals cannot finish before medical/route/housing deadlines.
@@ -121,6 +126,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: defend/assess PR-L04 hybrid region under regime pressure and internal failure. → defend/assess PR-L04 hybrid region under regime pressure and internal failure.
 - `DISCOVERY`: defend/assess PR-L04 hybrid region under regime pressure and internal failure.
@@ -141,6 +147,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-MANUAL`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: stop real sabotage/attack without allowing the incident to erase all safeguards. → attack stopped, network vulnerability understood.
 - `DISCOVERY`: stop real sabotage/attack without allowing the incident to erase all safeguards.
@@ -165,6 +172,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: contest scope/duration of trusteeship and preserve appeals/local standing. → some services stabilized and evidence/appeal channels preserved.
 - `DISCOVERY`: contest scope/duration of trusteeship and preserve appeals/local standing.
@@ -185,6 +193,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: observe/contest trusteeship implementation in one named sector/region. → named beneficiaries and evidence of hardliner scope expansion.
 - `DISCOVERY`: observe/contest trusteeship implementation in one named sector/region.
@@ -206,6 +215,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, RELATIONSHIP, FUNCTIONAL, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C4 유물·증거, C7 세력·제도
 - `READER_DESIRE_MAIN`: organize internal resistance/reform before mass stabilization. → internal coalition and transition assets.
 - `DISCOVERY`: organize internal resistance/reform before mass stabilization.
@@ -227,6 +237,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `EVENT, RELATIONSHIP, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C4 유물·증거, C7 세력·제도
 - `READER_DESIRE_MAIN`: prevent forced synchronization from becoming irreversible while protecting civilians/services. → transition capacity and regime internal division.
 - `DISCOVERY`: prevent forced synchronization from becoming irreversible while protecting civilians/services.
@@ -248,6 +259,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C4 유물·증거, C7 세력·제도
 - `READER_DESIRE_MAIN`: decide leadership/control for immediate Seed/military crisis. → direct access to Seed/command capable of reversing classifications and controlling synchronized forces.
 - `DISCOVERY`: decide leadership/control for immediate Seed/military crisis.
@@ -270,6 +282,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, FUNCTIONAL, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C4 유물·증거, C7 세력·제도
 - `READER_DESIRE_MAIN`: assume and define emergency central corrective scope under active conflict. → public/fleet trust and operational initiative.
 - `DISCOVERY`: assume and define emergency central corrective scope under active conflict.
@@ -292,6 +305,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: win military/Seed confrontation with minimum coercion. → coercive operator isolated and services preserved.
 - `DISCOVERY`: win military/Seed confrontation with minimum coercion.
@@ -312,6 +326,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: finalize immediate victory, protect staff/beneficiaries and prevent revenge/collapse. → single coercive military operator defeated; regime no longer actively expanding through that command.
 - `DISCOVERY`: finalize immediate victory, protect staff/beneficiaries and prevent revenge/collapse.
@@ -332,6 +347,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: decide whether P-001 keeps temporary central power, destroys system or begins distribution. → GA10 transition mandate and physical/institutional access.
 - `DISCOVERY`: decide whether P-001 keeps temporary central power, destroys system or begins distribution.

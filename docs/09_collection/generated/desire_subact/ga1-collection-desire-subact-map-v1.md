@@ -13,14 +13,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C2 기체
-- `READER_DESIRE_MAIN`: H-001 / Future Blood Admiral / I-001 / Field Instructor / Student Mutual Network / Assembly Seed → shared test evidence, community-record operation, independent agreement / public inquiry, Black Ward access, siege command, accountability / mutual fund E27–32; preference process E73–84 / joint custody, secret offers, succession protocol / not personal rescue only; community representation and treatment
-- `DISCOVERY`: H-001 / Future Blood Admiral / I-001 / Field Instructor / Student Mutual Network / Assembly Seed
-- `ACQUISITION_OR_CONNECTION`: shared test evidence, community-record operation, independent agreement / public inquiry, Black Ward access, siege command, accountability / mutual fund E27–32; preference process E73–84 / joint custody, secret offers, succession protocol / not personal rescue only; community representation and treatment
-- `SYNERGY_OR_USE`: route planning, resource/population movement, distributed records, siege evacuation / training, staff/students, independent academy front / representation/evacuation/charter E85–100 / delays seizures, access to imperial records, charter state observer / H-001 agency, Black Ward, charter rights, future route federation
-- `COST_REFUSAL_OR_LOSS`: community surveillance, political autonomy, conflict with P-001 / past harmed cells, limited trust, loss of unilateral authority / factional division, surveillance, elected leaders can be captured / classified relocation, surveillance, service claim / public exposure, internal disagreement, refusal of hero plans
-- `SET_ADVANCE_CONDITION`: route planning, resource/population movement, distributed records, siege evacuation / training, staff/students, independent academy front / representation/evacuation/charter E85–100 / delays seizures, access to imperial records, charter state observer / H-001 agency, Black Ward, charter rights, future route federation
-- `NEXT_DESIRE`: all grand acts / academy/alumni arcs / `G — limited assembly, not united student nation` / `G — official observer with limited charter power` / `G — represented community with separate voice`, exact focal 2–3 people open
+- `READER_DESIRE_MAIN`: Rian is absent from the future record while Haren, the current 07 and the academy cell do not match the roles his memory expects. → establish a bounded provisional cell/process and complete the first limited 07 operation without choosing a sacrificial victim.
+- `DISCOVERY`: Rian is absent from the future record while Haren, the current 07 and the academy cell do not match the roles his memory expects.
+- `ACQUISITION_OR_CONNECTION`: establish a bounded provisional cell/process and complete the first limited 07 operation without choosing a sacrificial victim.
+- `SYNERGY_OR_USE`: current trust, route detail, present-body limits and the cell's separate roles become necessary to make the first operation work.
+- `COST_REFUSAL_OR_LOSS`: Rian cannot treat future knowledge as present ownership or competence; the closed-choice/betrayal problem remains a live risk.
+- `SET_ADVANCE_CONDITION`: current trust, route detail, present-body limits and the cell's separate roles become necessary to make the first operation work.
+- `NEXT_DESIRE`: the next desire is to learn who actually owns, maintains and authorizes the damaged 07 and its records.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA1-P-001` / `P-001` / H-001 / Future Blood Admiral — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=116
@@ -37,14 +38,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C3 무기·부품, C6 기술·표준, C7 세력·제도, C1 인물·관계, C2 기체
-- `READER_DESIRE_MAIN`: Open-Service Workshop Seed / R-HEL-001 / Helix Evaluator / H-002 Calibration Toolset → component recovery/documentation E21–45 / claims, inspection, recognition of H-002 labor, safety info / partial workshop access E7–10; family mark/claim E33–38 / school salvage/labor claim E33–38 / starting equipment, modified E13–16
-- `DISCOVERY`: Open-Service Workshop Seed / R-HEL-001 / Helix Evaluator / H-002 Calibration Toolset
-- `ACQUISITION_OR_CONNECTION`: component recovery/documentation E21–45 / claims, inspection, recognition of H-002 labor, safety info / partial workshop access E7–10; family mark/claim E33–38 / school salvage/labor claim E33–38 / starting equipment, modified E13–16
-- `SYNERGY_OR_USE`: Black Ward adapters and siege repair / components/treatment/contract realism, Helix internal split / safe Open Service calibration and documentation / rescue, cutting, anchoring, repair / comm/sensor relay under lattice noise
-- `COST_REFUSAL_OR_LOSS`: Helix claims, safety, worker time, unauthorized weapons spread / debt, audit, data rights, supply pressure / criminal/contract claim, limited tools / slow combat traverse, exposed bundles / low direct damage, traceable signature
-- `SET_ADVANCE_CONDITION`: Black Ward adapters and siege repair / components/treatment/contract realism, Helix internal split / safe Open Service calibration and documentation / rescue, cutting, anchoring, repair / comm/sensor relay under lattice noise
-- `NEXT_DESIRE`: `G — charter-recognized workshop under audit` / `G — constrained contract stakeholder` / `G — H-002 controlled, not team property` / `G` / `G`
+- `READER_DESIRE_MAIN`: 07 access is split across ownership, maintenance labor, tools and records, while Soma proves an administrative death record can be materially wrong. → gain usable maintenance/record access and a more accurate map of rights without silently converting access into ownership.
+- `DISCOVERY`: 07 access is split across ownership, maintenance labor, tools and records, while Soma proves an administrative death record can be materially wrong.
+- `ACQUISITION_OR_CONNECTION`: gain usable maintenance/record access and a more accurate map of rights without silently converting access into ownership.
+- `SYNERGY_OR_USE`: Nera's technical rights, workshop labor, Serin's provenance work and 07 service operation become mutually necessary.
+- `COST_REFUSAL_OR_LOSS`: access carries labor, punishment, provenance and claim exposure; an official record can no longer be treated as complete truth.
+- `SET_ADVANCE_CONDITION`: Nera's technical rights, workshop labor, Serin's provenance work and 07 service operation become mutually necessary.
+- `NEXT_DESIRE`: external mission, medical, route and certification actors now determine what the cell can legitimately do with 07.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA1-I-002` / `I-002` / Open-Service Workshop Seed — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=112
@@ -61,14 +63,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, LINEAGE, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C4 유물·증거, C6 기술·표준, C8 영토·노드·문명, C5 함선
-- `READER_DESIRE_MAIN`: Protector/Community Focal Network / Service Authority Key A / Neutral Medical Protection Clause → not personal rescue only; community representation and treatment / mutual fund E27–32; preference process E73–84
-- `DISCOVERY`: Protector/Community Focal Network / Service Authority Key A / Neutral Medical Protection Clause
-- `ACQUISITION_OR_CONNECTION`: not personal rescue only; community representation and treatment / mutual fund E27–32; preference process E73–84
-- `SYNERGY_OR_USE`: H-001 agency, Black Ward, charter rights, future route federation / archive access/rescue controls / E18–26 temporary custody and evidence chain / legal GA2 missions / representation/evacuation/charter E85–100
-- `COST_REFUSAL_OR_LOSS`: public exposure, internal disagreement, refusal of hero plans / Imperial detection / limited duration, debt/guarantees, no asylum / oversight, debt, risk classification, multiple sponsors / factional division, surveillance, elected leaders can be captured
-- `SET_ADVANCE_CONDITION`: H-001 agency, Black Ward, charter rights, future route federation / archive access/rescue controls / E18–26 temporary custody and evidence chain / legal GA2 missions / representation/evacuation/charter E85–100
-- `NEXT_DESIRE`: `G — represented community with separate voice`, exact focal 2–3 people open / `G/R — first of seven authorities, not seven machines` / `G — precedent used in charter` / `G — limited cell/ship eligibility` / `G — limited assembly, not united student nation`
+- `READER_DESIRE_MAIN`: mission insurance, medical stop authority, community guarantees, Service Authority A, Ern's independent objective and Helix safety all impose valid external limits. → secure bounded service/medical/route access and working relationships without erasing Ern, Helix or current stakeholders' right to refuse.
+- `DISCOVERY`: mission insurance, medical stop authority, community guarantees, Service Authority A, Ern's independent objective and Helix safety all impose valid external limits.
+- `ACQUISITION_OR_CONNECTION`: secure bounded service/medical/route access and working relationships without erasing Ern, Helix or current stakeholders' right to refuse.
+- `SYNERGY_OR_USE`: the cell can operate only by combining medical, route, technical and service authority rather than relying on Rian's future answer alone.
+- `COST_REFUSAL_OR_LOSS`: every useful outside relationship adds oversight, claim, refusal or control pressure.
+- `SET_ADVANCE_CONDITION`: the cell can operate only by combining medical, route, technical and service authority rather than relying on Rian's future answer alone.
+- `NEXT_DESIRE`: the first full powered test must prove whether this limited coalition survives when Rian's future-style operation causes real damage.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA1-P-011` / `P-011` / Protector/Community Focal Network — `EPISODE_OVERLAP+TITLE_TEXT` score=105
@@ -85,14 +88,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, CIVILIZATION, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C4 유물·증거, C2 기체, C3 무기·부품
-- `READER_DESIRE_MAIN`: Student Mutual Network / Assembly Seed / Student/Family Custody Manifest Fragments / White Dock Joint-Custody/Evidence Order → mutual fund E27–32; preference process E73–84 / E20–26 / consent-limited fragments / evidence chain, capacity guarantee, paid/conditional trusteeship
-- `DISCOVERY`: Student Mutual Network / Assembly Seed / Student/Family Custody Manifest Fragments / White Dock Joint-Custody/Evidence Order
-- `ACQUISITION_OR_CONNECTION`: mutual fund E27–32; preference process E73–84 / E20–26 / consent-limited fragments / evidence chain, capacity guarantee, paid/conditional trusteeship
-- `SYNERGY_OR_USE`: representation/evacuation/charter E85–100 / H-001 community, transfers, school/Helix system evidence / public inquiry, seals components/data / protector, AI-W001, identity-closure mystery / medical protection, public witness, charter audit
-- `COST_REFUSAL_OR_LOSS`: factional division, surveillance, elected leaders can be captured / exposes vulnerable identities / team must return and submit to investigation / patient privacy, incomplete truth / debt, limits, refusal of asylum/contraband
-- `SET_ADVANCE_CONDITION`: representation/evacuation/charter E85–100 / H-001 community, transfers, school/Helix system evidence / public inquiry, seals components/data / protector, AI-W001, identity-closure mystery / medical protection, public witness, charter audit
-- `NEXT_DESIRE`: `G — limited assembly, not united student nation` / `G/L — distributed, no single full copy` / `G — expired but precedent retained` / `G/R — death ≠ physical death alone` / `G — neutral trustee/auditor, not ally ownership`
+- `READER_DESIRE_MAIN`: Rian's future-style maneuver damages the current 07 and turns the betrayal test into a real question of responsibility rather than a theoretical choice. → keep the cell and 07 mission-capable without solving the failure by assigning one traitor or sacrificial culprit.
+- `DISCOVERY`: Rian's future-style maneuver damages the current 07 and turns the betrayal test into a real question of responsibility rather than a theoretical choice.
+- `ACQUISITION_OR_CONNECTION`: keep the cell and 07 mission-capable without solving the failure by assigning one traitor or sacrificial culprit.
+- `SYNERGY_OR_USE`: shared consequence, repair, route planning and bounded authority convert the failed test into a White Dock-ready minimum state.
+- `COST_REFUSAL_OR_LOSS`: 07 remains worn and limited, and the cell carries responsibility for a method already visible to outsiders.
+- `SET_ADVANCE_CONDITION`: shared consequence, repair, route planning and bounded authority convert the failed test into a White Dock-ready minimum state.
+- `NEXT_DESIRE`: White Dock begins with Ern already inside, shifting the desire from training survival to people/evidence/asset recovery under competing claims.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA1-I-001` / `I-001` / Student Mutual Network / Assembly Seed — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=117
@@ -109,14 +113,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C2 기체, C3 무기·부품, C7 세력·제도, C1 인물·관계, C6 기술·표준
-- `READER_DESIRE_MAIN`: White Dock Joint-Custody/Evidence Order / Neutral Medical Protection Clause / R-HEL-001 / Helix Evaluator → E20–26 / claims, inspection, recognition of H-002 labor, safety info / starts attached, suffers E19 damage, rebuilt across E21–45
-- `DISCOVERY`: White Dock Joint-Custody/Evidence Order / Neutral Medical Protection Clause / R-HEL-001 / Helix Evaluator
-- `ACQUISITION_OR_CONNECTION`: E20–26 / claims, inspection, recognition of H-002 labor, safety info / starts attached, suffers E19 damage, rebuilt across E21–45
-- `SYNERGY_OR_USE`: public inquiry, seals components/data / E18–26 temporary custody and evidence chain / components/treatment/contract realism, Helix internal split / anchor-leg + vector-leg doctrine / veto/ownership, workshop, 07 recovery
-- `COST_REFUSAL_OR_LOSS`: team must return and submit to investigation / limited duration, debt/guarantees, no asylum / debt, audit, data rights, supply pressure / joint damage, control difficulty, parts mismatch / operational delays, data obligations, disputes
-- `SET_ADVANCE_CONDITION`: public inquiry, seals components/data / E18–26 temporary custody and evidence chain / components/treatment/contract realism, Helix internal split / anchor-leg + vector-leg doctrine / veto/ownership, workshop, 07 recovery
-- `NEXT_DESIRE`: `G — expired but precedent retained` / `G — precedent used in charter` / `G — constrained contract stakeholder` / `G/R — defect becomes doctrine` / `G — charter-recognized partial right`
+- `READER_DESIRE_MAIN`: White Dock turns recovery into a multi-claim crisis: trapped people, evidence, Ern's separate objective and 07 components cannot all be pursued as one prize. → preserve enough people/evidence to return conditionally while learning that 07 itself is split among claimants rather than simply recovered.
+- `DISCOVERY`: White Dock turns recovery into a multi-claim crisis: trapped people, evidence, Ern's separate objective and 07 components cannot all be pursued as one prize.
+- `ACQUISITION_OR_CONNECTION`: preserve enough people/evidence to return conditionally while learning that 07 itself is split among claimants rather than simply recovered.
+- `SYNERGY_OR_USE`: Rian, Ern, Nera, Serin, Mia, Haren and local workers solve different rescue/evidence functions without becoming one owned team.
+- `COST_REFUSAL_OR_LOSS`: the locked White Dock deaths and lasting damage remain, radiator loss shuts 07 down, and custody/testimony stay divided.
+- `SET_ADVANCE_CONDITION`: Rian, Ern, Nera, Serin, Mia, Haren and local workers solve different rescue/evidence functions without becoming one owned team.
+- `NEXT_DESIRE`: Juno's impossible confession creates the next desire: distinguish a usable culprit story from the actual delegated system and guarantees behind it.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA1-R-005` / `R-005` / White Dock Joint-Custody/Evidence Order — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=118
@@ -133,14 +138,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C2 기체, C3 무기·부품
-- `READER_DESIRE_MAIN`: Student Mutual Guarantee Fund / S-001 / Data and Audit Cadet / Student Mutual Network / Assembly Seed → admission, evidence key, conditional source/privacy rules / mutual fund E27–32; preference process E73–84 / public inquiry, Black Ward access, siege command, accountability / claims, inspection, recognition of H-002 labor, safety info
-- `DISCOVERY`: Student Mutual Guarantee Fund / S-001 / Data and Audit Cadet / Student Mutual Network / Assembly Seed
-- `ACQUISITION_OR_CONNECTION`: admission, evidence key, conditional source/privacy rules / mutual fund E27–32; preference process E73–84 / public inquiry, Black Ward access, siege command, accountability / claims, inspection, recognition of H-002 labor, safety info
-- `SYNERGY_OR_USE`: scapegoat family/legal support, small independent resource / provenance, comms, public broadcast, patient identity protection, charter logs / representation/evacuation/charter E85–100 / training, staff/students, independent academy front / components/treatment/contract realism, Helix internal split
-- `COST_REFUSAL_OR_LOSS`: collective contributions/debt and infiltration / trust, family/identity risk, exposure of prior informing / factional division, surveillance, elected leaders can be captured / past harmed cells, limited trust, loss of unilateral authority / debt, audit, data rights, supply pressure
-- `SET_ADVANCE_CONDITION`: scapegoat family/legal support, small independent resource / provenance, comms, public broadcast, patient identity protection, charter logs / representation/evacuation/charter E85–100 / training, staff/students, independent academy front / components/treatment/contract realism, Helix internal split
-- `NEXT_DESIRE`: `G — part of student assembly finance` / GA4/8–10 core / `G — limited assembly, not united student nation` / academy/alumni arcs / `G — constrained contract stakeholder`
+- `READER_DESIRE_MAIN`: hearing evidence and delegated-token replay undermine the convenient single-culprit story while Serin's own complicity and Juno's conditions remain real. → replace secret disappearance with a small mutual guarantee and audited external placement that Juno can accept or refuse independently.
+- `DISCOVERY`: hearing evidence and delegated-token replay undermine the convenient single-culprit story while Serin's own complicity and Juno's conditions remain real.
+- `ACQUISITION_OR_CONNECTION`: replace secret disappearance with a small mutual guarantee and audited external placement that Juno can accept or refuse independently.
+- `SYNERGY_OR_USE`: testimony, provenance, manifest/medical checks and student guarantees jointly constrain institutional removal.
+- `COST_REFUSAL_OR_LOSS`: Serin self-exposes, transfer pressure accelerates and the new guarantee creates debt without recruiting Juno into Rian's team.
+- `SET_ADVANCE_CONDITION`: testimony, provenance, manifest/medical checks and student guarantees jointly constrain institutional removal.
+- `NEXT_DESIRE`: with Juno on a separate path, the next concrete desire becomes rebuilding 07 through legitimate component claims before the deadline.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA1-R-006` / `R-006` / Student Mutual Guarantee Fund — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=122
@@ -157,14 +163,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C1 인물·관계, C2 기체, C3 무기·부품, C7 세력·제도
-- `READER_DESIRE_MAIN`: R-HEL-001 / Helix Evaluator / Utility Sensor Head / I-001 / Field Instructor → claims, inspection, recognition of H-002 labor, safety info / initial, damaged/lost E19, replacement/repair E33–45 / public inquiry, Black Ward access, siege command, accountability / E33–38 auction/debt/claim / school salvage/labor claim E33–38
-- `DISCOVERY`: R-HEL-001 / Helix Evaluator / Utility Sensor Head / I-001 / Field Instructor
-- `ACQUISITION_OR_CONNECTION`: claims, inspection, recognition of H-002 labor, safety info / initial, damaged/lost E19, replacement/repair E33–45 / public inquiry, Black Ward access, siege command, accountability / E33–38 auction/debt/claim / school salvage/labor claim E33–38
-- `SYNERGY_OR_USE`: components/treatment/contract realism, Helix internal split / close-range heat/material/life signs and sensor tags / training, staff/students, independent academy front / extends combat/work window, vulnerable deployed geometry / rescue, cutting, anchoring, repair
-- `COST_REFUSAL_OR_LOSS`: debt, audit, data rights, supply pressure / poor long-range fire control / past harmed cells, limited trust, loss of unilateral authority / Helix inspection/debt; asymmetric torque / slow combat traverse, exposed bundles
-- `SET_ADVANCE_CONDITION`: components/treatment/contract realism, Helix internal split / close-range heat/material/life signs and sensor tags / training, staff/students, independent academy front / extends combat/work window, vulnerable deployed geometry / rescue, cutting, anchoring, repair
-- `NEXT_DESIRE`: `G — constrained contract stakeholder` / `G` / academy/alumni arcs / `G — functional but contract-inspected` / `G`
+- `READER_DESIRE_MAIN`: the component deadline reveals that radiator, arm, sensor and certified manifold each have different safety, labor and ownership paths. → recover a workable subset of 07 components through debt, shared use and evidence custody while deliberately abandoning an unsustainable certified part.
+- `DISCOVERY`: the component deadline reveals that radiator, arm, sensor and certified manifold each have different safety, labor and ownership paths.
+- `ACQUISITION_OR_CONNECTION`: recover a workable subset of 07 components through debt, shared use and evidence custody while deliberately abandoning an unsustainable certified part.
+- `SYNERGY_OR_USE`: Helix diagnosis, worker/design claims, Academy use rights and Neutral evidence mirrors create a mixed reconstruction path.
+- `COST_REFUSAL_OR_LOSS`: the manifold is lost, debt/inspection remain and the reconstructed 07 cannot become a clean fully owned machine.
+- `SET_ADVANCE_CONDITION`: Helix diagnosis, worker/design claims, Academy use rights and Neutral evidence mirrors create a mixed reconstruction path.
+- `NEXT_DESIRE`: the physically false Imperial core receipt shifts the collection desire from parts to the missing core's real custody chain.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA1-P-009` / `P-009` / R-HEL-001 / Helix Evaluator — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=114
@@ -181,14 +188,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C1 인물·관계, C2 기체, C7 세력·제도, C6 기술·표준
-- `READER_DESIRE_MAIN`: R-IMP-001 / Imperial Observer / Mixed Leg Pair / 07 Multi-Party Custody and Command Key Scheme → joint custody, secret offers, succession protocol / starts attached, suffers E19 damage, rebuilt across E21–45 / E39–45 and E93–100 / public inquiry, Black Ward access, siege command, accountability / partial access E7–10; dispersed E19; joint recovery E39–45
-- `DISCOVERY`: R-IMP-001 / Imperial Observer / Mixed Leg Pair / 07 Multi-Party Custody and Command Key Scheme
-- `ACQUISITION_OR_CONNECTION`: joint custody, secret offers, succession protocol / starts attached, suffers E19 damage, rebuilt across E21–45 / E39–45 and E93–100 / public inquiry, Black Ward access, siege command, accountability / partial access E7–10; dispersed E19; joint recovery E39–45
-- `SYNERGY_OR_USE`: delays seizures, access to imperial records, charter state observer / anchor-leg + vector-leg doctrine / no single faction/person can deploy/erase frame/core / training, staff/students, independent academy front / diagnostics, old node/service protocol, frame operation
-- `COST_REFUSAL_OR_LOSS`: classified relocation, surveillance, service claim / joint damage, control difficulty, parts mismatch / delayed response and complicated emergency access / past harmed cells, limited trust, loss of unilateral authority / surveillance, cyber vulnerability, multi-party custody
-- `SET_ADVANCE_CONDITION`: delays seizures, access to imperial records, charter state observer / anchor-leg + vector-leg doctrine / no single faction/person can deploy/erase frame/core / training, staff/students, independent academy front / diagnostics, old node/service protocol, frame operation
-- `NEXT_DESIRE`: `G — official observer with limited charter power` / `G/R — defect becomes doctrine` / `G — early model for later distributed command` -- / academy/alumni arcs / `G — installed under shared locks`
+- `READER_DESIRE_MAIN`: the missing core's physical/legal custody and continuity-protocol diversion lead to a useful but exclusive Imperial protection offer. → return the core under four-lock/shared custody and regain conditional 07 operation without making Rian the personal owner of the protection or machine.
+- `DISCOVERY`: the missing core's physical/legal custody and continuity-protocol diversion lead to a useful but exclusive Imperial protection offer.
+- `ACQUISITION_OR_CONNECTION`: return the core under four-lock/shared custody and regain conditional 07 operation without making Rian the personal owner of the protection or machine.
+- `SYNERGY_OR_USE`: team disclosure, witness protection, service-authority separation and inferior cooling allow a weaker but accountable 07 to function.
+- `COST_REFUSAL_OR_LOSS`: the machine remains constrained and the visible fifth-answer method escapes the team's control.
+- `SET_ADVANCE_CONDITION`: team disclosure, witness protection, service-authority separation and inferior cooling allow a weaker but accountable 07 to function.
+- `NEXT_DESIRE`: C-9's imitation turns the next desire toward the people, treatment system and grievance hidden behind the copied method.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA1-P-007` / `P-007` / R-IMP-001 / Imperial Observer — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=119
@@ -205,14 +213,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도
-- `READER_DESIRE_MAIN`: Fifth-Answer Myth / M-001 / Medical and Rescue Cadet → Black Ward access, medical stop authority, consent-centered triage
-- `DISCOVERY`: Fifth-Answer Myth / M-001 / Medical and Rescue Cadet
-- `ACQUISITION_OR_CONNECTION`: Black Ward access, medical stop authority, consent-centered triage
-- `SYNERGY_OR_USE`: student organizing and charter language / casualty care, patient representation, siege medical zones, charter health minimum
-- `COST_REFUSAL_OR_LOSS`: reckless imitation, protagonist myth, simplification / limited supplies, choices against protagonist preference, treatment dependency/debt
-- `SET_ADVANCE_CONDITION`: student organizing and charter language / casualty care, patient representation, siege medical zones, charter health minimum
-- `NEXT_DESIRE`: `R — principle becomes shared-risk/authority, not clever loophole` / GA6/9–10
+- `READER_DESIRE_MAIN`: the imitation crisis contains real transfer/treatment/family grievances, consent boundaries, adapter provenance and clinically necessary hidden treatment—not a single fake-hero cause. → separate the myth from the actual injured people and institutional/technical causes well enough to reach Black Ward without treating patients as targets to seize.
+- `DISCOVERY`: the imitation crisis contains real transfer/treatment/family grievances, consent boundaries, adapter provenance and clinically necessary hidden treatment—not a single fake-hero cause.
+- `ACQUISITION_OR_CONNECTION`: separate the myth from the actual injured people and institutional/technical causes well enough to reach Black Ward without treating patients as targets to seize.
+- `SYNERGY_OR_USE`: Mia's stop authority, provenance work, safety freezes and public myth correction keep care and investigation from collapsing into one rescue action.
+- `COST_REFUSAL_OR_LOSS`: manual release causes injuries, Leta disappears from the public roster and dismantling the myth carries political cost.
+- `SET_ADVANCE_CONDITION`: Mia's stop authority, provenance work, safety freezes and public myth correction keep care and investigation from collapsing into one rescue action.
+- `NEXT_DESIRE`: Black Ward is now a necessary care system and control system at once, creating the desire to learn what it genuinely saves and what it owns.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지
 - `ACTIVE_TARGETS`:
   - `CLT-GA1-I-004` / `I-004` / Fifth-Answer Myth — `EPISODE_OVERLAP+TITLE_TEXT` score=110
@@ -226,14 +235,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, CIVILIZATION, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C4 유물·증거
-- `READER_DESIRE_MAIN`: AI-W001 / Black Ward Witness Interface / Medical/Administrative Death Records / Multi-Party Medical Oversight → patient consent, limited data copy, medical survival / consent-limited fragments / E52–72 / partial protocol, not full physical key
-- `DISCOVERY`: AI-W001 / Black Ward Witness Interface / Medical/Administrative Death Records / Multi-Party Medical Oversight
-- `ACQUISITION_OR_CONNECTION`: patient consent, limited data copy, medical survival / consent-limited fragments / E52–72 / partial protocol, not full physical key
-- `SYNERGY_OR_USE`: protocol clue, identity-death evidence, siege authentication / protector, AI-W001, identity-closure mystery / patients, AI witness, siege medical zones, charter / medical/identity system translation during siege
-- `COST_REFUSAL_OR_LOSS`: incomplete information, vulnerability, political seizure attempts / patient privacy, incomplete truth / data disputes, supply dependence, slower research / patient/AI consent and incomplete access
-- `SET_ADVANCE_CONDITION`: protocol clue, identity-death evidence, siege authentication / protector, AI-W001, identity-closure mystery / patients, AI witness, siege medical zones, charter / medical/identity system translation during siege
-- `NEXT_DESIRE`: `C/G — consent-limited witness under multi-party protection` / `G/R — death ≠ physical death alone` / `G` / `C — protocol fragment` Keys D–G: may be named/teased only after E100 unless already present as background identifiers. no surprise functional key beyond A–C in GA1.
+- `READER_DESIRE_MAIN`: Black Ward is a functioning hospital whose patients can reject outsider rescue, while treatment, research, identity and hardware control are separate layers. → gain bounded patient representation, consent and provenance access without converting treatment access into extraction or strategic ownership.
+- `DISCOVERY`: Black Ward is a functioning hospital whose patients can reject outsider rescue, while treatment, research, identity and hardware control are separate layers.
+- `ACQUISITION_OR_CONNECTION`: gain bounded patient representation, consent and provenance access without converting treatment access into extraction or strategic ownership.
+- `SYNERGY_OR_USE`: rehabilitation, medical stop authority, patient representation and ORA-3's bounded source interface make care possible without one total controller.
+- `COST_REFUSAL_OR_LOSS`: patients remain dependent, extraction can be refused and strategic use is stopped even when technically useful.
+- `SET_ADVANCE_CONDITION`: rehabilitation, medical stop authority, patient representation and ORA-3's bounded source interface make care possible without one total controller.
+- `NEXT_DESIRE`: ORA can identify sources but not supply complete memory, so the next desire becomes deciding how much identity/history may be recovered at current-person cost.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA1-P-010` / `P-010` / AI-W001 / Black Ward Witness Interface — `EPISODE_OVERLAP+TITLE_TEXT` score=119
@@ -249,14 +259,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C1 인물·관계, C4 유물·증거, C7 세력·제도, C6 기술·표준
-- `READER_DESIRE_MAIN`: Medical/Administrative Death Records / Patient Consent and Data-Access Protocol / Multi-Party Medical Oversight → consent-limited fragments / E59–72 / E52–72 / patient consent, limited data copy, medical survival / partial protocol, not full physical key
-- `DISCOVERY`: Medical/Administrative Death Records / Patient Consent and Data-Access Protocol / Multi-Party Medical Oversight
-- `ACQUISITION_OR_CONNECTION`: consent-limited fragments / E59–72 / E52–72 / patient consent, limited data copy, medical survival / partial protocol, not full physical key
-- `SYNERGY_OR_USE`: protector, AI-W001, identity-closure mystery / AI-W001, medical records, Black Ward oversight / patients, AI witness, siege medical zones, charter / protocol clue, identity-death evidence, siege authentication / medical/identity system translation during siege
-- `COST_REFUSAL_OR_LOSS`: patient privacy, incomplete truth / missing information, slower treatment/research / data disputes, supply dependence, slower research / incomplete information, vulnerability, political seizure attempts / patient/AI consent and incomplete access
-- `SET_ADVANCE_CONDITION`: protector, AI-W001, identity-closure mystery / AI-W001, medical records, Black Ward oversight / patients, AI witness, siege medical zones, charter / protocol clue, identity-death evidence, siege authentication / medical/identity system translation during siege
-- `NEXT_DESIRE`: `G/R — death ≠ physical death alone` / `G — provisional standard` / `G` / `C/G — consent-limited witness under multi-party protection` / `C — protocol fragment` Keys D–G: may be named/teased only after E100 unless already present as background identifiers. no surprise functional key beyond A–C in GA1.
+- `READER_DESIRE_MAIN`: ORA provides sources rather than complete memory, and current/old/new/sealed identity packages conflict with patient privacy and outside offers. → preserve usable identity/provenance processes while allowing deletion, forgetting and Orvan's refusal to be restored or extracted.
+- `DISCOVERY`: ORA provides sources rather than complete memory, and current/old/new/sealed identity packages conflict with patient privacy and outside offers.
+- `ACQUISITION_OR_CONNECTION`: preserve usable identity/provenance processes while allowing deletion, forgetting and Orvan's refusal to be restored or extracted.
+- `SYNERGY_OR_USE`: aggregate publication, consent, medical dependency and bounded transfer rules let identity records serve current people without becoming a complete master archive.
+- `COST_REFUSAL_OR_LOSS`: a strategic fragment is permanently lost, targets/data can escape and some identities still require continuing medicine.
+- `SET_ADVANCE_CONDITION`: aggregate publication, consent, medical dependency and bounded transfer rules let identity records serve current people without becoming a complete master archive.
+- `NEXT_DESIRE`: scarce treatment cycles and competing destinations make the next collection desire a workable multi-party care combination rather than fuller information.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA1-R-003` / `R-003` / Medical/Administrative Death Records — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=115
@@ -273,14 +284,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도
-- `READER_DESIRE_MAIN`: Patient Consent and Data-Access Protocol / Multi-Party Medical Oversight → E59–72 / E52–72
-- `DISCOVERY`: Patient Consent and Data-Access Protocol / Multi-Party Medical Oversight
-- `ACQUISITION_OR_CONNECTION`: E59–72 / E52–72
-- `SYNERGY_OR_USE`: AI-W001, medical records, Black Ward oversight / patients, AI witness, siege medical zones, charter
-- `COST_REFUSAL_OR_LOSS`: missing information, slower treatment/research / data disputes, supply dependence, slower research
-- `SET_ADVANCE_CONDITION`: AI-W001, medical records, Black Ward oversight / patients, AI witness, siege medical zones, charter
-- `NEXT_DESIRE`: `G — provisional standard` / `G`
+- `READER_DESIRE_MAIN`: patients face different urgency, dependency and preferred risk while Helix, Neutral, adapters, 07 service and seizure pressure offer incompatible care paths. → assemble a bounded mixed treatment/destination arrangement that keeps patients alive without giving any one provider total ownership.
+- `DISCOVERY`: patients face different urgency, dependency and preferred risk while Helix, Neutral, adapters, 07 service and seizure pressure offer incompatible care paths.
+- `ACQUISITION_OR_CONNECTION`: assemble a bounded mixed treatment/destination arrangement that keeps patients alive without giving any one provider total ownership.
+- `SYNERGY_OR_USE`: patient choice, open bridge, Neutral berths, medical stop authority and limited Helix/adapter governance cover different parts of care.
+- `COST_REFUSAL_OR_LOSS`: serious complications, distributed-delay harm and lost hostile/evidence opportunities remain; the school enters insolvency.
+- `SET_ADVANCE_CONDITION`: patient choice, open bridge, Neutral berths, medical stop authority and limited Helix/adapter governance cover different parts of care.
+- `NEXT_DESIRE`: the treatment solution exposes the academy's 30-day survival crisis, moving collection desire from patients to competing institutional futures.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA1-R-009` / `R-009` / Patient Consent and Data-Access Protocol — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=119
@@ -294,14 +306,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도
-- `READER_DESIRE_MAIN`: Student/Staff Preference and Representation Record / Student Mutual Network / Assembly Seed → E73–84 / mutual fund E27–32; preference process E73–84
-- `DISCOVERY`: Student/Staff Preference and Representation Record / Student Mutual Network / Assembly Seed
-- `ACQUISITION_OR_CONNECTION`: E73–84 / mutual fund E27–32; preference process E73–84
-- `SYNERGY_OR_USE`: closure/takeover negotiations / representation/evacuation/charter E85–100
-- `COST_REFUSAL_OR_LOSS`: exposes internal divisions and faction targets / factional division, surveillance, elected leaders can be captured
-- `SET_ADVANCE_CONDITION`: closure/takeover negotiations / representation/evacuation/charter E85–100
-- `NEXT_DESIRE`: `G — not permanent constitution` / `G — limited assembly, not united student nation`
+- `READER_DESIRE_MAIN`: the closure clock exposes several materially different student/staff futures, and a single vote cannot represent the conditional preferences of the whole academy. → build a usable conditional preference map and representative limits before covert transfer turns one sponsor's package into the default outcome.
+- `DISCOVERY`: the closure clock exposes several materially different student/staff futures, and a single vote cannot represent the conditional preferences of the whole academy.
+- `ACQUISITION_OR_CONNECTION`: build a usable conditional preference map and representative limits before covert transfer turns one sponsor's package into the default outcome.
+- `SYNERGY_OR_USE`: screening, treatment, routes, emergency work and survey evidence make each package legible through lived service effects rather than slogans.
+- `COST_REFUSAL_OR_LOSS`: there is no majority, vulnerable cases are exposed and the secret Imperial transfer accelerates the conflict.
+- `SET_ADVANCE_CONDITION`: screening, treatment, routes, emergency work and survey evidence make each package legible through lived service effects rather than slogans.
+- `NEXT_DESIRE`: the next desire is to compare the five takeover/continuation packages by real capacity, autonomy and cost instead of future-hero value.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지
 - `ACTIVE_TARGETS`:
   - `CLT-GA1-R-010` / `R-010` / Student/Staff Preference and Representation Record — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=122
@@ -315,14 +328,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도
-- `READER_DESIRE_MAIN`: Student/Staff Preference and Representation Record / Student Mutual Network / Assembly Seed / 제13학원 임시공동운영·보호헌장 → E73–84 / mutual fund E27–32; preference process E73–84
-- `DISCOVERY`: Student/Staff Preference and Representation Record / Student Mutual Network / Assembly Seed / 제13학원 임시공동운영·보호헌장
-- `ACQUISITION_OR_CONNECTION`: E73–84 / mutual fund E27–32; preference process E73–84
-- `SYNERGY_OR_USE`: closure/takeover negotiations / representation/evacuation/charter E85–100 / rights, mission board, audit, representation, conditional autonomy
-- `COST_REFUSAL_OR_LOSS`: exposes internal divisions and faction targets / factional division, surveillance, elected leaders can be captured / slowness, underfunding, revocability, competing claims
-- `SET_ADVANCE_CONDITION`: closure/takeover negotiations / representation/evacuation/charter E85–100 / rights, mission board, audit, representation, conditional autonomy
-- `NEXT_DESIRE`: `G — not permanent constitution` / `G — limited assembly, not united student nation` / `G — grand-act institutional reward`
+- `READER_DESIRE_MAIN`: Imperial, Helix, Independence, Neutral and internal/hybrid packages each provide real benefits while imposing different control, capacity and exit limits. → identify a viable but bounded continuation arrangement without using Rian's rejected future-hero ranking to decide who or which package matters most.
+- `DISCOVERY`: Imperial, Helix, Independence, Neutral and internal/hybrid packages each provide real benefits while imposing different control, capacity and exit limits.
+- `ACQUISITION_OR_CONNECTION`: identify a viable but bounded continuation arrangement without using Rian's rejected future-hero ranking to decide who or which package matters most.
+- `SYNERGY_OR_USE`: defense, treatment, route capacity, funding and voluntary departures are compared as different functions rather than collapsed into one sponsor score.
+- `COST_REFUSAL_OR_LOSS`: the hybrid remains underfunded, departures proceed and competing claims physically activate before agreement is complete.
+- `SET_ADVANCE_CONDITION`: defense, treatment, route capacity, funding and voluntary departures are compared as different functions rather than collapsed into one sponsor score.
+- `NEXT_DESIRE`: the packages now become armed operational fronts, so the next desire is to preserve people/records/choices when the school itself becomes the battlefield.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지
 - `ACTIVE_TARGETS`:
   - `CLT-GA1-R-010` / `R-010` / Student/Staff Preference and Representation Record — `EPISODE_OVERLAP+DOMAIN_MATCH` score=110
@@ -337,14 +351,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도
-- `READER_DESIRE_MAIN`: Student Mutual Network / Assembly Seed → mutual fund E27–32; preference process E73–84
-- `DISCOVERY`: Student Mutual Network / Assembly Seed
-- `ACQUISITION_OR_CONNECTION`: mutual fund E27–32; preference process E73–84
-- `SYNERGY_OR_USE`: representation/evacuation/charter E85–100
-- `COST_REFUSAL_OR_LOSS`: factional division, surveillance, elected leaders can be captured
-- `SET_ADVANCE_CONDITION`: representation/evacuation/charter E85–100
-- `NEXT_DESIRE`: `G — limited assembly, not united student nation`
+- `READER_DESIRE_MAIN`: six simultaneous fronts prove that the academy cannot save every zone, person, record and asset under separate claims and time limits. → keep enough independent people, records and service functions alive to prepare a segmented response instead of surrendering everything to one seizure.
+- `DISCOVERY`: six simultaneous fronts prove that the academy cannot save every zone, person, record and asset under separate claims and time limits.
+- `ACQUISITION_OR_CONNECTION`: keep enough independent people, records and service functions alive to prepare a segmented response instead of surrendering everything to one seizure.
+- `SYNERGY_OR_USE`: local actors, medical transfers, aggregate records, 07 combat and bounded centralized clinical action protect different fronts.
+- `COST_REFUSAL_OR_LOSS`: locked deaths, serious injuries, workshop/record/capacity loss and unsaved zones remain; central command is shown to be genuinely faster in some cases.
+- `SET_ADVANCE_CONDITION`: local actors, medical transfers, aggregate records, 07 combat and bounded centralized clinical action protect different fronts.
+- `NEXT_DESIRE`: Rian can now take the central key, creating the final GA1 desire: use that power without turning emergency control into permanent ownership.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지
 - `ACTIVE_TARGETS`:
   - `CLT-GA1-I-001` / `I-001` / Student Mutual Network / Assembly Seed — `EPISODE_OVERLAP` score=108
@@ -357,14 +372,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C5 함선, C2 기체
-- `READER_DESIRE_MAIN`: Student Mutual Network / Assembly Seed / Academy Alumni/External Mission Cell / External Mission License → mutual fund E27–32; preference process E73–84 / E93–100 / E39–45 and E93–100 / not personal rescue only; community representation and treatment
-- `DISCOVERY`: Student Mutual Network / Assembly Seed / Academy Alumni/External Mission Cell / External Mission License
-- `ACQUISITION_OR_CONNECTION`: mutual fund E27–32; preference process E73–84 / E93–100 / E39–45 and E93–100 / not personal rescue only; community representation and treatment
-- `SYNERGY_OR_USE`: representation/evacuation/charter E85–100 / GA2 ship/contract structure / legal GA2 missions / no single faction/person can deploy/erase frame/core / H-001 agency, Black Ward, charter rights, future route federation
-- `COST_REFUSAL_OR_LOSS`: factional division, surveillance, elected leaders can be captured / academy reputation, sponsor influence, members can choose other factions / oversight, debt, risk classification, multiple sponsors / delayed response and complicated emergency access / public exposure, internal disagreement, refusal of hero plans
-- `SET_ADVANCE_CONDITION`: representation/evacuation/charter E85–100 / GA2 ship/contract structure / legal GA2 missions / no single faction/person can deploy/erase frame/core / H-001 agency, Black Ward, charter rights, future route federation
-- `NEXT_DESIRE`: `G — limited assembly, not united student nation` / `C/G — first licensed autonomous mission unit` -- / `G — limited cell/ship eligibility` / `G — early model for later distributed command` -- / `G — represented community with separate voice`, exact focal 2–3 people open
+- `READER_DESIRE_MAIN`: central authority can save lives faster, but keeping it would turn emergency success into permanent control over people, records and assets. → stop the mass seizure with bounded central use, then distribute authority into an underfunded charter and independent mission roles before master access expires.
+- `DISCOVERY`: central authority can save lives faster, but keeping it would turn emergency success into permanent control over people, records and assets.
+- `ACQUISITION_OR_CONNECTION`: stop the mass seizure with bounded central use, then distribute authority into an underfunded charter and independent mission roles before master access expires.
+- `SYNERGY_OR_USE`: segmented authority, local decisions, board/charter rules and separate external-mission roles preserve function after Rian relinquishes the key.
+- `COST_REFUSAL_OR_LOSS`: slower distribution causes visible harm, funding stays short, losses and 07 wear remain, and some people leave under their own choices.
+- `SET_ADVANCE_CONDITION`: segmented authority, local decisions, board/charter rules and separate external-mission roles preserve function after Rian relinquishes the key.
+- `NEXT_DESIRE`: the first distressed-ship/ghost-key contract turns the next desire into acquiring an operable ship and crew whose command cannot collapse back into Rian.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA1-I-001` / `I-001` / Student Mutual Network / Assembly Seed — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=124

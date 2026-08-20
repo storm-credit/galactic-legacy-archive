@@ -13,6 +13,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: Orpheus survivors/functions arrive unevenly; other fronts and holdouts demand supplies promised during GA6. → public federation obligation/shortage map.
 - `DISCOVERY`: Orpheus survivors/functions arrive unevenly; other fronts and holdouts demand supplies promised during GA6.
@@ -33,6 +34,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: respond to local closure without military/central seizure. → one crisis mitigated and appeal/compensation concept established.
 - `DISCOVERY`: respond to local closure without military/central seizure.
@@ -53,6 +55,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C8 영토·노드·문명, C7 세력·제도
 - `READER_DESIRE_MAIN`: define emergency federation authority before closures spread. → federation emergency mandate and multi-region operations cell.
 - `DISCOVERY`: define emergency federation authority before closures spread.
@@ -74,6 +77,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: compare federation response with Continuity corridor during simultaneous supply/attack crisis. → limited federation–Continuity service agreement or data link.
 - `DISCOVERY`: compare federation response with Continuity corridor during simultaneous supply/attack crisis.
@@ -94,6 +98,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: investigate denial attributed to H-001. → first separation of person, office, doctrine and delegated key.
 - `DISCOVERY`: investigate denial attributed to H-001.
@@ -114,6 +119,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C6 기술·표준, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: hold/evacuate a route without immediate hard denial. → people/infrastructure saved through restraint.
 - `DISCOVERY`: hold/evacuate a route without immediate hard denial.
@@ -134,6 +140,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C6 기술·표준, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: establish denial-key custody and thresholds. → distributed denial registry and layered D0–D4 authority.
 - `DISCOVERY`: establish denial-key custody and thresholds.
@@ -156,6 +163,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, LINEAGE, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C6 기술·표준, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: identify office/title inheritance and radical successor network. → partial Blood Admiral decomposition and some key revocations.
 - `DISCOVERY`: identify office/title inheritance and radical successor network.
@@ -178,6 +186,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: establish exact dependency/capture/evacuation facts for target node. → public uncertainty map and staged D1–D4 plan.
 - `DISCOVERY`: establish exact dependency/capture/evacuation facts for target node.
@@ -198,6 +207,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: exhaust credible alternatives without pretending every possibility can be tried. → reduced population/asset exposure and real options narrowed.
 - `DISCOVERY`: exhaust credible alternatives without pretending every possibility can be tried.
@@ -218,14 +228,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
-- `READER_DESIRE_MAIN`: H-001 D4 Denial Order / Affected-Region Standing Rule → E741–790.
-- `DISCOVERY`: H-001 D4 Denial Order / Affected-Region Standing Rule
-- `ACQUISITION_OR_CONNECTION`: E741–790.
-- `SYNERGY_OR_USE`: prevents strategic capture and saves another population/front. / downstream regions gain evidence/appeal/decision standing before denial.
-- `COST_REFUSAL_OR_LOSS`: working range 80,000–250,000 people stranded/captured/missing/severely exposed plus downstream service deaths, pending simulation. / slows emergency action and can pressure local residents into risk.
-- `SET_ADVANCE_CONDITION`: prevents strategic capture and saves another population/front. / downstream regions gain evidence/appeal/decision standing before denial.
-- `NEXT_DESIRE`: casualty/service reports and propaganda instantly label H-001 “Blood Admiral,” while other simultaneous denial incidents are also attributed to him.
+- `READER_DESIRE_MAIN`: the disputed threshold is reached and H-001 must personally authorize or refuse D4 hard denial under uncertainty while local operators retain execution/refusal choices. → prevent route/node capture and protect another strategic population/front without converting H-001's authority into a mythically consequence-free command.
+- `DISCOVERY`: the disputed threshold is reached and H-001 must personally authorize or refuse D4 hard denial under uncertainty while local operators retain execution/refusal choices.
+- `ACQUISITION_OR_CONNECTION`: prevent route/node capture and protect another strategic population/front without converting H-001's authority into a mythically consequence-free command.
+- `SYNERGY_OR_USE`: H-001 owns the order, P-001 can argue but not automatically veto, and local captains/operators separately execute, delay or refuse during evacuation and fighting.
+- `COST_REFUSAL_OR_LOSS`: the node/route is destroyed or severely degraded and incomplete evacuees/dependents suffer; the beat cannot end triumphantly.
+- `SET_ADVANCE_CONDITION`: H-001 owns the order, P-001 can argue but not automatically veto, and local captains/operators separately execute, delay or refuse during evacuation and fighting.
+- `NEXT_DESIRE`: casualty/service reports and propaganda immediately attach the Blood Admiral name to H-001 and other denial incidents, creating the next accountability/record desire.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음
 - `ACTIVE_TARGETS`:
   - `CLT-GA7-G7-R09` / `G7-R09` / H-001 D4 Denial Order — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=118
@@ -239,6 +250,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: rescue/aid stranded/dependent groups and preserve evidence before faction narratives harden. → some survivors/records/claims preserved.
 - `DISCOVERY`: rescue/aid stranded/dependent groups and preserve evidence before faction narratives harden.
@@ -260,6 +272,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C1 인물·관계, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: identify a manageable representative set of future/current incidents. → incident matrix and multiple responsible actors.
 - `DISCOVERY`: identify a manageable representative set of future/current incidents.
@@ -282,6 +295,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C1 인물·관계, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: protect accountability from both singular myth and responsibility dilution. → specific responsibility categories and separate proceedings/claims.
 - `DISCOVERY`: protect accountability from both singular myth and responsibility dilution.
@@ -304,6 +318,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C8 영토·노드·문명, C7 세력·제도
 - `READER_DESIRE_MAIN`: run one final multi-route emergency without relying on H-001 as sole coordinator or singular title. → route federation becomes an institution rather than H-001’s network.
 - `DISCOVERY`: run one final multi-route emergency without relying on H-001 as sole coordinator or singular title.
@@ -328,6 +343,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도
 - `READER_DESIRE_MAIN`: publish/establish plural incident records, direct accountability and H-001’s future role. Possible H-001 outcome — recommended: removed/resigns from singular emergency office. remains elected/contracted political/logistics actor under narrower authority, or leads a separate accountable organization. accepts specific legal/compensation obligations. refuses martyrdom or P-001 subordination. → no total absolution, but individuals/institutions regain names and causal roles.
 - `DISCOVERY`: publish/establish plural incident records, direct accountability and H-001’s future role. Possible H-001 outcome — recommended: removed/resigns from singular emergency office. remains elected/contracted political/logistics actor under narrower authority, or leads a separate accountable organization. accepts specific legal/compensation obligations. refuses martyrdom or P-001 subordination.

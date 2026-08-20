@@ -13,6 +13,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C4 유물·증거, C5 함선, C7 세력·제도, C6 기술·표준, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: common coolant trunk means both reactors are not true redundancy. second frame bay was removed under a disputed insurance salvage event. previous crew has unpaid claims and distrusts students. hull access; old crew roster; defect ledger; title/lien case. → 14-day survey/tow access and freeze on stripping. CAP-001 agrees to conditional command negotiation.
 - `DISCOVERY`: common coolant trunk means both reactors are not true redundancy. second frame bay was removed under a disputed insurance salvage event. previous crew has unpaid claims and distrusts students. hull access; old crew roster; defect ledger; title/lien case.
@@ -37,6 +38,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C5 함선, C7 세력·제도, C1 인물·관계, C4 유물·증거, C6 기술·표준, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: create a legal minimum command/crew structure and decide who owns final authority. → provisional ship command charter and minimum licensed roster.
 - `DISCOVERY`: create a legal minimum command/crew structure and decide who owns final authority.
@@ -61,6 +63,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도, C8 영토·노드·문명, C3 무기·부품, C5 함선, C2 기체
 - `READER_DESIRE_MAIN`: repair only what is needed for minimum transit without pretending the ship is complete. → minimum transit certificate. first official crew muster and shipboard home state.
 - `DISCOVERY`: repair only what is needed for minimum transit without pretending the ship is complete.
@@ -85,14 +88,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, LINEAGE, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C1 인물·관계, C4 유물·증거, C5 함선, C7 세력·제도, C3 무기·부품
-- `READER_DESIRE_MAIN`: First Ship Crew and Mission Trust / Brann–Neris Standards/Worker Council / Recycler Upgrade or Vela Biological Module → route/insurance certification; mixed reputation; crew trusts authority process slightly more.
-- `DISCOVERY`: First Ship Crew and Mission Trust / Brann–Neris Standards/Worker Council / Recycler Upgrade or Vela Biological Module
-- `ACQUISITION_OR_CONNECTION`: route/insurance certification; mixed reputation; crew trusts authority process slightly more.
-- `SYNERGY_OR_USE`: route/insurance certification; mixed reputation; crew trusts authority process slightly more.
-- `COST_REFUSAL_OR_LOSS`: one repair worsens; debt/pay tension; P-001 publicly blamed or praised for an incomplete mission.
-- `SET_ADVANCE_CONDITION`: route/insurance certification; mixed reputation; crew trusts authority process slightly more.
-- `NEXT_DESIRE`: `G — functional but fragile crew institution`. / `G — provisional council, not unified permanent faction`. / `C/G — one capacity improvement, not unlimited passengers`. / not intact ghost ship; reused registry/identity chain.
+- `READER_DESIRE_MAIN`: the first real voyage combines delivery, rescue/tow, passenger/inspection and non-escalation obligations that the ship cannot satisfy at full tactical output simultaneously. → complete enough of the voyage to earn route/insurance certification and slightly stronger crew trust without overriding valid captain/engineering/medical vetoes.
+- `DISCOVERY`: the first real voyage combines delivery, rescue/tow, passenger/inspection and non-escalation obligations that the ship cannot satisfy at full tactical output simultaneously.
+- `ACQUISITION_OR_CONNECTION`: complete enough of the voyage to earn route/insurance certification and slightly stronger crew trust without overriding valid captain/engineering/medical vetoes.
+- `SYNERGY_OR_USE`: NAV-001, Q-001 and crew route/cargo/contract knowledge preserve an objective Rian did not prioritize while 07 remains only one tool in the mission.
+- `COST_REFUSAL_OR_LOSS`: cargo/payment, a suspect target or another objective is lost; repair and debt/pay pressure worsen despite operational arrival.
+- `SET_ADVANCE_CONDITION`: NAV-001, Q-001 and crew route/cargo/contract knowledge preserve an objective Rian did not prioritize while 07 remains only one tool in the mission.
+- `NEXT_DESIRE`: a salvage manifest ties the removed second-bay/service module to NR72-061, creating the ghost-parts collection desire.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA2-G2-I01` / `G2-I01` / First Ship Crew and Mission Trust — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=129
@@ -108,6 +112,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C5 함선, C3 무기·부품
 - `READER_DESIRE_MAIN`: authenticate salvage manifest and obtain route/claim standing. → Marn/Neris search route, one genuine module serial, old crew map.
 - `DISCOVERY`: authenticate salvage manifest and obtain route/claim standing.
@@ -131,6 +136,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C5 함선, C3 무기·부품
 - `READER_DESIRE_MAIN`: transponder attached to a tug/parts caravan or autonomous maintenance train assembled from several hulls. some workers live aboard under irregular identity. → direct access to genuine service collar/module records.
 - `DISCOVERY`: transponder attached to a tug/parts caravan or autonomous maintenance train assembled from several hulls. some workers live aboard under irregular identity.
@@ -155,6 +161,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C5 함선, C3 무기·부품, C1 인물·관계, C7 세력·제도
 - `READER_DESIRE_MAIN`: identify which component/log is genuine before installation/route window closes. → discover functional/identity provenance layers and a better test/governance method. Archive reliability on equipment explicitly questioned.
 - `DISCOVERY`: identify which component/log is genuine before installation/route window closes.
@@ -179,14 +186,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, LINEAGE, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C3 무기·부품, C5 함선, C6 기술·표준, C1 인물·관계, C7 세력·제도
-- `READER_DESIRE_MAIN`: Partial Bay 2 / Relay-Service Collar / Relay Calibration Package / Brann–Neris Standards/Worker Council → partial second bay/service module. recognized worker/labor claim and old AUXILIA lineage.
-- `DISCOVERY`: Partial Bay 2 / Relay-Service Collar / Relay Calibration Package / Brann–Neris Standards/Worker Council
-- `ACQUISITION_OR_CONNECTION`: partial second bay/service module. recognized worker/labor claim and old AUXILIA lineage.
-- `SYNERGY_OR_USE`: partial second bay/service module. recognized worker/labor claim and old AUXILIA lineage.
-- `COST_REFUSAL_OR_LOSS`: revenue share, transport obligation or protection promise. forged-system vulnerability remains in regional supply.
-- `SET_ADVANCE_CONDITION`: partial second bay/service module. recognized worker/labor claim and old AUXILIA lineage.
-- `NEXT_DESIRE`: `G/R — service capability prioritized over second elite combat frame`. / `G — damaged/expended or still limited after Silex`. / `G — provisional council, not unified permanent faction`. / `G`. / `C/G — one capacity improvement, not unlimited passengers`.
+- `READER_DESIRE_MAIN`: the recovered 061 collar/module can improve second-bay capacity or preserve relay-service value, but current claimants and future Silex needs prevent taking both benefits freely. → install a partial modular service collar while retaining calibration capacity for Silex and recognizing worker/labor claims.
+- `DISCOVERY`: the recovered 061 collar/module can improve second-bay capacity or preserve relay-service value, but current claimants and future Silex needs prevent taking both benefits freely.
+- `ACQUISITION_OR_CONNECTION`: install a partial modular service collar while retaining calibration capacity for Silex and recognizing worker/labor claims.
+- `SYNERGY_OR_USE`: utility/rescue-frame support, relay-service use and old AUXILIA lineage become a flexible but incomplete shared capability.
+- `COST_REFUSAL_OR_LOSS`: revenue share/transport/protection obligations remain and forged-system vulnerability persists in the regional supply chain.
+- `SET_ADVANCE_CONDITION`: utility/rescue-frame support, relay-service use and old AUXILIA lineage become a flexible but incomplete shared capability.
+- `NEXT_DESIRE`: corridor-wide certification restrictions hit just as Doran community contracts freeze, shifting desire from module completion to preserving people's separate route choices.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA2-G2-S07` / `G2-S07` / Partial Bay 2 / Relay-Service Collar — `EPISODE_OVERLAP+TITLE_TEXT` score=123
@@ -203,6 +211,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C8 영토·노드·문명, C3 무기·부품, C5 함선, C4 유물·증거, C7 세력·제도
 - `READER_DESIRE_MAIN`: present real destination capacities before panic or forced extraction. → temporary freeze delay/convoy window and community representative process.
 - `DISCOVERY`: present real destination capacities before panic or forced extraction.
@@ -226,6 +235,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C8 영토·노드·문명, C3 무기·부품, C5 함선, C4 유물·증거, C7 세력·제도
 - `READER_DESIRE_MAIN`: negotiate route packages and allocation of shared resources. → destination agreements and split manifest.
 - `DISCOVERY`: negotiate route packages and allocation of shared resources.
@@ -249,14 +259,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, RELATIONSHIP, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C3 무기·부품, C5 함선, C4 유물·증거, C7 세력·제도, C8 영토·노드·문명
-- `READER_DESIRE_MAIN`: Recycler Upgrade or Vela Biological Module / Medical/Refugee Conversion Package / Distributed Home / Route Federation Seed → optional contract/mission reward E122–185. / E161–185.
-- `DISCOVERY`: Recycler Upgrade or Vela Biological Module / Medical/Refugee Conversion Package / Distributed Home / Route Federation Seed
-- `ACQUISITION_OR_CONNECTION`: optional contract/mission reward E122–185. / E161–185.
-- `SYNERGY_OR_USE`: increases endurance/passenger safety. / H-001’s future political/logistics path.
-- `COST_REFUSAL_OR_LOSS`: one group delayed/captured/stranded or forced to return temporarily. ship loses cargo/payment or suffers damage.
-- `SET_ADVANCE_CONDITION`: increases endurance/passenger safety. / H-001’s future political/logistics path.
-- `NEXT_DESIRE`: Brann/Neris/Ardis parts network faces Helix safety embargo after forged component incident.
+- `READER_DESIRE_MAIN`: the community's chosen destinations can be erased in transit by identity checks, forged manifests, capture, seizure and route delay even after the choices were validly made. → preserve the split convoy's ability to reach different destinations rather than turning protection into keeping everyone in one formation or ship.
+- `DISCOVERY`: the community's chosen destinations can be erased in transit by identity checks, forged manifests, capture, seizure and route delay even after the choices were validly made.
+- `ACQUISITION_OR_CONNECTION`: preserve the split convoy's ability to reach different destinations rather than turning protection into keeping everyone in one formation or ship.
+- `SYNERGY_OR_USE`: local/Neutral/Independence captains and community members solve separate crises while the first ship protects only the highest-risk junction.
+- `COST_REFUSAL_OR_LOSS`: one group is delayed, captured, stranded or forced back temporarily, and the ship loses cargo/payment or takes damage.
+- `SET_ADVANCE_CONDITION`: local/Neutral/Independence captains and community members solve separate crises while the first ship protects only the highest-risk junction.
+- `NEXT_DESIRE`: the forged-component embargo now threatens several destination groups at once, making open-standard safety the next collection problem.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA2-G2-S12` / `G2-S12` / Recycler Upgrade or Vela Biological Module — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=114
@@ -271,6 +282,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C4 유물·증거, C7 세력·제도, C8 영토·노드·문명, C3 무기·부품, C5 함선
 - `READER_DESIRE_MAIN`: settle immediate destinations and create continuing obligations/contact/representation. → settle immediate destinations and create continuing obligations/contact/representation.
 - `DISCOVERY`: settle immediate destinations and create continuing obligations/contact/representation.
@@ -294,6 +306,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: rescue affected people, identify failure without hiding heroes’ role, keep essential systems running. → precise failure model and affected-worker alliance.
 - `DISCOVERY`: rescue affected people, identify failure without hiding heroes’ role, keep essential systems running.
@@ -314,6 +327,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C6 기술·표준, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: prevent embargo from killing/stranding communities while avoiding unsafe uncontrolled release. → provisional emergency standard council and limited certified package.
 - `DISCOVERY`: prevent embargo from killing/stranding communities while avoiding unsafe uncontrolled release.
@@ -335,14 +349,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C6 기술·표준, C8 영토·노드·문명
-- `READER_DESIRE_MAIN`: Silex Limited Access and Repair Trust → E200–205.
-- `DISCOVERY`: Silex Limited Access and Repair Trust
-- `ACQUISITION_OR_CONNECTION`: E200–205.
-- `SYNERGY_OR_USE`: one route window and shared physical/authentication control.
-- `COST_REFUSAL_OR_LOSS`: one faction gains/loses people/assets; ship severely damaged or module sacrificed. limited window only, not permanent repair.
-- `SET_ADVANCE_CONDITION`: one route window and shared physical/authentication control.
-- `NEXT_DESIRE`: Ardis traffic arrives through the restored window with evidence of imminent node/political collapse and a formal request/claim on the team’s standard.
+- `READER_DESIRE_MAIN`: Silex can be stabilized only by combining the first ship's relay service, 07, workshop/route network and provisional standard while Imperial, Helix, Independence, Neutral, workers and Ardis demand different control. → open one limited Silex window without letting any faction turn emergency access into permanent monopoly or erase Ardis/local worker standing.
+- `DISCOVERY`: Silex can be stabilized only by combining the first ship's relay service, 07, workshop/route network and provisional standard while Imperial, Helix, Independence, Neutral, workers and Ardis demand different control.
+- `ACQUISITION_OR_CONNECTION`: open one limited Silex window without letting any faction turn emergency access into permanent monopoly or erase Ardis/local worker standing.
+- `SYNERGY_OR_USE`: fleet approach, exterior repair/capture, interior calibration, authentication/evidence and evacuation operate as separate coordinated layers with local vetoes.
+- `COST_REFUSAL_OR_LOSS`: a faction loses people/assets or the ship/module is badly damaged/sacrificed; the result is a limited window, not permanent repair.
+- `SET_ADVANCE_CONDITION`: fleet approach, exterior repair/capture, interior calibration, authentication/evidence and evacuation operate as separate coordinated layers with local vetoes.
+- `NEXT_DESIRE`: Ardis traffic arrives with imminent node/political collapse and a formal request/claim, converting the route reward into the GA3 city-scale obligation.
 - `OWNERSHIP_GUARD`: 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA2-G2-R08` / `G2-R08` / Silex Limited Access and Repair Trust — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=122
@@ -355,6 +370,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C5 함선, C7 세력·제도, C6 기술·표준, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: decide whether the team/ship/standard goes to Ardis and under whose terms. → legal/operational route to Ardis, worker/standard coalition, regional legitimacy.
 - `DISCOVERY`: decide whether the team/ship/standard goes to Ardis and under whose terms.

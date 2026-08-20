@@ -13,6 +13,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, LINEAGE, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-MANUAL`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C5 함선, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명, C1 인물·관계
 - `READER_DESIRE_MAIN`: distress/command messages reveal structural match to original Orpheus. → multi-party emergency council/operations cell.
 - `DISCOVERY`: distress/command messages reveal structural match to original Orpheus.
@@ -37,6 +38,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: map people, ships, life support and institutional dependencies. → operational census with uncertainty bands and protected/private layers.
 - `DISCOVERY`: map people, ships, life support and institutional dependencies.
@@ -58,6 +60,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: prevent unilateral seizure of Window A and define temporary traffic rules. → traffic-control compact and local/node standing.
 - `DISCOVERY`: prevent unilateral seizure of Window A and define temporary traffic rules.
@@ -79,6 +82,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: compare Option 1–4 using transparent assumptions and decide planning direction. → Mixed Evacuation Mandate and work breakdown.
 - `DISCOVERY`: compare Option 1–4 using transparent assumptions and decide planning direction.
@@ -100,6 +104,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: decide which State functions can be distributed. → distributed function manifest and smaller transport packages.
 - `DISCOVERY`: decide which State functions can be distributed.
@@ -121,6 +126,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C5 함선, C7 세력·제도
 - `READER_DESIRE_MAIN`: select 12–24 heavy combat/support hulls for abandonment, scuttling, thermal support, crew/passenger transfer or rearguard. → freed mass/thermal/traffic and rescue capacity.
 - `DISCOVERY`: select 12–24 heavy combat/support hulls for abandonment, scuttling, thermal support, crew/passenger transfer or rearguard.
@@ -141,6 +147,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: prepare Window A/B/C, Grey routes and local shelters simultaneously. → usable but limited side-route and holdout capacity.
 - `DISCOVERY`: prepare Window A/B/C, Grey routes and local shelters simultaneously.
@@ -161,6 +168,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: finalize command allocations and whether to use Continuity override. → final Mixed Evacuation Operations Plan.
 - `DISCOVERY`: finalize command allocations and whether to use Continuity override.
@@ -181,6 +189,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: execute mixed Window A rather than intact State priority. → Window A passes mixed population/functions while preserving B probability.
 - `DISCOVERY`: execute mixed Window A rather than intact State priority.
@@ -201,6 +210,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도
 - `READER_DESIRE_MAIN`: repair/open B while defending node and managing isolated formations. → Window B opens partially.
 - `DISCOVERY`: repair/open B while defending node and managing isolated formations.
@@ -221,6 +231,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: create final window and Grey/holdout transition through deliberate destruction/sacrifice. → Window C opens at reduced capacity and side routes continue.
 - `DISCOVERY`: create final window and Grey/holdout transition through deliberate destruction/sacrifice.
@@ -241,6 +252,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `LINEAGE, FUNCTIONAL, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도
 - `READER_DESIRE_MAIN`: execute final manifest, Grey departures, shelter and rearguard. → majority of mixed plan survives immediate phase.
 - `DISCOVERY`: execute final manifest, Grey departures, shelter and rearguard.
@@ -262,6 +274,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도
 - `READER_DESIRE_MAIN`: locate/rescue survivors, support holdouts and establish casualty/missing ranges. → some survivors/records recovered; holdout contact/terms established.
 - `DISCOVERY`: locate/rescue survivors, support holdouts and establish casualty/missing ranges.
@@ -282,6 +295,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
 - `SECONDARY_SET_TYPES`: `EVENT, RELATIONSHIP, CIVILIZATION, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: build public casualty, decision and order record. → public plural after-action finding and compensation/claim framework.
 - `DISCOVERY`: build public casualty, decision and order record.
@@ -303,6 +317,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `LINEAGE, RELATIONSHIP, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C5 함선
 - `READER_DESIRE_MAIN`: reconstruct original incident enough to change current understanding. → major M-007 partial/final payoff and institutional lessons.
 - `DISCOVERY`: reconstruct original incident enough to change current understanding.
@@ -324,6 +339,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: stabilize political/military aftermath and identify next conflict. → distributed institutions survive in several nodes; reforms to emergency route/manifest/authority.
 - `DISCOVERY`: stabilize political/military aftermath and identify next conflict.

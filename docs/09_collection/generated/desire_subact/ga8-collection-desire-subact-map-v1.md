@@ -13,6 +13,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: Blood Admiral decomposition and route-office changes propagate into current systems. → temporary current-status layer separated from historical record.
 - `DISCOVERY`: Blood Admiral decomposition and route-office changes propagate into current systems.
@@ -33,6 +34,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `LINEAGE, EVENT, FUNCTIONAL, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: protect targeted records/people while defining immediate preserve/delete limits. → provisional separation of public evidence, intimate memory and operational status.
 - `DISCOVERY`: protect targeted records/people while defining immediate preserve/delete limits.
@@ -54,6 +56,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: establish access coalition/conditions for Authority F. → multi-party Authority F expedition/access mandate.
 - `DISCOVERY`: establish access coalition/conditions for Authority F.
@@ -76,6 +79,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, FUNCTIONAL, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C4 유물·증거, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: secure departure/routes/people and stop first mirror/source seizure. → expedition and Authority F access possible.
 - `DISCOVERY`: secure departure/routes/people and stop first mirror/source seizure.
@@ -97,6 +101,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도, C8 영토·노드·문명, C4 유물·증거
 - `READER_DESIRE_MAIN`: Palimpsest Reach is inhabited by custodians, workers, AI communities and descendants. → one mirror/source access and living-community relationships.
 - `DISCOVERY`: Palimpsest Reach is inhabited by custodians, workers, AI communities and descendants.
@@ -119,6 +124,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, CIVILIZATION, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: determine access/consent for AI, witness and composite systems. → temporary person/evidence/tool standing and consent/audit process.
 - `DISCOVERY`: determine access/consent for AI, witness and composite systems.
@@ -142,6 +148,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: survive attack/mirror failure while deciding whether to copy/synchronize without full consent. → source index/route or people survive.
 - `DISCOVERY`: survive attack/mirror failure while deciding whether to copy/synchronize without full consent.
@@ -165,6 +172,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, RELATIONSHIP, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: several “original” records are valid local/institutional versions. Seed preserves source provenance but operational layers compress them. Service Authorities map to civil domains. → Authority F operational, plural source map and route to consensus assembly/Authority G.
 - `DISCOVERY`: several “original” records are valid local/institutional versions. Seed preserves source provenance but operational layers compress them. Service Authorities map to civil domains.
@@ -188,6 +196,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: canonical heroes/institutions repeatedly preserve central continuity but fail unresolved dependencies. some models reflect Archive bias rather than objective future. P-001 appears as unnamed connective edges across many records. → unrecorded-connector pattern verified by independent sources.
 - `DISCOVERY`: canonical heroes/institutions repeatedly preserve central continuity but fail unresolved dependencies. some models reflect Archive bias rather than objective future. P-001 appears as unnamed connective edges across many records.
@@ -209,6 +218,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: confirm regression operational limits and memory contamination. → regression mechanism bounded; no routine reset/chosen-one guarantee.
 - `DISCOVERY`: confirm regression operational limits and memory contamination.
@@ -231,6 +241,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `LINEAGE, RELATIONSHIP, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: system ranks central survival/reconstruction and compresses plural authorship. immediate lives, refusal and undocumented labor can be deprioritized. → value assumptions and compression audit path.
 - `DISCOVERY`: system ranks central survival/reconstruction and compresses plural authorship. immediate lives, refusal and undocumented labor can be deprioritized.
@@ -254,6 +265,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, FUNCTIONAL, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C4 유물·증거, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명, C1 인물·관계
 - `READER_DESIRE_MAIN`: decide whether P-001 or another human/AI can serve as corrective without sovereign control. → draft bounded activation architecture and distributed Authority F.
 - `DISCOVERY`: decide whether P-001 or another human/AI can serve as corrective without sovereign control.
@@ -278,6 +290,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, FUNCTIONAL, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C4 유물·증거, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명, C1 인물·관계
 - `READER_DESIRE_MAIN`: stop simultaneous master-index deletion, total dump and central seizure while preserving living sites. → enough sources/rights survive for activation choice.
 - `DISCOVERY`: stop simultaneous master-index deletion, total dump and central seizure while preserving living sites.
@@ -301,6 +314,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도
 - `READER_DESIRE_MAIN`: attempt plural/current-status operation without Authority G full consensus. → final constraints and support for bounded activation.
 - `DISCOVERY`: attempt plural/current-status operation without Authority G full consensus.
@@ -323,6 +337,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: activate bounded Seed consensus while preventing one-owner curator. → Seed consensus activates and restores identity/command/service continuity across many systems.
 - `DISCOVERY`: activate bounded Seed consensus while preventing one-owner curator.
@@ -347,6 +362,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: respond to immediate effects and determine whether activation can be contained. → immediate civilizational stabilization and full origin confirmation.
 - `DISCOVERY`: respond to immediate effects and determine whether activation can be contained.

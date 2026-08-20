@@ -13,6 +13,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: first RS-1/RS-2 handoff suffers authentication, payroll, hospital, route or elite-capture failure/attack. → immediate collapse stopped.
 - `DISCOVERY`: first RS-1/RS-2 handoff suffers authentication, payroll, hospital, route or elite-capture failure/attack.
@@ -33,6 +34,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-MANUAL`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C1 인물·관계, C6 기술·표준
 - `READER_DESIRE_MAIN`: correct the failure locally instead of cancelling handoff. → local service/current-status system resumes under corrected plural/hybrid authority.
 - `DISCOVERY`: correct the failure locally instead of cancelling handoff.
@@ -57,6 +59,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-MANUAL`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명, C5 함선
 - `READER_DESIRE_MAIN`: disclose/inventory real dependencies and readiness by function/region. → public transition map, readiness bands and failure thresholds.
 - `DISCOVERY`: disclose/inventory real dependencies and readiness by function/region.
@@ -81,6 +84,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-MANUAL`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도, C8 영토·노드·문명, C1 인물·관계
 - `READER_DESIRE_MAIN`: establish regional choice/readiness/obligation process. → Transition Convention and first region-specific compacts.
 - `DISCOVERY`: establish regional choice/readiness/obligation process.
@@ -105,6 +109,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-MANUAL`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도, C8 영토·노드·문명, C1 인물·관계
 - `READER_DESIRE_MAIN`: negotiate a region that voluntarily wants continued central synchronization for a fixed term. → legitimate delayed path and beneficiary trust.
 - `DISCOVERY`: negotiate a region that voluntarily wants continued central synchronization for a fixed term.
@@ -129,6 +134,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-MANUAL`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C1 인물·관계, C6 기술·표준, C5 함선
 - `READER_DESIRE_MAIN`: stop local elite/warlord capture without inviting permanent central return. → proves distributed order can correct local abuse through external standing/obligations.
 - `DISCOVERY`: stop local elite/warlord capture without inviting permanent central return.
@@ -153,6 +159,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-MANUAL`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: maintain cross-region medicine/technical safety without one certifier/Seed. → thin technical/medical interoperability and local capacity building.
 - `DISCOVERY`: maintain cross-region medicine/technical safety without one certifier/Seed.
@@ -177,6 +184,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-MANUAL`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: establish cross-region provisional identity/service/migration rules. → minimum interoperability constitution reaches operational draft.
 - `DISCOVERY`: establish cross-region provisional identity/service/migration rules.
@@ -201,6 +209,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-MANUAL`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C6 기술·표준, C8 영토·노드·문명, C5 함선
 - `READER_DESIRE_MAIN`: allocate actors and sequence functional transfers under attack. → final transition operation and delegated authority.
 - `DISCOVERY`: allocate actors and sequence functional transfers under attack.
@@ -225,6 +234,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-MANUAL`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도
 - `READER_DESIRE_MAIN`: Rian's exclusive future/Archive index has become a final dependency and ownership burden, not a prize to preserve. → commit to the distributed/institutional replacement path; do not treat E1058–1063 as the final physical removal scene.
 - `DISCOVERY`: Rian's exclusive future/Archive index has become a final dependency and ownership burden, not a prize to preserve.
@@ -250,6 +260,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-MANUAL`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C5 함선, C6 기술·표준, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: use final central command to protect distribution, then expire/transfer it. → military monopoly and central command expire/fragment according to mandate.
 - `DISCOVERY`: use final central command to protect distribution, then expire/transfer it.
@@ -274,6 +285,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-MANUAL`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도, C1 인물·관계, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: establish final thin interoperability/current-status and residual institutions. → no single sovereign Seed operator; plural systems remain connected.
 - `DISCOVERY`: establish final thin interoperability/current-status and residual institutions.
@@ -298,6 +310,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-MANUAL`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C1 인물·관계, C6 기술·표준, C5 함선
 - `READER_DESIRE_MAIN`: after transition battle, services, demobilization, prisoners, migration, claims and residual module/connector obligations remain materially unfinished. → transition institutions continue reconstruction and claim handling without restoring Rian's standing central command.
 - `DISCOVERY`: after transition battle, services, demobilization, prisoners, migration, claims and residual module/connector obligations remain materially unfinished.
@@ -323,6 +336,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
 - `SECONDARY_SET_TYPES`: `LINEAGE, RELATIONSHIP, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-MANUAL`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C2 기체, C5 함선, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: the collected legacy cannot end as Rian's personal roster, fleet, museum, archive or sovereign standard. → 07, the first ship, records and people/institutions resolve into independent or plural living custody rather than protagonist possession.
 - `DISCOVERY`: the collected legacy cannot end as Rian's personal roster, fleet, museum, archive or sovereign standard.
@@ -348,6 +362,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `EVENT, CIVILIZATION, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-MANUAL`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도
 - `READER_DESIRE_MAIN`: plural histories, accountability, claims and one real ordinary no-Rian crisis must coexist without a master heroic account. → institutions prove present service and current decisions can continue through local/medical/route/current-status actors while incompatible historical accounts remain available.
 - `DISCOVERY`: plural histories, accountability, claims and one real ordinary no-Rian crisis must coexist without a master heroic account.
@@ -373,6 +388,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, LINEAGE, EVENT`
 - `MATCH_DEPTH`: `A-MANUAL`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C2 기체, C6 기술·표준, C1 인물·관계, C5 함선, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: CY751 ordinary institutions, unequal recovery, independent futures and incomplete histories are the surviving legacy state. → the final reward is not possession: ordinary people can act, correct/refuse records and ask for present service needs without Rian's future index.
 - `DISCOVERY`: CY751 ordinary institutions, unequal recovery, independent futures and incomplete histories are the surviving legacy state.

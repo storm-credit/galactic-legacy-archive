@@ -13,6 +13,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: Ardis receives six messages and must respond before P-001 can reach the Core. → Ardis’s authenticated response and evidence courier mandate.
 - `DISCOVERY`: Ardis receives six messages and must respond before P-001 can reach the Core.
@@ -33,6 +34,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, LINEAGE, CIVILIZATION`
 - `MATCH_DEPTH`: `A-MANUAL`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C6 기술·표준, C1 인물·관계, C7 세력·제도, C4 유물·증거
 - `READER_DESIRE_MAIN`: recover/protect witness/evidence chain while traveling toward C11/C03/C06. → one crucial witness or physical archive reaches protected custody.
 - `DISCOVERY`: recover/protect witness/evidence chain while traveling toward C11/C03/C06.
@@ -57,6 +59,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: meet or observe the four front-stage claimants through active institutions rather than exposition. → limited access/relationship with all four solutions.
 - `DISCOVERY`: meet or observe the four front-stage claimants through active institutions rather than exposition.
@@ -77,6 +80,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: no core protocol is a simple forgery. death/incapacity timing and designation scope genuinely diverge. emergency and provincial thresholds are partly met. → `다중정통성 인증 / Multiple Legitimacy Finding` or equivalent public result.
 - `DISCOVERY`: no core protocol is a simple forgery. death/incapacity timing and designation scope genuinely diverge. emergency and provincial thresholds are partly met.
@@ -98,6 +102,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: keep salaries, pensions, hospitals and food contracts functioning. → temporary dual/multi-signature payment and service scheme.
 - `DISCOVERY`: keep salaries, pensions, hospitals and food contracts functioning.
@@ -119,6 +124,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: manage or prevent partial accession from becoming irreversible while respecting public legitimacy. → ceremonial legitimacy separated from immediate total control.
 - `DISCOVERY`: manage or prevent partial accession from becoming irreversible while respecting public legitimacy.
@@ -140,6 +146,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: secure provincial food, tax, route and administrative continuation without coercive recognition. → provisional provincial consultation/continuation mechanism.
 - `DISCOVERY`: secure provincial food, tax, route and administrative continuation without coercive recognition.
@@ -161,6 +168,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: test Regent’s emergency administration under real simultaneous crises. → test Regent’s emergency administration under real simultaneous crises.
 - `DISCOVERY`: test Regent’s emergency administration under real simultaneous crises.
@@ -182,6 +190,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: determine who is protecting whom and preserve independent custody. → some witnesses/records survive outside any one claimant.
 - `DISCOVERY`: determine who is protecting whom and preserve independent custody.
@@ -203,6 +212,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: prevent military units from fighting while limiting Protector’s authority. → immediate military stability and a bounded-command proposal.
 - `DISCOVERY`: prevent military units from fighting while limiting Protector’s authority.
@@ -226,6 +236,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `EVENT, RELATIONSHIP, FUNCTIONAL, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: address Continuity suspension that stops forged commands but also freezes movement, funds and identities. → suspension narrowed and forged chain exposed.
 - `DISCOVERY`: address Continuity suspension that stops forged commands but also freezes movement, funds and identities.
@@ -248,6 +259,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `LINEAGE, EVENT, FUNCTIONAL, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C6 기술·표준, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: preserve enough evidence and public access to prevent permanent manufactured truth. → enough public evidence to support temporary compact; one historical suppression exposed.
 - `DISCOVERY`: preserve enough evidence and public access to prevent permanent manufactured truth.
@@ -270,6 +282,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: negotiate authority categories rather than one ruler. → draft compact with sunset/review/removal and key splits.
 - `DISCOVERY`: negotiate authority categories rather than one ruler.
@@ -293,6 +306,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `EVENT, RELATIONSHIP, FUNCTIONAL, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: prevent irreversible monopoly without humiliating/destroying claimant constituency. → political space for final agreement.
 - `DISCOVERY`: prevent irreversible monopoly without humiliating/destroying claimant constituency.
@@ -315,6 +329,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: enact compact across several sites/institutions, not one signature table. → compact becomes operational, not merely declared.
 - `DISCOVERY`: enact compact across several sites/institutions, not one signature table.
@@ -338,6 +353,7 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
+- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: show compact’s immediate effects and launch ownerless-fleet conflict. → show compact’s immediate effects and launch ownerless-fleet conflict.
 - `DISCOVERY`: show compact’s immediate effects and launch ownerless-fleet conflict.
