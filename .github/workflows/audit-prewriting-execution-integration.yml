@@ -21,7 +21,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   integration:
@@ -66,3 +66,35 @@ jobs:
           grep -E 'Status: PASS|banned `POV \+ decision|missing owner' docs/99_quality_control/full-series-context-decision-owner-blindspot-audit-v1.md
           grep -E 'Status: PASS|writer-unusable semantic fields' docs/99_quality_control/full-series-collection-desire-semantic-lint-v1.md
           grep -E 'Status: PASS|without exactly one CLSET|overlapping CLSET|hard bridge failures|semantic exit-hook' docs/99_quality_control/full-series-collection-context-crosslayer-audit-v1.md
+
+      - name: Persist validated generated execution outputs on same-repository PR
+        if: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          TARGETS=(
+            docs/13_writing_harness/context_packs/activation
+            docs/09_collection/generated/desire_subact
+            docs/99_quality_control/full-series-context-writer-depth-audit-v1.md
+            docs/99_quality_control/full-series-context-writer-depth-audit-v2.md
+            docs/99_quality_control/full-series-context-writer-activation-false-a-redteam-v1.md
+            docs/99_quality_control/full-series-context-load-bearing-manual-redteam-2026-08-20.md
+            docs/99_quality_control/full-series-context-decision-owner-blindspot-audit-v1.md
+            docs/99_quality_control/full-series-collection-desire-subact-depth-audit-v1.md
+            docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md
+            docs/99_quality_control/full-series-collection-endpoint-reference-false-a-audit-v1.md
+            docs/99_quality_control/full-series-collection-set-family-semantic-balance-audit-v1.md
+            docs/99_quality_control/full-series-collection-reader-desire-source-audit-v1.md
+            docs/99_quality_control/full-series-collection-desire-repetition-reader-memory-redteam-v1.md
+            docs/99_quality_control/full-series-collection-desire-semantic-lint-v1.md
+            docs/99_quality_control/full-series-collection-context-crosslayer-audit-v1.md
+          )
+          if [[ -z "$(git status --porcelain -- "${TARGETS[@]}")" ]]; then
+            echo 'Validated execution outputs already persisted.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- "${TARGETS[@]}"
+          git commit -m 'QC: persist validated execution outputs [execution-generated]'
+          git push origin HEAD:${{ github.head_ref }}
