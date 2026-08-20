@@ -5501,8 +5501,8 @@ writer face target — use an already-present performer/refuser/recipient from t
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
-NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
-**RELATIONSHIP_DELTA_AUTHORITY:** `EXPLICIT-NONE GUARD`
+final appearance is not fixed by these cards; no reunion-table or all-cast final pose is required; core characters are first shown as owners of their own current work, not waiting for Rian.
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 institutions pass a real current test without an indispensable collector/admiral.

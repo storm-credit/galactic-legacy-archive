@@ -1316,8 +1316,8 @@ source POV/current participants: Rian.
 **HUMAN_ROUTE_AUTHORITY:** `SOURCE-POV`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
-NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
-**RELATIONSHIP_DELTA_AUTHORITY:** `EXPLICIT-NONE GUARD`
+Rian offers future cooperation, not recruitment. Juno says survival does not erase that Rian’s cell received chances paid for by others. no reconciliation speech.
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 Juno remains alive, visible and autonomous.
@@ -2302,8 +2302,8 @@ source POV/current participants: Rian before a limited student/staff broadcast/h
 **HUMAN_ROUTE_AUTHORITY:** `SOURCE-POV`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
-NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
-**RELATIONSHIP_DELTA_AUTHORITY:** `EXPLICIT-NONE GUARD`
+no forgiveness or recruitment.
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 myth weakened and medical inquiry path.

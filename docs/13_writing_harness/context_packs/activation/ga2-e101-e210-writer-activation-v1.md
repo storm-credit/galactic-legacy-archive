@@ -41,7 +41,7 @@ source POV/current participants: 리안, restricted to the charter mission board
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 마렌 recognizes 리안 as willing to accept procedure, not yet as competent ship command.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 the ship reaches K-13 and the Academy gains standing to request a survey.
@@ -99,7 +99,7 @@ source POV/current participants: 세린, with 리안 observing physical conseque
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 네라 resents the delay but sees that 세린 protected worker evidence rather than corporate secrecy.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 lawful access to forward/crew sections and first uncontaminated evidence.
@@ -157,7 +157,7 @@ source POV/current participants: 하렌, focused on people, wages and future obl
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 하렌 and 테오 establish a productive conflict: allocation need versus legal/financial persistence.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 72-hour freeze; 테오 joins as conditional claims/quartermaster lead for the survey.
@@ -215,7 +215,7 @@ source POV/current participants: 리안.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 리안 respects her competence but initially sees caution as mission loss; 마렌 sees his willingness to be limited but not yet his ability to plan with those limits.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 captain candidate enters the process; ship command limits become concrete.
@@ -273,7 +273,7 @@ source POV/current participants: 네라.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 네라/베라 conflict shifts from old-versus-new to evidence, responsibility and documentation.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 chief-engineer candidate and current technical witness; protected design-data terms.
@@ -331,7 +331,7 @@ source POV/current participants: 베라 for physical state, with 리안’s futu
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 리안 accepts a present technical defeat; 베라 sees that he will disclose a defect even when it costs the mission.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 definitive technical truth and a realistic minimum-repair path.
@@ -389,7 +389,7 @@ source POV/current participants: 리안 as charter mission representative, witho
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 core team must work through captain, engineer, claims and old crew; no one is recruited by gratitude.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 protected access, tow/berth rights and a real path toward operation; captain and engineer candidates remain engaged.
@@ -447,7 +447,7 @@ source POV/current participants: 리안.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 마렌 sees 리안 concede public status; 리안 recognizes captaincy as a distinct competence.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 P-001 is formally protected from captain/owner drift; 마렌 enters actual command negotiation.
@@ -505,7 +505,7 @@ source POV/current participants: 미아, under licensed supervision rather than 
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 미아 gains a senior who can overrule her; 하렌 and 테오 conflict without either being reduced to greed or idealism.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 honest crew gap and medical authority; some community members gain paid roles by choice.
@@ -563,7 +563,7 @@ source POV/current participants: 테오, using payroll/watch/habitation constrai
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 테오 is accepted as protecting survival, not only money; 루카 remains independent through route obligations.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 루카 conditionally joins; realistic watch/habitation plan.
@@ -621,7 +621,7 @@ source POV/current participants: 세린, with authority traces visible.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 core team experiences a valid veto against 리안 rather than theoretical limits.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 command system passes principle test; old service authority integrated as bounded emergency mechanism.
@@ -679,7 +679,7 @@ source POV/current participants: 마렌 through hearing records/current testimon
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 리안 stops treating retreat as evidence of lesser courage; 마렌 still distrusts his willingness to spend himself and others for strategic outcomes.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 captain/master position secured.
@@ -737,7 +737,7 @@ source POV/current participants: 네라.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 네라 learns certification can preserve memory/responsibility; 베라 accepts provisional open knowledge with stop conditions.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 practical path to safe minimum transit; first genuine engineering collaboration.
@@ -795,7 +795,7 @@ source POV/current participants: 리안, attending as mission commander candidat
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 “core crew” becomes a contract and authority network before becoming a family.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 G2-S02 provisional ship command charter integrated; legal minimum roster path.
@@ -853,7 +853,7 @@ source POV/current participants: 하렌, translating mission promises into passe
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 리안 accepts institutional defeat rather than secretly preserving combat priority.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 executable minimum-repair plan.
@@ -911,7 +911,7 @@ source POV/current participants: 베라.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 베라’s refusal to celebrate protects 네라’s design from being misrepresented as final.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 Reactor A enters provisional transit path.
@@ -969,7 +969,7 @@ source POV/current participants: 루카.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 리안 must rely on 루카’s current route and control knowledge; 루카’s side obligation remains disclosed but unresolved.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 one reliable transit/approach control chain.
@@ -1027,7 +1027,7 @@ source POV/current participants: 미아, with 엘라 holding final medical autho
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 하렌’s logistics authority becomes bounded by consent and physical capacity.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 legal life-support and medical envelope.
@@ -1085,7 +1085,7 @@ source POV/current participants: 네라.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 네라 and 베라 share signoff without merging roles; 리안 accepts medical and thermal launch limits.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 07 can launch/recover from 파루스 under explicit conditions.
@@ -1143,7 +1143,7 @@ source POV/current participants: 세린.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 세린 becomes operationally necessary but cannot privately censor or command.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 G2-S11 authentication overlay integrated; route certificate can proceed.
@@ -1201,7 +1201,7 @@ source POV/current participants: 마렌.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 crew becomes an operating institution before emotional unity.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 minimum transit certificate; first official crew muster and one-frame mobile base.
@@ -1259,7 +1259,7 @@ source POV/current participants: 테오.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 테오 gains authority by refusing apparently profitable clauses; patients/witnesses remain decision-makers, not cargo.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 150,000 BSC advance activates repairs, wages and departure.
@@ -1317,7 +1317,7 @@ source POV/current participants: 마렌.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 crew cooperation is procedural rather than affectionate; 마렌 demonstrates she will divert for a declared rescue but sets a retreat point.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 ship departs under its own lawful command and local authentication.
@@ -1375,7 +1375,7 @@ source POV/current participants: 루카 for sensor/route geometry, with 리안 l
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 엘라’s veto is validated at the cost of mission efficiency; 리안 adapts plan rather than overriding.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 KT-441 is identified and hidden population is strongly indicated.
@@ -1433,7 +1433,7 @@ source POV/current participants: 리안 during 07 external mission, bounded by s
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 first real crisis activates distributed command; no decision is complete at episode end.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 actual tug population, condition and evidence relationship identified; 07 proves useful as service/rescue platform.
@@ -1491,7 +1491,7 @@ source POV/current participants: 미아, limited to medical/pressure information
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 미아/엘라 separate stabilization from safe transport; 하렌 records multiple destination choices.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 executable plan with occupant consent.
@@ -1549,7 +1549,7 @@ source POV/current participants: 세린 for source/claim state, with 루카 trac
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 KR-17 operator becomes rational opposing actor with creditor obligations.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 S-1/S-2 identities resolved; tug survival window extends to 28–44 hours.
@@ -1607,7 +1607,7 @@ source POV/current participants: 엘라.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 엘라 becomes the person whose decision visibly loses money and schedule, not an unopposed conscience.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 no transfer-related death; patients remain stable enough for continued care.
@@ -1665,7 +1665,7 @@ source POV/current participants: 하렌.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 하렌’s role is choice/destination tracking, not command over evacuees; 마렌 repeats a costly withdrawal with documented current thresholds.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 19 KT-441 persons transferred to 파루스 in total; 23 remain with stabilized tug/skiff support; title/evidence copies preserved; Neutral rescue chain active.
@@ -1723,7 +1723,7 @@ source POV/current participants: 리안 during arrival and contract review, not 
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 crew trusts the authority process more while disagreeing over whether the mission was worth the loss.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 people/evidence protected; crew authority process survives first crisis; route/insurance certification retained; genuine 061 lead and Kael standing.
@@ -1781,7 +1781,7 @@ source POV/current participants: 세린.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 세린 must protect people from the same transparency she values.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 lawful investigation standing and a payment trail.
@@ -1839,7 +1839,7 @@ source POV/current participants: 테오.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 테오 becomes distrusted by every side because he prevents total victory.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 legal path to inspect components without declaring ownership.
@@ -1897,7 +1897,7 @@ source POV/current participants: 네라.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Neris maintainers become independent technical actors.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 physical access and functional test opportunity.
@@ -1955,7 +1955,7 @@ source POV/current participants: 하렌.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 하렌’s logistics/representation role respects nonparticipation.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 corroborated post-destruction repair chain.
@@ -2013,7 +2013,7 @@ source POV/current participants: 마렌.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Maren/claims/Helix cooperate under bounded mutual distrust.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 lawful Neris–Marn search standing and shared cost.
@@ -2071,7 +2071,7 @@ source POV/current participants: 세린/루카 shared operational information, k
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Rian accepts not being the first finder as a cost of protecting current people.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 investigation remains tied to real service and witnesses.
@@ -2129,7 +2129,7 @@ source POV/current participants: 네라.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Neris/caravan operators retain control and may override Academy preferences.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 caravan departs, physical unit under monitored use, lawful search active.
@@ -2187,7 +2187,7 @@ source POV/current participants: 루카.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Luka’s authority depends on local tug masters’ observations.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 safe entry and current route map.
@@ -2245,7 +2245,7 @@ source POV/current participants: 하렌, observing allocation authority rather t
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 she distrusts heroic urgency and current sponsors; respects bounded ship authority only after they follow her allocation.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 clear service/repair command and concrete survival clock.
@@ -2303,7 +2303,7 @@ source POV/current participants: 세린/네라.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Serin and Nera cooperate across data/physical provenance without collapsing roles.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 active systems remain alive and identity chain becomes traceable.
@@ -2361,7 +2361,7 @@ source POV/current participants: 리안 during 07 exterior reconnaissance.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Rian prioritizes occupied status and evidence over first capture.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 intact-ship rumor retired for the core team; current workers and component train identified.
@@ -2419,7 +2419,7 @@ source POV/current participants: 제나 아크 as an episode-level focal for cur
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 제나’s authority and skepticism are established before her later death; Nera/Vera accept her field stop line.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 repair mission remains possible.
@@ -2477,7 +2477,7 @@ source POV/current participants: 마렌.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Helix field team remains opponent and necessary safety participant.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 repair continues and safety data is shared.
@@ -2535,7 +2535,7 @@ source POV/current participants: 미아/제나 split by physical care and field 
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 local operators, not protagonists, execute decisive branch actions.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 current lives protected and technical method partially validated.
@@ -2593,7 +2593,7 @@ source POV/current participants: 네라, with Jena holding field authority.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Jena’s expertise and independent choice place her at the decisive physical point.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 legitimate emergency test with consent, stop lines and physical backup.
@@ -2709,7 +2709,7 @@ source POV/current participants: 미아 for casualty/evacuation state, with Jena
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 no character may frame her choice as sole cause; the decision was multi-party and the defect chain systemic.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 habitat avoids immediate full cooling collapse.
@@ -2767,7 +2767,7 @@ source POV/current participants: 리안 during 07 rescue and post-failure alloca
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Rian’s “rescue success” does not restore the person or institution.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 Jena recovered alive; immediate habitat mass casualty prevented.
@@ -2886,7 +2886,7 @@ source POV/current participants: distributed current witnesses; no omniscient me
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Nera/Vera/Helix/workers must build safety governance from the loss; Rian cannot claim her as a saved/recruited future value.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 accurate failure chain and concrete future safety obligations; habitat medical/care population survives the immediate crisis.
@@ -3292,7 +3292,7 @@ source POV/current participants: 하렌.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Haren represents only agreed claims, not all caravan/habitat voices.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 compensation begins and module installation cannot erase harm.
@@ -3524,7 +3524,7 @@ source POV/current participants: 하렌, with his information explicitly limited
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Haren’s authority narrows while his workload and responsibility increase.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 five executable planning paths and consent structure.
@@ -3582,7 +3582,7 @@ source POV/current participants: 미아 under Ella/receiving-clinic authority.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Haren cannot appoint caregivers; Mia/Ella cannot override competent patient choices for convenience.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 DG-CARE receives a 180-day conditional care compact and earliest safe movement slot.
@@ -3640,7 +3640,7 @@ source POV/current participants: ensemble through the nine applicants and Ardis 
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Ardis gains people only through current terms; group retains right to withdraw before boarding.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 DG-ARDIS path becomes executable.
@@ -3698,7 +3698,7 @@ source POV/current participants: 마렌/route-group applicants.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 crew recruitment becomes mutual contract, not gratitude.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 DG-ROUTE’s seven positions are assigned without a single employer.
@@ -3756,7 +3756,7 @@ source POV/current participants: four K-13 stayers through local service/claim i
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Haren accepts that preserving community may mean leaving part of it behind.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 DG-STAY retains rights and local future.
@@ -3814,7 +3814,7 @@ source POV/current participants: 세린, with sealed-information boundaries.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Haren relinquishes informational possession as part of care.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 DG-PRIVATE transport is safe enough to proceed and identity exposure is limited.
@@ -3872,7 +3872,7 @@ source POV/current participants: 테오/루카, through capacity, mass and route
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 “community” shifts from co-location to continuing obligations and communication.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 every person receives a route/holding plan without one ship carrying all.
@@ -3930,7 +3930,7 @@ source POV/current participants: 하렌.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 first concrete seed of future mutual-route federation, but based on limited mandates.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 coordination without blanket representation.
@@ -3988,7 +3988,7 @@ source POV/current participants: 테오, with group contacts holding final conse
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Theo’s authority is to reconcile contracts, not optimize people into one cheaper package.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 choice is translated into enforceable rights, not only preferences.
@@ -4046,7 +4046,7 @@ source POV/current participants: 마렌/루카 through actual vessels and route 
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Maren refuses “fleet command” language; Rian holds only assigned mission coordination.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 real distributed transport plan.
@@ -4104,7 +4104,7 @@ source POV/current participants: 테오/하렌.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 “people before cargo” is refined into current people on both sides of the allocation.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 all nine retain transport path and external service obligation is preserved.
@@ -4162,7 +4162,7 @@ source POV/current participants: 미아 and DG-CARE current participants.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Haren’s care responsibility continues without physical control.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 13-person DG-CARE enters recognized medical passage and reaches the first destination acceptance chain.
@@ -4278,7 +4278,7 @@ source POV/current participants: Ardis group contacts and local receiving operat
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Ardis group becomes a set of prospective residents/workers, not protagonist dependents.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 eight begin the Ardis journey; ninth has a protected follow-on route.
@@ -4452,7 +4452,7 @@ source POV/current participants: held-back support-craft captain and crew.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 independent captain makes the stop, not Rian/Helix.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 repair starts under traceable local production and full pressure-cycle plan.
@@ -4568,7 +4568,7 @@ source POV/current participants: 세린/미아 during C22 drill.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Mia/user side receives explicit stop authority because C22 supports medical loads.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 C22 obtains a credible supervised-test path.
@@ -4742,7 +4742,7 @@ source POV/current participants: one DG-ROUTE crew and one DG-CARE/K-13 contact,
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Haren’s influence is materially limited in practice.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 at least three groups act autonomously and retain connection.
@@ -5206,7 +5206,7 @@ source POV/current participants: 오벨 나르, Neris field maintainer and user-
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Ovel is established before the accident as an independent safety actor, not a casualty introduced at failure.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 Ovel/user-safety role becomes formal and can stop the test.
@@ -5554,7 +5554,7 @@ source POV/current participants: 미아/플랫폼 civil-defense operators.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Mia/medical actors prioritize Ovel’s rehabilitation and current patients separately from technical publicity.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 no secondary casualty cascade and evidence chain retained.
@@ -5670,7 +5670,7 @@ source POV/current participants: worker/user/medical/insurer/Helix/open-service 
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Ovel retains agency beyond victim status; worker/user seats are not represented by Nera/Rian alone.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 operational governance beyond code and one company.
@@ -5960,7 +5960,7 @@ source POV/current participants: 리안 in 07, bounded by local operator/tug/phy
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 decisive technical authority remains with Silex operators, not ace pilot.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 branch enters low-load test envelope with direct physical state.
@@ -6192,7 +6192,7 @@ source POV/current participants: 세린 and the delayed traveller, with current 
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 decisive success belongs to Ardis local operator and traveller/Serin evidence, not Rian.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 ninth traveller boards 파루스 with a valid bounded receiving path.
@@ -6308,7 +6308,7 @@ source POV/current participants: 오르사 덴/마렌/리안 across distinct dom
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 decisive success/cost belongs to Orsa and local teams; Rian follows the limit.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 all 9 DG-ARDIS travellers cross/arrive through current vessels; critical records/parts delivered.

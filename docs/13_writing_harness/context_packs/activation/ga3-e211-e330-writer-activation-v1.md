@@ -41,7 +41,7 @@ source POV/current participants: 토마 칼 and Anchor Crown traffic workers bef
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Ardis’s first decisive actor is local and can deny Rian/Maren priority.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 three Silex arrivals recovered without collision/cooling cascade.
@@ -215,7 +215,7 @@ source POV/current participants: DG-ARDIS travellers and local receiving offices
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 arrivals begin becoming local residents/workers, not protagonist passengers.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 all nine have current accountable housing/work/care/appeal paths.
@@ -389,7 +389,7 @@ source POV/current participants: Garden/Transit transfer workers and Anchor oper
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Jena/Ovel lessons influence Ardis but do not automatically become city law.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 current service movement becomes legally possible and worker evidence gains authority.
@@ -505,7 +505,7 @@ source POV/current participants: 리안, constrained by current local sensor/ope
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Toma and Transit operators gain decision authority through current evidence, not protagonist permission.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 the first actual bottleneck is identified before full cargo movement.
@@ -621,7 +621,7 @@ source POV/current participants: Foundry Shift Council, injured/unpaid workers a
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 local workers, not Nera/Rian, decide whether the line runs.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 enough valve/filter bodies for one Transit receiving repair and one test article.
@@ -679,7 +679,7 @@ source POV/current participants: 세린 with Transit Belt residents and Civic id
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Transit residents participate as current users, not faceless beneficiaries.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 the receiving/distribution chain can recognize current users and appeals.
@@ -737,7 +737,7 @@ source POV/current participants: 토마 칼 and Anchor traffic/shift board.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Toma makes an autonomous order with visible people on both sides.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 two high-critical movements complete without overloading recovery.
@@ -911,7 +911,7 @@ source POV/current participants: Transit receiving operator, Garden tug master a
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Rian’s original plan fails; current local operator’s stop prevents a larger problem.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 no major injury or loop rupture; current failure mode is measured and local workaround identified.
@@ -969,7 +969,7 @@ source POV/current participants: 토마 칼 and Transit/Garden operators.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Toma chooses a local compromise that limits his own board’s visibility.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 second-transfer design can start without repeating the exact failure.
@@ -1085,7 +1085,7 @@ source POV/current participants: six constituency contacts and Civic/Trial conve
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Rian/Maren/Haren are contributors/mission parties, not city representatives.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 the trial has accountable current signatories and local legitimacy.
@@ -1201,7 +1201,7 @@ source POV/current participants: city constituencies and external package repres
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 opposition is a beneficial institutional alternative, not a fake villain plan.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 centralized option remains a real safety/service benchmark and funding source.
@@ -1317,7 +1317,7 @@ source POV/current participants: Toma, local operators/maintainers and service-f
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 second major autonomous local decision succeeds without protagonist ownership.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 receiving branch becomes repeatable enough for the trial’s reduced-load envelope.
@@ -1491,7 +1491,7 @@ source POV/current participants: 세린, Toma and six-constituency report partic
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Toma accepts public responsibility for the window and spare decisions instead of assigning the cost to Rian’s model.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 public trust in the report format and a usable target list for the next seven days.
@@ -1549,7 +1549,7 @@ source POV/current participants: Savo Nir, Transit fire/utility crews and Mia.
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 the 30-day trial is not a government and cannot silently absorb housing sovereignty.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 residents survive and the trial’s utility/medical coordination proves useful.
@@ -1664,8 +1664,8 @@ source POV/current participants: Toma, Luma Pell and exterior frame teams.
 **HUMAN_ROUTE_AUTHORITY:** `SOURCE-POV`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
-NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
-**RELATIONSHIP_DELTA_AUTHORITY:** `EXPLICIT-NONE GUARD`
+Toma is neither infallible local wisdom nor Rian’s correct proxy; his fear of losing time caused current harm.
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 Luma is rescued alive; the hidden brace failure is physically known.
@@ -2999,7 +2999,7 @@ source POV/current participants: inbound cargo crew, local tug/frame teams, Kera
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Rian supports the physical limit but does not decide which city service deserves the cargo.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 all life/service cargo classes retain passage; physical mass is inside the verified envelope.
@@ -3288,8 +3288,8 @@ source POV/current participants: Haren, Garden cooperatives, Transit delegates, 
 **HUMAN_ROUTE_AUTHORITY:** `SOURCE-POV`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
-NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
-**RELATIONSHIP_DELTA_AUTHORITY:** `EXPLICIT-NONE GUARD`
+Haren’s model is useful evidence, not representation or final authority.
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 food continuity, fire recovery and registered repair all receive bounded material.
@@ -5725,7 +5725,7 @@ source POV/current participants: Ari, residents, medical/rescue teams and cross-
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Ari remains a current resident/safety leader without being blamed as sole commander or made a protagonist subordinate.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 6,222 survivors are accounted and adjacent systems remain stable.
@@ -6772,7 +6772,7 @@ source POV/current participants: Rian, local bodies, Iris/Sella, core cast and p
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 Sella retains bounded defense role; Iris retains external task-group command; Haren cannot sign for survivors/workers; each core member stays domain-limited.
-**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT`
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 the Trust cannot become protagonist ownership by convenience.
