@@ -85,7 +85,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: limited federation–Continuity service agreement or data link.
 - `COST_REFUSAL_OR_LOSS`: central office gains data/access/legitimacy and freezes one low-confidence route/group.
 - `SET_ADVANCE_CONDITION`: limited federation–Continuity service agreement or data link.
-- `NEXT_DESIRE`: `C/G`.
+- `NEXT_DESIRE`: destroyed/captured route incident is publicly attributed to “Blood Admiral” though H-001 was elsewhere or did not issue the order. --
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음
 - `ACTIVE_TARGETS`:
   - `CLT-GA7-G7-R04` / `G7-R04` / Federation–Continuity Minimum Corridor Link — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=129
@@ -171,7 +171,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: partial Blood Admiral decomposition and some key revocations.
 - `COST_REFUSAL_OR_LOSS`: radical/local units break away at the moment a major cascading route capture begins.
 - `SET_ADVANCE_CONDITION`: partial Blood Admiral decomposition and some key revocations.
-- `NEXT_DESIRE`: `G/R`. / `L/C — partly dismantled, splinter networks remain`. / `G`.
+- `NEXT_DESIRE`: a strategically essential node faces capture; evacuation incomplete; destruction would strand a dependent medical/agricultural branch. H-001 has actual authority to choose. --
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA7-G7-R08` / `G7-R08` / Office/Title Delegation and Revocation Rules — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
@@ -250,15 +250,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
 - `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
-- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C8 영토·노드·문명
-- `READER_DESIRE_MAIN`: rescue/aid stranded/dependent groups and preserve evidence before faction narratives harden. → some survivors/records/claims preserved.
-- `DISCOVERY`: rescue/aid stranded/dependent groups and preserve evidence before faction narratives harden.
-- `ACQUISITION_OR_CONNECTION`: some survivors/records/claims preserved.
-- `SYNERGY_OR_USE`: some survivors/records/claims preserved.
-- `COST_REFUSAL_OR_LOSS`: H-001 mandate suspended/reduced or coalition fractures. personal relationship with PC/RF actors damaged.
-- `SET_ADVANCE_CONDITION`: some survivors/records/claims preserved.
-- `NEXT_DESIRE`: `C/G/L`. / `G`.
+- `READER_DESIRE_MAIN`: survivors, service-collapse evidence and affected-region claims must be preserved before federation, Continuity, State and Scorched narratives harden the incident into one convenient story. → secure aid, records and claimant standing while H-001 accepts bounded emergency review, reparations and authority limits without using resignation or total guilt as an escape from specific responsibility.
+- `DISCOVERY`: survivors, service-collapse evidence and affected-region claims must be preserved before federation, Continuity, State and Scorched narratives harden the incident into one convenient story.
+- `ACQUISITION_OR_CONNECTION`: secure aid, records and claimant standing while H-001 accepts bounded emergency review, reparations and authority limits without using resignation or total guilt as an escape from specific responsibility.
+- `SYNERGY_OR_USE`: survivor aid, preserved records, affected-region standing and emergency review keep material relief and accountability linked while victims retain the right to reject strategic abstraction.
+- `COST_REFUSAL_OR_LOSS`: H-001's mandate is suspended or reduced or the coalition fractures, and personal relationships with PC/RF actors are damaged.
+- `SET_ADVANCE_CONDITION`: survivor aid, preserved records, affected-region standing and emergency review keep material relief and accountability linked while victims retain the right to reject strategic abstraction.
+- `NEXT_DESIRE`: evidence that several 'Blood Admiral' incidents occurred under different commanders, titles and timelines turns the next desire into a representative incident matrix and plural responsibility audit.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음
 - `ACTIVE_TARGETS`:
   - `CLT-GA7-G7-R10` / `G7-R10` / Survivor Aid, Claims and Reparation Obligation — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=126
@@ -351,7 +351,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: no total absolution, but individuals/institutions regain names and causal roles.
 - `COST_REFUSAL_OR_LOSS`: central archive/Continuity actors argue plural correction threatens legal order. radicals/State actors fight over record custody and identity consequences.
 - `SET_ADVANCE_CONDITION`: no total absolution, but individuals/institutions regain names and causal roles.
-- `NEXT_DESIRE`: `C/G/L`. / `G/R — direct GA8 trigger`. / `G — grand-act institutional reward, not H-001 personal network`. -- / `G — no total guilt or absolution`.
+- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — Blood Admiral decomposition and route-office changes propagate into current systems. → temporary current-status layer separated from historical record.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지
 - `ACTIVE_TARGETS`:
   - `CLT-GA7-G7-R10` / `G7-R10` / Survivor Aid, Claims and Reparation Obligation — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=134

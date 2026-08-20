@@ -23,8 +23,8 @@ Rian close third, with Maren/Vesper traffic reports.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Rian close third, with Maren/Vesper traffic reports.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: Rian refuses Dor-aligned staff’s offer to designate all nearby route ships as his provisional fleet and requests a 72-hour service/defense fact board instead.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Rian refuses Dor-aligned staff’s offer to designate all nearby route ships as his provisional fleet and requests a 72-hour service/defense fact board instead.
@@ -53,7 +53,7 @@ Vesper workers activate a physical red stop on Fuel Spine 4 while three armed fo
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -81,8 +81,8 @@ depot operator Ilya Fen, Tav Oren and Nera.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): depot operator Ilya Fen, Tav Oren and Nera.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: preserve the physical stop and ration flow rather than use military force or full remote override.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 preserve the physical stop and ration flow rather than use military force or full remote override.
@@ -111,7 +111,7 @@ payroll authentication for 38,600 depot and fleet workers expires during the red
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -139,8 +139,8 @@ Haren, Messa Rin, Kev Raon and civil-pay staff.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Haren, Messa Rin, Kev Raon and civil-pay staff.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: issue 14-day emergency earned-pay/family support through multiple contributors and publish who remains excluded.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 issue 14-day emergency earned-pay/family support through multiple contributors and publish who remains excluded.
@@ -169,7 +169,7 @@ NONE — relationship/internal-emotion delta is not separately fixed by the sour
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -197,8 +197,8 @@ Captain Rami Ode, Kev Raon, Maren and Rian.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Captain Rami Ode, Kev Raon, Maren and Rian.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: establish a 36-hour nonboarding/nondeparture standstill with internal safety authority preserved and weapons sealed.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 establish a 36-hour nonboarding/nondeparture standstill with internal safety authority preserved and weapons sealed.
@@ -227,7 +227,7 @@ depot ammunition workers report that another formation is moving loaders toward 
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -255,8 +255,8 @@ Ardo Rev, Tav, depot workers and Oren Roman.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Ardo Rev, Tav, depot workers and Oren Roman.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: Ardo accepts a smaller immediately safe issue rather than seize the full magazine, while recording that the delay may cost lives.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Ardo accepts a smaller immediately safe issue rather than seize the full magazine, while recording that the delay may cost lives.
@@ -285,7 +285,7 @@ an unmarked probe group tests Vesper outer sensors while the depot still lacks a
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -313,8 +313,8 @@ Sira Keon, Oren, local civil services and route representatives.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Sira Keon, Oren, local civil services and route representatives.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: publish a shared intent with four priorities: inhabited rescue, depot minimum service, Talren/Crown civilian corridors and no unilateral asset seizure.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 publish a shared intent with four priorities: inhabited rescue, depot minimum service, Talren/Crown civilian corridors and no unilateral asset seizure.
@@ -343,7 +343,7 @@ one participant demands the mandate name a single commander with default authori
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -371,8 +371,8 @@ mandate board, ship captains and current workers.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): mandate board, ship captains and current workers.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: leave no universal default commander; ships use standing intent and current formation succession under communications loss.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 leave no universal default commander; ships use standing intent and current formation succession under communications loss.
@@ -401,7 +401,7 @@ NONE — relationship/internal-emotion delta is not separately fixed by the sour
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [End State E457] mandate active CY 744-03-13 through 03-20; 13 combat + 11 support ships; 76 frames/utility craft; no offensive/theater authority … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [End State E457] mandate active CY 744-03-13 through 03-20; 13 combat + 11 support ships; 76 frames/utility craft; no offensive/theater authority … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -429,8 +429,8 @@ Kev Raon, Captain Rami Ode and current watch sections.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Kev Raon, Captain Rami Ode and current watch sections.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: negotiate a mission agreement by authority layer rather than hold a single loyalty vote.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 negotiate a mission agreement by authority layer rather than hold a single loyalty vote.
@@ -459,7 +459,7 @@ Chief Engineer Leda Voss fails one of the two thermal safeties during a live low
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -487,8 +487,8 @@ Leda, Tav Oren, Nera and engineering watches.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Leda, Tav Oren, Nera and engineering watches.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: reduce the ship’s accepted combat envelope rather than cannibalize a provincial escort or hide the uncertainty.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 reduce the ship’s accepted combat envelope rather than cannibalize a provincial escort or hide the uncertainty.
@@ -517,7 +517,7 @@ safe propulsion, point defense and limited missile/flight capacity become availa
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -545,8 +545,8 @@ Messa Rin, Kev, Rami, affected officers/crew and family-service staff.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Messa Rin, Kev, Rami, affected officers/crew and family-service staff.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: approve staged transfer/stand-down for 48 people while requiring safe replacement and accountability for two safety cases.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 approve staged transfer/stand-down for 48 people while requiring safe replacement and accountability for two safety cases.
@@ -575,7 +575,7 @@ the home province offers immediate family support if the ship accepts its return
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -603,8 +603,8 @@ Kev, Haren and households in two provincial systems.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Kev, Haren and households in two provincial systems.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: accept province funding only as a current family obligation and recorded mission contribution, not a command purchase.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 accept province funding only as a current family obligation and recorded mission contribution, not a command purchase.
@@ -633,7 +633,7 @@ Dor offers Rami a direct Protector recommission that would unlock ammunition imm
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -661,8 +661,8 @@ Rami, Ardo Rev and Rian.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Rami, Ardo Rev and Rian.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: separate military tactical commission from ship mission acceptance and other authority layers.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 separate military tactical commission from ship mission acceptance and other authority layers.
@@ -691,7 +691,7 @@ ammunition keys authenticate under Dor, but one crew oath field still blocks mis
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -719,8 +719,8 @@ Kev, weapons crews, Serin and Messa.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Kev, weapons crews, Serin and Messa.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: create bounded refusal and audit rules rather than unanimity or total captain discretion.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 create bounded refusal and audit rules rather than unanimity or total captain discretion.
@@ -749,7 +749,7 @@ all pieces are ready except how the three authentic orders rank after the seven-
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -777,8 +777,8 @@ Rami, Kev, Messa, Sira, Ardo and shipboard signatories.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Rami, Kev, Messa, Sira, Ardo and shipboard signatories.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: sign the agreement without declaring who ultimately owns or permanently commands the ship.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 sign the agreement without declaring who ultimately owns or permanently commands the ship.
@@ -807,7 +807,7 @@ before the ship completes its first joined patrol, Vesper authentication delays 
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [End State E464] `세 번째 종`: R2/R2 and mission-chartered through 04-08; current mission complement: 364; 48 staged departures/stand-downs recorded … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [End State E464] `세 번째 종`: R2/R2 and mission-chartered through 04-08; current mission complement: 364; 48 staged departures/stand-downs recorded … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -835,8 +835,8 @@ Serin, Vesper authentication staff and ship watches.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Serin, Vesper authentication staff and ship watches.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: activate local defensive maneuver and rescue preparation before full common weapons authorization.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 activate local defensive maneuver and rescue preparation before full common weapons authorization.
@@ -865,7 +865,7 @@ a forged-looking but physically accurate target update sends two ships toward th
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -893,8 +893,8 @@ Rian, Ardo, Sira and current route operators.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Rian, Ardo, Sira and current route operators.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: link raw motion/time and mission boundaries while preserving local physical labels and formation commands.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 link raw motion/time and mission boundaries while preserving local physical labels and formation commands.
@@ -923,7 +923,7 @@ a provincial corvette receives no current order after its relay is jammed.
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -951,8 +951,8 @@ Doan Mir aboard provincial corvette `오래된 계절`.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Doan Mir aboard provincial corvette `오래된 계절`.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: act under published intent without waiting for Rian, Sira or Ardo.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 act under published intent without waiting for Rian, Sira or Ardo.
@@ -981,7 +981,7 @@ raiders exploit the gap to hit a fuel barge and medical-polymer container train.
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -1009,8 +1009,8 @@ Rami, Kev, weapons teams and Leda.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Rami, Kev, weapons teams and Leda.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: obey the R2 mission envelope rather than prove loyalty through maximum fire.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 obey the R2 mission envelope rather than prove loyalty through maximum fire.
@@ -1039,7 +1039,7 @@ an armed salvage craft attaches to a depot fuel barge and claims emergency recov
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -1067,8 +1067,8 @@ Oren Roman, Maren Dove, Neutral rescue and depot workers.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Oren Roman, Maren Dove, Neutral rescue and depot workers.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: separate rescue obligation from title/salvage transfer and avoid destruction.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 separate rescue obligation from title/salvage transfer and avoid destruction.
@@ -1097,7 +1097,7 @@ depot damage count shows the battle is being won tactically but lost in fuel and
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -1125,8 +1125,8 @@ Haren, Mia, casualty/repair/pay teams and current families.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Haren, Mia, casualty/repair/pay teams and current families.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: publish range-based counterfactual and multi-cause record instead of declaring charter victory or failure.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 publish range-based counterfactual and multi-cause record instead of declaring charter victory or failure.
@@ -1155,7 +1155,7 @@ Ardo demands a default battle commander for the next alert.
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -1183,8 +1183,8 @@ Ardo, Dor staff, Sira, Rian and affected captains.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Ardo, Dor staff, Sira, Rian and affected captains.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: draft a standing defensive intent plus alert-specific default formation sequence rather than universal admiralty.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 draft a standing defensive intent plus alert-specific default formation sequence rather than universal admiralty.
@@ -1213,7 +1213,7 @@ a new alert arrives while the rule is still unsigned.
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -1241,8 +1241,8 @@ formation commanders, captains and isolated units.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): formation commanders, captains and isolated units.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: preserve distributed formation decisions and record the nonparticipating ship as lawful, not cowardly.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 preserve distributed formation decisions and record the nonparticipating ship as lawful, not cowardly.
@@ -1271,7 +1271,7 @@ mandate renewal now requires a broader charter covering command, crew, support, 
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [End State E472] standing defensive intent: operational for named Vesper/Talren defense alerts; no universal commander; `오래된 계절`: 7–10 month combat loss, 4 dead, 19 injured … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [End State E472] standing defensive intent: operational for named Vesper/Talren defense alerts; no universal commander; `오래된 계절`: 7–10 month combat loss, 4 dead, 19 injured … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -1299,8 +1299,8 @@ Rian, Ardo Rev, Sira Keon, Oren Roman, Tav Oren, Messa Rin and captains.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Rian, Ardo Rev, Sira Keon, Oren Roman, Tav Oren, Messa Rin and captains.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: use the principle `command is lent for a mission` and forbid title/pay/root-key transfer through mission acceptance.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 use the principle `command is lent for a mission` and forbid title/pay/root-key transfer through mission acceptance.
@@ -1329,7 +1329,7 @@ Dor offers Rian a broader temporary task command if he accepts General Staff def
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E473 date: CY 744-04-14. Act 5A continues through E480 / CY 744-04-20. first defense loss and central-speed comparison are public … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E473 date: CY 744-04-14. Act 5A continues through E480 / CY 744-04-20. first defense loss and central-speed comparison are public … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -1357,8 +1357,8 @@ Rian, Dor Kein, Ardo and Maren Dove.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Rian, Dor Kein, Ardo and Maren Dove.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: take bounded operational responsibility without accepting default ownership-like allocation power.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 take bounded operational responsibility without accepting default ownership-like allocation power.
@@ -1387,7 +1387,7 @@ Charter drafters discover no shared rule for who pays and repairs a ship damaged
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E473 date: CY 744-04-14. Act 5A continues through E480 / CY 744-04-20. first defense loss and central-speed comparison are public … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E473 date: CY 744-04-14. Act 5A continues through E480 / CY 744-04-20. first defense loss and central-speed comparison are public … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -1415,8 +1415,8 @@ Haren, Tav, Messa, casualty/family representatives and formation quartermasters.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Haren, Tav, Messa, casualty/family representatives and formation quartermasters.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: publish and carry a visibly incomplete Charter v0.1 draft rather than hide unfunded obligations or declare a finished fleet.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 publish and carry a visibly incomplete Charter v0.1 draft rather than hide unfunded obligations or declare a finished fleet.
@@ -1445,7 +1445,7 @@ a mobile repair/pay convoy is located under disputed claim, and the unfinished C
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [End State E475] detailed range E451–475 complete; Vesper opening OOB and eight-layer alignment state established; `세 번째 종` ship agreement active/reviewable and reduced to R2/R2 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [End State E475] detailed range E451–475 complete; Vesper opening OOB and eight-layer alignment state established; `세 번째 종` ship agreement active/reviewable and reduced to R2/R2 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -2691,8 +2691,8 @@ Kev Raon, loaders, captain and Ardo staff.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Kev Raon, loaders, captain and Ardo staff.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: recognize a six-hour legal work slowdown, isolate the lots and load only verified units.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 recognize a six-hour legal work slowdown, isolate the lots and load only verified units.
@@ -2721,7 +2721,7 @@ a distress transmission arrives from three armed ships previously associated wit
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=humidity/charge-seal contamination affects 210 missile/countermeasure units across two lots; immediate full loading creates a credible magazine/launch fault.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=humidity/charge-seal contamination affects 210 missile/countermeasure units across two lots; immediate full loading creates a credible magazine/launch fault.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -3735,8 +3735,8 @@ Doan Mir.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Doan Mir.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: Doan returns with a lawfully departing provincial ship after handover; leaves current route notes and training but refuses a new Charter oath.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Doan returns with a lawfully departing provincial ship after handover; leaves current route notes and training but refuses a new Charter oath.
@@ -3765,7 +3765,7 @@ one recalled formation’s home emergency is exaggerated to gain bargaining leve
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] decide whether Doan remains as a celebrated Charter navigator or exercises the home obligation preserved since E467.; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] decide whether Doan remains as a celebrated Charter navigator or exercises the home obligation preserved since E467.; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -4083,8 +4083,8 @@ Oren Roman.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Oren Roman.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: Oren retains all six escorts on the convoy and refuses to detach toward Vesper; he records the choice as his own current command responsibility.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Oren retains all six escorts on the convoy and refuses to detach toward Vesper; he records the choice as his own current command responsibility.
@@ -4113,7 +4113,7 @@ hostile drones drive one escort into a service ship’s thermal wake.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] keep the civilian/service convoy intact rather than answer a simultaneous Vesper outer alert.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] keep the civilian/service convoy intact rather than answer a simultaneous Vesper outer alert.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -4605,8 +4605,8 @@ Asel.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Asel.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: Asel abandons the pursuit and commits his reserve to rescue/power-route defense.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Asel abandons the pursuit and commits his reserve to rescue/power-route defense.
@@ -4635,7 +4635,7 @@ Recovery Column turns toward the 15-ship civilian/service convoy.
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Outcome] hospital tug and 2,480 patients/crew/service users remain supplied; isolated corvette survives but is disabled 9–13 months … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Outcome] hospital tug and 2,480 patients/crew/service users remain supplied; isolated corvette survives but is disabled 9–13 months … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -5707,8 +5707,8 @@ Asel Varon and Lio Saren.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Asel Varon and Lio Saren.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: Lio/current operators confirm inhabited loads and refuse the false evacuation; Asel shifts two escorts from pursuit to a concealed service-anchor defense; local worker tugs cut an armed recovery bridge; Asel’s formation traps the seizure group against a physically closed lane.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Lio/current operators confirm inhabited loads and refuse the false evacuation; Asel shifts two escorts from pursuit to a concealed service-anchor defense; local worker tugs cut an armed recovery bridge; Asel’s formation traps the seizure group against a physically closed lane.
@@ -5737,7 +5737,7 @@ Vesper and Civilian Chain both request the same two-combat/four-support reserve.
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-09-09 through 09-13. campaign envelope: 40 combat + 34 support, 28 combat R2+ … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-09-09 through 09-13. campaign envelope: 40 combat + 34 support, 28 combat R2+ … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -5881,8 +5881,8 @@ Sira Keon and provincial captains.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Sira Keon and provincial captains.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: Sira rejects pursuit and uses her formation to cover the convoy and verify the home alert before recall.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Sira rejects pursuit and uses her formation to cover the convoy and verify the home alert before recall.
@@ -5911,7 +5911,7 @@ Vesper relay jamming turns into an armed attempt to seize repair-traffic authent
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-09-15 through 09-24. campaign envelope 40 combat +34 support, 28 combat R2+ … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-09-15 through 09-24. campaign envelope 40 combat +34 support, 28 combat R2+ … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -5939,8 +5939,8 @@ Ardo Rev and Vesper formation.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Ardo Rev and Vesper formation.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: Ardo uses the arriving 1 combat +2 support reserve as rear rescue/repair cover and commits his own high-readiness ships to a short centralized intercept.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Ardo uses the arriving 1 combat +2 support reserve as rear rescue/repair cover and commits his own high-readiness ships to a short centralized intercept.
@@ -5969,7 +5969,7 @@ Rian’s Grey Route front finds the route used to feed both the V10 attackers an
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-09-15 through 09-24. campaign envelope 40 combat +34 support, 28 combat R2+ … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-09-15 through 09-24. campaign envelope 40 combat +34 support, 28 combat R2+ … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -5997,8 +5997,8 @@ Rian, Grey Route captains and local operators.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Rian, Grey Route captains and local operators.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: close two armed transit vectors, preserve one verified rescue/service corridor and mark physical/courier challenges for allied fronts.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 close two armed transit vectors, preserve one verified rescue/service corridor and mark physical/courier challenges for allied fronts.
@@ -6027,7 +6027,7 @@ V10’s contact resolves into 12 armed ships, 26 drones and boarding craft conve
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-09-15 through 09-24. campaign envelope 40 combat +34 support, 28 combat R2+ … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-09-15 through 09-24. campaign envelope 40 combat +34 support, 28 combat R2+ … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -6113,8 +6113,8 @@ Sela Ruk, Crown Guard operations/evacuation officer.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Sela Ruk, Crown Guard operations/evacuation officer.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: Sela invokes standing civilian-protection authority, splits the convoy into medical/family, service-cargo and high-thrust groups, and assigns local captains direct route choice within the evacuation envelope.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Sela invokes standing civilian-protection authority, splits the convoy into medical/family, service-cargo and high-thrust groups, and assigns local captains direct route choice within the evacuation envelope.
@@ -6143,7 +6143,7 @@ attackers disable the V10 relay and isolate the rear group.
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [V10 Current Set — shared source state] Dates: CY 744-09-26 through 10-15. Protected convoy/service set: 18 civilian/service ships … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [V10 Current Set — shared source state] Dates: CY 744-09-26 through 10-15. Protected convoy/service set: 18 civilian/service ships … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.

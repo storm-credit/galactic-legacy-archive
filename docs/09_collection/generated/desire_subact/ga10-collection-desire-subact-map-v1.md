@@ -92,7 +92,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: Transition Convention and first region-specific compacts.
 - `COST_REFUSAL_OR_LOSS`: galaxy formally diverges; no one timeline or standard.
 - `SET_ADVANCE_CONDITION`: Transition Convention and first region-specific compacts.
-- `NEXT_DESIRE`: retains Seed/Continuity services for fixed term with local/minority rights, independent mirror and exit review. `C/G — not forced to match protagonist timetable`. / preserves rights/innovation and accepts external minimum obligations/audit. `G — imperfect alternative`. / elite/warlord capture contested/removed or region remains damaged/under temporary support. `L/C — proof of distribution risk and continuing reconstruction`. / personhood/resource/data/exit arrangement distinct from territorial model. `C/G/L — some…
+- `NEXT_DESIRE`: hardliner remnants, local elites and external opportunists coordinate/independently attack several different transition states to prove only their model survives. --
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA10-G10-A02` / `G10-A02` / Voluntary Delayed-Central Region — `MANUAL_SOURCE_BOUND` score=200
@@ -192,7 +192,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: minimum interoperability constitution reaches operational draft.
 - `COST_REFUSAL_OR_LOSS`: no final status for some people/entities; central current-status layer remains as fallback in limited corridors.
 - `SET_ADVANCE_CONDITION`: minimum interoperability constitution reaches operational draft.
-- `NEXT_DESIRE`: `G/R — plural authorities under thin interoperability; some cases unresolved`. / `G — incomplete implementation`. / `G — S-001/plural network not sovereign curator`. / `G — bounded interregional institution, not sovereign welfare state`. / personhood/resource/data/exit arrangement distinct from territorial model. `C/G/L — some statuses recognized, one major case unresolved`.
+- `NEXT_DESIRE`: coordinated attacks/seizures target central Seed, regional mirrors, beneficiary services and transition fleets at once; final key distribution cannot be postponed. --
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA10-G10-R01` / `G10-R01` / Regional Current-Status Authorities — `MANUAL_SOURCE_BOUND` score=200
@@ -293,7 +293,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: no single sovereign Seed operator; plural systems remain connected.
 - `COST_REFUSAL_OR_LOSS`: lower reliability/unequal services and unresolved regions/people.
 - `SET_ADVANCE_CONDITION`: no single sovereign Seed operator; plural systems remain connected.
-- `NEXT_DESIRE`: sovereign current-status/command authority dissolved. physical systems and staff distributed or retained as bounded services. `R — no master operator`. -- / `G/R — plural authorities under thin interoperability; some cases unresolved`. / `G — bounded interregional institution, not sovereign welfare state`. / `G/R — several models/regions, no master route key`. / `G/R — useful bounded institution under plural oversight`.
+- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — after transition battle, services, demobilization, prisoners, migration, claims and residual module/connector obligations remain materially unfinished. → transition institutions continue reconstruction and claim handling without restoring Rian's standing central command.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA10-G10-A07` / `G10-A07` / Central Seed/Continuity Assembly — `MANUAL_SOURCE_BOUND` score=200

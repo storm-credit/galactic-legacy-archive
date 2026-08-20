@@ -178,7 +178,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: trust/lease/parole ownership with audits, crew choice and mission limits. some officers tried; crews not collectively inherited.
 - `COST_REFUSAL_OR_LOSS`: political backlash, security risk and repair burden. one ship/crew rejects integration and leaves/grounds.
 - `SET_ADVANCE_CONDITION`: trust/lease/parole ownership with audits, crew choice and mission limits. some officers tried; crews not collectively inherited.
-- `NEXT_DESIRE`: `G`. / `C/G/L — some ships join, others ground/leave`. / `G`. / `G/L — many spares consumed`.
+- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — determine which recalls are real emergencies and what obligations remain. → first recall/exit framework with notice, replacement and remaining obligations.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA5-G5-C07` / `G5-C07` / Prize/Title Trust Rule — `EPISODE_OVERLAP+TITLE_TEXT` score=120
@@ -272,7 +272,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: Common Fleet Charter v0.2 with burdens and exit.
 - `COST_REFUSAL_OR_LOSS`: some formations refuse and remain outside. P-001 cannot count on full strength.
 - `SET_ADVANCE_CONDITION`: Common Fleet Charter v0.2 with burdens and exit.
-- `NEXT_DESIRE`: `G/L`. / `G/L — many civilians moved toward V08, creating GA6 pressure`.
+- `NEXT_DESIRE`: multi-front campaign begins before all signatories arrive or repair completes. --
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA5-G5-C09` / `G5-C09` / Common Fleet Charter v0.2 — `EPISODE_OVERLAP+TITLE_TEXT` score=119
@@ -368,7 +368,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: Common Fleet Charter v1.0 and distributed formation network. P-001 receives limited theater/task command standing. rescue/pay/repair/authentication and audit systems operational.
 - `COST_REFUSAL_OR_LOSS`: not all formations sign. one commander/formation remains rival or leaves. fleet cannot immediately recover.
 - `SET_ADVANCE_CONDITION`: Common Fleet Charter v1.0 and distributed formation network. P-001 receives limited theater/task command standing. rescue/pay/repair/authentication and audit systems operational.
-- `NEXT_DESIRE`: `C/G — recognized but not permanent fleet ownership`. -- / `G — grand-act institutional reward`. / `G/L — many civilians moved toward V08, creating GA6 pressure`. / `G — grand-act fleet state, not P-001 personal roster`.
+- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — distress/command messages reveal structural match to original Orpheus. → multi-party emergency council/operations cell.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA5-G5-C12` / `G5-C12` / Bounded P-001 Theater/Task Command — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=131

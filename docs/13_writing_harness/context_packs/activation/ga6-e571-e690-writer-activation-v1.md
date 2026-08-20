@@ -139,8 +139,8 @@ Ardo Rev and State/Compact convoy staff.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Ardo Rev and State/Compact convoy staff.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: grant minimum current hospital/power berths after dependency proof, but reject blanket State-first approach lanes.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 grant minimum current hospital/power berths after dependency proof, but reject blanket State-first approach lanes.
@@ -169,7 +169,7 @@ civilian convoy captains reject being represented by one queue or one coordinato
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=losing operational teams can cause deaths across multiple regions, not only among passengers present.; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=losing operational teams can cause deaths across multiple regions, not only among passengers present.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -197,8 +197,8 @@ Nada Soren and civilian captains.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Nada Soren and civilian captains.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: form five convoy councils by life-support, destination, mobility, cargo/service and current risk; Nada coordinates information and joint demands, not tactical command.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 form five convoy councils by life-support, destination, mobility, cargo/service and current risk; Nada coordinates information and joint demands, not tactical command.
@@ -227,7 +227,7 @@ local node workers stop an outside power connection that both State and civilian
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E571: CY 744-11-01. physically present/currently committed: 1,260,000. projected six-week envelope: 3.29–3.49m … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E571: CY 744-11-01. physically present/currently committed: 1,260,000. projected six-week envelope: 3.29–3.49m … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -255,8 +255,8 @@ Deon Har, Muren Kas and local workers.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Deon Har, Muren Kas and local workers.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: Deon maintains the stop and authorizes only a 36% bounded intake through alternating trunks.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Deon maintains the stop and authorizes only a 36% bounded intake through alternating trunks.
@@ -285,7 +285,7 @@ Neutral rescue ships announce they will refuse boarding beyond current covenant 
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=outside fleets already consume 18% of emergency energy and 23% of certified dock/repair shifts; connecting another high-load intake line risks a thermal cascade with one heat-sink field offline.; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=outside fleets already consume 18% of emergency energy and 23% of certified dock/repair shifts; connecting another high-load intake line risks a thermal cascade with one heat-sink field offline.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -313,8 +313,8 @@ Ora Niv and member captains.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Ora Niv and member captains.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: Ora publishes ship-level capacity, disarmament, medical and destination limits and refuses political overbooking.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Ora publishes ship-level capacity, disarmament, medical and destination limits and refuses political overbooking.
@@ -343,7 +343,7 @@ holdout/stay groups demand a seat before planners treat them as future leftovers
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E571: CY 744-11-01. physically present/currently committed: 1,260,000. projected six-week envelope: 3.29–3.49m … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E571: CY 744-11-01. physically present/currently committed: 1,260,000. projected six-week envelope: 3.29–3.49m … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -371,8 +371,8 @@ Lea Nor and local/convoy shelter groups.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Lea Nor and local/convoy shelter groups.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: create a Holdout/Stay seat and require supplies, shelter, defense, surrender/contact and later claims in every plan.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 create a Holdout/Stay seat and require supplies, shelter, defense, surrender/contact and later claims in every plan.
@@ -401,7 +401,7 @@ the six constituencies agree to a Common Fact Board but refuse to give it manife
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [End State E577] common clock and physical baseline active; State, civilian, Neutral, local and holdout positions visible; Common Fact Board authorized for facts only … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [End State E577] common clock and physical baseline active; State, civilian, Neutral, local and holdout positions visible; Common Fact Board authorized for facts only … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -429,8 +429,8 @@ Karin Ves and State institution teams.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Karin Ves and State institution teams.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current medical/care authority together with patient/affected-party consent where applicable; identify the performer/signatory/refuser from this exact source decision beat: create minimum viable function-packet candidates with staff, equipment, data, destination and replacement dependencies; reject the assumption that moving headcount preserves an institution.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 create minimum viable function-packet candidates with staff, equipment, data, destination and replacement dependencies; reject the assumption that moving headcount preserves an institution.
@@ -459,7 +459,7 @@ one advanced hospital packet depends on caregivers and unregistered family membe
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-06 through 11-10. Common Fact Board exists with no priority/manifest authority … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-06 through 11-10. Common Fact Board exists with no priority/manifest authority … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -487,8 +487,8 @@ Tiren O, aunt and registered parent.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Tiren O, aunt and registered parent.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: record Tiren’s preference to remain with the aunt while retaining parent contact/legal recognition; movement authority and guardianship/contact authority are separated.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 record Tiren’s preference to remain with the aunt while retaining parent contact/legal recognition; movement authority and guardianship/contact authority are separated.
@@ -517,7 +517,7 @@ cargo captains reject a passenger-maximizing proposal that would discard agricul
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-06 through 11-10. Common Fact Board exists with no priority/manifest authority … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-06 through 11-10. Common Fact Board exists with no priority/manifest authority … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -545,8 +545,8 @@ Soa Rin and civilian cargo crews.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Soa Rin and civilian cargo crews.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: preserve 4,800 t of strategic agricultural/service cargo, release/redistribute 4,600 t and accept fewer seats.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 preserve 4,800 t of strategic agricultural/service cargo, release/redistribute 4,600 t and accept fewer seats.
@@ -575,7 +575,7 @@ local thermal workers show that every extra shelter/ship load also consumes the 
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-06 through 11-10. Common Fact Board exists with no priority/manifest authority … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-06 through 11-10. Common Fact Board exists with no priority/manifest authority … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -603,8 +603,8 @@ Muren Kas, Deon Har and node engineers.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Muren Kas, Deon Har and node engineers.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: publish a current thermal budget and require every constituency to name what present service it will reduce or what repair labor/resources it contributes.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 publish a current thermal budget and require every constituency to name what present service it will reduce or what repair labor/resources it contributes.
@@ -633,7 +633,7 @@ Authority G/Aurel offers to merge all current people, treatment, destination and
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=current outside load uses 18% emergency energy; an additional 100,000 people sheltered for 72 hours can reduce later high-capacity convergence margin by 4–7% unless heat-sink/repair work succeeds … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=current outside load uses 18% emergency energy; an additional 100,000 people sheltered for 72 hours can reduce later high-capacity convergence margin by 4–7% unless heat-sink/repair work succeeds … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -3499,11 +3499,11 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: high passenger and community-block packing uses B and selected C capacity aggressively; moved range approximately 2.44–2.70m; more civilian people move than in S in most runs … [source continues]) … [source continues]
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: high passenger and community-block packing uses B and selected C capacity aggressively; moved range approximately 2.44–2.70m; more civilian people move than in S in most runs … [source continues]
 **POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: high passenger and community-block packing uses B and selected C capacity aggressively; moved range approximately 2.44–2.70m; more civilian people move than in S in most runs … [source continues]
+bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: high passenger and community-block packing uses B and selected C capacity aggressively; moved range approximately 2.44–2.70m; more civilian people move than in S in most runs; advanced medical, yard/energy and holdout support lose equipment/crew continuity in adverse runs.
 **OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
@@ -3516,7 +3516,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 PRESSURE[stress-test C under the same conflict and destination conditions.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: high passenger and community-block packing uses B and selected C capacity aggressively … [source continues]] → DELTA[high passenger and community-block packing uses B and selected C capacity aggressively; moved range approximately 2.44–2.70m; more civilian people move than in S in most runs … [source continues]] → COST[⟦COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate⟧ high passenger and community-block packing uses B and selected C capacity aggressively … [source continues]] → NEXT[one community block refuses separation required by the failed destination replacement.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: high passenger and community-block packing uses B and selected C capacity aggressively; moved range approximately 2.44–2.70m; more civilian people move than in S in most runs … [source continues]); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: high passenger and community-block packing uses B and selected C capacity aggressively; moved range approximately 2.44–2.70m … [source continues]] and source cost [⟦COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate⟧ high passenger and community-block packing uses B and selected C capacity aggressively; moved range approximately 2.44–2.70m; more civilian people move than in S in most runs … [source continues]]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: high passenger and community-block packing uses B and selected C capacity aggressively; moved range approximately 2.44–2.70m; more civilian people move than in S in most runs; advanced medical, yard/energy and holdout support lose equipment/crew continuity in adverse runs.); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: high passenger and community-block packing uses B and selected C capacity aggressively; moved range approximately 2.44–2.70m … [source continues]] and source cost [⟦COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate⟧ high passenger and community-block packing uses B and selected C capacity aggressively; moved range approximately 2.44–2.70m; more civilian people move than in S in most runs … [source continues]]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
@@ -3673,11 +3673,11 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: moved range approximately 2.50–2.76m; reaches stable operational alignment 4h10m–5h05m faster than M and 2h20m–4h30m faster than most S/C/L runs … [source continues]) … [source continues]
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: moved range approximately 2.50–2.76m; reaches stable operational alignment 4h10m–5h05m faster than M and 2h20m–4h30m faster than most S/C/L runs … [source continues]
 **POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: moved range approximately 2.50–2.76m; reaches stable operational alignment 4h10m–5h05m faster than M and 2h20m–4h30m faster than most S/C/L runs … [source continues]
+bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: moved range approximately 2.50–2.76m; reaches stable operational alignment 4h10m–5h05m faster than M and 2h20m–4h30m faster than most S/C/L runs; likely moves 68,000–104,000 more people in the near-term decisive segment than M under equal physical assumptions.
 **OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
@@ -3690,7 +3690,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 PRESSURE[run G with the broad authority it says is necessary, not a weakened straw version.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: moved range approximately 2.50–2.76m … [source continues]] → DELTA[moved range approximately 2.50–2.76m; reaches stable operational alignment 4h10m–5h05m faster than M and 2h20m–4h30m faster than most S/C/L runs … [source continues]] → COST[36,000–62,000 current refusal/appeal/ship/local decisions are overridden or deferred in high-throughput runs; authority, provenance and correction concentrate in one system/office.] → NEXT[one simulated wrong destination confidence score propagates faster than under plural plans.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: moved range approximately 2.50–2.76m; reaches stable operational alignment 4h10m–5h05m faster than M and 2h20m–4h30m faster than most S/C/L runs … [source continues]); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: moved range approximately 2.50–2.76m; reaches stable operational alignment 4h10m–5h05m faster than M and 2h20m–4h30m faster than most S/C/L runs … [source continues]] and source cost [36,000–62,000 current refusal/appeal/ship/local decisions are overridden or deferred in high-throughput runs; authority, provenance and correction concentrate in one system/office.]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: moved range approximately 2.50–2.76m; reaches stable operational alignment 4h10m–5h05m faster than M and 2h20m–4h30m faster than most S/C/L runs; likely moves 68,000–104,000 more people in the near-term decisive segment than M under equal physical assumptions.); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: moved range approximately 2.50–2.76m; reaches stable operational alignment 4h10m–5h05m faster than M and 2h20m–4h30m faster than most S/C/L runs … [source continues]] and source cost [36,000–62,000 current refusal/appeal/ship/local decisions are overridden or deferred in high-throughput runs; authority, provenance and correction concentrate in one system/office.]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
@@ -3735,7 +3735,7 @@ WORKFLOW POV recommendation — select the already-present human/work carrier id
 **POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: central reassignment corrects most flow within 23 minutes; before correction, approximately 18,000–31,000 people/medical dependents enter wrong loading or staging paths; no simulated final death count is treated as exact … [source continues]
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: central reassignment corrects most flow within 23 minutes; before correction, approximately 18,000–31,000 people/medical dependents enter wrong loading or staging paths; no simulated final death count is treated as exact; G remains faster overall than other plans in most runs.
 **OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
@@ -3748,7 +3748,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 PRESSURE[test G’s correction after the shared destination failure and one confidence-model error.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: central reassignment corrects most flow within 23 minutes … [source continues]] → DELTA[central reassignment corrects most flow within 23 minutes; before correction, approximately 18,000–31,000 people/medical dependents enter wrong loading or staging paths … [source continues]] → COST[⟦COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate⟧ central reassignment corrects most flow within 23 minutes … [source continues]] → NEXT[M is tested without giving it hidden central powers or perfect cooperation.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: central reassignment corrects most flow within 23 minutes; before correction, approximately 18,000–31,000 people/medical dependents enter wrong loading or staging paths; no simulated final death count is treated as exact … [source continues]); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: central reassignment corrects most flow within 23 minutes; before correction, approximately 18,000–31,000 people/medical dependents enter wrong loading or staging paths … [source continues]] and source cost [⟦COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate⟧ central reassignment corrects most flow within 23 minutes; before correction, approximately 18,000–31,000 people/medical dependents enter wrong loading or staging paths … [source continues]]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: central reassignment corrects most flow within 23 minutes; before correction, approximately 18,000–31,000 people/medical dependents enter wrong loading or staging paths; no simulated final death count is treated as exact; G remains faster overall than other plans in most runs.); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: central reassignment corrects most flow within 23 minutes; before correction, approximately 18,000–31,000 people/medical dependents enter wrong loading or staging paths … [source continues]] and source cost [⟦COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate⟧ central reassignment corrects most flow within 23 minutes; before correction, approximately 18,000–31,000 people/medical dependents enter wrong loading or staging paths … [source continues]]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
@@ -3793,7 +3793,7 @@ WORKFLOW POV recommendation — select the already-present human/work carrier id
 **POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: moved range approximately 2.34–2.59m; independent ship/local/affected fields preserve provenance, refusal and route-specific correction; alignment is slower and some capacity expires while approvals/handoffs complete … [source continues]
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: moved range approximately 2.34–2.59m; independent ship/local/affected fields preserve provenance, refusal and route-specific correction; alignment is slower and some capacity expires while approvals/handoffs complete; no reliable proof M minimizes immediate deaths.
 **OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
@@ -3806,7 +3806,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 PRESSURE[stress-test distributed prototype M under realistic coordination loss.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: moved range approximately 2.34–2.59m … [source continues]] → DELTA[moved range approximately 2.34–2.59m; independent ship/local/affected fields preserve provenance, refusal and route-specific correction … [source continues]] → COST[70,000–130,000 people remain in later/uncertain paths relative to high G runs in several equal-assumption cases.] → NEXT[the five plans now require one public comparison of movement, remaining people, function loss and authority.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: moved range approximately 2.34–2.59m; independent ship/local/affected fields preserve provenance, refusal and route-specific correction; alignment is slower and some capacity expires while approvals/handoffs complete … [source continues]); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: moved range approximately 2.34–2.59m; independent ship/local/affected fields preserve provenance, refusal and route-specific correction … [source continues]] and source cost [70,000–130,000 people remain in later/uncertain paths relative to high G runs in several equal-assumption cases.]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: moved range approximately 2.34–2.59m; independent ship/local/affected fields preserve provenance, refusal and route-specific correction; alignment is slower and some capacity expires while approvals/handoffs complete; no reliable proof M minimizes immediate deaths.); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: moved range approximately 2.34–2.59m; independent ship/local/affected fields preserve provenance, refusal and route-specific correction … [source continues]] and source cost [70,000–130,000 people remain in later/uncertain paths relative to high G runs in several equal-assumption cases.]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
@@ -6378,7 +6378,7 @@ E681 begins after Ella's permanent loss with the common assumptions exhausted an
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=damaged coupling, pressure/fire spread and incompatible branch timing threaten both carriers; automatic release risks uncontrolled rotation and patient life-support failure … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-EXPLICIT; human-route=SOURCE-POV; carrier=damaged coupling, pressure/fire spread and incompatible branch timing threaten both carriers; automatic release risks uncontrolled rotation and patient life-support failure … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot order Ella's sacrifice, inherit her medical authority, reverse her death, or erase current patient/team consent and stop authority.
@@ -6406,7 +6406,7 @@ WORKFLOW POV recommendation — select the already-present human/work carrier id
 **POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current investigators/source custodians/witnesses with their separate evidentiary standing; identify the performer/signatory/refuser from this exact source decision beat: Common Fact Board updates facts but does not vote priority; Deon/local, medical, ship/captain, affected constituencies, receiving bodies, military formations, evidence/appeal and holdout actors each grant only their fields; Rian rejects the full human-corrective/master operational key and recommends staged distributed architecture … [source continues]
+bounded current investigators/source custodians/witnesses with their separate evidentiary standing; identify the performer/signatory/refuser from this exact source decision beat: Common Fact Board updates facts but does not vote priority; Deon/local, medical, ship/captain, affected constituencies, receiving bodies, military formations, evidence/appeal and holdout actors each grant only their fields; Rian rejects the full human-corrective/master operational key and recommends staged distributed architecture; several G/S supporters formally dissent and continue bounded participation.
 **OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
@@ -6419,7 +6419,7 @@ Common Fact Board updates facts but does not vote priority; Deon/local, medical,
 PRESSURE[select an executable architecture after A closure, B losses, Ella’s death, hostile escalation and current refusals.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Common Fact Board updates facts but does not vote priority; Deon/local, medical, ship/captain, affected constituencies, receiving bodies, military formations, evidence/appeal and holdout actors each grant only their fiel … [source continues]] → DELTA[one executable architecture exists.] → COST[slower coordination and lost capacity remain; dissent is legitimate and recorded.] → NEXT[Grey and several captains refuse or alter M assignments at 05:50.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current investigators/source custodians/witnesses with their separate evidentiary standing; identify the performer/signatory/refuser from this exact source decision beat: Common Fact Board updates facts but does not vote priority; Deon/local, medical, ship/captain, affected constituencies, receiving bodies, military formations, evidence/appeal and holdout actors each grant only their fields; Rian rejects the full human-corrective/master operational key and recommends staged distributed architecture … [source continues]); ground that face in the exact source pivot [Common Fact Board updates facts but does not vote priority; Deon/local, medical, ship/captain, affected constituencies, receiving bodies, military formations, evidence/appeal and holdout actors each grant only their fields … [source continues]] and source cost [slower coordination and lost capacity remain; dissent is legitimate and recorded.]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current investigators/source custodians/witnesses with their separate evidentiary standing; identify the performer/signatory/refuser from this exact source decision beat: Common Fact Board updates facts but does not vote priority; Deon/local, medical, ship/captain, affected constituencies, receiving bodies, military formations, evidence/appeal and holdout actors each grant only their fields; Rian rejects the full human-corrective/master operational key and recommends staged distributed architecture; several G/S supporters formally dissent and continue bounded participation.); ground that face in the exact source pivot [Common Fact Board updates facts but does not vote priority; Deon/local, medical, ship/captain, affected constituencies, receiving bodies, military formations, evidence/appeal and holdout actors each grant only their fields … [source continues]] and source cost [slower coordination and lost capacity remain; dissent is legitimate and recorded.]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
@@ -6525,8 +6525,8 @@ Ardo Rev aboard `보루의 맹세`.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Ardo Rev aboard `보루의 맹세`.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+Ardo Rev aboard `보루의 맹세`.
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **DECISION_BEAT**  
 Ardo keeps the commands separate, transmits standing intent and uses `보루의 맹세` to hold the hostile lane and authentication break.
@@ -6555,7 +6555,7 @@ C convergence needs a mobile route/support hull to absorb a propulsion/energy di
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Outcome] both formations retain independent succession and continue their missions; `보루의 맹세` is lost/unrecoverable in the action … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-EXPLICIT; human-route=SOURCE-POV; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Outcome] both formations retain independent succession and continue their missions; `보루의 맹세` is lost/unrecoverable in the action … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -6586,8 +6586,8 @@ Maren Dove, Vera Thorn, current crew and route teams.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Maren Dove, Vera Thorn, current crew and route teams.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+Maren Dove, Vera Thorn, current crew and route teams.
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **DECISION_BEAT**  
 Maren commits `파루스` as a temporary route/energy/traffic stabilizer, not as fleet flagship; Vera and engineering teams isolate the strategic propulsion bus and drive section under overload; local physical stop and crew consent remain.
@@ -6616,7 +6616,7 @@ late local operators, medical teams and remaining small craft have less than thr
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Outcome] C convergence remains usable long enough to complete the major transfer phase … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-EXPLICIT; human-route=SOURCE-POV; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Outcome] C convergence remains usable long enough to complete the major transfer phase … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -6934,7 +6934,7 @@ WORKFLOW POV recommendation — select the already-present human/work carrier id
 **POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ receiving regions suspend or condition traffic after overload, security and identity shocks; holdouts/captured/unstable groups seek supply and contact corridors … [source continues]
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ receiving regions suspend or condition traffic after overload, security and identity shocks; holdouts/captured/unstable groups seek supply and contact corridors; missing-person searches collide with military route closures … [source continues]
 **OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
@@ -6947,7 +6947,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 PRESSURE[close GA6 and launch the route-denial/federation/accountability conflict of GA7.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ receiving regions suspend or condition traf … [source continues]] → DELTA[⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ receiving regions suspend or condition traffic after overload, security and identity shocks … [source continues]] → COST[⟦SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source⟧ [Final GA6 state] Plan M operation closed; G/S counterfactuals and dissent preserved; Ella and Ardo permanently dead … [source continues]] → NEXT[the first region refuses an Orpheus-linked rescue convoy under a valid emergency denial, while another region using the same evidence keeps its route open.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ receiving regions suspend or condition traffic after overload, security and identity shocks; holdouts/captured/unstable groups seek supply and contact corridors … [source continues]); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ receiving regions suspend or condition traffic after overload, security and identity shocks … [source continues]] and source cost [⟦SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source⟧ [Final GA6 state] Plan M operation closed; G/S counterfactuals and dissent preserved; Ella and Ardo permanently dead; Vera permanently injured; `파루스` strategically immobile … [source continues]]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ receiving regions suspend or condition traffic after overload, security and identity shocks; holdouts/captured/unstable groups seek supply and contact corridors; missing-person searches collide with military route closures … [source continues]); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ receiving regions suspend or condition traffic after overload, security and identity shocks … [source continues]] and source cost [⟦SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source⟧ [Final GA6 state] Plan M operation closed; G/S counterfactuals and dissent preserved; Ella and Ardo permanently dead; Vera permanently injured; `파루스` strategically immobile … [source continues]]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  

@@ -89,7 +89,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: 30-day minimum-service and diagnostic pact. first ship assigned as one service/escort contractor, not command center.
 - `COST_REFUSAL_OR_LOSS`: no permanent political settlement. emergency budget cuts one district/project. external aid offers gain influence.
 - `SET_ADVANCE_CONDITION`: 30-day minimum-service and diagnostic pact. first ship assigned as one service/escort contractor, not command center.
-- `NEXT_DESIRE`: `R/G — incorporated into joint trust minimums`. / `G — transparent allocation/standing rules, still insufficient`. / `C/R — enough for GA4/8, not complete truth`.
+- `NEXT_DESIRE`: Foundry strike/occupation begins when Civic/Helix moves to requisition production for Spine A/defense instead of negotiated Spine B repair. --
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA3-G3-R03` / `G3-R03` / 30-Day Minimum-Service Pact — `EPISODE_OVERLAP+TITLE_TEXT` score=120
@@ -182,7 +182,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: provisional city assembly/board that can authorize Phase 3 decisions.
 - `COST_REFUSAL_OR_LOSS`: slow voting and unresolved registered citizenship. excluded blocs form opposition. Federalist/Imperial/Helix actors prepare for approaching fleet conflict.
 - `SET_ADVANCE_CONDITION`: provisional city assembly/board that can authorize Phase 3 decisions.
-- `NEXT_DESIRE`: `R/G — precursor incorporated into larger joint trust`. / `G — locally governed production capability`. / `C/R — enough for GA4/8, not complete truth`.
+- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — determine interim lawful command before external task groups arrive. → transparent readiness/defense map.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA3-G3-R06` / `G3-R06` / Three-Body Representation Board — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=123
@@ -277,7 +277,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: combined defense for imminent siege.
 - `COST_REFUSAL_OR_LOSS`: external commander/key gains foothold. local opposition and Imperial hardliners prepare coercive resolution.
 - `SET_ADVANCE_CONDITION`: combined defense for imminent siege.
-- `NEXT_DESIRE`: `C/G — time-limited treaty term, not sovereignty transfer`. / `G`. / `C/G — begun, not completed`. -- / `G/L — used in siege, later revised`.
+- `NEXT_DESIRE`: several attacks/sabotage/route moves converge; Ardis must run the first joint A+B+C window during active siege or lose food/medicine/defense capability. --
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA3-G3-R09` / `G3-R09` / Narrow Imperial Coordination Accord — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=124
@@ -371,7 +371,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: Ardis Node Joint Trust and limited regional route. repair/production alliance and political recognition enough to act.
 - `COST_REFUSAL_OR_LOSS`: slow, contested and underfunded. one leader/faction leaves government or organizes opposition. Imperial/Helix/Independence strategic conflict escalates around succession rumors/orders.
 - `SET_ADVANCE_CONDITION`: Ardis Node Joint Trust and limited regional route. repair/production alliance and political recognition enough to act.
-- `NEXT_DESIRE`: `G — grand-act institutional reward`. / `T/I — one new CORE question only`. / `C/G — begun, not completed`. -- / `C — candidate path, months/years from completion`. --
+- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — Ardis receives six messages and must respond before P-001 can reach the Core. → Ardis’s authenticated response and evidence courier mandate.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음
 - `ACTIVE_TARGETS`:
   - `CLT-GA3-G3-R11` / `G3-R11` / Ardis Node Joint Trust Charter — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=131
