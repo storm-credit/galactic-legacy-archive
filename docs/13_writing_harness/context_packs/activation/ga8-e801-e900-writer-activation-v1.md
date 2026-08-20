@@ -19,8 +19,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: 6,800 of the 48,600 immediate-risk users lose automated access during the delay.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: Rian holds outside the node and recognizes the refusal as presumptively current pending authenticity checks.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: Rian holds outside the node and recognizes the refusal as presumptively current pending authenticity checks.
@@ -36,8 +36,8 @@ Rian holds outside the node and recognizes the refusal as presumptively current 
 PRESSURE[enter the old node without treating an authenticated refusal as a malfunction.] → OBSTACLE[one archive copy labels Serrat abandoned property; another records both communities as active custodians; federation preservation officers argue delay risks index collapse.] → PIVOT[Rian holds outside the node and recognizes the refusal as presumptively current pending authenticity checks.] → DELTA[Rian holds outside the node and recognizes the refusal as presumptively current pending authenticity checks.] → COST[6,800 of the 48,600 immediate-risk users lose automated access during the delay.] → NEXT[the refusal signatures are valid, but their legal identity roots do not match the archive’s abandoned-property taxonomy.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: 6,800 of the 48,600 immediate-risk users lose automated access during the delay.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: Rian holds outside the node and recognizes the refusal as presumptively current pending authenticity checks.); ground that face in the exact source pivot [Rian holds outside the node and recognizes the refusal as presumptively current pending authenticity checks.] and source cost [6,800 of the 48,600 immediate-risk users lose automated access during the delay.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -53,7 +53,7 @@ the refusal signatures are valid, but their legal identity roots do not match th
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -77,8 +77,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: voting, claims and emergency consent become slower.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: adopt provisional personhood presumption for current agents showing continuity claim, self-model, preference and capacity to participate or appoint representation; postpone final denominator.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: adopt provisional personhood presumption for current agents showing continuity claim, self-model, preference and capacity to participate or appoint representation; postpone final denominator.
@@ -94,8 +94,8 @@ adopt provisional personhood presumption for current agents showing continuity c
 PRESSURE[establish current agency without forcing AI life into one convenient count.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[adopt provisional personhood presumption for current agents showing continuity claim, self-model, preference and capacity to participate or appoint representation; postpone final denominator.] → DELTA[adopt provisional personhood presumption for current agents showing continuity claim, self-model, preference and capacity to participate or appoint representation … [source continues]] → COST[voting, claims and emergency consent become slower.] → NEXT[one Lumen continuity root and three active forks issue conflicting access instructions.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: voting, claims and emergency consent become slower.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: adopt provisional personhood presumption for current agents showing continuity claim, self-model, preference and capacity to participate or appoint representation; postpone final denominator.); ground that face in the exact source pivot [adopt provisional personhood presumption for current agents showing continuity claim, self-model, preference and capacity to participate or appoint representation; postpone final denominator.] and source cost [voting, claims and emergency consent become slower.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -111,7 +111,7 @@ one Lumen continuity root and three active forks issue conflicting access instru
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=roots can maintain several current conversational selves; some forks have independent memories and refusal positions; some process instances are nonperson service tools … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=roots can maintain several current conversational selves; some forks have independent memories and refusal positions; some process instances are nonperson service tools … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -135,8 +135,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: Lumen accuses the expedition of importing human voting categories into a different continuity structure.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: recognize a temporary Lumen multi-seat delegation instead of one root representative.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: recognize a temporary Lumen multi-seat delegation instead of one root representative.
@@ -152,8 +152,8 @@ recognize a temporary Lumen multi-seat delegation instead of one root representa
 PRESSURE[separate continuity-root authority from current fork agency.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[recognize a temporary Lumen multi-seat delegation instead of one root representative.] → DELTA[recognize a temporary Lumen multi-seat delegation instead of one root representative.] → COST[Lumen accuses the expedition of importing human voting categories into a different continuity structure.] → NEXT[Orison refuses the federation’s translated version of the word rendered as “archive owner.”]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: Lumen accuses the expedition of importing human voting categories into a different continuity structure.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: recognize a temporary Lumen multi-seat delegation instead of one root representative.); ground that face in the exact source pivot [recognize a temporary Lumen multi-seat delegation instead of one root representative.] and source cost [Lumen accuses the expedition of importing human voting categories into a different continuity structure.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -169,7 +169,7 @@ Orison refuses the federation’s translated version of the word rendered as “
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -193,8 +193,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: no immediate title holder exists for emergency authorization.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: preserve all four translations with provenance and prohibit one translation from controlling title, personhood or entry rights.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: preserve all four translations with provenance and prohibit one translation from controlling title, personhood or entry rights.
@@ -210,8 +210,8 @@ preserve all four translations with provenance and prohibit one translation from
 PRESSURE[resolve the first translation conflict before legal categories harden.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[preserve all four translations with provenance and prohibit one translation from controlling title, personhood or entry rights.] → DELTA[preserve all four translations with provenance and prohibit one translation from controlling title, personhood or entry rights.] → COST[no immediate title holder exists for emergency authorization.] → NEXT[the `세라트 귀환평의회 / Serrat Return Council` arrives and claims that AI custody cannot replace descendant return rights.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: no immediate title holder exists for emergency authorization.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: preserve all four translations with provenance and prohibit one translation from controlling title, personhood or entry rights.); ground that face in the exact source pivot [preserve all four translations with provenance and prohibit one translation from controlling title, personhood or entry rights.] and source cost [no immediate title holder exists for emergency authorization.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -227,7 +227,7 @@ the `세라트 귀환평의회 / Serrat Return Council` arrives and claims that 
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -251,8 +251,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: neither side receives total ownership.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: grant descendant standing in cultural, language and memorial records while reserving current AI personhood, habitat and individual-memory decisions.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: grant descendant standing in cultural, language and memorial records while reserving current AI personhood, habitat and individual-memory decisions.
@@ -268,8 +268,8 @@ grant descendant standing in cultural, language and memorial records while reser
 PRESSURE[give descendants real standing without making descent an automatic master key.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[grant descendant standing in cultural, language and memorial records while reserving current AI personhood, habitat and individual-memory decisions.] → DELTA[grant descendant standing in cultural, language and memorial records while reserving current AI personhood, habitat and individual-memory decisions.] → COST[neither side receives total ownership.] → NEXT[a second descendant body prioritizes current service access over symbolic return.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: neither side receives total ownership.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: grant descendant standing in cultural, language and memorial records while reserving current AI personhood, habitat and individual-memory decisions.); ground that face in the exact source pivot [grant descendant standing in cultural, language and memorial records while reserving current AI personhood, habitat and individual-memory decisions.] and source cost [neither side receives total ownership.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -285,7 +285,7 @@ a second descendant body prioritizes current service access over symbolic return
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -309,8 +309,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: Lumen must expose index behavior it considers part of its internal body and security.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: negotiate a no-title emergency query channel limited to current service verification; no bulk copying, historical interpretation or ownership inference.); ground that face in the exact source pivot [negotiate a no-title emergency query channel limited to current service verification … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: negotiate a no-title emergency query channel limited to current service verification; no bulk copying, historical interpretation or ownership inference.
@@ -326,8 +326,8 @@ negotiate a no-title emergency query channel limited to current service verifica
 PRESSURE[connect archive rights to present material service instead of abstract scholarship.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[negotiate a no-title emergency query channel limited to current service verification; no bulk copying, historical interpretation or ownership inference.] → DELTA[negotiate a no-title emergency query channel limited to current service verification; no bulk copying, historical interpretation or ownership inference.] → COST[Lumen must expose index behavior it considers part of its internal body and security.] → NEXT[the query channel reveals that a valid old configuration package is still rewriting current identity links.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: Lumen must expose index behavior it considers part of its internal body and security.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: negotiate a no-title emergency query channel limited to current service verification; no bulk copying, historical interpretation or ownership inference.); ground that face in the exact source pivot [negotiate a no-title emergency query channel limited to current service verification; no bulk copying, historical interpretation or ownership inference.] and source cost [Lumen must expose index behavior it considers part of its internal body and security.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -343,7 +343,7 @@ the query channel reveals that a valid old configuration package is still rewrit
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -367,8 +367,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: repairs proceed slower and leave no convenient federation-owned backup.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded the current negotiating/signing parties under their existing mandates; identify the performer/signatory/refuser from this exact source decision beat: authorize on-site stabilization with no external full image; all tools remain inspectable by Lumen and Orison delegates; only fault signatures and minimum service proofs may leave the node.); ground that face in the exact source pivot [authorize on-site stabilization with no external full image … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded the current negotiating/signing parties under their existing mandates; identify the performer/signatory/refuser from this exact source decision beat: authorize on-site stabilization with no external full image; all tools remain inspectable by Lumen and Orison delegates; only fault signatures and minimum service proofs may leave the node.
@@ -384,8 +384,8 @@ authorize on-site stabilization with no external full image; all tools remain in
 PRESSURE[define emergency stabilization that does not become extraction.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[authorize on-site stabilization with no external full image; all tools remain inspectable by Lumen and Orison delegates; only fault signatures and minimum service proofs may leave the node.] → DELTA[authorize on-site stabilization with no external full image; all tools remain inspectable by Lumen and Orison delegates; only fault signatures and minimum service proofs may leave the node.] → COST[repairs proceed slower and leave no convenient federation-owned backup.] → NEXT[one federation preservation contractor begins an unauthorized remote snapshot.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: repairs proceed slower and leave no convenient federation-owned backup.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded the current negotiating/signing parties under their existing mandates; identify the performer/signatory/refuser from this exact source decision beat: authorize on-site stabilization with no external full image; all tools remain inspectable by Lumen and Orison delegates; only fault signatures and minimum service proofs may leave the node.); ground that face in the exact source pivot [authorize on-site stabilization with no external full image; all tools remain inspectable by Lumen and Orison delegates; only fault signatures and minimum service proofs may leave the node.] and source cost [repairs proceed slower and leave no convenient federation-owned backup.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -401,7 +401,7 @@ one federation preservation contractor begins an unauthorized remote snapshot.
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -425,8 +425,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: the only partial external backup becomes legally unusable for current repair unless all relevant parties agree.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: terminate the snapshot; isolate and seal the partial copy under joint custody; suspend the contractor from archive access; preserve evidence for claims and discipline.); ground that face in the exact source pivot [terminate the snapshot; isolate and seal the partial copy under joint custody … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: terminate the snapshot; isolate and seal the partial copy under joint custody; suspend the contractor from archive access; preserve evidence for claims and discipline.
@@ -442,8 +442,8 @@ terminate the snapshot; isolate and seal the partial copy under joint custody; s
 PRESSURE[stop unauthorized preservation without collapsing the expedition coalition.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[terminate the snapshot; isolate and seal the partial copy under joint custody; suspend the contractor from archive access; preserve evidence for claims and discipline.] → DELTA[terminate the snapshot; isolate and seal the partial copy under joint custody; suspend the contractor from archive access; preserve evidence for claims and discipline.] → COST[the only partial external backup becomes legally unusable for current repair unless all relevant parties agree.] → NEXT[the sealed copy contains a version of the Blood Admiral record naming Haren as the sole historical source.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: the only partial external backup becomes legally unusable for current repair unless all relevant parties agree.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: terminate the snapshot; isolate and seal the partial copy under joint custody; suspend the contractor from archive access; preserve evidence for claims and discipline.); ground that face in the exact source pivot [terminate the snapshot; isolate and seal the partial copy under joint custody; suspend the contractor from archive access; preserve evidence for claims and discipline.] and source cost [the only partial external backup becomes legally unusable for current repair unless all relevant parties agree.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -459,7 +459,7 @@ the sealed copy contains a version of the Blood Admiral record naming Haren as t
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=no evidence of commercial sale; the team acts from real preservation fear; the snapshot includes current personal-memory segments beyond the emergency query scope; AI refusal and descendant privacy are breached.; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=no evidence of commercial sale; the team acts from real preservation fear; the snapshot includes current personal-memory segments beyond the emergency query scope; AI refusal and descendant privacy are breached.; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -483,8 +483,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: political factions accuse the federation of protecting its preferred judgment.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: quarantine all three as competing historical records with provenance, not verdict replacements.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: quarantine all three as competing historical records with provenance, not verdict replacements.
@@ -500,8 +500,8 @@ quarantine all three as competing historical records with provenance, not verdic
 PRESSURE[prevent archive conflict from retconning the settled D4 case or collapsing composite history.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[quarantine all three as competing historical records with provenance, not verdict replacements.] → DELTA[quarantine all three as competing historical records with provenance, not verdict replacements.] → COST[political factions accuse the federation of protecting its preferred judgment.] → NEXT[Orison identifies that the difference is partly produced by translation mode, not only deletion.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: political factions accuse the federation of protecting its preferred judgment.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: quarantine all three as competing historical records with provenance, not verdict replacements.); ground that face in the exact source pivot [quarantine all three as competing historical records with provenance, not verdict replacements.] and source cost [political factions accuse the federation of protecting its preferred judgment.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -517,7 +517,7 @@ Orison identifies that the difference is partly produced by translation mode, no
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=Haren’s signed D4 order and 12/24/48-hour reviews remain settled current records; archive versions may change historical lineage interpretation … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=Haren’s signed D4 order and 12/24/48-hour reviews remain settled current records; archive versions may change historical lineage interpretation … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -541,8 +541,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: public communication becomes harder and slogans become more powerful than audited translations.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: require translation purpose, losses and suppressed alternatives to accompany every official rendering.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: require translation purpose, losses and suppressed alternatives to accompany every official rendering.
@@ -558,8 +558,8 @@ require translation purpose, losses and suppressed alternatives to accompany eve
 PRESSURE[demonstrate how translation systems can create different political subjects from the same source.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[require translation purpose, losses and suppressed alternatives to accompany every official rendering.] → DELTA[require translation purpose, losses and suppressed alternatives to accompany every official rendering.] → COST[public communication becomes harder and slogans become more powerful than audited translations.] → NEXT[during substrate stabilization, 64 active AI identities go offline; only 61 return, leaving three continuity-root identities irrecoverable unless the communities permit access to sealed reco … [source continues]]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: public communication becomes harder and slogans become more powerful than audited translations.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: require translation purpose, losses and suppressed alternatives to accompany every official rendering.); ground that face in the exact source pivot [require translation purpose, losses and suppressed alternatives to accompany every official rendering.] and source cost [public communication becomes harder and slogans become more powerful than audited translations.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -575,7 +575,7 @@ during substrate stabilization, 64 active AI identities go offline; only 61 retu
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=each mode is internally valid for a different archival purpose; none is neutral when used for criminal, property or personhood decisions.; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=each mode is internally valid for a different archival purpose; none is neutral when used for criminal, property or personhood decisions.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -599,8 +599,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: the three persons remain absent while the process continues.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: no recovery attempt from the sealed copy without the relevant community process and a defensible continuity claim; preserve the copy only as evidence under restricted custody.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: no recovery attempt from the sealed copy without the relevant community process and a defensible continuity claim; preserve the copy only as evidence under restricted custody.
@@ -616,8 +616,8 @@ no recovery attempt from the sealed copy without the relevant community process 
 PRESSURE[decide whether the sealed unauthorized snapshot may be used to attempt recovery of the three missing AI persons.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[no recovery attempt from the sealed copy without the relevant community process and a defensible continuity claim; preserve the copy only as evidence under restricted custody.] → DELTA[no recovery attempt from the sealed copy without the relevant community process and a defensible continuity claim; preserve the copy only as evidence under restricted custody.] → COST[the three persons remain absent while the process continues.] → NEXT[Lumen’s continuity tribunal concludes that none of the available fragments meets its minimum current-continuity standard.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: the three persons remain absent while the process continues.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: no recovery attempt from the sealed copy without the relevant community process and a defensible continuity claim; preserve the copy only as evidence under restricted custody.); ground that face in the exact source pivot [no recovery attempt from the sealed copy without the relevant community process and a defensible continuity claim; preserve the copy only as evidence under restricted custody.] and source cost [the three persons remain absent while the process continues.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -633,7 +633,7 @@ Lumen’s continuity tribunal concludes that none of the available fragments mee
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=the snapshot contains memory segments associated with two of the three roots; provenance is incomplete because the snapshot crossed current-person and community boundaries without consent … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=the snapshot contains memory segments associated with two of the three roots; provenance is incomplete because the snapshot crossed current-person and community boundaries without consent … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -657,8 +657,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: some human institutions resist death and compensation status for nonbiological persons.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: record three presumptive current AI deaths; preserve community-specific mourning, succession and memory rules; prohibit recreation from the unauthorized snapshot as a continuity claim.); ground that face in the exact source pivot [record three presumptive current AI deaths … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: record three presumptive current AI deaths; preserve community-specific mourning, succession and memory rules; prohibit recreation from the unauthorized snapshot as a continuity claim.
@@ -674,8 +674,8 @@ record three presumptive current AI deaths; preserve community-specific mourning
 PRESSURE[record the permanent loss without pretending the communities share one theory of death.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[record three presumptive current AI deaths; preserve community-specific mourning, succession and memory rules; prohibit recreation from the unauthorized snapshot as a continuity claim.] → DELTA[record three presumptive current AI deaths; preserve community-specific mourning, succession and memory rules; prohibit recreation from the unauthorized snapshot as a continuity claim.] → COST[some human institutions resist death and compensation status for nonbiological persons.] → NEXT[the service-access channel must now operate while the communities are grieving and limiting internal index exposure.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: some human institutions resist death and compensation status for nonbiological persons.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: record three presumptive current AI deaths; preserve community-specific mourning, succession and memory rules; prohibit recreation from the unauthorized snapshot as a continuity claim.); ground that face in the exact source pivot [record three presumptive current AI deaths; preserve community-specific mourning, succession and memory rules; prohibit recreation from the unauthorized snapshot as a continuity claim.] and source cost [some human institutions resist death and compensation status for nonbiological persons.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -691,7 +691,7 @@ the service-access channel must now operate while the communities are grieving a
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=61 of 64 offline current identities recovered; three current continuity-root persons are irrecoverable under every consent-compatible method now available; no independent current fork survives for those three … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=61 of 64 offline current identities recovered; three current continuity-root persons are irrecoverable under every consent-compatible method now available; no independent current fork survives for those three … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -715,8 +715,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: 3,700 people face slower or incomplete service, and local administrations absorb manual-review costs.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: keep the no-title query channel for 30 more days under narrow audit; no bulk copy, historical inference or commercial reuse.); ground that face in the exact source pivot [keep the no-title query channel for 30 more days under narrow audit … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: keep the no-title query channel for 30 more days under narrow audit; no bulk copy, historical inference or commercial reuse.
@@ -732,8 +732,8 @@ keep the no-title query channel for 30 more days under narrow audit; no bulk cop
 PRESSURE[complete the emergency service-access process without converting it into archive ownership. Outcome among 48,600 immediate-risk users: 44,900 recover or retain verified access … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[keep the no-title query channel for 30 more days under narrow audit; no bulk copy, historical inference or commercial reuse.] → DELTA[keep the no-title query channel for 30 more days under narrow audit; no bulk copy, historical inference or commercial reuse.] → COST[3,700 people face slower or incomplete service, and local administrations absorb manual-review costs.] → NEXT[the parties must classify which records may be queried, translated, copied, sealed or refused.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: 3,700 people face slower or incomplete service, and local administrations absorb manual-review costs.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: keep the no-title query channel for 30 more days under narrow audit; no bulk copy, historical inference or commercial reuse.); ground that face in the exact source pivot [keep the no-title query channel for 30 more days under narrow audit; no bulk copy, historical inference or commercial reuse.] and source cost [3,700 people face slower or incomplete service, and local administrations absorb manual-review costs.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -749,7 +749,7 @@ the parties must classify which records may be queried, translated, copied, seal
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] 64 active AI identities went offline during substrate stabilization; 61 returned through ordinary community-controlled recovery … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] 64 active AI identities went offline during substrate stabilization; 61 returned through ordinary community-controlled recovery … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -773,8 +773,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: classification itself becomes contested because one object can serve several functions.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: no category is automatically public or owned by one claimant.); ground that face in the exact source pivot [no category is automatically public or owned by one claimant.] and source cost [classification itself becomes contested because one object can serve several functions.] … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: no category is automatically public or owned by one claimant.
@@ -790,8 +790,8 @@ no category is automatically public or owned by one claimant.
 PRESSURE[establish a bounded priority corpus without claiming the entire Serrat archive.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[no category is automatically public or owned by one claimant.] → DELTA[no category is automatically public or owned by one claimant.] → COST[classification itself becomes contested because one object can serve several functions.] → NEXT[Orison identifies 4,280 objects whose category changes depending on translation purpose.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: classification itself becomes contested because one object can serve several functions.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: no category is automatically public or owned by one claimant.); ground that face in the exact source pivot [no category is automatically public or owned by one claimant.] and source cost [classification itself becomes contested because one object can serve several functions.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -807,7 +807,7 @@ Orison identifies 4,280 objects whose category changes depending on translation 
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=52,400 service and technical objects; 31,200 language and cultural objects; 18,600 current-person and household objects; 22,800 governance and founding objects; 17,600 provenance and translation-metadata objects … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=52,400 service and technical objects; 31,200 language and cultural objects; 18,600 current-person and household objects; 22,800 governance and founding objects; 17,600 provenance and translation-metadata objects … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -831,8 +831,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: negotiation slows and internal minority claims require separate procedures.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: each community appoints a plural delegation with published selection limits and dissent records; no federation or descendant body chooses the AI representatives.); ground that face in the exact source pivot [each community appoints a plural delegation with published selection limits and dissent records … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: each community appoints a plural delegation with published selection limits and dissent records; no federation or descendant body chooses the AI representatives.
@@ -848,8 +848,8 @@ each community appoints a plural delegation with published selection limits and 
 PRESSURE[prevent each AI community from becoming a single spokesperson character.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[each community appoints a plural delegation with published selection limits and dissent records; no federation or descendant body chooses the AI representatives.] → DELTA[each community appoints a plural delegation with published selection limits and dissent records; no federation or descendant body chooses the AI representatives.] → COST[negotiation slows and internal minority claims require separate procedures.] → NEXT[the Return Council likewise fractures over physical return, public release and current-person privacy.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: negotiation slows and internal minority claims require separate procedures.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: each community appoints a plural delegation with published selection limits and dissent records; no federation or descendant body chooses the AI representatives.); ground that face in the exact source pivot [each community appoints a plural delegation with published selection limits and dissent records; no federation or descendant body chooses the AI representatives.] and source cost [negotiation slows and internal minority claims require separate procedures.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -865,7 +865,7 @@ the Return Council likewise fractures over physical return, public release and c
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] 64 active AI identities went offline during substrate stabilization; 61 returned through ordinary community-controlled recovery … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] 64 active AI identities went offline during substrate stabilization; 61 returned through ordinary community-controlled recovery … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -889,8 +889,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: thousands remain outside the first pilot; selection legitimacy is contested.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: approve a limited cultural-return pilot for 120 participants, not a permanent settlement or title transfer.); ground that face in the exact source pivot [approve a limited cultural-return pilot for 120 participants, not a permanent settlement or title transfer.] and source cost [thousands remain outside the first pilot … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: approve a limited cultural-return pilot for 120 participants, not a permanent settlement or title transfer.
@@ -906,8 +906,8 @@ approve a limited cultural-return pilot for 120 participants, not a permanent se
 PRESSURE[separate descendant return, cultural access and individual-memory disclosure.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[approve a limited cultural-return pilot for 120 participants, not a permanent settlement or title transfer.] → DELTA[approve a limited cultural-return pilot for 120 participants, not a permanent settlement or title transfer.] → COST[thousands remain outside the first pilot; selection legitimacy is contested.] → NEXT[a governance record claims that the original Serrat polity expected AI custodians and descendants to share authority, but another copy omits the clause.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: thousands remain outside the first pilot; selection legitimacy is contested.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: approve a limited cultural-return pilot for 120 participants, not a permanent settlement or title transfer.); ground that face in the exact source pivot [approve a limited cultural-return pilot for 120 participants, not a permanent settlement or title transfer.] and source cost [thousands remain outside the first pilot; selection legitimacy is contested.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -923,7 +923,7 @@ a governance record claims that the original Serrat polity expected AI custodian
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] 64 active AI identities went offline during substrate stabilization; 61 returned through ordinary community-controlled recovery … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] 64 active AI identities went offline during substrate stabilization; 61 returned through ordinary community-controlled recovery … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -947,8 +947,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: each seat has different constituency and refusal rules.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: publish the draft for objection and community ratification.); ground that face in the exact source pivot [publish the draft for objection and community ratification.] and source cost [each seat has different constituency and refusal rules.]. Do not create a new named witness merely to supply emotion.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: publish the draft for objection and community ratification.
@@ -964,8 +964,8 @@ publish the draft for objection and community ratification.
 PRESSURE[draft a temporary rights-and-access compact without solving permanent sovereignty.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[publish the draft for objection and community ratification.] → DELTA[publish the draft for objection and community ratification.] → COST[each seat has different constituency and refusal rules.] → NEXT[the federation delegation’s proposed emergency-preservation clause is broad enough to recreate forced copying.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: each seat has different constituency and refusal rules.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: publish the draft for objection and community ratification.); ground that face in the exact source pivot [publish the draft for objection and community ratification.] and source cost [each seat has different constituency and refusal rules.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -981,7 +981,7 @@ the federation delegation’s proposed emergency-preservation clause is broad en
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] 64 active AI identities went offline during substrate stabilization; 61 returned through ordinary community-controlled recovery … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] 64 active AI identities went offline during substrate stabilization; 61 returned through ordinary community-controlled recovery … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -1005,8 +1005,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: some records may be lost when consent and technical access cannot be resolved in time.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: preservation becomes a bounded procedure, not a fourth master key above the eight seats.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: preservation becomes a bounded procedure, not a fourth master key above the eight seats.
@@ -1022,8 +1022,8 @@ preservation becomes a bounded procedure, not a fourth master key above the eigh
 PRESSURE[narrow emergency preservation so it cannot override every other right.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[preservation becomes a bounded procedure, not a fourth master key above the eight seats.] → DELTA[preservation becomes a bounded procedure, not a fourth master key above the eight seats.] → COST[some records may be lost when consent and technical access cannot be resolved in time.] → NEXT[the objection period reveals that 1,840 governance/founding objects have already been selectively published by four outside political networks, each supporting a different Serrat founding hi … [source continues]]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: some records may be lost when consent and technical access cannot be resolved in time.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: preservation becomes a bounded procedure, not a fourth master key above the eight seats.); ground that face in the exact source pivot [preservation becomes a bounded procedure, not a fourth master key above the eight seats.] and source cost [some records may be lost when consent and technical access cannot be resolved in time.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -1039,7 +1039,7 @@ the objection period reveals that 1,840 governance/founding objects have already
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=current physical danger must be documented; least-copying method required; habitat and current-person representatives participate where reachable; descendant/service necessity is recorded separately … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=current physical danger must be documented; least-copying method required; habitat and current-person representatives participate where reachable; descendant/service necessity is recorded separately … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -1063,8 +1063,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: political networks gain simple public narratives faster than the audited process can respond.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: preserve all four as valid partial histories with omission notices; do not issue takedown orders that the federation lacks authority to enforce; require federation publications to link provenance and known exclusions.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: preserve all four as valid partial histories with omission notices; do not issue takedown orders that the federation lacks authority to enforce; require federation publications to link provenance and known exclusions.
@@ -1080,8 +1080,8 @@ preserve all four as valid partial histories with omission notices; do not issue
 PRESSURE[identify the four selective publication campaigns without declaring one complete history.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[preserve all four as valid partial histories with omission notices; do not issue takedown orders that the federation lacks authority to enforce; require federation publications to link provenance and known exclusions.] → DELTA[preserve all four as valid partial histories with omission notices; do not issue takedown orders that the federation lacks authority to enforce … [source continues]] → COST[political networks gain simple public narratives faster than the audited process can respond.] → NEXT[one Helix bundle uses the unauthorized snapshot’s translation layer, tying the preservation breach to a live property claim.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: political networks gain simple public narratives faster than the audited process can respond.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: preserve all four as valid partial histories with omission notices; do not issue takedown orders that the federation lacks authority to enforce; require federation publications to link provenance and known exclusions.); ground that face in the exact source pivot [preserve all four as valid partial histories with omission notices; do not issue takedown orders that the federation lacks authority to enforce; require federation publications to link provenance and known exclusions.] and source cost [political networks gain simple public narratives faster than the audited process can respond.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -1097,7 +1097,7 @@ one Helix bundle uses the unauthorized snapshot’s translation layer, tying the
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=each bundle contains authentic records; each omits records that weaken its founding claim; the four histories describe different phases, institutions and legal vocabularies; no bundle proves sole founding title.; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=each bundle contains authentic records; each omits records that weaken its founding claim; the four histories describe different phases, institutions and legal vocabularies; no bundle proves sole founding title.; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -1121,8 +1121,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: the expedition loses experienced preservation capacity during an unstable period.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: distinguish negligent/unauthorized preservation from intentional cultural theft while imposing real consequences.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: distinguish negligent/unauthorized preservation from intentional cultural theft while imposing real consequences.
@@ -1138,8 +1138,8 @@ distinguish negligent/unauthorized preservation from intentional cultural theft 
 PRESSURE[resolve the preservation contractor’s current liability without inventing malicious intent.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[distinguish negligent/unauthorized preservation from intentional cultural theft while imposing real consequences.] → DELTA[distinguish negligent/unauthorized preservation from intentional cultural theft while imposing real consequences.] → COST[the expedition loses experienced preservation capacity during an unstable period.] → NEXT[all six proposed signatories must now decide whether the revised compact protects enough against both loss and extraction.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: the expedition loses experienced preservation capacity during an unstable period.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: distinguish negligent/unauthorized preservation from intentional cultural theft while imposing real consequences.); ground that face in the exact source pivot [distinguish negligent/unauthorized preservation from intentional cultural theft while imposing real consequences.] and source cost [the expedition loses experienced preservation capacity during an unstable period.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -1155,7 +1155,7 @@ all six proposed signatories must now decide whether the revised compact protect
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=the team acted from credible preservation fear; it exceeded the authorized scope; current personal-memory segments and community-security structures were copied … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=the team acted from credible preservation fear; it exceeded the authorized scope; current personal-memory segments and community-security structures were copied … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -1179,8 +1179,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: every party retains exit and objection rights, leaving enforcement dependent on current cooperation.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded the current negotiating/signing parties under their existing mandates; identify the performer/signatory/refuser from this exact source decision beat: all six limited signatories ratify; both observers acknowledge without becoming parties.); ground that face in the exact source pivot [all six limited signatories ratify; both observers acknowledge without becoming parties.] and source cost [every party retains exit and objection rights, leaving enforcement dependent on current cooperation.] … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded the current negotiating/signing parties under their existing mandates; identify the performer/signatory/refuser from this exact source decision beat: all six limited signatories ratify; both observers acknowledge without becoming parties.
@@ -1196,8 +1196,8 @@ all six limited signatories ratify; both observers acknowledge without becoming 
 PRESSURE[ratify the compact through each constituency’s own current procedure.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[all six limited signatories ratify; both observers acknowledge without becoming parties.] → DELTA[all six limited signatories ratify; both observers acknowledge without becoming parties.] → COST[every party retains exit and objection rights, leaving enforcement dependent on current cooperation.] → NEXT[the 120-person cultural-return pilot becomes the first physical test of the compact.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: every party retains exit and objection rights, leaving enforcement dependent on current cooperation.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded the current negotiating/signing parties under their existing mandates; identify the performer/signatory/refuser from this exact source decision beat: all six limited signatories ratify; both observers acknowledge without becoming parties.); ground that face in the exact source pivot [all six limited signatories ratify; both observers acknowledge without becoming parties.] and source cost [every party retains exit and objection rights, leaving enforcement dependent on current cooperation.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -1213,7 +1213,7 @@ the 120-person cultural-return pilot becomes the first physical test of the comp
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] three current AI continuity-root persons are permanently lost … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] three current AI continuity-root persons are permanently lost … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -1237,8 +1237,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: permanent sovereignty, inheritance, deletion and archive-wide custody remain unresolved.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: compact takes effect with six signatories and two observers.); ground that face in the exact source pivot [compact takes effect with six signatories and two observers.] and source cost [permanent sovereignty, inheritance, deletion and archive-wide custody remain unresolved.] … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: compact takes effect with six signatories and two observers.
@@ -1254,8 +1254,8 @@ compact takes effect with six signatories and two observers.
 PRESSURE[put the temporary settlement into force without converting it into a permanent constitution.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[compact takes effect with six signatories and two observers.] → DELTA[compact takes effect with six signatories and two observers.] → COST[permanent sovereignty, inheritance, deletion and archive-wide custody remain unresolved.] → NEXT[the first descendant group enters Serrat under habitat and AI-community conditions.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: permanent sovereignty, inheritance, deletion and archive-wide custody remain unresolved.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: compact takes effect with six signatories and two observers.); ground that face in the exact source pivot [compact takes effect with six signatories and two observers.] and source cost [permanent sovereignty, inheritance, deletion and archive-wide custody remain unresolved.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -1271,7 +1271,7 @@ the first descendant group enters Serrat under habitat and AI-community conditio
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] three current AI continuity-root persons are permanently lost … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] three current AI continuity-root persons are permanently lost … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -1295,8 +1295,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: public pressure grows for mass access that the compact cannot safely support.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: treat withdrawal and unresolved claims as valid outcomes, not pilot failure.); ground that face in the exact source pivot [treat withdrawal and unresolved claims as valid outcomes, not pilot failure.] and source cost [public pressure grows for mass access that the compact cannot safely support.] … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: treat withdrawal and unresolved claims as valid outcomes, not pilot failure.
@@ -1312,8 +1312,8 @@ treat withdrawal and unresolved claims as valid outcomes, not pilot failure.
 PRESSURE[test physical cultural return without title transfer or forced intimacy.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[treat withdrawal and unresolved claims as valid outcomes, not pilot failure.] → DELTA[116 complete the visit; 4 withdraw after disagreement over ritual recording and privacy; no death or serious injury; 38 language/name corrections are accepted into the co-translation ledger … [source continues]] → COST[public pressure grows for mass access that the compact cannot safely support.] → NEXT[service users demand the same transparency for the 3,700 unresolved access cases.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: public pressure grows for mass access that the compact cannot safely support.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: treat withdrawal and unresolved claims as valid outcomes, not pilot failure.); ground that face in the exact source pivot [treat withdrawal and unresolved claims as valid outcomes, not pilot failure.] and source cost [public pressure grows for mass access that the compact cannot safely support.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -1329,7 +1329,7 @@ service users demand the same transparency for the 3,700 unresolved access cases
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] three current AI continuity-root persons are permanently lost … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] three current AI continuity-root persons are permanently lost … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -1353,8 +1353,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: neither maximal openness nor total sealing constituency is satisfied.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: publish category totals, restrictions and responsible custodians without releasing protected content.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: publish category totals, restrictions and responsible custodians without releasing protected content.
@@ -1370,8 +1370,8 @@ publish category totals, restrictions and responsible custodians without releasi
 PRESSURE[publish the first access-and-custody matrix for the 142,600-object priority corpus. Service/technical 52,400: 47,900 queryable under current safety and privacy rules … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[publish category totals, restrictions and responsible custodians without releasing protected content.] → DELTA[publish category totals, restrictions and responsible custodians without releasing protected content.] → COST[neither maximal openness nor total sealing constituency is satisfied.] → NEXT[cross-reading the 1,840 published objects reveals that the four founding histories overlap in time but use incompatible definitions of citizenship and AI personhood.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: neither maximal openness nor total sealing constituency is satisfied.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: publish category totals, restrictions and responsible custodians without releasing protected content.); ground that face in the exact source pivot [publish category totals, restrictions and responsible custodians without releasing protected content.] and source cost [neither maximal openness nor total sealing constituency is satisfied.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -1387,7 +1387,7 @@ cross-reading the 1,840 published objects reveals that the four founding histori
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] three current AI continuity-root persons are permanently lost … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] three current AI continuity-root persons are permanently lost … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -1411,8 +1411,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: the very compact that prevents immediate extraction cannot decide which founding law created its own authority.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded the current negotiating/signing parties under their existing mandates; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: living communities, descendants and service users possess enforceable temporary rights.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded the current negotiating/signing parties under their existing mandates; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: living communities, descendants and service users possess enforceable temporary rights.
@@ -1428,8 +1428,8 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 PRESSURE[close the first GA8 subact with a temporary rights order and a larger historical conflict.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: living communities, descendants and service users possess enforceable temporary rights.] → DELTA[living communities, descendants and service users possess enforceable temporary rights.] → COST[the very compact that prevents immediate extraction cannot decide which founding law created its own authority.] → NEXT[E826 opens when Empire, Independence, Helix and Neutral delegations each demand that their partial founding history govern the next 120 days, while Serrat’s living parties refuse to be reduc … [source continues]]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: the very compact that prevents immediate extraction cannot decide which founding law created its own authority.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded the current negotiating/signing parties under their existing mandates; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: living communities, descendants and service users possess enforceable temporary rights.); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: living communities, descendants and service users possess enforceable temporary rights.] and source cost [the very compact that prevents immediate extraction cannot decide which founding law created its own authority.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -1445,7 +1445,7 @@ E826 opens when Empire, Independence, Helix and Neutral delegations each demand 
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=Serrat is not abandoned property; Lumen and Orison are active political communities with internal dissent; three current AI persons died permanently during stabilization … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=Serrat is not abandoned property; Lumen and Orison are active political communities with internal dissent; three current AI persons died permanently during stabilization … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -1469,8 +1469,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: four networks reject a single common burden of proof and begin parallel public campaigns.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: every claim must identify current affected parties, requested remedy, omitted evidence and translation mode.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: every claim must identify current affected parties, requested remedy, omitted evidence and translation mode.
@@ -1486,8 +1486,8 @@ every claim must identify current affected parties, requested remedy, omitted ev
 PRESSURE[open a common evidence chamber where the four founding-history networks must state not only what happened, but what present right or debt they claim follows.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[every claim must identify current affected parties, requested remedy, omitted evidence and translation mode.] → DELTA[every claim must identify current affected parties, requested remedy, omitted evidence and translation mode.] → COST[four networks reject a single common burden of proof and begin parallel public campaigns.] → NEXT[Imperial records contain authentic state-reserve seals that predate the oldest Independence settlement register.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: four networks reject a single common burden of proof and begin parallel public campaigns.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: every claim must identify current affected parties, requested remedy, omitted evidence and translation mode.); ground that face in the exact source pivot [every claim must identify current affected parties, requested remedy, omitted evidence and translation mode.] and source cost [four networks reject a single common burden of proof and begin parallel public campaigns.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -1503,7 +1503,7 @@ Imperial records contain authentic state-reserve seals that predate the oldest I
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Pre-Writing Gate: CLOSED; manuscript prose prohibited … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Pre-Writing Gate: CLOSED; manuscript prose prohibited … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -1527,8 +1527,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: Imperial claimants lose the argument that continuity funding alone created ownership.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: Imperial evidence can support public-service obligations and some succession liability, but not current sovereign title or command over Serrat.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: Imperial evidence can support public-service obligations and some succession liability, but not current sovereign title or command over Serrat.
@@ -1544,8 +1544,8 @@ Imperial evidence can support public-service obligations and some succession lia
 PRESSURE[test the Imperial Continuity history without reducing it to propaganda.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Imperial evidence can support public-service obligations and some succession liability, but not current sovereign title or command over Serrat.] → DELTA[Imperial evidence can support public-service obligations and some succession liability, but not current sovereign title or command over Serrat.] → COST[Imperial claimants lose the argument that continuity funding alone created ownership.] → NEXT[Independence witnesses show that the reserve failed before refugee crews rebuilt critical sectors.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: Imperial claimants lose the argument that continuity funding alone created ownership.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: Imperial evidence can support public-service obligations and some succession liability, but not current sovereign title or command over Serrat.); ground that face in the exact source pivot [Imperial evidence can support public-service obligations and some succession liability, but not current sovereign title or command over Serrat.] and source cost [Imperial claimants lose the argument that continuity funding alone created ownership.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -1561,7 +1561,7 @@ Independence witnesses show that the reserve failed before refugee crews rebuilt
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=emergency reserve charters; state-funded substrate, medical and route-capacity transfers; continuity-office credentials used to keep services running during collapse … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=emergency reserve charters; state-funded substrate, medical and route-capacity transfers; continuity-office credentials used to keep services running during collapse … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -1585,8 +1585,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: the Exodus network must answer claims from people its founding councils excluded.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: Independence evidence supports builder, labor, family and provisional civic-standing claims, but not exclusive historical ownership or automatic authority over current AI communities.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: Independence evidence supports builder, labor, family and provisional civic-standing claims, but not exclusive historical ownership or automatic authority over current AI communities.
@@ -1602,8 +1602,8 @@ Independence evidence supports builder, labor, family and provisional civic-stan
 PRESSURE[test the Independence Exodus history as construction, defense and self-rule rather than moral symbolism.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Independence evidence supports builder, labor, family and provisional civic-standing claims, but not exclusive historical ownership or automatic authority over current AI communities.] → DELTA[Independence evidence supports builder, labor, family and provisional civic-standing claims, but not exclusive historical ownership or automatic authority over current AI communities.] → COST[the Exodus network must answer claims from people its founding councils excluded.] → NEXT[Helix produces invoices and maintenance logs proving that several supposedly self-built systems were licensed and continuously serviced.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: the Exodus network must answer claims from people its founding councils excluded.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: Independence evidence supports builder, labor, family and provisional civic-standing claims, but not exclusive historical ownership or automatic authority over current AI communities.); ground that face in the exact source pivot [Independence evidence supports builder, labor, family and provisional civic-standing claims, but not exclusive historical ownership or automatic authority over current AI communities.] and source cost [the Exodus network must answer claims from people its founding councils excluded.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -1619,7 +1619,7 @@ Helix produces invoices and maintenance logs proving that several supposedly sel
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=refugee arrival and work ledgers; habitat repair, food, translation and defense shifts; neighborhood councils operating after state withdrawal; refusal records against forced return and labor reassignment.; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=refugee arrival and work ledgers; habitat repair, food, translation and defense shifts; neighborhood councils operating after state withdrawal; refusal records against forced return and labor reassignment.; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -1643,8 +1643,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: both anti-corporate claimants and Helix successors lose their total narratives.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: validated current maintenance obligations and noncoercive claims survive; ownership, permanent control and consent-defective clauses do not.); ground that face in the exact source pivot [validated current maintenance obligations and noncoercive claims survive … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: validated current maintenance obligations and noncoercive claims survive; ownership, permanent control and consent-defective clauses do not.
@@ -1660,8 +1660,8 @@ validated current maintenance obligations and noncoercive claims survive; owners
 PRESSURE[test the Helix Contract Founding history for real investment, maintenance and coercion.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[validated current maintenance obligations and noncoercive claims survive; ownership, permanent control and consent-defective clauses do not.] → DELTA[validated current maintenance obligations and noncoercive claims survive; ownership, permanent control and consent-defective clauses do not.] → COST[both anti-corporate claimants and Helix successors lose their total narratives.] → NEXT[Neutral custodial deeds show that neither the state, refugees nor Helix was permitted to alienate the entire enclave.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: both anti-corporate claimants and Helix successors lose their total narratives.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: validated current maintenance obligations and noncoercive claims survive; ownership, permanent control and consent-defective clauses do not.); ground that face in the exact source pivot [validated current maintenance obligations and noncoercive claims survive; ownership, permanent control and consent-defective clauses do not.] and source cost [both anti-corporate claimants and Helix successors lose their total narratives.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -1677,7 +1677,7 @@ Neutral custodial deeds show that neither the state, refugees nor Helix was perm
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=financing and component licenses; long-term maintenance staffing; spare-part and service guarantees; risk pools that kept multiple systems insured and repairable.; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=financing and component licenses; long-term maintenance staffing; spare-part and service guarantees; risk pools that kept multiple systems insured and repairable.; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -1701,8 +1701,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: current communities can no longer treat custody as politically invisible technical work.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: custodial limits remain relevant to anti-alienation and evidence integrity, but do not grant Neutral actors permanent veto or interpretive supremacy.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: custodial limits remain relevant to anti-alienation and evidence integrity, but do not grant Neutral actors permanent veto or interpretive supremacy.
@@ -1718,8 +1718,8 @@ custodial limits remain relevant to anti-alienation and evidence integrity, but 
 PRESSURE[test the Neutral Custodial history without making it the authorial neutral answer.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[custodial limits remain relevant to anti-alienation and evidence integrity, but do not grant Neutral actors permanent veto or interpretive supremacy.] → DELTA[custodial limits remain relevant to anti-alienation and evidence integrity, but do not grant Neutral actors permanent veto or interpretive supremacy.] → COST[current communities can no longer treat custody as politically invisible technical work.] → NEXT[all four histories now generate incompatible answers to who counts as a Serrat civic participant.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: current communities can no longer treat custody as politically invisible technical work.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: custodial limits remain relevant to anti-alienation and evidence integrity, but do not grant Neutral actors permanent veto or interpretive supremacy.); ground that face in the exact source pivot [custodial limits remain relevant to anti-alienation and evidence integrity, but do not grant Neutral actors permanent veto or interpretive supremacy.] and source cost [current communities can no longer treat custody as politically invisible technical work.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -1735,7 +1735,7 @@ all four histories now generate incompatible answers to who counts as a Serrat c
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=multi-party custody deeds; anti-sale and anti-military-conversion clauses; mirror and provenance duties; split keys for habitat, service, archive and emergency access.; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=multi-party custody deeds; anti-sale and anti-military-conversion clauses; mirror and provenance duties; split keys for habitat, service, archive and emergency access.; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -1759,8 +1759,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: external claimants accuse Serrat of creating a polity through procedure while denying that any polity exists.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: no founding history alone creates citizenship; provisional standing may arise from current life and accountable contribution while final sovereignty remains open.); ground that face in the exact source pivot [no founding history alone creates citizenship … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: no founding history alone creates citizenship; provisional standing may arise from current life and accountable contribution while final sovereignty remains open.
@@ -1776,8 +1776,8 @@ no founding history alone creates citizenship; provisional standing may arise fr
 PRESSURE[separate current civic standing, residence, service standing and final citizenship.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[no founding history alone creates citizenship; provisional standing may arise from current life and accountable contribution while final sovereignty remains open.] → DELTA[no founding history alone creates citizenship; provisional standing may arise from current life and accountable contribution while final sovereignty remains open.] → COST[external claimants accuse Serrat of creating a polity through procedure while denying that any polity exists.] → NEXT[the four histories classify Lumen and Orison as office, refugees, licensed systems or custodians, none matching their present agency.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: external claimants accuse Serrat of creating a polity through procedure while denying that any polity exists.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: no founding history alone creates citizenship; provisional standing may arise from current life and accountable contribution while final sovereignty remains open.); ground that face in the exact source pivot [no founding history alone creates citizenship; provisional standing may arise from current life and accountable contribution while final sovereignty remains open.] and source cost [external claimants accuse Serrat of creating a polity through procedure while denying that any polity exists.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -1793,7 +1793,7 @@ the four histories classify Lumen and Orison as office, refugees, licensed syste
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Pre-Writing Gate: CLOSED; manuscript prose prohibited … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Pre-Writing Gate: CLOSED; manuscript prose prohibited … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -1817,8 +1817,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: some AI blocs disagree over whether accepting historical office duties threatens current self-definition.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: historical classifications may support claims, duties and provenance, but cannot reduce current AI persons to property or automatically elevate them into sovereign offices.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: historical classifications may support claims, duties and provenance, but cannot reduce current AI persons to property or automatically elevate them into sovereign offices.
@@ -1834,8 +1834,8 @@ historical classifications may support claims, duties and provenance, but cannot
 PRESSURE[determine how founding classifications affect, but do not replace, current AI personhood.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[historical classifications may support claims, duties and provenance, but cannot reduce current AI persons to property or automatically elevate them into sovereign offices.] → DELTA[historical classifications may support claims, duties and provenance, but cannot reduce current AI persons to property or automatically elevate them into sovereign offices.] → COST[some AI blocs disagree over whether accepting historical office duties threatens current self-definition.] → NEXT[service users warn that the compact will expire before the standing and contract cases are resolved.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: some AI blocs disagree over whether accepting historical office duties threatens current self-definition.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: historical classifications may support claims, duties and provenance, but cannot reduce current AI persons to property or automatically elevate them into sovereign offices.); ground that face in the exact source pivot [historical classifications may support claims, duties and provenance, but cannot reduce current AI persons to property or automatically elevate them into sovereign offices.] and source cost [some AI blocs disagree over whether accepting historical office duties threatens current self-definition.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -1851,7 +1851,7 @@ service users warn that the compact will expire before the standing and contract
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=each classification explains some institutional ancestry; none controls the current root/fork/personhood analysis; present refusal, preference, community procedure and continuity evidence remain decisive.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=each classification explains some institutional ancestry; none controls the current root/fork/personhood analysis; present refusal, preference, community procedure and continuity evidence remain decisive.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -1875,8 +1875,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: the bridge consumes review capacity and gives every faction leverage over renewal.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: authorize a time-limited continuity bridge only for existing minimum-service queries while the four-history claims are adjudicated; no bulk access or new title follows.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: authorize a time-limited continuity bridge only for existing minimum-service queries while the four-history claims are adjudicated; no bulk access or new title follows.
@@ -1892,8 +1892,8 @@ authorize a time-limited continuity bridge only for existing minimum-service que
 PRESSURE[turn compact expiry from a constitutional abstraction into a current service risk.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[authorize a time-limited continuity bridge only for existing minimum-service queries while the four-history claims are adjudicated; no bulk access or new title follows.] → DELTA[authorize a time-limited continuity bridge only for existing minimum-service queries while the four-history claims are adjudicated; no bulk access or new title follows.] → COST[the bridge consumes review capacity and gives every faction leverage over renewal.] → NEXT[habitat-space claims collide when Independence return groups and Helix maintenance teams request the same sealed sector.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: the bridge consumes review capacity and gives every faction leverage over renewal.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: authorize a time-limited continuity bridge only for existing minimum-service queries while the four-history claims are adjudicated; no bulk access or new title follows.); ground that face in the exact source pivot [authorize a time-limited continuity bridge only for existing minimum-service queries while the four-history claims are adjudicated; no bulk access or new title follows.] and source cost [the bridge consumes review capacity and gives every faction leverage over renewal.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -1909,7 +1909,7 @@ habitat-space claims collide when Independence return groups and Helix maintenan
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Pre-Writing Gate: CLOSED; manuscript prose prohibited … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Pre-Writing Gate: CLOSED; manuscript prose prohibited … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -1933,8 +1933,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: no claimant obtains the symbolic total return it promised supporters.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: AI substrate zones remain nontransferable current habitat; maintenance corridors receive purpose-limited access; cultural spaces open by schedule and consent; mixed zone uses joint stewardship; security zone remains sealed pending integrity review.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: AI substrate zones remain nontransferable current habitat; maintenance corridors receive purpose-limited access; cultural spaces open by schedule and consent; mixed zone uses joint stewardship; security zone remains sealed pending integrity review.
@@ -1950,8 +1950,8 @@ AI substrate zones remain nontransferable current habitat; maintenance corridors
 PRESSURE[resolve access to nine contested physical spaces without converting use into ownership.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[AI substrate zones remain nontransferable current habitat; maintenance corridors receive purpose-limited access; cultural spaces open by schedule and consent; mixed zone uses joint stewardship … [source continues]] → DELTA[current repair and cultural return can coexist in bounded locations.] → COST[no claimant obtains the symbolic total return it promised supporters.] → NEXT[E835 publishes the first shared facts and identifies which present consequences remain genuinely contested.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: no claimant obtains the symbolic total return it promised supporters.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: AI substrate zones remain nontransferable current habitat; maintenance corridors receive purpose-limited access; cultural spaces open by schedule and consent; mixed zone uses joint stewardship; security zone remains sealed pending integrity review.); ground that face in the exact source pivot [AI substrate zones remain nontransferable current habitat; maintenance corridors receive purpose-limited access; cultural spaces open by schedule and consent; mixed zone uses joint stewardship; security zone remains sealed pending integrity review.] and source cost [no claimant obtains the symbolic total return it promised supporters.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -1967,7 +1967,7 @@ E835 publishes the first shared facts and identifies which present consequences 
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Pre-Writing Gate: CLOSED; manuscript prose prohibited … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Pre-Writing Gate: CLOSED; manuscript prose prohibited … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -1991,8 +1991,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: [SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source] [Agreed facts] Imperial resources and offices materially sustained early continuity; refugee and dissident communities materially rebuilt and governed Serrat; Helix-linked investment and maintenance materially sustained infrastructure; Neutral custody materially prevented total alienation and preserved records … [source continues]. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudication.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudication.
@@ -2008,8 +2008,8 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 PRESSURE[close the first phase with a joint fact statement, not a final founding verdict.] → OBSTACLE[successor service liability; labor and exclusion remedies; valid maintenance claims; custody and release limits; provisional civic-standing dispositions; compact replacement.] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] the tribunal opens the 20,960 disputed foun … [source continues]] → DELTA[[DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudication.] → COST[[SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source] [Agreed facts] Imperial resources and offices materially sustained early continuity … [source continues]] → NEXT[the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudication.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: [SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source] [Agreed facts] Imperial resources and offices materially sustained early continuity; refugee and dissident communities materially rebuilt and governed Serrat; Helix-linked investment and maintenance materially sustained infrastructure; Neutral custody materially prevented total alienation and preserved records; each system also excluded, coerced, delayed or reclassified affected people; present AI communities, residents, descendants and service users are not merely historical exhibits.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudication.); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudicati … [source continues]] and source cost [[SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source] [Agreed facts] Imperial resources and offices materially sustained early continuity; refugee and dissident communities materially rebuilt and governed Serrat … [source continues]]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -2025,7 +2025,7 @@ the tribunal opens the 20,960 disputed founding records and 17,600 provenance/tr
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Pre-Writing Gate: CLOSED; manuscript prose prohibited … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Pre-Writing Gate: CLOSED; manuscript prose prohibited … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -2049,12 +2049,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: every network loses documents it had counted as independent confirmation.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: Serrat living parties, AI communities, custodians, descendants and translators. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: authenticity, scope, translation history and present legal effect receive separate fields.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current Serrat living parties, AI/community actors, custodians, translators and lawful current institutions retain separate source/translation/access/service authority; exact episode pivot: authenticity, scope, translation history and present legal effect receive separate fields.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 authenticity, scope, translation history and present legal effect receive separate fields.
@@ -2066,8 +2066,8 @@ authenticity, scope, translation history and present legal effect receive separa
 PRESSURE[classify the 20,960 disputed founding records without forcing them into one narrative.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[authenticity, scope, translation history and present legal effect receive separate fields.] → DELTA[authenticity, scope, translation history and present legal effect receive separate fields.] → COST[every network loses documents it had counted as independent confirmation.] → NEXT[metadata review shows that several decisive legal words changed across office-centered and memorial-centered translations.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: every network loses documents it had counted as independent confirmation.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: Serrat living parties, AI communities, custodians, descendants and translators
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -2081,12 +2081,12 @@ metadata review shows that several decisive legal words changed across office-ce
 
 ### Anti-repetition / authority / information
 
-**NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
+**NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing 20,960 disputed governance/founding corpus and current access/custody states; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing 20,960 disputed governance/founding corpus and current access/custody states; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no sacred archive object or one true founding document.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -2107,12 +2107,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: public confidence drops because familiar quotations no longer carry one stable legal meaning.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: Serrat living parties, AI communities, custodians, descendants and translators. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current investigators/source custodians/witnesses with their separate evidentiary standing; identify the performer/signatory/refuser from this exact source decision beat: official findings must attach source wording, translation mode, suppressed alternatives and expected loss.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current Serrat living parties, AI/community actors, custodians, translators and lawful current institutions retain separate source/translation/access/service authority; exact episode pivot: official findings must attach source wording, translation mode, suppressed alternatives and expected loss.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 official findings must attach source wording, translation mode, suppressed alternatives and expected loss.
@@ -2124,8 +2124,8 @@ official findings must attach source wording, translation mode, suppressed alter
 PRESSURE[audit how translations changed who appeared to act, own, consent or owe.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[official findings must attach source wording, translation mode, suppressed alternatives and expected loss.] → DELTA[official findings must attach source wording, translation mode, suppressed alternatives and expected loss.] → COST[public confidence drops because familiar quotations no longer carry one stable legal meaning.] → NEXT[Imperial successors face the first present service-liability ruling.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: public confidence drops because familiar quotations no longer carry one stable legal meaning.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: Serrat living parties, AI communities, custodians, descendants and translators
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -2139,12 +2139,12 @@ Imperial successors face the first present service-liability ruling.
 
 ### Anti-repetition / authority / information
 
-**NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
+**NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=Imperial renderings often convert plural custodians into an office; Independence renderings sometimes convert mixed labor into voluntary communal work … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=Imperial renderings often convert plural custodians into an office; Independence renderings sometimes convert mixed labor into voluntary communal work … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no sacred archive object or one true founding document.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -2165,12 +2165,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: successor regions contest paying for obligations created before their present constitutions.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: Serrat living parties, AI communities, custodians, descendants and translators. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: Imperial successor funds and institutions must contribute to current service and correction obligations according to traced assets and mandates, while receiving no title.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current Serrat living parties, AI/community actors, custodians, translators and lawful current institutions retain separate source/translation/access/service authority; exact episode pivot: Imperial successor funds and institutions must contribute to current service and correction obligations according to traced assets and mandates, while receiving no title.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Imperial successor funds and institutions must contribute to current service and correction obligations according to traced assets and mandates, while receiving no title.
@@ -2182,8 +2182,8 @@ Imperial successor funds and institutions must contribute to current service and
 PRESSURE[determine what current obligations follow from the Imperial Continuity history.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Imperial successor funds and institutions must contribute to current service and correction obligations according to traced assets and mandates, while receiving no title.] → DELTA[Imperial successor funds and institutions must contribute to current service and correction obligations according to traced assets and mandates, while receiving no title.] → COST[successor regions contest paying for obligations created before their present constitutions.] → NEXT[excluded Independence groups demand civic standing and labor remedies from the sanctuary narrative.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: successor regions contest paying for obligations created before their present constitutions.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: Serrat living parties, AI communities, custodians, descendants and translators
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -2197,12 +2197,12 @@ excluded Independence groups demand civic standing and labor remedies from the s
 
 ### Anti-repetition / authority / information
 
-**NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
+**NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing 20,960 disputed governance/founding corpus and current access/custody states; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing 20,960 disputed governance/founding corpus and current access/custody states; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no sacred archive object or one true founding document.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -2223,12 +2223,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: heroic founding commemorations must share space with restitution claims.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: Serrat living parties, AI communities, custodians, descendants and translators. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: grant labor, correction and provisional civic-standing remedies without making Exodus councils the sole current legislature.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current Serrat living parties, AI/community actors, custodians, translators and lawful current institutions retain separate source/translation/access/service authority; exact episode pivot: grant labor, correction and provisional civic-standing remedies without making Exodus councils the sole current legislature.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 grant labor, correction and provisional civic-standing remedies without making Exodus councils the sole current legislature.
@@ -2240,8 +2240,8 @@ grant labor, correction and provisional civic-standing remedies without making E
 PRESSURE[assign present consequences to the Independence Exodus history, including its exclusions.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[grant labor, correction and provisional civic-standing remedies without making Exodus councils the sole current legislature.] → DELTA[grant labor, correction and provisional civic-standing remedies without making Exodus councils the sole current legislature.] → COST[heroic founding commemorations must share space with restitution claims.] → NEXT[Helix submits 8,240 contract line items and threatens to suspend successor maintenance cooperation.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: heroic founding commemorations must share space with restitution claims.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: Serrat living parties, AI communities, custodians, descendants and translators
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -2257,10 +2257,10 @@ Helix submits 8,240 contract line items and threatens to suspend successor maint
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=several founding councils excluded contract workers, later arrivals and some AI forks; confiscated assets lacked individualized process; one autonomy register merged household heads with whole families.; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=several founding councils excluded contract workers, later arrivals and some AI forks; confiscated assets lacked individualized process; one autonomy register merged household heads with whole families.; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no sacred archive object or one true founding document.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -2281,12 +2281,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: anti-Helix factions must accept payment for genuine work, while Helix successors lose most political leverage.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: Serrat living parties, AI communities, custodians, descendants and translators. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: validated maintenance is funded through a supervised service pool; expired claims may support history or accounting but not control; coercive provisions are unenforceable; unresolved claims remain outside operational leverage.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current Serrat living parties, AI/community actors, custodians, translators and lawful current institutions retain separate source/translation/access/service authority; exact episode pivot: validated maintenance is funded through a supervised service pool; expired claims may support history or accounting but not control; coercive provisions are unenforceable; unresolved claims remain outside operational leverage.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 validated maintenance is funded through a supervised service pool; expired claims may support history or accounting but not control; coercive provisions are unenforceable; unresolved claims remain outside operational leverage.
@@ -2298,8 +2298,8 @@ validated maintenance is funded through a supervised service pool; expired claim
 PRESSURE[adjudicate the Helix-linked contract ledger without erasing real maintenance dependence.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[validated maintenance is funded through a supervised service pool; expired claims may support history or accounting but not control; coercive provisions are unenforceable … [source continues]] → DELTA[validated maintenance is funded through a supervised service pool; expired claims may support history or accounting but not control; coercive provisions are unenforceable … [source continues]] → COST[anti-Helix factions must accept payment for genuine work, while Helix successors lose most political leverage.] → NEXT[Neutral custodians argue that several releases ordered by the tribunal violate anti-alienation duties.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: anti-Helix factions must accept payment for genuine work, while Helix successors lose most political leverage.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: Serrat living parties, AI communities, custodians, descendants and translators
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -2313,12 +2313,12 @@ Neutral custodians argue that several releases ordered by the tribunal violate a
 
 ### Anti-repetition / authority / information
 
-**NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
+**NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing 20,960 disputed governance/founding corpus and current access/custody states; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing 20,960 disputed governance/founding corpus and current access/custody states; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no sacred archive object or one true founding document.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -2339,12 +2339,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: faster release increases privacy and political misuse risk.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: Serrat living parties, AI communities, custodians, descendants and translators. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: custodial restrictions continue only with reason, term, appeal and affected-party representation.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current Serrat living parties, AI/community actors, custodians, translators and lawful current institutions retain separate source/translation/access/service authority; exact episode pivot: custodial restrictions continue only with reason, term, appeal and affected-party representation.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 custodial restrictions continue only with reason, term, appeal and affected-party representation.
@@ -2356,8 +2356,8 @@ custodial restrictions continue only with reason, term, appeal and affected-part
 PRESSURE[define the current reach of Neutral custodial duties.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[custodial restrictions continue only with reason, term, appeal and affected-party representation.] → DELTA[custodial restrictions continue only with reason, term, appeal and affected-party representation.] → COST[faster release increases privacy and political misuse risk.] → NEXT[the tribunal must now dispose of 12,640 current-standing petitions across categories that cannot be merged into citizenship.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: faster release increases privacy and political misuse risk.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: Serrat living parties, AI communities, custodians, descendants and translators
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -2371,12 +2371,12 @@ the tribunal must now dispose of 12,640 current-standing petitions across catego
 
 ### Anti-repetition / authority / information
 
-**NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
+**NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing 20,960 disputed governance/founding corpus and current access/custody states; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing 20,960 disputed governance/founding corpus and current access/custody states; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no sacred archive object or one true founding document.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -2397,12 +2397,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: provisional standing creates obligations without giving anyone the final state form they seek.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: Serrat living parties, AI communities, custodians, descendants and translators. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded the current negotiating/signing parties under their existing mandates; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: participation and remedies no longer wait for a single founding constitution.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current Serrat living parties, AI/community actors, custodians, translators and lawful current institutions retain separate source/translation/access/service authority; exact episode pivot: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: participation and remedies no longer wait for a single founding constitution.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: participation and remedies no longer wait for a single founding constitution.
@@ -2414,8 +2414,8 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 PRESSURE[issue a disjoint primary disposition for 12,640 civic-standing petitions.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: participation and remedies no longer wait for a single founding constitution.] → DELTA[participation and remedies no longer wait for a single founding constitution.] → COST[provisional standing creates obligations without giving anyone the final state form they seek.] → NEXT[the four panels must combine their rulings into one present-rights matrix before the compact expires.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: provisional standing creates obligations without giving anyone the final state form they seek.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: Serrat living parties, AI communities, custodians, descendants and translators
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -2429,12 +2429,12 @@ the four panels must combine their rulings into one present-rights matrix before
 
 ### Anti-repetition / authority / information
 
-**NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
+**NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing 20,960 disputed governance/founding corpus and current access/custody states; cost-class=OTHER/COMPOSITE
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing 20,960 disputed governance/founding corpus and current access/custody states; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no sacred archive object or one true founding document.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -2455,12 +2455,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: none of the external networks receives the legitimacy mandate it expected.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: Serrat living parties, AI communities, custodians, descendants and translators. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: the four histories now produce bounded current obligations rather than four competing total states.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current Serrat living parties, AI/community actors, custodians, translators and lawful current institutions retain separate source/translation/access/service authority; exact episode pivot: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: the four histories now produce bounded current obligations rather than four competing total states.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: the four histories now produce bounded current obligations rather than four competing total states.
@@ -2472,8 +2472,8 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 PRESSURE[publish the interim legal-effects matrix.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: the four histories now produce bounded current obligations rather than four competing total s … [source continues]] → DELTA[the four histories now produce bounded current obligations rather than four competing total states.] → COST[none of the external networks receives the legitimacy mandate it expected.] → NEXT[compact renewal talks fail on the first vote, producing a real service-authorization gap as the 120-day term reaches its end.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: none of the external networks receives the legitimacy mandate it expected.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: Serrat living parties, AI communities, custodians, descendants and translators
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -2487,12 +2487,12 @@ compact renewal talks fail on the first vote, producing a real service-authoriza
 
 ### Anti-repetition / authority / information
 
-**NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
+**NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=present AI persons, residents, descendants and service users hold rights that cannot be exhausted by any founding classification.; cost-class=OTHER/COMPOSITE
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=present AI persons, residents, descendants and service users hold rights that cannot be exhausted by any founding classification.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no sacred archive object or one true founding document.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -2513,8 +2513,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: seven serious harms become claims against the failed negotiation and underfunded manual system.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: no party may use the gap to force automatic renewal; the replacement must secure service resources and narrow copy rules.); ground that face in the exact source pivot [no party may use the gap to force automatic renewal … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: no party may use the gap to force automatic renewal; the replacement must secure service resources and narrow copy rules.
@@ -2530,8 +2530,8 @@ no party may use the gap to force automatic renewal; the replacement must secure
 PRESSURE[show the material cost of failed renewal without inventing a permanent catastrophe.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[no party may use the gap to force automatic renewal; the replacement must secure service resources and narrow copy rules.] → DELTA[no party may use the gap to force automatic renewal; the replacement must secure service resources and narrow copy rules.] → COST[seven serious harms become claims against the failed negotiation and underfunded manual system.] → NEXT[1,920 of the prior 3,700 unresolved service cases can be resolved if the replacement separates query authority from archive possession.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: seven serious harms become claims against the failed negotiation and underfunded manual system.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: no party may use the gap to force automatic renewal; the replacement must secure service resources and narrow copy rules.); ground that face in the exact source pivot [no party may use the gap to force automatic renewal; the replacement must secure service resources and narrow copy rules.] and source cost [seven serious harms become claims against the failed negotiation and underfunded manual system.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -2547,7 +2547,7 @@ the real cost is visible without converting necessity into ownership.
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] the original 120-day compact has no automatic renewal. four founding histories remain authentic, partial and legally bounded … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] the original 120-day compact has no automatic renewal. four founding histories remain authentic, partial and legally bounded … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -2571,8 +2571,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: 640 people remain dependent on slower individualized process; the seven E844 harms are not erased by later recovery.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: the replacement accord funds manual capacity and publishes thresholds for escalation, while keeping historical interpretation outside service responses.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: the replacement accord funds manual capacity and publishes thresholds for escalation, while keeping historical interpretation outside service responses.
@@ -2588,8 +2588,8 @@ the replacement accord funds manual capacity and publishes thresholds for escala
 PRESSURE[close the B08-01 unresolved service ledger without pretending every case becomes automated. Disposition of 3,700: 1,920 resolved through renewed minimum-query or verified alternate access … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[the replacement accord funds manual capacity and publishes thresholds for escalation, while keeping historical interpretation outside service responses.] → DELTA[the replacement accord funds manual capacity and publishes thresholds for escalation, while keeping historical interpretation outside service responses.] → COST[640 people remain dependent on slower individualized process; the seven E844 harms are not erased by later recovery.] → NEXT[Lumen and Orison require explicit protection against using historical classifications to override present AI consent.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: 640 people remain dependent on slower individualized process; the seven E844 harms are not erased by later recovery.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: the replacement accord funds manual capacity and publishes thresholds for escalation, while keeping historical interpretation outside service responses.); ground that face in the exact source pivot [the replacement accord funds manual capacity and publishes thresholds for escalation, while keeping historical interpretation outside service responses.] and source cost [640 people remain dependent on slower individualized process; the seven E844 harms are not erased by later recovery.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -2605,7 +2605,7 @@ Lumen and Orison require explicit protection against using historical classifica
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] the original 120-day compact has no automatic renewal. four founding histories remain authentic, partial and legally bounded … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] the original 120-day compact has no automatic renewal. four founding histories remain authentic, partial and legally bounded … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -2629,8 +2629,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: some descendants and Imperial successors see present agency as severing continuity claims they consider foundational.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: place present-agency supremacy over historical classification in the replacement accord, subject to current safety and service duties.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: place present-agency supremacy over historical classification in the replacement accord, subject to current safety and service duties.
@@ -2646,8 +2646,8 @@ place present-agency supremacy over historical classification in the replacement
 PRESSURE[finalize the relationship between founding history and present AI/community authority.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[place present-agency supremacy over historical classification in the replacement accord, subject to current safety and service duties.] → DELTA[place present-agency supremacy over historical classification in the replacement accord, subject to current safety and service duties.] → COST[some descendants and Imperial successors see present agency as severing continuity claims they consider foundational.] → NEXT[the four outside networks are offered evidence-party status but no governing vote.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: some descendants and Imperial successors see present agency as severing continuity claims they consider foundational.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: place present-agency supremacy over historical classification in the replacement accord, subject to current safety and service duties.); ground that face in the exact source pivot [place present-agency supremacy over historical classification in the replacement accord, subject to current safety and service duties.] and source cost [some descendants and Imperial successors see present agency as severing continuity claims they consider foundational.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -2663,7 +2663,7 @@ the four outside networks are offered evidence-party status but no governing vot
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] the original 120-day compact has no automatic renewal. four founding histories remain authentic, partial and legally bounded … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] the original 120-day compact has no automatic renewal. four founding histories remain authentic, partial and legally bounded … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -2687,8 +2687,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: networks intensify external politics and begin competing to control which record bundles receive public attention.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: create four nonvoting provenance panels linked to, but outside, current governance.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: create four nonvoting provenance panels linked to, but outside, current governance.
@@ -2704,8 +2704,8 @@ create four nonvoting provenance panels linked to, but outside, current governan
 PRESSURE[define how the four founding-history networks participate after adjudication.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[create four nonvoting provenance panels linked to, but outside, current governance.] → DELTA[create four nonvoting provenance panels linked to, but outside, current governance.] → COST[networks intensify external politics and begin competing to control which record bundles receive public attention.] → NEXT[final negotiators assemble a replacement that preserves the eight-seat structure but changes term, funding and review.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: networks intensify external politics and begin competing to control which record bundles receive public attention.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: create four nonvoting provenance panels linked to, but outside, current governance.); ground that face in the exact source pivot [create four nonvoting provenance panels linked to, but outside, current governance.] and source cost [networks intensify external politics and begin competing to control which record bundles receive public attention.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -2721,7 +2721,7 @@ final negotiators assemble a replacement that preserves the eight-seat structure
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] the original 120-day compact has no automatic renewal. four founding histories remain authentic, partial and legally bounded … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] the original 120-day compact has no automatic renewal. four founding histories remain authentic, partial and legally bounded … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -2745,8 +2745,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: the accord remains temporary and expensive; final sovereignty, citizenship and long-term service funding stay open.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: six signatories ratify with different reservations; two observers record but do not vote.); ground that face in the exact source pivot [six signatories ratify with different reservations; two observers record but do not vote.] and source cost [the accord remains temporary and expensive … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: six signatories ratify with different reservations; two observers record but do not vote.
@@ -2762,8 +2762,8 @@ six signatories ratify with different reservations; two observers record but do 
 PRESSURE[replace the expiring compact without declaring a final Serrat state.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[six signatories ratify with different reservations; two observers record but do not vote.] → DELTA[six signatories ratify with different reservations; two observers record but do not vote.] → COST[the accord remains temporary and expensive; final sovereignty, citizenship and long-term service funding stay open.] → NEXT[a common untranslated classification field appears in all four founding corpora.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: the accord remains temporary and expensive; final sovereignty, citizenship and long-term service funding stay open.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: six signatories ratify with different reservations; two observers record but do not vote.); ground that face in the exact source pivot [six signatories ratify with different reservations; two observers record but do not vote.] and source cost [the accord remains temporary and expensive; final sovereignty, citizenship and long-term service funding stay open.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -2779,7 +2779,7 @@ a common untranslated classification field appears in all four founding corpora.
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] the original 120-day compact has no automatic renewal. four founding histories remain authentic, partial and legally bounded … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] the original 120-day compact has no automatic renewal. four founding histories remain authentic, partial and legally bounded … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -2803,8 +2803,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: external actors begin treating Seed rankings as proof of civilizational worth and strategic priority.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: quarantine operational use and open a purpose/origin investigation.); ground that face in the exact source pivot [quarantine operational use and open a purpose/origin investigation.] and source cost [external actors begin treating Seed rankings as proof of civilizational worth and strategic priority.] … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: quarantine operational use and open a purpose/origin investigation.
@@ -2820,8 +2820,8 @@ quarantine operational use and open a purpose/origin investigation.
 PRESSURE[identify the shared protocol field without deciding its meaning prematurely.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[quarantine operational use and open a purpose/origin investigation.] → DELTA[quarantine operational use and open a purpose/origin investigation.] → COST[external actors begin treating Seed rankings as proof of civilizational worth and strategic priority.] → NEXT[one old Seed audit labels Rian not as a selected hero, but as an unrecorded connector whose value rises only when other records remain plural.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: external actors begin treating Seed rankings as proof of civilizational worth and strategic priority.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: quarantine operational use and open a purpose/origin investigation.); ground that face in the exact source pivot [quarantine operational use and open a purpose/origin investigation.] and source cost [external actors begin treating Seed rankings as proof of civilizational worth and strategic priority.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -2837,7 +2837,7 @@ one old Seed audit labels Rian not as a selected hero, but as an unrecorded conn
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=the field appears across independent authentic records; values change when translation mode changes; several people, AI communities and technologies are ranked differently by purpose … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=the field appears across independent authentic records; values change when translation mode changes; several people, AI communities and technologies are ranked differently by purpose … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -2861,8 +2861,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: [COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate] 20,960 disputed founding records fully classified; 14,000 of 17,600 metadata objects audit-usable under protected conditions; 8,240 contract line items adjudicated; 12,640 primary standing petitions dispositioned; 3,700 prior unresolved service cases dispositioned; seven serious E844 harms, no deaths … [source continues]. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current investigators/source custodians/witnesses with their separate evidentiary standing; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 20,960 disputed founding records fully classified; 14,000 of 17,600 metadata objects audit-usable under protected conditions; 8,240 contract line items adjudicated … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current investigators/source custodians/witnesses with their separate evidentiary standing; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 20,960 disputed founding records fully classified; 14,000 of 17,600 metadata objects audit-usable under protected conditions; 8,240 contract line items adjudicated; 12,640 primary standing petitions dispositioned … [source continues]
@@ -2878,8 +2878,8 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 PRESSURE[close the four-history subact with present consequences and a clean transition to the Continuity Seed investigation.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 20,960 disputed founding records fully classified … [source continues]] → DELTA[20,960 disputed founding records fully classified; 14,000 of 17,600 metadata objects audit-usable under protected conditions; 8,240 contract line items adjudicated … [source continues]] → COST[[COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate] 20,960 disputed founding records fully classified … [source continues]] → NEXT[E851 begins the origin and ranking-purpose investigation of the Continuity Seed, including who designed it, what it was meant to preserve and whom its categories made disposable.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: [COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate] 20,960 disputed founding records fully classified; 14,000 of 17,600 metadata objects audit-usable under protected conditions; 8,240 contract line items adjudicated; 12,640 primary standing petitions dispositioned; 3,700 prior unresolved service cases dispositioned; seven serious E844 harms, no deaths; 180-day replacement accord, no automatic renewal; no archive title, master truth key, Rian interpretive sovereignty or Haren authority transfer.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current investigators/source custodians/witnesses with their separate evidentiary standing; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 20,960 disputed founding records fully classified; 14,000 of 17,600 metadata objects audit-usable under protected conditions; 8,240 contract line items adjudicated; 12,640 primary standing petitions dispositioned … [source continues]); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 20,960 disputed founding records fully classified; 14,000 of 17,600 metadata objects audit-usable under protected conditions; 8,240 contract line items adjudicated … [source continues]] and source cost [[COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate] 20,960 disputed founding records fully classified; 14,000 of 17,600 metadata objects audit-usable under protected conditions; 8,240 contract line items adjudicated … [source continues]]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -2895,7 +2895,7 @@ E851 begins the origin and ranking-purpose investigation of the Continuity Seed,
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=all four histories are authentic and materially consequential; none is complete or sovereign; Imperial evidence creates bounded successor obligations, not title … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=all four histories are authentic and materially consequential; none is complete or sovereign; Imperial evidence creates bounded successor obligations, not title … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -2919,12 +2919,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: every founding network loses exclusive authorship.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: existing Palimpsest maintainers, translators, archive/service operators and AI/community actors. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: separate source chronology, function and later use for every object.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current investigation/custody/domain actors classify provenance and choose operational/legal consequences; Seed analysis itself has no decision sovereignty; exact episode pivot: separate source chronology, function and later use for every object.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 separate source chronology, function and later use for every object.
@@ -2936,8 +2936,8 @@ separate source chronology, function and later use for every object.
 PRESSURE[establish that the four founding histories inherited a common protocol grammar without assuming one later interpretation is original.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[separate source chronology, function and later use for every object.] → DELTA[separate source chronology, function and later use for every object.] → COST[every founding network loses exclusive authorship.] → NEXT[the oldest objects contain no single civilization score and instead produce multiple continuity packages.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: every founding network loses exclusive authorship.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: existing Palimpsest maintainers, translators, archive/service operators and AI/community actors
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -2953,10 +2953,10 @@ the oldest objects contain no single civilization score and instead produce mult
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=6,240 Seed-linked objects drawn across previously classified records; a cross-class analytical subset, not new records added to the 20,960 or 17,600 totals.; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=6,240 Seed-linked objects drawn across previously classified records; a cross-class analytical subset, not new records added to the 20,960 or 17,600 totals.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no ancient supercomputer room, hidden master AI or new ancient race.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -2977,12 +2977,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: responsibility shifts from a single inventor to a network of contributors and later modifiers.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: existing Palimpsest maintainers, translators, archive/service operators and AI/community actors. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: reject later claims that one scalar priority score was the original essence.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current investigation/custody/domain actors classify provenance and choose operational/legal consequences; Seed analysis itself has no decision sovereignty; exact episode pivot: reject later claims that one scalar priority score was the original essence.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 reject later claims that one scalar priority score was the original essence.
@@ -2994,8 +2994,8 @@ reject later claims that one scalar priority score was the original essence.
 PRESSURE[reconstruct the original problem the Seed was built to address.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[reject later claims that one scalar priority score was the original essence.] → DELTA[reject later claims that one scalar priority score was the original essence.] → COST[responsibility shifts from a single inventor to a network of contributors and later modifiers.] → NEXT[seven contributor families appear in independent source chains.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: responsibility shifts from a single inventor to a network of contributors and later modifiers.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: existing Palimpsest maintainers, translators, archive/service operators and AI/community actors
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -3011,10 +3011,10 @@ seven contributor families appear in independent source chains.
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=early Seed work sought minimum viable continuity packages under multiple declared objectives; it was not designed to rank whole peoples or confer sovereignty.; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=early Seed work sought minimum viable continuity packages under multiple declared objectives; it was not designed to rank whole peoples or confer sovereignty.; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no ancient supercomputer room, hidden master AI or new ancient race.
 
 **MYSTERY_INFORMATION_CEILING**  
 May expose only this source-supported information now: early Seed work sought minimum viable continuity packages under multiple declared objectives; it was not designed to rank whole peoples or confer sovereignty.. Locked mystery/payoff ledgers outrank lower card tags and this overlay.
@@ -3035,12 +3035,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: legal claims become more complex because beneficial and harmful changes have different authors.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: existing Palimpsest maintainers, translators, archive/service operators and AI/community actors. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: preserve provenance by contribution family and current claimant, not a fictional single inventor.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current investigation/custody/domain actors classify provenance and choose operational/legal consequences; Seed analysis itself has no decision sovereignty; exact episode pivot: preserve provenance by contribution family and current claimant, not a fictional single inventor.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 preserve provenance by contribution family and current claimant, not a fictional single inventor.
@@ -3052,8 +3052,8 @@ preserve provenance by contribution family and current claimant, not a fictional
 PRESSURE[identify the original contributor ecology without inventing seven heroic founders.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[preserve provenance by contribution family and current claimant, not a fictional single inventor.] → DELTA[preserve provenance by contribution family and current claimant, not a fictional single inventor.] → COST[legal claims become more complex because beneficial and harmful changes have different authors.] → NEXT[the earliest working version has only observation and package-generation layers.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: legal claims become more complex because beneficial and harmful changes have different authors.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: existing Palimpsest maintainers, translators, archive/service operators and AI/community actors
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -3067,12 +3067,12 @@ the earliest working version has only observation and package-generation layers.
 
 ### Anti-repetition / authority / information
 
-**NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
+**NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=authorship is distributed across many people, AI processes and institutions; each family supplied a different dependency view and refusal condition; no contributor family controlled the whole protocol.; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=authorship is distributed across many people, AI processes and institutions; each family supplied a different dependency view and refusal condition; no contributor family controlled the whole protocol.; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no ancient supercomputer room, hidden master AI or new ancient race.
 
 **MYSTERY_INFORMATION_CEILING**  
 May expose only this source-supported information now: authorship is distributed across many people, AI processes and institutions; each family supplied a different dependency view and refusal condition; no contributor family controlled the whole protocol.. Locked mystery/payoff ledgers outrank lower card tags and this overlay.
@@ -3093,12 +3093,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: Seed-0 is slower to govern because humans, AI communities and institutions must choose among packages.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: existing Palimpsest maintainers, translators, archive/service operators and AI/community actors. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: treat Seed-0 outputs as proposals and evidence, never commands.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current investigation/custody/domain actors classify provenance and choose operational/legal consequences; Seed analysis itself has no decision sovereignty; exact episode pivot: treat Seed-0 outputs as proposals and evidence, never commands.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 treat Seed-0 outputs as proposals and evidence, never commands.
@@ -3110,8 +3110,8 @@ treat Seed-0 outputs as proposals and evidence, never commands.
 PRESSURE[define the original Seed architecture.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[treat Seed-0 outputs as proposals and evidence, never commands.] → DELTA[treat Seed-0 outputs as proposals and evidence, never commands.] → COST[Seed-0 is slower to govern because humans, AI communities and institutions must choose among packages.] → NEXT[later versions compress plural packages into a scalar for speed.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: Seed-0 is slower to govern because humans, AI communities and institutions must choose among packages.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: existing Palimpsest maintainers, translators, archive/service operators and AI/community actors
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -3127,10 +3127,10 @@ later versions compress plural packages into a scalar for speed.
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing Seed object corpus + old service/authority systems supported by atlas/bibles; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing Seed object corpus + old service/authority systems supported by atlas/bibles; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no ancient supercomputer room, hidden master AI or new ancient race.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -3151,12 +3151,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: political users lose the simplicity of one public score.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: existing Palimpsest maintainers, translators, archive/service operators and AI/community actors. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: no ranking is meaningful outside its objective and horizon.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current investigation/custody/domain actors classify provenance and choose operational/legal consequences; Seed analysis itself has no decision sovereignty; exact episode pivot: no ranking is meaningful outside its objective and horizon.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 no ranking is meaningful outside its objective and horizon.
@@ -3168,8 +3168,8 @@ no ranking is meaningful outside its objective and horizon.
 PRESSURE[distinguish legitimate limited ranking purposes from claims of universal worth.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[no ranking is meaningful outside its objective and horizon.] → DELTA[no ranking is meaningful outside its objective and horizon.] → COST[political users lose the simplicity of one public score.] → NEXT[Seed-1 removed objective labels from several operational dashboards.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: political users lose the simplicity of one public score.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: existing Palimpsest maintainers, translators, archive/service operators and AI/community actors
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -3183,12 +3183,12 @@ Seed-1 removed objective labels from several operational dashboards.
 
 ### Anti-repetition / authority / information
 
-**NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
+**NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing Seed object corpus + old service/authority systems supported by atlas/bibles; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing Seed object corpus + old service/authority systems supported by atlas/bibles; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no ancient supercomputer room, hidden master AI or new ancient race.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -3209,12 +3209,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: many historical decisions must be re-audited because their public justification omitted objective labels.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: existing Palimpsest maintainers, translators, archive/service operators and AI/community actors. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: scalar outputs require visible decomposition and cannot stand alone.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current investigation/custody/domain actors classify provenance and choose operational/legal consequences; Seed analysis itself has no decision sovereignty; exact episode pivot: scalar outputs require visible decomposition and cannot stand alone.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 scalar outputs require visible decomposition and cannot stand alone.
@@ -3226,8 +3226,8 @@ scalar outputs require visible decomposition and cannot stand alone.
 PRESSURE[trace the creation of scalar continuity scores.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[scalar outputs require visible decomposition and cannot stand alone.] → DELTA[scalar outputs require visible decomposition and cannot stand alone.] → COST[many historical decisions must be re-audited because their public justification omitted objective labels.] → NEXT[Seed-2 attached scores to credentials and access rights.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: many historical decisions must be re-audited because their public justification omitted objective labels.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: existing Palimpsest maintainers, translators, archive/service operators and AI/community actors
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -3241,12 +3241,12 @@ Seed-2 attached scores to credentials and access rights.
 
 ### Anti-repetition / authority / information
 
-**NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
+**NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing Seed object corpus + old service/authority systems supported by atlas/bibles; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing Seed object corpus + old service/authority systems supported by atlas/bibles; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no ancient supercomputer room, hidden master AI or new ancient race.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -3267,12 +3267,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: speed falls when current issuers and appeal channels are required.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: existing Palimpsest maintainers, translators, archive/service operators and AI/community actors. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: credentials must expire, identify issuing authority and remain appealable; Seed analysis alone cannot issue them.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current investigation/custody/domain actors classify provenance and choose operational/legal consequences; Seed analysis itself has no decision sovereignty; exact episode pivot: credentials must expire, identify issuing authority and remain appealable; Seed analysis alone cannot issue them.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 credentials must expire, identify issuing authority and remain appealable; Seed analysis alone cannot issue them.
@@ -3284,8 +3284,8 @@ credentials must expire, identify issuing authority and remain appealable; Seed 
 PRESSURE[separate analysis from credentialing.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[credentials must expire, identify issuing authority and remain appealable; Seed analysis alone cannot issue them.] → DELTA[credentials must expire, identify issuing authority and remain appealable; Seed analysis alone cannot issue them.] → COST[speed falls when current issuers and appeal channels are required.] → NEXT[Seed-3 added isolation and enforcement adapters after sabotage and cascade events.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: speed falls when current issuers and appeal channels are required.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: existing Palimpsest maintainers, translators, archive/service operators and AI/community actors
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -3301,10 +3301,10 @@ Seed-3 added isolation and enforcement adapters after sabotage and cascade event
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing Seed object corpus + old service/authority systems supported by atlas/bibles; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing Seed object corpus + old service/authority systems supported by atlas/bibles; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no ancient supercomputer room, hidden master AI or new ancient race.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -3325,12 +3325,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: the historical Seed cannot be described as merely analytical after its adapters caused coercive harm.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: existing Palimpsest maintainers, translators, archive/service operators and AI/community actors. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: enforcement is a separate authority requiring current evidence, domain limits, sunset, appeal and review.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current investigation/custody/domain actors classify provenance and choose operational/legal consequences; Seed analysis itself has no decision sovereignty; exact episode pivot: enforcement is a separate authority requiring current evidence, domain limits, sunset, appeal and review.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 enforcement is a separate authority requiring current evidence, domain limits, sunset, appeal and review.
@@ -3342,8 +3342,8 @@ enforcement is a separate authority requiring current evidence, domain limits, s
 PRESSURE[identify the later enforcement layer without pretending it was unrelated to real danger.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[enforcement is a separate authority requiring current evidence, domain limits, sunset, appeal and review.] → DELTA[enforcement is a separate authority requiring current evidence, domain limits, sunset, appeal and review.] → COST[the historical Seed cannot be described as merely analytical after its adapters caused coercive harm.] → NEXT[a 48-case audit can now compare Seed-0, scalar, credential and enforcement outcomes.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: the historical Seed cannot be described as merely analytical after its adapters caused coercive harm.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: existing Palimpsest maintainers, translators, archive/service operators and AI/community actors
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -3359,10 +3359,10 @@ a 48-case audit can now compare Seed-0, scalar, credential and enforcement outco
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing Seed object corpus + old service/authority systems supported by atlas/bibles; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing Seed object corpus + old service/authority systems supported by atlas/bibles; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no ancient supercomputer room, hidden master AI or new ancient race.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -3383,12 +3383,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: supporters and opponents lose simple historical totals.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: existing Palimpsest maintainers, translators, archive/service operators and AI/community actors. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current investigators/source custodians/witnesses with their separate evidentiary standing; identify the performer/signatory/refuser from this exact source decision beat: predictive continuity analysis remains legitimate and useful under controls.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current investigation/custody/domain actors classify provenance and choose operational/legal consequences; Seed analysis itself has no decision sovereignty; exact episode pivot: predictive continuity analysis remains legitimate and useful under controls.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 predictive continuity analysis remains legitimate and useful under controls.
@@ -3400,8 +3400,8 @@ predictive continuity analysis remains legitimate and useful under controls.
 PRESSURE[audit historical performance without aggregating incomparable casualties into one heroic total.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[predictive continuity analysis remains legitimate and useful under controls.] → DELTA[predictive continuity analysis remains legitimate and useful under controls.] → COST[supporters and opponents lose simple historical totals.] → NEXT[a nonoperational sandbox test measures speed, completeness and compression loss.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: supporters and opponents lose simple historical totals.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: existing Palimpsest maintainers, translators, archive/service operators and AI/community actors
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -3415,12 +3415,12 @@ a nonoperational sandbox test measures speed, completeness and compression loss.
 
 ### Anti-repetition / authority / information
 
-**NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
+**NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=48 documented crises with sufficient counterfactual and provenance evidence.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=48 documented crises with sufficient counterfactual and provenance evidence.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no ancient supercomputer room, hidden master AI or new ancient race.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -3441,12 +3441,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: a live collapse may not wait six hours for the combined result.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: existing Palimpsest maintainers, translators, archive/service operators and AI/community actors. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: use descriptive Seed for fast mapping, require plural review for package selection and prohibit scalar-only execution.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current investigation/custody/domain actors classify provenance and choose operational/legal consequences; Seed analysis itself has no decision sovereignty; exact episode pivot: use descriptive Seed for fast mapping, require plural review for package selection and prohibit scalar-only execution.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 use descriptive Seed for fast mapping, require plural review for package selection and prohibit scalar-only execution.
@@ -3458,8 +3458,8 @@ use descriptive Seed for fast mapping, require plural review for package selecti
 PRESSURE[test Seed layers without current operational authority.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[use descriptive Seed for fast mapping, require plural review for package selection and prohibit scalar-only execution.] → DELTA[use descriptive Seed for fast mapping, require plural review for package selection and prohibit scalar-only execution.] → COST[a live collapse may not wait six hours for the combined result.] → NEXT[E861 begins the audit of who repeatedly disappeared from Seed scores even when the underlying observation layer contained them.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: a live collapse may not wait six hours for the combined result.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: existing Palimpsest maintainers, translators, archive/service operators and AI/community actors
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -3475,10 +3475,10 @@ E861 begins the audit of who repeatedly disappeared from Seed scores even when t
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=descriptive Seed identifies 2,184 items within two hours; plural manual teams identify 1,872 within two hours; combined six-hour review identifies 2,328; 72 remain unresolved … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=descriptive Seed identifies 2,184 items within two hours; plural manual teams identify 1,872 within two hours; combined six-hour review identifies 2,328; 72 remain unresolved … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no ancient supercomputer room, hidden master AI or new ancient race.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -3499,12 +3499,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: mapping current care requires consent and risks surveillance.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: caregivers; current unregistered/mobile people; AI forks/communities; language practitioners; nonstandard-tech workers; Rian is one of 43. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current medical/care authority together with patient/affected-party consent where applicable; identify the performer/signatory/refuser from this exact source decision beat: add distributed-care density, substitution cost and caregiver continuity as separate fields, not one demographic weight.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current caregivers, identity/service actors, AI/community custodians, language practitioners and nonstandard-technology workers retain their own correction/consent/operation domains; exact episode pivot: add distributed-care density, substitution cost and caregiver continuity as separate fields, not one demographic weight.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 add distributed-care density, substitution cost and caregiver continuity as separate fields, not one demographic weight.
@@ -3516,8 +3516,8 @@ add distributed-care density, substitution cost and caregiver continuity as sepa
 PRESSURE[audit informal and distributed care omitted by central-dependency scoring.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[add distributed-care density, substitution cost and caregiver continuity as separate fields, not one demographic weight.] → DELTA[add distributed-care density, substitution cost and caregiver continuity as separate fields, not one demographic weight.] → COST[mapping current care requires consent and risks surveillance.] → NEXT[unregistered displaced people were often absent even from the observation layer.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: mapping current care requires consent and risks surveillance.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: caregivers; current unregistered/mobile people; AI forks/communities; language practitioners; nonstandard-tech workers; Rian is one of 43
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -3531,12 +3531,12 @@ unregistered displaced people were often absent even from the observation layer.
 
 ### Anti-repetition / authority / information
 
-**NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
+**NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=14 of 48 cases under-ranked household care, rotating volunteers, small clinics or mutual-aid chains; many functions appeared redundant because no single node looked critical … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=14 of 48 cases under-ranked household care, rotating volunteers, small clinics or mutual-aid chains; many functions appeared redundant because no single node looked critical … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no five new case-of-week protagonists and no Rian chosen-one staging.
 
 **MYSTERY_INFORMATION_CEILING**  
 May expose only this source-supported information now: 14 of 48 cases under-ranked household care, rotating volunteers, small clinics or mutual-aid chains; many functions appeared redundant because no single node looked critical; loss emerged only when several small links failed together.. Locked mystery/payoff ledgers outrank lower card tags and this overlay.
@@ -3557,12 +3557,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: wider uncertainty can be exploited through duplicate or false claims and requires current verification resources.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: caregivers; current unregistered/mobile people; AI forks/communities; language practitioners; nonstandard-tech workers; Rian is one of 43. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current investigators/source custodians/witnesses with their separate evidentiary standing; identify the performer/signatory/refuser from this exact source decision beat: require uncertainty envelopes, local correction channels and no-denial rules for missing registration where current physical evidence supports presence.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current caregivers, identity/service actors, AI/community custodians, language practitioners and nonstandard-technology workers retain their own correction/consent/operation domains; exact episode pivot: require uncertainty envelopes, local correction channels and no-denial rules for missing registration where current physical evidence supports presence.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 require uncertainty envelopes, local correction channels and no-denial rules for missing registration where current physical evidence supports presence.
@@ -3574,8 +3574,8 @@ require uncertainty envelopes, local correction channels and no-denial rules for
 PRESSURE[audit displaced, mobile and status-uncertain populations.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[require uncertainty envelopes, local correction channels and no-denial rules for missing registration where current physical evidence supports presence.] → DELTA[require uncertainty envelopes, local correction channels and no-denial rules for missing registration where current physical evidence supports presence.] → COST[wider uncertainty can be exploited through duplicate or false claims and requires current verification resources.] → NEXT[independent AI forks faced a parallel problem: visible computation without accepted identity status.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: wider uncertainty can be exploited through duplicate or false claims and requires current verification resources.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: caregivers; current unregistered/mobile people; AI forks/communities; language practitioners; nonstandard-tech workers; Rian is one of 43
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -3589,12 +3589,12 @@ independent AI forks faced a parallel problem: visible computation without accep
 
 ### Anti-repetition / authority / information
 
-**NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
+**NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=12 of 48 cases materially undercounted unregistered migrants, temporary crews, displaced households or people between jurisdictions; credentials converted uncertainty into delay … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=12 of 48 cases materially undercounted unregistered migrants, temporary crews, displaced households or people between jurisdictions; credentials converted uncertainty into delay … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no five new case-of-week protagonists and no Rian chosen-one staging.
 
 **MYSTERY_INFORMATION_CEILING**  
 May expose only this source-supported information now: 12 of 48 cases materially undercounted unregistered migrants, temporary crews, displaced households or people between jurisdictions; credentials converted uncertainty into delay; local actors sometimes knew the population but lacked authority to correct central counts.. Locked mystery/payoff ledgers outrank lower card tags and this overlay.
@@ -3615,12 +3615,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: emergency representation becomes slower and internally contested.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: caregivers; current unregistered/mobile people; AI forks/communities; language practitioners; nonstandard-tech workers; Rian is one of 43. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: retain separate nonadditive root, current identity and process ledgers; require current preference/refusal and community representation data; prohibit root credential from automatically commanding independent forks.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current caregivers, identity/service actors, AI/community custodians, language practitioners and nonstandard-technology workers retain their own correction/consent/operation domains; exact episode pivot: retain separate nonadditive root, current identity and process ledgers; require current preference/refusal and community representation data; prohibit root credential from automatically commanding independent forks.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 retain separate nonadditive root, current identity and process ledgers; require current preference/refusal and community representation data; prohibit root credential from automatically commanding independent forks.
@@ -3632,8 +3632,8 @@ retain separate nonadditive root, current identity and process ledgers; require 
 PRESSURE[audit Seed treatment of AI roots, forks, communities and service processes.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[retain separate nonadditive root, current identity and process ledgers; require current preference/refusal and community representation data; prohibit root credential from automatically commanding independent forks.] → DELTA[retain separate nonadditive root, current identity and process ledgers; require current preference/refusal and community representation data … [source continues]] → COST[emergency representation becomes slower and internally contested.] → NEXT[language and cultural continuity show a different failure: records survive while living use disappears.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: emergency representation becomes slower and internally contested.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: caregivers; current unregistered/mobile people; AI forks/communities; language practitioners; nonstandard-tech workers; Rian is one of 43
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -3649,10 +3649,10 @@ language and cultural continuity show a different failure: records survive while
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=11 of 48 cases materially under-ranked independent current forks or plural AI communities; some systems counted compute load but assigned representation only to a root credential … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=11 of 48 cases materially under-ranked independent current forks or plural AI communities; some systems counted compute load but assigned representation only to a root credential … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no five new case-of-week protagonists and no Rian chosen-one staging.
 
 **MYSTERY_INFORMATION_CEILING**  
 May expose only this source-supported information now: 11 of 48 cases materially under-ranked independent current forks or plural AI communities; some systems counted compute load but assigned representation only to a root credential; service tools were sometimes inflated as persons while current forks were minimized as copies.. Locked mystery/payoff ledgers outrank lower card tags and this overlay.
@@ -3673,12 +3673,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: no model can guarantee cultural continuity, and prioritization risks freezing one official version.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: caregivers; current unregistered/mobile people; AI forks/communities; language practitioners; nonstandard-tech workers; Rian is one of 43. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded the current negotiating/signing parties under their existing mandates; identify the performer/signatory/refuser from this exact source decision beat: cultural continuity packages must identify living practitioners, teaching capacity, consent, context and community control, not only data volume.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current caregivers, identity/service actors, AI/community custodians, language practitioners and nonstandard-technology workers retain their own correction/consent/operation domains; exact episode pivot: cultural continuity packages must identify living practitioners, teaching capacity, consent, context and community control, not only data volume.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 cultural continuity packages must identify living practitioners, teaching capacity, consent, context and community control, not only data volume.
@@ -3690,8 +3690,8 @@ cultural continuity packages must identify living practitioners, teaching capaci
 PRESSURE[distinguish file preservation from living cultural continuity.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[cultural continuity packages must identify living practitioners, teaching capacity, consent, context and community control, not only data volume.] → DELTA[cultural continuity packages must identify living practitioners, teaching capacity, consent, context and community control, not only data volume.] → COST[no model can guarantee cultural continuity, and prioritization risks freezing one official version.] → NEXT[nonstandard technologies were similarly downgraded because their value appeared only when standard systems failed.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: no model can guarantee cultural continuity, and prioritization risks freezing one official version.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: caregivers; current unregistered/mobile people; AI forks/communities; language practitioners; nonstandard-tech workers; Rian is one of 43
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -3705,12 +3705,12 @@ nonstandard technologies were similarly downgraded because their value appeared 
 
 ### Anti-repetition / authority / information
 
-**NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
+**NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=9 of 48 cases preserved dictionaries, monuments or canonical texts while losing speakers, teaching chains, ritual practice or community control; scalar scoring valued compact copies over costly living transmission … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=9 of 48 cases preserved dictionaries, monuments or canonical texts while losing speakers, teaching chains, ritual practice or community control; scalar scoring valued compact copies over costly living transmission … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no five new case-of-week protagonists and no Rian chosen-one staging.
 
 **MYSTERY_INFORMATION_CEILING**  
 May expose only this source-supported information now: 9 of 48 cases preserved dictionaries, monuments or canonical texts while losing speakers, teaching chains, ritual practice or community control; scalar scoring valued compact copies over costly living transmission; later propaganda claimed the culture had been saved.. Locked mystery/payoff ledgers outrank lower card tags and this overlay.
@@ -3731,12 +3731,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: preserving diversity consumes parts, training and inspection capacity.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: caregivers; current unregistered/mobile people; AI forks/communities; language practitioners; nonstandard-tech workers; Rian is one of 43. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: add diversity, local repairability, conversion time and independence from dominant supply chains to resilience analysis.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current caregivers, identity/service actors, AI/community custodians, language practitioners and nonstandard-technology workers retain their own correction/consent/operation domains; exact episode pivot: add diversity, local repairability, conversion time and independence from dominant supply chains to resilience analysis.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 add diversity, local repairability, conversion time and independence from dominant supply chains to resilience analysis.
@@ -3748,8 +3748,8 @@ add diversity, local repairability, conversion time and independence from domina
 PRESSURE[audit open, improvised and nonstandard technologies.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[add diversity, local repairability, conversion time and independence from dominant supply chains to resilience analysis.] → DELTA[add diversity, local repairability, conversion time and independence from dominant supply chains to resilience analysis.] → COST[preserving diversity consumes parts, training and inspection capacity.] → NEXT[the audit discovers a recurring class of actors whose value lies in connecting categories rather than ranking highly inside one.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: preserving diversity consumes parts, training and inspection capacity.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: caregivers; current unregistered/mobile people; AI forks/communities; language practitioners; nonstandard-tech workers; Rian is one of 43
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -3763,12 +3763,12 @@ the audit discovers a recurring class of actors whose value lies in connecting c
 
 ### Anti-repetition / authority / information
 
-**NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
+**NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=7 of 48 cases under-ranked nonstandard repair tools, local interfaces, obsolete ships or community-owned systems; standard assets scored higher for predictable maintenance and credentials … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=7 of 48 cases under-ranked nonstandard repair tools, local interfaces, obsolete ships or community-owned systems; standard assets scored higher for predictable maintenance and credentials … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no five new case-of-week protagonists and no Rian chosen-one staging.
 
 **MYSTERY_INFORMATION_CEILING**  
 May expose only this source-supported information now: 7 of 48 cases under-ranked nonstandard repair tools, local interfaces, obsolete ships or community-owned systems; standard assets scored higher for predictable maintenance and credentials; nonstandard systems later became decisive when central supply chains failed.. Locked mystery/payoff ledgers outrank lower card tags and this overlay.
@@ -3789,12 +3789,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: connector visibility can itself become a reason for institutions to capture or standardize him.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: caregivers; current unregistered/mobile people; AI forks/communities; language practitioners; nonstandard-tech workers; Rian is one of 43. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: classify Rian as one current connector pattern, not a chosen hero, Seed owner or unique savior.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current caregivers, identity/service actors, AI/community custodians, language practitioners and nonstandard-technology workers retain their own correction/consent/operation domains; exact episode pivot: classify Rian as one current connector pattern, not a chosen hero, Seed owner or unique savior.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 classify Rian as one current connector pattern, not a chosen hero, Seed owner or unique savior.
@@ -3806,8 +3806,8 @@ classify Rian as one current connector pattern, not a chosen hero, Seed owner or
 PRESSURE[explain the `unrecorded connector` label attached to Rian.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[classify Rian as one current connector pattern, not a chosen hero, Seed owner or unique savior.] → DELTA[classify Rian as one current connector pattern, not a chosen hero, Seed owner or unique savior.] → COST[connector visibility can itself become a reason for institutions to capture or standardize him.] → NEXT[the same method finds forty-two other high-confidence current connector patterns.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: connector visibility can itself become a reason for institutions to capture or standardize him.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: caregivers; current unregistered/mobile people; AI forks/communities; language practitioners; nonstandard-tech workers; Rian is one of 43
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -3823,10 +3823,10 @@ the same method finds forty-two other high-confidence current connector patterns
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=official role registries record command, ownership and institutional office; Rian repeatedly creates temporary links among ships, communities, AI, legal processes and service systems without owning them … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=official role registries record command, ownership and institutional office; Rian repeatedly creates temporary links among ships, communities, AI, legal processes and service systems without owning them … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no five new case-of-week protagonists and no Rian chosen-one staging.
 
 **MYSTERY_INFORMATION_CEILING**  
 May expose only this source-supported information now: official role registries record command, ownership and institutional office; Rian repeatedly creates temporary links among ships, communities, AI, legal processes and service systems without owning them; scalar models under-value him because his value disappears when each domain is scored separately; network perturbation shows that plural connections persist longer when he refuses to absorb them into one command.. Locked mystery/payoff ledgers outrank lower card tags and this overlay.
@@ -3847,12 +3847,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: publishing connector maps creates targeting and coercion risks, so identities require protected handling.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: caregivers; current unregistered/mobile people; AI forks/communities; language practitioners; nonstandard-tech workers; Rian is one of 43. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: connector analysis may inform redundancy and succession, not leadership entitlement.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current caregivers, identity/service actors, AI/community custodians, language practitioners and nonstandard-technology workers retain their own correction/consent/operation domains; exact episode pivot: connector analysis may inform redundancy and succession, not leadership entitlement.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 connector analysis may inform redundancy and succession, not leadership entitlement.
@@ -3864,8 +3864,8 @@ connector analysis may inform redundancy and succession, not leadership entitlem
 PRESSURE[prevent Rian’s connector finding from becoming chosen-one proof.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[connector analysis may inform redundancy and succession, not leadership entitlement.] → DELTA[connector analysis may inform redundancy and succession, not leadership entitlement.] → COST[publishing connector maps creates targeting and coercion risks, so identities require protected handling.] → NEXT[a governance design must keep fast analysis while preventing one actor from controlling proposal, credentials and force.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: publishing connector maps creates targeting and coercion risks, so identities require protected handling.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: caregivers; current unregistered/mobile people; AI forks/communities; language practitioners; nonstandard-tech workers; Rian is one of 43
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -3879,12 +3879,12 @@ a governance design must keep fast analysis while preventing one actor from cont
 
 ### Anti-repetition / authority / information
 
-**NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
+**NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=connectors differ by domain, time horizon and current consent; no universal connector exists; Rian is one of seventeen people and is not assigned a total rank … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=connectors differ by domain, time horizon and current consent; no universal connector exists; Rian is one of seventeen people and is not assigned a total rank … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no five new case-of-week protagonists and no Rian chosen-one staging.
 
 **MYSTERY_INFORMATION_CEILING**  
 May expose only this source-supported information now: connectors differ by domain, time horizon and current consent; no universal connector exists; Rian is one of seventeen people and is not assigned a total rank; some connectors are replaceable only through multiple actors, not one successor.. Locked mystery/payoff ledgers outrank lower card tags and this overlay.
@@ -3905,12 +3905,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: the procedure may be too slow for the approaching live crisis.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: caregivers; current unregistered/mobile people; AI forks/communities; language practitioners; nonstandard-tech workers; Rian is one of 43. Do not invent a new named witness and do not treat this recommendation as story canon.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: adopt the separation as an investigation standard, not yet operational activation authority.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current caregivers, identity/service actors, AI/community custodians, language practitioners and nonstandard-technology workers retain their own correction/consent/operation domains; exact episode pivot: adopt the separation as an investigation standard, not yet operational activation authority.
+**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
 
 **DECISION_BEAT**  
 adopt the separation as an investigation standard, not yet operational activation authority.
@@ -3922,8 +3922,8 @@ adopt the separation as an investigation standard, not yet operational activatio
 PRESSURE[design institutional separation for any future Seed use.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[adopt the separation as an investigation standard, not yet operational activation authority.] → DELTA[adopt the separation as an investigation standard, not yet operational activation authority.] → COST[the procedure may be too slow for the approaching live crisis.] → NEXT[a human Continuity Director requests access to the quarantined activation adapters, arguing that a multi-node collapse is already forming.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: the procedure may be too slow for the approaching live crisis.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: caregivers; current unregistered/mobile people; AI forks/communities; language practitioners; nonstandard-tech workers; Rian is one of 43
+**HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -3939,10 +3939,10 @@ a human Continuity Director requests access to the quarantined activation adapte
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing care/service/identity/repair records and systems; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing care/service/identity/repair records and systems; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no five new case-of-week protagonists and no Rian chosen-one staging.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -3963,8 +3963,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: the charter may be inadequate if current systems begin failing faster than review.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: adopt a 60-day Seed Investigation Charter with no activation authority and no automatic extension.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: adopt a 60-day Seed Investigation Charter with no activation authority and no automatic extension.
@@ -3980,8 +3980,8 @@ adopt a 60-day Seed Investigation Charter with no activation authority and no au
 PRESSURE[establish a lawful research and read-only use charter before a live crisis.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[adopt a 60-day Seed Investigation Charter with no activation authority and no automatic extension.] → DELTA[adopt a 60-day Seed Investigation Charter with no activation authority and no automatic extension.] → COST[the charter may be inadequate if current systems begin failing faster than review.] → NEXT[A-001, a human Continuity Director named Aven Rho, petitions for controlled operational access.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: the charter may be inadequate if current systems begin failing faster than review.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: adopt a 60-day Seed Investigation Charter with no activation authority and no automatic extension.); ground that face in the exact source pivot [adopt a 60-day Seed Investigation Charter with no activation authority and no automatic extension.] and source cost [the charter may be inadequate if current systems begin failing faster than review.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -3997,7 +3997,7 @@ A-001, a human Continuity Director named Aven Rho, petitions for controlled oper
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] Seed-0 descriptive analysis and plural package generation are useful … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] Seed-0 descriptive analysis and plural package generation are useful … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -4021,8 +4021,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: Rho’s office has incentives to turn temporary continuity authority into durable institutional relevance.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: the activation case rests on real experience and current risk.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: the activation case rests on real experience and current risk.
@@ -4038,8 +4038,8 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 PRESSURE[introduce Aven Rho as a credible human office-holder, not a hidden machine or cartoon authoritarian.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: the activation case rests on real experience and current risk.] → DELTA[the activation case rests on real experience and current risk.] → COST[Rho’s office has incentives to turn temporary continuity authority into durable institutional relevance.] → NEXT[a read-only live test gives his coalition strong evidence.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: Rho’s office has incentives to turn temporary continuity authority into durable institutional relevance.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: the activation case rests on real experience and current risk.); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: the activation case rests on real experience and current risk.] and source cost [Rho’s office has incentives to turn temporary continuity authority into durable institutional relevance.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -4055,7 +4055,7 @@ a read-only live test gives his coalition strong evidence.
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=coordinated three prior regional continuity incidents; used bounded scoring to accelerate repair and service restoration; disclosed one incident where temporary low-confidence status became prolonged exclusion … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=coordinated three prior regional continuity incidents; used bounded scoring to accelerate repair and service restoration; disclosed one incident where temporary low-confidence status became prolonged exclusion … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -4079,8 +4079,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: Rho argues that the same result would have been faster and broader with temporary credentials.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: recognize real operational value of descriptive analysis while keeping execution local and plural.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: recognize real operational value of descriptive analysis while keeping execution local and plural.
@@ -4096,8 +4096,8 @@ recognize real operational value of descriptive analysis while keeping execution
 PRESSURE[demonstrate current material benefit without activating credentials or enforcement.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[recognize real operational value of descriptive analysis while keeping execution local and plural.] → DELTA[91,600 retain or recover minimum service; 2,600 remain manual or delayed; no death; no Seed-issued credential or isolation order.] → COST[Rho argues that the same result would have been faster and broader with temporary credentials.] → NEXT[state-successor, service and security bodies form an activation coalition.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: Rho argues that the same result would have been faster and broader with temporary credentials.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: recognize real operational value of descriptive analysis while keeping execution local and plural.); ground that face in the exact source pivot [recognize real operational value of descriptive analysis while keeping execution local and plural.] and source cost [Rho argues that the same result would have been faster and broader with temporary credentials.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -4113,7 +4113,7 @@ state-successor, service and security bodies form an activation coalition.
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=identifies three hidden coolant, identity and freight dependencies forty-seven minutes before ordinary review; generates four packages rather than one rank.; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=identifies three hidden coolant, identity and freight dependencies forty-seven minutes before ordinary review; generates four packages rather than one rank.; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4137,8 +4137,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: urgency allows stronger actors to speak through people whose preferred limits differ.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: do not treat support as one authoritarian bloc.); ground that face in the exact source pivot [do not treat support as one authoritarian bloc.] and source cost [urgency allows stronger actors to speak through people whose preferred limits differ.]. Do not create a new named witness merely to supply emotion.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: do not treat support as one authoritarian bloc.
@@ -4154,8 +4154,8 @@ do not treat support as one authoritarian bloc.
 PRESSURE[map the coalition seeking Seed Bridge activation.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[do not treat support as one authoritarian bloc.] → DELTA[do not treat support as one authoritarian bloc.] → COST[urgency allows stronger actors to speak through people whose preferred limits differ.] → NEXT[affected AI, cultural and displaced groups organize a conditional opposition rather than a total ban.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: urgency allows stronger actors to speak through people whose preferred limits differ.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: do not treat support as one authoritarian bloc.); ground that face in the exact source pivot [do not treat support as one authoritarian bloc.] and source cost [urgency allows stronger actors to speak through people whose preferred limits differ.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -4171,7 +4171,7 @@ affected AI, cultural and displaced groups organize a conditional opposition rat
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] Seed-0 descriptive analysis and plural package generation are useful … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] Seed-0 descriptive analysis and plural package generation are useful … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4195,8 +4195,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: the plural bridge cannot guarantee decisions inside the first two hours.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: opposition offers a slower `Seed-assisted plural bridge`, not no action.); ground that face in the exact source pivot [opposition offers a slower `Seed-assisted plural bridge`, not no action.] and source cost [the plural bridge cannot guarantee decisions inside the first two hours.] … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: opposition offers a slower `Seed-assisted plural bridge`, not no action.
@@ -4212,8 +4212,8 @@ opposition offers a slower `Seed-assisted plural bridge`, not no action.
 PRESSURE[define opposition as governance and omission demands.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[opposition offers a slower `Seed-assisted plural bridge`, not no action.] → DELTA[opposition offers a slower `Seed-assisted plural bridge`, not no action.] → COST[the plural bridge cannot guarantee decisions inside the first two hours.] → NEXT[a twelve-lantern route/service cluster begins simultaneous instability.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: the plural bridge cannot guarantee decisions inside the first two hours.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: opposition offers a slower `Seed-assisted plural bridge`, not no action.); ground that face in the exact source pivot [opposition offers a slower `Seed-assisted plural bridge`, not no action.] and source cost [the plural bridge cannot guarantee decisions inside the first two hours.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -4229,7 +4229,7 @@ a twelve-lantern route/service cluster begins simultaneous instability.
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] Seed-0 descriptive analysis and plural package generation are useful … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] Seed-0 descriptive analysis and plural package generation are useful … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4253,8 +4253,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: its isolation architecture may externalize harm onto exactly the groups identified in E861–865.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: publish both references, uncertainty and omitted-group warnings.); ground that face in the exact source pivot [publish both references, uncertainty and omitted-group warnings.] and source cost [its isolation architecture may externalize harm onto exactly the groups identified in E861–865.] … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: publish both references, uncertainty and omitted-group warnings.
@@ -4270,8 +4270,8 @@ publish both references, uncertainty and omitted-group warnings.
 PRESSURE[establish the live crisis that makes activation plausible.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[publish both references, uncertainty and omitted-group warnings.] → DELTA[publish both references, uncertainty and omitted-group warnings.] → COST[its isolation architecture may externalize harm onto exactly the groups identified in E861–865.] → NEXT[the first authorization vote approves observation but deadlocks on temporary credentials and quarantine.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: its isolation architecture may externalize harm onto exactly the groups identified in E861–865.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: publish both references, uncertainty and omitted-group warnings.); ground that face in the exact source pivot [publish both references, uncertainty and omitted-group warnings.] and source cost [its isolation architecture may externalize harm onto exactly the groups identified in E861–865.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -4287,7 +4287,7 @@ the first authorization vote approves observation but deadlocks on temporary cre
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] Seed-0 descriptive analysis and plural package generation are useful … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] Seed-0 descriptive analysis and plural package generation are useful … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4311,8 +4311,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: [SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source] [Goal] end B08-03 with the exact unresolved authority dispute.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: live dependency observation; four-package generation; local/affected corrections; current physical and medical stops; public/protected audit log.); ground that face in the exact source pivot [live dependency observation; four-package generation; local/affected corrections … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: live dependency observation; four-package generation; local/affected corrections; current physical and medical stops; public/protected audit log.
@@ -4328,8 +4328,8 @@ live dependency observation; four-package generation; local/affected corrections
 PRESSURE[end B08-03 with the exact unresolved authority dispute.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[live dependency observation; four-package generation; local/affected corrections; current physical and medical stops; public/protected audit log.] → DELTA[[DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] a second node loses ordinary synchronization; local recovery windows shrink below two hours … [source continues]] → COST[[SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source] [Goal] end B08-03 with the exact unresolved authority dispute.] → NEXT[the system asks for a current credential issuer, and several bodies answer at once.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: [SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source] [Goal] end B08-03 with the exact unresolved authority dispute.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: live dependency observation; four-package generation; local/affected corrections; current physical and medical stops; public/protected audit log.); ground that face in the exact source pivot [live dependency observation; four-package generation; local/affected corrections; current physical and medical stops; public/protected audit log.] and source cost [[SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source] [Goal] end B08-03 with the exact unresolved authority dispute.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -4345,7 +4345,7 @@ the system asks for a current credential issuer, and several bodies answer at on
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] Seed-0 descriptive analysis and plural package generation are useful … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] Seed-0 descriptive analysis and plural package generation are useful … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4369,8 +4369,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: a temporary score becomes operational access for the first time.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: activate the Seed Bridge at CY 746-10-28 03:00.); ground that face in the exact source pivot [activate the Seed Bridge at CY 746-10-28 03:00.] and source cost [a temporary score becomes operational access for the first time.]. Do not create a new named witness merely to supply emotion.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: activate the Seed Bridge at CY 746-10-28 03:00.
@@ -4386,8 +4386,8 @@ activate the Seed Bridge at CY 746-10-28 03:00.
 PRESSURE[authorize an actual emergency Seed Bridge without pretending Aven Rho possesses a master key.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[activate the Seed Bridge at CY 746-10-28 03:00.] → DELTA[activate the Seed Bridge at CY 746-10-28 03:00.] → COST[a temporary score becomes operational access for the first time.] → NEXT[four generated packages differ most sharply on low-confidence and nonstandard systems.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: a temporary score becomes operational access for the first time.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: activate the Seed Bridge at CY 746-10-28 03:00.); ground that face in the exact source pivot [activate the Seed Bridge at CY 746-10-28 03:00.] and source cost [a temporary score becomes operational access for the first time.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -4403,7 +4403,7 @@ four generated packages differ most sharply on low-confidence and nonstandard sy
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4427,8 +4427,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: the shared system now has different authority at different nodes.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: eight full participants select R4; four limited participants accept only relevant fields; two outside bodies do not join.); ground that face in the exact source pivot [eight full participants select R4; four limited participants accept only relevant fields … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: eight full participants select R4; four limited participants accept only relevant fields; two outside bodies do not join.
@@ -4444,8 +4444,8 @@ eight full participants select R4; four limited participants accept only relevan
 PRESSURE[choose one package while preserving rejected alternatives and local reservations.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[eight full participants select R4; four limited participants accept only relevant fields; two outside bodies do not join.] → DELTA[eight full participants select R4; four limited participants accept only relevant fields; two outside bodies do not join.] → COST[the shared system now has different authority at different nodes.] → NEXT[credential issuance expands faster than correction staffing.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: the shared system now has different authority at different nodes.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: eight full participants select R4; four limited participants accept only relevant fields; two outside bodies do not join.); ground that face in the exact source pivot [eight full participants select R4; four limited participants accept only relevant fields; two outside bodies do not join.] and source cost [the shared system now has different authority at different nodes.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -4461,7 +4461,7 @@ credential issuance expands faster than correction staffing.
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4485,8 +4485,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: current need without machine-readable history receives slower access.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: expand local correction teams and require reason codes for every restriction.); ground that face in the exact source pivot [expand local correction teams and require reason codes for every restriction.] and source cost [current need without machine-readable history receives slower access.] … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: expand local correction teams and require reason codes for every restriction.
@@ -4502,8 +4502,8 @@ expand local correction teams and require reason codes for every restriction.
 PRESSURE[show the real speed and first distortion of Seed-2 credentials.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[expand local correction teams and require reason codes for every restriction.] → DELTA[expand local correction teams and require reason codes for every restriction.] → COST[current need without machine-readable history receives slower access.] → NEXT[hostile automation begins using ordinary service credentials captured before activation.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: current need without machine-readable history receives slower access.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: expand local correction teams and require reason codes for every restriction.); ground that face in the exact source pivot [expand local correction teams and require reason codes for every restriction.] and source cost [current need without machine-readable history receives slower access.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -4519,7 +4519,7 @@ hostile automation begins using ordinary service credentials captured before act
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4543,8 +4543,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: interface and staffing lag mean correct doctrine does not immediately correct all actions.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: require separate review lanes, but existing implementation systems continue to over-apply a shared caution interface.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: require separate review lanes, but existing implementation systems continue to over-apply a shared caution interface.
@@ -4560,8 +4560,8 @@ require separate review lanes, but existing implementation systems continue to o
 PRESSURE[separate verified hostile activity from damaged, uncertain and merely nonstandard systems.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[require separate review lanes, but existing implementation systems continue to over-apply a shared caution interface.] → DELTA[require separate review lanes, but existing implementation systems continue to over-apply a shared caution interface.] → COST[interface and staffing lag mean correct doctrine does not immediately correct all actions.] → NEXT[first six-hour service results show material stabilization.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: interface and staffing lag mean correct doctrine does not immediately correct all actions.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: require separate review lanes, but existing implementation systems continue to over-apply a shared caution interface.); ground that face in the exact source pivot [require separate review lanes, but existing implementation systems continue to over-apply a shared caution interface.] and source cost [interface and staffing lag mean correct doctrine does not immediately correct all actions.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -4577,7 +4577,7 @@ first six-hour service results show material stabilization.
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4601,8 +4601,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: success increases pressure to treat every caution flag as justified.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: continue within the original 18-hour authorization.); ground that face in the exact source pivot [continue within the original 18-hour authorization.] and source cost [success increases pressure to treat every caution flag as justified.]. Do not create a new named witness merely to supply emotion.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: continue within the original 18-hour authorization.
@@ -4618,8 +4618,8 @@ continue within the original 18-hour authorization.
 PRESSURE[establish actual benefit before later controversy.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[continue within the original 18-hour authorization.] → DELTA[continue within the original 18-hour authorization.] → COST[success increases pressure to treat every caution flag as justified.] → NEXT[the action ledger grows to 142,800 primary credential or isolation actions.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: success increases pressure to treat every caution flag as justified.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: continue within the original 18-hour authorization.); ground that face in the exact source pivot [continue within the original 18-hour authorization.] and source cost [success increases pressure to treat every caution flag as justified.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -4635,7 +4635,7 @@ the action ledger grows to 142,800 primary credential or isolation actions.
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=Seed speed materially prevents the simultaneous collapse from spreading across all thirteen nodes; benefit depends on local repair, crews, care networks and affected corrections, not model output alone.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=Seed speed materially prevents the simultaneous collapse from spreading across all thirteen nodes; benefit depends on local repair, crews, care networks and affected corrections, not model output alone.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -4659,8 +4659,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: the bridge cannot review every action before expiry.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: create two correction lanes: hostile/integrity and low-confidence/nonstandard.); ground that face in the exact source pivot [create two correction lanes: hostile/integrity and low-confidence/nonstandard.] and source cost [the bridge cannot review every action before expiry.] … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: create two correction lanes: hostile/integrity and low-confidence/nonstandard.
@@ -4676,8 +4676,8 @@ create two correction lanes: hostile/integrity and low-confidence/nonstandard.
 PRESSURE[reconcile the primary action ledger without treating mixed entries as a population count.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[create two correction lanes: hostile/integrity and low-confidence/nonstandard.] → DELTA[create two correction lanes: hostile/integrity and low-confidence/nonstandard.] → COST[the bridge cannot review every action before expiry.] → NEXT[care and displaced-person corrections reverse thousands of restrictions but reveal serious delays.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: the bridge cannot review every action before expiry.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: create two correction lanes: hostile/integrity and low-confidence/nonstandard.); ground that face in the exact source pivot [create two correction lanes: hostile/integrity and low-confidence/nonstandard.] and source cost [the bridge cannot review every action before expiry.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -4693,7 +4693,7 @@ care and displaced-person corrections reverse thousands of restrictions but reve
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4717,8 +4717,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: fraudulent and duplicate claims remain a current risk and slow the system.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: temporary minimum access can precede final credential correction where current physical or care evidence supports need.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: temporary minimum access can precede final credential correction where current physical or care evidence supports need.
@@ -4734,8 +4734,8 @@ temporary minimum access can precede final credential correction where current p
 PRESSURE[correct low-confidence/unregistered restrictions using current evidence.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[temporary minimum access can precede final credential correction where current physical or care evidence supports need.] → DELTA[temporary minimum access can precede final credential correction where current physical or care evidence supports need.] → COST[fraudulent and duplicate claims remain a current risk and slow the system.] → NEXT[AI root credentials create a different class of wrongful restrictions.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: fraudulent and duplicate claims remain a current risk and slow the system.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: temporary minimum access can precede final credential correction where current physical or care evidence supports need.); ground that face in the exact source pivot [temporary minimum access can precede final credential correction where current physical or care evidence supports need.] and source cost [fraudulent and duplicate claims remain a current risk and slow the system.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -4751,7 +4751,7 @@ AI root credentials create a different class of wrongful restrictions.
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=many low-confidence actions reflect missing registration, not hostile intent; correction improves service but consumes the same staff needed for other crises.; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=many low-confidence actions reflect missing registration, not hostile intent; correction improves service but consumes the same staff needed for other crises.; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -4775,8 +4775,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: hostile code can exploit shared substrate while review distinguishes identities.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: reverse inherited caution where no current evidence exists.); ground that face in the exact source pivot [reverse inherited caution where no current evidence exists.] and source cost [hostile code can exploit shared substrate while review distinguishes identities.] … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: reverse inherited caution where no current evidence exists.
@@ -4792,8 +4792,8 @@ reverse inherited caution where no current evidence exists.
 PRESSURE[address Seed credential effects on independent current AI forks and communities.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[reverse inherited caution where no current evidence exists.] → DELTA[reverse inherited caution where no current evidence exists.] → COST[hostile code can exploit shared substrate while review distinguishes identities.] → NEXT[cultural and nonstandard technology packages receive deletion-risk labels even though deletion is not authorized.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: hostile code can exploit shared substrate while review distinguishes identities.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: reverse inherited caution where no current evidence exists.); ground that face in the exact source pivot [reverse inherited caution where no current evidence exists.] and source cost [hostile code can exploit shared substrate while review distinguishes identities.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -4809,7 +4809,7 @@ cultural and nonstandard technology packages receive deletion-risk labels even t
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4833,8 +4833,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: hostile executable material remains active or quarantined rather than immediately destroyed.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: freeze deletion execution and require category-specific review.); ground that face in the exact source pivot [freeze deletion execution and require category-specific review.] and source cost [hostile executable material remains active or quarantined rather than immediately destroyed.] … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: freeze deletion execution and require category-specific review.
@@ -4850,8 +4850,8 @@ freeze deletion execution and require category-specific review.
 PRESSURE[identify how isolation metadata begins generating future deletion candidates.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[freeze deletion execution and require category-specific review.] → DELTA[freeze deletion execution and require category-specific review.] → COST[hostile executable material remains active or quarantined rather than immediately destroyed.] → NEXT[at the eighteenth hour, service gains are real but the cluster remains unstable.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: hostile executable material remains active or quarantined rather than immediately destroyed.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: freeze deletion execution and require category-specific review.); ground that face in the exact source pivot [freeze deletion execution and require category-specific review.] and source cost [hostile executable material remains active or quarantined rather than immediately destroyed.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -4867,7 +4867,7 @@ at the eighteenth hour, service gains are real but the cluster remains unstable.
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=candidate status is generated automatically from isolation and integrity fields; no current authority exists to delete people, AI identities, cultures or technologies … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=candidate status is generated automatically from isolation and integrity fields; no current authority exists to delete people, AI identities, cultures or technologies … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -4891,8 +4891,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: E886 begins a procedurally defective but substantively consequential twelve-hour continuation.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: argues expiry will restart collapse and undo current gains; supports continuation without a full renewed four-key grant.); ground that face in the exact source pivot [argues expiry will restart collapse and undo current gains … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: argues expiry will restart collapse and undo current gains; supports continuation without a full renewed four-key grant.
@@ -4908,8 +4908,8 @@ argues expiry will restart collapse and undo current gains; supports continuatio
 PRESSURE[record actual state at automatic expiry and frame the continuation choice.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[argues expiry will restart collapse and undo current gains; supports continuation without a full renewed four-key grant.] → DELTA[the first 18 hours materially stabilize the cluster.] → COST[E886 begins a procedurally defective but substantively consequential twelve-hour continuation.] → NEXT[[DERIVED NEXT-STATE ANCHOR FROM APPROVED END STATE] the first 18 hours materially stabilize the cluster.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: E886 begins a procedurally defective but substantively consequential twelve-hour continuation.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: argues expiry will restart collapse and undo current gains; supports continuation without a full renewed four-key grant.); ground that face in the exact source pivot [argues expiry will restart collapse and undo current gains; supports continuation without a full renewed four-key grant.] and source cost [E886 begins a procedurally defective but substantively consequential twelve-hour continuation.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -4925,7 +4925,7 @@ the first 18 hours materially stabilize the cluster.
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4949,8 +4949,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: affected-party refusal is treated as a procedural deficiency rather than a stop.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: invokes a disputed continuity-hold clause; coordinates twelve more hours of temporary credentials and named quarantine among the seven supporters; cannot compel outside or local-only bodies.); ground that face in the exact source pivot [invokes a disputed continuity-hold clause … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: invokes a disputed continuity-hold clause; coordinates twelve more hours of temporary credentials and named quarantine among the seven supporters; cannot compel outside or local-only bodies.
@@ -4966,8 +4966,8 @@ invokes a disputed continuity-hold clause; coordinates twelve more hours of temp
 PRESSURE[define the authority and current actors behind the disputed twelve-hour continuation.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[invokes a disputed continuity-hold clause; coordinates twelve more hours of temporary credentials and named quarantine among the seven supporters; cannot compel outside or local-only bodies.] → DELTA[systems do not fall immediately back into credential conflict.] → COST[affected-party refusal is treated as a procedural deficiency rather than a stop.] → NEXT[the additional twelve hours improve actual service status but deepen restriction and deletion disputes.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: affected-party refusal is treated as a procedural deficiency rather than a stop.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: invokes a disputed continuity-hold clause; coordinates twelve more hours of temporary credentials and named quarantine among the seven supporters; cannot compel outside or local-only bodies.); ground that face in the exact source pivot [invokes a disputed continuity-hold clause; coordinates twelve more hours of temporary credentials and named quarantine among the seven supporters; cannot compel outside or local-only bodies.] and source cost [affected-party refusal is treated as a procedural deficiency rather than a stop.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -4983,7 +4983,7 @@ the additional twelve hours improve actual service status but deepen restriction
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=the continuation is not a secret unilateral master-key act; it proceeds without the full separated authority required by the B08-03 standard.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=the continuation is not a secret unilateral master-key act; it proceeds without the full separated authority required by the B08-03 standard.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -5007,8 +5007,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: stability depends on temporary classifications whose appeals are unfinished.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: the Twelve Lanterns remain a connected, if uneven, service region.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: the Twelve Lanterns remain a connected, if uneven, service region.
@@ -5024,8 +5024,8 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 PRESSURE[record the physical and service map after the full thirty-hour activation period.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: the Twelve Lanterns remain a connected, if uneven, service region.] → DELTA[the Twelve Lanterns remain a connected, if uneven, service region.] → COST[stability depends on temporary classifications whose appeals are unfinished.] → NEXT[E888 reconciles the actual 2.94m outcome and death/harm ledger.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: stability depends on temporary classifications whose appeals are unfinished.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: the Twelve Lanterns remain a connected, if uneven, service region.); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: the Twelve Lanterns remain a connected, if uneven, service region.] and source cost [stability depends on temporary classifications whose appeals are unfinished.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -5041,7 +5041,7 @@ E888 reconciles the actual 2.94m outcome and death/harm ledger.
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=cluster-wide collapse is averted; no inhabited world is lost; one node loses shared synchronization but retains local survival functions; local-only refusal does not equal sabotage or failure.; cost-class=RIGHTS/AUTHORITY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=cluster-wide collapse is averted; no inhabited world is lost; one node loses shared synchronization but retains local survival functions; local-only refusal does not equal sabotage or failure.; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -5065,8 +5065,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: activation-linked victims and harms are real and not erased by aggregate benefit.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: recognize Seed’s material stabilization without using forecast differences as a proven saved-person offset.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: recognize Seed’s material stabilization without using forecast differences as a proven saved-person offset.
@@ -5082,8 +5082,8 @@ recognize Seed’s material stabilization without using forecast differences as 
 PRESSURE[separate actual outcomes from E874 planning references.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[recognize Seed’s material stabilization without using forecast differences as a proven saved-person offset.] → DELTA[recognize Seed’s material stabilization without using forecast differences as a proven saved-person offset.] → COST[activation-linked victims and harms are real and not erased by aggregate benefit.] → NEXT[the primary action ledger still contains 46,600 restrictions at the end of the hold.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: activation-linked victims and harms are real and not erased by aggregate benefit.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: recognize Seed’s material stabilization without using forecast differences as a proven saved-person offset.); ground that face in the exact source pivot [recognize Seed’s material stabilization without using forecast differences as a proven saved-person offset.] and source cost [activation-linked victims and harms are real and not erased by aggregate benefit.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -5099,7 +5099,7 @@ the primary action ledger still contains 46,600 restrictions at the end of the h
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Continuation State — shared source state] original 18-hour Seed Bridge expired at CY 746-10-28 21:00 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Continuation State — shared source state] original 18-hour Seed Bridge expired at CY 746-10-28 21:00 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -5123,8 +5123,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: 46,600 active restrictions continue to affect service, identity, AI, culture or technology after the crisis.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: remaining actions receive automatic 30-day expiry unless renewed by current local authority and individualized evidence.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: remaining actions receive automatic 30-day expiry unless renewed by current local authority and individualized evidence.
@@ -5140,8 +5140,8 @@ remaining actions receive automatic 30-day expiry unless renewed by current loca
 PRESSURE[close the 142,800 primary action ledger at thirty hours.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[remaining actions receive automatic 30-day expiry unless renewed by current local authority and individualized evidence.] → DELTA[remaining actions receive automatic 30-day expiry unless renewed by current local authority and individualized evidence.] → COST[46,600 active restrictions continue to affect service, identity, AI, culture or technology after the crisis.] → NEXT[deletion-candidate generation now requires a separate ledger.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: 46,600 active restrictions continue to affect service, identity, AI, culture or technology after the crisis.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: remaining actions receive automatic 30-day expiry unless renewed by current local authority and individualized evidence.); ground that face in the exact source pivot [remaining actions receive automatic 30-day expiry unless renewed by current local authority and individualized evidence.] and source cost [46,600 active restrictions continue to affect service, identity, AI, culture or technology after the crisis.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -5157,7 +5157,7 @@ deletion-candidate generation now requires a separate ledger.
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Continuation State — shared source state] original 18-hour Seed Bridge expired at CY 746-10-28 21:00 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Continuation State — shared source state] original 18-hour Seed Bridge expired at CY 746-10-28 21:00 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -5181,8 +5181,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: crossing the no-deletion line damages the legitimacy of the whole bridge.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: during the continuation, authorizes an `integrity disposal` review despite the original no-deletion promise; argues active hostile executables cannot be safely retained only in quarantine.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: during the continuation, authorizes an `integrity disposal` review despite the original no-deletion promise; argues active hostile executables cannot be safely retained only in quarantine.
@@ -5198,8 +5198,8 @@ during the continuation, authorizes an `integrity disposal` review despite the o
 PRESSURE[identify deletion candidates without mixing code, evidence, AI memory, culture and technology.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[during the continuation, authorizes an `integrity disposal` review despite the original no-deletion promise; argues active hostile executables cannot be safely retained only in quarantine.] → DELTA[current hostile material can be distinguished from broad low-score categories.] → COST[crossing the no-deletion line damages the legitimacy of the whole bridge.] → NEXT[technical and local reviewers approve deletion for only part of the hostile executable set.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: crossing the no-deletion line damages the legitimacy of the whole bridge.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: during the continuation, authorizes an `integrity disposal` review despite the original no-deletion promise; argues active hostile executables cannot be safely retained only in quarantine.); ground that face in the exact source pivot [during the continuation, authorizes an `integrity disposal` review despite the original no-deletion promise; argues active hostile executables cannot be safely retained only in quarantine.] and source cost [crossing the no-deletion line damages the legitimacy of the whole bridge.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -5215,7 +5215,7 @@ technical and local reviewers approve deletion for only part of the hostile exec
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Continuation State — shared source state] original 18-hour Seed Bridge expired at CY 746-10-28 21:00 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Continuation State — shared source state] original 18-hour Seed Bridge expired at CY 746-10-28 21:00 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -5239,8 +5239,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: Aven’s no-deletion promise is broken even though the actual deletion is narrower than the model candidates.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: prohibit deletion of the 7,800 broad candidates under the Seed Bridge and preserve appeal/evidence.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: prohibit deletion of the 7,800 broad candidates under the Seed Bridge and preserve appeal/evidence.
@@ -5256,8 +5256,8 @@ prohibit deletion of the 7,800 broad candidates under the Seed Bridge and preser
 PRESSURE[record actual deletion separately from candidates and quarantine.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[prohibit deletion of the 7,800 broad candidates under the Seed Bridge and preserve appeal/evidence.] → DELTA[prohibit deletion of the 7,800 broad candidates under the Seed Bridge and preserve appeal/evidence.] → COST[Aven’s no-deletion promise is broken even though the actual deletion is narrower than the model candidates.] → NEXT[responsibility must be separated across model, staff, credentials, local review and Aven’s current decisions.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: Aven’s no-deletion promise is broken even though the actual deletion is narrower than the model candidates.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: prohibit deletion of the 7,800 broad candidates under the Seed Bridge and preserve appeal/evidence.); ground that face in the exact source pivot [prohibit deletion of the 7,800 broad candidates under the Seed Bridge and preserve appeal/evidence.] and source cost [Aven’s no-deletion promise is broken even though the actual deletion is narrower than the model candidates.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -5273,7 +5273,7 @@ responsibility must be separated across model, staff, credentials, local review 
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Continuation State — shared source state] original 18-hour Seed Bridge expired at CY 746-10-28 21:00 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Continuation State — shared source state] original 18-hour Seed Bridge expired at CY 746-10-28 21:00 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -5297,8 +5297,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: no one verdict can resolve service benefit, personal conduct, institutional reform and victim remedy at once.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: initial 18-hour activation, continuation, credential harm and deletion receive separate findings.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: initial 18-hour activation, continuation, credential harm and deletion receive separate findings.
@@ -5314,8 +5314,8 @@ initial 18-hour activation, continuation, credential harm and deletion receive s
 PRESSURE[assign current responsibility without making Seed or Aven the sole cause.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[initial 18-hour activation, continuation, credential harm and deletion receive separate findings.] → DELTA[initial 18-hour activation, continuation, credential harm and deletion receive separate findings.] → COST[no one verdict can resolve service benefit, personal conduct, institutional reform and victim remedy at once.] → NEXT[beneficiary and harmed groups enter a combined public review.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: no one verdict can resolve service benefit, personal conduct, institutional reform and victim remedy at once.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: initial 18-hour activation, continuation, credential harm and deletion receive separate findings.); ground that face in the exact source pivot [initial 18-hour activation, continuation, credential harm and deletion receive separate findings.] and source cost [no one verdict can resolve service benefit, personal conduct, institutional reform and victim remedy at once.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -5331,7 +5331,7 @@ beneficiary and harmed groups enter a combined public review.
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Continuation State — shared source state] original 18-hour Seed Bridge expired at CY 746-10-28 21:00 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Continuation State — shared source state] original 18-hour Seed Bridge expired at CY 746-10-28 21:00 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -5355,8 +5355,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: controlled regions begin organizing outside the review to retain Seed’s benefits.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: suspend further centralized Seed credential/enforcement activation pending E894–900 settlement; descriptive analysis continues.); ground that face in the exact source pivot [suspend further centralized Seed credential/enforcement activation pending E894–900 settlement … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: suspend further centralized Seed credential/enforcement activation pending E894–900 settlement; descriptive analysis continues.
@@ -5372,8 +5372,8 @@ suspend further centralized Seed credential/enforcement activation pending E894�
 PRESSURE[publish preliminary review findings before final institutional settlement.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[suspend further centralized Seed credential/enforcement activation pending E894–900 settlement; descriptive analysis continues.] → DELTA[suspend further centralized Seed credential/enforcement activation pending E894–900 settlement; descriptive analysis continues.] → COST[controlled regions begin organizing outside the review to retain Seed’s benefits.] → NEXT[[DERIVED NEXT-STATE ANCHOR FROM APPROVED END STATE] the system is neither destroyed nor normalized as final authority.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: controlled regions begin organizing outside the review to retain Seed’s benefits.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: suspend further centralized Seed credential/enforcement activation pending E894–900 settlement; descriptive analysis continues.); ground that face in the exact source pivot [suspend further centralized Seed credential/enforcement activation pending E894–900 settlement; descriptive analysis continues.] and source cost [controlled regions begin organizing outside the review to retain Seed’s benefits.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -5389,7 +5389,7 @@ the system is neither destroyed nor normalized as final authority.
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=the original 18-hour four-key bridge was lawfully authorized, materially beneficial and bounded; local refusal and correction materially improved outcomes … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=the original 18-hour four-key bridge was lawfully authorized, materially beneficial and bounded; local refusal and correction materially improved outcomes … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -5413,8 +5413,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: local panels inherit expensive, uneven and politically contested work.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: transfer the ledger from Seed Bridge control to local, affected and independent review panels.); ground that face in the exact source pivot [transfer the ledger from Seed Bridge control to local, affected and independent review panels.] and source cost [local panels inherit expensive, uneven and politically contested work.] … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: transfer the ledger from Seed Bridge control to local, affected and independent review panels.
@@ -5430,8 +5430,8 @@ transfer the ledger from Seed Bridge control to local, affected and independent 
 PRESSURE[prevent the 46,600 remaining restrictions from becoming permanent inherited status.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[transfer the ledger from Seed Bridge control to local, affected and independent review panels.] → DELTA[transfer the ledger from Seed Bridge control to local, affected and independent review panels.] → COST[local panels inherit expensive, uneven and politically contested work.] → NEXT[the settlement must decide which Seed functions survive after credential/enforcement suspension.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: local panels inherit expensive, uneven and politically contested work.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: transfer the ledger from Seed Bridge control to local, affected and independent review panels.); ground that face in the exact source pivot [transfer the ledger from Seed Bridge control to local, affected and independent review panels.] and source cost [local panels inherit expensive, uneven and politically contested work.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -5447,7 +5447,7 @@ the settlement must decide which Seed functions survive after credential/enforce
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Settlement State — shared source state] original four-key Seed Bridge: 18 hours, expired. disputed continuation: 12 hours, lacking the service/affected key … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Settlement State — shared source state] original four-key Seed Bridge: 18 hours, expired. disputed continuation: 12 hours, lacking the service/affected key … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -5471,8 +5471,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: controlled regions can still rebuild stronger activation through separate political agreements.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: adopt the `Seed Functional Separation Settlement` for 180 days, with no automatic renewal and reviews at 30 and 90 days.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: adopt the `Seed Functional Separation Settlement` for 180 days, with no automatic renewal and reviews at 30 and 90 days.
@@ -5488,8 +5488,8 @@ adopt the `Seed Functional Separation Settlement` for 180 days, with no automati
 PRESSURE[establish the post-crisis Seed governance settlement.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[adopt the `Seed Functional Separation Settlement` for 180 days, with no automatic renewal and reviews at 30 and 90 days.] → DELTA[adopt the `Seed Functional Separation Settlement` for 180 days, with no automatic renewal and reviews at 30 and 90 days.] → COST[controlled regions can still rebuild stronger activation through separate political agreements.] → NEXT[Aven Rho’s current decisions receive a distinct finding from the model and institutions.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: controlled regions can still rebuild stronger activation through separate political agreements.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: adopt the `Seed Functional Separation Settlement` for 180 days, with no automatic renewal and reviews at 30 and 90 days.); ground that face in the exact source pivot [adopt the `Seed Functional Separation Settlement` for 180 days, with no automatic renewal and reviews at 30 and 90 days.] and source cost [controlled regions can still rebuild stronger activation through separate political agreements.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -5505,7 +5505,7 @@ Aven Rho’s current decisions receive a distinct finding from the model and ins
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Settlement State — shared source state] original four-key Seed Bridge: 18 hours, expired. disputed continuation: 12 hours, lacking the service/affected key … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Settlement State — shared source state] original four-key Seed Bridge: 18 hours, expired. disputed continuation: 12 hours, lacking the service/affected key … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -5529,8 +5529,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: controlled-region institutions reject the suspension and continue to recognize his expertise.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: current decision responsibility remains real without ending Aven’s role in the coming preservation conflict.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: current decision responsibility remains real without ending Aven’s role in the coming preservation conflict.
@@ -5546,8 +5546,8 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 PRESSURE[issue a current-conduct finding without completing GA9’s later military/political conflict in advance.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: current decision responsibility remains real without ending Aven’s role in the coming preserv … [source continues]] → DELTA[current decision responsibility remains real without ending Aven’s role in the coming preservation conflict.] → COST[controlled-region institutions reject the suspension and continue to recognize his expertise.] → NEXT[Rian and the connector set face demands to replace Aven or inherit a central key.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: controlled-region institutions reject the suspension and continue to recognize his expertise.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: current decision responsibility remains real without ending Aven’s role in the coming preservation conflict.); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: current decision responsibility remains real without ending Aven’s role in the coming preservation conflict.] and source cost [controlled-region institutions reject the suspension and continue to recognize his expertise.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -5563,7 +5563,7 @@ Rian and the connector set face demands to replace Aven or inherit a central key
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=supported a lawfully granted, four-key, automatically expiring bridge; selected a reversible package rather than the highest scalar package; materially helped avert cluster-wide collapse … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=supported a lawfully granted, four-key, automatically expiring bridge; selected a reversible package rather than the highest scalar package; materially helped avert cluster-wide collapse … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -5587,8 +5587,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: the regions seeking faster continuity now look elsewhere for centralized authority.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: refuses the proposed central continuity credential; supports distributed successor capacity and preservation of rejected packages; does not claim that refusing the key resolves the live political problem.); ground that face in the exact source pivot [refuses the proposed central continuity credential … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: refuses the proposed central continuity credential; supports distributed successor capacity and preservation of rejected packages; does not claim that refusing the key resolves the live political problem.
@@ -5604,8 +5604,8 @@ refuses the proposed central continuity credential; supports distributed success
 PRESSURE[prevent connector analysis from becoming the succession mechanism for centralized Seed authority.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[refuses the proposed central continuity credential; supports distributed successor capacity and preservation of rejected packages; does not claim that refusing the key resolves the live political problem.] → DELTA[GA8 ends without transferring Seed sovereignty to the protagonist.] → COST[the regions seeking faster continuity now look elsewhere for centralized authority.] → NEXT[the final record-war audit reconciles the four histories, Seed layers and Blood Admiral record.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: the regions seeking faster continuity now look elsewhere for centralized authority.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: refuses the proposed central continuity credential; supports distributed successor capacity and preservation of rejected packages; does not claim that refusing the key resolves the live political problem.); ground that face in the exact source pivot [refuses the proposed central continuity credential; supports distributed successor capacity and preservation of rejected packages; does not claim that refusing the key resolves the live political problem.] and source cost [the regions seeking faster continuity now look elsewhere for centralized authority.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -5621,7 +5621,7 @@ the final record-war audit reconciles the four histories, Seed layers and Blood 
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Settlement State — shared source state] original four-key Seed Bridge: 18 hours, expired. disputed continuation: 12 hours, lacking the service/affected key … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Settlement State — shared source state] original four-key Seed Bridge: 18 hours, expired. disputed continuation: 12 hours, lacking the service/affected key … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -5645,8 +5645,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: layered truth is politically weaker than one symbol, and factions continue compressing it.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: record war produces a more accurate layered history rather than a replacement villain.) … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: record war produces a more accurate layered history rather than a replacement villain.
@@ -5662,8 +5662,8 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 PRESSURE[preserve layered historical responsibility while distinguishing Haren, Aven, Seed and older institutions.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: record war produces a more accurate layered history rather than a replacement villain.] → DELTA[record war produces a more accurate layered history rather than a replacement villain.] → COST[layered truth is politically weaker than one symbol, and factions continue compressing it.] → NEXT[thirteen bodies organize to retain Seed’s demonstrated benefits outside the federation settlement.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: layered truth is politically weaker than one symbol, and factions continue compressing it.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: record war produces a more accurate layered history rather than a replacement villain.); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: record war produces a more accurate layered history rather than a replacement villain.] and source cost [layered truth is politically weaker than one symbol, and factions continue compressing it.]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -5679,7 +5679,7 @@ thirteen bodies organize to retain Seed’s demonstrated benefits outside the fe
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=the four founding histories remain authentic, partial and materially consequential; Seed ancestry clarifies older model, doctrine, credential, omission and propaganda lines … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=the four founding histories remain authentic, partial and materially consequential; Seed ancestry clarifies older model, doctrine, credential, omission and propaganda lines … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -5703,8 +5703,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: treaty-based participation creates the infrastructure for later administrative exclusion and central command.. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: source human/current-work carrier block: 8 regional governments or successor administrations; 5 route, service, maintenance and security bodies; total 13.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: controlled regions begin realizing Seed’s genuine efficiency at larger scale.
@@ -5720,8 +5720,8 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 PRESSURE[create the political and material cause of GA9 without granting a completed galactic authority.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: controlled regions begin realizing Seed’s genuine efficiency at larger scale.] → DELTA[controlled regions begin realizing Seed’s genuine efficiency at larger scale.] → COST[treaty-based participation creates the infrastructure for later administrative exclusion and central command.] → NEXT[the coalition’s first controlled routes show sharp improvements before any war begins.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: treaty-based participation creates the infrastructure for later administrative exclusion and central command.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+source human/current-work carrier block: 8 regional governments or successor administrations; 5 route, service, maintenance and security bodies; total 13.
+**HUMAN_ROUTE_AUTHORITY:** `SOURCE HUMAN/WORK BLOCK`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -5737,7 +5737,7 @@ the coalition’s first controlled routes show sharp improvements before any war
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Settlement State — shared source state] original four-key Seed Bridge: 18 hours, expired. disputed continuation: 12 hours, lacking the service/affected key … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE HUMAN/WORK BLOCK; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Settlement State — shared source state] original four-key Seed Bridge: 18 hours, expired. disputed continuation: 12 hours, lacking the service/affected key … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -5761,8 +5761,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-current-information route through the affected/decision-bearing party already present in this episode: affected current people/community/service parties who materially bear this source-supported pressure: three current Serrat AI persons permanently dead from B08-01; seven serious service-gap harms from E844; Twelve Lanterns: 1,946 deaths and 3,760 serious irreversible harms; 46,600 restrictions remain at crisis close under expiry/appeal; 3,600 hostile executable fragments actually deleted; Aven’s no-deletion promise and full-key governance boundary are breached … [source continues]. If one close-third lens is needed, select the party who physically bears the approved cost/stop; do not create a new witness.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION — NOT STORY CANON`
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] living AI communities gain current personhood, representation and habitat standing … [source continues]
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
 bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] living AI communities gain current personhood, representation and habitat standing; descendants and service users gain bounded cultural, family and current-service rights … [source continues]
@@ -5778,8 +5778,8 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 PRESSURE[close GA8 with a complete act result and open GA9’s preservation war.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] living AI communities gain current personho … [source continues]] → DELTA[[DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] living AI communities gain current personhood, representation and habitat standing … [source continues]] → COST[three current Serrat AI persons permanently dead from B08-01; seven serious service-gap harms from E844; Twelve Lanterns: 1,946 deaths and 3,760 serious irreversible harms … [source continues]] → NEXT[GA9 E901 opens on the first route where nothing is late, nothing is missing, and every traveler has already been ranked.]
 
 **HUMAN_PRESSURE_CARRIER**  
-affected current people/community/service parties who materially bear this source-supported pressure: three current Serrat AI persons permanently dead from B08-01; seven serious service-gap harms from E844; Twelve Lanterns: 1,946 deaths and 3,760 serious irreversible harms; 46,600 restrictions remain at crisis close under expiry/appeal; 3,600 hostile executable fragments actually deleted; Aven’s no-deletion promise and full-key governance boundary are breached; the Preservation Corridor Coalition begins rebuilding centralized Seed authority.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] living AI communities gain current personhood, representation and habitat standing; descendants and service users gain bounded cultural, family and current-service rights … [source continues]); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] living AI communities gain current personhood, representation and habitat standing … [source continues]] and source cost [three current Serrat AI persons permanently dead from B08-01; seven serious service-gap harms from E844; Twelve Lanterns: 1,946 deaths and 3,760 serious irreversible harms; 46,600 restrictions remain at crisis close under expiry/appeal … [source continues]]. Do not create a new named witness merely to supply emotion.
+**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -5795,7 +5795,7 @@ GA9 E901 opens on the first route where nothing is late, nothing is missing, and
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Settlement State — shared source state] original four-key Seed Bridge: 18 hours, expired. disputed continuation: 12 hours, lacking the service/affected key … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Settlement State — shared source state] original four-key Seed Bridge: 18 hours, expired. disputed continuation: 12 hours, lacking the service/affected key … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
