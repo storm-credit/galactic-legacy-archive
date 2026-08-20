@@ -149,7 +149,7 @@ Nera notices he is reallocating her work without current technical reason. deman
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[review 07 technical assignments without revealing Nera’s future record.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Nera notices he is reallocating her work without current technical reason. demands the evidence/reason or refuses participation.] → DELTA[[DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] the component is allocated to another cell unless Rian’s group accepts Helix data/inspection terms.] → COST[must relinquish future-death-based control and record his intervention error.] → NEXT[the component is allocated to another cell unless Rian’s group accepts Helix data/inspection terms.]
+PRESSURE[review 07 technical assignments without revealing Nera’s future record.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Nera notices he is reallocating her work without current technical reason. demands the evidence/reason or refuses participation.] → DELTA[⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ the component is allocated to another cell unless Rian’s group accepts Helix data/inspection terms.] → COST[must relinquish future-death-based control and record his intervention error.] → NEXT[the component is allocated to another cell unless Rian’s group accepts Helix data/inspection terms.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian.
@@ -160,7 +160,7 @@ NONE — relationship/internal-emotion delta is not separately fixed by the sour
 **RELATIONSHIP_DELTA_AUTHORITY:** `EXPLICIT-NONE GUARD`
 
 **READER_PAYOFF_THIS_EP**  
-[DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] the component is allocated to another cell unless Rian’s group accepts Helix data/inspection terms.
+⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ the component is allocated to another cell unless Rian’s group accepts Helix data/inspection terms.
 
 **RETENTION_QUESTION_OR_CHANGED_CONDITION**  
 the component is allocated to another cell unless Rian’s group accepts Helix data/inspection terms.
@@ -227,7 +227,7 @@ her cell may be disqualified or reassigned to a higher-risk support role.
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 14.1 — Certified benefit in action] POV: Rian. Opening: another trainee/frame/patient suffers a failure that the certified Helix component prevents or stabilizes … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 14.1 — Certified benefit in action] POV: Rian. Opening: another trainee/frame/patient suffers a failure that the certified Helix component prevents or stabilizes … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -285,7 +285,7 @@ Rian’s future answer assumes a component 07 does not yet have.
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 15.1 — Rival cell consequence] POV: Rian. Goal: preserve both cells’ safety/eligibility without surrendering the one certified component … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 15.1 — Rival cell consequence] POV: Rian. Goal: preserve both cells’ safety/eligibility without surrendering the one certified component … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -439,7 +439,7 @@ cell refuses to assign one culprit before full technical/authority review. propo
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 18.1 — The bargain] POV: Rian. Offer options: blame Nera’s modification/insufficient certification … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[cell refuses to assign one culprit before full technical/authority review. proposes a joint-responsibility live test/repair mission where consequences and domain stops remain visible … [source continues]] → DELTA[cell refuses to assign one culprit before full technical/authority review. proposes a joint-responsibility live test/repair mission where consequences and domain stops remain visible … [source continues]] → COST[no certified full repair unless terms change. Doran medicine suspension notice activates.] → NEXT[Haren receives the first list of people whose treatment/status will stop. the list shows eleven accounts with grades and no visible names … [source continues]]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 18.1 — The bargain] POV: Rian. Offer options: blame Nera’s modification/insufficient certification … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[cell refuses to assign one culprit before full technical/authority review. proposes a joint-responsibility live test/repair mission where consequences and domain stops remain visible … [source continues]] → DELTA[cell refuses to assign one culprit before full technical/authority review. proposes a joint-responsibility live test/repair mission where consequences and domain stops remain visible … [source continues]] → COST[no certified full repair unless terms change. Doran medicine suspension notice activates.] → NEXT[Haren receives the first list of people whose treatment/status will stop. the list shows eleven accounts with grades and no visible names … [source continues]]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian.
@@ -555,7 +555,7 @@ accept White Dock deployment as the deciding evaluation.
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 20.1 — Closed-set briefing] POV: Rian. Test choices presented: 1 … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[accept White Dock deployment as the deciding evaluation.] → DELTA[accept White Dock deployment as the deciding evaluation.] → COST[Rian loses exclusive bargaining advantage and trust is tested.] → NEXT[Ern’s craft or signature is already inside the declared secure zone, acting on a separate objective.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 20.1 — Closed-set briefing] POV: Rian. Test choices presented: 1 … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[accept White Dock deployment as the deciding evaluation.] → DELTA[accept White Dock deployment as the deciding evaluation.] → COST[Rian loses exclusive bargaining advantage and trust is tested.] → NEXT[Ern’s craft or signature is already inside the declared secure zone, acting on a separate objective.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian.
@@ -729,7 +729,7 @@ Nera, Serin and a White Dock worker team approach WD-C through a maintenance/pre
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 23.1 — One hundred forty-seven] POV: Rian through damaged sensor/voice channels. State: WD-B/C/E separated … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Nera, Serin and a White Dock worker team approach WD-C through a maintenance/pressure route. full-size 07 cannot enter.] → DELTA[most trapped people now have a route; authenticated evidence is distributed.] → COST[one death, exposed service authority and incomplete data.] → NEXT[radical denial timer/physical charge is discovered in a zone that cannot be cleared before 07’s thermal limit expires.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 23.1 — One hundred forty-seven] POV: Rian through damaged sensor/voice channels. State: WD-B/C/E separated … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Nera, Serin and a White Dock worker team approach WD-C through a maintenance/pressure route. full-size 07 cannot enter.] → DELTA[most trapped people now have a route; authenticated evidence is distributed.] → COST[one death, exposed service authority and incomplete data.] → NEXT[radical denial timer/physical charge is discovered in a zone that cannot be cleared before 07’s thermal limit expires.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian through damaged sensor/voice channels.
@@ -749,7 +749,7 @@ radical denial timer/physical charge is discovered in a zone that cannot be clea
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 23.1 — One hundred forty-seven] POV: Rian through damaged sensor/voice channels. State: WD-B/C/E separated. worker habitat clinic receiving casualties … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 23.1 — One hundred forty-seven] POV: Rian through damaged sensor/voice channels. State: WD-B/C/E separated. worker habitat clinic receiving casualties … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -787,7 +787,7 @@ Rian marks/blocks Security’s firing line, making himself liable for collusion.
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 24.1 — Denial path] POV: Rian. Problem: radical denial can trigger pressure/fire/data destruction across WD-C and WD-E … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Rian marks/blocks Security’s firing line, making himself liable for collusion.] → DELTA[radical cell fails to destroy the entire archive. Ern escapes with a bounded partial record set, not the target’s complete destination … [source continues]] → COST[Ern’s remaining operative/support route is exposed; one operative is critically injured/captured or left behind.] → NEXT[while Rian is removed from the cockpit, four institutions issue incompatible claims on his body, the core and the surviving evidence.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 24.1 — Denial path] POV: Rian. Problem: radical denial can trigger pressure/fire/data destruction across WD-C and WD-E … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Rian marks/blocks Security’s firing line, making himself liable for collusion.] → DELTA[radical cell fails to destroy the entire archive. Ern escapes with a bounded partial record set, not the target’s complete destination … [source continues]] → COST[Ern’s remaining operative/support route is exposed; one operative is critically injured/captured or left behind.] → NEXT[while Rian is removed from the cockpit, four institutions issue incompatible claims on his body, the core and the surviving evidence.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian.
@@ -807,7 +807,7 @@ while Rian is removed from the cockpit, four institutions issue incompatible cla
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 24.1 — Denial path] POV: Rian. Problem: radical denial can trigger pressure/fire/data destruction across WD-C and WD-E … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 24.1 — Denial path] POV: Rian. Problem: radical denial can trigger pressure/fire/data destruction across WD-C and WD-E … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -865,7 +865,7 @@ Academy accepts the return terms but adds that the hearing will examine whether 
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 25.1 — Rian without the frame] POV: Rian on Neutral medical deck. Body state: tremor, nausea, muscular injury, sensory afterimage and incomplete memory of final minutes … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 25.1 — Rian without the frame] POV: Rian on Neutral medical deck. Body state: tremor, nausea, muscular injury, sensory afterimage and incomplete memory of final minutes … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -1097,7 +1097,7 @@ the guarantee requires credits, adult sponsorship, medical continuity and a dest
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 29.1 — Detention visit] POV: Rian. Access: short monitored meeting granted through inquiry/medical request. Rian goal: obtain Juno’s permission to challenge the confession … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 29.1 — Detention visit] POV: Rian. Access: short monitored meeting granted through inquiry/medical request. Rian goal: obtain Juno’s permission to challenge the confession … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -1135,7 +1135,7 @@ ordinary students/workers contribute, refuse or attach conditions. one student a
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 30.1 — The actual guarantee list] POV: Rian, with Haren leading. Required package: temporary legal bond/appeal cost … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[ordinary students/workers contribute, refuse or attach conditions. one student asks whether the fund would protect someone accused against Rian too.] → DELTA[first noncombat student institutional resource.] → COST[contributors lose credits and become visible to authorities.] → NEXT[the necessary proof requires Serin to submit the audit trail that also documents her own reporting complicity and restricted D-001/Doran links.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 30.1 — The actual guarantee list] POV: Rian, with Haren leading. Required package: temporary legal bond/appeal cost … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[ordinary students/workers contribute, refuse or attach conditions. one student asks whether the fund would protect someone accused against Rian too.] → DELTA[first noncombat student institutional resource.] → COST[contributors lose credits and become visible to authorities.] → NEXT[the necessary proof requires Serin to submit the audit trail that also documents her own reporting complicity and restricted D-001/Doran links.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian, with Haren leading.
@@ -1193,7 +1193,7 @@ feels betrayed that Serin previously fed the system information. recognizes he a
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 31.1 — Three subscribers] POV: Rian with Serin leading the audit presentation … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[feels betrayed that Serin previously fed the system information. recognizes he also withheld future information and attempted to centralize the story.] → DELTA[Juno’s sole guilt undermined and data-sale system exposed.] → COST[Serin’s complicity public, credentials restricted, transfer accelerated.] → NEXT[transfer transport is scheduled from Dock D at the next shift.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 31.1 — Three subscribers] POV: Rian with Serin leading the audit presentation … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[feels betrayed that Serin previously fed the system information. recognizes he also withheld future information and attempted to centralize the story.] → DELTA[Juno’s sole guilt undermined and data-sale system exposed.] → COST[Serin’s complicity public, credentials restricted, transfer accelerated.] → NEXT[transfer transport is scheduled from Dock D at the next shift.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian with Serin leading the audit presentation.
@@ -1251,7 +1251,7 @@ Nera refuses unsafe/illegal equipment use. Haren says physical escape voids guar
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 32.1 — Dock D transfer state] POV: Rian. Physical setup: Juno and several transfer cases are loaded toward a contracted … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Nera refuses unsafe/illegal equipment use. Haren says physical escape voids guarantees. Serin tracks the exact manifest and authority window … [source continues]] → DELTA[Juno survives with choice; student mutual fund becomes real.] → COST[Juno leaves, Kara endangered, collective debt and components moving.] → NEXT[Nera receives a notice that the radiator will be dismantled/recertified within forty-eight hours.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 32.1 — Dock D transfer state] POV: Rian. Physical setup: Juno and several transfer cases are loaded toward a contracted … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Nera refuses unsafe/illegal equipment use. Haren says physical escape voids guarantees. Serin tracks the exact manifest and authority window … [source continues]] → DELTA[Juno survives with choice; student mutual fund becomes real.] → COST[Juno leaves, Kara endangered, collective debt and components moving.] → NEXT[Nera receives a notice that the radiator will be dismantled/recertified within forty-eight hours.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian.
@@ -1309,7 +1309,7 @@ Juno leaves active Academy-cell status for the Neutral-supervised technical/educ
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 33.1 — Juno’s departure] POV: Rian. Action: Juno leaves active Academy-cell status for the Neutral-supervised technical/ … [source continues]] → OBSTACLE[Rian prioritizes core because without it the frame is not operable. Nera says a core without cooling, tools and maintainable controls is only an expensive hostage … [source continues]] → PIVOT[Juno leaves active Academy-cell status for the Neutral-supervised technical/education placement. Juno’s cellmates retain limited guarantees under the mutual-fund package.] → DELTA[Juno remains alive, visible and autonomous.] → COST[Rian loses a capable rival/supporting leader from the Academy front.] → NEXT[one auction transport route passes through an old external truss with weak jurisdiction/sensor coverage. Rian identifies it as a theft opportunity.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 33.1 — Juno’s departure] POV: Rian. Action: Juno leaves active Academy-cell status for the Neutral-supervised technical/ … [source continues]] → OBSTACLE[Rian prioritizes core because without it the frame is not operable. Nera says a core without cooling, tools and maintainable controls is only an expensive hostage … [source continues]] → PIVOT[Juno leaves active Academy-cell status for the Neutral-supervised technical/education placement. Juno’s cellmates retain limited guarantees under the mutual-fund package.] → DELTA[Juno remains alive, visible and autonomous.] → COST[Rian loses a capable rival/supporting leader from the Academy front.] → NEXT[one auction transport route passes through an old external truss with weak jurisdiction/sensor coverage. Rian identifies it as a theft opportunity.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian.
@@ -1329,7 +1329,7 @@ one auction transport route passes through an old external truss with weak juris
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 33.1 — Juno’s departure] POV: Rian. Action: Juno leaves active Academy-cell status for the Neutral-supervised technical/education placement … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 33.1 — Juno’s departure] POV: Rian. Action: Juno leaves active Academy-cell status for the Neutral-supervised technical/education placement … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -1367,7 +1367,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 34.1 — Public inspection platform] POV: Rian at Ring A sponsor/claims inspection … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: labor claims and technical truth.] → DELTA[labor claims and technical truth.] → COST[credible Helix debt choice; core remains inaccessible.] → NEXT[auction schedule combines several parts into a single external transfer window, increasing sabotage/theft risk.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 34.1 — Public inspection platform] POV: Rian at Ring A sponsor/claims inspection … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: labor claims and technical truth.] → DELTA[labor claims and technical truth.] → COST[credible Helix debt choice; core remains inaccessible.] → NEXT[auction schedule combines several parts into a single external transfer window, increasing sabotage/theft risk.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian at Ring A sponsor/claims inspection.
@@ -1425,7 +1425,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 35.1 — Rian’s theft proposal] POV: Rian in Ring C workshop/mission planning … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: acquisition plan and chosen sacrifice.] → DELTA[acquisition plan and chosen sacrifice.] → COST[debt/inspection accepted in principle; manifold abandoned.] → NEXT[the transfer tug leaves early with workers still attached to one maintenance pallet.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 35.1 — Rian’s theft proposal] POV: Rian in Ring C workshop/mission planning … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: acquisition plan and chosen sacrifice.] → DELTA[acquisition plan and chosen sacrifice.] → COST[debt/inspection accepted in principle; manifold abandoned.] → NEXT[the transfer tug leaves early with workers still attached to one maintenance pallet.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian in Ring C workshop/mission planning.
@@ -1483,7 +1483,7 @@ Rian uses precise relative-motion timing, tether angles and minimal thrust to re
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 36.1 — Old Yard transfer] POV: Rian in a low-interface Academy utility frame … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Rian uses precise relative-motion timing, tether angles and minimal thrust to redirect the worker tug and catch/soften the radiator pallet. he does not perform future-machine acceleration beyond current utility limits … [source continues]] → DELTA[worker tug and radiator preserved; Rian ace skill expressed through rescue mechanics.] → COST[manifold enters another bidder’s custody/trajectory. Rian reaches medical/physical stop and cannot pursue.] → NEXT[the manifold is legally captured by another bidder, while the saved radiator now carries a larger repair/liability bill.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 36.1 — Old Yard transfer] POV: Rian in a low-interface Academy utility frame … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Rian uses precise relative-motion timing, tether angles and minimal thrust to redirect the worker tug and catch/soften the radiator pallet. he does not perform future-machine acceleration beyond current utility limits … [source continues]] → DELTA[worker tug and radiator preserved; Rian ace skill expressed through rescue mechanics.] → COST[manifold enters another bidder’s custody/trajectory. Rian reaches medical/physical stop and cannot pursue.] → NEXT[the manifold is legally captured by another bidder, while the saved radiator now carries a larger repair/liability bill.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian in a low-interface Academy utility frame.
@@ -1541,7 +1541,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 37.1 — Incident review, not victory parade] POV: Rian recovering from utility operation … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: the team gains use, not clean ownership.] → DELTA[the team gains use, not clean ownership.] → COST[debt, inspection, shared title and permanent heat limit.] → NEXT[final reconstruction schedule awaits only the core, which officials say is already in the Imperial vault.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 37.1 — Incident review, not victory parade] POV: Rian recovering from utility operation … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: the team gains use, not clean ownership.] → DELTA[the team gains use, not clean ownership.] → COST[debt, inspection, shared title and permanent heat limit.] → NEXT[final reconstruction schedule awaits only the core, which officials say is already in the Imperial vault.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian recovering from utility operation.
@@ -1599,7 +1599,7 @@ Serin obtains a narrow physical-vault confirmation through the existing case sco
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 38.1 — Reconstruction without a heart] POV: Rian at Dock D/Academy workshop … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Serin obtains a narrow physical-vault confirmation through the existing case scope.] → DELTA[three major component/use paths secured.] → COST[no operable frame; core disappearance and Imperial danger.] → NEXT[the core emits or has emitted one obsolete continuity/protocol response from a location outside the declared vault.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 38.1 — Reconstruction without a heart] POV: Rian at Dock D/Academy workshop … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Serin obtains a narrow physical-vault confirmation through the existing case scope.] → DELTA[three major component/use paths secured.] → COST[no operable frame; core disappearance and Imperial danger.] → NEXT[the core emits or has emitted one obsolete continuity/protocol response from a location outside the declared vault.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian at Dock D/Academy workshop.
@@ -1657,7 +1657,7 @@ Rian receives a controlled message through medical/administrative channels. invi
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 39.1 — Empty vault chain] POV: Rian with Serin leading a narrow inquiry. Evidence chain: Neutral handoff record … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Rian receives a controlled message through medical/administrative channels. invitation offers proof and core access if he attends alone.] → DELTA[physical diversion narrowed.] → COST[classified witness relocation and exclusive contact.] → NEXT[message contains a core response phrase only Rian/07 service interactions should have produced.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 39.1 — Empty vault chain] POV: Rian with Serin leading a narrow inquiry. Evidence chain: Neutral handoff record … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Rian receives a controlled message through medical/administrative channels. invitation offers proof and core access if he attends alone.] → DELTA[physical diversion narrowed.] → COST[classified witness relocation and exclusive contact.] → NEXT[message contains a core response phrase only Rian/07 service interactions should have produced.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian with Serin leading a narrow inquiry.
@@ -1715,7 +1715,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 40.1 — Medical-record cover] POV: Rian. Location: controlled low-gravity medical/records annex or relay evidence room … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: core location, continuity clue and credible Imperial protection.] → DELTA[core location, continuity clue and credible Imperial protection.] → COST[secret-service temptation and classified witness cost.] → NEXT[Rian returns carrying an advantage he has not yet disclosed to the team.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 40.1 — Medical-record cover] POV: Rian. Location: controlled low-gravity medical/records annex or relay evidence room … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: core location, continuity clue and credible Imperial protection.] → DELTA[core location, continuity clue and credible Imperial protection.] → COST[secret-service temptation and classified witness cost.] → NEXT[Rian returns carrying an advantage he has not yet disclosed to the team.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian.
@@ -1773,7 +1773,7 @@ reject exclusive service. do not immediately expose the observer/core location. 
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 41.1 — Rian’s private plan] POV: Rian. Plan: accept limited secret service long enough to recover the core and classifie … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[reject exclusive service. do not immediately expose the observer/core location. design a time-limited joint custody that gives each claimant a bounded real benefit.] → DELTA[no simple unanimous moral rejection.] → COST[slower path and observer distrust.] → NEXT[Academy reformers offer nominal collective ownership but cannot protect the core from Imperial/Helix seizure without external parties.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 41.1 — Rian’s private plan] POV: Rian. Plan: accept limited secret service long enough to recover the core and classifie … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[reject exclusive service. do not immediately expose the observer/core location. design a time-limited joint custody that gives each claimant a bounded real benefit.] → DELTA[no simple unanimous moral rejection.] → COST[slower path and observer distrust.] → NEXT[Academy reformers offer nominal collective ownership but cannot protect the core from Imperial/Helix seizure without external parties.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian.
@@ -1831,7 +1831,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 42.1 — Requirements before ownership] POV: Rian in planning/negotiation preparation … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: concrete custody architecture.] → DELTA[concrete custody architecture.] → COST[personal liability and slow response.] → NEXT[the observer agrees to a physical transfer meeting only if Rian personally signs responsibility for unauthorized future use.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 42.1 — Requirements before ownership] POV: Rian in planning/negotiation preparation … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: concrete custody architecture.] → DELTA[concrete custody architecture.] → COST[personal liability and slow response.] → NEXT[the observer agrees to a physical transfer meeting only if Rian personally signs responsibility for unauthorized future use.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian in planning/negotiation preparation.
@@ -1851,7 +1851,7 @@ the observer agrees to a physical transfer meeting only if Rian personally signs
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 42.1 — Requirements before ownership] POV: Rian in planning/negotiation preparation. Required functions: physical security/storage. activation/legacy authorization … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 42.1 — Requirements before ownership] POV: Rian in planning/negotiation preparation. Required functions: physical security/storage. activation/legacy authorization … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -1889,7 +1889,7 @@ relocated witness/subject is not returned simply because the core is.
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 43.1 — Multi-party transfer] POV: Rian. Location: secured Academy/relay evidence transfer chamber leading to Dock D … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[relocated witness/subject is not returned simply because the core is.] → DELTA[core physically available and Authority A/B clue.] → COST[liability, surveillance, unresolved witness and multi-lock dependency.] → NEXT[first activation attempt reveals one component/control mismatch from the abandoned certified manifold.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 43.1 — Multi-party transfer] POV: Rian. Location: secured Academy/relay evidence transfer chamber leading to Dock D … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[relocated witness/subject is not returned simply because the core is.] → DELTA[core physically available and Authority A/B clue.] → COST[liability, surveillance, unresolved witness and multi-lock dependency.] → NEXT[first activation attempt reveals one component/control mismatch from the abandoned certified manifold.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian.
@@ -1947,7 +1947,7 @@ other cells see special treatment, myth and new rules benefiting Rian’s team.
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 44.1 — Assembly roles] POV: Rian observing/assisting, not commanding the workshop … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[other cells see special treatment, myth and new rules benefiting Rian’s team.] → DELTA[frame becomes maintainable/operable.] → COST[permanent heat/performance limit and visible compromise.] → NEXT[rumor spreads that refusing official choices and causing a crisis is the route to better equipment/rights.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 44.1 — Assembly roles] POV: Rian observing/assisting, not commanding the workshop … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[other cells see special treatment, myth and new rules benefiting Rian’s team.] → DELTA[frame becomes maintainable/operable.] → COST[permanent heat/performance limit and visible compromise.] → NEXT[rumor spreads that refusing official choices and causing a crisis is the route to better equipment/rights.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian observing/assisting, not commanding the workshop.
@@ -1967,7 +1967,7 @@ rumor spreads that refusing official choices and causing a crisis is the route t
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 44.1 — Assembly roles] POV: Rian observing/assisting, not commanding the workshop. Work: core installed under joint seal. radiator repaired/patched under Helix procedure … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 44.1 — Assembly roles] POV: Rian observing/assisting, not commanding the workshop. Work: core installed under joint seal. radiator repaired/patched under Helix procedure … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -2005,7 +2005,7 @@ use narrow preauthorized emergency envelope now. or wait for full authorization 
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 45.1 — Conditional activation] POV: Rian in 07. State: 50–60% stable mixed-use envelope … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[use narrow preauthorized emergency envelope now. or wait for full authorization and risk target.] → DELTA[07 performs precise ace-level movement and rescue without hidden power increase. slower framework nearly causes a loss, making its downside real.] → COST[imitation harm, public-symbol burden and Act C/Black Ward exposure.] → NEXT[an injured student’s neural record contains treatment/protocol traces absent from public Academy medicine.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 45.1 — Conditional activation] POV: Rian in 07. State: 50–60% stable mixed-use envelope … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[use narrow preauthorized emergency envelope now. or wait for full authorization and risk target.] → DELTA[07 performs precise ace-level movement and rescue without hidden power increase. slower framework nearly causes a loss, making its downside real.] → COST[imitation harm, public-symbol burden and Act C/Black Ward exposure.] → NEXT[an injured student’s neural record contains treatment/protocol traces absent from public Academy medicine.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian in 07.
@@ -2063,7 +2063,7 @@ recognizes his rhetoric/results in the method but not the actual plan. proposes 
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 46.1 — A copied phrase, not a copied plan] POV: Rian outside B5 under lockdown … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[recognizes his rhetoric/results in the method but not the actual plan. proposes a rapid entry using 07 or utility-frame access before Security escalates.] → DELTA[real motive, current-person count and hidden medical lead.] → COST[lockdown, critical patient and Rian’s public method implicated.] → NEXT[the hidden response carries a Black Ward treatment identifier unavailable in public Academy medicine.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 46.1 — A copied phrase, not a copied plan] POV: Rian outside B5 under lockdown … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[recognizes his rhetoric/results in the method but not the actual plan. proposes a rapid entry using 07 or utility-frame access before Security escalates.] → DELTA[real motive, current-person count and hidden medical lead.] → COST[lockdown, critical patient and Rian’s public method implicated.] → NEXT[the hidden response carries a Black Ward treatment identifier unavailable in public Academy medicine.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian outside B5 under lockdown.
@@ -2083,7 +2083,7 @@ the hidden response carries a Black Ward treatment identifier unavailable in pub
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 46.1 — A copied phrase, not a copied plan] POV: Rian outside B5 under lockdown. Information: C-9 broadcasts official transfer criteria and its own demand … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 46.1 — A copied phrase, not a copied plan] POV: Rian outside B5 under lockdown. Information: C-9 broadcasts official transfer criteria and its own demand … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -2121,7 +2121,7 @@ participant panics/forces restraint or console movement. instructor/technician s
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 47.1 — Who agreed to what] POV: Rian through partial audio/data … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[participant panics/forces restraint or console movement. instructor/technician sustains severe head/neck injury. Kiro receives hand/nerve burns while disconnecting the adapter … [source continues]] → DELTA[some occupants begin exiting; C-9 agency remains visible.] → COST[severe injuries and Black Ward custody threat.] → NEXT[Leta’s condition now requires a stabilization protocol no public clinic can access, and Academy Research requests immediate sealed transfer.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 47.1 — Who agreed to what] POV: Rian through partial audio/data … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[participant panics/forces restraint or console movement. instructor/technician sustains severe head/neck injury. Kiro receives hand/nerve burns while disconnecting the adapter … [source continues]] → DELTA[some occupants begin exiting; C-9 agency remains visible.] → COST[severe injuries and Black Ward custody threat.] → NEXT[Leta’s condition now requires a stabilization protocol no public clinic can access, and Academy Research requests immediate sealed transfer.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian through partial audio/data.
@@ -2141,7 +2141,7 @@ Leta’s condition now requires a stabilization protocol no public clinic can ac
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 47.1 — Who agreed to what] POV: Rian through partial audio/data. C-9 internal states: six C-9 members agreed to occupy/control the hall … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 47.1 — Who agreed to what] POV: Rian through partial audio/data. C-9 internal states: six C-9 members agreed to occupy/control the hall … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -2179,7 +2179,7 @@ Mia and licensed staff triage Leta, instructor, Kiro, Aven and others. Rian want
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 48.1 — Casualty corridor] POV: Rian outside the clinic/B5 transfer route … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Mia and licensed staff triage Leta, instructor, Kiro, Aven and others. Rian wants to use 07/service interface to open a medical route or chase whoever supplied the design.] → DELTA[failure chain and institutional data leakage.] → COST[open work frozen, Leta’s autonomy threatened.] → NEXT[no ordinary clinician can answer because the relevant file is sealed from them.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 48.1 — Casualty corridor] POV: Rian outside the clinic/B5 transfer route … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Mia and licensed staff triage Leta, instructor, Kiro, Aven and others. Rian wants to use 07/service interface to open a medical route or chase whoever supplied the design.] → DELTA[failure chain and institutional data leakage.] → COST[open work frozen, Leta’s autonomy threatened.] → NEXT[no ordinary clinician can answer because the relevant file is sealed from them.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian outside the clinic/B5 transfer route.
@@ -2237,7 +2237,7 @@ Leta is moved under sealed medical transfer before ordinary staff/friends can co
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 49.1 — Academy after the lockdown] POV: Rian moving through restricted Ring B with escort … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Leta is moved under sealed medical transfer before ordinary staff/friends can confirm destination.] → DELTA[collective-punishment case framed accurately.] → COST[broader lockdown and another administrative disappearance.] → NEXT[Leta is now listed as “continued treatment,” but her name vanishes from the public patient roster.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 49.1 — Academy after the lockdown] POV: Rian moving through restricted Ring B with escort … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Leta is moved under sealed medical transfer before ordinary staff/friends can confirm destination.] → DELTA[collective-punishment case framed accurately.] → COST[broader lockdown and another administrative disappearance.] → NEXT[Leta is now listed as “continued treatment,” but her name vanishes from the public patient roster.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian moving through restricted Ring B with escort.
@@ -2257,7 +2257,7 @@ Leta is now listed as “continued treatment,” but her name vanishes from the 
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 49.1 — Academy after the lockdown] POV: Rian moving through restricted Ring B with escort. Visible effects: workshops closed. student communication limits … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 49.1 — Academy after the lockdown] POV: Rian moving through restricted Ring B with escort. Visible effects: workshops closed. student communication limits … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -2295,7 +2295,7 @@ says Rian is right about the missing conditions and late about unequal access.
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 50.1 — What students think happened] POV: Rian before a limited student/staff broadcast/hearing … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[says Rian is right about the missing conditions and late about unequal access.] → DELTA[myth weakened and medical inquiry path.] → COST[popularity, Security leverage and restricted terms.] → NEXT[the consult destination is the Black Ward, whose access list includes names recorded as dead or transferred.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 50.1 — What students think happened] POV: Rian before a limited student/staff broadcast/hearing … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[says Rian is right about the missing conditions and late about unequal access.] → DELTA[myth weakened and medical inquiry path.] → COST[popularity, Security leverage and restricted terms.] → NEXT[the consult destination is the Black Ward, whose access list includes names recorded as dead or transferred.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian before a limited student/staff broadcast/hearing.
@@ -2353,7 +2353,7 @@ Mia, a licensed clinician/observer, and limited team roles approach BW-A transfe
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 51.1 — Medical record comparison] POV: Rian observing Mia/Serin under bounded authorization … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Mia, a licensed clinician/observer, and limited team roles approach BW-A transfer. Rian sees the black isolation mark and a patient transfer list containing administratively closed identifiers.] → DELTA[Black Ward access and clinical truth.] → COST[strict terms, treatment dependency and protected identities exposed to the team.] → NEXT[one protected patient identifier matches Orvan Sei’s closed record chain.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 51.1 — Medical record comparison] POV: Rian observing Mia/Serin under bounded authorization … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Mia, a licensed clinician/observer, and limited team roles approach BW-A transfer. Rian sees the black isolation mark and a patient transfer list containing administratively closed identifiers.] → DELTA[Black Ward access and clinical truth.] → COST[strict terms, treatment dependency and protected identities exposed to the team.] → NEXT[one protected patient identifier matches Orvan Sei’s closed record chain.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian observing Mia/Serin under bounded authorization.
@@ -2411,7 +2411,7 @@ stays temporarily and permits only compatibility/current-treatment information.
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 52.1 — Transfer through BW-A] POV: Rian. Physical process: identity/access check, decontamination, low-gravity transfer … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[stays temporarily and permits only compatibility/current-treatment information.] → DELTA[real patient access and Leta’s current consent.] → COST[limited data and moral/operational dependency.] → NEXT[a maintenance/medical supply alert shows some patients cannot survive a rapid Ward closure or mass transfer.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 52.1 — Transfer through BW-A] POV: Rian. Physical process: identity/access check, decontamination, low-gravity transfer … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[stays temporarily and permits only compatibility/current-treatment information.] → DELTA[real patient access and Leta’s current consent.] → COST[limited data and moral/operational dependency.] → NEXT[a maintenance/medical supply alert shows some patients cannot survive a rapid Ward closure or mass transfer.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian.
@@ -2469,7 +2469,7 @@ Amel trains controlled movement and complains about equipment scheduling. Soma n
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 53.1 — Rehabilitation shift] POV: Rian observing approved shared spaces … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Amel trains controlled movement and complains about equipment scheduling. Soma negotiates work/education access under a current identity. another patient refuses a research session to attend a message/family window … [source continues]] → DELTA[genuine care and Orvan lead.] → COST[treatment access tied to data sessions, sentence/contract or closed identity.] → NEXT[the person linked to the mark is alive in the protected wing but may not want Haren informed or admitted.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 53.1 — Rehabilitation shift] POV: Rian observing approved shared spaces … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Amel trains controlled movement and complains about equipment scheduling. Soma negotiates work/education access under a current identity. another patient refuses a research session to attend a message/family window … [source continues]] → DELTA[genuine care and Orvan lead.] → COST[treatment access tied to data sessions, sentence/contract or closed identity.] → NEXT[the person linked to the mark is alive in the protected wing but may not want Haren informed or admitted.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian observing approved shared spaces.
@@ -2489,7 +2489,7 @@ the person linked to the mark is alive in the protected wing but may not want Ha
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 53.1 — Rehabilitation shift] POV: Rian observing approved shared spaces. Ordinary actions: Amel trains controlled movement and complains about equipment scheduling … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 53.1 — Rehabilitation shift] POV: Rian observing approved shared spaces. Ordinary actions: Amel trains controlled movement and complains about equipment scheduling … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -2527,7 +2527,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 54.1 — The dependency map] POV: Rian in a bounded review meeting, but Mia leads … [source continues]] → OBSTACLE[he wants to preserve people from future loss. patients may not want heroic/military restoration.] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: treatment/research/identity architecture.] → DELTA[treatment/research/identity architecture.] → COST[no clean shutdown and increased strategic interest.] → NEXT[one listed program uses the same obsolete continuity phrase/authority family as 07.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 54.1 — The dependency map] POV: Rian in a bounded review meeting, but Mia leads … [source continues]] → OBSTACLE[he wants to preserve people from future loss. patients may not want heroic/military restoration.] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: treatment/research/identity architecture.] → DELTA[treatment/research/identity architecture.] → COST[no clean shutdown and increased strategic interest.] → NEXT[one listed program uses the same obsolete continuity phrase/authority family as 07.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian in a bounded review meeting, but Mia leads.
@@ -2643,7 +2643,7 @@ limited bench/test development only, no patient use yet.
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 56.1 — Patient meeting terms] POV: Rian attending as one role among many … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[limited bench/test development only, no patient use yet.] → DELTA[limited bench/test development only, no patient use yet.] → COST[slower, fragmented access and institutional conflict.] → NEXT[ORA-3 requests the 07 core’s service identity before it will answer the first question.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 56.1 — Patient meeting terms] POV: Rian attending as one role among many … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[limited bench/test development only, no patient use yet.] → DELTA[limited bench/test development only, no patient use yet.] → COST[slower, fragmented access and institutional conflict.] → NEXT[ORA-3 requests the 07 core’s service identity before it will answer the first question.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian attending as one role among many.
@@ -2663,7 +2663,7 @@ ORA-3 requests the 07 core’s service identity before it will answer the first 
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 56.1 — Patient meeting terms] POV: Rian attending as one role among many. Patient group led informally by Amel: no full list/public broadcast … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 56.1 — Patient meeting terms] POV: Rian attending as one role among many. Patient group led informally by Amel: no full list/public broadcast … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -2701,7 +2701,7 @@ Imperial observer/Research/Helix all become more interested. patient representat
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 57.1 — Orvan’s meeting] POV: Rian close third, but Haren leads the interaction … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Imperial observer/Research/Helix all become more interested. patient representatives threaten to cancel if the session becomes a seizure.] → DELTA[Orvan/Soma current agency and defined question scope.] → COST[increased external attention and Haren’s failed reunion expectation.] → NEXT[the ORA-3 interface opens and addresses 07 as an emergency-service authority, not a weapon.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 57.1 — Orvan’s meeting] POV: Rian close third, but Haren leads the interaction … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Imperial observer/Research/Helix all become more interested. patient representatives threaten to cancel if the session becomes a seizure.] → DELTA[Orvan/Soma current agency and defined question scope.] → COST[increased external attention and Haren’s failed reunion expectation.] → NEXT[the ORA-3 interface opens and addresses 07 as an emergency-service authority, not a weapon.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian close third, but Haren leads the interaction.
@@ -2721,7 +2721,7 @@ the ORA-3 interface opens and addresses 07 as an emergency-service authority, no
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 57.1 — Orvan’s meeting] POV: Rian close third, but Haren leads the interaction. Orvan: physically alive, medically dependent and using a current protected identity/status … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 57.1 — Orvan’s meeting] POV: Rian close third, but Haren leads the interaction. Orvan: physically alive, medically dependent and using a current protected identity/status … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -2759,7 +2759,7 @@ refuses automatic registration/export pending patient consent and source review.
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 58.1 — Interface conditions] POV: Rian in controlled medical/data room. Participants: patient representatives … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[refuses automatic registration/export pending patient consent and source review.] → DELTA[ORA-3, protocol link and Leta incident answer.] → COST[incomplete records, data refusal and greater external interest.] → NEXT[ORA-3 states one requested person is “clinically present, legally deceased, disclosure not authorized.”]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 58.1 — Interface conditions] POV: Rian in controlled medical/data room. Participants: patient representatives … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[refuses automatic registration/export pending patient consent and source review.] → DELTA[ORA-3, protocol link and Leta incident answer.] → COST[incomplete records, data refusal and greater external interest.] → NEXT[ORA-3 states one requested person is “clinically present, legally deceased, disclosure not authorized.”]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian in controlled medical/data room.
@@ -2779,7 +2779,7 @@ ORA-3 states one requested person is “clinically present, legally deceased, di
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 58.1 — Interface conditions] POV: Rian in controlled medical/data room. Participants: patient representatives. clinician/research staff. Serin/Nera/Mia/Haren/Rian under roles … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 58.1 — Interface conditions] POV: Rian in controlled medical/data room. Participants: patient representatives. clinician/research staff. Serin/Nera/Mia/Haren/Rian under roles … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -2817,7 +2817,7 @@ cannot answer “remember” as a person. identifies available source types: cli
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 59.1 — Rian asks the wrong question] POV: Rian. Question: asks ORA-3 what happened to a future-dead/hero-linked person o … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[cannot answer “remember” as a person. identifies available source types: clinical event, imported record, patient statement, inferred continuity pointer. permission for the requested identity/source is absent.] → DELTA[proof of process, not complete names/destinations.] → COST[incomplete target list and outside conflict.] → NEXT[one transfer pointer overlaps Sian Tor’s missing-person chain and Orvan’s closed status.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 59.1 — Rian asks the wrong question] POV: Rian. Question: asks ORA-3 what happened to a future-dead/hero-linked person o … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[cannot answer “remember” as a person. identifies available source types: clinical event, imported record, patient statement, inferred continuity pointer. permission for the requested identity/source is absent.] → DELTA[proof of process, not complete names/destinations.] → COST[incomplete target list and outside conflict.] → NEXT[one transfer pointer overlaps Sian Tor’s missing-person chain and Orvan’s closed status.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian.
@@ -2875,7 +2875,7 @@ release/process-proof and aggregate/current harm through witnessed channels. kee
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 60.1 — The leak opportunity] POV: Rian with Serin. Situation: enough process evidence exists to make a public accusation … [source continues]] → OBSTACLE[family harm is real; refusing disclosure also perpetuates disappearance. No universal rule solves all cases.] → PIVOT[release/process-proof and aggregate/current harm through witnessed channels. keep person-level keys in consent-limited custody. create correction/appeal requests rather than full dump.] → DELTA[release/process-proof and aggregate/current harm through witnessed channels. keep person-level keys in consent-limited custody. create correction/appeal requests rather than full dump.] → COST[the public proof is less dramatic and easier for authorities to minimize.] → NEXT[someone outside the Ward uses the aggregate proof to identify likely protected patients anyway.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 60.1 — The leak opportunity] POV: Rian with Serin. Situation: enough process evidence exists to make a public accusation … [source continues]] → OBSTACLE[family harm is real; refusing disclosure also perpetuates disappearance. No universal rule solves all cases.] → PIVOT[release/process-proof and aggregate/current harm through witnessed channels. keep person-level keys in consent-limited custody. create correction/appeal requests rather than full dump.] → DELTA[release/process-proof and aggregate/current harm through witnessed channels. keep person-level keys in consent-limited custody. create correction/appeal requests rather than full dump.] → COST[the public proof is less dramatic and easier for authorities to minimize.] → NEXT[someone outside the Ward uses the aggregate proof to identify likely protected patients anyway.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian with Serin.
@@ -2895,7 +2895,7 @@ someone outside the Ward uses the aggregate proof to identify likely protected p
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 60.1 — The leak opportunity] POV: Rian with Serin. Situation: enough process evidence exists to make a public accusation … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 60.1 — The leak opportunity] POV: Rian with Serin. Situation: enough process evidence exists to make a public accusation … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -2933,7 +2933,7 @@ patient-authorized local fragment deleted/locked beyond ordinary use. derived sa
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 61.1 — Deletion petition] POV: Rian. Patient request: delete an optional research/neural-behavior fragment after treatme … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[patient-authorized local fragment deleted/locked beyond ordinary use. derived safety minimum retained and external copies challenged/audited. Archive set remains incomplete.] → DELTA[patient-authorized local fragment deleted/locked beyond ordinary use. derived safety minimum retained and external copies challenged/audited. Archive set remains incomplete.] → COST[permanent information loss and conflict with future utility.] → NEXT[ORA-3 reports a separate protected transfer is scheduled before the new consent/oversight rules can apply.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 61.1 — Deletion petition] POV: Rian. Patient request: delete an optional research/neural-behavior fragment after treatme … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[patient-authorized local fragment deleted/locked beyond ordinary use. derived safety minimum retained and external copies challenged/audited. Archive set remains incomplete.] → DELTA[patient-authorized local fragment deleted/locked beyond ordinary use. derived safety minimum retained and external copies challenged/audited. Archive set remains incomplete.] → COST[permanent information loss and conflict with future utility.] → NEXT[ORA-3 reports a separate protected transfer is scheduled before the new consent/oversight rules can apply.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian.
@@ -2953,7 +2953,7 @@ ORA-3 reports a separate protected transfer is scheduled before the new consent/
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 61.1 — Deletion petition] POV: Rian. Patient request: delete an optional research/neural-behavior fragment after treatment use ends … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 61.1 — Deletion petition] POV: Rian. Patient request: delete an optional research/neural-behavior fragment after treatment use ends … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -2991,7 +2991,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 62.1 — Orvan’s disclosed terms] POV: Rian, but Haren owns conversation … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: Orvan alive and relationship redefined.] → DELTA[Orvan alive and relationship redefined.] → COST[no reunion, complex shared record/care dependency.] → NEXT[a scheduled protected transfer would move the bundle/equipment/patients under a single external authority within days.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 62.1 — Orvan’s disclosed terms] POV: Rian, but Haren owns conversation … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: Orvan alive and relationship redefined.] → DELTA[Orvan alive and relationship redefined.] → COST[no reunion, complex shared record/care dependency.] → NEXT[a scheduled protected transfer would move the bundle/equipment/patients under a single external authority within days.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian, but Haren owns conversation.
@@ -3049,7 +3049,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 63.1 — Restoration packages] POV: Rian in a case/medical conference. Options: 1. restore old legal identity fully. 2 … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: identity options clarified.] → DELTA[identity options clarified.] → COST[imminent split/seizure under a medically credible order.] → NEXT[transfer craft/module begins physical preparation at BW-H.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 63.1 — Restoration packages] POV: Rian in a case/medical conference. Options: 1. restore old legal identity fully. 2 … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: identity options clarified.] → DELTA[identity options clarified.] → COST[imminent split/seizure under a medically credible order.] → NEXT[transfer craft/module begins physical preparation at BW-H.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian in a case/medical conference.
@@ -3069,7 +3069,7 @@ transfer craft/module begins physical preparation at BW-H.
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 63.1 — Restoration packages] POV: Rian in a case/medical conference. Options: 1. restore old legal identity fully. 2 … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 63.1 — Restoration packages] POV: Rian in a case/medical conference. Options: 1. restore old legal identity fully. 2 … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -3165,7 +3165,7 @@ supply cabinets sealed/audited. research and comfort loads begin shutting down. 
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 65.1 — Supply eligibility mismatch] POV: Rian with Mia/Haren/Serin … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[supply cabinets sealed/audited. research and comfort loads begin shutting down. patient representatives receive the real compatibility/stock problem.] → DELTA[process proof, Orvan current status and actual supply numbers.] → COST[treatment crisis, locked stock and patient/data/identity conflict.] → NEXT[the first full-protocol allocation list does not prioritize Orvan, despite his importance to Haren/Rian’s evidence and future.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 65.1 — Supply eligibility mismatch] POV: Rian with Mia/Haren/Serin … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[supply cabinets sealed/audited. research and comfort loads begin shutting down. patient representatives receive the real compatibility/stock problem.] → DELTA[process proof, Orvan current status and actual supply numbers.] → COST[treatment crisis, locked stock and patient/data/identity conflict.] → NEXT[the first full-protocol allocation list does not prioritize Orvan, despite his importance to Haren/Rian’s evidence and future.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian with Mia/Haren/Serin.
@@ -3223,7 +3223,7 @@ challenges the list based on Orvan’s risk, history and importance.
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 66.1 — The cabinet count] POV: Rian observing Mia/clinicians/patient representatives … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[challenges the list based on Orvan’s risk, history and importance.] → DELTA[actual crisis options and patient information rights.] → COST[no morally painless allocation; Haren/Mia conflict.] → NEXT[the full cycle is assigned to Leta or another acute patient whose survival could be stabilized now, while Orvan must choose a riskier route.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 66.1 — The cabinet count] POV: Rian observing Mia/clinicians/patient representatives … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[challenges the list based on Orvan’s risk, history and importance.] → DELTA[actual crisis options and patient information rights.] → COST[no morally painless allocation; Haren/Mia conflict.] → NEXT[the full cycle is assigned to Leta or another acute patient whose survival could be stabilized now, while Orvan must choose a riskier route.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian observing Mia/clinicians/patient representatives.
@@ -3281,7 +3281,7 @@ selects the high-risk local adapter or delayed local path because he wants to re
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 67.1 — Orvan’s options] POV: Rian with Haren/Orvan/Mia. Options: high-risk generic adapter with monitored bed … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[selects the high-risk local adapter or delayed local path because he wants to remain with the patient group/equipment/evidence through the immediate transition … [source continues]] → DELTA[real alternative treatment begins.] → COST[serious complication, staff overload and lower projected capacity.] → NEXT[the corridor must open earlier because adapter capacity is lower/slower than planned.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 67.1 — Orvan’s options] POV: Rian with Haren/Orvan/Mia. Options: high-risk generic adapter with monitored bed … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[selects the high-risk local adapter or delayed local path because he wants to remain with the patient group/equipment/evidence through the immediate transition … [source continues]] → DELTA[real alternative treatment begins.] → COST[serious complication, staff overload and lower projected capacity.] → NEXT[the corridor must open earlier because adapter capacity is lower/slower than planned.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian with Haren/Orvan/Mia.
@@ -3301,7 +3301,7 @@ the corridor must open earlier because adapter capacity is lower/slower than pla
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 67.1 — Orvan’s options] POV: Rian with Haren/Orvan/Mia. Options: high-risk generic adapter with monitored bed … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 67.1 — Orvan’s options] POV: Rian with Haren/Orvan/Mia. Options: high-risk generic adapter with monitored bed … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -3339,7 +3339,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 68.1 — Eight high-dependency berths] POV: Rian, with Haren/Mia leading. Candidates exceed eight … [source continues]] → OBSTACLE[one politically/strategically valuable patient is not selected. one Independence-linked or unregistered patient is selected because the clinical case is stronger.] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: first corridor authorized.] → DELTA[first corridor authorized.] → COST[staff/equipment loss, unresolved legal claims and narrowing time.] → NEXT[while loading preparation begins, BW-F coolant/power load falls faster than modeled because research/treatment systems cannot be fully separated.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 68.1 — Eight high-dependency berths] POV: Rian, with Haren/Mia leading. Candidates exceed eight … [source continues]] → OBSTACLE[one politically/strategically valuable patient is not selected. one Independence-linked or unregistered patient is selected because the clinical case is stronger.] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: first corridor authorized.] → DELTA[first corridor authorized.] → COST[staff/equipment loss, unresolved legal claims and narrowing time.] → NEXT[while loading preparation begins, BW-F coolant/power load falls faster than modeled because research/treatment systems cannot be fully separated.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian, with Haren/Mia leading. Candidates exceed eight.
@@ -3359,7 +3359,7 @@ while loading preparation begins, BW-F coolant/power load falls faster than mode
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 68.1 — Eight high-dependency berths] POV: Rian, with Haren/Mia leading. Candidates exceed eight. Criteria: contraindicated/unknown adapter profile … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 68.1 — Eight high-dependency berths] POV: Rian, with Haren/Mia leading. Candidates exceed eight. Criteria: contraindicated/unknown adapter profile … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -3397,7 +3397,7 @@ Rian holds the service line and lets the target escape.
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 69.1 — External service failure] POV: Rian in 07. Problem: BW-F/H temporary cooling/power module or medical launch conne … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Rian holds the service line and lets the target escape.] → DELTA[up to eight high-dependency patients leave under Neutral medical authority. not all family/records/claims resolved. service module survives but 07 radiator/attitude wear worsens.] → COST[escaped target/evidence, 07 wear and no full resolution.] → NEXT[Helix offers immediate remaining stock if local patient council/ORA/adapters are placed under exclusive emergency control before the second launch.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 69.1 — External service failure] POV: Rian in 07. Problem: BW-F/H temporary cooling/power module or medical launch conne … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Rian holds the service line and lets the target escape.] → DELTA[up to eight high-dependency patients leave under Neutral medical authority. not all family/records/claims resolved. service module survives but 07 radiator/attitude wear worsens.] → COST[escaped target/evidence, 07 wear and no full resolution.] → NEXT[Helix offers immediate remaining stock if local patient council/ORA/adapters are placed under exclusive emergency control before the second launch.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian in 07.
@@ -3417,7 +3417,7 @@ Helix offers immediate remaining stock if local patient council/ORA/adapters are
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 69.1 — External service failure] POV: Rian in 07. Problem: BW-F/H temporary cooling/power module or medical launch connection cannot align/hold under current fault/debris/lock c … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 69.1 — External service failure] POV: Rian in 07. Problem: BW-F/H temporary cooling/power module or medical launch connection cannot align/hold under current fault/debris/lock c … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -3455,7 +3455,7 @@ Helix full protocol released for consenting/compatible patients under a bounded 
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 70.1 — Updated numbers] POV: Rian outside cockpit, fatigued … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Helix full protocol released for consenting/compatible patients under a bounded witnessed agreement. local adapter care continues for consenting patients. Neutral second launch proceeds for selected people … [source continues]] → DELTA[Helix full protocol released for consenting/compatible patients under a bounded witnessed agreement. local adapter care continues for consenting patients … [source continues]] → COST[fragmented care standards and higher coordination burden. Helix gains real debt/data/access in its scope.] → NEXT[Security/Research moves to seize or erase the remaining disputed program/data before the temporary oversight becomes permanent.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 70.1 — Updated numbers] POV: Rian outside cockpit, fatigued … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Helix full protocol released for consenting/compatible patients under a bounded witnessed agreement. local adapter care continues for consenting patients. Neutral second launch proceeds for selected people … [source continues]] → DELTA[Helix full protocol released for consenting/compatible patients under a bounded witnessed agreement. local adapter care continues for consenting patients … [source continues]] → COST[fragmented care standards and higher coordination burden. Helix gains real debt/data/access in its scope.] → NEXT[Security/Research moves to seize or erase the remaining disputed program/data before the temporary oversight becomes permanent.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian outside cockpit, fatigued.
@@ -3475,7 +3475,7 @@ Security/Research moves to seize or erase the remaining disputed program/data be
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 70.1 — Updated numbers] POV: Rian outside cockpit, fatigued. After first launch/adapter complication: remaining urgent patients and beds recalculated … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 70.1 — Updated numbers] POV: Rian outside cockpit, fatigued. After first launch/adapter complication: remaining urgent patients and beds recalculated … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -3533,7 +3533,7 @@ Academy Research/Helix/Imperial funding streams are suspended or withdrawn pendi
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 71.1 — Seizure/purge order] POV: Rian coordinating one layer, not all. Order objectives: secure ORA-3/continuity data. transfer protected patients/equipment … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 71.1 — Seizure/purge order] POV: Rian coordinating one layer, not all. Order objectives: secure ORA-3/continuity data. transfer protected patients/equipment … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -3571,7 +3571,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 72.1 — Patient outcomes] POV: Rian observing/participating in review … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: patient voice, treatment continuity and temporary medical oversight.] → DELTA[patient voice, treatment continuity and temporary medical oversight.] → COST[school-wide financial collapse, external intervention and divided population.] → NEXT[official closure/takeover notice gives the Academy approximately 30 days before funding, supply and legal authority fail.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 72.1 — Patient outcomes] POV: Rian observing/participating in review … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: patient voice, treatment continuity and temporary medical oversight.] → DELTA[patient voice, treatment continuity and temporary medical oversight.] → COST[school-wide financial collapse, external intervention and divided population.] → NEXT[official closure/takeover notice gives the Academy approximately 30 days before funding, supply and legal authority fail.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian observing/participating in review.
@@ -3591,7 +3591,7 @@ official closure/takeover notice gives the Academy approximately 30 days before 
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 72.1 — Patient outcomes] POV: Rian observing/participating in review. Locked mixed outcomes: some patients stabilized through Helix full protocol under bounded contracts … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 72.1 — Patient outcomes] POV: Rian observing/participating in review. Locked mixed outcomes: some patients stabilized through Helix full protocol under bounded contracts … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -3629,7 +3629,7 @@ relief from some students who believe school will finally end. panic among patie
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 73.1 — The closure notice] POV: Rian in Ring A/campus broadcast … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[relief from some students who believe school will finally end. panic among patients/staff/families. recruiters/patrons begin moving.] → DELTA[exact closure clock and material stakes.] → COST[outside recruitment starts before collective process.] → NEXT[Academy administration says it needs one package/operator, not a student debate, before payroll and security authority fail.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 73.1 — The closure notice] POV: Rian in Ring A/campus broadcast … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[relief from some students who believe school will finally end. panic among patients/staff/families. recruiters/patrons begin moving.] → DELTA[exact closure clock and material stakes.] → COST[outside recruitment starts before collective process.] → NEXT[Academy administration says it needs one package/operator, not a student debate, before payroll and security authority fail.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian in Ring A/campus broadcast.
@@ -3687,7 +3687,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 74.1 — Darin’s package] POV: Rian visiting/encountering Darin’s squad. Darin: chooses Imperial interest process … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: package preferences embodied in people.] → DELTA[package preferences embodied in people.] → COST[transfer bureaucracy moves faster than reform.] → NEXT[staff/operations begin preparing category-based transfer lists before students have given current preferences.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 74.1 — Darin’s package] POV: Rian visiting/encountering Darin’s squad. Darin: chooses Imperial interest process … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: package preferences embodied in people.] → DELTA[package preferences embodied in people.] → COST[transfer bureaucracy moves faster than reform.] → NEXT[staff/operations begin preparing category-based transfer lists before students have given current preferences.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian visiting/encountering Darin’s squad.
@@ -3707,7 +3707,7 @@ staff/operations begin preparing category-based transfer lists before students h
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 74.1 — Darin’s package] POV: Rian visiting/encountering Darin’s squad. Darin: chooses Imperial interest process … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 74.1 — Darin’s package] POV: Rian visiting/encountering Darin’s squad. Darin: chooses Imperial interest process … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -3745,7 +3745,7 @@ fear of retaliation. closed/missing identity. incapacity. no acceptable package.
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 75.1 — Rian’s assembly proposal] POV: Rian. Proposal: one mass student vote on takeover package … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[fear of retaliation. closed/missing identity. incapacity. no acceptable package. distrust of all organizers.] → DELTA[legitimate but imperfect preference mechanism.] → COST[data vulnerability and loss of Rian control.] → NEXT[someone accesses or leaks a partial preference grouping, allowing targeted recruitment and intimidation.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 75.1 — Rian’s assembly proposal] POV: Rian. Proposal: one mass student vote on takeover package … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[fear of retaliation. closed/missing identity. incapacity. no acceptable package. distrust of all organizers.] → DELTA[legitimate but imperfect preference mechanism.] → COST[data vulnerability and loss of Rian control.] → NEXT[someone accesses or leaks a partial preference grouping, allowing targeted recruitment and intimidation.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian.
@@ -3765,7 +3765,7 @@ someone accesses or leaks a partial preference grouping, allowing targeted recru
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 75.1 — Rian’s assembly proposal] POV: Rian. Proposal: one mass student vote on takeover package. Problems raised: staff/workers/patients also keep the school operating … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 75.1 — Rian’s assembly proposal] POV: Rian. Proposal: one mass student vote on takeover package. Problems raised: staff/workers/patients also keep the school operating … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -3803,7 +3803,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 76.1 — Imperial screening line] Students/staff: medical, skill, family and security assessments … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: lived comparison of packages.] → DELTA[lived comparison of packages.] → COST[choices manipulated and internal plan visibly insolvent.] → NEXT[leaked preference categories trigger family/sponsor pressure and one student changes/withdraws a response.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 76.1 — Imperial screening line] Students/staff: medical, skill, family and security assessments … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: lived comparison of packages.] → DELTA[lived comparison of packages.] → COST[choices manipulated and internal plan visibly insolvent.] → NEXT[leaked preference categories trigger family/sponsor pressure and one student changes/withdraws a response.]
 
 **HUMAN_PRESSURE_CARRIER**  
 writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: lived comparison of packages.); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: lived comparison of packages.] and source cost [choices manipulated and internal plan visibly insolvent.]. Do not create a new named witness merely to supply emotion.
@@ -3823,7 +3823,7 @@ leaked preference categories trigger family/sponsor pressure and one student cha
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 76.1 — Imperial screening line] Students/staff: medical, skill, family and security assessments. some receive citizenship/service pathways … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 76.1 — Imperial screening line] Students/staff: medical, skill, family and security assessments. some receive citizenship/service pathways … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -3861,7 +3861,7 @@ POV/decision-carried current actor(s): Rian at witnessed summary.
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 77.1 — Student result] POV: Rian at witnessed summary. Valid student responses: 1,442 … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[1,442.] → DELTA[real preference map and hybrid mandate.] → COST[factions know exactly whom to recruit/pressure; secret list exposed.] → NEXT[preference data reveals that 286 priority cadets already appear on a separate Imperial transfer schedule.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 77.1 — Student result] POV: Rian at witnessed summary. Valid student responses: 1,442 … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[1,442.] → DELTA[real preference map and hybrid mandate.] → COST[factions know exactly whom to recruit/pressure; secret list exposed.] → NEXT[preference data reveals that 286 priority cadets already appear on a separate Imperial transfer schedule.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian at witnessed summary.
@@ -3919,7 +3919,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 78.1 — The signed contract] POV: Rian/Serin/Haren reviewing authenticated documents … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: hidden takeover exposed with its real rationale.] → DELTA[hidden takeover exposed with its real rationale.] → COST[legal/armed transfer already underway.] → NEXT[one transfer shuttle is scheduled to depart before the five-package public session concludes.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 78.1 — The signed contract] POV: Rian/Serin/Haren reviewing authenticated documents … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: hidden takeover exposed with its real rationale.] → DELTA[hidden takeover exposed with its real rationale.] → COST[legal/armed transfer already underway.] → NEXT[one transfer shuttle is scheduled to depart before the five-package public session concludes.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian/Serin/Haren reviewing authenticated documents.
@@ -3977,7 +3977,7 @@ could expose Darin’s future importance to recruit/pressure actors. refuses and
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 79.1 — The operational demonstration] POV: Rian at Ring A/Dock/security briefing … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[could expose Darin’s future importance to recruit/pressure actors. refuses and records/defends Darin’s current consent.] → DELTA[Imperial package understood and Darin autonomy protected.] → COST[a likely future hero leaves Rian’s reach.] → NEXT[the first departure manifest still includes 17 disputed cases mixed with volunteers.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 79.1 — The operational demonstration] POV: Rian at Ring A/Dock/security briefing … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[could expose Darin’s future importance to recruit/pressure actors. refuses and records/defends Darin’s current consent.] → DELTA[Imperial package understood and Darin autonomy protected.] → COST[a likely future hero leaves Rian’s reach.] → NEXT[the first departure manifest still includes 17 disputed cases mixed with volunteers.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian at Ring A/Dock/security briefing.
@@ -4035,7 +4035,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 80.1 — Full operating plan] POV: Rian visiting Ring C/Helix presentation. Helix shows: 180-day full-equivalent funding … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: viable medical/technical funding and internal Helix allies.] → DELTA[viable medical/technical funding and internal Helix allies.] → COST[competing seizure authority and debt/data control.] → NEXT[Helix Finance adds a clause allowing technical seizure if the secret Imperial transfer begins, to protect assets from state capture.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 80.1 — Full operating plan] POV: Rian visiting Ring C/Helix presentation. Helix shows: 180-day full-equivalent funding … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: viable medical/technical funding and internal Helix allies.] → DELTA[viable medical/technical funding and internal Helix allies.] → COST[competing seizure authority and debt/data control.] → NEXT[Helix Finance adds a clause allowing technical seizure if the secret Imperial transfer begins, to protect assets from state capture.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian visiting Ring C/Helix presentation.
@@ -4055,7 +4055,7 @@ Helix Finance adds a clause allowing technical seizure if the secret Imperial tr
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 80.1 — Full operating plan] POV: Rian visiting Ring C/Helix presentation. Helix shows: 180-day full-equivalent funding. payroll, certification, modern tools and treatment … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 80.1 — Full operating plan] POV: Rian visiting Ring C/Helix presentation. Helix shows: 180-day full-equivalent funding. payroll, certification, modern tools and treatment … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -4093,7 +4093,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 81.1 — Independence capacity board] POV: Rian/Haren at a witnessed route meeting … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: real exit and rights options.] → DELTA[real exit and rights options.] → COST[insufficient seats, obligations and denial threat.] → NEXT[a hidden demolition/denial route is activated in Old Yard/Spine infrastructure.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 81.1 — Independence capacity board] POV: Rian/Haren at a witnessed route meeting … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: real exit and rights options.] → DELTA[real exit and rights options.] → COST[insufficient seats, obligations and denial threat.] → NEXT[a hidden demolition/denial route is activated in Old Yard/Spine infrastructure.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian/Haren at a witnessed route meeting.
@@ -4113,7 +4113,7 @@ a hidden demolition/denial route is activated in Old Yard/Spine infrastructure.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 81.1 — Independence capacity board] POV: Rian/Haren at a witnessed route meeting. Ern/Federalist contacts provide: ships, departure windows, destinations and obligations … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 81.1 — Independence capacity board] POV: Rian/Haren at a witnessed route meeting. Ern/Federalist contacts provide: ships, departure windows, destinations and obligations … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -4151,7 +4151,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 82.1 — Emergency internal week] POV: Rian moving through school during reduced operation … [source continues]] → OBSTACLE[each external party wants enough control to justify its contribution.] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: viable charter components and transparent gap.] → DELTA[viable charter components and transparent gap.] → COST[internal plan proven insolvent; transfer deadline advances.] → NEXT[Operations accelerates the Imperial transfer because the hybrid draft has no legal operator or full funding yet.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 82.1 — Emergency internal week] POV: Rian moving through school during reduced operation … [source continues]] → OBSTACLE[each external party wants enough control to justify its contribution.] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: viable charter components and transparent gap.] → DELTA[viable charter components and transparent gap.] → COST[internal plan proven insolvent; transfer deadline advances.] → NEXT[Operations accelerates the Imperial transfer because the hybrid draft has no legal operator or full funding yet.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian moving through school during reduced operation.
@@ -4209,7 +4209,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 83.1 — Archive/future ranking temptation] POV: Rian … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: Rian rejects hidden future-value sorting and people choose different paths.] → DELTA[Rian rejects hidden future-value sorting and people choose different paths.] → COST[future known network breaks. Archive count/set shifts or becomes uncertain.] → NEXT[first shuttle begins loading before corrections can be processed.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 83.1 — Archive/future ranking temptation] POV: Rian … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: Rian rejects hidden future-value sorting and people choose different paths.] → DELTA[Rian rejects hidden future-value sorting and people choose different paths.] → COST[future known network breaks. Archive count/set shifts or becomes uncertain.] → NEXT[first shuttle begins loading before corrections can be processed.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian.
@@ -4229,7 +4229,7 @@ first shuttle begins loading before corrections can be processed.
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 83.1 — Archive/future ranking temptation] POV: Rian. Archive/future cues: Darin and several students show high future significance/hero-set relevance … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 83.1 — Archive/future ranking temptation] POV: Rian. Archive/future cues: Darin and several students show high future significance/hero-set relevance … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4267,7 +4267,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 84.1 — First shuttle loading] POV: Rian at/near Dock D and current-person feed … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: no false peaceful delay; choices become physical.] → DELTA[no false peaceful delay; choices become physical.] → COST[siege begins with real voluntary/forced people mixed together.] → NEXT[six fronts activate, and one central command network begins issuing conflicting orders.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 84.1 — First shuttle loading] POV: Rian at/near Dock D and current-person feed … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: no false peaceful delay; choices become physical.] → DELTA[no false peaceful delay; choices become physical.] → COST[siege begins with real voluntary/forced people mixed together.] → NEXT[six fronts activate, and one central command network begins issuing conflicting orders.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian at/near Dock D and current-person feed.
@@ -4325,7 +4325,7 @@ Imperial shuttle/frames move toward Dock D under valid transfer. radical/Indepen
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 85.1 — Conflicting command map] POV: Rian at Dock D/command feed. Inputs: Imperial transfer order … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Imperial shuttle/frames move toward Dock D under valid transfer. radical/Independence interference and Academy locks create collision/boarding risk. Rian launches under narrow emergency defense/rescue scope … [source continues]] → DELTA[one shuttle departs with volunteers and some unresolved cases before full halt. one Dock D/security/transfer person is killed in a combat/accident chain … [source continues]] → COST[people leave, first death and Rian cannot reverse all fronts.] → NEXT[Ring B bulkheads close on a current-person count that Yori says is wrong.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 85.1 — Conflicting command map] POV: Rian at Dock D/command feed. Inputs: Imperial transfer order … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Imperial shuttle/frames move toward Dock D under valid transfer. radical/Independence interference and Academy locks create collision/boarding risk. Rian launches under narrow emergency defense/rescue scope … [source continues]] → DELTA[one shuttle departs with volunteers and some unresolved cases before full halt. one Dock D/security/transfer person is killed in a combat/accident chain … [source continues]] → COST[people leave, first death and Rian cannot reverse all fronts.] → NEXT[Ring B bulkheads close on a current-person count that Yori says is wrong.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian at Dock D/command feed.
@@ -4345,7 +4345,7 @@ Ring B bulkheads close on a current-person count that Yori says is wrong.
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 85.1 — Conflicting command map] POV: Rian at Dock D/command feed. Inputs: Imperial transfer order. Academy Operations/Security order. Helix remote asset locks … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 85.1 — Conflicting command map] POV: Rian at Dock D/command feed. Inputs: Imperial transfer order. Academy Operations/Security order. Helix remote asset locks … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -4383,7 +4383,7 @@ refuses full seal/abandonment and opens/holds a controlled route. cites current 
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 86.1 — Wrong count behind the door] POV: Rian receives partial reports, but the scene’s decisive information comes from … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[refuses full seal/abandonment and opens/holds a controlled route. cites current safety/contract protection, not loyalty to Rian.] → DELTA[Darin’s route prevents a larger casualty and protects people Rian cannot reach. Darin still intends Imperial departure.] → COST[death/injuries and deeper factional anger.] → NEXT[Ring C’s remote locks begin shutting life-critical workshop/power equipment while workers are inside.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 86.1 — Wrong count behind the door] POV: Rian receives partial reports, but the scene’s decisive information comes from … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[refuses full seal/abandonment and opens/holds a controlled route. cites current safety/contract protection, not loyalty to Rian.] → DELTA[Darin’s route prevents a larger casualty and protects people Rian cannot reach. Darin still intends Imperial departure.] → COST[death/injuries and deeper factional anger.] → NEXT[Ring C’s remote locks begin shutting life-critical workshop/power equipment while workers are inside.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian receives partial reports, but the scene’s decisive information comes from Yori/Darin/local actors through communications.
@@ -4403,7 +4403,7 @@ Ring C’s remote locks begin shutting life-critical workshop/power equipment wh
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 86.1 — Wrong count behind the door] POV: Rian receives partial reports, but the scene’s decisive information comes from Yori/Darin/local actors through communications … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 86.1 — Wrong count behind the door] POV: Rian receives partial reports, but the scene’s decisive information comes from Yori/Darin/local actors through communications … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -4441,7 +4441,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 87.1 — Helix remote safety lock] POV: Rian remains largely off-site through limited communications … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: Ring C remains partly operational; Helix technical allies prove autonomy.] → DELTA[Ring C remains partly operational; Helix technical allies prove autonomy.] → COST[death, workshop loss and technical capacity reduced.] → NEXT[Black Ward/Spine receives a blanket protected-patient/ORA transfer command while its power reserve is reduced.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 87.1 — Helix remote safety lock] POV: Rian remains largely off-site through limited communications … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: Ring C remains partly operational; Helix technical allies prove autonomy.] → DELTA[Ring C remains partly operational; Helix technical allies prove autonomy.] → COST[death, workshop loss and technical capacity reduced.] → NEXT[Black Ward/Spine receives a blanket protected-patient/ORA transfer command while its power reserve is reduced.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian remains largely off-site through limited communications; Nera/Bram/Sera own decisions.
@@ -4461,7 +4461,7 @@ Black Ward/Spine receives a blanket protected-patient/ORA transfer command while
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 87.1 — Helix remote safety lock] POV: Rian remains largely off-site through limited communications; Nera/Bram/Sera own decisions … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 87.1 — Helix remote safety lock] POV: Rian remains largely off-site through limited communications; Nera/Bram/Sera own decisions … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -4499,7 +4499,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 88.1 — Blanket transfer order] POV: Rian receives reports … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: patient-specific choices and clinical survival.] → DELTA[patient-specific choices and clinical survival.] → COST[not all data survives.] → NEXT[Dock D external forces converge, including Ern and a radical denial craft targeting core/command routes.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 88.1 — Blanket transfer order] POV: Rian receives reports … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: patient-specific choices and clinical survival.] → DELTA[patient-specific choices and clinical survival.] → COST[not all data survives.] → NEXT[Dock D external forces converge, including Ern and a radical denial craft targeting core/command routes.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian receives reports; decisive close-third may remain Rian via comm/brief arrival but clinical choices are not his.
@@ -4519,7 +4519,7 @@ Dock D external forces converge, including Ern and a radical denial craft target
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 88.1 — Blanket transfer order] POV: Rian receives reports; decisive close-third may remain Rian via comm/brief arrival but clinical choices are not his … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 88.1 — Blanket transfer order] POV: Rian receives reports; decisive close-third may remain Rian via comm/brief arrival but clinical choices are not his … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -4577,7 +4577,7 @@ Ring A broadcast/legal record is being cut or replaced by a declaration that Imp
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 89.1 — Dock D geometry] POV: Rian in 07 after cooldown/repair. Forces: Imperial frames/shuttles protecting transfer … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 89.1 — Dock D geometry] POV: Rian in 07 after cooldown/repair. Forces: Imperial frames/shuttles protecting transfer … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -4615,7 +4615,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 90.1 — Competing declarations] POV: Rian mostly receiving/approaching, but Serin/representatives control the broadcast c … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: less dramatic but defensible record.] → DELTA[less dramatic but defensible record.] → COST[private data remains unavailable and systems approach failure.] → NEXT[station central safety system reports rotation/life-support/door command conflicts will exceed safe tolerance within hours.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 90.1 — Competing declarations] POV: Rian mostly receiving/approaching, but Serin/representatives control the broadcast c … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: less dramatic but defensible record.] → DELTA[less dramatic but defensible record.] → COST[private data remains unavailable and systems approach failure.] → NEXT[station central safety system reports rotation/life-support/door command conflicts will exceed safe tolerance within hours.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian mostly receiving/approaching, but Serin/representatives control the broadcast content.
@@ -4673,7 +4673,7 @@ current-person evacuation first, then abandon equipment/space. one valuable arch
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 91.1 — Front status board] POV: Rian/command room or mobile route after E89 … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[current-person evacuation first, then abandon equipment/space. one valuable archive/workshop/frame asset is lost.] → DELTA[current-person evacuation first, then abandon equipment/space. one valuable archive/workshop/frame asset is lost.] → COST[another zone/asset abandoned and time nearly gone.] → NEXT[one claimant begins taking central command before the group has an alternative ready.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 91.1 — Front status board] POV: Rian/command room or mobile route after E89 … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[current-person evacuation first, then abandon equipment/space. one valuable archive/workshop/frame asset is lost.] → DELTA[current-person evacuation first, then abandon equipment/space. one valuable archive/workshop/frame asset is lost.] → COST[another zone/asset abandoned and time nearly gone.] → NEXT[one claimant begins taking central command before the group has an alternative ready.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian/command room or mobile route after E89.
@@ -4693,7 +4693,7 @@ one claimant begins taking central command before the group has an alternative r
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 91.1 — Front status board] POV: Rian/command room or mobile route after E89. Status: Ring B route partly held, people departed/stranded … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 91.1 — Front status board] POV: Rian/command room or mobile route after E89. Status: Ring B route partly held, people departed/stranded … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -4731,7 +4731,7 @@ Rian/07 and local teams begin approach to central safety/service interface. othe
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 92.1 — Central authority demonstration] POV: Rian. A central claimant briefly coordinates a subsystem successfully: stop … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Rian/07 and local teams begin approach to central safety/service interface. other fronts must hold long enough. central claimant starts irreversible transfer/lock steps.] → DELTA[central access opportunity and distributed plan.] → COST[strong evidence that one commander is safer right now.] → NEXT[Rian enters the command path with enough authority to save the school—or own it.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 92.1 — Central authority demonstration] POV: Rian. A central claimant briefly coordinates a subsystem successfully: stop … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Rian/07 and local teams begin approach to central safety/service interface. other fronts must hold long enough. central claimant starts irreversible transfer/lock steps.] → DELTA[central access opportunity and distributed plan.] → COST[strong evidence that one commander is safer right now.] → NEXT[Rian enters the command path with enough authority to save the school—or own it.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian.
@@ -4751,7 +4751,7 @@ Rian enters the command path with enough authority to save the school—or own i
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 92.1 — Central authority demonstration] POV: Rian. A central claimant briefly coordinates a subsystem successfully: stops a collision/crowd/power failure … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 92.1 — Central authority demonstration] POV: Rian. A central claimant briefly coordinates a subsystem successfully: stops a collision/crowd/power failure … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -4847,7 +4847,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 94.1 — Segments] POV: Rian through central feed/07 … [source continues]] → OBSTACLE[one faction/sector accuses him of sacrificing its people/assets. He relies on Yori/local current-person counts, not only central sensors.] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: first authority segments physically established.] → DELTA[first authority segments physically established.] → COST[visible delay harm and accusations Rian chose ideology over lives.] → NEXT[Ring B transfer corridor loses coordination as Darin’s Imperial-aligned squad receives orders from the old/new systems simultaneously.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 94.1 — Segments] POV: Rian through central feed/07 … [source continues]] → OBSTACLE[one faction/sector accuses him of sacrificing its people/assets. He relies on Yori/local current-person counts, not only central sensors.] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: first authority segments physically established.] → DELTA[first authority segments physically established.] → COST[visible delay harm and accusations Rian chose ideology over lives.] → NEXT[Ring B transfer corridor loses coordination as Darin’s Imperial-aligned squad receives orders from the old/new systems simultaneously.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian through central feed/07.
@@ -4867,7 +4867,7 @@ Ring B transfer corridor loses coordination as Darin’s Imperial-aligned squad 
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 94.1 — Segments] POV: Rian through central feed/07. Target segments: life support/logistics → local operations/Haren network. power/technical → Nera/Bram/operators … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 94.1 — Segments] POV: Rian through central feed/07. Target segments: life support/logistics → local operations/Haren network. power/technical → Nera/Bram/operators … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -4905,7 +4905,7 @@ medically urgent route prioritized, causing loss at another front or allowing an
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 95.1 — Communication break] POV: Rian loses contact/complete visibility with one or more fronts … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[medically urgent route prioritized, causing loss at another front or allowing an asset/actor to escape.] → DELTA[medically urgent route prioritized, causing loss at another front or allowing an asset/actor to escape.] → COST[casualty/loss and weakened moral certainty.] → NEXT[Darin’s front must decide whether to follow a direct Imperial sealing order or the incomplete segmented intent without contact with Rian.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 95.1 — Communication break] POV: Rian loses contact/complete visibility with one or more fronts … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[medically urgent route prioritized, causing loss at another front or allowing an asset/actor to escape.] → DELTA[medically urgent route prioritized, causing loss at another front or allowing an asset/actor to escape.] → COST[casualty/loss and weakened moral certainty.] → NEXT[Darin’s front must decide whether to follow a direct Imperial sealing order or the incomplete segmented intent without contact with Rian.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian loses contact/complete visibility with one or more fronts.
@@ -4963,7 +4963,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 96.1 — Darin’s decision] Darin’s Imperial-aligned squad: receives an order to seal/hold a transfer route to secure liste … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: mass forced transfer stopped. voluntary departures continue under witnessed conditions … [source continues]] → DELTA[mass forced transfer stopped. voluntary departures continue under witnessed conditions. current fronts move toward ceasefire/negotiation because no one can cheaply seize all systems.] → COST[Imperial disciplinary/assignment consequence. delays transfer and exposes squad. Darin remains Imperial-aligned.] → NEXT[ceasefire lasts only if a legal/funded operating authority is transmitted before external reinforcements or system owners withdraw.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 96.1 — Darin’s decision] Darin’s Imperial-aligned squad: receives an order to seal/hold a transfer route to secure liste … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: mass forced transfer stopped. voluntary departures continue under witnessed conditions … [source continues]] → DELTA[mass forced transfer stopped. voluntary departures continue under witnessed conditions. current fronts move toward ceasefire/negotiation because no one can cheaply seize all systems.] → COST[Imperial disciplinary/assignment consequence. delays transfer and exposes squad. Darin remains Imperial-aligned.] → NEXT[ceasefire lasts only if a legal/funded operating authority is transmitted before external reinforcements or system owners withdraw.]
 
 **HUMAN_PRESSURE_CARRIER**  
 writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: mass forced transfer stopped. voluntary departures continue under witnessed conditions. current fronts move toward ceasefire/negotiation because no one can cheaply seize all systems.); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: mass forced transfer stopped. voluntary departures continue under witnessed conditions … [source continues]] and source cost [Imperial disciplinary/assignment consequence. delays transfer and exposes squad. Darin remains Imperial-aligned.]. Do not create a new named witness merely to supply emotion.
@@ -4983,7 +4983,7 @@ ceasefire lasts only if a legal/funded operating authority is transmitted before
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 96.1 — Darin’s decision] Darin’s Imperial-aligned squad: receives an order to seal/hold a transfer route to secure listed assets/students … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 96.1 — Darin’s decision] Darin’s Imperial-aligned squad: receives an order to seal/hold a transfer route to secure listed assets/students … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -5021,7 +5021,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 97.1 — Clause from damage] POV: Rian as witness/adviser, not chair … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: concrete charter draft and funding coalition.] → DELTA[concrete charter draft and funding coalition.] → COST[underfunding and unresolved offsite students.] → NEXT[one required external/legal signature depends on recognizing voluntary departures and leaving 17 disputed Imperial students offsite under appeal rather than immediate return.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 97.1 — Clause from damage] POV: Rian as witness/adviser, not chair … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: concrete charter draft and funding coalition.] → DELTA[concrete charter draft and funding coalition.] → COST[underfunding and unresolved offsite students.] → NEXT[one required external/legal signature depends on recognizing voluntary departures and leaving 17 disputed Imperial students offsite under appeal rather than immediate return.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian as witness/adviser, not chair.
@@ -5041,7 +5041,7 @@ one required external/legal signature depends on recognizing voluntary departure
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 97.1 — Clause from damage] POV: Rian as witness/adviser, not chair. Charter components tied to events: mass transfer threshold/appeal from Ring B … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 97.1 — Clause from damage] POV: Rian as witness/adviser, not chair. Charter components tied to events: mass transfer threshold/appeal from Ring B … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -5079,7 +5079,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 98.1 — Departure ledger] Locked by E92: 96 students departed. Imperial 42, Helix 31, Independence 15, Neutral 8 … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: individual choices preserved and representation begins.] → DELTA[individual choices preserved and representation begins.] → COST[people remain gone/disputed and board legitimacy incomplete.] → NEXT[inspection shows campus damage, unpaid claims and frame/ship needs exceed the charter’s current funding.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 98.1 — Departure ledger] Locked by E92: 96 students departed. Imperial 42, Helix 31, Independence 15, Neutral 8 … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: individual choices preserved and representation begins.] → DELTA[individual choices preserved and representation begins.] → COST[people remain gone/disputed and board legitimacy incomplete.] → NEXT[inspection shows campus damage, unpaid claims and frame/ship needs exceed the charter’s current funding.]
 
 **HUMAN_PRESSURE_CARRIER**  
 writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: individual choices preserved and representation begins.); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: individual choices preserved and representation begins.] and source cost [people remain gone/disputed and board legitimacy incomplete.]. Do not create a new named witness merely to supply emotion.
@@ -5099,7 +5099,7 @@ inspection shows campus damage, unpaid claims and frame/ship needs exceed the ch
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 98.1 — Departure ledger] Locked by E92: 96 students departed. Imperial 42, Helix 31, Independence 15, Neutral 8. Status review: clear volunteers remain with chosen routes … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 98.1 — Departure ledger] Locked by E92: 96 students departed. Imperial 42, Helix 31, Independence 15, Neutral 8. Status review: clear volunteers remain with chosen routes … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -5137,7 +5137,7 @@ not a prize; a liability the charter might convert into mobility/revenue.
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 99.1 — Damage/casualty review] POV: Rian walking/visiting affected zones under grounding/recovery … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[not a prize; a liability the charter might convert into mobility/revenue.] → DELTA[first-ship path and GA2 promise.] → COST[repair debt and no rest.] → NEXT[salvage manifest includes another 07/AUXILIA service-key trace tied to a destroyed sister ship.]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 99.1 — Damage/casualty review] POV: Rian walking/visiting affected zones under grounding/recovery … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[not a prize; a liability the charter might convert into mobility/revenue.] → DELTA[first-ship path and GA2 promise.] → COST[repair debt and no rest.] → NEXT[salvage manifest includes another 07/AUXILIA service-key trace tied to a destroyed sister ship.]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian walking/visiting affected zones under grounding/recovery.
@@ -5157,7 +5157,7 @@ salvage manifest includes another 07/AUXILIA service-key trace tied to a destroy
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 99.1 — Damage/casualty review] POV: Rian walking/visiting affected zones under grounding/recovery. Locked outcomes: five confirmed deaths subject to named final lock … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 99.1 — Damage/casualty review] POV: Rian walking/visiting affected zones under grounding/recovery. Locked outcomes: five confirmed deaths subject to named final lock … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -5195,7 +5195,7 @@ POV/decision-carried current actor(s): Rian.
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact] [Scene 100.1 — Charter enactment] POV: Rian. Action: 180-day temporary charter becomes legally/operationally active under enoug … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[180-day temporary charter becomes legally/operationally active under enough recognized signatures. board/authorities receive physical/budget/command access. emergency central control expires into multi-signature renewal.] → DELTA[GA1 institutional victory, external mission autonomy and first ship promise.] → COST[underfunded charter, people gone, unresolved transfers, damage/debt and future history broken.] → NEXT[the obsolete hull record displays a sister-ship salvage entry carrying an impossible service-key signature. Rian understands the school survived by becoming a system that can send them out—b … [source continues]]
+PRESSURE[⟦DERIVED EXECUTION OBJECTIVE FROM APPROVED SCENE; no new fact⟧ [Scene 100.1 — Charter enactment] POV: Rian. Action: 180-day temporary charter becomes legally/operationally active under enoug … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[180-day temporary charter becomes legally/operationally active under enough recognized signatures. board/authorities receive physical/budget/command access. emergency central control expires into multi-signature renewal.] → DELTA[GA1 institutional victory, external mission autonomy and first ship promise.] → COST[underfunded charter, people gone, unresolved transfers, damage/debt and future history broken.] → NEXT[the obsolete hull record displays a sister-ship salvage entry carrying an impossible service-key signature. Rian understands the school survived by becoming a system that can send them out—b … [source continues]]
 
 **HUMAN_PRESSURE_CARRIER**  
 source POV/current participants: Rian.
@@ -5215,7 +5215,7 @@ the obsolete hull record displays a sister-ship salvage entry carrying an imposs
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 100.1 — Charter enactment] POV: Rian. Action: 180-day temporary charter becomes legally/operationally active under enough recognized signatures … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 100.1 — Charter enactment] POV: Rian. Action: 180-day temporary charter becomes legally/operationally active under enough recognized signatures … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.

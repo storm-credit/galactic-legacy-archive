@@ -1851,7 +1851,7 @@ Neris reports that a 061-marked control unit is already scheduled for installati
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 132.1 — Three title chains] Chains: 1. military/Imperial loss closure; 2. insurer salvage distribution; 3. worker/cooperative possession and rebuild … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 132.1 — Three title chains] Chains: 1. military/Imperial loss closure; 2. insurer salvage distribution; 3. worker/cooperative possession and rebuild … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -1967,7 +1967,7 @@ the protected deposition names a service-module serial that also appears in 파�
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 134.1 — Closed-worker network] Actors: former 061 repair workers/relatives under local or temporary identities; some seek wages and recognition … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 134.1 — Closed-worker network] Actors: former 061 repair workers/relatives under local or temporary identities; some seek wages and recognition … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -2025,7 +2025,7 @@ the renewed 061 transponder appears near Marn before the caravan carrying the in
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 135.1 — Mission parties] Participants: Kael claims office; Neris maintainers; Neutral rescue/insurance observer; Helix safety/seizure representative; 파루스 mission trust … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 135.1 — Mission parties] Participants: Kael claims office; Neris maintainers; Neutral rescue/insurance observer; Helix safety/seizure representative; 파루스 mission trust … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -2257,7 +2257,7 @@ the signal and habitat B’s old service controller answer the same 061 maintena
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 139.1 — Jena Ark] Role: 제나 아크, senior pressure/cooling technician and rotating field lead of the civilian repair caravan … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 139.1 — Jena Ark] Role: 제나 아크, senior pressure/cooling technician and rotating field lead of the civilian repair caravan … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -2489,7 +2489,7 @@ habitat B sends a casualty warning: a cooling loop has entered automatic shutdow
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 143.1 — Helix standstill order] Action: Helix invokes certified safety and lien/provenance claims; requests physical removal of the controller and copied credentials … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 143.1 — Helix standstill order] Action: Helix invokes certified safety and lien/provenance claims; requests physical removal of the controller and copied credentials … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -2956,7 +2956,7 @@ Helix produces an older certified software image showing the missing routine was
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Current obligations** — Jena’s caravan council identifies dependents/community obligations, injured workers, missed client jobs and habitat B emergency needs … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Current obligations** — Jena’s caravan council identifies dependents/community obligations, injured workers, missed client jobs and habitat B emergency needs … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -3014,7 +3014,7 @@ the returned collar matches NR72-118 Bay 2 mounting geometry but its cooling spi
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Version comparison** — original worker-built routine monitored local queued actuator state but assumed slower hardware and manual watchers … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Version comparison** — original worker-built routine monitored local queued actuator state but assumed slower hardware and manual watchers … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -3072,7 +3072,7 @@ the only safe proposed function is not a weapon or frame bay but a low-load rela
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Physical table** — genuine early service collar, locally rebuilt controller, Helix-certified sensor package, worker-made isolation frame and later salvage cooling pi … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Physical table** — genuine early service collar, locally rebuilt controller, Helix-certified sensor package, worker-made isolation frame and later salvage cooling pi … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -3130,7 +3130,7 @@ applying the annex makes the proposed relay too large for the remaining Bay 2 sp
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Community authorization** — caravan council authorizes public use of Jena’s name only for failure/worker-stop requirements, not product branding … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Community authorization** — caravan council authorizes public use of Jena’s name only for failure/worker-stop requirements, not product branding … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -3188,7 +3188,7 @@ every claimant agrees the relay is useful and none agrees who may switch it on.
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Options** — partial Bay 2 frame collar; larger workshop; medical extension; mixed-service relay; sale/claim settlement. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Options** — partial Bay 2 frame collar; larger workshop; medical extension; mixed-service relay; sale/claim settlement. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -3246,7 +3246,7 @@ fitting the module requires 파루스 to remove one cargo rack used for the next
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Claims** — worker/cooperative physical/labor rights; Helix certified sensor/software layer; Kael/Neutral evidence/insurance; habitat/caravan user rights … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Claims** — worker/cooperative physical/labor rights; Helix certified sensor/software layer; Kael/Neutral evidence/insurance; habitat/caravan user rights … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -3304,7 +3304,7 @@ the caravan council approves installation participation but refuses to supply a 
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Claim categories** — death/family/community; injured workers; habitat repair; delayed clients; caravan lost capacity; evidence/inquiry cost. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Claim categories** — death/family/community; injured workers; habitat repair; delayed clients; caravan lost capacity; evidence/inquiry cost. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -3362,7 +3362,7 @@ the first live service request comes from a habitat whose operator refuses to sh
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Component selection** — use tested collar structure, new local isolation, certified sensors, rewritten audit layer and physical state lines … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Component selection** — use tested collar structure, new local isolation, certified sensors, rewritten audit layer and physical state lines … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -3420,7 +3420,7 @@ the relay identifies several destination systems that can accept different parts
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Client condition** — local habitat permits state/limit exchange but not resident identity, full logs or remote control. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Client condition** — local habitat permits state/limit exchange but not resident identity, full logs or remote control. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -3478,7 +3478,7 @@ Haren places thirty-six names on the table, then removes the single destination 
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Final findings** — NR72-061 existed historically but current “ghost” is a chain of redistributed hull sections, service credentials, rebuilt components, worker labor … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Final findings** — NR72-061 existed historically but current “ghost” is a chain of redistributed hull sections, service credentials, rebuilt components, worker labor … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -3594,7 +3594,7 @@ Ardis offers nine work-residency places, but only if the first six workers arriv
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 162.1 — Eight different care plans] Assessment: chronic respiratory support; immune/medication continuity; mobility/prosthetic repair; trauma and identity-triggered care … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 162.1 — Eight different care plans] Assessment: chronic respiratory support; immune/medication continuity; mobility/prosthetic repair; trauma and identity-triggered care … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -3710,7 +3710,7 @@ a K-13 stayer is told their current claim may be closed if the “community relo
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 164.1 — Seven different route choices] Paths: two qualify toward 파루스 trial positions after training/licensing … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 164.1 — Seven different route choices] Paths: two qualify toward 파루스 trial positions after training/licensing … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -3768,7 +3768,7 @@ Neutral verifies the private route is physically viable but refuses to disclose 
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 165.1 — Four reasons] Reasons include: current schooling/apprenticeship; local care stability; active wage/identity claim; relationship/family tie … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 165.1 — Four reasons] Reasons include: current schooling/apprenticeship; local care stability; active wage/identity claim; relationship/family tie … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -3826,7 +3826,7 @@ the complete movement plan requires 43 passenger-equivalent places and 9 medical
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 166.1 — Disclosure layers] Neutral verification contains: identity continuity/confidence; emergency contact; minimum medical/life-support needs … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 166.1 — Disclosure layers] Neutral verification contains: identity continuity/confidence; emergency contact; minimum medical/life-support needs … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -3942,7 +3942,7 @@ five destination compacts are ready, but one insurer will cover only a single un
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 168.1 — Five group mandates] Each group establishes contacts for: care/service; contract/claim; transport; consent/appeal … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 168.1 — Five group mandates] Each group establishes contacts for: care/service; contract/claim; transport; consent/appeal … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -4058,7 +4058,7 @@ the Ardis convoy can take all nine people or the cooling/filter cargo promised t
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 170.1 — Vessel roster] Front-stage vessels: 파루스 — escort/relay/workshop and limited passengers; Neutral medical passage vessel — DG-CARE … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 170.1 — Vessel roster] Front-stage vessels: 파루스 — escort/relay/workshop and limited passengers; Neutral medical passage vessel — DG-CARE … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -4116,7 +4116,7 @@ minutes before medical boarding, one patient withdraws consent for their registe
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 171.1 — Mass and service conflict] Ardis convoy shortage: all nine people + household tools/care load exceed current protected mass by approximately 14.8 t … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 171.1 — Mass and service conflict] Ardis convoy shortage: all nine people + household tools/care load exceed current protected mass by approximately 14.8 t … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -4174,7 +4174,7 @@ the Ardis provisional residence approvals arrive before one member’s legal-dea
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 172.1 — Caregiver revision] Action: one competent patient withdraws the registered family caregiver and selects another trusted person within the approved group … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 172.1 — Caregiver revision] Action: one competent patient withdraws the registered family caregiver and selects another trusted person within the approved group … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -4290,7 +4290,7 @@ Helix withdraws warranty/service support from three mixed-standard coolant/filte
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene 174.1 — Final current offers] Ardis confirms: work/training placement for current qualified members; shared housing blocks; ration and local registry access … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 174.1 — Final current offers] Ardis confirms: work/training placement for current qualified members; shared housing blocks; ration and local registry access … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -4406,7 +4406,7 @@ A17’s replacement seal exists in regional stock, but its insurer reserves it f
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **A17 low-load illusion** — current readings appear normal; pressure-cycle and material test reveal seal microcrack/swelling after uncertified solvent use. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **A17 low-load illusion** — current readings appear normal; pressure-cycle and material test reveal seal microcrack/swelling after uncertified solvent use. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -4464,7 +4464,7 @@ B09’s insurer offers immediate coverage if the tug removes the Jena Annex audi
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Priority stock denial** — certified seal/body allocated to a Core/Inner medical-service contract; buying priority would displace current care elsewhere. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Priority stock denial** — certified seal/body allocated to a Core/Inner medical-service contract; buying priority would displace current care elsewhere. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -4522,7 +4522,7 @@ C22’s crew passes the written training but fails the first physical isolation 
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Insurer position** — current hardware test is acceptable, but no approved liability model exists for local firmware/fork. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Insurer position** — current hardware test is acceptable, but no approved liability model exists for local firmware/fork. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -4580,7 +4580,7 @@ the three different remedies are publicly compressed into one headline: “개�
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Failed drill** — crew follows written sequence; reversed physical labels create a wrong branch assumption; relay reports `state unknown`, not failure/success. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Failed drill** — crew follows written sequence; reversed physical labels create a wrong branch assumption; relay reports `state unknown`, not failure/success. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -4638,7 +4638,7 @@ A17’s locally remanufactured seal passes pressure test, but the craft can no l
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Actual state** — A17 still under physical repair; B09 limited via expensive rider; C22 not yet connected to medical load. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Actual state** — A17 still under physical repair; B09 limited via expensive rider; C22 not yet connected to medical load. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -4696,7 +4696,7 @@ C22’s first live low-load test succeeds, and three other workshops request the
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **A17 return test** — new seal/body passes full pressure cycle and cleanout; craft certified only for reduced load/inspection interval. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **A17 return test** — new seal/body passes full pressure cycle and cleanout; craft certified only for reduced load/inspection interval. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -4754,7 +4754,7 @@ a workshop publishes the C22 adapter before the audit closes, adding a local per
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Route-crew delay** — two DG-ROUTE members on another tug face a certification/berth issue … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Route-crew delay** — two DG-ROUTE members on another tug face a certification/berth issue … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -4812,7 +4812,7 @@ the performance fork’s maintainer argues the removed warnings are redundant be
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Fork discovery** — three local copies found; one unchanged, one adapted responsibly, one performance fork removes unknown-state/hold warnings. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Fork discovery** — three local copies found; one unchanged, one adapted responsibly, one performance fork removes unknown-state/hold warnings. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -4870,7 +4870,7 @@ the C22 supervised test passes under the new process, prompting a public demonst
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Insurer minimums** — version identity, physical sensor placement, operator qualification, test record, stop authority, incident fund and responsible legal party. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Insurer minimums** — version identity, physical sensor placement, operator qualification, test record, stop authority, incident fund and responsible legal party. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -4928,7 +4928,7 @@ the demonstration sponsor schedules a one-hour hold period; the safety plan requ
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **A17** — physical repair/pressure cycles complete; reduced-load service resumes. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **A17** — physical repair/pressure cycles complete; reduced-load service resumes. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -4986,7 +4986,7 @@ within twelve hours, four local variants appear, one advertising “O2 performan
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Release contents** — state/source/confidence, queue, stop, operator level, sensor placement, unknown state and incident feedback fields. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Release contents** — state/source/confidence, queue, stop, operator level, sensor placement, unknown state and incident feedback fields. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -5044,7 +5044,7 @@ the demonstration contractor chooses Fork D’s throughput patch for one control
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Fork A** — unchanged source with local language/tooling notes; low risk. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Fork A** — unchanged source with local language/tooling notes; low risk. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -5102,7 +5102,7 @@ a route habitat reports an immediate cooling crisis and requests the same unprov
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Helix central position** — no warranty/diagnostic support for Fork D or unknown mixed profile; company mark cannot appear as approval. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Helix central position** — no warranty/diagnostic support for Fork D or unknown mixed profile; company mark cannot appear as approval. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -5160,7 +5160,7 @@ fourteen workshops request O2 status, and the demonstration sponsor doubles the 
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Current crisis** — habitat cooling controller cannot read a replacement filter state; certified technician ETA exceeds reserve. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Current crisis** — habitat cooling controller cannot read a replacement filter state; certified technician ETA exceeds reserve. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -5218,7 +5218,7 @@ the performance-fork vendor offers a controller update that automatically discov
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Qualification review** — written completion exceeds physical-drill capacity; several operators are scheduled outside their trained configuration. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Qualification review** — written completion exceeds physical-drill capacity; several operators are scheduled outside their trained configuration. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -5276,7 +5276,7 @@ platform maintenance records reveal the bypass valve’s physical direction labe
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Lab/bench test** — automatic discovery succeeds on documented configurations. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Lab/bench test** — automatic discovery succeeds on documented configurations. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -5334,7 +5334,7 @@ overnight maintenance reconnects the controller for a minor test, then restores 
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Physical inspection** — valve/flow direction label differs from current controller diagram; branch can move opposite to expected state. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Physical inspection** — valve/flow direction label differs from current controller diagram; branch can move opposite to expected state. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -5508,7 +5508,7 @@ the first synchronized logs disagree on whether the system ever entered an unkno
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Divergence** — platform buffer and route-tug commands transfer load; rebuilt bypass remains partly closed while interface reports open … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Divergence** — platform buffer and route-tug commands transfer load; rebuilt bypass remains partly closed while interface reports open … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -5566,7 +5566,7 @@ the base release logs retain the `unknown` warning, but the demonstration contro
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Triage/evacuation** — Ovel and three serious casualties moved through current medical capacity; minor exposures decontaminated and monitored … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Triage/evacuation** — Ovel and three serious casualties moved through current medical capacity; minor exposures decontaminated and monitored … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -5624,7 +5624,7 @@ several remote habitats report they cannot wait for the general freeze because t
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Fork manipulation evidence** — vendor deliberately downgraded the unknown-state hold and shortened supervised waiting to improve throughput/market claim … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Fork manipulation evidence** — vendor deliberately downgraded the unknown-state hold and shortened supervised waiting to improve throughput/market claim … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -5682,7 +5682,7 @@ the first emergency application comes from a site where the open profile is safe
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Seat structure** — worker/maintainer, user/operator, medical/service-dependent, insurer/safety, vendor/Helix and open-workshop roles; no one holds majority command … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Seat structure** — worker/maintainer, user/operator, medical/service-dependent, insurer/safety, vendor/Helix and open-workshop roles; no one holds majority command … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -5740,7 +5740,7 @@ Silex reports that its relay window will close unless one mixed-service calibrat
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Emergency site comparison** — damaged certified controller versus locally verified open O1 profile; current physical state and operators are known. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Emergency site comparison** — damaged certified controller versus locally verified open O1 profile; current physical state and operators are known. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -5856,7 +5856,7 @@ Helix central files an injunction warning that one phase-reference controller la
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Silex current state** — phase coherence 51–58%, cooling enough for one attempt, one exterior branch requiring physical service, split keys/authority. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Silex current state** — phase coherence 51–58%, cooling enough for one attempt, one exterior branch requiring physical service, split keys/authority. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -5914,7 +5914,7 @@ the exterior branch’s current physical position differs by 0.7 degrees from ev
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Helix position** — unsupported controller and O1-only profile make the attempt uninsurable under normal policy. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Helix position** — unsupported controller and O1-only profile make the attempt uninsurable under normal policy. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -5972,7 +5972,7 @@ low-load pulse can begin, but the planned four-vessel mass now exceeds the recal
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Exterior approach** — 07 and local service frames/tug reach the branch; debris/structure and node emissions limit movement. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Exterior approach** — 07 and local service frames/tug reach the branch; debris/structure and node emissions limit movement. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -6030,7 +6030,7 @@ the first low-load pulse reports stable phase but raises Silex cooling faster th
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Mass table** — four vessels, people, cooling/medical/service components, tools, records and commercial/sponsor cargo. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Mass table** — four vessels, people, cooling/medical/service components, tools, records and commercial/sponsor cargo. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -6088,7 +6088,7 @@ Ardis receiving node reports it can recover only three arrivals in the first 28 
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Low-load pulse** — direct sensors and OSR O1 translation align; one old controller lags but remains inside local threshold. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Low-load pulse** — direct sensors and OSR O1 translation align; one old controller lags but remains inside local threshold. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -6146,7 +6146,7 @@ one Ardis traveller’s provisional identity packet fails the receiving-node cur
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Receiving limit** — three early arrivals can receive normal recovery; later arrival faces reduced margin/delay. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Receiving limit** — three early arrivals can receive normal recovery; later arrival faces reduced margin/delay. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -6204,7 +6204,7 @@ window opens while the calibration tug’s cooling feed shows a drift exactly at
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Failure** — Imperial registry still shows legal death/closed status … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Failure** — Imperial registry still shows legal death/closed status … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -6262,7 +6262,7 @@ two vessels and six DG-ARDIS travellers arrive.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Window open** — Orsa opens bounded transition; all evidence/version/stop channels active; no general route announcement. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Window open** — Orsa opens bounded transition; all evidence/version/stop channels active; no general route announcement. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.

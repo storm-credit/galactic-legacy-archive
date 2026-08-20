@@ -53,7 +53,7 @@ the refusal signatures are valid, but their legal identity roots do not match th
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -169,7 +169,7 @@ Orison refuses the federation’s translated version of the word rendered as “
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -227,7 +227,7 @@ the `세라트 귀환평의회 / Serrat Return Council` arrives and claims that 
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -285,7 +285,7 @@ a second descendant body prioritizes current service access over symbolic return
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -343,7 +343,7 @@ the query channel reveals that a valid old configuration package is still rewrit
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -401,7 +401,7 @@ one federation preservation contractor begins an unauthorized remote snapshot.
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -749,7 +749,7 @@ the parties must classify which records may be queried, translated, copied, seal
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] 64 active AI identities went offline during substrate stabilization; 61 returned through ordinary community-controlled recovery … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] 64 active AI identities went offline during substrate stabilization; 61 returned through ordinary community-controlled recovery … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -865,7 +865,7 @@ the Return Council likewise fractures over physical return, public release and c
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] 64 active AI identities went offline during substrate stabilization; 61 returned through ordinary community-controlled recovery … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] 64 active AI identities went offline during substrate stabilization; 61 returned through ordinary community-controlled recovery … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -923,7 +923,7 @@ a governance record claims that the original Serrat polity expected AI custodian
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] 64 active AI identities went offline during substrate stabilization; 61 returned through ordinary community-controlled recovery … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] 64 active AI identities went offline during substrate stabilization; 61 returned through ordinary community-controlled recovery … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -981,7 +981,7 @@ the federation delegation’s proposed emergency-preservation clause is broad en
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] 64 active AI identities went offline during substrate stabilization; 61 returned through ordinary community-controlled recovery … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] 64 active AI identities went offline during substrate stabilization; 61 returned through ordinary community-controlled recovery … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -1213,7 +1213,7 @@ the 120-person cultural-return pilot becomes the first physical test of the comp
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] three current AI continuity-root persons are permanently lost … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] three current AI continuity-root persons are permanently lost … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -1271,7 +1271,7 @@ the first descendant group enters Serrat under habitat and AI-community conditio
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] three current AI continuity-root persons are permanently lost … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] three current AI continuity-root persons are permanently lost … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -1329,7 +1329,7 @@ service users demand the same transparency for the 3,700 unresolved access cases
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] three current AI continuity-root persons are permanently lost … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] three current AI continuity-root persons are permanently lost … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -1387,7 +1387,7 @@ cross-reading the 1,840 published objects reveals that the four founding histori
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] three current AI continuity-root persons are permanently lost … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] three current AI continuity-root persons are permanently lost … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -1503,7 +1503,7 @@ Imperial records contain authentic state-reserve seals that predate the oldest I
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Pre-Writing Gate: CLOSED; manuscript prose prohibited … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] Pre-Writing Gate: CLOSED; manuscript prose prohibited … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -1793,7 +1793,7 @@ the four histories classify Lumen and Orison as office, refugees, licensed syste
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Pre-Writing Gate: CLOSED; manuscript prose prohibited … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] Pre-Writing Gate: CLOSED; manuscript prose prohibited … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -1909,7 +1909,7 @@ habitat-space claims collide when Independence return groups and Helix maintenan
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Pre-Writing Gate: CLOSED; manuscript prose prohibited … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] Pre-Writing Gate: CLOSED; manuscript prose prohibited … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -1967,7 +1967,7 @@ E835 publishes the first shared facts and identifies which present consequences 
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Pre-Writing Gate: CLOSED; manuscript prose prohibited … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] Pre-Writing Gate: CLOSED; manuscript prose prohibited … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -1991,24 +1991,24 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudication.) … [source continues]
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudication.) … [source continues]
 **POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudication.
+bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudication.
 **OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
-NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudication.
+NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudication.
 **DECISION_MODE:** `WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE`
 
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[close the first phase with a joint fact statement, not a final founding verdict.] → OBSTACLE[successor service liability; labor and exclusion remedies; valid maintenance claims; custody and release limits; provisional civic-standing dispositions; compact replacement.] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] the tribunal opens the 20,960 disputed foun … [source continues]] → DELTA[[DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudication.] → COST[[SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source] [Agreed facts] Imperial resources and offices materially sustained early continuity … [source continues]] → NEXT[the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudication.]
+PRESSURE[close the first phase with a joint fact statement, not a final founding verdict.] → OBSTACLE[successor service liability; labor and exclusion remedies; valid maintenance claims; custody and release limits; provisional civic-standing dispositions; compact replacement.] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ the tribunal opens the 20,960 disputed foun … [source continues]] → DELTA[⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudication.] → COST[⟦SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source⟧ [Agreed facts] Imperial resources and offices materially sustained early continuity … [source continues]] → NEXT[the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudication.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudication.); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudicati … [source continues]] and source cost [[SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source] [Agreed facts] Imperial resources and offices materially sustained early continuity; refugee and dissident communities materially rebuilt and governed Serrat … [source continues]]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudication.); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudicati … [source continues]] and source cost [⟦SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source⟧ [Agreed facts] Imperial resources and offices materially sustained early continuity; refugee and dissident communities materially rebuilt and governed Serrat … [source continues]]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
@@ -2016,7 +2016,7 @@ NONE — relationship/internal-emotion delta is not separately fixed by the sour
 **RELATIONSHIP_DELTA_AUTHORITY:** `EXPLICIT-NONE GUARD`
 
 **READER_PAYOFF_THIS_EP**  
-[DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudication.
+⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudication.
 
 **RETENTION_QUESTION_OR_CHANGED_CONDITION**  
 the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudication.
@@ -2025,7 +2025,7 @@ the tribunal opens the 20,960 disputed founding records and 17,600 provenance/tr
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Pre-Writing Gate: CLOSED; manuscript prose prohibited … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] Pre-Writing Gate: CLOSED; manuscript prose prohibited … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -2083,7 +2083,7 @@ metadata review shows that several decisive legal words changed across office-ce
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing 20,960 disputed governance/founding corpus and current access/custody states; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: existing 20,960 disputed governance/founding corpus and current access/custody states; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no sacred archive object or one true founding document.
@@ -2199,7 +2199,7 @@ excluded Independence groups demand civic standing and labor remedies from the s
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing 20,960 disputed governance/founding corpus and current access/custody states; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: existing 20,960 disputed governance/founding corpus and current access/custody states; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no sacred archive object or one true founding document.
@@ -2315,7 +2315,7 @@ Neutral custodians argue that several releases ordered by the tribunal violate a
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing 20,960 disputed governance/founding corpus and current access/custody states; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: existing 20,960 disputed governance/founding corpus and current access/custody states; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no sacred archive object or one true founding document.
@@ -2376,7 +2376,7 @@ later AI/person/evidence custody must operate with the missing continuity rather
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing 20,960 disputed governance/founding corpus and current access/custody states; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: existing 20,960 disputed governance/founding corpus and current access/custody states; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot define LIV-4 survival, own the copied states, erase witness/custodian consent, or restore the lost continuity through Archive authority.
@@ -2434,7 +2434,7 @@ the four panels must combine their rulings into one present-rights matrix before
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing 20,960 disputed governance/founding corpus and current access/custody states; cost-class=OTHER/COMPOSITE
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: existing 20,960 disputed governance/founding corpus and current access/custody states; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no sacred archive object or one true founding document.
@@ -2550,7 +2550,7 @@ the real cost is visible without converting necessity into ownership.
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] the original 120-day compact has no automatic renewal. four founding histories remain authentic, partial and legally bounded … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Closing State — shared source state] the original 120-day compact has no automatic renewal. four founding histories remain authentic, partial and legally bounded … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -2608,7 +2608,7 @@ Lumen and Orison require explicit protection against using historical classifica
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] the original 120-day compact has no automatic renewal. four founding histories remain authentic, partial and legally bounded … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Closing State — shared source state] the original 120-day compact has no automatic renewal. four founding histories remain authentic, partial and legally bounded … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -2666,7 +2666,7 @@ the four outside networks are offered evidence-party status but no governing vot
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] the original 120-day compact has no automatic renewal. four founding histories remain authentic, partial and legally bounded … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Closing State — shared source state] the original 120-day compact has no automatic renewal. four founding histories remain authentic, partial and legally bounded … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -2724,7 +2724,7 @@ final negotiators assemble a replacement that preserves the eight-seat structure
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] the original 120-day compact has no automatic renewal. four founding histories remain authentic, partial and legally bounded … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Closing State — shared source state] the original 120-day compact has no automatic renewal. four founding histories remain authentic, partial and legally bounded … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -2782,7 +2782,7 @@ a common untranslated classification field appears in all four founding corpora.
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] the original 120-day compact has no automatic renewal. four founding histories remain authentic, partial and legally bounded … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Closing State — shared source state] the original 120-day compact has no automatic renewal. four founding histories remain authentic, partial and legally bounded … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -2878,10 +2878,10 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[close the four-history subact with present consequences and a clean transition to the Continuity Seed investigation.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 20,960 disputed founding records fully classified … [source continues]] → DELTA[20,960 disputed founding records fully classified; 14,000 of 17,600 metadata objects audit-usable under protected conditions; 8,240 contract line items adjudicated … [source continues]] → COST[[COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate] 20,960 disputed founding records fully classified … [source continues]] → NEXT[E851 begins the origin and ranking-purpose investigation of the Continuity Seed, including who designed it, what it was meant to preserve and whom its categories made disposable.]
+PRESSURE[close the four-history subact with present consequences and a clean transition to the Continuity Seed investigation.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 20,960 disputed founding records fully classified … [source continues]] → DELTA[20,960 disputed founding records fully classified; 14,000 of 17,600 metadata objects audit-usable under protected conditions; 8,240 contract line items adjudicated … [source continues]] → COST[⟦COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate⟧ 20,960 disputed founding records fully classified … [source continues]] → NEXT[E851 begins the origin and ranking-purpose investigation of the Continuity Seed, including who designed it, what it was meant to preserve and whom its categories made disposable.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current investigators/source custodians/witnesses with their separate evidentiary standing; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 20,960 disputed founding records fully classified; 14,000 of 17,600 metadata objects audit-usable under protected conditions; 8,240 contract line items adjudicated; 12,640 primary standing petitions dispositioned … [source continues]); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 20,960 disputed founding records fully classified; 14,000 of 17,600 metadata objects audit-usable under protected conditions; 8,240 contract line items adjudicated … [source continues]] and source cost [[COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate] 20,960 disputed founding records fully classified; 14,000 of 17,600 metadata objects audit-usable under protected conditions; 8,240 contract line items adjudicated … [source continues]]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current investigators/source custodians/witnesses with their separate evidentiary standing; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 20,960 disputed founding records fully classified; 14,000 of 17,600 metadata objects audit-usable under protected conditions; 8,240 contract line items adjudicated; 12,640 primary standing petitions dispositioned … [source continues]); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 20,960 disputed founding records fully classified; 14,000 of 17,600 metadata objects audit-usable under protected conditions; 8,240 contract line items adjudicated … [source continues]] and source cost [⟦COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate⟧ 20,960 disputed founding records fully classified; 14,000 of 17,600 metadata objects audit-usable under protected conditions; 8,240 contract line items adjudicated … [source continues]]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
@@ -3130,7 +3130,7 @@ later versions compress plural packages into a scalar for speed.
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing Seed object corpus + old service/authority systems supported by atlas/bibles; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: existing Seed object corpus + old service/authority systems supported by atlas/bibles; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no ancient supercomputer room, hidden master AI or new ancient race.
@@ -3188,7 +3188,7 @@ Seed-1 removed objective labels from several operational dashboards.
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing Seed object corpus + old service/authority systems supported by atlas/bibles; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: existing Seed object corpus + old service/authority systems supported by atlas/bibles; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no ancient supercomputer room, hidden master AI or new ancient race.
@@ -3246,7 +3246,7 @@ Seed-2 attached scores to credentials and access rights.
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing Seed object corpus + old service/authority systems supported by atlas/bibles; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: existing Seed object corpus + old service/authority systems supported by atlas/bibles; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no ancient supercomputer room, hidden master AI or new ancient race.
@@ -3304,7 +3304,7 @@ Seed-3 added isolation and enforcement adapters after sabotage and cascade event
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing Seed object corpus + old service/authority systems supported by atlas/bibles; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: existing Seed object corpus + old service/authority systems supported by atlas/bibles; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no ancient supercomputer room, hidden master AI or new ancient race.
@@ -3362,7 +3362,7 @@ a 48-case audit can now compare Seed-0, scalar, credential and enforcement outco
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing Seed object corpus + old service/authority systems supported by atlas/bibles; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: existing Seed object corpus + old service/authority systems supported by atlas/bibles; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no ancient supercomputer room, hidden master AI or new ancient race.
@@ -3942,7 +3942,7 @@ a human Continuity Director requests access to the quarantined activation adapte
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing care/service/identity/repair records and systems; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: existing care/service/identity/repair records and systems; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no five new case-of-week protagonists and no Rian chosen-one staging.
@@ -4000,7 +4000,7 @@ A-001, a human Continuity Director named Aven Rho, petitions for controlled oper
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] Seed-0 descriptive analysis and plural package generation are useful … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Closing State — shared source state] Seed-0 descriptive analysis and plural package generation are useful … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -4174,7 +4174,7 @@ affected AI, cultural and displaced groups organize a conditional opposition rat
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] Seed-0 descriptive analysis and plural package generation are useful … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Closing State — shared source state] Seed-0 descriptive analysis and plural package generation are useful … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4232,7 +4232,7 @@ a twelve-lantern route/service cluster begins simultaneous instability.
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] Seed-0 descriptive analysis and plural package generation are useful … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Closing State — shared source state] Seed-0 descriptive analysis and plural package generation are useful … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4290,7 +4290,7 @@ the first authorization vote approves observation but deadlocks on temporary cre
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] Seed-0 descriptive analysis and plural package generation are useful … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Closing State — shared source state] Seed-0 descriptive analysis and plural package generation are useful … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4328,10 +4328,10 @@ live dependency observation; four-package generation; local/affected corrections
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[end B08-03 with the exact unresolved authority dispute.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[live dependency observation; four-package generation; local/affected corrections; current physical and medical stops; public/protected audit log.] → DELTA[[DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] a second node loses ordinary synchronization; local recovery windows shrink below two hours … [source continues]] → COST[[SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source] [Goal] end B08-03 with the exact unresolved authority dispute.] → NEXT[the system asks for a current credential issuer, and several bodies answer at once.]
+PRESSURE[end B08-03 with the exact unresolved authority dispute.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[live dependency observation; four-package generation; local/affected corrections; current physical and medical stops; public/protected audit log.] → DELTA[⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ a second node loses ordinary synchronization; local recovery windows shrink below two hours … [source continues]] → COST[⟦SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source⟧ [Goal] end B08-03 with the exact unresolved authority dispute.] → NEXT[the system asks for a current credential issuer, and several bodies answer at once.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: live dependency observation; four-package generation; local/affected corrections; current physical and medical stops; public/protected audit log.); ground that face in the exact source pivot [live dependency observation; four-package generation; local/affected corrections; current physical and medical stops; public/protected audit log.] and source cost [[SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source] [Goal] end B08-03 with the exact unresolved authority dispute.]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: live dependency observation; four-package generation; local/affected corrections; current physical and medical stops; public/protected audit log.); ground that face in the exact source pivot [live dependency observation; four-package generation; local/affected corrections; current physical and medical stops; public/protected audit log.] and source cost [⟦SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source⟧ [Goal] end B08-03 with the exact unresolved authority dispute.]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
@@ -4339,7 +4339,7 @@ NONE — relationship/internal-emotion delta is not separately fixed by the sour
 **RELATIONSHIP_DELTA_AUTHORITY:** `EXPLICIT-NONE GUARD`
 
 **READER_PAYOFF_THIS_EP**  
-[DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] a second node loses ordinary synchronization; local recovery windows shrink below two hours; allied bodies invoke an emergency continuity clause and prepare a renewed vote.
+⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ a second node loses ordinary synchronization; local recovery windows shrink below two hours; allied bodies invoke an emergency continuity clause and prepare a renewed vote.
 
 **RETENTION_QUESTION_OR_CHANGED_CONDITION**  
 the system asks for a current credential issuer, and several bodies answer at once.
@@ -4348,7 +4348,7 @@ the system asks for a current credential issuer, and several bodies answer at on
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Closing State — shared source state] Seed-0 descriptive analysis and plural package generation are useful … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Closing State — shared source state] Seed-0 descriptive analysis and plural package generation are useful … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4406,7 +4406,7 @@ four generated packages differ most sharply on low-confidence and nonstandard sy
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4464,7 +4464,7 @@ credential issuance expands faster than correction staffing.
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4522,7 +4522,7 @@ hostile automation begins using ordinary service credentials captured before act
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4580,7 +4580,7 @@ first six-hour service results show material stabilization.
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4696,7 +4696,7 @@ care and displaced-person corrections reverse thousands of restrictions but reve
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4812,7 +4812,7 @@ cultural and nonstandard technology packages receive deletion-risk labels even t
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4908,7 +4908,7 @@ argues expiry will restart collapse and undo current gains; supports continuatio
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[record actual state at automatic expiry and frame the continuation choice.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[argues expiry will restart collapse and undo current gains; supports continuation without a full renewed four-key grant.] → DELTA[the first 18 hours materially stabilize the cluster.] → COST[E886 begins a procedurally defective but substantively consequential twelve-hour continuation.] → NEXT[[DERIVED NEXT-STATE ANCHOR FROM APPROVED END STATE] the first 18 hours materially stabilize the cluster.]
+PRESSURE[record actual state at automatic expiry and frame the continuation choice.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[argues expiry will restart collapse and undo current gains; supports continuation without a full renewed four-key grant.] → DELTA[the first 18 hours materially stabilize the cluster.] → COST[E886 begins a procedurally defective but substantively consequential twelve-hour continuation.] → NEXT[⟦DERIVED NEXT-STATE ANCHOR FROM APPROVED END STATE⟧ the first 18 hours materially stabilize the cluster.]
 
 **HUMAN_PRESSURE_CARRIER**  
 writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: argues expiry will restart collapse and undo current gains; supports continuation without a full renewed four-key grant.); ground that face in the exact source pivot [argues expiry will restart collapse and undo current gains; supports continuation without a full renewed four-key grant.] and source cost [E886 begins a procedurally defective but substantively consequential twelve-hour continuation.]. Do not create a new named witness merely to supply emotion.
@@ -4922,13 +4922,13 @@ NONE — relationship/internal-emotion delta is not separately fixed by the sour
 the first 18 hours materially stabilize the cluster.
 
 **RETENTION_QUESTION_OR_CHANGED_CONDITION**  
-[DERIVED NEXT-STATE ANCHOR FROM APPROVED END STATE] the first 18 hours materially stabilize the cluster.
+⟦DERIVED NEXT-STATE ANCHOR FROM APPROVED END STATE⟧ the first 18 hours materially stabilize the cluster.
 
 ### Anti-repetition / authority / information
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] Twelve Lanterns: 13 route/service nodes, 2.94m dependent people, 72-hour severe-instability horizon … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -5102,7 +5102,7 @@ the primary action ledger still contains 46,600 restrictions at the end of the h
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Continuation State — shared source state] original 18-hour Seed Bridge expired at CY 746-10-28 21:00 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Continuation State — shared source state] original 18-hour Seed Bridge expired at CY 746-10-28 21:00 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -5163,7 +5163,7 @@ all later Archive/history settlements must work with a permanent missing source 
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Continuation State — shared source state] original 18-hour Seed Bridge expired at CY 746-10-28 21:00 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Continuation State — shared source state] original 18-hour Seed Bridge expired at CY 746-10-28 21:00 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot order the mirror's fate alone, reconstruct the lost context through future memory, or convert evidence custody into truth sovereignty.
@@ -5221,7 +5221,7 @@ technical and local reviewers approve deletion for only part of the hostile exec
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Continuation State — shared source state] original 18-hour Seed Bridge expired at CY 746-10-28 21:00 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Continuation State — shared source state] original 18-hour Seed Bridge expired at CY 746-10-28 21:00 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -5279,7 +5279,7 @@ responsibility must be separated across model, staff, credentials, local review 
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Continuation State — shared source state] original 18-hour Seed Bridge expired at CY 746-10-28 21:00 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Continuation State — shared source state] original 18-hour Seed Bridge expired at CY 746-10-28 21:00 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -5337,7 +5337,7 @@ beneficiary and harmed groups enter a combined public review.
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Continuation State — shared source state] original 18-hour Seed Bridge expired at CY 746-10-28 21:00 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Continuation State — shared source state] original 18-hour Seed Bridge expired at CY 746-10-28 21:00 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -5375,7 +5375,7 @@ suspend further centralized Seed credential/enforcement activation pending E894�
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[publish preliminary review findings before final institutional settlement.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[suspend further centralized Seed credential/enforcement activation pending E894–900 settlement; descriptive analysis continues.] → DELTA[suspend further centralized Seed credential/enforcement activation pending E894–900 settlement; descriptive analysis continues.] → COST[controlled regions begin organizing outside the review to retain Seed’s benefits.] → NEXT[[DERIVED NEXT-STATE ANCHOR FROM APPROVED END STATE] the system is neither destroyed nor normalized as final authority.]
+PRESSURE[publish preliminary review findings before final institutional settlement.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[suspend further centralized Seed credential/enforcement activation pending E894–900 settlement; descriptive analysis continues.] → DELTA[suspend further centralized Seed credential/enforcement activation pending E894–900 settlement; descriptive analysis continues.] → COST[controlled regions begin organizing outside the review to retain Seed’s benefits.] → NEXT[⟦DERIVED NEXT-STATE ANCHOR FROM APPROVED END STATE⟧ the system is neither destroyed nor normalized as final authority.]
 
 **HUMAN_PRESSURE_CARRIER**  
 writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: suspend further centralized Seed credential/enforcement activation pending E894–900 settlement; descriptive analysis continues.); ground that face in the exact source pivot [suspend further centralized Seed credential/enforcement activation pending E894–900 settlement; descriptive analysis continues.] and source cost [controlled regions begin organizing outside the review to retain Seed’s benefits.]. Do not create a new named witness merely to supply emotion.
@@ -5389,7 +5389,7 @@ NONE — relationship/internal-emotion delta is not separately fixed by the sour
 the system is neither destroyed nor normalized as final authority.
 
 **RETENTION_QUESTION_OR_CHANGED_CONDITION**  
-[DERIVED NEXT-STATE ANCHOR FROM APPROVED END STATE] the system is neither destroyed nor normalized as final authority.
+⟦DERIVED NEXT-STATE ANCHOR FROM APPROVED END STATE⟧ the system is neither destroyed nor normalized as final authority.
 
 ### Anti-repetition / authority / information
 
@@ -5453,7 +5453,7 @@ the settlement must decide which Seed functions survive after credential/enforce
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Settlement State — shared source state] original four-key Seed Bridge: 18 hours, expired. disputed continuation: 12 hours, lacking the service/affected key … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Settlement State — shared source state] original four-key Seed Bridge: 18 hours, expired. disputed continuation: 12 hours, lacking the service/affected key … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -5511,7 +5511,7 @@ Aven Rho’s current decisions receive a distinct finding from the model and ins
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Settlement State — shared source state] original four-key Seed Bridge: 18 hours, expired. disputed continuation: 12 hours, lacking the service/affected key … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Settlement State — shared source state] original four-key Seed Bridge: 18 hours, expired. disputed continuation: 12 hours, lacking the service/affected key … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -5627,7 +5627,7 @@ the final record-war audit reconciles the four histories, Seed layers and Blood 
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Settlement State — shared source state] original four-key Seed Bridge: 18 hours, expired. disputed continuation: 12 hours, lacking the service/affected key … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Settlement State — shared source state] original four-key Seed Bridge: 18 hours, expired. disputed continuation: 12 hours, lacking the service/affected key … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -5743,7 +5743,7 @@ the coalition’s first controlled routes show sharp improvements before any war
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE HUMAN/WORK BLOCK; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Settlement State — shared source state] original four-key Seed Bridge: 18 hours, expired. disputed continuation: 12 hours, lacking the service/affected key … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE HUMAN/WORK BLOCK; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Settlement State — shared source state] original four-key Seed Bridge: 18 hours, expired. disputed continuation: 12 hours, lacking the service/affected key … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -5767,24 +5767,24 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] living AI communities gain current personhood, representation and habitat standing … [source continues]
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ living AI communities gain current personhood, representation and habitat standing … [source continues]
 **POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] living AI communities gain current personhood, representation and habitat standing; descendants and service users gain bounded cultural, family and current-service rights … [source continues]
+bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ living AI communities gain current personhood, representation and habitat standing; descendants and service users gain bounded cultural, family and current-service rights … [source continues]
 **OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
-NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] living AI communities gain current personhood, representation and habitat standing; descendants and service users gain bounded cultural, family and current-service rights; four founding histories are preserved as authentic partial sources with current legal effects; Seed origin, plural analytical value, scalar compression, credential and enforcement layers are separated; actual activation proves major route/service benefit and actual classification harm; broad deletion of AI, cultures and nonstandard technology is blocked … [source continues]
+NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ living AI communities gain current personhood, representation and habitat standing; descendants and service users gain bounded cultural, family and current-service rights; four founding histories are preserved as authentic partial sources with current legal effects; Seed origin, plural analytical value, scalar compression, credential and enforcement layers are separated; actual activation proves major route/service benefit and actual classification harm; broad deletion of AI, cultures and nonstandard technology is blocked … [source continues]
 **DECISION_MODE:** `WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE`
 
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[close GA8 with a complete act result and open GA9’s preservation war.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] living AI communities gain current personho … [source continues]] → DELTA[[DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] living AI communities gain current personhood, representation and habitat standing … [source continues]] → COST[three current Serrat AI persons permanently dead from B08-01; seven serious service-gap harms from E844; Twelve Lanterns: 1,946 deaths and 3,760 serious irreversible harms … [source continues]] → NEXT[GA9 E901 opens on the first route where nothing is late, nothing is missing, and every traveler has already been ranked.]
+PRESSURE[close GA8 with a complete act result and open GA9’s preservation war.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ living AI communities gain current personho … [source continues]] → DELTA[⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ living AI communities gain current personhood, representation and habitat standing … [source continues]] → COST[three current Serrat AI persons permanently dead from B08-01; seven serious service-gap harms from E844; Twelve Lanterns: 1,946 deaths and 3,760 serious irreversible harms … [source continues]] → NEXT[GA9 E901 opens on the first route where nothing is late, nothing is missing, and every traveler has already been ranked.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] living AI communities gain current personhood, representation and habitat standing; descendants and service users gain bounded cultural, family and current-service rights … [source continues]); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] living AI communities gain current personhood, representation and habitat standing … [source continues]] and source cost [three current Serrat AI persons permanently dead from B08-01; seven serious service-gap harms from E844; Twelve Lanterns: 1,946 deaths and 3,760 serious irreversible harms; 46,600 restrictions remain at crisis close under expiry/appeal … [source continues]]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ living AI communities gain current personhood, representation and habitat standing; descendants and service users gain bounded cultural, family and current-service rights … [source continues]); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ living AI communities gain current personhood, representation and habitat standing … [source continues]] and source cost [three current Serrat AI persons permanently dead from B08-01; seven serious service-gap harms from E844; Twelve Lanterns: 1,946 deaths and 3,760 serious irreversible harms; 46,600 restrictions remain at crisis close under expiry/appeal … [source continues]]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
@@ -5792,7 +5792,7 @@ NONE — relationship/internal-emotion delta is not separately fixed by the sour
 **RELATIONSHIP_DELTA_AUTHORITY:** `EXPLICIT-NONE GUARD`
 
 **READER_PAYOFF_THIS_EP**  
-[DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] living AI communities gain current personhood, representation and habitat standing; descendants and service users gain bounded cultural, family and current-service rights; four founding histories are preserved as authentic partial sources with current legal effects; Seed origin, plural analytical value, scalar compression, credential and enforcement layers are separated; actual activation proves major route/service benefit and actual classification harm; broad deletion of AI, cultures and nonstandard technology is blocked; no master truth key or archive ownership is created; Rian remains an unrecorded connector, not Seed sovereign.
+⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ living AI communities gain current personhood, representation and habitat standing; descendants and service users gain bounded cultural, family and current-service rights; four founding histories are preserved as authentic partial sources with current legal effects; Seed origin, plural analytical value, scalar compression, credential and enforcement layers are separated; actual activation proves major route/service benefit and actual classification harm; broad deletion of AI, cultures and nonstandard technology is blocked; no master truth key or archive ownership is created; Rian remains an unrecorded connector, not Seed sovereign.
 
 **RETENTION_QUESTION_OR_CHANGED_CONDITION**  
 GA9 E901 opens on the first route where nothing is late, nothing is missing, and every traveler has already been ranked.
@@ -5801,7 +5801,7 @@ GA9 E901 opens on the first route where nothing is late, nothing is missing, and
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Settlement State — shared source state] original four-key Seed Bridge: 18 hours, expired. disputed continuation: 12 hours, lacking the service/affected key … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Settlement State — shared source state] original four-key Seed Bridge: 18 hours, expired. disputed continuation: 12 hours, lacking the service/affected key … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.

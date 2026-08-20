@@ -53,7 +53,7 @@ the first baseline audit shows piracy, delay, shortage and maintenance burdens l
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -169,7 +169,7 @@ coalition operators load the first common schedule and credential package.
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -227,7 +227,7 @@ coordinated decoy routes expose a piracy network that depended on schedule fragm
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -285,7 +285,7 @@ the delay ledger shows a similarly dramatic improvement.
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -343,7 +343,7 @@ shortage and ration ledgers become the next political proof point.
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -401,7 +401,7 @@ maintenance and insurance reforms convert temporary speed into durable capacity.
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -459,7 +459,7 @@ beneficiary testimony threatens to make all criticism appear anti-safety.
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -517,7 +517,7 @@ the common format begins rejecting systems that cannot translate themselves clea
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -1039,7 +1039,7 @@ E919 asks whether conditional participation is becoming compulsory through marke
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Operational State — shared source state] treaty key operates on 31 of 37 corridors. coalition performance gains are real and must remain visible … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Operational State — shared source state] treaty key operates on 31 of 37 corridors. coalition performance gains are real and must remain visible … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -1155,7 +1155,7 @@ a live escort dispute requires a named commander without transferring the key.
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Late-Batch State — shared source state] coalition safety and service gains are real. the treaty key remains limited to participating functions and regions … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Late-Batch State — shared source state] coalition safety and service gains are real. the treaty key remains limited to participating functions and regions … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -1213,7 +1213,7 @@ the delayed ship’s local stop proves justified when a hidden structural fault 
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Late-Batch State — shared source state] coalition safety and service gains are real. the treaty key remains limited to participating functions and regions … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Late-Batch State — shared source state] coalition safety and service gains are real. the treaty key remains limited to participating functions and regions … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -1271,7 +1271,7 @@ a consolidated mortality and harm ledger reveals that the controlled region is s
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Late-Batch State — shared source state] coalition safety and service gains are real. the treaty key remains limited to participating functions and regions … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Late-Batch State — shared source state] coalition safety and service gains are real. the treaty key remains limited to participating functions and regions … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -1329,7 +1329,7 @@ the public evaluation must decide whether to expand, freeze or narrow the treaty
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Late-Batch State — shared source state] coalition safety and service gains are real. the treaty key remains limited to participating functions and regions … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Late-Batch State — shared source state] coalition safety and service gains are real. the treaty key remains limited to participating functions and regions … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -1387,7 +1387,7 @@ leaders begin publicly naming the controlled network `완벽한 항로 / Perfect
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Late-Batch State — shared source state] coalition safety and service gains are real. the treaty key remains limited to participating functions and regions … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Late-Batch State — shared source state] coalition safety and service gains are real. the treaty key remains limited to participating functions and regions … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -1967,7 +1967,7 @@ beneficiary systems show that broad rollback could reintroduce piracy and shorta
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: route slots; current-standing/identity proofs; insurance/repair access; clinic/technology service assets; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: route slots; current-standing/identity proofs; insurance/repair access; clinic/technology service assets; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority. HIGH-WATCH veto: do not introduce a different victim-protagonist for every domain.
@@ -2025,7 +2025,7 @@ E936 begins a deduplicated linked-case audit to determine how many people actual
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: route slots; current-standing/identity proofs; insurance/repair access; clinic/technology service assets; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: route slots; current-standing/identity proofs; insurance/repair access; clinic/technology service assets; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority. HIGH-WATCH veto: do not introduce a different victim-protagonist for every domain.
@@ -2141,7 +2141,7 @@ urgent current-standing warrants are issued while final status review continues.
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: current-standing warrants; existing clinic component/safety evidence; parallel-lane ships/guarantees; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: current-standing warrants; existing clinic component/safety evidence; parallel-lane ships/guarantees; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate. HIGH-WATCH veto: do not turn the warrant into a magical identity item.
@@ -2199,7 +2199,7 @@ AI communities insist that warrants must not compress plural identities.
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: current-standing warrants; existing clinic component/safety evidence; parallel-lane ships/guarantees; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: current-standing warrants; existing clinic component/safety evidence; parallel-lane ships/guarantees; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate. HIGH-WATCH veto: do not turn the warrant into a magical identity item.
@@ -2257,7 +2257,7 @@ a nonstandard reproductive-care clinic challenges a combined technical and famil
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: current-standing warrants; existing clinic component/safety evidence; parallel-lane ships/guarantees; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: current-standing warrants; existing clinic component/safety evidence; parallel-lane ships/guarantees; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate. HIGH-WATCH veto: do not turn the warrant into a magical identity item.
@@ -2373,7 +2373,7 @@ insurers and repair institutions must decide whether to accept the parallel evid
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: current-standing warrants; existing clinic component/safety evidence; parallel-lane ships/guarantees; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: current-standing warrants; existing clinic component/safety evidence; parallel-lane ships/guarantees; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate. HIGH-WATCH veto: do not turn the warrant into a magical identity item.
@@ -2431,7 +2431,7 @@ Aven argues that linked review is dismantling the predictive value that made the
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: current-standing warrants; existing clinic component/safety evidence; parallel-lane ships/guarantees; cost-class=OTHER/COMPOSITE
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: current-standing warrants; existing clinic component/safety evidence; parallel-lane ships/guarantees; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate. HIGH-WATCH veto: do not turn the warrant into a magical identity item.
@@ -2547,7 +2547,7 @@ coalition advocates use the delay to reopen the central-command argument.
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Reform State — shared source state] Perfect Route remains safer and faster overall. current-standing warrants and linked review reduce immediate exclusion … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Reform State — shared source state] Perfect Route remains safer and faster overall. current-standing warrants and linked review reduce immediate exclusion … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -2605,7 +2605,7 @@ coalition members vote on a new administrative-rights protocol.
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Reform State — shared source state] Perfect Route remains safer and faster overall. current-standing warrants and linked review reduce immediate exclusion … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Reform State — shared source state] Perfect Route remains safer and faster overall. current-standing warrants and linked review reduce immediate exclusion … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -2663,7 +2663,7 @@ broad rollback tests show that reforms may still create service risk.
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Reform State — shared source state] Perfect Route remains safer and faster overall. current-standing warrants and linked review reduce immediate exclusion … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Reform State — shared source state] Perfect Route remains safer and faster overall. current-standing warrants and linked review reduce immediate exclusion … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -2721,7 +2721,7 @@ final B09-02 settlement must allocate responsibility and future authority.
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Reform State — shared source state] Perfect Route remains safer and faster overall. current-standing warrants and linked review reduce immediate exclusion … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Reform State — shared source state] Perfect Route remains safer and faster overall. current-standing warrants and linked review reduce immediate exclusion … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -2779,7 +2779,7 @@ affected communities decide whether to join the reformed coalition or preserve p
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Reform State — shared source state] Perfect Route remains safer and faster overall. current-standing warrants and linked review reduce immediate exclusion … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Reform State — shared source state] Perfect Route remains safer and faster overall. current-standing warrants and linked review reduce immediate exclusion … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -2837,7 +2837,7 @@ a coalition assault-warning predicts that the fragmented command map may fail wi
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Reform State — shared source state] Perfect Route remains safer and faster overall. current-standing warrants and linked review reduce immediate exclusion … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Reform State — shared source state] Perfect Route remains safer and faster overall. current-standing warrants and linked review reduce immediate exclusion … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -2953,7 +2953,7 @@ four response packages produce different speed, restriction and local-control co
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited. Rian has no central key at E951 … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited. Rian has no central key at E951 … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -3069,7 +3069,7 @@ member and affected institutions vote by function rather than one total accessio
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited. Rian has no central key at E951 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited. Rian has no central key at E951 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -3127,7 +3127,7 @@ Rian must decide whether to accept a key he previously refused in broader form.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited. Rian has no central key at E951 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited. Rian has no central key at E951 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -3185,7 +3185,7 @@ the five fields assemble the first live package.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited. Rian has no central key at E951 … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited. Rian has no central key at E951 … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -3243,7 +3243,7 @@ the first hour demonstrates an accuracy and speed none of the prior plural comma
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited. Rian has no central key at E951 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited. Rian has no central key at E951 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -3417,7 +3417,7 @@ service-priority field and Rian disagree over whether to protect the largest hub
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited. Rian has no central key at E951 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited. Rian has no central key at E951 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -3475,7 +3475,7 @@ E961 begins the main assault phase, where the key’s speed, priority and false-
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited. Rian has no central key at E951 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited. Rian has no central key at E951 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -3649,7 +3649,7 @@ the assault’s second wave targets repair yards and service reserves.
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Live Operation State — shared source state] Central Continuity Command Key active for initial 18-hour term. Rian holds command execution/composition only … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Live Operation State — shared source state] Central Continuity Command Key active for initial 18-hour term. Rian holds command execution/composition only … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -3707,7 +3707,7 @@ hostile forces concentrate on that corridor.
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Live Operation State — shared source state] Central Continuity Command Key active for initial 18-hour term. Rian holds command execution/composition only … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Live Operation State — shared source state] Central Continuity Command Key active for initial 18-hour term. Rian holds command execution/composition only … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -3823,7 +3823,7 @@ the first 18-hour term approaches expiry while the attack remains active.
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Live Operation State — shared source state] Central Continuity Command Key active for initial 18-hour term. Rian holds command execution/composition only … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Live Operation State — shared source state] Central Continuity Command Key active for initial 18-hour term. Rian holds command execution/composition only … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -3939,7 +3939,7 @@ E969 begins the extended operation and asks whether victory will make surrenderi
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Live Operation State — shared source state] Central Continuity Command Key active for initial 18-hour term. Rian holds command execution/composition only … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Live Operation State — shared source state] Central Continuity Command Key active for initial 18-hour term. Rian holds command execution/composition only … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -4055,7 +4055,7 @@ ship and service outcome ledgers show the material price of command.
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Extension State — shared source state] second 18-hour term active under narrower participation. Rian holds central command execution/composition for named missions only … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Extension State — shared source state] second 18-hour term active under narrower participation. Rian holds central command execution/composition for named missions only … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -4229,7 +4229,7 @@ Rian proposes temporary post-operation custody with explicit nonuse conditions.
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Extension State — shared source state] second 18-hour term active under narrower participation. Rian holds central command execution/composition for named missions only … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Extension State — shared source state] second 18-hour term active under narrower participation. Rian holds central command execution/composition for named missions only … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -4287,7 +4287,7 @@ the extension expires, but an enemy continuity-command enclave refuses the settl
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Extension State — shared source state] second 18-hour term active under narrower participation. Rian holds central command execution/composition for named missions only … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Extension State — shared source state] second 18-hour term active under narrower participation. Rian holds central command execution/composition for named missions only … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -4345,7 +4345,7 @@ E976 begins when the opposing continuity enclave and allied fleets force a final
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Extension State — shared source state] second 18-hour term active under narrower participation. Rian holds central command execution/composition for named missions only … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Extension State — shared source state] second 18-hour term active under narrower participation. Rian holds central command execution/composition for named missions only … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -4403,7 +4403,7 @@ enclave service data shows that its central system is genuinely effective.
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -4461,7 +4461,7 @@ Aven publicly explains why he supports continued central architecture.
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -4577,7 +4577,7 @@ coordinated attacks begin against four coalition corridors and two enclave disse
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -4635,7 +4635,7 @@ two command systems begin issuing incompatible schedules across the same nodes.
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -4751,7 +4751,7 @@ an enclave node seeks protected neutrality rather than coalition accession.
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -4809,7 +4809,7 @@ enclave command responds by tightening credential and fleet control elsewhere.
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -4867,7 +4867,7 @@ AI communities and nonstandard systems are asked to choose which command identit
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -4925,7 +4925,7 @@ E986 opens the decisive fleet and service campaign around the enclave’s milita
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -5099,7 +5099,7 @@ Aven offers a technical ceasefire preserving services if Rian recognizes continu
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Live Campaign State — shared source state] Rian’s central command key is active under a 48-hour named-campaign term. five authority fields remain separated … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Live Campaign State — shared source state] Rian’s central command key is active under a 48-hour named-campaign term. five authority fields remain separated … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -5157,7 +5157,7 @@ military elements attempt to seize Aven’s service network and continue fightin
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Live Campaign State — shared source state] Rian’s central command key is active under a 48-hour named-campaign term. five authority fields remain separated … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Live Campaign State — shared source state] Rian’s central command key is active under a 48-hour named-campaign term. five authority fields remain separated … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -5215,7 +5215,7 @@ central command core becomes physically and legally separable for the first time
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Live Campaign State — shared source state] Rian’s central command key is active under a 48-hour named-campaign term. five authority fields remain separated … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Live Campaign State — shared source state] Rian’s central command key is active under a 48-hour named-campaign term. five authority fields remain separated … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -5447,7 +5447,7 @@ verified casualty and craft ledgers arrive.
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Aftermath State — shared source state] organized enclave military resistance is defeated. current services, local authority and outsider status remain plural … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Aftermath State — shared source state] organized enclave military resistance is defeated. current services, local authority and outsider status remain plural … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -5505,7 +5505,7 @@ craft and node outcomes determine who can actually govern recovery.
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Aftermath State — shared source state] organized enclave military resistance is defeated. current services, local authority and outsider status remain plural … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Aftermath State — shared source state] organized enclave military resistance is defeated. current services, local authority and outsider status remain plural … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -5563,7 +5563,7 @@ thirty-one-node service outcome is finalized.
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Aftermath State — shared source state] organized enclave military resistance is defeated. current services, local authority and outsider status remain plural … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Aftermath State — shared source state] organized enclave military resistance is defeated. current services, local authority and outsider status remain plural … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -5679,7 +5679,7 @@ Rian must decide whether to retain that unique role.
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Aftermath State — shared source state] organized enclave military resistance is defeated. current services, local authority and outsider status remain plural … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Aftermath State — shared source state] organized enclave military resistance is defeated. current services, local authority and outsider status remain plural … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -5737,7 +5737,7 @@ the campaign term expires and transitional custody takes effect.
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Aftermath State — shared source state] organized enclave military resistance is defeated. current services, local authority and outsider status remain plural … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Aftermath State — shared source state] organized enclave military resistance is defeated. current services, local authority and outsider status remain plural … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.

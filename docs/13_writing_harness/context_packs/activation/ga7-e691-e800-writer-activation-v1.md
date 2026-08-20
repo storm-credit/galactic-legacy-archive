@@ -53,7 +53,7 @@ denial becomes a current decision with reasons and consequences.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] dates: CY 744-12-19 through 12-27. Orpheus outcomes remain: 2.57m arrived, 230k holdout, 310k captured/unstable, 180k operation dead, 15 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] dates: CY 744-12-19 through 12-27. Orpheus outcomes remain: 2.57m arrived, 230k holdout, 310k captured/unstable, 180k operation dead, 15 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -111,7 +111,7 @@ one local technical closure blocks the safest route to 18,400 critical holdouts.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] dates: CY 744-12-19 through 12-27. Orpheus outcomes remain: 2.57m arrived, 230k holdout, 310k captured/unstable, 180k operation dead, 15 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] dates: CY 744-12-19 through 12-27. Orpheus outcomes remain: 2.57m arrived, 230k holdout, 310k captured/unstable, 180k operation dead, 15 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -227,7 +227,7 @@ insurers and secured creditors refuse coverage/release for dozens of damaged shi
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] dates: CY 744-12-19 through 12-27. Orpheus outcomes remain: 2.57m arrived, 230k holdout, 310k captured/unstable, 180k operation dead, 15 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] dates: CY 744-12-19 through 12-27. Orpheus outcomes remain: 2.57m arrived, 230k holdout, 310k captured/unstable, 180k operation dead, 15 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -285,7 +285,7 @@ a political authority orders a route closure not for capacity or security, but t
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] dates: CY 744-12-19 through 12-27. Orpheus outcomes remain: 2.57m arrived, 230k holdout, 310k captured/unstable, 180k operation dead, 15 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] dates: CY 744-12-19 through 12-27. Orpheus outcomes remain: 2.57m arrived, 230k holdout, 310k captured/unstable, 180k operation dead, 15 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -343,7 +343,7 @@ the first seven days show 1.14m arrived people also depend on cross-region syste
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] dates: CY 744-12-19 through 12-27. Orpheus outcomes remain: 2.57m arrived, 230k holdout, 310k captured/unstable, 180k operation dead, 15 … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] dates: CY 744-12-19 through 12-27. Orpheus outcomes remain: 2.57m arrived, 230k holdout, 310k captured/unstable, 180k operation dead, 15 … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -401,7 +401,7 @@ E698 begins the first dependency cascades as closures propagate through food, me
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] dates: CY 744-12-19 through 12-27. Orpheus outcomes remain: 2.57m arrived, 230k holdout, 310k captured/unstable, 180k operation dead, 15 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] dates: CY 744-12-19 through 12-27. Orpheus outcomes remain: 2.57m arrived, 230k holdout, 310k captured/unstable, 180k operation dead, 15 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -459,7 +459,7 @@ payroll and identity services fail when one Continuity/Registry corridor suspend
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-28 through CY 745-01-15. 1.14m arrived people have cross-region dependencies inside fourteen days … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-28 through CY 745-01-15. 1.14m arrived people have cross-region dependencies inside fourteen days … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -517,7 +517,7 @@ food convoys divert toward better-paying regions and leave two overloaded receiv
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-28 through CY 745-01-15. 1.14m arrived people have cross-region dependencies inside fourteen days … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-28 through CY 745-01-15. 1.14m arrived people have cross-region dependencies inside fourteen days … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -575,7 +575,7 @@ one power/habitat region needs parts trapped behind a local environmental closur
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-28 through CY 745-01-15. 1.14m arrived people have cross-region dependencies inside fourteen days … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-28 through CY 745-01-15. 1.14m arrived people have cross-region dependencies inside fourteen days … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -633,7 +633,7 @@ missing-person search corridors are being used as the only remaining legal passa
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-28 through CY 745-01-15. 1.14m arrived people have cross-region dependencies inside fourteen days … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-28 through CY 745-01-15. 1.14m arrived people have cross-region dependencies inside fourteen days … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -691,7 +691,7 @@ captured/unstable regions demand direct supply even when their controlling autho
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-28 through CY 745-01-15. 1.14m arrived people have cross-region dependencies inside fourteen days … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-28 through CY 745-01-15. 1.14m arrived people have cross-region dependencies inside fourteen days … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -749,7 +749,7 @@ reciprocal diversion causes one previously open corridor to impose emergency quo
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-28 through CY 745-01-15. 1.14m arrived people have cross-region dependencies inside fourteen days … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-28 through CY 745-01-15. 1.14m arrived people have cross-region dependencies inside fourteen days … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -865,7 +865,7 @@ emergency operations must stabilize enough corridors to test the obligation tabl
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-28 through CY 745-01-15. 1.14m arrived people have cross-region dependencies inside fourteen days … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-28 through CY 745-01-15. 1.14m arrived people have cross-region dependencies inside fourteen days … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -923,7 +923,7 @@ E707 convenes a temporary multi-region route table while several authorities ref
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-28 through CY 745-01-15. 1.14m arrived people have cross-region dependencies inside fourteen days … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-28 through CY 745-01-15. 1.14m arrived people have cross-region dependencies inside fourteen days … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -981,7 +981,7 @@ participants disagree whether minimum obligations should follow population, capa
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 745-01-16 through 02-05. 1.14m arrived people require cross-region service within the opening horizon … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 745-01-16 through 02-05. 1.14m arrived people require cross-region service within the opening horizon … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -1039,7 +1039,7 @@ one participant announces immediate closure without the required notice or resid
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 745-01-16 through 02-05. 1.14m arrived people require cross-region service within the opening horizon … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 745-01-16 through 02-05. 1.14m arrived people require cross-region service within the opening horizon … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -1097,7 +1097,7 @@ the first full obligation test targets the 93k critical holdout group.
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 745-01-16 through 02-05. 1.14m arrived people require cross-region service within the opening horizon … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 745-01-16 through 02-05. 1.14m arrived people require cross-region service within the opening horizon … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -1155,7 +1155,7 @@ military authorities demand inspection power over all future missions after one 
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 745-01-16 through 02-05. 1.14m arrived people require cross-region service within the opening horizon … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 745-01-16 through 02-05. 1.14m arrived people require cross-region service within the opening horizon … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -1213,7 +1213,7 @@ creditors refuse the temporary mission liens created for damaged rescue and serv
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 745-01-16 through 02-05. 1.14m arrived people require cross-region service within the opening horizon … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 745-01-16 through 02-05. 1.14m arrived people require cross-region service within the opening horizon … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -1271,7 +1271,7 @@ a participating authority threatens to suspend all table missions unless its pol
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 745-01-16 through 02-05. 1.14m arrived people require cross-region service within the opening horizon … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 745-01-16 through 02-05. 1.14m arrived people require cross-region service within the opening horizon … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -1329,7 +1329,7 @@ one overloaded substitute corridor fails despite compliance with the table.
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 745-01-16 through 02-05. 1.14m arrived people require cross-region service within the opening horizon … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 745-01-16 through 02-05. 1.14m arrived people require cross-region service within the opening horizon … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -1387,7 +1387,7 @@ repeated denial packets from unrelated regions show a similar structure, risk mo
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 745-01-16 through 02-05. 1.14m arrived people require cross-region service within the opening horizon … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 745-01-16 through 02-05. 1.14m arrived people require cross-region service within the opening horizon … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -1503,7 +1503,7 @@ the oldest strong-looking document predates Haren’s emergency obligation table
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing D4/signature/command records and custody chain; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: existing D4/signature/command records and custody chain; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation. HIGH-WATCH veto: do not turn document counts into lore-only exposition and do not add a secret mastermind.
@@ -1851,7 +1851,7 @@ the first comparative scoring pass divides the 97 usable documents into strong, 
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing D4/signature/command records and custody chain; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: existing D4/signature/command records and custody chain; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation. HIGH-WATCH veto: do not turn document counts into lore-only exposition and do not add a secret mastermind.
@@ -2257,7 +2257,7 @@ the leaked fragment appears to show a named senior coordinator approving the mod
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Investigation State — shared source state] dates: CY 745-02-25 through 03-16. 29 strong matches, 41 partial matches and 27 controls … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Investigation State — shared source state] dates: CY 745-02-25 through 03-16. 29 strong matches, 41 partial matches and 27 controls … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -2373,7 +2373,7 @@ public accounts still credit a single “Blood Admiral” with both the original
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Investigation State — shared source state] dates: CY 745-02-25 through 03-16. 29 strong matches, 41 partial matches and 27 controls … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Investigation State — shared source state] dates: CY 745-02-25 through 03-16. 29 strong matches, 41 partial matches and 27 controls … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -2489,7 +2489,7 @@ an old combat/traffic record used as a signature control reopens Rian’s memory
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 745-03-17 through 03-29. one-person and one-office sole-source hypotheses are weakened, not every personal responsibility … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 745-03-17 through 03-29. one-person and one-office sole-source hypotheses are weakened, not every personal responsibility … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -2547,7 +2547,7 @@ the same reconstruction method shows several Blood Admiral cases contain accurat
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 745-03-17 through 03-29. one-person and one-office sole-source hypotheses are weakened, not every personal responsibility … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 745-03-17 through 03-29. one-person and one-office sole-source hypotheses are weakened, not every personal responsibility … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -2779,7 +2779,7 @@ one current region asks the table to assemble a theater-scale denial package bef
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 745-03-17 through 03-29. one-person and one-office sole-source hypotheses are weakened, not every personal responsibility … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 745-03-17 through 03-29. one-person and one-office sole-source hypotheses are weakened, not every personal responsibility … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -2837,7 +2837,7 @@ the E715 temporary table nears a decision on whether to extend, dissolve or beco
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 745-03-17 through 03-29. one-person and one-office sole-source hypotheses are weakened, not every personal responsibility … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 745-03-17 through 03-29. one-person and one-office sole-source hypotheses are weakened, not every personal responsibility … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -2953,7 +2953,7 @@ seven connected corridors report simultaneous power, receiving and hostile-press
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared State — shared source state] dates: CY 745-03-30 through 04-12. Blood Admiral is a five-layer composite finding … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared State — shared source state] dates: CY 745-03-30 through 04-12. Blood Admiral is a five-layer composite finding … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -3011,7 +3011,7 @@ planners present four executable families, including D4 and full centralized opt
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared State — shared source state] dates: CY 745-03-30 through 04-12. Blood Admiral is a five-layer composite finding … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared State — shared source state] dates: CY 745-03-30 through 04-12. Blood Admiral is a five-layer composite finding … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -3185,7 +3185,7 @@ E746 begins the appointment as the trigger forecasts worsen and Haren must decid
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared State — shared source state] dates: CY 745-03-30 through 04-12. Blood Admiral is a five-layer composite finding … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared State — shared source state] dates: CY 745-03-30 through 04-12. Blood Admiral is a five-layer composite finding … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -3359,7 +3359,7 @@ full G proposes a combined solution with lower modeled total deaths but insuffic
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Crisis State — shared source state] dates: CY 745-04-13 through 04-24. seven critical corridors. protected/core service envelope: 1.74m people … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Crisis State — shared source state] dates: CY 745-04-13 through 04-24. seven critical corridors. protected/core service envelope: 1.74m people … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -3417,7 +3417,7 @@ the rotating-quota alternative gains a current local implementation plan but req
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Crisis State — shared source state] dates: CY 745-04-13 through 04-24. seven critical corridors. protected/core service envelope: 1.74m people … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Crisis State — shared source state] dates: CY 745-04-13 through 04-24. seven critical corridors. protected/core service envelope: 1.74m people … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -3533,7 +3533,7 @@ current sensor/service data produces a 97-minute decision horizon.
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Crisis State — shared source state] dates: CY 745-04-13 through 04-24. seven critical corridors. protected/core service envelope: 1.74m people … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Crisis State — shared source state] dates: CY 745-04-13 through 04-24. seven critical corridors. protected/core service envelope: 1.74m people … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -3591,7 +3591,7 @@ the final current review ends with 31 minutes before the D4 execution deadline.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Crisis State — shared source state] dates: CY 745-04-13 through 04-24. seven critical corridors. protected/core service envelope: 1.74m people … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Crisis State — shared source state] dates: CY 745-04-13 through 04-24. seven critical corridors. protected/core service envelope: 1.74m people … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -3649,7 +3649,7 @@ E754 begins the D4 execution; the protected core stabilizes quickly while Lin’
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Crisis State — shared source state] dates: CY 745-04-13 through 04-24. seven critical corridors. protected/core service envelope: 1.74m people … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Crisis State — shared source state] dates: CY 745-04-13 through 04-24. seven critical corridors. protected/core service envelope: 1.74m people … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -3707,7 +3707,7 @@ Lin’s small-parts/oxygen/cold-chain residual mission is held for a security in
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Action] three heavy/non-exempt corridors close; two corridors cap at 18% current load … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Action] three heavy/non-exempt corridors close; two corridors cap at 18% current load … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -3823,7 +3823,7 @@ D4 is not a total humanitarian closure.
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Planned residual set] 14 missions; 11,600 t medicine, food, oxygen, filters, power parts and repair support … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Planned residual set] 14 missions; 11,600 t medicine, food, oxygen, filters, power parts and repair support … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -3939,7 +3939,7 @@ the protected core remains stable while two outer service zones enter cascading 
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Outcome] four craft arrive; one turns back; one is damaged and stranded; 18,400 people gain 18–30 hours of critical support … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Outcome] four craft arrive; one turns back; one is damaged and stranded; 18,400 people gain 18–30 hours of critical support … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -4055,7 +4055,7 @@ Lin’s appeal moves from planning evidence to an active current emergency reque
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Action] local load shedding, manual oxygen distribution, cold-chain triage and microconvoy support … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Action] local load shedding, manual oxygen distribution, cold-chain triage and microconvoy support … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -4113,7 +4113,7 @@ service failure reaches Lin’s shelter/work zone shortly before the D4 expiry.
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Outcome] several medicine stores and shelter sections remain usable through the night; the heavy/parts mission is still delayed … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Outcome] several medicine stores and shelter sections remain usable through the night; the heavy/parts mission is still delayed … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -4154,7 +4154,7 @@ NON-DISCRETE CONSEQUENCE — Lin dies despite local treatment/evacuation attempt
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[SEMANTIC SOURCE-BLOCK EPISODE FUNCTION; no new fact] [Named locked loss] Lin Osa dies permanently as a downstream D4 victim.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: Lin dies despite local treatment/evacuation attempts … [source continues]] → DELTA[Lin dies despite local treatment/evacuation attempts; her current appeal, work logs and household evidence remain available; additional deaths and harms enter the D4 downstream ledger.] → COST[Lin Osa dies permanently as a downstream D4 victim.] → NEXT[the D4 order expires automatically 46 minutes later.]
+PRESSURE[⟦SEMANTIC SOURCE-BLOCK EPISODE FUNCTION; no new fact⟧ [Named locked loss] Lin Osa dies permanently as a downstream D4 victim.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: Lin dies despite local treatment/evacuation attempts … [source continues]] → DELTA[Lin dies despite local treatment/evacuation attempts; her current appeal, work logs and household evidence remain available; additional deaths and harms enter the D4 downstream ledger.] → COST[Lin Osa dies permanently as a downstream D4 victim.] → NEXT[the D4 order expires automatically 46 minutes later.]
 
 **HUMAN_PRESSURE_CARRIER**  
 Lin Osa's current household/community/work team plus the local treatment/evacuation actors who physically bear the service failure; do not stage Lin as choosing death.
@@ -4232,7 +4232,7 @@ the first outcome comparison shows both a real core benefit and concentrated out
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Action] D4 route-priority and denial fields expire; Route Emergency Executor authority begins closure/audit phase and cannot issue a second D4 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Action] D4 route-priority and denial fields expire; Route Emergency Executor authority begins closure/audit phase and cannot issue a second D4 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -4348,7 +4348,7 @@ E766 begins the wider consequence and evidence phase, with additional deaths, co
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Haren’s statement] confirms he signed and continued the D4 order after the 24/48-hour reviews … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Haren’s statement] confirms he signed and continued the D4 order after the 24/48-hour reviews … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -4870,7 +4870,7 @@ E775 closes the consequence phase with an agreed statement of facts and conteste
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 745-05-09 through 07-04. D4 expired with no extension. Haren’s executive route authority is suspended … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 745-05-09 through 07-04. D4 expired with no extension. Haren’s executive route authority is suspended … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -4928,7 +4928,7 @@ the inquiry opens with separate panels for personal offense, compensation, insti
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 745-05-09 through 07-04. D4 expired with no extension. Haren’s executive route authority is suspended … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 745-05-09 through 07-04. D4 expired with no extension. Haren’s executive route authority is suspended … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -4986,7 +4986,7 @@ Haren’s defense begins with D4’s real protective benefit and the legality of
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: Lin's existing ledgers/evidence; compensation/service/route records; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: Lin's existing ledgers/evidence; compensation/service/route records; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive. HIGH-WATCH veto: no Lin resurrection, new victim solely for proof, or sentence change.
@@ -5160,7 +5160,7 @@ political panel addresses whether Haren can ever hold route office again.
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: Lin's existing ledgers/evidence; compensation/service/route records; cost-class=TIME/SERVICE-DELAY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: Lin's existing ledgers/evidence; compensation/service/route records; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive. HIGH-WATCH veto: no Lin resurrection, new victim solely for proof, or sentence change.
@@ -5218,7 +5218,7 @@ personal-offense panel considers liberty restriction rather than long imprisonme
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: Lin's existing ledgers/evidence; compensation/service/route records; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: Lin's existing ledgers/evidence; compensation/service/route records; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive. HIGH-WATCH veto: no Lin resurrection, new victim solely for proof, or sentence change.
@@ -5276,7 +5276,7 @@ institutional panel must decide what happens to the useful dangerous model and D
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: Lin's existing ledgers/evidence; compensation/service/route records; cost-class=OTHER/COMPOSITE
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: Lin's existing ledgers/evidence; compensation/service/route records; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive. HIGH-WATCH veto: no Lin resurrection, new victim solely for proof, or sentence change.
@@ -5372,7 +5372,7 @@ accepts the factual responsibility and sentence while preserving legal disagreem
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[SEMANTIC SOURCE-BLOCK EPISODE FUNCTION; no new fact] [Final personal finding] **guilty of abuse of emergency route authority with foreseeable downstream harm**, centered on the 48-hour cont … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[accepts the factual responsibility and sentence while preserving legal disagreement over the 48-hour necessity finding; does not claim martyrdom, innocence by benefit or sole guilt for the system.] → DELTA[personal and institutional responsibility are both real without a one-villain history.] → COST[verdict intensifies regional fracture and makes the coming federation design politically harder.] → NEXT[E784 begins a route-federation charter designed to coordinate mutual obligations without recreating Haren’s unilateral D4 office.]
+PRESSURE[⟦SEMANTIC SOURCE-BLOCK EPISODE FUNCTION; no new fact⟧ [Final personal finding] **guilty of abuse of emergency route authority with foreseeable downstream harm**, centered on the 48-hour cont … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[accepts the factual responsibility and sentence while preserving legal disagreement over the 48-hour necessity finding; does not claim martyrdom, innocence by benefit or sole guilt for the system.] → DELTA[personal and institutional responsibility are both real without a one-villain history.] → COST[verdict intensifies regional fracture and makes the coming federation design politically harder.] → NEXT[E784 begins a route-federation charter designed to coordinate mutual obligations without recreating Haren’s unilateral D4 office.]
 
 **HUMAN_PRESSURE_CARRIER**  
 adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: Haren; affected-region/victim actors; saved-core beneficiaries; Lin-related current claimants/records
@@ -5450,7 +5450,7 @@ delegates dispute whether a high-level denial can ever be fast enough without on
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing residual-duty reserve; route/mission resources; ships/cargo/crew time already in state design; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: existing residual-duty reserve; route/mission resources; ships/cargo/crew time already in state design; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive. HIGH-WATCH veto: do not render the eight fields as a UI skill tree.
@@ -5508,7 +5508,7 @@ delegates design a denial ladder that preserves direct local stops while splitti
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing residual-duty reserve; route/mission resources; ships/cargo/crew time already in state design; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: existing residual-duty reserve; route/mission resources; ships/cargo/crew time already in state design; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive. HIGH-WATCH veto: do not render the eight fields as a UI skill tree.
@@ -5566,7 +5566,7 @@ members demand an emergency short bridge for sub-two-hour threats.
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing residual-duty reserve; route/mission resources; ships/cargo/crew time already in state design; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: existing residual-duty reserve; route/mission resources; ships/cargo/crew time already in state design; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive. HIGH-WATCH veto: do not render the eight fields as a UI skill tree.
@@ -5624,7 +5624,7 @@ residual missions need protected capacity before any D3/D4 can be approved.
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing residual-duty reserve; route/mission resources; ships/cargo/crew time already in state design; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: existing residual-duty reserve; route/mission resources; ships/cargo/crew time already in state design; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive. HIGH-WATCH veto: do not render the eight fields as a UI skill tree.
@@ -5682,7 +5682,7 @@ victim and affected-region bodies demand authority over review without a permane
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing residual-duty reserve; route/mission resources; ships/cargo/crew time already in state design; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: existing residual-duty reserve; route/mission resources; ships/cargo/crew time already in state design; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive. HIGH-WATCH veto: do not render the eight fields as a UI skill tree.
@@ -5740,7 +5740,7 @@ E790 asks the 23 bodies to provisionally ratify the charter before a real corrid
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing residual-duty reserve; route/mission resources; ships/cargo/crew time already in state design; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: existing residual-duty reserve; route/mission resources; ships/cargo/crew time already in state design; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive. HIGH-WATCH veto: do not render the eight fields as a UI skill tree.
@@ -5798,7 +5798,7 @@ a two-region relay failure and armed convoy collision warning arrives, forcing t
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing residual-duty reserve; route/mission resources; ships/cargo/crew time already in state design; cost-class=RIGHTS/AUTHORITY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose⟧ ASSET: existing residual-duty reserve; route/mission resources; ships/cargo/crew time already in state design; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive. HIGH-WATCH veto: do not render the eight fields as a UI skill tree.
@@ -5856,7 +5856,7 @@ the facts/model key cannot be signed until the two relay clocks are reconciled e
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Live-Test Baseline — shared source state] Incident designation: `FB-01 / First Bridge` … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Live-Test Baseline — shared source state] Incident designation: `FB-01 / First Bridge` … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -5914,7 +5914,7 @@ the armed relief commander demands authority to reorder all queues, which the br
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Live-Test Baseline — shared source state] Incident designation: `FB-01 / First Bridge` … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Live-Test Baseline — shared source state] Incident designation: `FB-01 / First Bridge` … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -5972,7 +5972,7 @@ the bridge can prevent collision, but it cannot allocate the next twelve hours o
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Live-Test Baseline — shared source state] Incident designation: `FB-01 / First Bridge` … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Live-Test Baseline — shared source state] Incident designation: `FB-01 / First Bridge` … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -6030,7 +6030,7 @@ the two relays cannot both return to stable service through corridor-by-corridor
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Live-Test Baseline — shared source state] Incident designation: `FB-01 / First Bridge` … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Live-Test Baseline — shared source state] Incident designation: `FB-01 / First Bridge` … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -6088,7 +6088,7 @@ a faction proposes D4 to seize theater-wide priority before the second relay dri
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Live-Test Baseline — shared source state] Incident designation: `FB-01 / First Bridge` … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Live-Test Baseline — shared source state] Incident designation: `FB-01 / First Bridge` … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -6146,7 +6146,7 @@ R-17 repair reveals that the failure was not purely mechanical: one authenticate
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Live-Test Baseline — shared source state] Incident designation: `FB-01 / First Bridge` … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Live-Test Baseline — shared source state] Incident designation: `FB-01 / First Bridge` … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -6262,7 +6262,7 @@ affected regions demand the 30-day charter review include Haren eligibility rule
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Live-Test Baseline — shared source state] Incident designation: `FB-01 / First Bridge` … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Live-Test Baseline — shared source state] Incident designation: `FB-01 / First Bridge` … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -6320,7 +6320,7 @@ the 30-day review must decide whether to adopt a first regular charter and how t
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Live-Test Baseline — shared source state] Incident designation: `FB-01 / First Bridge` … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Live-Test Baseline — shared source state] Incident designation: `FB-01 / First Bridge` … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.

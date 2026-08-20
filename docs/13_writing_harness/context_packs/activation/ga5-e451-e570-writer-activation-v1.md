@@ -53,7 +53,7 @@ Vesper workers activate a physical red stop on Fuel Spine 4 while three armed fo
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -111,7 +111,7 @@ payroll authentication for 38,600 depot and fleet workers expires during the red
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -169,7 +169,7 @@ NONE — relationship/internal-emotion delta is not separately fixed by the sour
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -227,7 +227,7 @@ depot ammunition workers report that another formation is moving loaders toward 
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -285,7 +285,7 @@ an unmarked probe group tests Vesper outer sensors while the depot still lacks a
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -343,7 +343,7 @@ one participant demands the mandate name a single commander with default authori
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -401,7 +401,7 @@ NONE — relationship/internal-emotion delta is not separately fixed by the sour
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [End State E457] mandate active CY 744-03-13 through 03-20; 13 combat + 11 support ships; 76 frames/utility craft; no offensive/theater authority … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [End State E457] mandate active CY 744-03-13 through 03-20; 13 combat + 11 support ships; 76 frames/utility craft; no offensive/theater authority … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -459,7 +459,7 @@ Chief Engineer Leda Voss fails one of the two thermal safeties during a live low
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -517,7 +517,7 @@ safe propulsion, point defense and limited missile/flight capacity become availa
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -575,7 +575,7 @@ the home province offers immediate family support if the ship accepts its return
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -633,7 +633,7 @@ Dor offers Rami a direct Protector recommission that would unlock ammunition imm
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -691,7 +691,7 @@ ammunition keys authenticate under Dor, but one crew oath field still blocks mis
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -749,7 +749,7 @@ all pieces are ready except how the three authentic orders rank after the seven-
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20 … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -807,7 +807,7 @@ before the ship completes its first joined patrol, Vesper authentication delays 
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [End State E464] `세 번째 종`: R2/R2 and mission-chartered through 04-08; current mission complement: 364; 48 staged departures/stand-downs recorded … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [End State E464] `세 번째 종`: R2/R2 and mission-chartered through 04-08; current mission complement: 364; 48 staged departures/stand-downs recorded … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -865,7 +865,7 @@ a forged-looking but physically accurate target update sends two ships toward th
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -923,7 +923,7 @@ a provincial corvette receives no current order after its relay is jammed.
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -981,7 +981,7 @@ raiders exploit the gap to hit a fuel barge and medical-polymer container train.
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -1039,7 +1039,7 @@ an armed salvage craft attaches to a depot fuel barge and claims emergency recov
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -1097,7 +1097,7 @@ depot damage count shows the battle is being won tactically but lost in fuel and
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -1155,7 +1155,7 @@ Ardo demands a default battle commander for the next alert.
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -1213,7 +1213,7 @@ a new alert arrives while the rule is still unsigned.
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -1271,7 +1271,7 @@ mandate renewal now requires a broader charter covering command, crew, support, 
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [End State E472] standing defensive intent: operational for named Vesper/Talren defense alerts; no universal commander; `오래된 계절`: 7–10 month combat loss, 4 dead, 19 injured … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [End State E472] standing defensive intent: operational for named Vesper/Talren defense alerts; no universal commander; `오래된 계절`: 7–10 month combat loss, 4 dead, 19 injured … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -1329,7 +1329,7 @@ Dor offers Rian a broader temporary task command if he accepts General Staff def
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E473 date: CY 744-04-14. Act 5A continues through E480 / CY 744-04-20. first defense loss and central-speed comparison are public … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E473 date: CY 744-04-14. Act 5A continues through E480 / CY 744-04-20. first defense loss and central-speed comparison are public … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -1387,7 +1387,7 @@ Charter drafters discover no shared rule for who pays and repairs a ship damaged
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E473 date: CY 744-04-14. Act 5A continues through E480 / CY 744-04-20. first defense loss and central-speed comparison are public … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E473 date: CY 744-04-14. Act 5A continues through E480 / CY 744-04-20. first defense loss and central-speed comparison are public … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -1445,7 +1445,7 @@ a mobile repair/pay convoy is located under disputed claim, and the unfinished C
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [End State E475] detailed range E451–475 complete; Vesper opening OOB and eight-layer alignment state established; `세 번째 종` ship agreement active/reviewable and reduced to R2/R2 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [End State E475] detailed range E451–475 complete; Vesper opening OOB and eight-layer alignment state established; `세 번째 종` ship agreement active/reviewable and reduced to R2/R2 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -1503,7 +1503,7 @@ Ardo demands a battle-succession clause before his formation joins.
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E476–480: CY 744-04-19 to 04-20. Charter v0.1 is public but unenacted. Rian currently holds a named 6-combat/5-support route group … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E476–480: CY 744-04-19 to 04-20. Charter v0.1 is public but unenacted. Rian currently holds a named 6-combat/5-support route group … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -1561,7 +1561,7 @@ support ships refuse to sign unless combat formations accept minimum rescue/repa
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E476–480: CY 744-04-19 to 04-20. Charter v0.1 is public but unenacted. Rian currently holds a named 6-combat/5-support route group … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E476–480: CY 744-04-19 to 04-20. Charter v0.1 is public but unenacted. Rian currently holds a named 6-combat/5-support route group … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -1619,7 +1619,7 @@ the formation still lacks a funded loss-share formula.
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E476–480: CY 744-04-19 to 04-20. Charter v0.1 is public but unenacted. Rian currently holds a named 6-combat/5-support route group … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E476–480: CY 744-04-19 to 04-20. Charter v0.1 is public but unenacted. Rian currently holds a named 6-combat/5-support route group … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -1677,7 +1677,7 @@ final signature count shows a smaller force than public speeches promised.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E476–480: CY 744-04-19 to 04-20. Charter v0.1 is public but unenacted. Rian currently holds a named 6-combat/5-support route group … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] E476–480: CY 744-04-19 to 04-20. Charter v0.1 is public but unenacted. Rian currently holds a named 6-combat/5-support route group … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -1735,7 +1735,7 @@ a repair/pay convoy carrying the mobile tender `기워진 별` is attacked and c
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[APPROVED SECTION CARRIER EVIDENCE] [End State E480] Charter v0.1 active through CY 744-05-04 unless ended earlier; 15 combat + 14 support, 92 frames/utility craft; Rian direct task group 8 combat + 7 support … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [End State E480] Charter v0.1 active through CY 744-05-04 unless ended earlier; 15 combat + 14 support, 92 frames/utility craft; Rian direct task group 8 combat + 7 support … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -1793,7 +1793,7 @@ a secured-debt claimant orders the convoy to divert toward a Helix-controlled be
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Goal] choose whether the charter’s first major escort protects a damaged cruiser or the repair/pay convoy.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] choose whether the charter’s first major escort protects a damaged cruiser or the repair/pay convoy.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -1909,7 +1909,7 @@ raider/recovery group appears with 8 armed ships and 14 drones, demanding tender
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Goal] preserve escort coverage while respecting signed provincial limits.; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] preserve escort coverage while respecting signed provincial limits.; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -1967,7 +1967,7 @@ debris punctures one parts carrier and damages the tender’s external fabricati
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Action split] Ardo’s formation blocks the armed recovery ships; Rian commands the convoy route/flight geometry … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Action split] Ardo’s formation blocks the armed recovery ships; Rian commands the convoy route/flight geometry … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -2083,7 +2083,7 @@ Tav publishes that the damaged tender still restores more fleet capacity than th
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [State] 2,700 records lose their secondary mirror; primary evidence remains split across ships, provinces, households and Treasury.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [State] 2,700 records lose their secondary mirror; primary evidence remains split across ships, provinces, households and Treasury.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -2141,7 +2141,7 @@ mobile repair/pay capability reaches Vesper/Deme network.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Final mission arithmetic] original cargo 8,240 t; permanent loss 680 t; 210 t downgraded/reinspection but delivered to controlled custody … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Final mission arithmetic] original cargo 8,240 t; permanent loss 680 t; 210 t downgraded/reinspection but delivered to controlled custody … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -2199,7 +2199,7 @@ a heavy cruiser claims priority that would consume work equal to seven escorts a
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-05 through 05-17. 47 combat ships submit priority claims. only 13 can receive meaningful first-cycle work … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-05-05 through 05-17. 47 combat ships submit priority claims. only 13 can receive meaningful first-cycle work … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -2257,7 +2257,7 @@ cruiser supporters accuse Tav/Nera/workers of creating an unelected technical go
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-05 through 05-17. 47 combat ships submit priority claims. only 13 can receive meaningful first-cycle work … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-05-05 through 05-17. 47 combat ships submit priority claims. only 13 can receive meaningful first-cycle work … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -2315,7 +2315,7 @@ workers discover a fatigue/heat plan that would meet the published schedule only
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-05 through 05-17. 47 combat ships submit priority claims. only 13 can receive meaningful first-cycle work … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-05-05 through 05-17. 47 combat ships submit priority claims. only 13 can receive meaningful first-cycle work … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -2373,7 +2373,7 @@ to recover schedule, the board proposes cannibalizing two grounded hulls with di
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-05 through 05-17. 47 combat ships submit priority claims. only 13 can receive meaningful first-cycle work … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-05-05 through 05-17. 47 combat ships submit priority claims. only 13 can receive meaningful first-cycle work … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -2431,7 +2431,7 @@ one component fails inspection after removal, threatening four linked projects.
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-05 through 05-17. 47 combat ships submit priority claims. only 13 can receive meaningful first-cycle work … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-05-05 through 05-17. 47 combat ships submit priority claims. only 13 can receive meaningful first-cycle work … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -2489,7 +2489,7 @@ an external alert tests whether the repaired distributed package is actually mor
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-05 through 05-17. 47 combat ships submit priority claims. only 13 can receive meaningful first-cycle work … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-05-05 through 05-17. 47 combat ships submit priority claims. only 13 can receive meaningful first-cycle work … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -2779,7 +2779,7 @@ one distressed captain threatens magazine detonation if boarding teams attempt a
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-19 through 05-29. old unresolved pay/family records: 8,640. new participating-ship/worker/family records: 14,380 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-05-19 through 05-29. old unresolved pay/family records: 8,640. new participating-ship/worker/family records: 14,380 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -2837,7 +2837,7 @@ the rescued crews refuse both immediate return and automatic service in the Char
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-19 through 05-29. old unresolved pay/family records: 8,640. new participating-ship/worker/family records: 14,380 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-05-19 through 05-29. old unresolved pay/family records: 8,640. new participating-ship/worker/family records: 14,380 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -2895,7 +2895,7 @@ creditors, provinces, victims and Charter formations submit incompatible claims 
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[APPROVED SECTION CARRIER EVIDENCE] [End State E500] Charter v0.1 active but still narrow; maintenance board operational for a second cycle; 21 combat + 18 support connected, 14 combat R2+ … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [End State E500] Charter v0.1 active but still narrow; maintenance board operational for a second cycle; 21 combat + 18 support connected, 14 combat R2+ … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -2953,7 +2953,7 @@ claim filings show six legal/financial claim chains on the three hulls.
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-31 through 06-18. Charter v0.1 expires 05-31 absent explicit renewal … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-05-31 through 06-18. Charter v0.1 expires 05-31 absent explicit renewal … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -3069,7 +3069,7 @@ one original province proves a strong title to `저녁의 담보` and demands im
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-31 through 06-18. Charter v0.1 expires 05-31 absent explicit renewal … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-05-31 through 06-18. Charter v0.1 expires 05-31 absent explicit renewal … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -3127,7 +3127,7 @@ the `저녁의 담보` province offers to accept crew review and restitution esc
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-31 through 06-18. Charter v0.1 expires 05-31 absent explicit renewal … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-05-31 through 06-18. Charter v0.1 expires 05-31 absent explicit renewal … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -3185,7 +3185,7 @@ title law is honored without treating crew as cargo.
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-31 through 06-18. Charter v0.1 expires 05-31 absent explicit renewal … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-05-31 through 06-18. Charter v0.1 expires 05-31 absent explicit renewal … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -3243,7 +3243,7 @@ repair and legal work can begin under bounded custody.
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-31 through 06-18. Charter v0.1 expires 05-31 absent explicit renewal … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-05-31 through 06-18. Charter v0.1 expires 05-31 absent explicit renewal … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -3301,7 +3301,7 @@ individual status choices show no one outcome represents all 298 people.
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-31 through 06-18. Charter v0.1 expires 05-31 absent explicit renewal … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-05-31 through 06-18. Charter v0.1 expires 05-31 absent explicit renewal … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -3359,7 +3359,7 @@ maintenance board must decide whether Trust/converted hull work displaces existi
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-31 through 06-18. Charter v0.1 expires 05-31 absent explicit renewal … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-05-31 through 06-18. Charter v0.1 expires 05-31 absent explicit renewal … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -3475,7 +3475,7 @@ eight combat and five support ships receive provincial recall orders beginning t
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[APPROVED SECTION CARRIER EVIDENCE] [End State E510] Charter v0.1-R active through 06-30; 29 combat + 25 support connected; 19 combat R2+; 960 pay/family cases unresolved; 298 people on four paths … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [End State E510] Charter v0.1-R active through 06-30; 29 combat + 25 support connected; 19 combat R2+; 960 pay/family cases unresolved; 298 people on four paths … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -3591,7 +3591,7 @@ crew on one recalled support ship votes/requests to remain while title and home 
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Goal] separate the right to leave from current rescue, cargo, classified equipment and dependent-person obligations.; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] separate the right to leave from current rescue, cargo, classified equipment and dependent-person obligations.; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -3649,7 +3649,7 @@ Sira proposes notice/replacement credits, while Ardo demands emergency exception
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Goal] process diverging hull and crew choices.; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] process diverging hull and crew choices.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -3707,7 +3707,7 @@ Doan Mir receives medical clearance and a seat home for the sibling guardianship
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Draft framework] 72-hour notice when physically possible; current rescue/safety/cargo handover; return of pooled ammunition/parts or replacement debt … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Draft framework] 72-hour notice when physically possible; current rescue/safety/cargo handover; return of pooled ammunition/parts or replacement debt … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -3765,7 +3765,7 @@ one recalled formation’s home emergency is exaggerated to gain bargaining leve
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Goal] decide whether Doan remains as a celebrated Charter navigator or exercises the home obligation preserved since E467.; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] decide whether Doan remains as a celebrated Charter navigator or exercises the home obligation preserved since E467.; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -3861,7 +3861,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[SEMANTIC SOURCE-BLOCK EPISODE FUNCTION; no new fact] [Adopted] `Recall & Exit Framework v0.1`.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ships can leave without mutiny/war, and remaining obligations are executable.] → DELTA[ships can leave without mutiny/war, and remaining obligations are executable.] → COST[Vesper/Outer coverage weakens; two delayed departures create a visible future gap.] → NEXT[Crown Passage requests a major civilian/service escort exactly as coverage falls.]
+PRESSURE[⟦SEMANTIC SOURCE-BLOCK EPISODE FUNCTION; no new fact⟧ [Adopted] `Recall & Exit Framework v0.1`.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ships can leave without mutiny/war, and remaining obligations are executable.] → DELTA[ships can leave without mutiny/war, and remaining obligations are executable.] → COST[Vesper/Outer coverage weakens; two delayed departures create a visible future gap.] → NEXT[Crown Passage requests a major civilian/service escort exactly as coverage falls.]
 
 **HUMAN_PRESSURE_CARRIER**  
 writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ships can leave without mutiny/war, and remaining obligations are executable.); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ships can leave without mutiny/war, and remaining obligations are executable.] and source cost [Vesper/Outer coverage weakens; two delayed departures create a visible future gap.]. Do not create a new named witness merely to supply emotion.
@@ -3881,7 +3881,7 @@ Crown Passage requests a major civilian/service escort exactly as coverage falls
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Adopted] `Recall & Exit Framework v0.1`.; cost-class=TIME/SERVICE-DELAY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Adopted] `Recall & Exit Framework v0.1`.; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -3939,7 +3939,7 @@ military planners warn that the opening will expose a munitions relay.
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Goal] decide whether Crown Passage receives escort during falling fleet availability.; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] decide whether Crown Passage receives escort during falling fleet availability.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -3997,7 +3997,7 @@ one escort is recalled before departure under the new framework.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Goal] allocate limited passenger/service capacity without making court rank the dominant criterion.; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] allocate limited passenger/service capacity without making court rank the dominant criterion.; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -4055,7 +4055,7 @@ six hostile/probe ships and twelve drones enter Crown Passage approach.
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Goal] preserve escort without breaking Recall Framework v0.1.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] preserve escort without breaking Recall Framework v0.1.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -4113,7 +4113,7 @@ hostile drones drive one escort into a service ship’s thermal wake.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Goal] keep the civilian/service convoy intact rather than answer a simultaneous Vesper outer alert.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] keep the civilian/service convoy intact rather than answer a simultaneous Vesper outer alert.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -4171,7 +4171,7 @@ Vesper reports munitions and relay damage during the same hours.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Action] Oren controls escort geometry; civilian captains follow standing dispersal routes … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Action] Oren controls escort geometry; civilian captains follow standing dispersal routes … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -4267,7 +4267,7 @@ classify Crown/civilian mission as valid success with explicit Vesper/Outer cost
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[SEMANTIC SOURCE-BLOCK EPISODE FUNCTION; no new fact] [Final convoy result] 20 ships total; 24,800 people, all accounted/alive; original cargo 6,460 t; permanent loss 380 t … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[classify Crown/civilian mission as valid success with explicit Vesper/Outer cost, not a claim to Crown fleet command.] → DELTA[classify Crown/civilian mission as valid success with explicit Vesper/Outer cost, not a claim to Crown fleet command.] → COST[1,300 t total new cargo/munition loss across convoy and uncovered front; route relay damaged; Outer Front trust worsens.] → NEXT[independent Outer Front commander Asel Varon offers fourteen-day tactical cooperation but rejects Compact/Charter ownership.]
+PRESSURE[⟦SEMANTIC SOURCE-BLOCK EPISODE FUNCTION; no new fact⟧ [Final convoy result] 20 ships total; 24,800 people, all accounted/alive; original cargo 6,460 t; permanent loss 380 t … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[classify Crown/civilian mission as valid success with explicit Vesper/Outer cost, not a claim to Crown fleet command.] → DELTA[classify Crown/civilian mission as valid success with explicit Vesper/Outer cost, not a claim to Crown fleet command.] → COST[1,300 t total new cargo/munition loss across convoy and uncovered front; route relay damaged; Outer Front trust worsens.] → NEXT[independent Outer Front commander Asel Varon offers fourteen-day tactical cooperation but rejects Compact/Charter ownership.]
 
 **HUMAN_PRESSURE_CARRIER**  
 writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: classify Crown/civilian mission as valid success with explicit Vesper/Outer cost, not a claim to Crown fleet command.); ground that face in the exact source pivot [classify Crown/civilian mission as valid success with explicit Vesper/Outer cost, not a claim to Crown fleet command.] and source cost [1,300 t total new cargo/munition loss across convoy and uncovered front; route relay damaged; Outer Front trust worsens.]. Do not create a new named witness merely to supply emotion.
@@ -4461,7 +4461,7 @@ one Charter escort refuses Asel’s local fire-control cue because its authentic
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Goal] divide authority between Asel’s local front and Charter route mission.; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] divide authority between Asel’s local front and Charter route mission.; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -4519,7 +4519,7 @@ Recovery Column attacks the V09 hospital-power route and V11 relay simultaneousl
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Goal] let ships use current local cues without transferring commission or allegiance.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] let ships use current local cues without transferring commission or allegiance.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -4635,7 +4635,7 @@ Recovery Column turns toward the 15-ship civilian/service convoy.
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Outcome] hospital tug and 2,480 patients/crew/service users remain supplied; isolated corvette survives but is disabled 9–13 months … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Outcome] hospital tug and 2,480 patients/crew/service users remain supplied; isolated corvette survives but is disabled 9–13 months … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -4693,7 +4693,7 @@ Charter v0.1-R2 expires the next day while the mission accord continues through 
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Action] Oren/Charter escorts establish no-board corridors; Rian controls route geometry for his accepted ships … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Action] Oren/Charter escorts establish no-board corridors; Rian controls route geometry for his accepted ships … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -4751,7 +4751,7 @@ Recovery Column makes a final combined attempt before the accord ends.
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Goal] continue the named mission after Charter v0.1-R2 expires without pretending the Charter auto-renews.; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] continue the named mission after Charter v0.1-R2 expires without pretending the Charter auto-renews.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -4867,7 +4867,7 @@ weak provinces say the proposed recall costs exceed their ability to contribute.
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-08-04 through 08-23. v0.1-R2 expired July 31. fourteen-day mission accord closed August 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-08-04 through 08-23. v0.1-R2 expired July 31. fourteen-day mission accord closed August 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -4925,7 +4925,7 @@ civilian/service bodies demand standing beyond consultation because they bore th
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-08-04 through 08-23. v0.1-R2 expired July 31. fourteen-day mission accord closed August 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-08-04 through 08-23. v0.1-R2 expired July 31. fourteen-day mission accord closed August 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -4983,7 +4983,7 @@ Ardo demands fixed campaign duration and a single succession chain for each name
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-08-04 through 08-23. v0.1-R2 expired July 31. fourteen-day mission accord closed August 2 … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-08-04 through 08-23. v0.1-R2 expired July 31. fourteen-day mission accord closed August 2 … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -5041,7 +5041,7 @@ ammunition and support allocation reveal the network is still too small for five
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-08-04 through 08-23. v0.1-R2 expired July 31. fourteen-day mission accord closed August 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-08-04 through 08-23. v0.1-R2 expired July 31. fourteen-day mission accord closed August 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -5099,7 +5099,7 @@ a larger campaign envelope becomes possible.
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-08-04 through 08-23. v0.1-R2 expired July 31. fourteen-day mission accord closed August 2 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-08-04 through 08-23. v0.1-R2 expired July 31. fourteen-day mission accord closed August 2 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -5215,7 +5215,7 @@ threat movements at V03, V06, V08, V09 and V11 force immediate campaign allocati
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-08-04 through 08-23. v0.1-R2 expired July 31. fourteen-day mission accord closed August 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-08-04 through 08-23. v0.1-R2 expired July 31. fourteen-day mission accord closed August 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -5273,7 +5273,7 @@ requested force totals exceed 48 combat and 42 support, above the 40/34 envelope
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Goal] define shared campaign intent that each formation can execute without one owner.; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] define shared campaign intent that each formation can execute without one owner.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -5331,7 +5331,7 @@ Civilian Chain requests 7 combat/8 support but allocation models offer less.
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Goal] eliminate double-booked ships and support promises.; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] eliminate double-booked ships and support promises.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -5447,7 +5447,7 @@ command-authentication simulations show shared network failure for 17–43 minut
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Goal] define formation succession and autonomous action under communications loss.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] define formation succession and autonomous action under communications loss.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -5505,7 +5505,7 @@ ammunition allocation leaves one front with only 0.7 major-action equivalent.
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Goal] prepare for authentication isolation without restoring one root key.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] prepare for authentication isolation without restoring one root key.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -5563,7 +5563,7 @@ one provincial formation threatens to leave before launch unless home-defense tr
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Decision] preserve a shared reserve rather than fully arm every front; Ardo and Asel receive highest immediate combat loads … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Decision] preserve a shared reserve rather than fully arm every front; Ardo and Asel receive highest immediate combat loads … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -5621,7 +5621,7 @@ coordinated authentication interference isolates four of the five fronts within 
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Goal] launch all five fronts under Charter v0.2 and Asel’s separate annex.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] launch all five fronts under Charter v0.2 and Asel’s separate annex.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -5679,7 +5679,7 @@ V09 detects a route-seizure group moving behind a false evacuation signal.
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-09-09 through 09-13. campaign envelope: 40 combat + 34 support, 28 combat R2+ … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-09-09 through 09-13. campaign envelope: 40 combat + 34 support, 28 combat R2+ … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -5737,7 +5737,7 @@ Vesper and Civilian Chain both request the same two-combat/four-support reserve.
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-09-09 through 09-13. campaign envelope: 40 combat + 34 support, 28 combat R2+ … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-09-09 through 09-13. campaign envelope: 40 combat + 34 support, 28 combat R2+ … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -5795,7 +5795,7 @@ V10 reports an armed contact larger than its disengagement model, while Vesper�
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[APPROVED SECTION CARRIER EVIDENCE] [End State E550] multi-front campaign active, not resolved; Asel autonomous victory recorded; no Rian overall command; reserve split and delayed … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [End State E550] multi-front campaign active, not resolved; Asel autonomous victory recorded; no Rian overall command; reserve split and delayed … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -5911,7 +5911,7 @@ Vesper relay jamming turns into an armed attempt to seize repair-traffic authent
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-09-15 through 09-24. campaign envelope 40 combat +34 support, 28 combat R2+ … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-09-15 through 09-24. campaign envelope 40 combat +34 support, 28 combat R2+ … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -5969,7 +5969,7 @@ Rian’s Grey Route front finds the route used to feed both the V10 attackers an
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-09-15 through 09-24. campaign envelope 40 combat +34 support, 28 combat R2+ … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-09-15 through 09-24. campaign envelope 40 combat +34 support, 28 combat R2+ … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -6027,7 +6027,7 @@ V10’s contact resolves into 12 armed ships, 26 drones and boarding craft conve
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-09-15 through 09-24. campaign envelope 40 combat +34 support, 28 combat R2+ … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-09-15 through 09-24. campaign envelope 40 combat +34 support, 28 combat R2+ … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -6143,7 +6143,7 @@ attackers disable the V10 relay and isolate the rear group.
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [V10 Current Set — shared source state] Dates: CY 744-09-26 through 10-15. Protected convoy/service set: 18 civilian/service ships … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [V10 Current Set — shared source state] Dates: CY 744-09-26 through 10-15. Protected convoy/service set: 18 civilian/service ships … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -6201,7 +6201,7 @@ the held reserve reaches the outer edge seventy-three minutes after the relay’
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [V10 Current Set — shared source state] Dates: CY 744-09-26 through 10-15. Protected convoy/service set: 18 civilian/service ships … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [V10 Current Set — shared source state] Dates: CY 744-09-26 through 10-15. Protected convoy/service set: 18 civilian/service ships … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -6259,7 +6259,7 @@ campaign reserve is exhausted while Ardo and Asel report new openings against th
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [V10 Current Set — shared source state] Dates: CY 744-09-26 through 10-15. Protected convoy/service set: 18 civilian/service ships … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [V10 Current Set — shared source state] Dates: CY 744-09-26 through 10-15. Protected convoy/service set: 18 civilian/service ships … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -6317,7 +6317,7 @@ Asel identifies the Recovery Column command route while Sira controls the only p
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [V10 Current Set — shared source state] Dates: CY 744-09-26 through 10-15. Protected convoy/service set: 18 civilian/service ships … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [V10 Current Set — shared source state] Dates: CY 744-09-26 through 10-15. Protected convoy/service set: 18 civilian/service ships … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -6375,7 +6375,7 @@ Recovery Column command ship enters the one remaining armed route with six escor
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [V10 Current Set — shared source state] Dates: CY 744-09-26 through 10-15. Protected convoy/service set: 18 civilian/service ships … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [V10 Current Set — shared source state] Dates: CY 744-09-26 through 10-15. Protected convoy/service set: 18 civilian/service ships … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -6433,7 +6433,7 @@ each front submits a different account of who won and what should happen next.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [V10 Current Set — shared source state] Dates: CY 744-09-26 through 10-15. Protected convoy/service set: 18 civilian/service ships … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [V10 Current Set — shared source state] Dates: CY 744-09-26 through 10-15. Protected convoy/service set: 18 civilian/service ships … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -6529,7 +6529,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[[SEMANTIC SOURCE-BLOCK EPISODE FUNCTION; no new fact] [Campaign result] all five protected route/depot objectives remain in friendly/current service custody … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: distributed campaign succeeds and preserves autonomous formation legitimacy.] → DELTA[distributed campaign succeeds and preserves autonomous formation legitimacy.] → COST[under-resourced front loss, depleted stores, long repair queue and politically credible demand for stronger central command.] → NEXT[Charter v0.2 expires in sixteen days while Orpheus Approach movement and military staging exceed every earlier forecast.]
+PRESSURE[⟦SEMANTIC SOURCE-BLOCK EPISODE FUNCTION; no new fact⟧ [Campaign result] all five protected route/depot objectives remain in friendly/current service custody … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: distributed campaign succeeds and preserves autonomous formation legitimacy.] → DELTA[distributed campaign succeeds and preserves autonomous formation legitimacy.] → COST[under-resourced front loss, depleted stores, long repair queue and politically credible demand for stronger central command.] → NEXT[Charter v0.2 expires in sixteen days while Orpheus Approach movement and military staging exceed every earlier forecast.]
 
 **HUMAN_PRESSURE_CARRIER**  
 writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: distributed campaign succeeds and preserves autonomous formation legitimacy.); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: distributed campaign succeeds and preserves autonomous formation legitimacy.] and source cost [under-resourced front loss, depleted stores, long repair queue and politically credible demand for stronger central command.]. Do not create a new named witness merely to supply emotion.
@@ -6607,7 +6607,7 @@ long-term guarantee review shows 720 current cases and new campaign claims canno
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-10-17 through 10-31. Charter v0.2 expires October 31 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-10-17 through 10-31. Charter v0.2 expires October 31 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -6723,7 +6723,7 @@ Asel must decide whether Outer Front enters full Charter or a narrower annex.
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-10-17 through 10-31. Charter v0.2 expires October 31 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-10-17 through 10-31. Charter v0.2 expires October 31 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -6781,7 +6781,7 @@ v1.0 review discovers the network lacks one common answer to Orpheus Approach mo
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-10-17 through 10-31. Charter v0.2 expires October 31 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-10-17 through 10-31. Charter v0.2 expires October 31 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -6839,7 +6839,7 @@ Orpheus Approach reports a population and force convergence larger than the newl
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-10-17 through 10-31. Charter v0.2 expires October 31 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-10-17 through 10-31. Charter v0.2 expires October 31 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -6897,7 +6897,7 @@ state/Compact, civilian convoy and local/crew operators each demand first priori
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-10-17 through 10-31. Charter v0.2 expires October 31 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-10-17 through 10-31. Charter v0.2 expires October 31 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -6955,7 +6955,7 @@ no actor can move state functions, civilians, crews, routes and institutions thr
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-10-17 through 10-31. Charter v0.2 expires October 31 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-10-17 through 10-31. Charter v0.2 expires October 31 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.

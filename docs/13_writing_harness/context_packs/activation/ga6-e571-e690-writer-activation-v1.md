@@ -53,7 +53,7 @@ population dashboards differ by more than 180,000 people before any new convoy a
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] E571: CY 744-11-01. physically present/currently committed: 1,260,000. projected six-week envelope: 3.29–3.49m … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E571: CY 744-11-01. physically present/currently committed: 1,260,000. projected six-week envelope: 3.29–3.49m … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -227,7 +227,7 @@ local node workers stop an outside power connection that both State and civilian
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] E571: CY 744-11-01. physically present/currently committed: 1,260,000. projected six-week envelope: 3.29–3.49m … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E571: CY 744-11-01. physically present/currently committed: 1,260,000. projected six-week envelope: 3.29–3.49m … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -343,7 +343,7 @@ holdout/stay groups demand a seat before planners treat them as future leftovers
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] E571: CY 744-11-01. physically present/currently committed: 1,260,000. projected six-week envelope: 3.29–3.49m … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E571: CY 744-11-01. physically present/currently committed: 1,260,000. projected six-week envelope: 3.29–3.49m … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -401,7 +401,7 @@ the six constituencies agree to a Common Fact Board but refuse to give it manife
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [End State E577] common clock and physical baseline active; State, civilian, Neutral, local and holdout positions visible; Common Fact Board authorized for facts only … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [End State E577] common clock and physical baseline active; State, civilian, Neutral, local and holdout positions visible; Common Fact Board authorized for facts only … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -459,7 +459,7 @@ one advanced hospital packet depends on caregivers and unregistered family membe
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-06 through 11-10. Common Fact Board exists with no priority/manifest authority … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-06 through 11-10. Common Fact Board exists with no priority/manifest authority … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -517,7 +517,7 @@ cargo captains reject a passenger-maximizing proposal that would discard agricul
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-06 through 11-10. Common Fact Board exists with no priority/manifest authority … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-06 through 11-10. Common Fact Board exists with no priority/manifest authority … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -575,7 +575,7 @@ local thermal workers show that every extra shelter/ship load also consumes the 
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-06 through 11-10. Common Fact Board exists with no priority/manifest authority … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-06 through 11-10. Common Fact Board exists with no priority/manifest authority … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -691,7 +691,7 @@ first merged pass finds tens of thousands of listed destinations unable to recei
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-06 through 11-10. Common Fact Board exists with no priority/manifest authority … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-06 through 11-10. Common Fact Board exists with no priority/manifest authority … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -749,7 +749,7 @@ ship counts reveal that many inbound vessels exist only as future assignments or
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-06 through 11-10. Common Fact Board exists with no priority/manifest authority … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-06 through 11-10. Common Fact Board exists with no priority/manifest authority … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -1097,7 +1097,7 @@ constituencies agree facts must be governed by a formal board with source, uncer
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-11 through 11-15. no route is certified for live passenger movement … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-11 through 11-15. no route is certified for live passenger movement … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -1155,7 +1155,7 @@ the board’s first consolidated pass shows the physical population is already a
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-11 through 11-15. no route is certified for live passenger movement … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-11 through 11-15. no route is certified for live passenger movement … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -1213,7 +1213,7 @@ civilian councils publish a larger current count that includes people missing fr
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-16 through 11-18. Common Fact Board has no priority, manifest, route or command authority … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-16 through 11-18. Common Fact Board has no priority, manifest, route or command authority … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -1329,7 +1329,7 @@ the first consolidated ledger produces a physical total but 214,000 status confl
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-16 through 11-18. Common Fact Board has no priority, manifest, route or command authority … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-16 through 11-18. Common Fact Board has no priority, manifest, route or command authority … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -1445,7 +1445,7 @@ E596 begins function decomposition and manifest ranking under rising clocks, whi
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-16 through 11-18. Common Fact Board has no priority, manifest, route or command authority … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-16 through 11-18. Common Fact Board has no priority, manifest, route or command authority … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -1561,7 +1561,7 @@ advanced hospitals require far more patients, caregivers and equipment than thei
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-19 through 11-23. physically tracked population: 2.74m and rising … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-19 through 11-23. physically tracked population: 2.74m and rising … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -1619,7 +1619,7 @@ command/security advocates argue their packet must remain intact to defend every
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-19 through 11-23. physically tracked population: 2.74m and rising … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-19 through 11-23. physically tracked population: 2.74m and rising … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -1677,7 +1677,7 @@ courts/archive/education packet raises privacy and evidence-owner conflicts.
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-19 through 11-23. physically tracked population: 2.74m and rising … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-19 through 11-23. physically tracked population: 2.74m and rising … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -1735,7 +1735,7 @@ yard/energy packet cannot leave until it prepares the routes and holdout systems
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-19 through 11-23. physically tracked population: 2.74m and rising … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-19 through 11-23. physically tracked population: 2.74m and rising … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -1793,7 +1793,7 @@ Continuity/data/appeal functions propose a smaller packet with greater cross-dom
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-19 through 11-23. physically tracked population: 2.74m and rising … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-19 through 11-23. physically tracked population: 2.74m and rising … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -1851,7 +1851,7 @@ the six packets overlap in people, equipment and destinations, producing a false
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-19 through 11-23. physically tracked population: 2.74m and rising … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-19 through 11-23. physically tracked population: 2.74m and rising … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -1909,7 +1909,7 @@ civilian/community manifests must now prove destination, household, care and lon
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-19 through 11-23. physically tracked population: 2.74m and rising … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-19 through 11-23. physically tracked population: 2.74m and rising … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -2083,7 +2083,7 @@ a medical transfer begins under a written destination approval that predates the
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-24 through 11-28. physically tracked population continues toward 3.16m … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-24 through 11-28. physically tracked population continues toward 3.16m … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -2141,7 +2141,7 @@ civilian councils demand differentiated guarantees instead of one promise that e
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-24 through 11-28. physically tracked population continues toward 3.16m … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-24 through 11-28. physically tracked population continues toward 3.16m … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -2199,7 +2199,7 @@ organized councils propose community blocks that may exclude isolated/unregister
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-24 through 11-28. physically tracked population continues toward 3.16m … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-24 through 11-28. physically tracked population continues toward 3.16m … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -2257,7 +2257,7 @@ Grey/local routes attract people whose destinations reject centralized or docume
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-24 through 11-28. physically tracked population continues toward 3.16m … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-24 through 11-28. physically tracked population continues toward 3.16m … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -2315,7 +2315,7 @@ final civilian/current readiness pass must classify millions without turning cla
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-24 through 11-28. physically tracked population continues toward 3.16m … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-24 through 11-28. physically tracked population continues toward 3.16m … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -2373,7 +2373,7 @@ military, medical, Neutral and local actors now negotiate first/late/holdout rul
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-24 through 11-28. physically tracked population continues toward 3.16m … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-24 through 11-28. physically tracked population continues toward 3.16m … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -2431,7 +2431,7 @@ medical planners demand cross-route triage rules that commanders cannot override
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-29 through 12-03. no route has live passenger certification … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-29 through 12-03. no route has live passenger certification … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -2489,7 +2489,7 @@ Neutral captains reject a central medical assignment that exceeds individual ves
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-29 through 12-03. no route has live passenger certification … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-29 through 12-03. no route has live passenger certification … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -2547,7 +2547,7 @@ local/holdout actors demand operators and household support before any “first 
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-29 through 12-03. no route has live passenger certification … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-29 through 12-03. no route has live passenger certification … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -2605,7 +2605,7 @@ the first E620 readiness count can now be reconciled across all constituencies.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-29 through 12-03. no route has live passenger certification … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-29 through 12-03. no route has live passenger certification … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -2721,7 +2721,7 @@ five planning groups submit incompatible preliminary evacuation architectures.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-29 through 12-03. no route has live passenger certification … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-29 through 12-03. no route has live passenger certification … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -2779,7 +2779,7 @@ equal-assumption correction shows the fastest/highest-capacity options depend on
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-11-29 through 12-03. no route has live passenger certification … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-11-29 through 12-03. no route has live passenger certification … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -2953,7 +2953,7 @@ one arriving State command ship asserts authority over Charter and provincial es
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-04 through 12-06. physical population: 3.16m. present OOB: 58 combat, 154 major support, 242 small craft … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-04 through 12-06. physical population: 3.16m. present OOB: 58 combat, 154 major support, 242 small craft … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -3127,7 +3127,7 @@ one medical vessel reports a contagious respiratory outbreak and requests closed
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-04 through 12-06. physical population: 3.16m. present OOB: 58 combat, 154 major support, 242 small craft … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-04 through 12-06. physical population: 3.16m. present OOB: 58 combat, 154 major support, 242 small craft … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -3243,7 +3243,7 @@ remaining late friendly ships cannot all arrive before the next route test witho
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-04 through 12-06. physical population: 3.16m. present OOB: 58 combat, 154 major support, 242 small craft … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-04 through 12-06. physical population: 3.16m. present OOB: 58 combat, 154 major support, 242 small craft … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -3301,7 +3301,7 @@ external forces begin active jamming and challenge traffic before all friendly a
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-04 through 12-06. physical population: 3.16m. present OOB: 58 combat, 154 major support, 242 small craft … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-04 through 12-06. physical population: 3.16m. present OOB: 58 combat, 154 major support, 242 small craft … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -3359,7 +3359,7 @@ E629 begins the same-war/same-destination/same-refusal stress test of S, C, L, G
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-04 through 12-06. physical population: 3.16m. present OOB: 58 combat, 154 major support, 242 small craft … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-04 through 12-06. physical population: 3.16m. present OOB: 58 combat, 154 major support, 242 small craft … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -3397,10 +3397,10 @@ S is not merely elite rescue; it preserves multiplier functions; intact-chain pr
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[stress-test S under the common frame.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[S is not merely elite rescue; it preserves multiplier functions; intact-chain pressure and late civilian/holdout burdens remain substantial.] → DELTA[command, advanced medical and civil/identity packets align fastest on Trunk A; five of six minimum function families preserve strong receiving continuity … [source continues]] → COST[[COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate] command, advanced medical and civil/identity packets align fastest on Trunk A … [source continues]] → NEXT[the 140k destination failure breaks one concentrated State/civil receiving stack.]
+PRESSURE[stress-test S under the common frame.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[S is not merely elite rescue; it preserves multiplier functions; intact-chain pressure and late civilian/holdout burdens remain substantial.] → DELTA[command, advanced medical and civil/identity packets align fastest on Trunk A; five of six minimum function families preserve strong receiving continuity … [source continues]] → COST[⟦COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate⟧ command, advanced medical and civil/identity packets align fastest on Trunk A … [source continues]] → NEXT[the 140k destination failure breaks one concentrated State/civil receiving stack.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: S is not merely elite rescue; it preserves multiplier functions; intact-chain pressure and late civilian/holdout burdens remain substantial.); ground that face in the exact source pivot [S is not merely elite rescue; it preserves multiplier functions; intact-chain pressure and late civilian/holdout burdens remain substantial.] and source cost [[COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate] command, advanced medical and civil/identity packets align fastest on Trunk A; five of six minimum function families preserve strong receiving continuity … [source continues]]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: S is not merely elite rescue; it preserves multiplier functions; intact-chain pressure and late civilian/holdout burdens remain substantial.); ground that face in the exact source pivot [S is not merely elite rescue; it preserves multiplier functions; intact-chain pressure and late civilian/holdout burdens remain substantial.] and source cost [⟦COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate⟧ command, advanced medical and civil/identity packets align fastest on Trunk A; five of six minimum function families preserve strong receiving continuity … [source continues]]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
@@ -3513,10 +3513,10 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[stress-test C under the same conflict and destination conditions.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: high passenger and community-block packing uses B and selected C capacity aggressively … [source continues]] → DELTA[high passenger and community-block packing uses B and selected C capacity aggressively; moved range approximately 2.44–2.70m; more civilian people move than in S in most runs … [source continues]] → COST[[COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate] high passenger and community-block packing uses B and selected C capacity aggressively … [source continues]] → NEXT[one community block refuses separation required by the failed destination replacement.]
+PRESSURE[stress-test C under the same conflict and destination conditions.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: high passenger and community-block packing uses B and selected C capacity aggressively … [source continues]] → DELTA[high passenger and community-block packing uses B and selected C capacity aggressively; moved range approximately 2.44–2.70m; more civilian people move than in S in most runs … [source continues]] → COST[⟦COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate⟧ high passenger and community-block packing uses B and selected C capacity aggressively … [source continues]] → NEXT[one community block refuses separation required by the failed destination replacement.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: high passenger and community-block packing uses B and selected C capacity aggressively; moved range approximately 2.44–2.70m; more civilian people move than in S in most runs … [source continues]); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: high passenger and community-block packing uses B and selected C capacity aggressively; moved range approximately 2.44–2.70m … [source continues]] and source cost [[COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate] high passenger and community-block packing uses B and selected C capacity aggressively; moved range approximately 2.44–2.70m; more civilian people move than in S in most runs … [source continues]]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: high passenger and community-block packing uses B and selected C capacity aggressively; moved range approximately 2.44–2.70m; more civilian people move than in S in most runs … [source continues]); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: high passenger and community-block packing uses B and selected C capacity aggressively; moved range approximately 2.44–2.70m … [source continues]] and source cost [⟦COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate⟧ high passenger and community-block packing uses B and selected C capacity aggressively; moved range approximately 2.44–2.70m; more civilian people move than in S in most runs … [source continues]]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
@@ -3571,10 +3571,10 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[measure C’s holdout/local and receiving consequences.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 150,000–230,000 more people reach some destination than in low C cases only when cargo, opera … [source continues]] → DELTA[150,000–230,000 more people reach some destination than in low C cases only when cargo, operators or community guarantees are reduced … [source continues]] → COST[[COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate] 150,000–230,000 more people reach some destination than in low C cases only when cargo, operators or community guarant … [source continues]] → NEXT[L applies stronger local, Neutral, captain and endpoint refusal to the same frame.]
+PRESSURE[measure C’s holdout/local and receiving consequences.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 150,000–230,000 more people reach some destination than in low C cases only when cargo, opera … [source continues]] → DELTA[150,000–230,000 more people reach some destination than in low C cases only when cargo, operators or community guarantees are reduced … [source continues]] → COST[⟦COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate⟧ 150,000–230,000 more people reach some destination than in low C cases only when cargo, operators or community guarant … [source continues]] → NEXT[L applies stronger local, Neutral, captain and endpoint refusal to the same frame.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 150,000–230,000 more people reach some destination than in low C cases only when cargo, operators or community guarantees are reduced; local thermal/holdout service falls below preferred safe duration in several runs … [source continues]); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 150,000–230,000 more people reach some destination than in low C cases only when cargo, operators or community guarantees are reduced … [source continues]] and source cost [[COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate] 150,000–230,000 more people reach some destination than in low C cases only when cargo, operators or community guarantees are reduced … [source continues]]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 150,000–230,000 more people reach some destination than in low C cases only when cargo, operators or community guarantees are reduced; local thermal/holdout service falls below preferred safe duration in several runs … [source continues]); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 150,000–230,000 more people reach some destination than in low C cases only when cargo, operators or community guarantees are reduced … [source continues]] and source cost [⟦COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate⟧ 150,000–230,000 more people reach some destination than in low C cases only when cargo, operators or community guarantees are reduced … [source continues]]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
@@ -3745,10 +3745,10 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[test G’s correction after the shared destination failure and one confidence-model error.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: central reassignment corrects most flow within 23 minutes … [source continues]] → DELTA[central reassignment corrects most flow within 23 minutes; before correction, approximately 18,000–31,000 people/medical dependents enter wrong loading or staging paths … [source continues]] → COST[[COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate] central reassignment corrects most flow within 23 minutes … [source continues]] → NEXT[M is tested without giving it hidden central powers or perfect cooperation.]
+PRESSURE[test G’s correction after the shared destination failure and one confidence-model error.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: central reassignment corrects most flow within 23 minutes … [source continues]] → DELTA[central reassignment corrects most flow within 23 minutes; before correction, approximately 18,000–31,000 people/medical dependents enter wrong loading or staging paths … [source continues]] → COST[⟦COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate⟧ central reassignment corrects most flow within 23 minutes … [source continues]] → NEXT[M is tested without giving it hidden central powers or perfect cooperation.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: central reassignment corrects most flow within 23 minutes; before correction, approximately 18,000–31,000 people/medical dependents enter wrong loading or staging paths; no simulated final death count is treated as exact … [source continues]); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: central reassignment corrects most flow within 23 minutes; before correction, approximately 18,000–31,000 people/medical dependents enter wrong loading or staging paths … [source continues]] and source cost [[COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate] central reassignment corrects most flow within 23 minutes; before correction, approximately 18,000–31,000 people/medical dependents enter wrong loading or staging paths … [source continues]]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: central reassignment corrects most flow within 23 minutes; before correction, approximately 18,000–31,000 people/medical dependents enter wrong loading or staging paths; no simulated final death count is treated as exact … [source continues]); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: central reassignment corrects most flow within 23 minutes; before correction, approximately 18,000–31,000 people/medical dependents enter wrong loading or staging paths … [source continues]] and source cost [⟦COST EVIDENCE DERIVED FROM APPROVED RESULT/CONSTRAINT; do not inflate⟧ central reassignment corrects most flow within 23 minutes; before correction, approximately 18,000–31,000 people/medical dependents enter wrong loading or staging paths … [source continues]]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
@@ -3881,7 +3881,7 @@ E638 issues the first provisional list notices without assigning final routes or
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Common Stress Frame — shared source state] All five plans use: frozen physical planning population approximately 3.30m at test start … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Common Stress Frame — shared source state] All five plans use: frozen physical planning population approximately 3.30m at test start … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -3939,7 +3939,7 @@ several captains and communities refuse proposed A/B destinations despite physic
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-10. no final plan or route capacity. notices express current readiness/path, not guaranteed seats or priority.; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-10. no final plan or route capacity. notices express current readiness/path, not guaranteed seats or priority.; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -3997,7 +3997,7 @@ late-operator lists show more people marked “must remain” than current tasks
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-10. no final plan or route capacity. notices express current readiness/path, not guaranteed seats or priority.; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-10. no final plan or route capacity. notices express current readiness/path, not guaranteed seats or priority.; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -4171,7 +4171,7 @@ latest arrivals and corrected lists require a new population/OOB snapshot.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-10. no final plan or route capacity. notices express current readiness/path, not guaranteed seats or priority.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-10. no final plan or route capacity. notices express current readiness/path, not guaranteed seats or priority.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -4287,7 +4287,7 @@ every plan now submits a provisional first/late/holdout list, but their person o
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-10. no final plan or route capacity. notices express current readiness/path, not guaranteed seats or priority.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-10. no final plan or route capacity. notices express current readiness/path, not guaranteed seats or priority.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -4345,7 +4345,7 @@ E646 begins live-scale cargo/empty-hull rehearsals and hostile-contact planning 
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-10. no final plan or route capacity. notices express current readiness/path, not guaranteed seats or priority.; cost-class=MATERIAL/CAPACITY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-10. no final plan or route capacity. notices express current readiness/path, not guaranteed seats or priority.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -4403,7 +4403,7 @@ State actors claim A should receive first live access because it is closest to o
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-11 through 12-12. 3.33m people physically tracked. present OOB 70 combat /176 major support /295 small craft … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-11 through 12-12. 3.33m people physically tracked. present OOB 70 combat /176 major support /295 small craft … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -4519,7 +4519,7 @@ B’s headline capacity falls if refusal and community blocks are preserved.
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-11 through 12-12. 3.33m people physically tracked. present OOB 70 combat /176 major support /295 small craft … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-11 through 12-12. 3.33m people physically tracked. present OOB 70 combat /176 major support /295 small craft … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -4635,7 +4635,7 @@ C appears to solve scarcity until its shared-resource assumptions are compared w
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-11 through 12-12. 3.33m people physically tracked. present OOB 70 combat /176 major support /295 small craft … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-11 through 12-12. 3.33m people physically tracked. present OOB 70 combat /176 major support /295 small craft … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -4693,7 +4693,7 @@ Grey/local routes run endpoint-by-endpoint live cargo trials.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-11 through 12-12. 3.33m people physically tracked. present OOB 70 combat /176 major support /295 small craft … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-11 through 12-12. 3.33m people physically tracked. present OOB 70 combat /176 major support /295 small craft … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -4751,7 +4751,7 @@ planners add the four midpoints and falsely announce 2.65m of compatible capacit
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-11 through 12-12. 3.33m people physically tracked. present OOB 70 combat /176 major support /295 small craft … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-11 through 12-12. 3.33m people physically tracked. present OOB 70 combat /176 major support /295 small craft … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -4809,7 +4809,7 @@ last arrivals and final destination/medical/holdout updates push the population 
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-11 through 12-12. 3.33m people physically tracked. present OOB 70 combat /176 major support /295 small craft … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-11 through 12-12. 3.33m people physically tracked. present OOB 70 combat /176 major support /295 small craft … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -4867,7 +4867,7 @@ a late State/function packet arrives missing two destination teams and must be d
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-12 through 12-14. physical population 3.33m. OOB 70 combat /176 major support /295 small craft, with 3/8/16 inbound … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-12 through 12-14. physical population 3.33m. OOB 70 combat /176 major support /295 small craft, with 3/8/16 inbound … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -4925,7 +4925,7 @@ local and ship crews counted as passengers must be corrected before final OOB/pe
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-12 through 12-14. physical population 3.33m. OOB 70 combat /176 major support /295 small craft, with 3/8/16 inbound … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-12 through 12-14. physical population 3.33m. OOB 70 combat /176 major support /295 small craft, with 3/8/16 inbound … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -4983,7 +4983,7 @@ the remaining three combat, four major and sixteen small craft arrive under acti
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-12 through 12-14. physical population 3.33m. OOB 70 combat /176 major support /295 small craft, with 3/8/16 inbound … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-12 through 12-14. physical population 3.33m. OOB 70 combat /176 major support /295 small craft, with 3/8/16 inbound … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -5041,7 +5041,7 @@ destination failure simulations now use the complete ship set and near-final pop
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-12-12 through 12-14. physical population 3.33m. OOB 70 combat /176 major support /295 small craft, with 3/8/16 inbound … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-12 through 12-14. physical population 3.33m. OOB 70 combat /176 major support /295 small craft, with 3/8/16 inbound … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -5331,7 +5331,7 @@ G immediately finds duplicated capacity and incompatible destinations missed by 
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Goal] define a real limited Authority G demonstration that is neither powerless nor a permanent override.; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] define a real limited Authority G demonstration that is neither powerless nor a permanent override.; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -5563,7 +5563,7 @@ hostile forces begin a live attempt to seize or disable one route reference.
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Offer] centralized manifest/ship/route/destination optimization; current physical/medical stop preserved but appeal and formation refusal time-limited … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Offer] centralized manifest/ship/route/destination optimization; current physical/medical stop preserved but appeal and formation refusal time-limited … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -5621,7 +5621,7 @@ the final arrival cutoff begins while the population count remains just below 3.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Action] Ardo commands State/escort defense in its sector; Charter/Asel/provincial formations hold their named lanes … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Action] Ardo commands State/escort defense in its sector; Charter/Asel/provincial formations hold their named lanes … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -5679,7 +5679,7 @@ one final full-scale empty/cargo rehearsal must test the decision architecture u
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Separate authority fields] 1. Common Fact Board — counts/source/uncertainty; 2. node/route physical stop — Deon/workers/operators; 3 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Separate authority fields] 1. Common Fact Board — counts/source/uncertainty; 2. node/route physical stop — Deon/workers/operators; 3 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -5737,7 +5737,7 @@ E670 assembles the final pre-window decision packet without selecting the fifth 
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Updated pre-certification state] A 87% structural/thermal, 76% auth/reception; B 76% structural, 68% traffic/reception … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Updated pre-certification state] A 87% structural/thermal, 76% auth/reception; B 76% structural, 68% traffic/reception … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -5911,7 +5911,7 @@ final S/C/L/G/M projections now differ mainly by authority, staging and who rema
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Final-Preparation Window — shared source state] CY 744-12-17 00:00–03:59. decisive operation begins 04:00. no named locked loss occurs before E680.; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Final-Preparation Window — shared source state] CY 744-12-17 00:00–03:59. decisive operation begins 04:00. no named locked loss occurs before E680.; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -5969,7 +5969,7 @@ no constituency will grant one authority all routes, ships, people and holdout s
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Final-Preparation Window — shared source state] CY 744-12-17 00:00–03:59. decisive operation begins 04:00. no named locked loss occurs before E680.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Final-Preparation Window — shared source state] CY 744-12-17 00:00–03:59. decisive operation begins 04:00. no named locked loss occurs before E680.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -6027,7 +6027,7 @@ one final proposal asks Rian to accept the G human-corrective key before intake.
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Final-Preparation Window — shared source state] CY 744-12-17 00:00–03:59. decisive operation begins 04:00. no named locked loss occurs before E680.; cost-class=TIME/SERVICE-DELAY
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Final-Preparation Window — shared source state] CY 744-12-17 00:00–03:59. decisive operation begins 04:00. no named locked loss occurs before E680.; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -6085,7 +6085,7 @@ E676 opens at CY 744-12-17 04:00 with final intake and external contact already 
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Final-Preparation Window — shared source state] CY 744-12-17 00:00–03:59. decisive operation begins 04:00. no named locked loss occurs before E680.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Final-Preparation Window — shared source state] CY 744-12-17 00:00–03:59. decisive operation begins 04:00. no named locked loss occurs before E680.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -6143,7 +6143,7 @@ at 05:40 Trunk A receives live opening authority.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Action] Common Fact Board freezes the operation denominator at 3.44m while preserving corrections/claims … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Action] Common Fact Board freezes the operation denominator at 3.44m while preserving corrections/claims … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -6259,7 +6259,7 @@ B opens at 12:10 with captain/destination covenants already under hostile pressu
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Outcome] no extra A passenger intake after 10:20; one major transport disabled and three small craft lost in rescue/withdrawal … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Outcome] no extra A passenger intake after 10:20; one major transport disabled and three small craft lost in rescue/withdrawal … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -6297,7 +6297,7 @@ Nada’s five councils coordinate branch facts and missing groups; Ora/Neutral c
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[operate B’s multiple branches while preserving current captain, destination and community conditions.] → OBSTACLE[one destination suspends medical intake; two captains refuse reassignment; hostile boarding/route-denial groups force medical carriers and civilian branches to separate.] → PIVOT[Nada’s five councils coordinate branch facts and missing groups; Ora/Neutral captains exchange medical loads under vessel covenants; local traffic teams maintain collision timing … [source continues]] → DELTA[[DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] one medical group cannot remain coupled without losing both carriers and their patients.] → COST[52,000 nominal B candidates enter later/holdout/captured/unstable/dead/missing outcomes; branch separation creates the medical-carrier crisis that reaches Ella at 00:55.] → NEXT[one medical group cannot remain coupled without losing both carriers and their patients.]
+PRESSURE[operate B’s multiple branches while preserving current captain, destination and community conditions.] → OBSTACLE[one destination suspends medical intake; two captains refuse reassignment; hostile boarding/route-denial groups force medical carriers and civilian branches to separate.] → PIVOT[Nada’s five councils coordinate branch facts and missing groups; Ora/Neutral captains exchange medical loads under vessel covenants; local traffic teams maintain collision timing … [source continues]] → DELTA[⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ one medical group cannot remain coupled without losing both carriers and their patients.] → COST[52,000 nominal B candidates enter later/holdout/captured/unstable/dead/missing outcomes; branch separation creates the medical-carrier crisis that reaches Ella at 00:55.] → NEXT[one medical group cannot remain coupled without losing both carriers and their patients.]
 
 **HUMAN_PRESSURE_CARRIER**  
 writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current medical/care authority together with patient/affected-party consent where applicable; identify the performer/signatory/refuser from this exact source decision beat: Nada’s five councils coordinate branch facts and missing groups; Ora/Neutral captains exchange medical loads under vessel covenants; local traffic teams maintain collision timing; military formations defend branch approaches without absorbing ship command.); ground that face in the exact source pivot [Nada’s five councils coordinate branch facts and missing groups; Ora/Neutral captains exchange medical loads under vessel covenants; local traffic teams maintain collision timing; military formations defend branch approaches without absorbing ship command.] and source cost [52,000 nominal B candidates enter later/holdout/captured/unstable/dead/missing outcomes; branch separation creates the medical-carrier crisis that reaches Ella at 00:55.]. Do not create a new named witness merely to supply emotion.
@@ -6308,7 +6308,7 @@ NONE — relationship/internal-emotion delta is not separately fixed by the sour
 **RELATIONSHIP_DELTA_AUTHORITY:** `EXPLICIT-NONE GUARD`
 
 **READER_PAYOFF_THIS_EP**  
-[DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] one medical group cannot remain coupled without losing both carriers and their patients.
+⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ one medical group cannot remain coupled without losing both carriers and their patients.
 
 **RETENTION_QUESTION_OR_CHANGED_CONDITION**  
 one medical group cannot remain coupled without losing both carriers and their patients.
@@ -6317,7 +6317,7 @@ one medical group cannot remain coupled without losing both carriers and their p
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Action] Nada’s five councils coordinate branch facts and missing groups; Ora/Neutral captains exchange medical loads under vessel covenants … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Action] Nada’s five councils coordinate branch facts and missing groups; Ora/Neutral captains exchange medical loads under vessel covenants … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -6436,7 +6436,7 @@ Grey and several captains refuse or alter M assignments at 05:50.
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Truth statement] M is not certified to minimize immediate deaths … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Truth statement] M is not certified to minimize immediate deaths … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -6494,7 +6494,7 @@ Ardo’s State escort formation must separate from another defense command while
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Events] captains/communities reject some C/B destination or command conditions; local small-craft groups choose Grey endpoints … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Events] captains/communities reject some C/B destination or command conditions; local small-craft groups choose Grey endpoints … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -6555,7 +6555,7 @@ C convergence needs a mobile route/support hull to absorb a propulsion/energy di
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Outcome] both formations retain independent succession and continue their missions; `보루의 맹세` is lost/unrecoverable in the action … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Outcome] both formations retain independent succession and continue their missions; `보루의 맹세` is lost/unrecoverable in the action … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -6616,7 +6616,7 @@ late local operators, medical teams and remaining small craft have less than thr
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Outcome] C convergence remains usable long enough to complete the major transfer phase … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Outcome] C convergence remains usable long enough to complete the major transfer phase … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -6674,7 +6674,7 @@ at 14:00 all active movement references close and the first global count begins.
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Action] replacement teams release selected node/medical/traffic workers; local tugs and shuttles complete bounded transfers into C/Grey/receiving paths … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Action] replacement teams release selected node/medical/traffic workers; local tugs and shuttles complete bounded transfers into C/Grey/receiving paths … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -6732,7 +6732,7 @@ E687 begins immediate claims and source audit before any faction can rename unst
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Immediate mutually exclusive outcome categories] arrived/currently verified: **2,570,000**; holdout/stay/current local: **230,000** … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Immediate mutually exclusive outcome categories] arrived/currently verified: **2,570,000**; holdout/stay/current local: **230,000** … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -6790,7 +6790,7 @@ recovered original-timeline fragments use different definitions of “arrived”
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Goal] preserve the five outcome categories and prevent political reclassification before current services/claims begin.; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] preserve the five outcome categories and prevent political reclassification before current services/claims begin.; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -6848,7 +6848,7 @@ holdout, captured and missing groups demand immediate obligations before route s
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Goal] compare Rian’s remembered history, official future summaries and newly recovered physical/source records.; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Goal] compare Rian’s remembered history, official future summaries and newly recovered physical/source records.; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -6906,7 +6906,7 @@ neighboring systems begin closing routes and issuing denial orders to protect th
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Current obligations] 1. arrived — treatment, identity, family, service and destination review; 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Current obligations] 1. arrived — treatment, identity, family, service and destination review; 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -6930,24 +6930,24 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] receiving regions suspend or condition traffic after overload, security and identity shocks … [source continues]
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ receiving regions suspend or condition traffic after overload, security and identity shocks … [source continues]
 **POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] receiving regions suspend or condition traffic after overload, security and identity shocks; holdouts/captured/unstable groups seek supply and contact corridors … [source continues]
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ receiving regions suspend or condition traffic after overload, security and identity shocks; holdouts/captured/unstable groups seek supply and contact corridors … [source continues]
 **OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
-NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] receiving regions suspend or condition traffic after overload, security and identity shocks; holdouts/captured/unstable groups seek supply and contact corridors; missing-person searches collide with military route closures; Charter v1.0 categories and formations issue incompatible rescue, defense and home-recall responses; several authentic denial orders share common emergency logic but different current authorities.
+NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ receiving regions suspend or condition traffic after overload, security and identity shocks; holdouts/captured/unstable groups seek supply and contact corridors; missing-person searches collide with military route closures; Charter v1.0 categories and formations issue incompatible rescue, defense and home-recall responses; several authentic denial orders share common emergency logic but different current authorities.
 **DECISION_MODE:** `WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE`
 
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[close GA6 and launch the route-denial/federation/accountability conflict of GA7.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] receiving regions suspend or condition traf … [source continues]] → DELTA[[DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] receiving regions suspend or condition traffic after overload, security and identity shocks … [source continues]] → COST[[SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source] [Final GA6 state] Plan M operation closed; G/S counterfactuals and dissent preserved; Ella and Ardo permanently dead … [source continues]] → NEXT[the first region refuses an Orpheus-linked rescue convoy under a valid emergency denial, while another region using the same evidence keeps its route open.]
+PRESSURE[close GA6 and launch the route-denial/federation/accountability conflict of GA7.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ receiving regions suspend or condition traf … [source continues]] → DELTA[⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ receiving regions suspend or condition traffic after overload, security and identity shocks … [source continues]] → COST[⟦SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source⟧ [Final GA6 state] Plan M operation closed; G/S counterfactuals and dissent preserved; Ella and Ardo permanently dead … [source continues]] → NEXT[the first region refuses an Orpheus-linked rescue convoy under a valid emergency denial, while another region using the same evidence keeps its route open.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] receiving regions suspend or condition traffic after overload, security and identity shocks; holdouts/captured/unstable groups seek supply and contact corridors … [source continues]); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] receiving regions suspend or condition traffic after overload, security and identity shocks … [source continues]] and source cost [[SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source] [Final GA6 state] Plan M operation closed; G/S counterfactuals and dissent preserved; Ella and Ardo permanently dead; Vera permanently injured; `파루스` strategically immobile … [source continues]]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ receiving regions suspend or condition traffic after overload, security and identity shocks; holdouts/captured/unstable groups seek supply and contact corridors … [source continues]); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: ⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ receiving regions suspend or condition traffic after overload, security and identity shocks … [source continues]] and source cost [⟦SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source⟧ [Final GA6 state] Plan M operation closed; G/S counterfactuals and dissent preserved; Ella and Ardo permanently dead; Vera permanently injured; `파루스` strategically immobile … [source continues]]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
@@ -6955,7 +6955,7 @@ NONE — relationship/internal-emotion delta is not separately fixed by the sour
 **RELATIONSHIP_DELTA_AUTHORITY:** `EXPLICIT-NONE GUARD`
 
 **READER_PAYOFF_THIS_EP**  
-[DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] receiving regions suspend or condition traffic after overload, security and identity shocks; holdouts/captured/unstable groups seek supply and contact corridors; missing-person searches collide with military route closures; Charter v1.0 categories and formations issue incompatible rescue, defense and home-recall responses; several authentic denial orders share common emergency logic but different current authorities.
+⟦DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD⟧ receiving regions suspend or condition traffic after overload, security and identity shocks; holdouts/captured/unstable groups seek supply and contact corridors; missing-person searches collide with military route closures; Charter v1.0 categories and formations issue incompatible rescue, defense and home-recall responses; several authentic denial orders share common emergency logic but different current authorities.
 
 **RETENTION_QUESTION_OR_CHANGED_CONDITION**  
 the first region refuses an Orpheus-linked rescue convoy under a valid emergency denial, while another region using the same evidence keeps its route open.
@@ -6964,7 +6964,7 @@ the first region refuses an Orpheus-linked rescue convoy under a valid emergency
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Final GA6 state] Plan M operation closed; G/S counterfactuals and dissent preserved; Ella and Ardo permanently dead; Vera permanently injured … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Final GA6 state] Plan M operation closed; G/S counterfactuals and dissent preserved; Ella and Ardo permanently dead; Vera permanently injured … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.

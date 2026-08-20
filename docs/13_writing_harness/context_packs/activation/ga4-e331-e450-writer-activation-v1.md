@@ -53,7 +53,7 @@ the General Staff order demands immediate inventory of the 73 t dense module and
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Six current effects** — heir message seeks recognition/seals; Regency seeks civil obedience/payroll; Protector seeks force freeze and military reporting … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Six current effects** — heir message seeks recognition/seals; Regency seeks civil obedience/payroll; Protector seeks force freeze and military reporting … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -111,7 +111,7 @@ Mara Velen’s Regency order offers immediate payroll, pensions, hospital reimbu
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Inventory layers** — report separates physical existence, readiness, custody, mission authority, legal title and current no-use conditions. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Inventory layers** — report separates physical existence, readiness, custody, mission authority, legal title and current no-use conditions. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -169,7 +169,7 @@ Elian Argen’s Registry chain refuses to invalidate the payments but asks Ardis
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Regency offer** — 45 days of recognized payroll/pension/care reimbursement, court recognition and provincial service clearing … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Regency offer** — 45 days of recognized payroll/pension/care reimbursement, court recognition and provincial service clearing … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -227,7 +227,7 @@ Isa Bell’s Continuity order suspends transfer of every disputed high-level key
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Registry function** — Elian’s seal validates civil names, inheritance chains, interprovincial certificates and ceremonial continuity … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Registry function** — Elian’s seal validates civil names, inheritance chains, interprovincial certificates and ceremonial continuity … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -285,7 +285,7 @@ provincial consultation and founding-covenant messages demand that Ardis delay a
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Suspension scope** — sovereign/node/denial/command-transfer keys freeze … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Suspension scope** — sovereign/node/denial/command-transfer keys freeze … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -343,7 +343,7 @@ the missing Coreward courier sends a fragmented distress burst containing one ph
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Provincial demand** — at least twelve provincial/route bodies require evidence access, consultation and nonretaliation before accession recognition. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Provincial demand** — at least twelve provincial/route bodies require evidence access, consultation and nonretaliation before accession recognition. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -401,7 +401,7 @@ four separate retrieval teams and one private evidence broker are already moving
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Mission object** — recover living witness if possible; preserve physical clock/ledger/drive/medical evidence … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Mission object** — recover living witness if possible; preserve physical clock/ledger/drive/medical evidence … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -459,7 +459,7 @@ four official retrieval teams and a civilian salvage cooperative converge on Bas
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Physical start** — B-2 holds 14%; B-4 direct/direct/physical sources agree; no claimant or protagonist root key is used. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Physical start** — B-2 holds 14%; B-4 direct/direct/physical sources agree; no claimant or protagonist root key is used. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -517,7 +517,7 @@ Baseline is already under tow by a civilian salvage cooperative holding a valid 
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Elian Registry team** — authority over seals, identity, succession receipt and dynastic provenance; carries Registry medical-identification access. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Elian Registry team** — authority over seals, identity, succession receipt and dynastic provenance; carries Registry medical-identification access. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -575,7 +575,7 @@ the first opened compartment contains the physical receipt strip but not the dua
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Salvage state** — cooperative `Vesper Recovery` attached emergency power and tow … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Salvage state** — cooperative `Vesper Recovery` attached emergency power and tow … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -633,7 +633,7 @@ hull logs show the clock module was moved to an escape capsule after the courier
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Receipt strip** — physical pressure/ink sequence shows a Registry handoff entry and a Continuity challenge acknowledgment separated by 18 minutes, matching the two a … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Receipt strip** — physical pressure/ink sequence shows a Registry handoff entry and a Continuity challenge acknowledgment separated by 18 minutes, matching the two a … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -691,7 +691,7 @@ the module contains both timestamp chains and a third local write event that no 
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Human extraction** — all 16 living are removed; 5 critical, 7 serious/moderate and 4 stable … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Human extraction** — all 16 living are removed; 5 critical, 7 serious/moderate and 4 stable … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -749,7 +749,7 @@ a valid military evidence-seizure order and a valid Continuity root-isolation or
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Module state** — two sovereign-event timestamps plus a third local acknowledgment written 7 minutes after the later timestamp … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Module state** — two sovereign-event timestamps plus a third local acknowledgment written 7 minutes after the later timestamp … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -807,7 +807,7 @@ the designated hearing station reports that four claimant delegations have alrea
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Witness custody** — Tera and living survivors remain under Neutral medical/legal care with personal consent and no claimant interrogation access outside advocate-app … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Witness custody** — Tera and living survivors remain under Neutral medical/legal care with personal consent and no claimant interrogation access outside advocate-app … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -865,7 +865,7 @@ before the hearing begins, each claimant must demonstrate what their rule would 
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Separated arrival** — medical survivors enter Neutral care; Vesper/Baseline hull enters accident dock; mobile vault enters jointly watched evidence berth … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Separated arrival** — medical survivors enter Neutral care; Vesper/Baseline hull enters accident dock; mobile vault enters jointly watched evidence berth … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -923,7 +923,7 @@ a household Guard unit asks Elian to use the same seal to validate a military ob
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Bounded test set** — 1,240 cross-jurisdiction identity, inheritance, guardianship and care records; 86 are time-critical medical/family cases. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Bounded test set** — 1,240 cross-jurisdiction identity, inheritance, guardianship and care records; 86 are time-critical medical/family cases. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -981,7 +981,7 @@ Mara Velen’s civil service clears records but now faces a multi-province payro
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Guard request** — three household/ceremonial units and two provincial security commands offer obedience if Elian seals a common order. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Guard request** — three household/ceremonial units and two provincial security commands offer obedience if Elian seals a common order. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -1039,7 +1039,7 @@ one province refuses Mara’s court order and mobilizes security units around a 
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Civil test** — three provinces and two route jurisdictions submit 18,400 payroll, pension, hospital reimbursement and court-enforcement claims … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Civil test** — three provinces and two route jurisdictions submit 18,400 payroll, pension, hospital reimbursement and court-enforcement claims … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -1097,7 +1097,7 @@ Dor Kain must now stop two larger claimant flotillas from treating the depot set
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Dispute** — local province claims emergency custody; Regency court orders shared release; Elian seal validates title chain; Isa modules control certified inventory … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Dispute** — local province claims emergency custody; Regency court orders shared release; Elian seal validates title chain; Isa modules control certified inventory … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -1155,7 +1155,7 @@ one Protector staff order expands the freeze into civil communications and evide
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Force set** — 14 armed ships/large patrol craft and 32 frames from dynastic, Regency, provincial and independent commands converge around 9 civilian service ships … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Force set** — 14 armed ships/large patrol craft and 32 frames from dynastic, Regency, provincial and independent commands converge around 9 civilian service ships … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -1213,7 +1213,7 @@ Isa Bell’s Continuity network detects a cross-protocol identity/payment outage
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Expanded order** — one staff command freezes evidence transfers, provincial broadcasts and claimant travel as potential military threats. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Expanded order** — one staff command freezes evidence transfers, provincial broadcasts and claimant travel as potential military threats. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -1271,7 +1271,7 @@ hearing participants ask whether the institution that keeps every system alive h
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Outage** — conflicting succession codes break or quarantine 63,000 identity/payment/medical service entries across four provinces and two route systems … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Outage** — conflicting succession codes break or quarantine 63,000 identity/payment/medical service entries across four provinces and two route systems … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -1329,7 +1329,7 @@ the authentic-document hearing opens with proof that every claimant can keep one
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Power inventory** — root suspension, translation, medical/payment/identity service, node authentication and incident logs are separated into current functions. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Power inventory** — root suspension, translation, medical/payment/identity service, node authentication and incident logs are separated into current functions. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -1387,7 +1387,7 @@ the first evidence presentation proves a physical order that favors different cl
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Four claimant standing fields** — Elian: Registry/heir/ceremonial continuity; Mara: civil/regency administration; Dor: military/protector security … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Four claimant standing fields** — Elian: Registry/heir/ceremonial continuity; Mara: civil/regency administration; Dor: military/protector security … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -1503,7 +1503,7 @@ the hearing turns from who may object to which event legally activated each offi
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Three categories** — immediate life/service continuity; temporary administrative/defense operation … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Three categories** — immediate life/service continuity; temporary administrative/defense operation … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -1561,7 +1561,7 @@ Dor and Isa argue that the later conflict acknowledgment triggered emergency pow
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Medical event band** — irreversible incapacity is medically certified before the Registry death/receipt entry … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Medical event band** — irreversible incapacity is medically certified before the Registry death/receipt entry … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -1619,7 +1619,7 @@ hearing officers must design a remedy that keeps all four functions running with
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Conflict acknowledgment** — the third write event proves authorized operators knew two valid succession states conflicted before some downstream orders propagated … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Conflict acknowledgment** — the third write event proves authorized operators knew two valid succession states conflicted before some downstream orders propagated … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -1677,7 +1677,7 @@ a real corridor crisis is submitted as the first field test before the order is 
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Four fields** — Elian: Registry/ceremonial provenance; Mara: civil administration; Dor: military ceasefire/defense; Isa: root suspension/service continuity. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Four fields** — Elian: Registry/ceremonial provenance; Mara: civil administration; Dor: military ceasefire/defense; Isa: root suspension/service continuity. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -1793,7 +1793,7 @@ Elian’s Registry team can identify the patients and households fastest, but 3,
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Physical map** — three corridors have different mass, recovery, security and pressure limits; one cannot take hospital and grain traffic in the same recovery cycle … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Physical map** — three corridors have different mass, recovery, security and pressure limits; one cannot take hospital and grain traffic in the same recovery cycle … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -1851,7 +1851,7 @@ Mara’s civil system can pay staff, beds and carriers, but two provinces refuse
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Registry run** — Elian’s seal/provenance chain reconciles 21,400 of 24,600 service-worker/household records … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Registry run** — Elian’s seal/provenance chain reconciles 21,400 of 24,600 service-worker/household records … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -1909,7 +1909,7 @@ Dor can clear the armed lanes within hours, but his first plan places military s
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Civil clearing** — Mara’s system clears current wages, carrier fees, hospital purchases and depot release for 22,960 of the 23,880 usable records … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Civil clearing** — Mara’s system clears current wages, carrier fees, hospital purchases and depot release for 22,960 of the 23,880 usable records … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -1967,7 +1967,7 @@ Isa’s service network authenticates the revised movement but flags 1,060 curre
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Freeze/separation** — Dor assigns six armed commands to distinct holding/escort lanes and verifies weapon states … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Freeze/separation** — Dor assigns six armed commands to distinct holding/escort lanes and verifies weapon states … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -2025,7 +2025,7 @@ only a combined local/four-function operation can now move the nine ships before
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Service restore** — cross-code route/medical/payment states synchronize for 22,820 current records and all nine ships … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Service restore** — cross-code route/medical/payment states synchronize for 22,820 current records and all nine ships … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -2083,7 +2083,7 @@ a thermal/debris fault closes one of the three corridors as the first hospital s
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Five operating fields** — Registry/person/provenance; civil/pay/order; Protector/security; Continuity/service/authentication … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Five operating fields** — Registry/person/provenance; civil/pay/order; Protector/security; Continuity/service/authentication … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -2141,7 +2141,7 @@ every claimant claims partial credit, while Graybridge locals publish the parts 
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Fault** — Corridor 2 closes after thermal/debris state crosses limit; local physical stop is accepted without claimant override. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Fault** — Corridor 2 closes after thermal/debris state crosses limit; local physical stop is accepted without claimant override. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -2199,7 +2199,7 @@ claimant delegations draft a first empire-wide compact, while Graybridge and pro
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Function ledger** — Registry identifies/proves; civil pays/orders; Protector separates/defends; Continuity authenticates/services … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Function ledger** — Registry identifies/proves; civil pays/orders; Protector separates/defends; Continuity authenticates/services … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -2257,7 +2257,7 @@ seven of twenty-four ratification bodies demand those local functions be separat
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Five fields** — claimant functions remain separate; provincial/local/affected authority is compressed into one fifth field for ratification and current conditions … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Five fields** — claimant functions remain separate; provincial/local/affected authority is compressed into one fifth field for ratification and current conditions … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -2315,7 +2315,7 @@ Meridian M-4 reports an 11-ship relief convoy, eight armed escorts and a pressur
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Ratification result** — 11 conditional approvals, 7 demands for separate physical/affected fields, 4 rejection, 2 deferral. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Ratification result** — 11 conditional approvals, 7 demands for separate physical/affected fields, 4 rejection, 2 deferral. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -2373,7 +2373,7 @@ a cold-chain ship loses queue margin as the Secretariat waits for its third cent
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Manifest** — 1,460 t relief cargo across 11 ships; medical/oxygen, food, utility and housing/repair loads; 122 people aboard/attached. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Manifest** — 1,460 t relief cargo across 11 ships; medical/oxygen, food, utility and housing/repair loads; 122 people aboard/attached. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -2431,7 +2431,7 @@ Corridor 1 pressure geometry shifts while the first two ships are committed.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Central concurrence** — civil funding/order, military lane and Continuity authentication agree; Registry manifests are valid and not disputed. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Central concurrence** — civil funding/order, military lane and Continuity authentication agree; Registry manifests are valid and not disputed. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -2489,7 +2489,7 @@ every office accepts partial responsibility, but the first compact can no longer
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Physical failure** — collar deformation crosses the safe recovery line before the delayed stop actuates … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Physical failure** — collar deformation crosses the safe recovery line before the delayed stop actuates … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -2547,7 +2547,7 @@ the remaining 1,422 t recoverable/deliverable relief cargo must move before stat
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Causal report** — outdated central physical range, aggregated fifth field, 97-second routing delay, cold-chain urgency, escort geometry and current deformation all c … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Causal report** — outdated central physical range, aggregated fifth field, 97-second routing delay, cold-chain urgency, escort geometry and current deformation all c … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -2605,7 +2605,7 @@ claimant officeholders agree on the mission result but not whether the seven-fie
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Temporary seven-field mission** — Registry, civil, military, Continuity, direct physical, affected service/user and public evidence each act separately … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Temporary seven-field mission** — Registry, civil, military, Continuity, direct physical, affected service/user and public evidence each act separately … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -2663,7 +2663,7 @@ the revised seven-field draft must be written while one bloc prepares to demand 
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Ratification collapse** — conditional approvals fall; several bodies withdraw or demand full redesign after the two deaths and local-stop delay. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Ratification collapse** — conditional approvals fall; several bodies withdraw or demand full redesign after the two deaths and local-stop delay. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -2721,7 +2721,7 @@ centralist families, officers and administrators file a Single Emergency Soverei
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Three separations** — direct physical state/stop, affected service-user priority and provincial/founding ratification become distinct rather than one local delegate … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Three separations** — direct physical state/stop, affected service-user priority and provincial/founding ratification become distinct rather than one local delegate … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -2779,7 +2779,7 @@ twenty-four ratification bodies file final pilot decisions under five different 
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Petition case** — one recognized emergency sovereign for 90 days, able to appoint or coordinate the four functions and override deadlock … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Petition case** — one recognized emergency sovereign for 90 days, able to appoint or coordinate the four functions and override deadlock … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -2837,7 +2837,7 @@ the seven-field compact requires all four claimant officeholders to sign their l
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Ratification result** — 13 full thirty-day participants; 4 function-specific participants; 4 reject; 3 defer. Total: 24. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Ratification result** — 13 full thirty-day participants; 4 function-specific participants; 4 reject; 3 defer. Total: 24. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -2953,7 +2953,7 @@ Nira’s direct sensor finds Collar B shear drift outside the schedule model eig
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Current map** — Collar A and B have different recovery, shear and pressure limits; care complexes have different patient/cold-chain deadlines. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Current map** — Collar A and B have different recovery, shear and pressure limits; care complexes have different patient/cold-chain deadlines. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -3011,7 +3011,7 @@ the central comparison team accepts the stop and produces a revised 3h25m single
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Direct stop** — Nira issues physical stop; actuation begins in 11 seconds and is visible simultaneously to all fields. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Direct stop** — Nira issues physical stop; actuation begins in 11 seconds and is visible simultaneously to all fields. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -3069,7 +3069,7 @@ affected-care representatives reject the Registry/civil default order because on
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Central replan** — one emergency authority keeps hospital priority, merges manifest/funding/security/service changes and sequences twelve vessels through Collar A in … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Central replan** — one emergency authority keeps hospital priority, merges manifest/funding/security/service changes and sequences twelve vessels through Collar A in … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -3127,7 +3127,7 @@ the public-evidence field identifies an undeclared 9.4 t sponsor pallet attached
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Default order** — registered/funded patient transfers and cold-chain contracts first … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Default order** — registered/funded patient transfers and cold-chain contracts first … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -3185,7 +3185,7 @@ Collar A’s one-lane sequence now cannot preserve every cold-chain pallet befor
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Physical contents** — 6.1 t certified care hardware and consumables; 2.2 t donor/branding equipment; 1.1 t data/monitoring devices. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Physical contents** — 6.1 t certified care hardware and consumables; 2.2 t donor/branding equipment; 1.1 t data/monitoring devices. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -3243,7 +3243,7 @@ the twelve-vessel movement begins with no remaining schedule slack.
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Exposure model** — 6.8 t of temperature-sensitive medicine crosses downgrade risk; patient/oxygen priority cannot be reversed without new medical harm. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Exposure model** — 6.8 t of temperature-sensitive medicine crosses downgrade risk; patient/oxygen priority cannot be reversed without new medical harm. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -3301,7 +3301,7 @@ pilot supporters call it safe legitimacy; centralists call it measurable avoidab
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Phase 1** — urgent patients/caregivers and critical oxygen/medical loads move; Registry/civil/Continuity states remain valid. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Phase 1** — urgent patients/caregivers and critical oxygen/medical loads move; Registry/civil/Continuity states remain valid. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -3359,7 +3359,7 @@ the next review reveals that partial and rejecting jurisdictions are already run
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Pilot results** — direct physical stop in 11 seconds; no death/patient transport harm; current-care reprioritization and mixed sponsor separation work. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Pilot results** — direct physical stop in 11 seconds; no death/patient transport harm; current-care reprioritization and mixed sponsor separation work. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -3417,7 +3417,7 @@ PC-7 submits one movement whose people, wages, identities, security and service 
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Mission evidence** — direct stop in 11 seconds, no transport death/patient harm, 24-minute central speed advantage and 4.2 t medicine loss are admitted together. 2 … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Mission evidence** — direct stop in 11 seconds, no transport death/patient harm, 24-minute central speed advantage and 4.2 t medicine loss are admitted together. 2 … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -3475,7 +3475,7 @@ Zone C clears its registered payroll/manifest in four hours while Zone A’s wid
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Record collisions** — 9,480 current records produce 11,260 legal/service entries because people and households cross zones/functions. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Record collisions** — 9,480 current records produce 11,260 legal/service entries because people and households cross zones/functions. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -3533,7 +3533,7 @@ Dor’s security freeze is accepted in Zones A/C, conditioned in B and rejected 
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Zone C result** — one emergency sovereign administration clears 8,940 of 9,200 registered payroll/manifest entries in 4 hours … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Zone C result** — one emergency sovereign administration clears 8,940 of 9,200 registered payroll/manifest entries in 4 hours … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -3591,7 +3591,7 @@ Isa’s audit discovers that Zone A copied purpose-limited challenge and service
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Zone terms** — A accepts Dor armed-lane coordination plus local physical/service stops; B accepts recognition/pay but local command … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Zone terms** — A accepts Dor armed-lane coordination plus local physical/service stops; B accepts recognition/pay but local command … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -3649,7 +3649,7 @@ Zone B and D refuse to accept Zone A’s temporary substitute tokens, threatenin
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Audit finding** — purpose tokens, challenge metadata and current service logs were copied into one local analytics lake beyond declared mission scope … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Audit finding** — purpose tokens, challenge metadata and current service logs were copied into one local analytics lake beyond declared mission scope … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -3707,7 +3707,7 @@ the independent deletion/audit test finishes, but Isa conditions return on affec
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Current hold** — two vessels stop at Zone A/B interface; 38 workers/household members retain food, shelter, care and earned pay but cannot proceed under rejected sub … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Current hold** — two vessels stop at Zone A/B interface; 38 workers/household members retain food, shelter, care and earned pay but cannot proceed under rejected sub … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -3765,7 +3765,7 @@ one deferred body asks to join the pilot function-specifically, while the downgr
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Technical remediation** — copied live data is isolated; legally required incident evidence preserved; analytics copies deleted under mirrored checks. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Technical remediation** — copied live data is isolated; legally required incident evidence preserved; analytics copies deleted under mirrored checks. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -3823,7 +3823,7 @@ before the Four-Function Order expires, the M-4 hearing/service ring receives ar
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Participation update** — former full participant remains function-specific … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Participation update** — former full participant remains function-specific … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -3881,7 +3881,7 @@ immediate jurisdictional firing/seizure is avoided and both models can be compar
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **West Ring** — seven fields, direct physical/affected-service/evidence authority and pilot participation. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **West Ring** — seven fields, direct physical/affected-service/evidence authority and pilot participation. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -3939,7 +3939,7 @@ the 13-vessel relief convoy arrives while 18 armed ships and 46 frames receive i
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **East decision** — one emergency sovereign chain approves civil, Registry, security and Continuity action in 7 minutes. 2 … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **East decision** — one emergency sovereign chain approves civil, Registry, security and Continuity action in 7 minutes. 2 … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -3997,7 +3997,7 @@ a West physical operator refuses Corridor 2 after a current power-transfer oscil
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Force freeze** — Dor places 18 armed ships/46 frames into four separation groups and one external defense screen … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Force freeze** — Dor places 18 armed ships/46 frames into four separation groups and one external defense screen … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -4055,7 +4055,7 @@ an armed support craft crosses a holding boundary as utility ships reverse, forc
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Direct refusal** — West operator closes Corridor 2 after current power-transfer oscillation; stop acts immediately inside West. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Direct refusal** — West operator closes Corridor 2 after current power-transfer oscillation; stop acts immediately inside West. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -4113,7 +4113,7 @@ the remaining 1,896 t and 173 living people must move while the station now lack
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Geometry failure** — one armed support craft crosses a hold boundary during a valid local recognition handoff … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Geometry failure** — one armed support craft crosses a hold boundary during a valid local recognition handoff … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -4171,7 +4171,7 @@ Isa identifies one expiration/renewal mismatch that can rehold thousands of serv
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Original triggers remain** — Elian Registry, Mara civil, Dor military and Isa Continuity functions retain their bounded protocol bases … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Original triggers remain** — Elian Registry, Mara civil, Dor military and Isa Continuity functions retain their bounded protocol bases … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -4229,7 +4229,7 @@ the remaining convoy phases can move, but West and East still disagree on one ho
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Mismatch** — 2,980 unresolved entries plus 6,400 transition-review entries share an expiration/renewal mismatch, though not all are the same people or service. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Mismatch** — 2,980 unresolved entries plus 6,400 transition-review entries share an expiration/renewal mismatch, though not all are the same people or service. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -4287,7 +4287,7 @@ the hearing must now decide what the crisis proves before the seven-field pilot 
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **East phases** — central chain moves registered hospital/power cargo with faster reauthorization and one current local liaison … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **East phases** — central chain moves registered hospital/power cargo with faster reauthorization and one current local liaison … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -4345,7 +4345,7 @@ a claimant coalition proposes a revised compact that would let one sovereign be 
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Central evidence** — East restores clean registered services and reauthorizes after physical stop faster; one accountable administration improves speed and order … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Central evidence** — East restores clean registered services and reauthorizes after physical stop faster; one accountable administration improves speed and order … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -4403,7 +4403,7 @@ the first budget simulation lets the nonactuating sovereign starve three fields 
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Vacant office** — future sovereign may issue public mandates, receive foreign/provincial recognition and represent state continuity … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Vacant office** — future sovereign may issue public mandates, receive foreign/provincial recognition and represent state continuity … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -4461,7 +4461,7 @@ even with protected budgets, a sovereign who appoints field heads can shape ever
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Budget simulation** — sovereign reference office receives one consolidated emergency appropriation and allocates among seven fields. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Budget simulation** — sovereign reference office receives one consolidated emergency appropriation and allocates among seven fields. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -4519,7 +4519,7 @@ external governments and provinces refuse to negotiate with seven field signatur
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Appointment model** — sovereign nominates heads/alternates for all seven fields and may remove for emergency incapacity. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Appointment model** — sovereign nominates heads/alternates for all seven fields and may remove for emergency incapacity. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -4577,7 +4577,7 @@ drafters propose a timeout rule: if fields fail to respond, the sovereign’s pu
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **External need** — defense, trade, debt, care and route agreements require one recognizable state counterpart. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **External need** — defense, trade, debt, care and route agreements require one recognizable state counterpart. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -4635,7 +4635,7 @@ centralists shift to the last capture path: let the sovereign define when an eme
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Proposed default** — after 12 minutes without field concurrence, sovereign mandate becomes provisional order unless a direct safety stop exists. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Proposed default** — after 12 minutes without field concurrence, sovereign mandate becomes provisional order unless a direct safety stop exists. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -4693,7 +4693,7 @@ the seven-field pilot expires at the end of the day, forcing every participant t
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Declaration model** — sovereign may declare emergency, name affected territory/services and activate preauthorized field duties. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Declaration model** — sovereign may declare emergency, name affected territory/services and activate preauthorized field duties. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -4751,7 +4751,7 @@ at midnight the pilot ends, and twenty-four bodies separate into five post-pilot
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Second draft** — vacant Sovereign Reference Office: public mandate, ceremonial/external representation and accountability statement only. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Second draft** — vacant Sovereign Reference Office: public mandate, ceremonial/external representation and accountability statement only. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -4809,7 +4809,7 @@ the twenty-four filings produce five different legal arrangements, not one revis
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Expiry ledger** — pilot-wide reviews, facilitator schedule, participation status and cross-body defaults end … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Expiry ledger** — pilot-wide reviews, facilitator schedule, participation status and cross-body defaults end … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -4867,7 +4867,7 @@ East Cordon requests a local renewal vote before its thirty-day administration e
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Eight mission compact bodies** — retain seven operating fields only for named missions/assets, with direct stops and public evidence; no common constitution. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Eight mission compact bodies** — retain seven operating fields only for named missions/assets, with direct stops and public evidence; no common constitution. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -4925,7 +4925,7 @@ eight former full participants create a mission registry to keep seven-field pra
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Twelve local ratifying bodies** — 7 approve full renewal, 2 approve only function-specific participation, 2 reject and 1 abstains. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Twelve local ratifying bodies** — 7 approve full renewal, 2 approve only function-specific participation, 2 reject and 1 abstains. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -4983,7 +4983,7 @@ seven function-specific bodies need to move one care/repair convoy through three
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Registry scope** — each mission names assets, seven current fields, alternates, stops, budgets, evidence, withdrawal and expiry. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Registry scope** — each mission names assets, seven current fields, alternates, stops, budgets, evidence, withdrawal and expiry. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -5041,7 +5041,7 @@ one independent body refuses the next route entirely while a deferred body reque
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Functions** — Elian manifests and Mara payment cover first zone; Isa service authentication covers second … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Functions** — Elian manifests and Mara payment cover first zone; Isa service authentication covers second … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -5099,7 +5099,7 @@ the four claimant officeholders must state what remains of their authority after
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Independent refusal** — one body rejects both mission registry and central administration for the current route due local custody/data concerns. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Independent refusal** — one body rejects both mission registry and central administration for the current route due local custody/data concerns. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -5157,7 +5157,7 @@ sixteen bodies agree to negotiate the vacant Sovereign Reference draft, four att
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Elian** — Registry/ceremonial continuity remains; no civil/military/root/local actuation. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Elian** — Registry/ceremonial continuity remains; no civil/military/root/local actuation. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -5215,7 +5215,7 @@ Crownline Key Relay K-5 reports a nineteen-hour root/service expiration, twenty-
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Participation** — 16 negotiate; 4 observe without consent; 4 refuse. Attendance categories publish separately. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Participation** — 16 negotiate; 4 observe without consent; 4 refuse. Attendance categories publish separately. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -5273,7 +5273,7 @@ centralists submit two executable alternatives: Elian as sovereign reference wit
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Key/service state** — root custody remains Isa-bound; current recognition chain references sovereign office, Registry, civil responsibility and route/service accepta … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Key/service state** — root custody remains Isa-bound; current recognition chain references sovereign office, Registry, civil responsibility and route/service accepta … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -5331,7 +5331,7 @@ one General Staff-aligned group demands release of the 73 t dense module as proo
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Crown-Civil Reference Coalition** — Elian occupies sovereign reference/Registry legitimacy; Mara runs civil executive; Dor/Isa and seven fields remain bounded. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Crown-Civil Reference Coalition** — Elian occupies sovereign reference/Registry legitimacy; Mara runs civil executive; Dor/Isa and seven fields remain bounded. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -5389,7 +5389,7 @@ Isa can issue only a 72-hour bridge, and external jurisdictions still need a rec
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Demand** — military bloc seeks temporary release/transfer of the 73 t module under Protector emergency authority. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Demand** — military bloc seeks temporary release/transfer of the 73 t module under Protector emergency authority. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -5447,7 +5447,7 @@ current relay inspection finds a thermal-coupler fault that requires a direct ph
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Isa bridge** — purpose-limited service/recognition key valid 72 hours; root remains in Custodian custody; no renewal/transfer beyond current crisis. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Isa bridge** — purpose-limited service/recognition key valid 72 hours; root remains in Custodian custody; no renewal/transfer beyond current crisis. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -5505,7 +5505,7 @@ one armed custody group withdraws from Dor’s screen because the nonaccession c
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Direct stop** — physical field rejects full-load activation after coupler temperature/strain exceeds bounded envelope. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Direct stop** — physical field rejects full-load activation after coupler temperature/strain exceeds bounded envelope. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -5563,7 +5563,7 @@ the 72-hour bridge begins its final operational phase with 17 ships, 2,360 t and
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Withdrawal** — three armed ships and six frames leave the screen after six-hour notice under their lawful chain; no desertion/criminal label. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Withdrawal** — three armed ships and six frames leave the screen after six-hour notice under their lawful chain; no desertion/criminal label. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -5621,7 +5621,7 @@ the bridge expires, and every coalition claims the operation proves its preferre
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Phase 1** — 610 t medical/oxygen/cold-chain and highest-dependency people move under linked attestations and local physical/service acceptance. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Phase 1** — 610 t medical/oxygen/cold-chain and highest-dependency people move under linked attestations and local physical/service acceptance. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -5679,7 +5679,7 @@ negotiators divide over whether the future sovereign should merely represent the
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Function ledger** — Elian proves state/people provenance; Mara accepts civil liability; Dor secures; Isa bridges service/root … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Function ledger** — Elian proves state/people provenance; Mara accepts civil liability; Dor secures; Isa bridges service/root … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -5737,7 +5737,7 @@ a third draft proposes a future sovereign selected later by a multi-body process
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Negotiator positions** — 9 conditionally support the limited Sovereign Reference + seven fields; 4 support a stronger single-sovereign executive … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Negotiator positions** — 9 conditionally support the limited Sovereign Reference + seven fields; 4 support a stronger single-sovereign executive … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -5795,7 +5795,7 @@ one claimant coalition files the first formal nomination for the vacant office w
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Third draft core** — seven operating fields + vacant Sovereign Reference Office; linked external certificate; separate budgets/appointments/ratification … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Third draft core** — seven operating fields + vacant Sovereign Reference Office; linked external certificate; separate budgets/appointments/ratification … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -5853,7 +5853,7 @@ the next issue is whether a candidate may keep an existing claimant field while 
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Structure ballot first** — public/ceremonial/external/accountability functions … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Structure ballot first** — public/ceremonial/external/accountability functions … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive. HIGH-WATCH veto: no new claimant, crown relic or battle merely to make the band tangible.
@@ -5911,7 +5911,7 @@ nomination standing can still let one claimant bloc fill the ballot with control
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Elian case** — personal Registered-Heir status may support candidacy, but Registry field remains institutional and separately governed. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Elian case** — personal Registered-Heir status may support candidacy, but Registry field remains institutional and separately governed. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive. HIGH-WATCH veto: no new claimant, crown relic or battle merely to make the band tangible.
@@ -5969,7 +5969,7 @@ negotiators now dispute whether eleven votes can bind only themselves or claim a
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Nomination bundle** — at least two negotiating bodies from different post-pilot arrangement types; candidate consent; valid separation plan … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Nomination bundle** — at least two negotiating bodies from different post-pilot arrangement types; candidate consent; valid separation plan … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive. HIGH-WATCH veto: no new claimant, crown relic or battle merely to make the band tangible.
@@ -6027,7 +6027,7 @@ a limited office still needs recall, suspension and vacancy rules that cannot be
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Structure threshold** — at least 11 of 16 negotiators, including support from multiple post-pilot arrangement types and explicit affected/provincial conditions. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Structure threshold** — at least 11 of 16 negotiators, including support from multiple post-pilot arrangement types and explicit affected/provincial conditions. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive. HIGH-WATCH veto: no new claimant, crown relic or battle merely to make the band tangible.
@@ -6085,7 +6085,7 @@ with procedure defined, formal nominations can finally be filed.
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Immediate suspension** — illegal direct actuation, root/key seizure, field-budget starvation, armed/civil command claim or evidence tampering triggers temporary susp … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Immediate suspension** — illegal direct actuation, root/key seizure, field-budget starvation, armed/civil command claim or evidence tampering triggers temporary susp … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive. HIGH-WATCH veto: no new claimant, crown relic or battle merely to make the band tangible.
@@ -6143,7 +6143,7 @@ the evidence panel reopens the original six protocols and asks what, exactly, th
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Elian nomination** — limited Crown Reference Office under Draft v3 separation; Registry field remains institutional. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Elian nomination** — limited Crown Reference Office under Draft v3 separation; Registry field remains institutional. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive. HIGH-WATCH veto: no new claimant, crown relic or battle merely to make the band tangible.
@@ -6201,7 +6201,7 @@ the panel is ready to rule whether any master heir exists.
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Protocol text** — Registered-Heir chain transfers Crown/Registry recognition … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Protocol text** — Registered-Heir chain transfers Crown/Registry recognition … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive. HIGH-WATCH veto: no new claimant, crown relic or battle merely to make the band tangible.
@@ -6259,7 +6259,7 @@ Elian can now accept a limited Crown Reference Office, Mara can preserve civil a
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Registered-Heir ruling** — Elian validly inherits Crown Reference, Registry and ceremonial/external succession standing subject to compact scope/ratification … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Registered-Heir ruling** — Elian validly inherits Crown Reference, Registry and ceremonial/external succession standing subject to compact scope/ratification … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive. HIGH-WATCH veto: no new claimant, crown relic or battle merely to make the band tangible.
@@ -6317,7 +6317,7 @@ drafters must decide whether the compact is a temporary bridge or a new permanen
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Elian** — accepts Crown Reference candidacy only if Registry remains an institution outside personal command and no field is attached to the Crown by inheritance … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Elian** — accepts Crown Reference candidacy only if Registry remains an institution outside personal command and no field is attached to the Crown by inheritance … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -6375,7 +6375,7 @@ sixteen negotiators file final compact positions, while observers and nonpartici
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Compact term** — initial 18 months or ordinary constitutional settlement, whichever occurs first; first full review at 90 days, then every 180 days … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Compact term** — initial 18 months or ordinary constitutional settlement, whichever occurs first; first full review at 90 days, then every 180 days … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -6433,7 +6433,7 @@ six outside/rejecting bodies announce a lawful Sovereign Accountability Coalitio
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Sixteen negotiators** — 11 full ratify Compact v1; 3 adhere by named functions only; 2 reject and retain lawful alternatives. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Sixteen negotiators** — 11 full ratify Compact v1; 3 adhere by named functions only; 2 reject and retain lawful alternatives. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -6491,7 +6491,7 @@ the eleven full ratifiers must now select an occupant under the eight-vote thres
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Outside coalition** — six bodies preserve local/central arrangements and advocate one accountable emergency sovereign or later broader compact … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Outside coalition** — six bodies preserve local/central arrangements and advocate one accountable emergency sovereign or later broader compact … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -6549,7 +6549,7 @@ activation requires every office and field to demonstrate that Elian’s first m
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Eligibility** — Elian Registry/provenance valid; field-separation plan accepted; no unresolved illegal-scope or evidence-tampering challenge. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Eligibility** — Elian Registry/provenance valid; field-separation plan accepted; no unresolved illegal-scope or evidence-tampering challenge. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -6607,7 +6607,7 @@ the first compact operation must repair K-5 and clear current services while eig
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Separate oaths/registrations** — Elian signs only Crown Reference duties; Mara, Dor and Isa restate separate fields … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Separate oaths/registrations** — Elian signs only Crown Reference duties; Mara, Dor and Isa restate separate fields … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -6665,7 +6665,7 @@ the six outside/rejecting bodies challenge the certificate and position eight ar
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Elian statement** — recognizes Compact v1 scope, K-5 as the first public operation and the state-facing identity of linked certificates … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Elian statement** — recognizes Compact v1 scope, K-5 as the first public operation and the state-facing identity of linked certificates … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -6723,7 +6723,7 @@ certified replacement inspection finds the local bypass preserved the relay but 
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Outside position** — 8 armed ships/20 frames refuse Elian’s Crown Reference authority and Compact v1, but recognize current Dor ceasefire/deconfliction under their o … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Outside position** — 8 armed ships/20 frames refuse Elian’s Crown Reference authority and Compact v1, but recognize current Dor ceasefire/deconfliction under their o … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -6781,7 +6781,7 @@ service entries and held cargo must move inside the shortened activation window.
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Inspection** — 42 t certified package is compatible, but one mount is warped by prior bypass load; full planned installation would misalign under heat. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Inspection** — 42 t certified package is compatible, but one mount is warped by prior bypass load; full planned installation would misalign under heat. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -6839,7 +6839,7 @@ the final settlement must decide what Compact v1, East’s local central term an
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Repair activation** — certified/local teams bring K-5 to 92% certified local rating; root remains Isa-bound and Crown Reference has no key access. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Repair activation** — certified/local teams bring K-5 to 92% certified local rating; root remains Isa-bound and Crown Reference has no key access. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -6897,7 +6897,7 @@ evidence registries deliver multiple fleets whose owners, pay chains and lawful 
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Compact scope** — 11 full, 5 function-specific, 2 observer and 6 outside/reject remain; no automatic expansion. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Compact scope** — 11 full, 5 function-specific, 2 observer and 6 outside/reject remain; no automatic expansion. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -6955,7 +6955,7 @@ the first fleet dossier carries three valid owners, two payroll systems, one arm
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **No-master application** — E438 ruling applies to fleets: hull title, crew/pay, mission command, insurance/claims, local custody, weapons and strategic keys are separ … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **No-master application** — E438 ruling applies to fleets: hull title, crew/pay, mission command, insurance/claims, local custody, weapons and strategic keys are separ … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
