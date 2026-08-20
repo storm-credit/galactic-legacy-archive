@@ -1,0 +1,109 @@
+name: Build full-series Collection Desire Layer
+
+on:
+  push:
+    branches:
+      - production/full-series-collection-desire-subact-layer-v1
+    paths:
+      - 'tools/build_full_series_collection_desire_layer.py'
+      - 'tools/finalize_full_series_collection_desire_layer.py'
+      - 'tools/finalize_full_series_collection_desire_layer_strict.py'
+      - 'tools/finalize_full_series_collection_desire_semantic_sets.py'
+      - 'tools/finalize_full_series_collection_reader_desires.py'
+      - 'tools/run_full_series_collection_reader_desires.py'
+      - 'tools/audit_full_series_collection_desire_repetition.py'
+      - 'tools/audit_full_series_collection_reader_desire_source.py'
+      - 'tools/build_collection_normalization.py'
+      - 'docs/09_collection/**'
+      - 'docs/10_story_architecture/**'
+      - 'docs/00_project/full-series-collection-desire-subact-execution-standard-v1.md'
+      - '.github/workflows/build-full-series-collection-desire-layer.yml'
+  pull_request:
+    paths:
+      - 'tools/build_full_series_collection_desire_layer.py'
+      - 'tools/finalize_full_series_collection_desire_layer.py'
+      - 'tools/finalize_full_series_collection_desire_layer_strict.py'
+      - 'tools/finalize_full_series_collection_desire_semantic_sets.py'
+      - 'tools/finalize_full_series_collection_reader_desires.py'
+      - 'tools/run_full_series_collection_reader_desires.py'
+      - 'tools/audit_full_series_collection_desire_repetition.py'
+      - 'tools/audit_full_series_collection_reader_desire_source.py'
+      - 'tools/build_collection_normalization.py'
+      - 'docs/09_collection/**'
+      - 'docs/10_story_architecture/**'
+      - 'docs/00_project/full-series-collection-desire-subact-execution-standard-v1.md'
+      - '.github/workflows/build-full-series-collection-desire-layer.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-audit:
+    if: ${{ !contains(github.event.head_commit.message || '', '[collection-generated]') }}
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event_name == 'push' && github.ref_name || github.event.pull_request.head.sha }}
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Validate source normalization baseline
+        run: |
+          python tools/validate_collection_normalization.py
+
+      - name: Build source-bound reader-desire + semantic five-set layer
+        run: |
+          python tools/run_full_series_collection_reader_desires.py
+          python tools/run_full_series_collection_reader_desires.py --check
+
+      - name: Audit reader-desire source provenance
+        run: |
+          python tools/audit_full_series_collection_reader_desire_source.py
+          python tools/audit_full_series_collection_reader_desire_source.py --check
+
+      - name: Audit repetition and reader memory
+        run: |
+          python tools/audit_full_series_collection_desire_repetition.py
+          python tools/audit_full_series_collection_desire_repetition.py --check
+
+      - name: Show final depth and set-family verdicts
+        run: |
+          grep -n "VERDICT\|direct A matches\|manual source-bound A\|B textual\|B fallback\|zero active target\|mandatory desire" docs/99_quality_control/full-series-collection-desire-subact-depth-audit-v1.md
+          grep -n "PASS — 20/20" docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md
+          grep -n "false-A\|final collection desire depth verdict" docs/99_quality_control/full-series-collection-endpoint-reference-false-a-audit-v1.md
+          grep -n "Status: PASS\|dominant family\|missing primary families\|longest same-primary run" docs/99_quality_control/full-series-collection-set-family-semantic-balance-audit-v1.md
+          grep -n "Status: PASS\|target-title fallback\|malformed" docs/99_quality_control/full-series-collection-reader-desire-source-audit-v1.md
+          grep -n "Status: PASS\|exact adjacent\|active-target count" docs/99_quality_control/full-series-collection-desire-repetition-reader-memory-redteam-v1.md
+
+      - name: Restore unchanged normalization baseline bytes
+        if: ${{ github.event_name == 'push' }}
+        run: |
+          git checkout origin/main -- \
+            docs/09_collection/data/collection-normalization-full-source-rows-v1.csv \
+            docs/09_collection/data/collection-normalization-full-expanded-records-v1.csv
+
+      - name: Commit generated outputs on production branch
+        if: ${{ github.event_name == 'push' }}
+        shell: bash
+        run: |
+          if [[ -n "$(git status --porcelain docs/09_collection/generated/desire_subact docs/99_quality_control/full-series-collection-desire-subact-depth-audit-v1.md docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md docs/99_quality_control/full-series-collection-endpoint-reference-false-a-audit-v1.md docs/99_quality_control/full-series-collection-set-family-semantic-balance-audit-v1.md docs/99_quality_control/full-series-collection-reader-desire-source-audit-v1.md docs/99_quality_control/full-series-collection-desire-repetition-reader-memory-redteam-v1.md docs/09_collection/data/collection-normalization-full-source-rows-v1.csv docs/09_collection/data/collection-normalization-full-expanded-records-v1.csv)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add docs/09_collection/generated/desire_subact \
+                    docs/99_quality_control/full-series-collection-desire-subact-depth-audit-v1.md \
+                    docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md \
+                    docs/99_quality_control/full-series-collection-endpoint-reference-false-a-audit-v1.md \
+                    docs/99_quality_control/full-series-collection-set-family-semantic-balance-audit-v1.md \
+                    docs/99_quality_control/full-series-collection-reader-desire-source-audit-v1.md \
+                    docs/99_quality_control/full-series-collection-desire-repetition-reader-memory-redteam-v1.md \
+                    docs/09_collection/data/collection-normalization-full-source-rows-v1.csv \
+                    docs/09_collection/data/collection-normalization-full-expanded-records-v1.csv
+            git commit -m "Collection: finalize source-bound reader desires [collection-generated]"
+            git push origin HEAD:${{ github.ref_name }}
+          else
+            echo "Generated Collection Desire outputs are already current."
+          fi
