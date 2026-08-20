@@ -7,8 +7,9 @@ on:
     paths:
       - 'tools/audit_full_series_context_writer_depth.py'
       - 'tools/build_full_series_context_writer_activation*.py'
-      - 'tools/run_full_series_context_writer_activation_deep.py'
+      - 'tools/run_full_series_context_writer_activation*.py'
       - 'tools/finalize_context_load_bearing_overrides.py'
+      - 'tools/audit_writer_activation_decision_ownership.py'
       - 'tools/sanitize_context_activation_provenance.py'
       - 'tools/build_full_series_context_packs*.py'
       - 'docs/00_project/full-series-context-writer-activation-depth-standard-v1.md'
@@ -20,13 +21,15 @@ on:
     paths:
       - 'tools/audit_full_series_context_writer_depth.py'
       - 'tools/build_full_series_context_writer_activation*.py'
-      - 'tools/run_full_series_context_writer_activation_deep.py'
+      - 'tools/run_full_series_context_writer_activation*.py'
       - 'tools/finalize_context_load_bearing_overrides.py'
+      - 'tools/audit_writer_activation_decision_ownership.py'
       - 'tools/sanitize_context_activation_provenance.py'
       - 'tools/build_full_series_context_packs*.py'
       - 'docs/00_project/full-series-context-writer-activation-depth-standard-v1.md'
       - 'docs/10_story_architecture/**'
       - 'docs/13_writing_harness/context_packs/generated/**'
+      - '.github/workflows/audit-context-writer-depth.yml'
   workflow_dispatch:
 
 permissions:
@@ -36,10 +39,10 @@ jobs:
   audit-depth:
     runs-on: ubuntu-24.04
     steps:
-      - name: Check out writer-depth branch
+      - name: Check out current validation head
         uses: actions/checkout@v4
         with:
-          ref: production/e001-e1100-context-writer-depth-v2
+          ref: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.sha || github.sha }}
           fetch-depth: 0
 
       - name: Set up Python
@@ -50,16 +53,21 @@ jobs:
       - name: Build strict first-pass audit
         run: python tools/audit_full_series_context_writer_depth.py
 
-      - name: Build deep source-bound writer-activation overlays, final epilogue routes and load-bearing assertions
-        run: python tools/finalize_context_load_bearing_overrides.py
+      - name: Build deep source-bound writer activation with ownership blindspot closure
+        run: python tools/run_full_series_context_writer_activation_blindspot.py
 
       - name: Sanitize internal provenance pseudo-wikilinks
         run: python tools/sanitize_context_activation_provenance.py
 
-      - name: Commit writer-depth outputs on production branch
-        if: github.event_name != 'pull_request'
+      - name: Audit POV versus decision ownership
         run: |
-          TARGETS='docs/99_quality_control/full-series-context-writer-depth-audit-v1.md docs/99_quality_control/full-series-context-writer-depth-audit-v2.md docs/99_quality_control/full-series-context-writer-activation-false-a-redteam-v1.md docs/99_quality_control/full-series-context-load-bearing-manual-redteam-2026-08-20.md docs/13_writing_harness/context_packs/activation'
+          python tools/audit_writer_activation_decision_ownership.py
+          python tools/audit_writer_activation_decision_ownership.py --check
+
+      - name: Commit writer-depth outputs on production branch
+        if: github.event_name == 'push'
+        run: |
+          TARGETS='docs/99_quality_control/full-series-context-writer-depth-audit-v1.md docs/99_quality_control/full-series-context-writer-depth-audit-v2.md docs/99_quality_control/full-series-context-writer-activation-false-a-redteam-v1.md docs/99_quality_control/full-series-context-load-bearing-manual-redteam-2026-08-20.md docs/99_quality_control/full-series-context-decision-owner-blindspot-audit-v1.md docs/13_writing_harness/context_packs/activation'
           if [ -z "$(git status --porcelain -- $TARGETS)" ]; then
             echo 'Writer-depth outputs already current.'
             exit 0
@@ -67,11 +75,12 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add $TARGETS
-          git commit -m 'Production: refresh load-bearing writer-activation Context overlays'
-          git push origin HEAD:production/e001-e1100-context-writer-depth-v2
+          git commit -m 'Production: refresh writer activation with owner separation'
+          git push origin HEAD:${{ github.ref_name }}
 
       - name: Show depth and final load-bearing gates
         run: |
           grep -E 'Depth-A:|Depth-B:|Depth-C:' docs/99_quality_control/full-series-context-writer-depth-audit-v1.md
           grep -E 'legacy abstract-cost|HIGH-WATCH entries not|repetition runs still|MACHINE GATE' docs/99_quality_control/full-series-context-writer-activation-false-a-redteam-v1.md || true
           grep -E 'FINAL MANUAL VERDICT|load-bearing episodes checked|new story canon required' docs/99_quality_control/full-series-context-load-bearing-manual-redteam-2026-08-20.md
+          grep -E 'banned `POV \+ decision|Status: PASS' docs/99_quality_control/full-series-context-decision-owner-blindspot-audit-v1.md
