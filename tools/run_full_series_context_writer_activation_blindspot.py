@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
-"""Run writer activation with no-POV-owner + source-performer precision fixes.
+"""Run writer activation with source-bound owner and relationship precision fixes.
 
-This wrapper changes workflow/QC routing only. A POV can carry information
-without owning the decisive action. When the source does not expose an owner
-field but the exact decision sentence itself begins with a named/code actor or
-institution performing/refusing that decision, retain that source performer in
-the writer route. Otherwise keep the owner bounded to an existing role; never
-invent a person or promote the protagonist merely because they are POV.
+This wrapper changes workflow/QC routing only.
+- POV never creates decision authority.
+- If an exact source decision sentence begins with a named/code performer, retain
+  that source performer rather than an anonymous bounded role.
+- If the episode card explicitly labels a relationship/character-state rule,
+  carry that exact source text into the relationship execution slot instead of
+  rendering a false NONE.
+
+No relationship, emotion, actor or authority is inferred from unlabeled prose.
 """
 
 from __future__ import annotations
@@ -39,15 +42,10 @@ GENERIC_BAD = {
     "the approved episode", "the source", "a result", "an outcome", "the result",
 }
 
+_ORIGINAL_RELATIONSHIP_DELTA = base.relationship_delta
+
 
 def source_named_decision_performer(decision: str) -> str | None:
-    """Return only a high-confidence source-written performer phrase.
-
-    This is deliberately narrower than a general NLP subject extractor. It
-    accepts a sentence-initial actor only when the phrase contains either a
-    project actor code (`KT-441`, `H-001`, etc.) or a capitalized proper/institution
-    token sequence. Generic role phrases stay bounded for later manual review.
-    """
     text = re.sub(r"\s+", " ", decision or "").strip()
     if not text or text.startswith("NON-DISCRETE"):
         return None
@@ -121,10 +119,32 @@ def owner_route_no_pov_fallback(card, engine, decision, pov):
     return base.OWNER_ROLE[engine], "WORKFLOW-BOUNDED ROLE"
 
 
-base.owner_route = owner_route_no_pov_fallback
+def relationship_delta_with_explicit_source_labels(card, human, n):
+    """Carry only explicitly labeled relationship/character-state source text.
 
-# Import after the patch so the existing enhanced label normalization,
-# load-bearing loss/payoff overrides and final epilogue routes are preserved.
+    `local/patient trust`, standing warrants and similar institutional option
+    labels are intentionally not included here: they do not by themselves
+    declare an episode relationship/emotion delta.
+    """
+    explicit = base.first(
+        card,
+        "relationship/institution state",
+        "relationship state",
+        "institution state",
+        "relationship",
+        "character state",
+        "visual/relationship rule",
+    )
+    if explicit:
+        return explicit, "SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE"
+    return _ORIGINAL_RELATIONSHIP_DELTA(card, human, n)
+
+
+base.owner_route = owner_route_no_pov_fallback
+base.relationship_delta = relationship_delta_with_explicit_source_labels
+
+# Import after patches so enhanced label normalization, load-bearing loss/payoff
+# overrides and final epilogue routes remain intact.
 import finalize_context_load_bearing_overrides as finalizer  # noqa: E402
 
 
