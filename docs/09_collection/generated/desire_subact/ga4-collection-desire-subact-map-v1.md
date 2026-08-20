@@ -11,7 +11,7 @@ Publication: NOT AUTHORIZED
 
 - `SET_EXECUTION_ID`: `CLSET-GA4-4A-1`
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `RELATIONSHIP`
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: Ardis receives six messages and must respond before P-001 can reach the Core. → Ardis’s authenticated response and evidence courier mandate.
@@ -30,8 +30,8 @@ Publication: NOT AUTHORIZED
 ## 4A-2 — 증거가 먼저 죽는다 / E338–E345
 
 - `SET_EXECUTION_ID`: `CLSET-GA4-4A-2`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, LINEAGE, CIVILIZATION`
 - `MATCH_DEPTH`: `A-MANUAL`
 - `FRONT_DOMAINS`: C6 기술·표준, C1 인물·관계, C7 세력·제도, C4 유물·증거
 - `READER_DESIRE_MAIN`: recover/protect witness/evidence chain while traveling toward C11/C03/C06. → one crucial witness or physical archive reaches protected custody.
@@ -54,8 +54,8 @@ Publication: NOT AUTHORIZED
 ## 4A-3 — 네 명의 합법 / E346–E353
 
 - `SET_EXECUTION_ID`: `CLSET-GA4-4A-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: meet or observe the four front-stage claimants through active institutions rather than exposition. → limited access/relationship with all four solutions.
@@ -74,8 +74,8 @@ Publication: NOT AUTHORIZED
 ## 4A-4 — 진짜 문서들의 재판 / E354–E360
 
 - `SET_EXECUTION_ID`: `CLSET-GA4-4A-4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: no core protocol is a simple forgery. death/incapacity timing and designation scope genuinely diverge. emergency and provincial thresholds are partly met. → `다중정통성 인증 / Multiple Legitimacy Finding` or equivalent public result.
@@ -95,8 +95,8 @@ Publication: NOT AUTHORIZED
 ## 4B-1 — 월급을 주는 사람이 황제다 / E361–E367
 
 - `SET_EXECUTION_ID`: `CLSET-GA4-4B-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: keep salaries, pensions, hospitals and food contracts functioning. → temporary dual/multi-signature payment and service scheme.
@@ -116,8 +116,8 @@ Publication: NOT AUTHORIZED
 ## 4B-2 — 반쪽 대관식 / E368–E375
 
 - `SET_EXECUTION_ID`: `CLSET-GA4-4B-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: manage or prevent partial accession from becoming irreversible while respecting public legitimacy. → ceremonial legitimacy separated from immediate total control.
@@ -137,8 +137,8 @@ Publication: NOT AUTHORIZED
 ## 4B-3 — 지방은 누구에게 세금을 내는가 / E376–E383
 
 - `SET_EXECUTION_ID`: `CLSET-GA4-4B-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: secure provincial food, tax, route and administrative continuation without coercive recognition. → provisional provincial consultation/continuation mechanism.
@@ -158,8 +158,8 @@ Publication: NOT AUTHORIZED
 ## 4B-4 — 유능한 섭정 / E384–E390
 
 - `SET_EXECUTION_ID`: `CLSET-GA4-4B-4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: test Regent’s emergency administration under real simultaneous crises. → test Regent’s emergency administration under real simultaneous crises.
@@ -179,8 +179,8 @@ Publication: NOT AUTHORIZED
 ## 4C-1 — 보호 명령 / E391–E397
 
 - `SET_EXECUTION_ID`: `CLSET-GA4-4C-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: determine who is protecting whom and preserve independent custody. → some witnesses/records survive outside any one claimant.
@@ -200,8 +200,8 @@ Publication: NOT AUTHORIZED
 ## 4C-2 — 명령 하나 / E398–E404
 
 - `SET_EXECUTION_ID`: `CLSET-GA4-4C-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: prevent military units from fighting while limiting Protector’s authority. → immediate military stability and a bounded-command proposal.
@@ -223,8 +223,8 @@ Publication: NOT AUTHORIZED
 ## 4C-3 — 멈춘 제국 / E405–E412
 
 - `SET_EXECUTION_ID`: `CLSET-GA4-4C-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `EVENT, RELATIONSHIP, FUNCTIONAL, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: address Continuity suspension that stops forged commands but also freezes movement, funds and identities. → suspension narrowed and forged chain exposed.
@@ -245,8 +245,8 @@ Publication: NOT AUTHORIZED
 ## 4C-4 — 누구의 역사인가 / E413–E420
 
 - `SET_EXECUTION_ID`: `CLSET-GA4-4C-4`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `LINEAGE, EVENT, FUNCTIONAL, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C6 기술·표준, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: preserve enough evidence and public access to prevent permanent manufactured truth. → enough public evidence to support temporary compact; one historical suppression exposed.
@@ -267,8 +267,8 @@ Publication: NOT AUTHORIZED
 ## 4D-1 — 다섯 개의 권한 / E421–E427
 
 - `SET_EXECUTION_ID`: `CLSET-GA4-4D-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: negotiate authority categories rather than one ruler. → draft compact with sunset/review/removal and key splits.
@@ -290,8 +290,8 @@ Publication: NOT AUTHORIZED
 ## 4D-2 — 마지막 대관식 / E428–E434
 
 - `SET_EXECUTION_ID`: `CLSET-GA4-4D-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `EVENT, RELATIONSHIP, FUNCTIONAL, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: prevent irreversible monopoly without humiliating/destroying claimant constituency. → political space for final agreement.
@@ -312,8 +312,8 @@ Publication: NOT AUTHORIZED
 ## 4D-3 — 제국연속협약 / E435–E443
 
 - `SET_EXECUTION_ID`: `CLSET-GA4-4D-3`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: enact compact across several sites/institutions, not one signature table. → compact becomes operational, not merely declared.
@@ -335,8 +335,8 @@ Publication: NOT AUTHORIZED
 ## 4D-4 — 왕관보다 먼 전선 / E444–E450
 
 - `SET_EXECUTION_ID`: `CLSET-GA4-4D-4`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: show compact’s immediate effects and launch ownerless-fleet conflict. → show compact’s immediate effects and launch ownerless-fleet conflict.

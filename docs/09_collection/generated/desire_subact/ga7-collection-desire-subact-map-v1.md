@@ -10,8 +10,8 @@ Publication: NOT AUTHORIZED
 ## 7A-1 — 살아남은 항로의 빚 / E691–E697
 
 - `SET_EXECUTION_ID`: `CLSET-GA7-7A-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: Orpheus survivors/functions arrive unevenly; other fronts and holdouts demand supplies promised during GA6. → public federation obligation/shortage map.
@@ -30,8 +30,8 @@ Publication: NOT AUTHORIZED
 ## 7A-2 — 가까운 사람을 먼저 / E698–E704
 
 - `SET_EXECUTION_ID`: `CLSET-GA7-7A-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: respond to local closure without military/central seizure. → one crisis mitigated and appeal/compensation concept established.
@@ -50,8 +50,8 @@ Publication: NOT AUTHORIZED
 ## 7A-3 — 연합의 지휘관이 아닌 조정관 / E705–E710
 
 - `SET_EXECUTION_ID`: `CLSET-GA7-7A-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C8 영토·노드·문명, C7 세력·제도
 - `READER_DESIRE_MAIN`: define emergency federation authority before closures spread. → federation emergency mandate and multi-region operations cell.
@@ -71,8 +71,8 @@ Publication: NOT AUTHORIZED
 ## 7A-4 — 중앙회랑 / E711–E715
 
 - `SET_EXECUTION_ID`: `CLSET-GA7-7A-4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: compare federation response with Continuity corridor during simultaneous supply/attack crisis. → limited federation–Continuity service agreement or data link.
@@ -92,7 +92,7 @@ Publication: NOT AUTHORIZED
 
 - `SET_EXECUTION_ID`: `CLSET-GA7-7B-1`
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: investigate denial attributed to H-001. → first separation of person, office, doctrine and delegated key.
@@ -111,8 +111,8 @@ Publication: NOT AUTHORIZED
 ## 7B-2 — 파괴하지 않아서 죽는 사람들 / E723–E728
 
 - `SET_EXECUTION_ID`: `CLSET-GA7-7B-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C6 기술·표준, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: hold/evacuate a route without immediate hard denial. → people/infrastructure saved through restraint.
@@ -131,8 +131,8 @@ Publication: NOT AUTHORIZED
 ## 7B-3 — 누구에게 폭파키를 줄 것인가 / E729–E735
 
 - `SET_EXECUTION_ID`: `CLSET-GA7-7B-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C6 기술·표준, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: establish denial-key custody and thresholds. → distributed denial registry and layered D0–D4 authority.
@@ -153,8 +153,8 @@ Publication: NOT AUTHORIZED
 ## 7B-4 — 이름을 물려받는 사람 / E736–E740
 
 - `SET_EXECUTION_ID`: `CLSET-GA7-7B-4`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, LINEAGE, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C6 기술·표준, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: identify office/title inheritance and radical successor network. → partial Blood Admiral decomposition and some key revocations.
@@ -175,8 +175,8 @@ Publication: NOT AUTHORIZED
 ## 7C-1 — 한 노드, 세 지역 / E741–E747
 
 - `SET_EXECUTION_ID`: `CLSET-GA7-7C-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: establish exact dependency/capture/evacuation facts for target node. → public uncertainty map and staged D1–D4 plan.
@@ -195,8 +195,8 @@ Publication: NOT AUTHORIZED
 ## 7C-2 — 파괴 이전의 선택들 / E748–E753
 
 - `SET_EXECUTION_ID`: `CLSET-GA7-7C-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: exhaust credible alternatives without pretending every possibility can be tried. → reduced population/asset exposure and real options narrowed.
@@ -215,8 +215,8 @@ Publication: NOT AUTHORIZED
 ## 7C-3 — H-001의 명령 / E754–E759
 
 - `SET_EXECUTION_ID`: `CLSET-GA7-7C-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: H-001 D4 Denial Order / Affected-Region Standing Rule → E741–790.
@@ -236,8 +236,8 @@ Publication: NOT AUTHORIZED
 ## 7C-4 — 살아남은 사람의 고발 / E760–E765
 
 - `SET_EXECUTION_ID`: `CLSET-GA7-7C-4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: rescue/aid stranded/dependent groups and preserve evidence before faction narratives harden. → some survivors/records/claims preserved.
@@ -257,8 +257,8 @@ Publication: NOT AUTHORIZED
 ## 7D-1 — 일곱 번의 학살 / E766–E772
 
 - `SET_EXECUTION_ID`: `CLSET-GA7-7D-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C1 인물·관계, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: identify a manageable representative set of future/current incidents. → incident matrix and multiple responsible actors.
@@ -279,8 +279,8 @@ Publication: NOT AUTHORIZED
 ## 7D-2 — 한 명의 악당이 필요한 사람들 / E773–E780
 
 - `SET_EXECUTION_ID`: `CLSET-GA7-7D-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C1 인물·관계, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: protect accountability from both singular myth and responsibility dilution. → specific responsibility categories and separate proceedings/claims.
@@ -301,8 +301,8 @@ Publication: NOT AUTHORIZED
 ## 7D-3 — 피의 제독 없이 항로를 지키기 / E781–E790
 
 - `SET_EXECUTION_ID`: `CLSET-GA7-7D-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C8 영토·노드·문명, C7 세력·제도
 - `READER_DESIRE_MAIN`: run one final multi-route emergency without relying on H-001 as sole coordinator or singular title. → route federation becomes an institution rather than H-001’s network.
@@ -325,8 +325,8 @@ Publication: NOT AUTHORIZED
 ## 7D-4 — 이름을 돌려주는 일 / E791–E800
 
 - `SET_EXECUTION_ID`: `CLSET-GA7-7D-4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도
 - `READER_DESIRE_MAIN`: publish/establish plural incident records, direct accountability and H-001’s future role. Possible H-001 outcome — recommended: removed/resigns from singular emergency office. remains elected/contracted political/logistics actor under narrower authority, or leads a separate accountable organization. accepts specific legal/compensation obligations. refuses martyrdom or P-001 subordination. → no total absolution, but individuals/institutions regain names and causal roles.

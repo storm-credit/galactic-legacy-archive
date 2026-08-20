@@ -10,8 +10,8 @@ Publication: NOT AUTHORIZED
 ## 6A-1 — 원래 역사와 같은 좌표 / E571–E577
 
 - `SET_EXECUTION_ID`: `CLSET-GA6-6A-1`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, LINEAGE, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-MANUAL`
 - `FRONT_DOMAINS`: C5 함선, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명, C1 인물·관계
 - `READER_DESIRE_MAIN`: distress/command messages reveal structural match to original Orpheus. → multi-party emergency council/operations cell.
@@ -34,8 +34,8 @@ Publication: NOT AUTHORIZED
 ## 6A-2 — 사람과 기능의 장부 / E578–E584
 
 - `SET_EXECUTION_ID`: `CLSET-GA6-6A-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: map people, ships, life support and institutional dependencies. → operational census with uncertainty bands and protected/private layers.
@@ -55,8 +55,8 @@ Publication: NOT AUTHORIZED
 ## 6A-3 — 첫 번째 창을 누가 갖는가 / E585–E592
 
 - `SET_EXECUTION_ID`: `CLSET-GA6-6A-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: prevent unilateral seizure of Window A and define temporary traffic rules. → traffic-control compact and local/node standing.
@@ -76,8 +76,8 @@ Publication: NOT AUTHORIZED
 ## 6A-4 — 가장 공정한 계산 / E593–E600
 
 - `SET_EXECUTION_ID`: `CLSET-GA6-6A-4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: compare Option 1–4 using transparent assumptions and decide planning direction. → Mixed Evacuation Mandate and work breakdown.
@@ -97,8 +97,8 @@ Publication: NOT AUTHORIZED
 ## 6B-1 — 이동식 국가 해체 / E601–E607
 
 - `SET_EXECUTION_ID`: `CLSET-GA6-6B-1`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: decide which State functions can be distributed. → distributed function manifest and smaller transport packages.
@@ -118,8 +118,8 @@ Publication: NOT AUTHORIZED
 ## 6B-2 — 버릴 함선 / E608–E614
 
 - `SET_EXECUTION_ID`: `CLSET-GA6-6B-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C5 함선, C7 세력·제도
 - `READER_DESIRE_MAIN`: select 12–24 heavy combat/support hulls for abandonment, scuttling, thermal support, crew/passenger transfer or rearguard. → freed mass/thermal/traffic and rescue capacity.
@@ -138,8 +138,8 @@ Publication: NOT AUTHORIZED
 ## 6B-3 — 회랑을 여러 개로 만들기 / E615–E622
 
 - `SET_EXECUTION_ID`: `CLSET-GA6-6B-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: prepare Window A/B/C, Grey routes and local shelters simultaneously. → usable but limited side-route and holdout capacity.
@@ -159,7 +159,7 @@ Publication: NOT AUTHORIZED
 
 - `SET_EXECUTION_ID`: `CLSET-GA6-6B-4`
 - `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL`
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: finalize command allocations and whether to use Continuity override. → final Mixed Evacuation Operations Plan.
@@ -178,8 +178,8 @@ Publication: NOT AUTHORIZED
 ## 6C-1 — 창 A: 한 덩어리로 가지 않는다 / E631–E638
 
 - `SET_EXECUTION_ID`: `CLSET-GA6-6C-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: execute mixed Window A rather than intact State priority. → Window A passes mixed population/functions while preserving B probability.
@@ -198,8 +198,8 @@ Publication: NOT AUTHORIZED
 ## 6C-2 — 창 B: 늦은 명령 / E639–E646
 
 - `SET_EXECUTION_ID`: `CLSET-GA6-6C-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도
 - `READER_DESIRE_MAIN`: repair/open B while defending node and managing isolated formations. → Window B opens partially.
@@ -218,8 +218,8 @@ Publication: NOT AUTHORIZED
 ## 6C-3 — 창 C: 살아남기 위해 무너뜨리는 것 / E647–E654
 
 - `SET_EXECUTION_ID`: `CLSET-GA6-6C-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: create final window and Grey/holdout transition through deliberate destruction/sacrifice. → Window C opens at reduced capacity and side routes continue.
@@ -238,8 +238,8 @@ Publication: NOT AUTHORIZED
 ## 6C-4 — 마지막 명단 / E655–E660
 
 - `SET_EXECUTION_ID`: `CLSET-GA6-6C-4`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `LINEAGE, FUNCTIONAL, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도
 - `READER_DESIRE_MAIN`: execute final manifest, Grey departures, shelter and rearguard. → majority of mixed plan survives immediate phase.
@@ -259,8 +259,8 @@ Publication: NOT AUTHORIZED
 ## 6D-1 — 구조가 끝나지 않은 사람들 / E661–E667
 
 - `SET_EXECUTION_ID`: `CLSET-GA6-6D-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도
 - `READER_DESIRE_MAIN`: locate/rescue survivors, support holdouts and establish casualty/missing ranges. → some survivors/records recovered; holdout contact/terms established.
@@ -280,7 +280,7 @@ Publication: NOT AUTHORIZED
 
 - `SET_EXECUTION_ID`: `CLSET-GA6-6D-2`
 - `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP`
+- `SECONDARY_SET_TYPES`: `EVENT, RELATIONSHIP, CIVILIZATION, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: build public casualty, decision and order record. → public plural after-action finding and compensation/claim framework.
@@ -300,8 +300,8 @@ Publication: NOT AUTHORIZED
 ## 6D-3 — 첫 번째 오르페우스의 진실 / E675–E682
 
 - `SET_EXECUTION_ID`: `CLSET-GA6-6D-3`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `LINEAGE, RELATIONSHIP, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C5 함선
 - `READER_DESIRE_MAIN`: reconstruct original incident enough to change current understanding. → major M-007 partial/final payoff and institutional lessons.
@@ -321,8 +321,8 @@ Publication: NOT AUTHORIZED
 ## 6D-4 — 더 나쁜 전쟁 / E683–E690
 
 - `SET_EXECUTION_ID`: `CLSET-GA6-6D-4`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: stabilize political/military aftermath and identify next conflict. → distributed institutions survive in several nodes; reforms to emergency route/manifest/authority.

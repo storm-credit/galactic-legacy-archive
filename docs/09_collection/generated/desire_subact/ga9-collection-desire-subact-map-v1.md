@@ -10,8 +10,8 @@ Publication: NOT AUTHORIZED
 ## 9A-1 — 다시 온 월급 / E901–E906
 
 - `SET_EXECUTION_ID`: `CLSET-GA9-9A-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, FUNCTIONAL, LINEAGE`
 - `MATCH_DEPTH`: `A-MANUAL`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C4 유물·증거
 - `READER_DESIRE_MAIN`: synchronized corridors show immediate effects after GA8 activation. → public trust and successful corrective exception.
@@ -34,8 +34,8 @@ Publication: NOT AUTHORIZED
 ## 9A-2 — 점수가 아니라 허가 / E907–E912
 
 - `SET_EXECUTION_ID`: `CLSET-GA9-9A-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: investigate how domain classifications produce material permissions without one visible moral score. → classification audit map and appeals access.
@@ -54,8 +54,8 @@ Publication: NOT AUTHORIZED
 ## 9A-3 — 예외를 만드는 사람 / E913–E918
 
 - `SET_EXECUTION_ID`: `CLSET-GA9-9A-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: determine P-001’s corrective role and whether exceptions can be institutionalized. → reverses one classification/systemic error and exposes a model blind spot.
@@ -74,8 +74,8 @@ Publication: NOT AUTHORIZED
 ## 9A-4 — 자발적으로 들어간 도시 / E919–E925
 
 - `SET_EXECUTION_ID`: `CLSET-GA9-9A-4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, FUNCTIONAL, LINEAGE`
 - `MATCH_DEPTH`: `A-MANUAL`
 - `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도, C4 유물·증거
 - `READER_DESIRE_MAIN`: synchronize a willing region/institution and observe interdependence effects. → clear regime legitimacy and service expansion.
@@ -98,8 +98,8 @@ Publication: NOT AUTHORIZED
 ## 9B-1 — 검토가 끝나기 전에 / E926–E931
 
 - `SET_EXECUTION_ID`: `CLSET-GA9-9B-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: save people whose appeals cannot finish before medical/route/housing deadlines. → emergency appeal/continuity provision and named lives saved.
@@ -118,8 +118,8 @@ Publication: NOT AUTHORIZED
 ## 9B-2 — 자유로운 지역의 문 / E932–E937
 
 - `SET_EXECUTION_ID`: `CLSET-GA9-9B-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: defend/assess PR-L04 hybrid region under regime pressure and internal failure. → defend/assess PR-L04 hybrid region under regime pressure and internal failure.
@@ -138,8 +138,8 @@ Publication: NOT AUTHORIZED
 ## 9B-3 — 체제를 증명하는 테러 / E938–E944
 
 - `SET_EXECUTION_ID`: `CLSET-GA9-9B-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-MANUAL`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: stop real sabotage/attack without allowing the incident to erase all safeguards. → attack stopped, network vulnerability understood.
@@ -162,8 +162,8 @@ Publication: NOT AUTHORIZED
 ## 9B-4 — 항소할 수 있는 비상사태 / E945–E950
 
 - `SET_EXECUTION_ID`: `CLSET-GA9-9B-4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: contest scope/duration of trusteeship and preserve appeals/local standing. → some services stabilized and evidence/appeal channels preserved.
@@ -182,8 +182,8 @@ Publication: NOT AUTHORIZED
 ## 9C-1 — 임시수탁령 / E951–E956
 
 - `SET_EXECUTION_ID`: `CLSET-GA9-9C-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: observe/contest trusteeship implementation in one named sector/region. → named beneficiaries and evidence of hardliner scope expansion.
@@ -204,7 +204,7 @@ Publication: NOT AUTHORIZED
 
 - `SET_EXECUTION_ID`: `CLSET-GA9-9C-2`
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `NONE`
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, RELATIONSHIP, FUNCTIONAL, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C4 유물·증거, C7 세력·제도
 - `READER_DESIRE_MAIN`: organize internal resistance/reform before mass stabilization. → internal coalition and transition assets.
@@ -224,8 +224,8 @@ Publication: NOT AUTHORIZED
 ## 9C-3 — 동기화 전쟁 / E963–E969
 
 - `SET_EXECUTION_ID`: `CLSET-GA9-9C-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `EVENT, RELATIONSHIP, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C4 유물·증거, C7 세력·제도
 - `READER_DESIRE_MAIN`: prevent forced synchronization from becoming irreversible while protecting civilians/services. → transition capacity and regime internal division.
@@ -245,8 +245,8 @@ Publication: NOT AUTHORIZED
 ## 9C-4 — 누가 체제를 지킬 것인가 / E970–E975
 
 - `SET_EXECUTION_ID`: `CLSET-GA9-9C-4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C4 유물·증거, C7 세력·제도
 - `READER_DESIRE_MAIN`: decide leadership/control for immediate Seed/military crisis. → direct access to Seed/command capable of reversing classifications and controlling synchronized forces.
@@ -267,8 +267,8 @@ Publication: NOT AUTHORIZED
 ## 9D-1 — 중앙키 / E976–E981
 
 - `SET_EXECUTION_ID`: `CLSET-GA9-9D-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, FUNCTIONAL, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C4 유물·증거, C7 세력·제도
 - `READER_DESIRE_MAIN`: assume and define emergency central corrective scope under active conflict. → public/fleet trust and operational initiative.
@@ -289,8 +289,8 @@ Publication: NOT AUTHORIZED
 ## 9D-2 — 덜 잔혹한 명령 / E982–E988
 
 - `SET_EXECUTION_ID`: `CLSET-GA9-9D-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `NONE`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: win military/Seed confrontation with minimum coercion. → coercive operator isolated and services preserved.
@@ -309,8 +309,8 @@ Publication: NOT AUTHORIZED
 ## 9D-3 — 보존된 승리 / E989–E995
 
 - `SET_EXECUTION_ID`: `CLSET-GA9-9D-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: finalize immediate victory, protect staff/beneficiaries and prevent revenge/collapse. → single coercive military operator defeated; regime no longer actively expanding through that command.
@@ -329,8 +329,8 @@ Publication: NOT AUTHORIZED
 ## 9D-4 — 수집가가 가진 은하 / E996–E1000
 
 - `SET_EXECUTION_ID`: `CLSET-GA9-9D-4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: decide whether P-001 keeps temporary central power, destroys system or begins distribution. → GA10 transition mandate and physical/institutional access.

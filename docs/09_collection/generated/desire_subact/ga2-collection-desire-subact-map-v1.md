@@ -10,8 +10,8 @@ Publication: NOT AUTHORIZED
 ## 2A-1 — 배보다 먼저 도착한 빚 / E101–E107
 
 - `SET_EXECUTION_ID`: `CLSET-GA2-2A-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C4 유물·증거, C5 함선, C7 세력·제도, C6 기술·표준, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: common coolant trunk means both reactors are not true redundancy. second frame bay was removed under a disputed insurance salvage event. previous crew has unpaid claims and distrusts students. hull access; old crew roster; defect ledger; title/lien case. → 14-day survey/tow access and freeze on stripping. CAP-001 agrees to conditional command negotiation.
@@ -34,8 +34,8 @@ Publication: NOT AUTHORIZED
 ## 2A-2 — 누가 함장인가 / E108–E114
 
 - `SET_EXECUTION_ID`: `CLSET-GA2-2A-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C5 함선, C7 세력·제도, C1 인물·관계, C4 유물·증거, C6 기술·표준, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: create a legal minimum command/crew structure and decide who owns final authority. → provisional ship command charter and minimum licensed roster.
@@ -58,8 +58,8 @@ Publication: NOT AUTHORIZED
 ## 2A-3 — 최저 안전선 / E115–E121
 
 - `SET_EXECUTION_ID`: `CLSET-GA2-2A-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도, C8 영토·노드·문명, C3 무기·부품, C5 함선, C2 기체
 - `READER_DESIRE_MAIN`: repair only what is needed for minimum transit without pretending the ship is complete. → minimum transit certificate. first official crew muster and shipboard home state.
@@ -82,8 +82,8 @@ Publication: NOT AUTHORIZED
 ## 2A-4 — 첫 항해는 구조가 아니다 / E122–E130
 
 - `SET_EXECUTION_ID`: `CLSET-GA2-2A-4`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, LINEAGE, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C4 유물·증거, C5 함선, C7 세력·제도, C3 무기·부품
 - `READER_DESIRE_MAIN`: First Ship Crew and Mission Trust / Brann–Neris Standards/Worker Council / Recycler Upgrade or Vela Biological Module → route/insurance certification; mixed reputation; crew trusts authority process slightly more.
@@ -105,8 +105,8 @@ Publication: NOT AUTHORIZED
 ## 2B-1 — 보험에 남은 유령 / E131–E137
 
 - `SET_EXECUTION_ID`: `CLSET-GA2-2B-1`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C5 함선, C3 무기·부품
 - `READER_DESIRE_MAIN`: authenticate salvage manifest and obtain route/claim standing. → Marn/Neris search route, one genuine module serial, old crew map.
@@ -128,8 +128,8 @@ Publication: NOT AUTHORIZED
 ## 2B-2 — 마른 항로 / E138–E145
 
 - `SET_EXECUTION_ID`: `CLSET-GA2-2B-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C5 함선, C3 무기·부품
 - `READER_DESIRE_MAIN`: transponder attached to a tug/parts caravan or autonomous maintenance train assembled from several hulls. some workers live aboard under irregular identity. → direct access to genuine service collar/module records.
@@ -152,8 +152,8 @@ Publication: NOT AUTHORIZED
 ## 2B-3 — 가짜 유산 / E146–E153
 
 - `SET_EXECUTION_ID`: `CLSET-GA2-2B-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C5 함선, C3 무기·부품, C1 인물·관계, C7 세력·제도
 - `READER_DESIRE_MAIN`: identify which component/log is genuine before installation/route window closes. → discover functional/identity provenance layers and a better test/governance method. Archive reliability on equipment explicitly questioned.
@@ -176,8 +176,8 @@ Publication: NOT AUTHORIZED
 ## 2B-4 — 두 번째 격납고 / E154–E160
 
 - `SET_EXECUTION_ID`: `CLSET-GA2-2B-4`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, LINEAGE, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C3 무기·부품, C5 함선, C6 기술·표준, C1 인물·관계, C7 세력·제도
 - `READER_DESIRE_MAIN`: Partial Bay 2 / Relay-Service Collar / Relay Calibration Package / Brann–Neris Standards/Worker Council → partial second bay/service module. recognized worker/labor claim and old AUXILIA lineage.
@@ -200,8 +200,8 @@ Publication: NOT AUTHORIZED
 ## 2C-1 — 서른여섯 명, 한 장부 / E161–E166
 
 - `SET_EXECUTION_ID`: `CLSET-GA2-2C-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C8 영토·노드·문명, C3 무기·부품, C5 함선, C4 유물·증거, C7 세력·제도
 - `READER_DESIRE_MAIN`: present real destination capacities before panic or forced extraction. → temporary freeze delay/convoy window and community representative process.
@@ -223,8 +223,8 @@ Publication: NOT AUTHORIZED
 ## 2C-2 — 각자 다른 안전 / E167–E173
 
 - `SET_EXECUTION_ID`: `CLSET-GA2-2C-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C8 영토·노드·문명, C3 무기·부품, C5 함선, C4 유물·증거, C7 세력·제도
 - `READER_DESIRE_MAIN`: negotiate route packages and allocation of shared resources. → destination agreements and split manifest.
@@ -246,8 +246,8 @@ Publication: NOT AUTHORIZED
 ## 2C-3 — 호송은 선택을 지키는 일 / E174–E179
 
 - `SET_EXECUTION_ID`: `CLSET-GA2-2C-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, RELATIONSHIP, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C3 무기·부품, C5 함선, C4 유물·증거, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: Recycler Upgrade or Vela Biological Module / Medical/Refugee Conversion Package / Distributed Home / Route Federation Seed → optional contract/mission reward E122–185. / E161–185.
@@ -268,8 +268,8 @@ Publication: NOT AUTHORIZED
 ## 2C-4 — 흩어져야 공동체 / E180–E185
 
 - `SET_EXECUTION_ID`: `CLSET-GA2-2C-4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C4 유물·증거, C7 세력·제도, C8 영토·노드·문명, C3 무기·부품, C5 함선
 - `READER_DESIRE_MAIN`: settle immediate destinations and create continuing obligations/contact/representation. → settle immediate destinations and create continuing obligations/contact/representation.
@@ -291,8 +291,8 @@ Publication: NOT AUTHORIZED
 ## 2D-1 — 고장난 자유 / E186–E192
 
 - `SET_EXECUTION_ID`: `CLSET-GA2-2D-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: rescue affected people, identify failure without hiding heroes’ role, keep essential systems running. → precise failure model and affected-worker alliance.
@@ -311,8 +311,8 @@ Publication: NOT AUTHORIZED
 ## 2D-2 — 인증 전쟁 / E193–E199
 
 - `SET_EXECUTION_ID`: `CLSET-GA2-2D-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C6 기술·표준, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: prevent embargo from killing/stranding communities while avoiding unsafe uncontrolled release. → provisional emergency standard council and limited certified package.
@@ -332,8 +332,8 @@ Publication: NOT AUTHORIZED
 ## 2D-3 — 실렉스의 창 / E200–E205
 
 - `SET_EXECUTION_ID`: `CLSET-GA2-2D-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C6 기술·표준, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: Silex Limited Access and Repair Trust → E200–205.
@@ -352,8 +352,8 @@ Publication: NOT AUTHORIZED
 ## 2D-4 — 아르디스가 부른다 / E206–E210
 
 - `SET_EXECUTION_ID`: `CLSET-GA2-2D-4`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C5 함선, C7 세력·제도, C6 기술·표준, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: decide whether the team/ship/standard goes to Ardis and under whose terms. → legal/operational route to Ardis, worker/standard coalition, regional legitimacy.

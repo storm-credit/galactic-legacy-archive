@@ -10,8 +10,8 @@ Publication: NOT AUTHORIZED
 ## 10A-1 — 넘긴 키가 열지 못한 문 / E1001–E1006
 
 - `SET_EXECUTION_ID`: `CLSET-GA10-10A-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: first RS-1/RS-2 handoff suffers authentication, payroll, hospital, route or elite-capture failure/attack. → immediate collapse stopped.
@@ -30,8 +30,8 @@ Publication: NOT AUTHORIZED
 ## 10A-2 — 실패를 돌려주지 않는 법 / E1007–E1012
 
 - `SET_EXECUTION_ID`: `CLSET-GA10-10A-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-MANUAL`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C1 인물·관계, C6 기술·표준
 - `READER_DESIRE_MAIN`: correct the failure locally instead of cancelling handoff. → local service/current-status system resumes under corrected plural/hybrid authority.
@@ -54,8 +54,8 @@ Publication: NOT AUTHORIZED
 ## 10A-3 — 은하가 의존하는 목록 / E1013–E1019
 
 - `SET_EXECUTION_ID`: `CLSET-GA10-10A-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-MANUAL`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명, C5 함선
 - `READER_DESIRE_MAIN`: disclose/inventory real dependencies and readiness by function/region. → public transition map, readiness bands and failure thresholds.
@@ -78,8 +78,8 @@ Publication: NOT AUTHORIZED
 ## 10A-4 — 같은 날 자유로워지지 않는다 / E1020–E1025
 
 - `SET_EXECUTION_ID`: `CLSET-GA10-10A-4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-MANUAL`
 - `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도, C8 영토·노드·문명, C1 인물·관계
 - `READER_DESIRE_MAIN`: establish regional choice/readiness/obligation process. → Transition Convention and first region-specific compacts.
@@ -102,8 +102,8 @@ Publication: NOT AUTHORIZED
 ## 10B-1 — 남기로 선택한 도시 / E1026–E1031
 
 - `SET_EXECUTION_ID`: `CLSET-GA10-10B-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-MANUAL`
 - `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도, C8 영토·노드·문명, C1 인물·관계
 - `READER_DESIRE_MAIN`: negotiate a region that voluntarily wants continued central synchronization for a fixed term. → legitimate delayed path and beneficiary trust.
@@ -126,8 +126,8 @@ Publication: NOT AUTHORIZED
 ## 10B-2 — 지방의 독재자 / E1032–E1037
 
 - `SET_EXECUTION_ID`: `CLSET-GA10-10B-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-MANUAL`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C1 인물·관계, C6 기술·표준, C5 함선
 - `READER_DESIRE_MAIN`: stop local elite/warlord capture without inviting permanent central return. → proves distributed order can correct local abuse through external standing/obligations.
@@ -150,8 +150,8 @@ Publication: NOT AUTHORIZED
 ## 10B-3 — 다르게 작동하는 병원과 기계 / E1038–E1044
 
 - `SET_EXECUTION_ID`: `CLSET-GA10-10B-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-MANUAL`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: maintain cross-region medicine/technical safety without one certifier/Seed. → thin technical/medical interoperability and local capacity building.
@@ -174,8 +174,8 @@ Publication: NOT AUTHORIZED
 ## 10B-4 — 국경 사이에서 지워진 사람 / E1045–E1050
 
 - `SET_EXECUTION_ID`: `CLSET-GA10-10B-4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-MANUAL`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: establish cross-region provisional identity/service/migration rules. → minimum interoperability constitution reaches operational draft.
@@ -198,8 +198,8 @@ Publication: NOT AUTHORIZED
 ## 10C-1 — 일곱 개의 기능, 일곱 개의 전선 / E1051–E1057
 
 - `SET_EXECUTION_ID`: `CLSET-GA10-10C-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-MANUAL`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C6 기술·표준, C8 영토·노드·문명, C5 함선
 - `READER_DESIRE_MAIN`: allocate actors and sequence functional transfers under attack. → final transition operation and delegated authority.
@@ -222,8 +222,8 @@ Publication: NOT AUTHORIZED
 ## 10C-2 — 미래를 보는 눈을 버리는 선택 / E1058–E1063
 
 - `SET_EXECUTION_ID`: `CLSET-GA10-10C-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-MANUAL`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도
 - `READER_DESIRE_MAIN`: Rian's exclusive future/Archive index has become a final dependency and ownership burden, not a prize to preserve. → commit to the distributed/institutional replacement path; do not treat E1058–1063 as the final physical removal scene.
@@ -247,8 +247,8 @@ Publication: NOT AUTHORIZED
 ## 10C-3 — 마지막 중앙명령 / E1064–E1070
 
 - `SET_EXECUTION_ID`: `CLSET-GA10-10C-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-MANUAL`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C5 함선, C6 기술·표준, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: use final central command to protect distribution, then expire/transfer it. → military monopoly and central command expire/fragment according to mandate.
@@ -271,8 +271,8 @@ Publication: NOT AUTHORIZED
 ## 10C-4 — 누구의 것도 아닌 현재 / E1071–E1075
 
 - `SET_EXECUTION_ID`: `CLSET-GA10-10C-4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-MANUAL`
 - `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도, C1 인물·관계, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: establish final thin interoperability/current-status and residual institutions. → no single sovereign Seed operator; plural systems remain connected.
@@ -295,8 +295,8 @@ Publication: NOT AUTHORIZED
 ## 10D-1 — 끝나지 않은 정리 / E1076–E1082
 
 - `SET_EXECUTION_ID`: `CLSET-GA10-10D-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-MANUAL`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C1 인물·관계, C6 기술·표준, C5 함선
 - `READER_DESIRE_MAIN`: after transition battle, services, demobilization, prisoners, migration, claims and residual module/connector obligations remain materially unfinished. → transition institutions continue reconstruction and claim handling without restoring Rian's standing central command.
@@ -320,8 +320,8 @@ Publication: NOT AUTHORIZED
 ## 10D-2 — 수집한 것을 돌려주는 일 / E1083–E1089
 
 - `SET_EXECUTION_ID`: `CLSET-GA10-10D-2`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `LINEAGE, RELATIONSHIP, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-MANUAL`
 - `FRONT_DOMAINS`: C1 인물·관계, C2 기체, C5 함선, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: the collected legacy cannot end as Rian's personal roster, fleet, museum, archive or sovereign standard. → 07, the first ship, records and people/institutions resolve into independent or plural living custody rather than protagonist possession.
@@ -345,8 +345,8 @@ Publication: NOT AUTHORIZED
 ## 10D-3 — 서로 다른 역사책 / E1090–E1095
 
 - `SET_EXECUTION_ID`: `CLSET-GA10-10D-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `EVENT, CIVILIZATION, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-MANUAL`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도
 - `READER_DESIRE_MAIN`: plural histories, accountability, claims and one real ordinary no-Rian crisis must coexist without a master heroic account. → institutions prove present service and current decisions can continue through local/medical/route/current-status actors while incompatible historical accounts remain available.
@@ -370,8 +370,8 @@ Publication: NOT AUTHORIZED
 ## 10D-4 — 이름을 묻는 사람 / E1096–E1100
 
 - `SET_EXECUTION_ID`: `CLSET-GA10-10D-4`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, LINEAGE, EVENT`
 - `MATCH_DEPTH`: `A-MANUAL`
 - `FRONT_DOMAINS`: C2 기체, C6 기술·표준, C1 인물·관계, C5 함선, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: CY751 ordinary institutions, unequal recovery, independent futures and incomplete histories are the surviving legacy state. → the final reward is not possession: ordinary people can act, correct/refuse records and ask for present service needs without Rian's future index.

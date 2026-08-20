@@ -10,8 +10,8 @@ Publication: NOT AUTHORIZED
 ## 8A-1 — 정정된 이름, 멈춘 급여 / E801–E806
 
 - `SET_EXECUTION_ID`: `CLSET-GA8-8A-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: Blood Admiral decomposition and route-office changes propagate into current systems. → temporary current-status layer separated from historical record.
@@ -30,8 +30,8 @@ Publication: NOT AUTHORIZED
 ## 8A-2 — 보존할 권리와 지울 권리 / E807–E813
 
 - `SET_EXECUTION_ID`: `CLSET-GA8-8A-2`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `LINEAGE, EVENT, FUNCTIONAL, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: protect targeted records/people while defining immediate preserve/delete limits. → provisional separation of public evidence, intimate memory and operational status.
@@ -51,8 +51,8 @@ Publication: NOT AUTHORIZED
 ## 8A-3 — F키는 누구의 것인가 / E814–E819
 
 - `SET_EXECUTION_ID`: `CLSET-GA8-8A-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: establish access coalition/conditions for Authority F. → multi-party Authority F expedition/access mandate.
@@ -73,8 +73,8 @@ Publication: NOT AUTHORIZED
 ## 8A-4 — 기록을 지키는 전투 / E820–E825
 
 - `SET_EXECUTION_ID`: `CLSET-GA8-8A-4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, FUNCTIONAL, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C4 유물·증거, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: secure departure/routes/people and stop first mirror/source seizure. → expedition and Authority F access possible.
@@ -94,8 +94,8 @@ Publication: NOT AUTHORIZED
 ## 8B-1 — 폐허가 아니라 마을 / E826–E831
 
 - `SET_EXECUTION_ID`: `CLSET-GA8-8B-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도, C8 영토·노드·문명, C4 유물·증거
 - `READER_DESIRE_MAIN`: Palimpsest Reach is inhabited by custodians, workers, AI communities and descendants. → one mirror/source access and living-community relationships.
@@ -116,8 +116,8 @@ Publication: NOT AUTHORIZED
 ## 8B-2 — 기억은 사람인가 / E832–E837
 
 - `SET_EXECUTION_ID`: `CLSET-GA8-8B-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, CIVILIZATION, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: determine access/consent for AI, witness and composite systems. → temporary person/evidence/tool standing and consent/audit process.
@@ -139,8 +139,8 @@ Publication: NOT AUTHORIZED
 ## 8B-3 — 강제로 복사한 사람 / E838–E844
 
 - `SET_EXECUTION_ID`: `CLSET-GA8-8B-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: survive attack/mirror failure while deciding whether to copy/synchronize without full consent. → source index/route or people survive.
@@ -163,7 +163,7 @@ Publication: NOT AUTHORIZED
 
 - `SET_EXECUTION_ID`: `CLSET-GA8-8B-4`
 - `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, RELATIONSHIP, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: several “original” records are valid local/institutional versions. Seed preserves source provenance but operational layers compress them. Service Authorities map to civil domains. → Authority F operational, plural source map and route to consensus assembly/Authority G.
@@ -185,8 +185,8 @@ Publication: NOT AUTHORIZED
 ## 8C-1 — 영웅들이 실패한 기록 / E851–E856
 
 - `SET_EXECUTION_ID`: `CLSET-GA8-8C-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: canonical heroes/institutions repeatedly preserve central continuity but fail unresolved dependencies. some models reflect Archive bias rather than objective future. P-001 appears as unnamed connective edges across many records. → unrecorded-connector pattern verified by independent sources.
@@ -206,8 +206,8 @@ Publication: NOT AUTHORIZED
 ## 8C-2 — 돌아온 사람의 몸 / E857–E862
 
 - `SET_EXECUTION_ID`: `CLSET-GA8-8C-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: confirm regression operational limits and memory contamination. → regression mechanism bounded; no routine reset/chosen-one guarantee.
@@ -228,8 +228,8 @@ Publication: NOT AUTHORIZED
 ## 8C-3 — 무엇을 보존하는 시스템인가 / E863–E869
 
 - `SET_EXECUTION_ID`: `CLSET-GA8-8C-3`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `LINEAGE, RELATIONSHIP, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C4 유물·증거, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: system ranks central survival/reconstruction and compresses plural authorship. immediate lives, refusal and undocumented labor can be deprioritized. → value assumptions and compression audit path.
@@ -252,7 +252,7 @@ Publication: NOT AUTHORIZED
 
 - `SET_EXECUTION_ID`: `CLSET-GA8-8C-4`
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, FUNCTIONAL, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C4 유물·증거, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명, C1 인물·관계
 - `READER_DESIRE_MAIN`: decide whether P-001 or another human/AI can serve as corrective without sovereign control. → draft bounded activation architecture and distributed Authority F.
@@ -275,8 +275,8 @@ Publication: NOT AUTHORIZED
 ## 8D-1 — 기록을 없애려는 사람들 / E876–E881
 
 - `SET_EXECUTION_ID`: `CLSET-GA8-8D-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, FUNCTIONAL, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C4 유물·증거, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명, C1 인물·관계
 - `READER_DESIRE_MAIN`: stop simultaneous master-index deletion, total dump and central seizure while preserving living sites. → enough sources/rights survive for activation choice.
@@ -298,8 +298,8 @@ Publication: NOT AUTHORIZED
 ## 8D-2 — 작동하지 않는 진실 / E882–E887
 
 - `SET_EXECUTION_ID`: `CLSET-GA8-8D-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도
 - `READER_DESIRE_MAIN`: attempt plural/current-status operation without Authority G full consensus. → final constraints and support for bounded activation.
@@ -320,8 +320,8 @@ Publication: NOT AUTHORIZED
 ## 8D-3 — G권한 / E888–E894
 
 - `SET_EXECUTION_ID`: `CLSET-GA8-8D-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: activate bounded Seed consensus while preventing one-owner curator. → Seed consensus activates and restores identity/command/service continuity across many systems.
@@ -344,8 +344,8 @@ Publication: NOT AUTHORIZED
 ## 8D-4 — 보존을 시작한 은하 / E895–E900
 
 - `SET_EXECUTION_ID`: `CLSET-GA8-8D-4`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: respond to immediate effects and determine whether activation can be contained. → immediate civilizational stabilization and full origin confirmation.

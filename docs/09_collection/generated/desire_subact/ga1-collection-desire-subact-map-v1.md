@@ -10,8 +10,8 @@ Publication: NOT AUTHORIZED
 ## A1 — 기록되지 않은 생도 / E1–E5
 
 - `SET_EXECUTION_ID`: `CLSET-GA1-A1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C2 기체
 - `READER_DESIRE_MAIN`: H-001 / Future Blood Admiral / I-001 / Field Instructor / Student Mutual Network / Assembly Seed → shared test evidence, community-record operation, independent agreement / public inquiry, Black Ward access, siege command, accountability / mutual fund E27–32; preference process E73–84 / joint custody, secret offers, succession protocol / not personal rescue only; community representation and treatment
@@ -34,8 +34,8 @@ Publication: NOT AUTHORIZED
 ## A2 — 나사 하나의 소유권 / E6–E10
 
 - `SET_EXECUTION_ID`: `CLSET-GA1-A2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C3 무기·부품, C6 기술·표준, C7 세력·제도, C1 인물·관계, C2 기체
 - `READER_DESIRE_MAIN`: Open-Service Workshop Seed / R-HEL-001 / Helix Evaluator / H-002 Calibration Toolset → component recovery/documentation E21–45 / claims, inspection, recognition of H-002 labor, safety info / partial workshop access E7–10; family mark/claim E33–38 / school salvage/labor claim E33–38 / starting equipment, modified E13–16
@@ -58,8 +58,8 @@ Publication: NOT AUTHORIZED
 ## A3 — 미래의 적은 아직 학생을 죽이지 않았다 / E11–E15
 
 - `SET_EXECUTION_ID`: `CLSET-GA1-A3`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, LINEAGE, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C4 유물·증거, C6 기술·표준, C8 영토·노드·문명, C5 함선
 - `READER_DESIRE_MAIN`: Protector/Community Focal Network / Service Authority Key A / Neutral Medical Protection Clause → not personal rescue only; community representation and treatment / mutual fund E27–32; preference process E73–84
@@ -82,8 +82,8 @@ Publication: NOT AUTHORIZED
 ## A4 — 첫 번째 배신시험 / E16–E20
 
 - `SET_EXECUTION_ID`: `CLSET-GA1-A4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, CIVILIZATION, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C4 유물·증거, C2 기체, C3 무기·부품
 - `READER_DESIRE_MAIN`: Student Mutual Network / Assembly Seed / Student/Family Custody Manifest Fragments / White Dock Joint-Custody/Evidence Order → mutual fund E27–32; preference process E73–84 / E20–26 / consent-limited fragments / evidence chain, capacity guarantee, paid/conditional trusteeship
@@ -106,8 +106,8 @@ Publication: NOT AUTHORIZED
 ## B1 — 백색 도크와 귀환 / E21–E26
 
 - `SET_EXECUTION_ID`: `CLSET-GA1-B1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C2 기체, C3 무기·부품, C7 세력·제도, C1 인물·관계, C6 기술·표준
 - `READER_DESIRE_MAIN`: White Dock Joint-Custody/Evidence Order / Neutral Medical Protection Clause / R-HEL-001 / Helix Evaluator → E20–26 / claims, inspection, recognition of H-002 labor, safety info / starts attached, suffers E19 damage, rebuilt across E21–45
@@ -130,8 +130,8 @@ Publication: NOT AUTHORIZED
 ## B2 — 가짜 범인 / E27–E32
 
 - `SET_EXECUTION_ID`: `CLSET-GA1-B2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C2 기체, C3 무기·부품
 - `READER_DESIRE_MAIN`: Student Mutual Guarantee Fund / S-001 / Data and Audit Cadet / Student Mutual Network / Assembly Seed → admission, evidence key, conditional source/privacy rules / mutual fund E27–32; preference process E73–84 / public inquiry, Black Ward access, siege command, accountability / claims, inspection, recognition of H-002 labor, safety info
@@ -154,8 +154,8 @@ Publication: NOT AUTHORIZED
 ## B3 — 부품 경매 / E33–E38
 
 - `SET_EXECUTION_ID`: `CLSET-GA1-B3`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C2 기체, C3 무기·부품, C7 세력·제도
 - `READER_DESIRE_MAIN`: R-HEL-001 / Helix Evaluator / Utility Sensor Head / I-001 / Field Instructor → claims, inspection, recognition of H-002 labor, safety info / initial, damaged/lost E19, replacement/repair E33–45 / public inquiry, Black Ward access, siege command, accountability / E33–38 auction/debt/claim / school salvage/labor claim E33–38
@@ -178,8 +178,8 @@ Publication: NOT AUTHORIZED
 ## B4 — 사라진 코어 / E39–E45
 
 - `SET_EXECUTION_ID`: `CLSET-GA1-B4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C2 기체, C7 세력·제도, C6 기술·표준
 - `READER_DESIRE_MAIN`: R-IMP-001 / Imperial Observer / Mixed Leg Pair / 07 Multi-Party Custody and Command Key Scheme → joint custody, secret offers, succession protocol / starts attached, suffers E19 damage, rebuilt across E21–45 / E39–45 and E93–100 / public inquiry, Black Ward access, siege command, accountability / partial access E7–10; dispersed E19; joint recovery E39–45
@@ -202,8 +202,8 @@ Publication: NOT AUTHORIZED
 ## C1 — 실패한 모방자들 / E46–E51
 
 - `SET_EXECUTION_ID`: `CLSET-GA1-C1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도
 - `READER_DESIRE_MAIN`: Fifth-Answer Myth / M-001 / Medical and Rescue Cadet → Black Ward access, medical stop authority, consent-centered triage
@@ -223,8 +223,8 @@ Publication: NOT AUTHORIZED
 ## C2 — 살아 있게 만든 감옥 / E52–E58
 
 - `SET_EXECUTION_ID`: `CLSET-GA1-C2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, CIVILIZATION, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C4 유물·증거
 - `READER_DESIRE_MAIN`: AI-W001 / Black Ward Witness Interface / Medical/Administrative Death Records / Multi-Party Medical Oversight → patient consent, limited data copy, medical survival / consent-limited fragments / E52–72 / partial protocol, not full physical key
@@ -246,8 +246,8 @@ Publication: NOT AUTHORIZED
 ## C3 — 기억하는 환자 / E59–E65
 
 - `SET_EXECUTION_ID`: `CLSET-GA1-C3`
-- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
-- `SECONDARY_SET_TYPES`: `RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C4 유물·증거, C7 세력·제도, C6 기술·표준
 - `READER_DESIRE_MAIN`: Medical/Administrative Death Records / Patient Consent and Data-Access Protocol / Multi-Party Medical Oversight → consent-limited fragments / E59–72 / E52–72 / patient consent, limited data copy, medical survival / partial protocol, not full physical key
@@ -270,8 +270,8 @@ Publication: NOT AUTHORIZED
 ## C4 — 누구를 먼저 치료할 것인가 / E66–E72
 
 - `SET_EXECUTION_ID`: `CLSET-GA1-C4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도
 - `READER_DESIRE_MAIN`: Patient Consent and Data-Access Protocol / Multi-Party Medical Oversight → E59–72 / E52–72
@@ -291,8 +291,8 @@ Publication: NOT AUTHORIZED
 ## D1 — 폐교는 해방이 아니다 / E73–E78
 
 - `SET_EXECUTION_ID`: `CLSET-GA1-D1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도
 - `READER_DESIRE_MAIN`: Student/Staff Preference and Representation Record / Student Mutual Network / Assembly Seed → E73–84 / mutual fund E27–32; preference process E73–84
@@ -312,8 +312,8 @@ Publication: NOT AUTHORIZED
 ## D2 — 다섯 개의 인수안 / E79–E84
 
 - `SET_EXECUTION_ID`: `CLSET-GA1-D2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도
 - `READER_DESIRE_MAIN`: Student/Staff Preference and Representation Record / Student Mutual Network / Assembly Seed / 제13학원 임시공동운영·보호헌장 → E73–84 / mutual fund E27–32; preference process E73–84
@@ -334,8 +334,8 @@ Publication: NOT AUTHORIZED
 ## D3 — 학교는 전장이다 / E85–E92
 
 - `SET_EXECUTION_ID`: `CLSET-GA1-D3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, FUNCTIONAL`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도
 - `READER_DESIRE_MAIN`: Student Mutual Network / Assembly Seed → mutual fund E27–32; preference process E73–84
@@ -354,8 +354,8 @@ Publication: NOT AUTHORIZED
 ## D4 — 권한을 나누는 전투 / E93–E100
 
 - `SET_EXECUTION_ID`: `CLSET-GA1-D4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C5 함선, C2 기체
 - `READER_DESIRE_MAIN`: Student Mutual Network / Assembly Seed / Academy Alumni/External Mission Cell / External Mission License → mutual fund E27–32; preference process E73–84 / E93–100 / E39–45 and E93–100 / not personal rescue only; community representation and treatment

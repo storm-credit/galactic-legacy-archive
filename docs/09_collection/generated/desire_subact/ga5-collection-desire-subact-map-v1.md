@@ -10,8 +10,8 @@ Publication: NOT AUTHORIZED
 ## 5A-1 — 함대가 아닌 정박지 / E451–E457
 
 - `SET_EXECUTION_ID`: `CLSET-GA5-5A-1`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C1 인물·관계, C5 함선
 - `READER_DESIRE_MAIN`: Vesper Depot crowded with formations waiting on pay, repairs, orders and recognition. → 7–10 day shared defensive/service mandate for Vesper Depot and Talren routes.
@@ -32,8 +32,8 @@ Publication: NOT AUTHORIZED
 ## 5A-2 — 세 개의 선서 / E458–E464
 
 - `SET_EXECUTION_ID`: `CLSET-GA5-5A-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C5 함선, C7 세력·제도, C1 인물·관계
 - `READER_DESIRE_MAIN`: resolve disputed ship without massacre or simple captain victory. → first ship-specific oath/mission agreement and crew representative.
@@ -53,8 +53,8 @@ Publication: NOT AUTHORIZED
 ## 5A-3 — 명령이 늦은 전투 / E465–E472
 
 - `SET_EXECUTION_ID`: `CLSET-GA5-5A-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: Standing Defensive Intent → standing defensive intent and emergency authentication path.
@@ -73,8 +73,8 @@ Publication: NOT AUTHORIZED
 ## 5A-4 — 빌린 지휘권 / E473–E480
 
 - `SET_EXECUTION_ID`: `CLSET-GA5-5A-4`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: define temporary formation/task command for upcoming operations. → first Common Fleet Charter v0.1 and task force.
@@ -94,8 +94,8 @@ Publication: NOT AUTHORIZED
 ## 5B-1 — 수리선 호송 / E481–E487
 
 - `SET_EXECUTION_ID`: `CLSET-GA5-5B-1`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C5 함선, C6 기술·표준, C1 인물·관계
 - `READER_DESIRE_MAIN`: Mobile Repair Tender / Crew Pay/Pension/Family Guarantee / Distributed Parts and Cannibalization Pool → tender and partial repair/pay capacity.
@@ -116,8 +116,8 @@ Publication: NOT AUTHORIZED
 ## 5B-2 — 어느 배를 고칠 것인가 / E488–E494
 
 - `SET_EXECUTION_ID`: `CLSET-GA5-5B-2`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준
 - `READER_DESIRE_MAIN`: allocate limited yard/tender time, parts, missiles and crews. → pooled maintenance rules and distributed parts inventory.
@@ -138,8 +138,8 @@ Publication: NOT AUTHORIZED
 ## 5B-3 — 싸우지 않는 승무원 / E495–E502
 
 - `SET_EXECUTION_ID`: `CLSET-GA5-5B-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준
 - `READER_DESIRE_MAIN`: establish pay, pension, family, rescue/parole and lawful-refusal system. → provisional crew guarantee and review/parole structure.
@@ -160,8 +160,8 @@ Publication: NOT AUTHORIZED
 ## 5B-4 — 나포하지 않는 함대 / E503–E510
 
 - `SET_EXECUTION_ID`: `CLSET-GA5-5B-4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도
 - `READER_DESIRE_MAIN`: integrate or neutralize surrendered/captured ships without claimant/personal ownership. → additional 3–8 ships/support capability and legal precedent.
@@ -184,8 +184,8 @@ Publication: NOT AUTHORIZED
 ## 5C-1 — 고향의 명령 / E511–E517
 
 - `SET_EXECUTION_ID`: `CLSET-GA5-5C-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C5 함선, C8 영토·노드·문명, C7 세력·제도, C6 기술·표준
 - `READER_DESIRE_MAIN`: determine which recalls are real emergencies and what obligations remain. → first recall/exit framework with notice, replacement and remaining obligations.
@@ -206,8 +206,8 @@ Publication: NOT AUTHORIZED
 ## 5C-2 — 떠난 함대의 자리 / E518–E524
 
 - `SET_EXECUTION_ID`: `CLSET-GA5-5C-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C5 함선, C8 영토·노드·문명, C6 기술·표준
 - `READER_DESIRE_MAIN`: Crown/Civilian Escort Commitment / Civilian Convoy/Route Capacity / Provincial Contribution Network → public/civil legitimacy for fleet charter.
@@ -228,8 +228,8 @@ Publication: NOT AUTHORIZED
 ## 5C-3 — 지킨 자의 나라 / E525–E533
 
 - `SET_EXECUTION_ID`: `CLSET-GA5-5C-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C5 함선, C8 영토·노드·문명, C6 기술·표준
 - `READER_DESIRE_MAIN`: negotiate/cooperate with FC-005 and Outer Front forces. → access to Outer Front ships/routes and main rejecter relationship.
@@ -250,8 +250,8 @@ Publication: NOT AUTHORIZED
 ## 5C-4 — 떠날 수 있는 약속 / E534–E540
 
 - `SET_EXECUTION_ID`: `CLSET-GA5-5C-4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C6 기술·표준, C5 함선, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: revise fleet charter with enforceable recall/exit, burden, support and command terms before offensive. → Common Fleet Charter v0.2 with burdens and exit.
@@ -272,8 +272,8 @@ Publication: NOT AUTHORIZED
 ## 5D-1 — 하나의 목표, 다섯 개의 전선 / E541–E547
 
 - `SET_EXECUTION_ID`: `CLSET-GA5-5D-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C5 함선, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: define shared intent and allocate formations/resources. → operational plan and delegated authority.
@@ -295,8 +295,8 @@ Publication: NOT AUTHORIZED
 ## 5D-2 — 보이지 않는 함대 / E548–E554
 
 - `SET_EXECUTION_ID`: `CLSET-GA5-5D-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C5 함선, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: Delegated Formation Command and Standing Rules / Bounded P-001 Theater/Task Command / Autonomous Front Victory Record → charter proves it can function without central real-time control.
@@ -319,8 +319,8 @@ Publication: NOT AUTHORIZED
 ## 5D-3 — 예비대의 주인 / E555–E563
 
 - `SET_EXECUTION_ID`: `CLSET-GA5-5D-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C5 함선, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: commit reserve/support to one front while others suffer. → commit reserve/support to one front while others suffer.
@@ -342,8 +342,8 @@ Publication: NOT AUTHORIZED
 ## 5D-4 — 함대가 남긴 길 / E564–E570
 
 - `SET_EXECUTION_ID`: `CLSET-GA5-5D-4`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C5 함선, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: assess campaign, formalize charter and respond to emerging Orpheus crisis. → Common Fleet Charter v1.0 and distributed formation network. P-001 receives limited theater/task command standing. rescue/pay/repair/authentication and audit systems operational.

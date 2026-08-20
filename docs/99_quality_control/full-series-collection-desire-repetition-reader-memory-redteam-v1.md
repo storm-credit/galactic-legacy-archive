@@ -21,24 +21,24 @@ Identical target sets with a changed desire are a WATCH, not an automatic failur
 
 ## Primary Set-Type Distribution
 
-- LINEAGE: **31**
-- EVENT: **127**
-- FUNCTIONAL: **2**
-- RELATIONSHIP: **0**
-- CIVILIZATION: **0**
+- LINEAGE: **3**
+- EVENT: **5**
+- FUNCTIONAL: **37**
+- RELATIONSHIP: **45**
+- CIVILIZATION: **70**
 
 ## Longest Same-Primary-Set Runs
 
-- GA1: `EVENT` x **5** (C4→D4)
-- GA2: `EVENT` x **7** (2C-1→2D-3)
-- GA3: `EVENT` x **10** (3A-1→3C-2)
-- GA4: `EVENT` x **9** (4A-3→4C-3)
-- GA5: `EVENT` x **9** (5B-3→5D-3)
-- GA6: `EVENT` x **3** (6A-2→6C-3)
-- GA7: `EVENT` x **8** (7C-1→7D-4)
-- GA8: `EVENT` x **5** (8A-3→8B-3)
-- GA9: `EVENT` x **16** (9A-1→9D-4)
-- GA10: `EVENT` x **13** (10A-1→10D-1)
+- GA1: `RELATIONSHIP` x **12** (B1→D4)
+- GA2: `FUNCTIONAL` x **3** (2A-1→2A-3)
+- GA3: `FUNCTIONAL` x **8** (3A-1→3B-4)
+- GA4: `CIVILIZATION` x **6** (4A-4→4C-1)
+- GA5: `FUNCTIONAL` x **4** (5A-3→5B-2)
+- GA6: `CIVILIZATION` x **3** (6A-1→6A-3)
+- GA7: `CIVILIZATION` x **5** (7B-3→7C-3)
+- GA8: `RELATIONSHIP` x **3** (8B-1→8B-3)
+- GA9: `RELATIONSHIP` x **3** (9B-3→9C-1)
+- GA10: `CIVILIZATION` x **6** (10A-1→10B-2)
 
 ## Most Reused Active Threads
 

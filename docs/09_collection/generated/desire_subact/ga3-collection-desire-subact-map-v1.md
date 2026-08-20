@@ -10,8 +10,8 @@ Publication: NOT AUTHORIZED
 ## 3A-1 — 구조선이 아닌 채권자 / E211–E217
 
 - `SET_EXECUTION_ID`: `CLSET-GA3-3A-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: NR72-118 reaches Ardis damaged, indebted and carrying competing claims, workers and community-linked passengers. → 72-hour emergency service permit and public arrival record.
@@ -30,8 +30,8 @@ Publication: NOT AUTHORIZED
 ## 3A-2 — 첫 번째 우선순위 / E218–E224
 
 - `SET_EXECUTION_ID`: `CLSET-GA3-3A-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C6 기술·표준, C8 영토·노드·문명, C7 세력·제도
 - `READER_DESIRE_MAIN`: choose first emergency allocation among life support, medicine, node diagnostics and ship repair. → credibility with Transit/Garden/service workers. first citywide data-sharing agreement.
@@ -51,8 +51,8 @@ Publication: NOT AUTHORIZED
 ## 3A-3 — 고장 지도 / E225–E232
 
 - `SET_EXECUTION_ID`: `CLSET-GA3-3A-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C8 영토·노드·문명, C6 기술·표준, C7 세력·제도, C4 유물·증거
 - `READER_DESIRE_MAIN`: Spine B physically repairable. Spine C partly alive and linked to old service authority. common thermal deficit makes simultaneous city/traffic/defense impossible. one old shutdown record was politically edited, but full truth remains open. → public multi-source damage map and repair sequence options.
@@ -75,8 +75,8 @@ Publication: NOT AUTHORIZED
 ## 3A-4 — 최소 서비스 협정 / E233–E240
 
 - `SET_EXECUTION_ID`: `CLSET-GA3-3A-4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, RELATIONSHIP, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C6 기술·표준, C8 영토·노드·문명, C4 유물·증거
 - `READER_DESIRE_MAIN`: create temporary rules that keep city functioning during repair negotiations. → 30-day minimum-service and diagnostic pact. first ship assigned as one service/escort contractor, not command center.
@@ -97,8 +97,8 @@ Publication: NOT AUTHORIZED
 ## 3B-1 — 멈춘 공장 / E241–E247
 
 - `SET_EXECUTION_ID`: `CLSET-GA3-3B-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, CIVILIZATION, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도, C2 기체, C4 유물·증거
 - `READER_DESIRE_MAIN`: restart essential repairs without crushing strike or letting life support fail. → essential-only production protocol and worker audit/representation.
@@ -119,8 +119,8 @@ Publication: NOT AUTHORIZED
 ## 3B-2 — 시민권 없는 도시 / E248–E254
 
 - `SET_EXECUTION_ID`: `CLSET-GA3-3B-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, RELATIONSHIP, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C6 기술·표준, C2 기체, C4 유물·증거
 - `READER_DESIRE_MAIN`: define service, residence and representation for 170,000 transient/unregistered people. → actual access and representation for defined groups. S-001/M-001 systems gain local corrections/limits.
@@ -141,8 +141,8 @@ Publication: NOT AUTHORIZED
 ## 3B-3 — 두 번째 스파인 / E255–E263
 
 - `SET_EXECUTION_ID`: `CLSET-GA3-3B-3`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `EVENT, CIVILIZATION, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C8 영토·노드·문명, C6 기술·표준, C2 기체, C4 유물·증거
 - `READER_DESIRE_MAIN`: repair Spine B enough for low-capacity service traffic. → Spine B limited cargo/medical window and alternative diagnostics.
@@ -164,8 +164,8 @@ Publication: NOT AUTHORIZED
 ## 3B-4 — 세 번째 도시 / E264–E270
 
 - `SET_EXECUTION_ID`: `CLSET-GA3-3B-4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, RELATIONSHIP, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C6 기술·표준, C2 기체, C4 유물·증거
 - `READER_DESIRE_MAIN`: prevent new supply/traffic from simply strengthening the most powerful factions. → provisional city assembly/board that can authorize Phase 3 decisions.
@@ -186,8 +186,8 @@ Publication: NOT AUTHORIZED
 ## 3C-1 — 중립인 군대 / E271–E277
 
 - `SET_EXECUTION_ID`: `CLSET-GA3-3C-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C4 유물·증거
 - `READER_DESIRE_MAIN`: determine interim lawful command before external task groups arrive. → transparent readiness/defense map.
@@ -209,8 +209,8 @@ Publication: NOT AUTHORIZED
 ## 3C-2 — 구조물과 담보물 / E278–E284
 
 - `SET_EXECUTION_ID`: `CLSET-GA3-3C-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, FUNCTIONAL, EVENT, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C4 유물·증거
 - `READER_DESIRE_MAIN`: prevent Helix seizure/lockout while securing medicine and parts. → temporary supply and facility-use agreement with limited creditor rights.
@@ -231,8 +231,8 @@ Publication: NOT AUTHORIZED
 ## 3C-3 — 파괴할 권리 / E285–E292
 
 - `SET_EXECUTION_ID`: `CLSET-GA3-3C-3`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `LINEAGE, FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C4 유물·증거
 - `READER_DESIRE_MAIN`: stop unilateral destruction without giving all node control to Civic/Defense/Imperial actors. → partial Spine C recovery and Service Authority E/local-custody protocol.
@@ -255,8 +255,8 @@ Publication: NOT AUTHORIZED
 ## 3C-4 — 가장 안전한 명령 / E293–E300
 
 - `SET_EXECUTION_ID`: `CLSET-GA3-3C-4`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C5 함선
 - `READER_DESIRE_MAIN`: respond to Imperial emergency command offer/ultimatum. → combined defense for imminent siege.
@@ -278,8 +278,8 @@ Publication: NOT AUTHORIZED
 ## 3D-1 — 다섯 개의 전선 / E301–E307
 
 - `SET_EXECUTION_ID`: `CLSET-GA3-3D-1`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C5 함선, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: assign authority/resources without one central owner. → joint operational plan and emergency key split.
@@ -300,8 +300,8 @@ Publication: NOT AUTHORIZED
 ## 3D-2 — 명령이 늦는 도시 / E308–E314
 
 - `SET_EXECUTION_ID`: `CLSET-GA3-3D-2`
-- `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C3 무기·부품
 - `READER_DESIRE_MAIN`: Delegated Standing Rules / Fixed Defense Segmentation / Major Loss Record → standing delegated rules and local autonomous response improve.
@@ -324,7 +324,7 @@ Publication: NOT AUTHORIZED
 
 - `SET_EXECUTION_ID`: `CLSET-GA3-3D-3`
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
-- `SECONDARY_SET_TYPES`: `CIVILIZATION`
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, RELATIONSHIP, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C8 영토·노드·문명, C7 세력·제도
 - `READER_DESIRE_MAIN`: Limited A+B+C Joint Reference Window / Local Succession/Operator Training Program / Fixed Defense Segmentation → E315–323. / E285–330. / E271–323.
@@ -345,8 +345,8 @@ Publication: NOT AUTHORIZED
 ## 3D-4 — 떠나는 사람의 권한 / E324–E330
 
 - `SET_EXECUTION_ID`: `CLSET-GA3-3D-4`
-- `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
-- `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
+- `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, FUNCTIONAL, LINEAGE, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C4 유물·증거
 - `READER_DESIRE_MAIN`: convert emergency operation into a 1–3 year local joint-trust charter/treaty. → Ardis Node Joint Trust and limited regional route. repair/production alliance and political recognition enough to act.
