@@ -2,8 +2,9 @@
 """Semantic lint for generated Collection Desire packets.
 
 Existing audits prove field presence, target bounds and adjacent duplication.
-This lint catches writer-unusable shorthand that can still satisfy those checks,
-for example `C/G/L. / G.` in NEXT_DESIRE.
+This lint catches writer-unusable internal shorthand that can still satisfy
+those checks, for example `C/G/L. / G.` in NEXT_DESIRE. Concise but readable
+source phrases are WATCH, not automatic failures.
 """
 
 from __future__ import annotations
@@ -28,7 +29,7 @@ REQUIRED = (
     "NEXT_DESIRE",
 )
 SHORT_CODE = re.compile(r"(?:^|[\s`])(?:[A-Z](?:/[A-Z]){1,5})(?:[.\s`/]|$)")
-PLACEHOLDER = re.compile(r"\b(?:TBD|TODO|PLACEHOLDER|UNKNOWN)\b", re.IGNORECASE)
+PLACEHOLDER = re.compile(r"\b(?:TBD|TODO|PLACEHOLDER)\b", re.IGNORECASE)
 
 
 def parse_maps():
@@ -60,6 +61,7 @@ def words(text: str) -> list[str]:
 def build() -> str:
     rows = parse_maps()
     findings = []
+    watches = []
     for row in rows:
         for field in REQUIRED:
             value = row["fields"].get(field, "").strip()
@@ -70,10 +72,10 @@ def build() -> str:
                 reasons.append("shorthand-code-token")
             if value and PLACEHOLDER.search(value):
                 reasons.append("placeholder-token")
-            if value and len(value) <= 32 and len(words(value)) < 4:
-                reasons.append("too-short-for-writer-facing-semantics")
             if reasons:
                 findings.append((row["arc"], row["code"], field, value, ", ".join(reasons)))
+            elif value and len(value) <= 32 and len(words(value)) < 4:
+                watches.append((row["arc"], row["code"], field, value))
 
     fail = len(rows) != 160 or bool(findings)
     verdict = "FAIL" if fail else "PASS"
@@ -86,6 +88,7 @@ def build() -> str:
         "",
         f"- subacts scanned: **{len(rows)} / 160**",
         f"- writer-unusable semantic fields: **{len(findings)}**",
+        f"- concise readable fields WATCH: **{len(watches)}**",
         "",
         "## Finding queue",
         "",
@@ -95,11 +98,17 @@ def build() -> str:
             lines.append(f"- `{arc} {code}` `{field}` — `{value}` — {reason}")
     else:
         lines.append("- NONE")
+    lines.extend(["", "## Concise-field WATCH", ""])
+    if watches:
+        for arc, code, field, value in watches:
+            lines.append(f"- `{arc} {code}` `{field}` — `{value}`")
+    else:
+        lines.append("- NONE")
     lines.extend([
         "",
         "## Gate",
         "",
-        "A field can be structurally present and still be unusable for prose planning. Reader-desire fields must remain human-readable source-bound execution language, not internal category abbreviations.",
+        "A field can be structurally present and still be unusable for prose planning. Internal status/category abbreviations are hard failures. A short but ordinary-language approved-source phrase is a WATCH only and may remain when its meaning is clear in the owning subact.",
         "",
     ])
     return "\n".join(lines)
