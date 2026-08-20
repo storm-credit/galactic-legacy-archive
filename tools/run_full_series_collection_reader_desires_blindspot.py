@@ -2,9 +2,10 @@
 """Run the Collection Desire finalizer with source-bound semantic blindspot fixes.
 
 No new collectible, event or authority is created. This wrapper prevents
-registry status shorthand from becoming writer-facing reader desire when the
-approved act/subact map already supplies a Hook / Act-ending trigger / next
-pressure.
+backticked registry status shorthand from becoming writer-facing reader desire
+when the approved act/subact map already supplies an ending hook/trigger.
+Named operational labels such as Window A/B/C are source language, not status
+shorthand, and are preserved.
 """
 
 from __future__ import annotations
@@ -33,20 +34,27 @@ runner.reader.OVERRIDES[("GA7", "7C-4")] = {
 }
 
 _ORIGINAL_SOURCE_FIELD_PACK = runner.reader.source_field_pack
-_SHORT_CODE = re.compile(r"(?:^|[\s`])(?:[A-Z](?:/[A-Z]){1,5})(?:[.\s`/]|$)")
+# Registry state shorthand is written as backticked status codes (`C/G`,
+# `G/R/L — ...`). Do not confuse it with real source names such as Window A/B/C.
+_STATUS_CODE = re.compile(r"`[A-Z](?:/[A-Z]){1,5}(?:\s+—[^`]*)?`")
 
 
 def source_field_pack_no_registry_shorthand(subact, selected):
     fields = dict(_ORIGINAL_SOURCE_FIELD_PACK(subact, selected))
     hook = fields.get("hook", "")
-    if _SHORT_CODE.search(hook):
+    if _STATUS_CODE.search(hook):
         source_hook = runner.reader.layer.first_present(
             subact.block,
             (
                 (
                     "hook",
+                    "final hook",
+                    "grand-act hook",
+                    "grand act hook",
                     "act-ending trigger",
                     "act ending trigger",
+                    "act-ending reveal",
+                    "act ending reveal",
                     "ending trigger",
                     "final trigger",
                     "next pressure",
@@ -55,7 +63,7 @@ def source_field_pack_no_registry_shorthand(subact, selected):
                 ),
             ),
         )
-        if source_hook and not _SHORT_CODE.search(source_hook):
+        if source_hook and not _STATUS_CODE.search(source_hook):
             fields["hook"] = source_hook
     return fields
 
