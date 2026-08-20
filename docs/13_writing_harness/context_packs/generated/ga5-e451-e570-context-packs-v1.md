@@ -19,6 +19,7 @@ Source card files: **19**
 ## E451 — 같은 정박지에 함대는 없다
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e451-457-episode-cards-v1]]
 Date: CY 744-03-01.
 POV / information source: Rian close third, with Maren/Vesper traffic reports.
@@ -32,10 +33,10 @@ dock the Outer Meridian/Ardis route group and obtain fuel, food, medical and rep
 **ACTIVE_DESIRE_SECONDARY**  
 every berth, hose, key and payroll queue is attached to a different authority; one “fleet assembly” order would silently rank those claims.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients. 116 combat-capable hulls are near the theater but no unified fleet exists. only 13 combat + 11 support ships are candidates for an immediate shared mandate. `세 번째 종` is physically R3 but legally/cohesively R1. Rian is a Compact-recognized mission/flight commander and mediator, not fleet admiral or depot governor.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - current ship/crew claims become visible; `파루스` receives minimum safe dock service.
 
 **COST_OR_REFUSAL**
@@ -53,17 +54,17 @@ every berth, hose, key and payroll queue is attached to a different authority; o
 - Rian refuses Dor-aligned staff’s offer to designate all nearby route ships as his provisional fleet and requests a 72-hour service/defense fact board instead.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -75,24 +76,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E452 — 밸브를 잠근 사람
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e451-457-episode-cards-v1]]
 Date: CY 744-03-03.
 POV / information source: depot operator Ilya Fen, Tav Oren and Nera.
@@ -106,10 +109,10 @@ determine whether the Fuel Spine 4 stop is sabotage, labor pressure or a valid s
 **ACTIVE_DESIRE_SECONDARY**  
 reopening immediately would fuel 17 ships; continued closure begins oxygen/medical transport rationing within 31 hours.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients. 116 combat-capable hulls are near the theater but no unified fleet exists. only 13 combat + 11 support ships are candidates for an immediate shared mandate. `세 번째 종` is physically R3 but legally/cohesively R1. Rian is a Compact-recognized mission/flight commander and mediator, not fleet admiral or depot governor.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - catastrophic fracture avoided; emergency minimum services continue.
 
 **COST_OR_REFUSAL**
@@ -127,17 +130,17 @@ reopening immediately would fuel 17 ships; continued closure begins oxygen/medic
 - preserve the physical stop and ration flow rather than use military force or full remote override.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -149,24 +152,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E453 — 급여를 받는 함선
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e451-457-episode-cards-v1]]
 Date: CY 744-03-05.
 POV / information source: Haren, Messa Rin, Kev Raon and civil-pay staff.
@@ -180,10 +185,10 @@ keep earned wages/family allotments moving without forcing crews to recognize on
 **ACTIVE_DESIRE_SECONDARY**  
 the Treasury can pay most registered crews quickly if they accept a broad civil-continuity certification that several ships treat as political allegiance.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients. 116 combat-capable hulls are near the theater but no unified fleet exists. only 13 combat + 11 support ships are candidates for an immediate shared mandate. `세 번째 종` is physically R3 but legally/cohesively R1. Rian is a Compact-recognized mission/flight commander and mediator, not fleet admiral or depot governor.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - 52,760 of 61,400 records receive current payment or family-support authorization.
 
 **COST_OR_REFUSAL**
@@ -201,17 +206,17 @@ the Treasury can pay most registered crews quickly if they accept a broad civil-
 - issue 14-day emergency earned-pay/family support through multiple contributors and publish who remains excluded.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -223,24 +228,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E454 — 세 번째 종의 문
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e451-457-episode-cards-v1]]
 Date: CY 744-03-07.
 POV / information source: Captain Rami Ode, Kev Raon, Maren and Rian.
@@ -254,10 +261,10 @@ prevent armed boarding or uncontrolled departure of `세 번째 종`.
 **ACTIVE_DESIRE_SECONDARY**  
 the captain, crew, province and Protector all possess real but incomplete authority; seizing the bridge would create the exact inherited-fleet precedent GA4 rejected.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients. 116 combat-capable hulls are near the theater but no unified fleet exists. only 13 combat + 11 support ships are candidates for an immediate shared mandate. `세 번째 종` is physically R3 but legally/cohesively R1. Rian is a Compact-recognized mission/flight commander and mediator, not fleet admiral or depot governor.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - no mutiny massacre or forced seizure; negotiations gain time.
 
 **COST_OR_REFUSAL**
@@ -275,17 +282,17 @@ the captain, crew, province and Protector all possess real but incomplete author
 - establish a 36-hour nonboarding/nondeparture standstill with internal safety authority preserved and weapons sealed.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -297,24 +304,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E455 — 탄약창의 주인은 누구인가
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e451-457-episode-cards-v1]]
 Date: CY 744-03-09.
 POV / information source: Ardo Rev, Tav, depot workers and Oren Roman.
@@ -328,10 +337,10 @@ stop an armed magazine confrontation while preserving enough ammunition for actu
 **ACTIVE_DESIRE_SECONDARY**  
 Ardo’s requisition would create the fastest coherent defensive load; yard/workers know several missile lots have incompatible guidance certificates.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients. 116 combat-capable hulls are near the theater but no unified fleet exists. only 13 combat + 11 support ships are candidates for an immediate shared mandate. `세 번째 종` is physically R3 but legally/cohesively R1. Rian is a Compact-recognized mission/flight commander and mediator, not fleet admiral or depot governor.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - 13 ships receive enough countermeasure/ammunition for one bounded defense mission.
 
 **COST_OR_REFUSAL**
@@ -349,17 +358,17 @@ Ardo’s requisition would create the fastest coherent defensive load; yard/work
 - Ardo accepts a smaller immediately safe issue rather than seize the full magazine, while recording that the delay may cost lives.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -371,24 +380,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E456 — 지키는 것의 목록
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e451-457-episode-cards-v1]]
 Date: CY 744-03-11.
 POV / information source: Sira Keon, Oren, local civil services and route representatives.
@@ -402,10 +413,10 @@ define what a short shared mandate protects before the probe becomes an attack.
 **ACTIVE_DESIRE_SECONDARY**  
 “defend Vesper” could mean depot stores, Crown Passage, Talren civilians, provincial return routes or pursuit of the probe; no force can cover all.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Opening State — shared source state] E451 date: CY 744-03-01. V03 Vesper Depot serves 14.2 million current workers/dependents/crews/transients. 116 combat-capable hulls are near the theater but no unified fleet exists. only 13 combat + 11 support ships are candidates for an immediate shared mandate. `세 번째 종` is physically R3 but legally/cohesively R1. Rian is a Compact-recognized mission/flight commander and mediator, not fleet admiral or depot governor.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - ships can compare orders against named objectives instead of personalities.
 
 **COST_OR_REFUSAL**
@@ -423,17 +434,17 @@ define what a short shared mandate protects before the probe becomes an attack.
 - publish a shared intent with four priorities: inhabited rescue, depot minimum service, Talren/Crown civilian corridors and no unilateral asset seizure.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -445,24 +456,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E457 — 일곱 날의 함대
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e451-457-episode-cards-v1]]
 Date: CY 744-03-13.
 POV / information source: mandate board, ship captains and current workers.
@@ -476,10 +489,10 @@ enact a reproducible 7-day defense/service mandate before the probes return.
 **ACTIVE_DESIRE_SECONDARY**  
 a default commander would be faster, but title/pay/keys/physical stops could follow mission command by practice.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [APPROVED SECTION CARRIER EVIDENCE] [End State E457] mandate active CY 744-03-13 through 03-20; 13 combat + 11 support ships; 76 frames/utility craft; no offensive/theater authority; `세 번째 종` remains outside the mandate pending ship-specific agreement; 8,640 pay/family records remain unresolved; Fuel Spine 4 remains on 43% bypass; no one owns Vesper or the assembled ships.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - `Vesper Shared Defense & Service Mandate` becomes operational.
 
 **COST_OR_REFUSAL**
@@ -497,17 +510,17 @@ a default commander would be faster, but title/pay/keys/physical stops could fol
 - leave no universal default commander; ships use standing intent and current formation succession under communications loss.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -519,24 +532,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E458 — 세 개의 선서
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e458-464-episode-cards-v1]]
 Date: CY 744-03-15.
 POV / information source: Kev Raon, Captain Rami Ode and current watch sections.
@@ -550,10 +565,10 @@ identify what the ship’s people actually promised before deciding which order 
 **ACTIVE_DESIRE_SECONDARY**  
 officers, enlisted crew, technical contractors and frame personnel use different oath texts and family/pay systems.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20. `세 번째 종` remains physically R3 / legal-cohesion R1 with 412 people aboard. 87-day delayed-pay claims affect 281 people. three authentic mission orders remain unresolved.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - each cohort’s standing and nontransferable rights become visible.
 
 **COST_OR_REFUSAL**
@@ -571,17 +586,17 @@ officers, enlisted crew, technical contractors and frame personnel use different
 - negotiate a mission agreement by authority layer rather than hold a single loyalty vote.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -593,24 +608,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E459 — 움직일 수 있는 배와 싸울 수 있는 배
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e458-464-episode-cards-v1]]
 Date: CY 744-03-17.
 POV / information source: Leda, Tav Oren, Nera and engineering watches.
@@ -624,10 +641,10 @@ determine whether the destroyer can deploy before certified replacement parts ar
 **ACTIVE_DESIRE_SECONDARY**  
 open-service replacements can restore limited function, but Helios certification and insurance do not cover sustained missile/thermal load.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20. `세 번째 종` remains physically R3 / legal-cohesion R1 with 412 people aboard. 87-day delayed-pay claims affect 281 people. three authentic mission orders remain unresolved.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - safe propulsion, point defense and limited missile/flight capacity become available.
 
 **COST_OR_REFUSAL**
@@ -645,17 +662,17 @@ open-service replacements can restore limited function, but Helios certification
 - reduce the ship’s accepted combat envelope rather than cannibalize a provincial escort or hide the uncertainty.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -667,24 +684,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E460 — 떠날 권리와 남을 의무
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e458-464-episode-cards-v1]]
 Date: CY 744-03-19.
 POV / information source: Messa Rin, Kev, Rami, affected officers/crew and family-service staff.
@@ -698,10 +717,10 @@ process departures and objections without stripping the ship or coercing politic
 **ACTIVE_DESIRE_SECONDARY**  
 allowing every immediate departure would make the urgent mission impossible; forcing everyone to remain treats crew as inherited property.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20. `세 번째 종` remains physically R3 / legal-cohesion R1 with 412 people aboard. 87-day delayed-pay claims affect 281 people. three authentic mission orders remain unresolved.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - 11 officers transfer/stand down; 23 enlisted/technical crew transfer after handover; 8 people receive medical/family emergency release; 6 remain temporarily to complete irreplaceable safety duty and leave after mission.
 - no forced political oath; the remaining ship complement is current and explicit.
 
@@ -720,17 +739,17 @@ allowing every immediate departure would make the urgent mission impossible; for
 - approve staged transfer/stand-down for 48 people while requiring safe replacement and accountability for two safety cases.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -742,24 +761,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E461 — 가족에게 보내는 명령
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e458-464-episode-cards-v1]]
 Date: CY 744-03-21.
 POV / information source: Kev, Haren and households in two provincial systems.
@@ -773,10 +794,10 @@ secure family allotments without allowing a province to purchase command of the 
 **ACTIVE_DESIRE_SECONDARY**  
 126 households face rent, care or food interruption within 20 days; abstract constitutional purity will not solve it.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20. `세 번째 종` remains physically R3 / legal-cohesion R1 with 412 people aboard. 87-day delayed-pay claims affect 281 people. three authentic mission orders remain unresolved.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - 111 of 126 urgent households gain 30-day protection; 15 enter individualized appeal/alternate support.
 
 **COST_OR_REFUSAL**
@@ -794,17 +815,17 @@ secure family allotments without allowing a province to purchase command of the 
 - accept province funding only as a current family obligation and recorded mission contribution, not a command purchase.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -816,24 +837,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E462 — 함장의 이름으로
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e458-464-episode-cards-v1]]
 Date: CY 744-03-23.
 POV / information source: Rami, Ardo Rev and Rian.
@@ -847,10 +870,10 @@ decide whether a direct Protector recommission solves the command/authentication
 **ACTIVE_DESIRE_SECONDARY**  
 recommission would be lawful and fast inside the military domain, but crew/province/maintenance and civil mission claims would remain.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20. `세 번째 종` remains physically R3 / legal-cohesion R1 with 412 people aboard. 87-day delayed-pay claims affect 281 people. three authentic mission orders remain unresolved.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - a lawful combat succession chain exists if Rami is incapacitated.
 
 **COST_OR_REFUSAL**
@@ -868,17 +891,17 @@ recommission would be lawful and fast inside the military domain, but crew/provi
 - separate military tactical commission from ship mission acceptance and other authority layers.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -890,24 +913,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E463 — 다수결로 발사하지 않는다
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e458-464-episode-cards-v1]]
 Date: CY 744-03-25.
 POV / information source: Kev, weapons crews, Serin and Messa.
@@ -921,10 +946,10 @@ design crew refusal/representation without making tactical fire a shipwide vote.
 **ACTIVE_DESIRE_SECONDARY**  
 commanders fear paralysis; crews fear political or prohibited orders.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E458 date: CY 744-03-15. Vesper seven-day mandate is active but expires CY 744-03-20. `세 번째 종` remains physically R3 / legal-cohesion R1 with 412 people aboard. 87-day delayed-pay claims affect 281 people. three authentic mission orders remain unresolved.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - the crew oath block clears for defined missions.
 
 **COST_OR_REFUSAL**
@@ -942,17 +967,17 @@ commanders fear paralysis; crews fear political or prohibited orders.
 - create bounded refusal and audit rules rather than unanimity or total captain discretion.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -964,24 +989,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E464 — 한 척짜리 헌장
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e458-464-episode-cards-v1]]
 Date: CY 744-03-27.
 POV / information source: Rami, Kev, Messa, Sira, Ardo and shipboard signatories.
@@ -995,10 +1022,10 @@ enact a ship-specific agreement that permits urgent defense without settling tit
 **ACTIVE_DESIRE_SECONDARY**  
 each side wants the document to become precedent in its favor.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [APPROVED SECTION CARRIER EVIDENCE] [End State E464] `세 번째 종`: R2/R2 and mission-chartered through 04-08; current mission complement: 364; 48 staged departures/stand-downs recorded; 111 urgent households protected, 15 individual appeals; crew representation exists without tactical plebiscite; Dor tactical chain exists without title/pay/key ownership; agreement is a precedent, not Common Fleet Charter v0.1.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - `세 번째 종` joins the next bounded defense mission as the first ship-specific charter precedent.
 
 **COST_OR_REFUSAL**
@@ -1016,17 +1043,17 @@ each side wants the document to become precedent in its favor.
 - sign the agreement without declaring who ultimately owns or permanently commands the ship.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -1038,24 +1065,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E465 — 진짜 경보가 늦게 온다
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e465-472-episode-cards-v1]]
 Date: CY 744-03-29.
 POV / information source: Serin, Vesper authentication staff and ship watches.
@@ -1069,10 +1098,10 @@ determine whether an outer-sensor alert is real before releasing weapons and mov
 **ACTIVE_DESIRE_SECONDARY**  
 the alert uses a real old sensor lineage but reaches ships through mismatched Dor, Isa, provincial and local confirmation paths.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired; participants are operating under a 72-hour bridge while successor terms are negotiated. 14 combat ships and 11 support ships are available for the immediate named defense, including `세 번째 종`. no universal commander or common root key exists. Fuel Spine 4 remains on bounded bypass. Hostile set: 7 armed raider/rejecter ships; 3 converted salvage craft; 20 drones/frames; objective appears to be Vesper pump/convoy capture and authentication disruption rather than fleet annihilation. Protected current set: 6 fuel/medical/service carriers; 386 people aboard the most exposed three carriers; Depot Pump Cluster D-9; inhabited approach and Talren departure lane.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - civilian carriers begin separation and pressure-safe movement.
 
 **COST_OR_REFUSAL**
@@ -1090,17 +1119,17 @@ the alert uses a real old sensor lineage but reaches ships through mismatched Do
 - activate local defensive maneuver and rescue preparation before full common weapons authorization.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -1112,24 +1141,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E466 — 같은 지도를 보지 않는 함선들
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e465-472-episode-cards-v1]]
 Date: CY 744-03-31.
 POV / information source: Rian, Ardo, Sira and current route operators.
@@ -1143,10 +1174,10 @@ establish one current geometry without surrendering all tactical control.
 **ACTIVE_DESIRE_SECONDARY**  
 each formation’s map ranks route, civilian and military objects differently; forcing one feed could erase local hazard data.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired; participants are operating under a 72-hour bridge while successor terms are negotiated. 14 combat ships and 11 support ships are available for the immediate named defense, including `세 번째 종`. no universal commander or common root key exists. Fuel Spine 4 remains on bounded bypass. Hostile set: 7 armed raider/rejecter ships; 3 converted salvage craft; 20 drones/frames; objective appears to be Vesper pump/convoy capture and authentication disruption rather than fleet annihilation. Protected current set: 6 fuel/medical/service carriers; 386 people aboard the most exposed three carriers; Depot Pump Cluster D-9; inhabited approach and Talren departure lane.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - all active ships can distinguish carriers, pumps and hostile vectors.
 
 **COST_OR_REFUSAL**
@@ -1164,17 +1195,17 @@ each formation’s map ranks route, civilian and military objects differently; f
 - link raw motion/time and mission boundaries while preserving local physical labels and formation commands.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -1186,24 +1217,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E467 — 명령을 기다리지 않은 항법사
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e465-472-episode-cards-v1]]
 Date: CY 744-04-02.
 POV / information source: Doan Mir aboard provincial corvette `오래된 계절`.
@@ -1217,10 +1250,10 @@ prevent a disabled medical/fuel carrier from striking Pump D-9 while communicati
 **ACTIVE_DESIRE_SECONDARY**  
 the corvette’s signed orders prioritize formation screen; local standing intent prioritizes inhabited rescue and pump-cascade prevention.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired; participants are operating under a 72-hour bridge while successor terms are negotiated. 14 combat ships and 11 support ships are available for the immediate named defense, including `세 번째 종`. no universal commander or common root key exists. Fuel Spine 4 remains on bounded bypass. Hostile set: 7 armed raider/rejecter ships; 3 converted salvage craft; 20 drones/frames; objective appears to be Vesper pump/convoy capture and authentication disruption rather than fleet annihilation. Protected current set: 6 fuel/medical/service carriers; 386 people aboard the most exposed three carriers; Depot Pump Cluster D-9; inhabited approach and Talren departure lane.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - 386 exposed carrier personnel survive; Pump D-9 cascade is prevented.
 
 **COST_OR_REFUSAL**
@@ -1238,17 +1271,17 @@ the corvette’s signed orders prioritize formation screen; local standing inten
 - act under published intent without waiting for Rian, Sira or Ardo.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -1260,24 +1293,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E468 — 세 번째 종의 첫 발사
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e465-472-episode-cards-v1]]
 Date: CY 744-04-04.
 POV / information source: Rami, Kev, weapons teams and Leda.
@@ -1291,10 +1326,10 @@ use `세 번째 종` inside its bounded agreement without exceeding thermal or p
 **ACTIVE_DESIRE_SECONDARY**  
 a sustained missile sequence could destroy the raider screen faster but violates Leda’s current thermal certification.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired; participants are operating under a 72-hour bridge while successor terms are negotiated. 14 combat ships and 11 support ships are available for the immediate named defense, including `세 번째 종`. no universal commander or common root key exists. Fuel Spine 4 remains on bounded bypass. Hostile set: 7 armed raider/rejecter ships; 3 converted salvage craft; 20 drones/frames; objective appears to be Vesper pump/convoy capture and authentication disruption rather than fleet annihilation. Protected current set: 6 fuel/medical/service carriers; 386 people aboard the most exposed three carriers; Depot Pump Cluster D-9; inhabited approach and Talren departure lane.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - one hostile ship disabled and one carrier rescued; ship agreement works under fire.
 
 **COST_OR_REFUSAL**
@@ -1312,17 +1347,17 @@ a sustained missile sequence could destroy the raider screen faster but violates
 - obey the R2 mission envelope rather than prove loyalty through maximum fire.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -1334,24 +1369,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E469 — 구조인가 나포인가
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e465-472-episode-cards-v1]]
 Date: CY 744-04-06.
 POV / information source: Oren Roman, Maren Dove, Neutral rescue and depot workers.
@@ -1365,10 +1402,10 @@ stop the attached salvage craft without detonating the barge or turning recovery
 **ACTIVE_DESIRE_SECONDARY**  
 the craft transmits a valid distress/recovery code while carrying armed boarders and a forced tow line.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired; participants are operating under a 72-hour bridge while successor terms are negotiated. 14 combat ships and 11 support ships are available for the immediate named defense, including `세 번째 종`. no universal commander or common root key exists. Fuel Spine 4 remains on bounded bypass. Hostile set: 7 armed raider/rejecter ships; 3 converted salvage craft; 20 drones/frames; objective appears to be Vesper pump/convoy capture and authentication disruption rather than fleet annihilation. Protected current set: 6 fuel/medical/service carriers; 386 people aboard the most exposed three carriers; Depot Pump Cluster D-9; inhabited approach and Talren departure lane.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - 42 barge crew survive; the salvage craft is immobilized as evidence, not awarded as prize.
 
 **COST_OR_REFUSAL**
@@ -1386,17 +1423,17 @@ the craft transmits a valid distress/recovery code while carrying armed boarders
 - separate rescue obligation from title/salvage transfer and avoid destruction.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -1408,24 +1445,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E470 — 이긴 전투의 손실표
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e465-472-episode-cards-v1]]
 Date: CY 744-04-08.
 POV / information source: Haren, Mia, casualty/repair/pay teams and current families.
@@ -1439,10 +1478,10 @@ publish the immediate human/material state before command factions rewrite the r
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired; participants are operating under a 72-hour bridge while successor terms are negotiated. 14 combat ships and 11 support ships are available for the immediate named defense, including `세 번째 종`. no universal commander or common root key exists. Fuel Spine 4 remains on bounded bypass. Hostile set: 7 armed raider/rejecter ships; 3 converted salvage craft; 20 drones/frames; objective appears to be Vesper pump/convoy capture and authentication disruption rather than fleet annihilation. Protected current set: 6 fuel/medical/service carriers; 386 people aboard the most exposed three carriers; Depot Pump Cluster D-9; inhabited approach and Talren departure lane.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - current losses cannot be reset or monopolized by one command narrative.
 
 **COST_OR_REFUSAL**
@@ -1461,17 +1500,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - publish range-based counterfactual and multi-cause record instead of declaring charter victory or failure.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -1483,24 +1522,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E471 — 네 분 빠른 함대
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e465-472-episode-cards-v1]]
 Date: CY 744-04-10.
 POV / information source: Ardo, Dor staff, Sira, Rian and affected captains.
@@ -1514,10 +1555,10 @@ compare actual shared response with a credible unified-command plan.
 **ACTIVE_DESIRE_SECONDARY**  
 the comparison can become ideological propaganda unless assumptions are equal.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E465 date: CY 744-03-29. the first seven-day mandate has expired; participants are operating under a 72-hour bridge while successor terms are negotiated. 14 combat ships and 11 support ships are available for the immediate named defense, including `세 번째 종`. no universal commander or common root key exists. Fuel Spine 4 remains on bounded bypass. Hostile set: 7 armed raider/rejecter ships; 3 converted salvage craft; 20 drones/frames; objective appears to be Vesper pump/convoy capture and authentication disruption rather than fleet annihilation. Protected current set: 6 fuel/medical/service carriers; 386 people aboard the most exposed three carriers; Depot Pump Cluster D-9; inhabited approach and Talren departure lane.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - central speed benefit is preserved as design input.
 
 **COST_OR_REFUSAL**
@@ -1535,17 +1576,17 @@ the comparison can become ideological propaganda unless assumptions are equal.
 - draft a standing defensive intent plus alert-specific default formation sequence rather than universal admiralty.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -1557,24 +1598,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E472 — 명령보다 먼저 남긴 뜻
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e465-472-episode-cards-v1]]
 Date: CY 744-04-12.
 POV / information source: formation commanders, captains and isolated units.
@@ -1588,10 +1631,10 @@ survive a smaller second probe while testing standing defensive intent without a
 **ACTIVE_DESIRE_SECONDARY**  
 repeating the previous delay could collapse participation; overcorrecting could create de facto Ardo/Rian ownership.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [APPROVED SECTION CARRIER EVIDENCE] [End State E472] standing defensive intent: operational for named Vesper/Talren defense alerts; no universal commander; `오래된 계절`: 7–10 month combat loss, 4 dead, 19 injured; cargo loss: 3,060 t total; two support hulls damaged; `세 번째 종`: completed first operation inside R2 limits and its 12-day agreement reaches review; central command retains measurable 8–10 minute likely advantage under equal assumptions; Doan Mir/current captain action is independently decisive; Common Fleet Charter v0.1 remains unwritten/enacted.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - `Standing Defensive Intent v0.1` proves usable under communications uncertainty.
 
 **COST_OR_REFUSAL**
@@ -1609,17 +1652,17 @@ repeating the previous delay could collapse participation; overcorrecting could 
 - preserve distributed formation decisions and record the nonparticipating ship as lawful, not cowardly.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -1631,24 +1674,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E473 — 누가 지휘를 빌려주는가
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e473-475-episode-cards-v1]]
 Date: CY 744-04-14.
 POV / information source: Rian, Ardo Rev, Sira Keon, Oren Roman, Tav Oren, Messa Rin and captains.
@@ -1662,10 +1707,10 @@ determine what authority a ship or formation can lend for the next mission witho
 **ACTIVE_DESIRE_SECONDARY**  
 every negotiator uses “command” to mean a different bundle: objective, battle order, discipline, weapons, route, support or political allegiance.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E473 date: CY 744-04-14. Act 5A continues through E480 / CY 744-04-20. first defense loss and central-speed comparison are public. standing defensive intent exists, but support/pay/recall/rescue and command succession remain fragmented. `세 번째 종` agreement is at review/extension point.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - the charter’s object becomes a named mission authority rather than a new navy.
 
 **COST_OR_REFUSAL**
@@ -1683,17 +1728,17 @@ every negotiator uses “command” to mean a different bundle: objective, battl
 - use the principle `command is lent for a mission` and forbid title/pay/root-key transfer through mission acceptance.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -1705,24 +1750,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E474 — 제독이 되지 않는 조건
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e473-475-episode-cards-v1]]
 Date: CY 744-04-16.
 POV / information source: Rian, Dor Kein, Ardo and Maren Dove.
@@ -1736,10 +1783,10 @@ decide whether Rian should accept a broader command that can prevent another thi
 **ACTIVE_DESIRE_SECONDARY**  
 the offer is operationally credible and popular after the losses; refusing it may cost lives.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E473 date: CY 744-04-14. Act 5A continues through E480 / CY 744-04-20. first defense loss and central-speed comparison are public. standing defensive intent exists, but support/pay/recall/rescue and command succession remain fragmented. `세 번째 종` agreement is at review/extension point.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - Rian receives a defined 6-combat/5-support route group appointment for the next mission-planning phase.
 
 **COST_OR_REFUSAL**
@@ -1757,17 +1804,17 @@ the offer is operationally credible and popular after the losses; refusing it ma
 - take bounded operational responsibility without accepting default ownership-like allocation power.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -1779,24 +1826,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E475 — 헌장에 없는 청구서
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e473-475-episode-cards-v1]]
 Date: CY 744-04-18.
 POV / information source: Haren, Tav, Messa, casualty/family representatives and formation quartermasters.
@@ -1810,10 +1859,10 @@ complete a Charter v0.1 draft that assigns command without hiding costs.
 **ACTIVE_DESIRE_SECONDARY**  
 formations will lend ships only if loss, repair, pay, family and ammunition debts are recognized; no actor can fund all guarantees.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [APPROVED SECTION CARRIER EVIDENCE] [End State E475] detailed range E451–475 complete; Vesper opening OOB and eight-layer alignment state established; `세 번째 종` ship agreement active/reviewable and reduced to R2/R2; first defense losses permanent and recorded; standing defensive intent operational; Rian commands only 6 combat + 5 support ships for a named route/flight task group; Charter v0.1 is a public draft with ten executable core clauses and major open fields; no Common Fleet, fleet ownership or theater command exists yet; E476–480 must enact/reject the draft and transition into repair/pay conflict.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - ten executable core clauses and a shared debt/loss record exist.
 
 **COST_OR_REFUSAL**
@@ -1831,17 +1880,17 @@ formations will lend ships only if loss, repair, pay, family and ammunition debt
 - publish and carry a visibly incomplete Charter v0.1 draft rather than hide unfunded obligations or declare a finished fleet.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -1853,24 +1902,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E476 — 서명하지 않은 사람들의 조항
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e476-480-episode-cards-v1]]
 Date: CY 744-04-19.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -1884,10 +1935,10 @@ process public objections before any formation signs Charter v0.1.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E476–480: CY 744-04-19 to 04-20. Charter v0.1 is public but unenacted. Rian currently holds a named 6-combat/5-support route group. `세 번째 종` remains R2/R2. four deaths, nineteen injuries and 3,060 t cargo loss remain active.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - add a mandatory affected-party notice, named shortfall ledger and post-loss review trigger, but do not promise funding that does not exist.
 - objections alter executable text instead of becoming ceremonial consultation.
 
@@ -1906,17 +1957,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - add a mandatory affected-party notice, named shortfall ledger and post-loss review trigger, but do not promise funding that does not exist.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -1928,24 +1979,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E477 — 지휘관이 쓰러진 뒤
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e476-480-episode-cards-v1]]
 Date: CY 744-04-19.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -1959,10 +2012,10 @@ define mission-command succession without transferring ownership to the successo
 **ACTIVE_DESIRE_SECONDARY**  
 Ardo wants automatic senior-officer succession; Sira wants formation withdrawal/reconfirmation; Messa wants current crew and casualty obligations preserved; captains reject a succession rule that can expand mission scope.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E476–480: CY 744-04-19 to 04-20. Charter v0.1 is public but unenacted. Rian currently holds a named 6-combat/5-support route group. `세 번째 종` remains R2/R2. four deaths, nineteen injuries and 3,060 t cargo loss remain active.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - succession transfers only the current mission intent, geometry, accepted ships and remaining duration; no new offensive objective, hull title, pay, key or political recognition passes; formation commanders may detach under published catastrophic/home-defense rules.
 - alert/battle command can continue after incapacitation.
 
@@ -1981,17 +2034,17 @@ Ardo wants automatic senior-officer succession; Sira wants formation withdrawal/
 - succession transfers only the current mission intent, geometry, accepted ships and remaining duration; no new offensive objective, hull title, pay, key or political recognition passes; formation commanders may detach under published catastrophic/home-defense rules.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -2003,24 +2056,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E478 — 지원함의 거부권
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e476-480-episode-cards-v1]]
 Date: CY 744-04-20 03:00–11:00.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -2034,10 +2089,10 @@ bring tenders, rescue ships and medical craft into the charter without making th
 **ACTIVE_DESIRE_SECONDARY**  
 combat commanders want support allocation under mission command; Tav and service captains demand safety stops, minimum escort and no forced cannibalization.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E476–480: CY 744-04-19 to 04-20. Charter v0.1 is public but unenacted. Rian currently holds a named 6-combat/5-support route group. `세 번째 종` remains R2/R2. four deaths, nineteen injuries and 3,060 t cargo loss remain active.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - support hulls lend capacity by named task; technical/medical stops act directly; combat ships owe minimum escort/rescue duty; no support ship may be cannibalized without title, worker, safety and replacement review.
 - three additional support ships conditionally join.
 
@@ -2056,17 +2111,17 @@ combat commanders want support allocation under mission command; Tav and service
 - support hulls lend capacity by named task; technical/medical stops act directly; combat ships owe minimum escort/rescue duty; no support ship may be cannibalized without title, worker, safety and replacement review.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -2078,24 +2133,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E479 — 손실을 누가 갚는가
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e476-480-episode-cards-v1]]
 Date: CY 744-04-20 11:00–18:00.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -2109,10 +2166,10 @@ create an executable minimum loss/debt rule for the initial mission.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] E476–480: CY 744-04-19 to 04-20. Charter v0.1 is public but unenacted. Rian currently holds a named 6-combat/5-support route group. `세 번째 종` remains R2/R2. four deaths, nineteen injuries and 3,060 t cargo loss remain active.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - enact only minimum immediate death, serious injury, rescue and first-stage repair support; long-term pension, full hull loss and cargo compensation remain claims, not guarantees.
 - ships can calculate minimum consequences before joining.
 
@@ -2131,17 +2188,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - enact only minimum immediate death, serious injury, rescue and first-stage repair support; long-term pension, full hull loss and cargo compensation remain claims, not guarantees.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -2153,24 +2210,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E480 — 공동전단헌장 0.1
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e476-480-episode-cards-v1]]
 Date: CY 744-04-20 18:00–23:50.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -2184,10 +2243,10 @@ enact Charter v0.1 and close Act 5A without declaring a permanent fleet.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [APPROVED SECTION CARRIER EVIDENCE] [End State E480] Charter v0.1 active through CY 744-05-04 unless ended earlier; 15 combat + 14 support, 92 frames/utility craft; Rian direct task group 8 combat + 7 support; no fleet ownership, permanent theater command or common root key; Act 5A complete; Act 5B begins with repair/pay war.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - sign a limited mission charter with explicit unfunded claims and no permanent admiralty.
 - Initial Vesper Task Force becomes operational.
 
@@ -2206,17 +2265,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - sign a limited mission charter with explicit unfunded claims and no permanent admiralty.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -2228,24 +2287,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E481 — 가장 비싼 배는 포를 쏘지 않는다
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e481-487-episode-cards-v1]]
 Date: CY 744-04-21.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -2259,10 +2320,10 @@ choose whether the charter’s first major escort protects a damaged cruiser or 
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - prioritize `기워진 별` convoy because it restores more total capability, while publishing the cruiser delay and crew risk.
 - four escorts and Rian’s route element accept convoy mission.
 
@@ -2281,17 +2342,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - prioritize `기워진 별` convoy because it restores more total capability, while publishing the cruiser delay and crew risk.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -2303,24 +2364,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E482 — 채권자가 내리는 항로명령
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e481-487-episode-cards-v1]]
 Date: CY 744-04-23.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -2334,10 +2400,10 @@ determine whether component lien permits control of the whole tender and convoy.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - the lien is genuine for 21% of certified components and two software service packages; it does not title the hull, workers, payroll cargo or mission.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - offer component escrow, later payment priority and audit without diverting the convoy.
 - current legal route remains Charter/Vesper.
 
@@ -2356,17 +2422,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - offer component escrow, later payment priority and audit without diverting the convoy.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - the lien is genuine for 21% of certified components and two software service packages; it does not title the hull, workers, payroll cargo or mission.
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -2378,23 +2444,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-All mandatory execution slots have approved source evidence. Prose-level exact numbers/names/layouts absent from higher sources still remain `UNRESOLVED FROM APPROVED SOURCES`.
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E483 — 호위함이 집으로 돌아갈 때
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e481-487-episode-cards-v1]]
 Date: CY 744-04-25.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -2408,10 +2477,10 @@ preserve escort coverage while respecting signed provincial limits.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - one escort lawfully returns after replacement/handover; the second remains for 36 hours under quantified reciprocal service credit.
 - no coercive retention; convoy keeps minimum screen.
 
@@ -2430,17 +2499,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - one escort lawfully returns after replacement/handover; the second remains for 36 hours under quantified reciprocal service credit.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -2452,24 +2521,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E484 — 수리선을 지키는 전투
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e481-487-episode-cards-v1]]
 Date: CY 744-04-27.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -2483,10 +2557,10 @@ protect the convoy without exposing the tender to sustained combat or turning it
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - abandon pursuit opportunities to keep the tender inside a low-thermal debris corridor.
 - all five service ships remain under current mission custody.
 
@@ -2505,17 +2579,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - abandon pursuit opportunities to keep the tender inside a low-thermal debris corridor.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -2527,24 +2601,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E485 — 흩어진 부품
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e481-487-episode-cards-v1]]
 Date: CY 744-04-29.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -2558,10 +2637,10 @@ recover cargo and stabilize `기워진 별` without sacrificing payroll/medical 
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - 680 t parts/tools permanently lost or unrecoverable; 210 t enters downgrade/reinspection; tender fabrication output falls 28% for 6–9 weeks; Sana Brik suffers a moderate hand/nerve injury and 4–8 week heavy-work restriction; no death.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - preserve workers and payroll/medical ships rather than conduct a high-risk full debris recovery.
 - remaining cargo and all 1,128 people are accounted.
 
@@ -2580,17 +2659,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - preserve workers and payroll/medical ships rather than conduct a high-risk full debris recovery.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - 680 t parts/tools permanently lost or unrecoverable; 210 t enters downgrade/reinspection; tender fabrication output falls 28% for 6–9 weeks; Sana Brik suffers a moderate hand/nerve injury and 4–8 week heavy-work restriction; no death.
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -2602,23 +2681,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-All mandatory execution slots have approved source evidence. Prose-level exact numbers/names/layouts absent from higher sources still remain `UNRESOLVED FROM APPROVED SOURCES`.
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E486 — 사라진 급여는 누구의 것인가
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e481-487-episode-cards-v1]]
 Date: CY 744-05-01.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -2632,10 +2714,10 @@ reconstruct payroll/family records without using broad Continuity aggregation or
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - use current muster/household evidence and purpose-limited recovery; publish uncertainty and do not suspend already earned payments.
 - 2,210 records recover current usability within 31 hours.
 
@@ -2654,17 +2736,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - use current muster/household evidence and purpose-limited recovery; publish uncertainty and do not suspend already earned payments.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -2676,24 +2758,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E487 — 기워진 별이 도착한다
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e481-487-episode-cards-v1]]
 Date: CY 744-05-03.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -2707,10 +2794,10 @@ complete the convoy and account for every person/cargo/claim.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - classify the mission as strategic success with major capacity debt, not a clean victory.
 - mobile repair/pay capability reaches Vesper/Deme network.
 
@@ -2729,17 +2816,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - classify the mission as strategic success with major capacity debt, not a clean victory.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -2751,24 +2838,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E488 — 마흔일곱 척의 응급실
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e488-494-episode-cards-v1]]
 Date: CY 744-05-05.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -2782,10 +2874,10 @@ establish comparable readiness facts before allocating repair.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-05 through 05-17. 47 combat ships submit priority claims. only 13 can receive meaningful first-cycle work. `기워진 별` output is reduced 28% for 6–9 weeks. certified common parts cover 31% of listed opening demand; 680 t new parts loss remains.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - score propulsion/thermal, weapons, sensors/authentication, crew, craft, support, route and legitimacy separately; publish uncertainty and mission effect rather than one prestige rank.
 - 47 claims become comparable without pretending identical missions.
 
@@ -2804,17 +2896,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - score propulsion/thermal, weapons, sensors/authentication, crew, craft, support, route and legitimacy separately; publish uncertainty and mission effect rather than one prestige rank.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -2826,24 +2918,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E489 — 순양함 한 척과 아홉 척의 배
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e488-494-episode-cards-v1]]
 Date: CY 744-05-07.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -2857,10 +2951,10 @@ choose between restoring heavy cruiser `철의 권리` and a distributed escort/
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-05 through 05-17. 47 combat ships submit priority claims. only 13 can receive meaningful first-cycle work. `기워진 별` output is reduced 28% for 6–9 weeks. certified common parts cover 31% of listed opening demand; 680 t new parts loss remains.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - defer the cruiser and select the distributed package.
 - convoy, rescue and route coverage can expand.
 
@@ -2879,17 +2973,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - defer the cruiser and select the distributed package.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -2901,24 +2995,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E490 — 정비위원회의 의자
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e488-494-episode-cards-v1]]
 Date: CY 744-05-09.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -2932,10 +3028,10 @@ create a maintenance/readiness board that cannot quietly command missions.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-05 through 05-17. 47 combat ships submit priority claims. only 13 can receive meaningful first-cycle work. `기워진 별` output is reduced 28% for 6–9 weeks. certified common parts cover 31% of listed opening demand; 680 t new parts loss remains.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - approve the board for two 7-day cycles with review after serious injury, grounding or political retaliation.
 - pooled repair can begin reproducibly.
 
@@ -2954,17 +3050,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - approve the board for two 7-day cycles with review after serious injury, grounding or political retaliation.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -2976,24 +3072,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E491 — 여섯 시간의 작업중지
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e488-494-episode-cards-v1]]
 Date: CY 744-05-11.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -3007,10 +3105,10 @@ resolve a legal work slowdown without losing the entire repair cycle.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-05 through 05-17. 47 combat ships submit priority claims. only 13 can receive meaningful first-cycle work. `기워진 별` output is reduced 28% for 6–9 weeks. certified common parts cover 31% of listed opening demand; 680 t new parts loss remains.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - accept a six-hour stop, rewrite shifts and move two low-risk tasks to trained ship crews under worker supervision.
 - a likely coolant/radiation incident is prevented; work resumes with current consent.
 
@@ -3029,17 +3127,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - accept a six-hour stop, rewrite shifts and move two low-risk tasks to trained ship crews under worker supervision.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -3051,24 +3149,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E492 — 부품이 된 배
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e488-494-episode-cards-v1]]
 Date: CY 744-05-13.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -3082,10 +3182,10 @@ use parts from two grounded hulls without converting them into unclaimed salvage
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-05 through 05-17. 47 combat ships submit priority claims. only 13 can receive meaningful first-cycle work. `기워진 별` output is reduced 28% for 6–9 weeks. certified common parts cover 31% of listed opening demand; 680 t new parts loss remains.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - create reversible component custody records, replacement debt and crew/title notice; prohibit weapons/core-key transfer; remove only 94 t of certified-compatible components.
 - six priority projects gain needed parts.
 
@@ -3104,17 +3204,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - create reversible component custody records, replacement debt and crew/title notice; prohibit weapons/core-key transfer; remove only 94 t of certified-compatible components.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -3126,24 +3226,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E493 — 공개한 실패율
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e488-494-episode-cards-v1]]
 Date: CY 744-05-15.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -3157,10 +3259,10 @@ decide whether to hide a 7.8% failure rate in one salvaged component batch to pr
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-05 through 05-17. 47 combat ships submit priority claims. only 13 can receive meaningful first-cycle work. `기워진 별` output is reduced 28% for 6–9 weeks. certified common parts cover 31% of listed opening demand; 680 t new parts loss remains.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - publish batch uncertainty, quarantine affected pieces and replan four projects.
 - no unsafe installation; audit confidence improves.
 
@@ -3179,17 +3281,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - publish batch uncertainty, quarantine affected pieces and replan four projects.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -3201,24 +3303,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E494 — 움직이는 열세 척
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e488-494-episode-cards-v1]]
 Date: CY 744-05-17.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -3232,10 +3336,10 @@ close the first maintenance cycle and account for readiness gained/lost.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - 9 reach physical R2 or mission-useful R1+/R2; 4 remain in work due parts/quarantine; 3 support/rescue hulls also regain current service through linked work; 2 donor hulls are delayed 8–14 months; `철의 권리` remains grounded.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - 9 reach physical R2 or mission-useful R1+/R2; 4 remain in work due parts/quarantine; 3 support/rescue hulls also regain current service through linked work; 2 donor hulls are delayed 8–14 months; `철의 권리` remains grounded.
 - retain the board for another cycle but require mission/casualty and worker review; no permanent technical authority.
 - maintenance-supported formation begins to exist.
@@ -3255,17 +3359,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - retain the board for another cycle but require mission/casualty and worker review; no permanent technical authority.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - 9 reach physical R2 or mission-useful R1+/R2; 4 remain in work due parts/quarantine; 3 support/rescue hulls also regain current service through linked work; 2 donor hulls are delayed 8–14 months; `철의 권리` remains grounded.
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -3277,23 +3381,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-All mandatory execution slots have approved source evidence. Prose-level exact numbers/names/layouts absent from higher sources still remain `UNRESOLVED FROM APPROVED SOURCES`.
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E495 — 수리된 배가 출항하지 않는 이유
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e495-500-episode-cards-v1]]
 Date: CY 744-05-19.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -3307,10 +3414,10 @@ determine whether repaired ships can be ordered out while pay/family guarantees 
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - 7 ships meet physical mission requirements but 3,420 current crew/family records on those ships remain disputed or unpaid.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - allow only named emergency defense under existing obligation; defer extended deployment until minimum current guarantee or individual lawful exception exists.
 - physical readiness no longer erases crew/family state.
 
@@ -3329,17 +3436,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - allow only named emergency defense under existing obligation; defer extended deployment until minimum current guarantee or individual lawful exception exists.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - 7 ships meet physical mission requirements but 3,420 current crew/family records on those ships remain disputed or unpaid.
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -3351,23 +3458,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-All mandatory execution slots have approved source evidence. Prose-level exact numbers/names/layouts absent from higher sources still remain `UNRESOLVED FROM APPROVED SOURCES`.
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E496 — 한 장부의 가격
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e495-500-episode-cards-v1]]
 Date: CY 744-05-21.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -3381,10 +3491,10 @@ clear payroll/family records without giving one office permanent control of flee
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - 16,800 records receive full current authorization; 2,140 receive provisional/partial support; 4,080 remain appeal/manual/unfunded; 16,800 + 2,140 + 4,080 = 23,020.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - 16,800 records receive full current authorization; 2,140 receive provisional/partial support; 4,080 remain appeal/manual/unfunded; 16,800 + 2,140 + 4,080 = 23,020.
 - use a multi-authority current ledger with purpose-separated fields: person/current service, earned pay, family/dependent support, injury/death claim and mission eligibility; no broad political loyalty field.
 - 18,940 people/households gain some current support.
@@ -3404,17 +3514,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - use a multi-authority current ledger with purpose-separated fields: person/current service, earned pay, family/dependent support, injury/death claim and mission eligibility; no broad political loyalty field.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - 16,800 records receive full current authorization; 2,140 receive provisional/partial support; 4,080 remain appeal/manual/unfunded; 16,800 + 2,140 + 4,080 = 23,020.
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -3426,23 +3536,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-All mandatory execution slots have approved source evidence. Prose-level exact numbers/names/layouts absent from higher sources still remain `UNRESOLVED FROM APPROVED SOURCES`.
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E497 — 여섯 시간 늦은 탄약
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e495-500-episode-cards-v1]]
 Date: CY 744-05-23.
 POV / information source: Kev Raon, loaders, captain and Ardo staff.
@@ -3456,10 +3569,10 @@ determine whether the loading refusal is political obstruction or a valid safety
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - humidity/charge-seal contamination affects 210 missile/countermeasure units across two lots; immediate full loading creates a credible magazine/launch fault.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - recognize a six-hour legal work slowdown, isolate the lots and load only verified units.
 - probable ammunition accident prevented; 168 units become safely available after inspection.
 
@@ -3478,17 +3591,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - recognize a six-hour legal work slowdown, isolate the lots and load only verified units.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - humidity/charge-seal contamination affects 210 missile/countermeasure units across two lots; immediate full loading creates a credible magazine/launch fault.
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -3500,23 +3613,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-All mandatory execution slots have approved source evidence. Prose-level exact numbers/names/layouts absent from higher sources still remain `UNRESOLVED FROM APPROVED SOURCES`.
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E498 — 구조 신호를 보낸 적함
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e495-500-episode-cards-v1]]
 Date: CY 744-05-25.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -3530,10 +3646,10 @@ decide whether rescue applies to hostile/disputed crews and whether it grants im
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-19 through 05-29. old unresolved pay/family records: 8,640. new participating-ship/worker/family records: 14,380. total current workload: 23,020. Charter formation: 21 combat connected, 18 support; only 14 combat R2+.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - issue rescue under person-first safety rules while explicitly separating parole, criminal/victim claims and hull title.
 - a rescue corridor opens and last-stand incentives fall.
 
@@ -3552,17 +3668,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - issue rescue under person-first safety rules while explicitly separating parole, criminal/victim claims and hull title.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -3574,24 +3690,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E499 — 먼저 살리고 나중에 묻는다
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e495-500-episode-cards-v1]]
 Date: CY 744-05-27.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -3605,10 +3723,10 @@ evacuate 298 people without surrendering evidence, victim standing or ship safet
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-19 through 05-29. old unresolved pay/family records: 8,640. new participating-ship/worker/family records: 14,380. total current workload: 23,020. Charter formation: 21 combat connected, 18 support; only 14 combat R2+.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - all 298 people recovered alive; two rescue operators injured, neither serious; one rescue craft damaged 2–3 months; magazine stabilized without detonation; three ships grounded/sealed under split custody.
 - detain/restrict only named current-risk personnel, not whole crews by affiliation.
 - rescue precedent becomes operational.
@@ -3628,17 +3746,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - detain/restrict only named current-risk personnel, not whole crews by affiliation.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -3650,24 +3768,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E500 — 구조는 복종계약이 아니다
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e495-500-episode-cards-v1]]
 Date: CY 744-05-29.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -3681,10 +3801,10 @@ establish preliminary rescue/parole status without completing prize/title integr
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [APPROVED SECTION CARRIER EVIDENCE] [End State E500] Charter v0.1 active but still narrow; maintenance board operational for a second cycle; 21 combat + 18 support connected, 14 combat R2+; pay/family workload 23,020: 16,800 full, 2,140 partial, 4,080 unresolved; 298 rescued, 31 individualized restriction/review, 267 protected temporary status; three surrendered/disputed hulls grounded and title unresolved; no prize integration or maintenance-supported 25–45 combat formation yet; manuscript blocked.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - adopt `Rescue/Temporary Protection Protocol v0.1` and defer hull/prize/parole settlement to E503–510.
 - crews can surrender without automatic disappearance or ownership transfer.
 
@@ -3703,17 +3823,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - adopt `Rescue/Temporary Protection Protocol v0.1` and defer hull/prize/parole settlement to E503–510.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -3725,24 +3845,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E501 — 만료되는 헌장
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e501-510-episode-cards-v1]]
 Date: CY 744-05-31.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -3756,10 +3878,10 @@ decide whether Charter v0.1 continues while title/parole and pay remain unresolv
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-31 through 06-18. Charter v0.1 expires 05-31 absent explicit renewal. 21 combat + 18 support connected; 14 combat R2+. 4,080 pay/family records unresolved. 298 rescued people and three grounded/sealed hulls. Three hulls: armed recovery frigate `저녁의 담보` — 112 people; security corvette `빈 깃발` — 96 people; converted support ship `늦은 구조` — 90 people; total 298.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - renew as `Charter v0.1-R` through CY 744-06-30 with explicit pay/rescue/title-process annexes; no automatic hull integration, Outer Front offensive or permanent command.
 - existing missions and institutions continue lawfully.
 
@@ -3778,17 +3900,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - renew as `Charter v0.1-R` through CY 744-06-30 with explicit pay/rescue/title-process annexes; no automatic hull integration, Outer Front offensive or permanent command.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -3800,24 +3922,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E502 — 최소보장의 마지막 4,080건
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e501-510-episode-cards-v1]]
 Date: CY 744-06-02.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -3831,10 +3955,10 @@ reduce unresolved pay/family cases without promising complete pensions or buying
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - 3,120 of 4,080 gain current full or partial support; 960 remain unresolved/unfunded/manual; rescued-person basic support is tracked separately.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - 3,120 of 4,080 gain current full or partial support; 960 remain unresolved/unfunded/manual; rescued-person basic support is tracked separately.
 - use Treasury/provincial/mission levy/yard credit/insurance contributions with household evidence and appeal.
 - more repaired ships can lawfully accept extended missions.
@@ -3854,17 +3978,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - use Treasury/provincial/mission levy/yard credit/insurance contributions with household evidence and appeal.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - 3,120 of 4,080 gain current full or partial support; 960 remain unresolved/unfunded/manual; rescued-person basic support is tracked separately.
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -3876,23 +4000,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-All mandatory execution slots have approved source evidence. Prose-level exact numbers/names/layouts absent from higher sources still remain `UNRESOLVED FROM APPROVED SOURCES`.
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E503 — 여섯 명의 주인
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e501-510-episode-cards-v1]]
 Date: CY 744-06-04.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -3906,10 +4033,10 @@ map title, lien, victim, crew and mission claims on the three hulls.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-31 through 06-18. Charter v0.1 expires 05-31 absent explicit renewal. 21 combat + 18 support connected; 14 combat R2+. 4,080 pay/family records unresolved. 298 rescued people and three grounded/sealed hulls. Three hulls: armed recovery frigate `저녁의 담보` — 112 people; security corvette `빈 깃발` — 96 people; converted support ship `늦은 구조` — 90 people; total 298.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - no immediate sale, prize or fleet assignment; preserve split evidence and current safety custody.
 - claim conflicts become explicit.
 
@@ -3928,17 +4055,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - no immediate sale, prize or fleet assignment; preserve split evidence and current safety custody.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -3950,24 +4077,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E504 — 피해자의 배
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e501-510-episode-cards-v1]]
 Date: CY 744-06-06.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -3981,10 +4110,10 @@ determine whether victim claims permit permanent seizure or destruction of the h
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-31 through 06-18. Charter v0.1 expires 05-31 absent explicit renewal. 21 combat + 18 support connected; 14 combat R2+. 4,080 pay/family records unresolved. 298 rescued people and three grounded/sealed hulls. Three hulls: armed recovery frigate `저녁의 담보` — 112 people; security corvette `빈 깃발` — 96 people; converted support ship `늦은 구조` — 90 people; total 298.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - victims receive evidence, restitution priority and a bar on immediate armed reuse; they do not automatically receive title or collective punishment authority.
 - Jora Venn and other affected parties gain formal standing before hull disposition.
 
@@ -4003,17 +4132,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - victims receive evidence, restitution priority and a bar on immediate armed reuse; they do not automatically receive title or collective punishment authority.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -4025,24 +4154,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E505 — 돌려보내는 함선
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e501-510-episode-cards-v1]]
 Date: CY 744-06-08.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -4056,10 +4187,10 @@ return `저녁의 담보` without forced crew return, evidence loss or victim-ri
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-31 through 06-18. Charter v0.1 expires 05-31 absent explicit renewal. 21 combat + 18 support connected; 14 combat R2+. 4,080 pay/family records unresolved. 298 rescued people and three grounded/sealed hulls. Three hulls: armed recovery frigate `저녁의 담보` — 112 people; security corvette `빈 깃발` — 96 people; converted support ship `늦은 구조` — 90 people; total 298.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - 52 people across the three rescued cohorts choose supervised return/transfer, including 39 associated with this hull; remaining persons are not transferred with the ship; hull exits Charter inventory and cannot count as fleet growth.
 - return hull title/physical custody after weapons seal, evidence mirror, 12-month no-offensive-use condition and restitution escrow; people choose separately.
 - title law is honored without treating crew as cargo.
@@ -4079,17 +4210,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - return hull title/physical custody after weapons seal, evidence mirror, 12-month no-offensive-use condition and restitution escrow; people choose separately.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -4101,24 +4232,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E506 — 백팔십 일의 빈 깃발
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e501-510-episode-cards-v1]]
 Date: CY 744-06-10.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -4132,10 +4265,10 @@ create temporary title/custody for `빈 깃발` without awarding it to Rian, Dor
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-31 through 06-18. Charter v0.1 expires 05-31 absent explicit renewal. 21 combat + 18 support connected; 14 combat R2+. 4,080 pay/family records unresolved. 298 rescued people and three grounded/sealed hulls. Three hulls: armed recovery frigate `저녁의 담보` — 112 people; security corvette `빈 깃발` — 96 people; converted support ship `늦은 구조` — 90 people; total 298.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - establish a 180-day Ship Title & Mission Trust; trustees represent title/creditor, crew/work, victims, repair/current custody and public mission/audit; no independent chair actuation; no sale, strategic-key transfer or permanent military assignment.
 - repair and legal work can begin under bounded custody.
 
@@ -4154,17 +4287,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - establish a 180-day Ship Title & Mission Trust; trustees represent title/creditor, crew/work, victims, repair/current custody and public mission/audit; no independent chair actuation; no sale, strategic-key transfer or permanent military assignment.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -4176,24 +4309,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E507 — 포를 떼어낸 배
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e501-510-episode-cards-v1]]
 Date: CY 744-06-12.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -4207,10 +4342,10 @@ decide whether to scrap, restore or demilitarize `늦은 구조`.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-31 through 06-18. Charter v0.1 expires 05-31 absent explicit renewal. 21 combat + 18 support connected; 14 combat R2+. 4,080 pay/family records unresolved. 298 rescued people and three grounded/sealed hulls. Three hulls: armed recovery frigate `저녁의 담보` — 112 people; security corvette `빈 깃발` — 96 people; converted support ship `늦은 구조` — 90 people; total 298.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - remove weapons/targeting packages under evidence/title records; convert the hull toward rescue, housing and parts support over 4–6 months; no immediate fleet count.
 - future support/rescue capacity and current housing for some rescued people.
 
@@ -4229,17 +4364,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - remove weapons/targeting packages under evidence/title records; convert the hull toward rescue, housing and parts support over 4–6 months; no immediate fleet count.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -4251,24 +4386,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E508 — 구조된 사람들의 네 갈래
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e501-510-episode-cards-v1]]
 Date: CY 744-06-14.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -4282,10 +4419,10 @@ resolve current person status without coercive enlistment or blanket immunity.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-05-31 through 06-18. Charter v0.1 expires 05-31 absent explicit renewal. 21 combat + 18 support connected; 14 combat R2+. 4,080 pay/family records unresolved. 298 rescued people and three grounded/sealed hulls. Three hulls: armed recovery frigate `저녁의 담보` — 112 people; security corvette `빈 깃발` — 96 people; converted support ship `늦은 구조` — 90 people; total 298.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - people gain plural current paths.
 - 94 choose voluntary mission-limited ship/yard/service work; 121 choose civilian settlement, training, care or nonfleet work; 52 choose supervised return/transfer; 31 remain individualized investigation/restriction/review; total 298.
 
@@ -4304,17 +4441,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - UNRESOLVED FROM APPROVED SOURCES
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -4326,24 +4463,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E509 — 스물아홉 척의 연결망
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e501-510-episode-cards-v1]]
 Date: CY 744-06-16.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -4357,10 +4496,10 @@ close the second maintenance cycle and count only current connected/readiness st
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - repaired/conditioned contributions raise the connected network to 29 combat and 25 support hulls; 19 combat hulls are R2 or better; `빈 깃발` remains conditional R1 and is not in the 19; `늦은 구조` is future support conversion and not in the 25 operational count; `저녁의 담보` has left.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - repaired/conditioned contributions raise the connected network to 29 combat and 25 support hulls; 19 combat hulls are R2 or better; `빈 깃발` remains conditional R1 and is not in the 19; `늦은 구조` is future support conversion and not in the 25 operational count; `저녁의 담보` has left.
 - accept the larger network without calling it a permanent fleet or assigning all to Rian.
 - maintenance-supported Charter formation enters the macro target range.
@@ -4380,17 +4519,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - accept the larger network without calling it a permanent fleet or assigning all to Rian.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - repaired/conditioned contributions raise the connected network to 29 combat and 25 support hulls; 19 combat hulls are R2 or better; `빈 깃발` remains conditional R1 and is not in the 19; `늦은 구조` is future support conversion and not in the 25 operational count; `저녁의 담보` has left.
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -4402,23 +4541,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-All mandatory execution slots have approved source evidence. Prose-level exact numbers/names/layouts absent from higher sources still remain `UNRESOLVED FROM APPROVED SOURCES`.
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E510 — 구조와 소유를 분리한 규칙
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e501-510-episode-cards-v1]]
 Date: CY 744-06-18.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -4432,10 +4574,10 @@ adopt the minimum pay/rescue/parole/title annexes and close Act 5B.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [APPROVED SECTION CARRIER EVIDENCE] [End State E510] Charter v0.1-R active through 06-30; 29 combat + 25 support connected; 19 combat R2+; 960 pay/family cases unresolved; 298 people on four paths; one hull returned, one 180-day trust R1, one 4–6 month rescue conversion; no free acquisition or permanent fleet ownership.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - surrendered/disputed people and ships can enter lawful processes without becoming collected property.
 
 **COST_OR_REFUSAL**
@@ -4453,17 +4595,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - UNRESOLVED FROM APPROVED SOURCES
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -4475,24 +4617,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E511 — 집으로 오라는 합법적인 명령
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e511-517-episode-cards-v1]]
 Date: CY 744-06-19.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -4506,10 +4650,10 @@ authenticate recall orders and determine which obligations remain.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - all three recall chains are authentic; home threats differ in severity; Charter v0.1-R has no complete recall-cost framework.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - freeze punitive action and require each ship/province to disclose current mission, people/cargo aboard, replacement possibilities and home emergency evidence.
 - recall is treated as lawful claim, not defection.
 
@@ -4528,17 +4672,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - freeze punitive action and require each ship/province to disclose current mission, people/cargo aboard, replacement possibilities and home emergency evidence.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - all three recall chains are authentic; home threats differ in severity; Charter v0.1-R has no complete recall-cost framework.
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -4550,23 +4694,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-All mandatory execution slots have approved source evidence. Prose-level exact numbers/names/layouts absent from higher sources still remain `UNRESOLVED FROM APPROVED SOURCES`.
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E512 — 배가 떠나도 남는 것
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e511-517-episode-cards-v1]]
 Date: CY 744-06-21.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -4580,10 +4727,10 @@ separate the right to leave from current rescue, cargo, classified equipment and
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - ships may leave, but must complete immediate safety handover, return/replace mission-specific pooled assets and protect embarked persons’ choices.
 - no asset hostage or crew-as-cargo rule.
 
@@ -4602,17 +4749,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - ships may leave, but must complete immediate safety handover, return/replace mission-specific pooled assets and protect embarked persons’ choices.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -4624,24 +4771,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E513 — 함체는 돌아가고 승무원은 남는다
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e511-517-episode-cards-v1]]
 Date: CY 744-06-23.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -4655,10 +4807,10 @@ process diverging hull and crew choices.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - title-controlled hull returns after current handover; 34 crew/technical workers transfer voluntarily to other ships/yard contracts; 18 family/home-linked people return with the hull; remaining crew follows ordinary reassignment/contract processes.
 - people are not inherited with hull title.
 
@@ -4677,17 +4829,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - title-controlled hull returns after current handover; 34 crew/technical workers transfer voluntarily to other ships/yard contracts; 18 family/home-linked people return with the hull; remaining crew follows ordinary reassignment/contract processes.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -4699,24 +4851,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E514 — 소환 비용
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e511-517-episode-cards-v1]]
 Date: CY 744-06-25.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -4730,10 +4887,10 @@ define obligations that make voluntary coalition meaningful without abolishing e
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - accept costs as reciprocal obligations, not penalties for political disloyalty.
 - exits become predictable enough for planning.
 
@@ -4752,17 +4909,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - accept costs as reciprocal obligations, not penalties for political disloyalty.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -4774,24 +4931,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E515 — 영웅의 귀향
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e511-517-episode-cards-v1]]
 Date: CY 744-06-27.
 POV / information source: Doan Mir.
@@ -4805,10 +4967,10 @@ decide whether Doan remains as a celebrated Charter navigator or exercises the h
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - Doan returns with a lawfully departing provincial ship after handover; leaves current route notes and training but refuses a new Charter oath.
 - the system honors a meaningful exit after autonomous heroism.
 
@@ -4827,17 +4989,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - Doan returns with a lawfully departing provincial ship after handover; leaves current route notes and training but refuses a new Charter oath.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -4849,24 +5011,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E516 — 거짓말한 지방도 지켜야 하는가
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e511-517-episode-cards-v1]]
 Date: CY 744-06-29.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -4880,10 +5047,10 @@ address inflated threat evidence without declaring the entire recall illegitimat
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - one province overstated projected attack probability but has real food/family and patrol shortages.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - correct the record, reduce emergency priority and preserve ordinary recall/exit rights with full replacement debt.
 - fraud does not erase genuine local needs or create collective punishment.
 
@@ -4902,17 +5069,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - correct the record, reduce emergency priority and preserve ordinary recall/exit rights with full replacement debt.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - one province overstated projected attack probability but has real food/family and patrol shortages.
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -4924,23 +5091,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-All mandatory execution slots have approved source evidence. Prose-level exact numbers/names/layouts absent from higher sources still remain `UNRESOLVED FROM APPROVED SOURCES`.
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E517 — 떠난 함대의 숫자
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e511-517-episode-cards-v1]]
 Date: CY 744-07-01. Final disposition of 8 combat + 5 support recall set: 4 combat + 3 support leave after 48–72 hour handover; 2 combat + 1 support remain for ten days and then leave under current mission completion; 2 combat + 1 support renew under new provincial mandate.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -4954,10 +5124,10 @@ UNRESOLVED FROM APPROVED SOURCES
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - ships can leave without mutiny/war, and remaining obligations are executable.
 
 **COST_OR_REFUSAL**
@@ -4975,17 +5145,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - UNRESOLVED FROM APPROVED SOURCES
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -4997,25 +5167,30 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- ACTIVE_DESIRE_MAIN exact source label: `UNRESOLVED FROM APPROVED SOURCES`
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- ACTIVE_DESIRE_MAIN: `UNRESOLVED FROM APPROVED SOURCES`
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E518 — 왕관이 아니라 통로
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e518-524-episode-cards-v1]]
 Date: CY 744-07-03.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -5029,10 +5204,10 @@ decide whether Crown Passage receives escort during falling fleet availability.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - define mission around current civilians, courts, hospitals, witnesses and service continuity, not Elian’s fleet ownership or ceremonial priority alone.
 - Oren commits a bounded Crown/civil escort formation.
 
@@ -5051,17 +5226,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - define mission around current civilians, courts, hospitals, witnesses and service continuity, not Elian’s fleet ownership or ceremonial priority alone.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -5073,24 +5248,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E519 — 누구를 먼저 태울 것인가
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e518-524-episode-cards-v1]]
 Date: CY 744-07-05.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -5104,10 +5284,10 @@ allocate limited passenger/service capacity without making court rank the domina
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - current medical dependence, essential service continuity, witness/evidence risk, family unity and route vulnerability rank seats/cargo; ceremonial household receives a bounded share.
 - 24,800 people and 6,460 t manifest become current and reviewable.
 
@@ -5126,17 +5306,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - current medical dependence, essential service continuity, witness/evidence risk, family unity and route vulnerability rank seats/cargo; ceremonial household receives a bounded share.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -5148,24 +5328,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E520 — 소환권이 있는 호위함
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e518-524-episode-cards-v1]]
 Date: CY 744-07-07.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -5179,10 +5364,10 @@ preserve escort without breaking Recall Framework v0.1.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - honor the recall after a 72-hour handover and replace the ship with a lower-readiness Outer-route escort plus revised convoy geometry.
 - framework proves usable under political pressure.
 
@@ -5201,17 +5386,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - honor the recall after a 72-hour handover and replace the ship with a lower-readiness Outer-route escort plus revised convoy geometry.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -5223,24 +5408,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E521 — 오렌 로만의 전선
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e518-524-episode-cards-v1]]
 Date: CY 744-07-09.
 POV / information source: Oren Roman.
@@ -5254,10 +5444,10 @@ keep the civilian/service convoy intact rather than answer a simultaneous Vesper
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - Oren retains all six escorts on the convoy and refuses to detach toward Vesper; he records the choice as his own current command responsibility.
 - convoy screen remains coherent.
 
@@ -5276,17 +5466,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - Oren retains all six escorts on the convoy and refuses to detach toward Vesper; he records the choice as his own current command responsibility.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -5298,24 +5488,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E522 — 사람들이 탄 배의 전투
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e518-524-episode-cards-v1]]
 Date: CY 744-07-11.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -5329,10 +5524,10 @@ defeat/separate the probe without turning civilian ships into bait.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - convoy remains together; one escort damaged 4–6 months; seven injured, two serious; no death; hostile group withdraws after one craft disabled.
 
 **COST_OR_REFUSAL**
@@ -5350,17 +5545,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - UNRESOLVED FROM APPROVED SOURCES
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -5372,24 +5567,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E523 — 지키지 못한 탄약창
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e518-524-episode-cards-v1]]
 Date: CY 744-07-13.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -5403,11 +5603,11 @@ account for the under-resourced Vesper/Outer front.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - the Crown convoy draw was a material contributing factor, not the sole cause; prior recalls and tender/repair limits also mattered.
 - 920 t munitions/countermeasure stock destroyed or made permanently unusable; one route relay damaged 3–5 months; three workers/crew injured, none serious; no death; hostile scouts obtain current response observations.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - 920 t munitions/countermeasure stock destroyed or made permanently unusable; one route relay damaged 3–5 months; three workers/crew injured, none serious; no death; hostile scouts obtain current response observations.
 - publish both protected-person result and uncovered-front cost without making Oren sole villain or hero.
 - allocation tradeoff remains visible.
@@ -5427,10 +5627,10 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - publish both protected-person result and uncovered-front cost without making Oren sole villain or hero.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
@@ -5438,7 +5638,7 @@ Any technical, medical, legal, custody, record, local, affected-party, shipmaste
 - the Crown convoy draw was a material contributing factor, not the sole cause; prior recalls and tender/repair limits also mattered.
 - 920 t munitions/countermeasure stock destroyed or made permanently unusable; one route relay damaged 3–5 months; three workers/crew injured, none serious; no death; hostile scouts obtain current response observations.
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -5450,23 +5650,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-All mandatory execution slots have approved source evidence. Prose-level exact numbers/names/layouts absent from higher sources still remain `UNRESOLVED FROM APPROVED SOURCES`.
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E524 — 모두 도착한 호송선
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e518-524-episode-cards-v1]]
 Date: CY 744-07-15.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -5480,10 +5683,10 @@ UNRESOLVED FROM APPROVED SOURCES
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - 20 ships total; 24,800 people, all accounted/alive; original cargo 6,460 t; permanent loss 380 t; delivered current cargo 6,080 t; one escort damaged 4–6 months; seven injured, two serious; no death.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - classify Crown/civilian mission as valid success with explicit Vesper/Outer cost, not a claim to Crown fleet command.
 - Crown/civilian escort commitment enters Charter precedent.
 
@@ -5503,17 +5706,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - classify Crown/civilian mission as valid success with explicit Vesper/Outer cost, not a claim to Crown fleet command.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - 20 ships total; 24,800 people, all accounted/alive; original cargo 6,460 t; permanent loss 380 t; delivered current cargo 6,080 t; one escort damaged 4–6 months; seven injured, two serious; no death.
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -5525,24 +5728,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- ACTIVE_DESIRE_MAIN exact source label: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- ACTIVE_DESIRE_MAIN: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E525 — 버려진 전선의 사령관
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e525-episode-card-v1]]
 Date: CY 744-07-17.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -5556,11 +5764,11 @@ respond to Asel’s demand for relief, supplies and recognition without transfer
 **ACTIVE_DESIRE_SECONDARY**  
 Vesper cannot provide the full request after recalls, tender damage and Crown mission losses; Ardo sees a credible military partner but wants common battle succession; Sira supports local standing but demands reciprocal burden; Rian’s future memory labels one Outer formation as a later rebel fleet, but current evidence does not establish Asel’s identity or motive.
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - approximately 620 million people depend directly on the protected front systems/routes; local civil authorities, worker networks and defense councils recognize Asel’s current mission command but not a permanent sovereign title.
 - 42 combat ships; 34 support/converted ships; 26 combat ships R2 or better; approximately 310 frames/craft; not Compact/Charter property.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - no ships or supplies transfer yet; shared physical/threat data begins; Asel permits one Neutral/Charter survey team under local escort; Rian is not named overall commander.
 - Outer Front cooperation becomes a real option.
 
@@ -5579,17 +5787,17 @@ Vesper cannot provide the full request after recalls, tender damage and Crown mi
 - accept fact-finding and negotiate a smaller mission package rather than recognize or reject Asel by future label.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -5601,23 +5809,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-All mandatory execution slots have approved source evidence. Prose-level exact numbers/names/layouts absent from higher sources still remain `UNRESOLVED FROM APPROVED SOURCES`.
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E526 — 지도를 먼저 내놓은 사령관
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e526-533-episode-cards-v1]]
 Date: CY 744-07-20.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -5631,10 +5842,10 @@ verify Asel’s threat claims before moving ships or supplies.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - threat is real; some claimed debts are genuine but do not authorize armed route seizure or person/cargo ownership.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - proceed to a named fourteen-day mission negotiation rather than recognize Asel’s permanent command or dismiss him as a future rebel.
 - shared facts and current civilian/service map.
 
@@ -5653,17 +5864,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - proceed to a named fourteen-day mission negotiation rather than recognize Asel’s permanent command or dismiss him as a future rebel.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - threat is real; some claimed debts are genuine but do not authorize armed route seizure or person/cargo ownership.
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -5675,23 +5886,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-All mandatory execution slots have approved source evidence. Prose-level exact numbers/names/layouts absent from higher sources still remain `UNRESOLVED FROM APPROVED SOURCES`.
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E527 — 한 전선에 두 개의 작전권
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e526-533-episode-cards-v1]]
 Date: CY 744-07-22.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -5705,10 +5919,10 @@ divide authority between Asel’s local front and Charter route mission.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - no single battle commander; standing mission intent and boundary handoffs.
 - `Outer Front–Charter Mission Accord 14D` becomes executable.
 
@@ -5727,17 +5941,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - no single battle commander; standing mission intent and boundary handoffs.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -5749,24 +5963,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E528 — 인정하지 않은 명령을 따르는 법
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e526-533-episode-cards-v1]]
 Date: CY 744-07-24.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -5780,10 +5999,10 @@ let ships use current local cues without transferring commission or allegiance.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - Asel’s cues become signed local hazard/target evidence; Charter captains and mission commander issue their own executable orders; immediate physical-defense cue may trigger maneuver/point defense, not pursuit or weapons release beyond current threat.
 - local knowledge becomes operational without command merger.
 
@@ -5802,17 +6021,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - Asel’s cues become signed local hazard/target evidence; Charter captains and mission commander issue their own executable orders; immediate physical-defense cue may trigger maneuver/point defense, not pursuit or weapons release beyond current threat.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -5824,24 +6043,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E529 — 두 곳을 지키는 열여섯 척
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e526-533-episode-cards-v1]]
 Date: CY 744-07-26.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -5855,10 +6079,10 @@ stop simultaneous seizure without abandoning either hospital power or civilian c
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - Asel keeps 6 combat + 4 support at V09; Charter/route group keeps 5 combat + 5 support around V11/V08; 5 combat + 4 support form mobile/relief and rescue elements across both sides.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - accept no decisive pursuit and prioritize hospital power, inhabited convoy and relay continuity.
 - hospital route remains powered and convoy dispersal begins.
 
@@ -5877,17 +6101,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - accept no decisive pursuit and prioritize hospital power, inhabited convoy and relay continuity.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -5899,23 +6123,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-All mandatory execution slots have approved source evidence. Prose-level exact numbers/names/layouts absent from higher sources still remain `UNRESOLVED FROM APPROVED SOURCES`.
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E530 — 아셀 바론이 추격하지 않은 날
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e526-533-episode-cards-v1]]
 Date: CY 744-07-28.
 POV / information source: Asel.
@@ -5929,10 +6156,10 @@ choose between rescuing the isolated corvette/hospital tug and pursuing the Reco
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - hospital tug and 2,480 patients/crew/service users remain supplied; isolated corvette survives but is disabled 9–13 months; threat command ship escapes.
 - Asel abandons the pursuit and commits his reserve to rescue/power-route defense.
 - Asel proves local service obligation over personal battlefield victory.
@@ -5952,17 +6179,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - Asel abandons the pursuit and commits his reserve to rescue/power-route defense.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -5974,24 +6201,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E531 — 회수대상은 사람이 아니다
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e526-533-episode-cards-v1]]
 Date: CY 744-07-30.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -6005,10 +6237,10 @@ protect the convoy from debt-warrant boarding and distinguish current creditor r
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - disable boarding systems and seize only current armed attackers/evidence, not all creditor crews.
 - convoy remains under current captains/users; one threat ship is grounded for later legal custody.
 
@@ -6027,17 +6259,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - disable boarding systems and seize only current armed attackers/evidence, not all creditor crews.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -6049,24 +6281,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E532 — 헌장이 끝난 뒤의 임무
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e526-533-episode-cards-v1]]
 Date: CY 744-07-31 to 08-01.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -6080,10 +6317,10 @@ continue the named mission after Charter v0.1-R2 expires without pretending the 
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - existing accepted ships continue only under the separate fourteen-day mission accord, captain consent and current rescue/safety obligations; Charter-wide institutions enter transition/closeout except current pay, rescue, casualty and evidence duties already owed.
 - no legal vacuum or automatic Charter extension.
 
@@ -6102,17 +6339,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - existing accepted ships continue only under the separate fourteen-day mission accord, captain consent and current rescue/safety obligations; Charter-wide institutions enter transition/closeout except current pay, rescue, casualty and evidence duties already owed.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -6124,24 +6361,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E533 — 열나흘의 승리
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e526-533-episode-cards-v1]]
 Date: CY 744-08-02.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -6155,11 +6397,11 @@ complete the mission, account for every person/cargo/ship and decide what cooper
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - original protected people: 31,600; 7 confirmed dead; 23 injured, 5 serious; 31,593 living people accounted; original cargo 7,800 t; 520 t destroyed/unrecoverable; 7,280 t delivered/currently secured; one Outer corvette disabled 9–13 months; one civilian/service ship damaged 7–11 months; one Charter escort damaged 5–8 months; Recovery Column: 3 ships disabled/captured/sealed, 5 destroyed/abandoned, remaining force withdraws with command ship.
 - Asel accepts that Charter/local/affected-service rules improved rescue/evidence legitimacy; rejects permanent Charter entry or outside theater command; Charter actors accept local operational legitimacy for named missions only.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - G5-F04 Outer Front Cooperation becomes conditional/operational.
 
 **COST_OR_REFUSAL**
@@ -6177,10 +6419,10 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - UNRESOLVED FROM APPROVED SOURCES
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
@@ -6188,7 +6430,7 @@ Any technical, medical, legal, custody, record, local, affected-party, shipmaste
 - original protected people: 31,600; 7 confirmed dead; 23 injured, 5 serious; 31,593 living people accounted; original cargo 7,800 t; 520 t destroyed/unrecoverable; 7,280 t delivered/currently secured; one Outer corvette disabled 9–13 months; one civilian/service ship damaged 7–11 months; one Charter escort damaged 5–8 months; Recovery Column: 3 ships disabled/captured/sealed, 5 destroyed/abandoned, remaining force withdraws with command ship.
 - Asel accepts that Charter/local/affected-service rules improved rescue/evidence legitimacy; rejects permanent Charter entry or outside theater command; Charter actors accept local operational legitimacy for named missions only.
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -6200,23 +6442,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-All mandatory execution slots have approved source evidence. Prose-level exact numbers/names/layouts absent from higher sources still remain `UNRESOLVED FROM APPROVED SOURCES`.
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E534 — 승리한 뒤의 청구서
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e534-540-episode-cards-v1]]
 Date: CY 744-08-04.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -6230,10 +6475,10 @@ account for the joint mission before drafting a new Charter.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-08-04 through 08-23. v0.1-R2 expired July 31. fourteen-day mission accord closed August 2. Charter network before new signatures: 23 combat + 21 support, 14 combat R2+. Outer Front remains separate 42 combat + 34 support before mission damage, with one corvette unavailable 9–13 months. 960 pay/family records unresolved.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - record separate Asel, Charter, civilian/service, creditor and victim responsibilities rather than one joint-command narrative.
 - cooperation credit and loss remain distributed.
 
@@ -6253,17 +6498,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - record separate Asel, Charter, civilian/service, creditor and victim responsibilities rather than one joint-command narrative.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -6275,24 +6520,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E535 — 같은 비율이 공평하지 않다
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e534-540-episode-cards-v1]]
 Date: CY 744-08-07.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -6306,10 +6553,10 @@ create enforceable burdens without making poor/small provinces pay identical hul
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-08-04 through 08-23. v0.1-R2 expired July 31. fourteen-day mission accord closed August 2. Charter network before new signatures: 23 combat + 21 support, 14 combat R2+. Outer Front remains separate 42 combat + 34 support before mission damage, with one corvette unavailable 9–13 months. 960 pay/family records unresolved.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - contribution can be ships, support, route access, repair labor, family service, food/medical cargo or replacement credit; minimum obligation scales by current capacity and mission benefit; wealthy members cannot buy total command, weak members cannot claim zero burden.
 - four provincial groups reopen Charter negotiations.
 
@@ -6328,17 +6575,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - contribution can be ships, support, route access, repair labor, family service, food/medical cargo or replacement credit; minimum obligation scales by current capacity and mission benefit; wealthy members cannot buy total command, weak members cannot claim zero burden.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -6350,24 +6597,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E536 — 함대에 타지 않은 사람의 자리
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e534-540-episode-cards-v1]]
 Date: CY 744-08-10.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -6381,10 +6630,10 @@ define civilian, route, worker and affected-service standing without letting the
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-08-04 through 08-23. v0.1-R2 expired July 31. fourteen-day mission accord closed August 2. Charter network before new signatures: 23 combat + 21 support, 14 combat R2+. Outer Front remains separate 42 combat + 34 support before mission damage, with one corvette unavailable 9–13 months. 960 pay/family records unresolved.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - affected bodies set protected populations/services, prohibited objectives, evacuation/service thresholds and post-loss review; theater/task commanders retain operational allocation inside those limits; current physical/medical/technical stops remain direct.
 - civilian/service legitimacy becomes executable rather than symbolic.
 
@@ -6403,17 +6652,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - affected bodies set protected populations/services, prohibited objectives, evacuation/service thresholds and post-loss review; theater/task commanders retain operational allocation inside those limits; current physical/medical/technical stops remain direct.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -6425,24 +6674,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E537 — 명령은 기간을 넘지 않는다
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e534-540-episode-cards-v1]]
 Date: CY 744-08-13.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -6456,10 +6707,10 @@ keep mission command from becoming permanent through repeated emergency continua
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-08-04 through 08-23. v0.1-R2 expired July 31. fourteen-day mission accord closed August 2. Charter network before new signatures: 23 combat + 21 support, 14 combat R2+. Outer Front remains separate 42 combat + 34 support before mission damage, with one corvette unavailable 9–13 months. 960 pay/family records unresolved.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - every campaign names geography, objectives, accepted ships, start/end, succession, review triggers and extension procedure; commander succession transfers only remaining mission authority; one extension maximum without full resignature; no timeout default into permanent command.
 - Ardo accepts a stronger operational chain inside named campaigns.
 
@@ -6478,17 +6729,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - every campaign names geography, objectives, accepted ships, start/end, succession, review triggers and extension procedure; commander succession transfers only remaining mission authority; one extension maximum without full resignature; no timeout default into permanent command.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -6500,24 +6751,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E538 — 여덟 척과 여섯 척의 조건
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e534-540-episode-cards-v1]]
 Date: CY 744-08-16.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -6531,10 +6784,10 @@ expand Charter capacity without adding Asel’s fleet as owned inventory.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-08-04 through 08-23. v0.1-R2 expired July 31. fourteen-day mission accord closed August 2. Charter network before new signatures: 23 combat + 21 support, 14 combat R2+. Outer Front remains separate 42 combat + 34 support before mission damage, with one corvette unavailable 9–13 months. 960 pay/family records unresolved.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - a larger campaign envelope becomes possible.
 
 **COST_OR_REFUSAL**
@@ -6552,17 +6805,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - UNRESOLVED FROM APPROVED SOURCES
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - 31 combat; 27 support; 21 combat R2+.
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -6574,24 +6827,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E539 — 끝까지 남은 칠백이십 건
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e534-540-episode-cards-v1]]
 Date: CY 744-08-19.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -6605,10 +6860,10 @@ reduce current pay/family exclusions before v0.2 enactment.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - 720 remain unresolved/manual/unfunded.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - 720 remain unresolved/manual/unfunded.
 - new burden contributors clear 240 cases through current household evidence and regional service credits.
 - several crews accept named campaign service.
@@ -6628,17 +6883,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - new burden contributors clear 240 cases through current household evidence and regional service credits.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - 720 remain unresolved/manual/unfunded.
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -6650,23 +6905,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-All mandatory execution slots have approved source evidence. Prose-level exact numbers/names/layouts absent from higher sources still remain `UNRESOLVED FROM APPROVED SOURCES`.
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E540 — 공동전단헌장 0.2
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e534-540-episode-cards-v1]]
 Date: CY 744-08-23.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -6680,10 +6938,10 @@ enact Charter v0.2 and close Act 5C without creating a permanent navy or soverei
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-08-04 through 08-23. v0.1-R2 expired July 31. fourteen-day mission accord closed August 2. Charter network before new signatures: 23 combat + 21 support, 14 combat R2+. Outer Front remains separate 42 combat + 34 support before mission damage, with one corvette unavailable 9–13 months. 960 pay/family records unresolved.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - Charter v0.2 becomes operational and Act 5C closes.
 
 **COST_OR_REFUSAL**
@@ -6701,17 +6959,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - UNRESOLVED FROM APPROVED SOURCES
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -6723,24 +6981,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E541 — 같은 작전을 다섯 번 설명한다
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e541-547-episode-cards-v1]]
 Date: CY 744-08-24.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -6754,10 +7014,10 @@ define shared campaign intent that each formation can execute without one owner.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - publish front-specific objectives and prohibited actions rather than one vague “defend the theater” order.
 - formations can act under isolation.
 
@@ -6776,17 +7036,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - publish front-specific objectives and prohibited actions rather than one vague “defend the theater” order.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -6798,24 +7058,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E542 — 한 척도 두 전선에 있을 수 없다
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e541-547-episode-cards-v1]]
 Date: CY 744-08-27.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -6829,10 +7094,10 @@ eliminate double-booked ships and support promises.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - each hull has one primary front, one bounded fallback and explicit transfer authority; no commander may count a ship before captain/formation acceptance and current readiness confirmation.
 - the campaign has a real OOB instead of political promises.
 
@@ -6851,17 +7116,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - each hull has one primary front, one bounded fallback and explicit transfer authority; no commander may count a ship before captain/formation acceptance and current readiness confirmation.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -6873,24 +7138,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E543 — 부족하게 지키기로 한 곳
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e541-547-episode-cards-v1]]
 Date: CY 744-08-30.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -6904,10 +7174,10 @@ choose which front receives knowingly insufficient support.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - Ardo / Vesper–Concord: 9 combat + 6 support; Asel / Outer–Orpheus: 9 combat + 7 support; Sira / Talren–Provincial: 7 combat + 7 support; Oren / Civilian Chain: 5 combat + 5 support; Rian / Grey Route mobile: 8 combat + 5 support; reserve: 2 combat + 4 support. R2+ distribution: Ardo 7; Asel 7; Sira 5; Oren 3; Rian 5; reserve 1; total 28.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - under-resource Civilian Chain relative to its requested minimum because Vesper and V09 route seizure risks are judged more immediate.
 - every front has a current executable force.
 
@@ -6926,17 +7196,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - under-resource Civilian Chain relative to its requested minimum because Vesper and V09 route seizure risks are judged more immediate.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -6948,23 +7218,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-All mandatory execution slots have approved source evidence. Prose-level exact numbers/names/layouts absent from higher sources still remain `UNRESOLVED FROM APPROVED SOURCES`.
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E544 — 각자 지휘하는 같은 작전
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e541-547-episode-cards-v1]]
 Date: CY 744-09-01.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -6978,10 +7251,10 @@ define formation succession and autonomous action under communications loss.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - each front has its own commander, alternate, standing intent, safety/withdrawal rules and reporting boundary; Rian coordinates Grey Route/mobile mission and cross-front route timing only; no real-time overall tactical command.
 - fronts can continue independently.
 
@@ -7000,17 +7273,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - each front has its own commander, alternate, standing intent, safety/withdrawal rules and reporting boundary; Rian coordinates Grey Route/mobile mission and cross-front route timing only; no real-time overall tactical command.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -7022,24 +7295,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E545 — 끊긴 명령을 위한 규칙
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e541-547-episode-cards-v1]]
 Date: CY 744-09-03.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -7053,10 +7331,10 @@ prepare for authentication isolation without restoring one root key.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - accept slower but bounded local execution; Dor/Isa provide verification services without owning campaign command.
 - no single network failure stops all fronts.
 
@@ -7075,17 +7353,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - accept slower but bounded local execution; Dor/Isa provide verification services without owning campaign command.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -7097,24 +7375,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E546 — 남겨둔 탄약
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e541-547-episode-cards-v1]]
 Date: CY 744-09-05.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -7128,10 +7411,10 @@ allocate missiles/countermeasures after prior 920 t loss and quarantine.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - preserve a shared reserve rather than fully arm every front; Ardo and Asel receive highest immediate combat loads; Oren/Civilian Chain receives 0.7 major-action equivalent plus stronger disengagement/rescue rules; reserve release requires current threat evidence and two-function confirmation.
 - campaign retains one emergency reserve.
 
@@ -7150,17 +7433,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - preserve a shared reserve rather than fully arm every front; Ardo and Asel receive highest immediate combat loads; Oren/Civilian Chain receives 0.7 major-action equivalent plus stronger disengagement/rescue rules; reserve release requires current threat evidence and two-function confirmation.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -7172,24 +7455,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E547 — 출항한 공동전단
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e541-547-episode-cards-v1]]
 Date: CY 744-09-07.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -7203,10 +7491,10 @@ launch all five fronts under Charter v0.2 and Asel’s separate annex.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - UNRESOLVED FROM APPROVED SOURCES
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - accept lawful home-defense trigger, but require current evidence, notice and rescue/asset handover before withdrawal when possible.
 - first multi-front ownerless-fleet campaign begins.
 
@@ -7225,17 +7513,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - accept lawful home-defense trigger, but require current evidence, notice and rescue/asset handover before withdrawal when possible.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -7247,24 +7535,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E548 — 네 전선이 동시에 혼자가 된다
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e548-550-episode-cards-v1]]
 Date: CY 744-09-09.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -7278,10 +7571,10 @@ preserve mission boundaries and inhabited-service protection during coordinated 
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-09-09 through 09-13. campaign envelope: 40 combat + 34 support, 28 combat R2+. four fronts lose cross-front authentication for 24–41 minutes during the opening attack. no overall real-time commander.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - no front expands mission scope or claims emergency authority over another.
 - coordinated spoof does not collapse the campaign.
 
@@ -7300,17 +7593,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - no front expands mission scope or claims emergency authority over another.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -7322,24 +7615,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E549 — 아셀이 이긴 전선
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e548-550-episode-cards-v1]]
 Date: CY 744-09-11.
 POV / information source: Asel Varon and Lio Saren.
@@ -7353,10 +7648,10 @@ prevent seizure of V09 service anchor and hospital-power route while isolated fr
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-09-09 through 09-13. campaign envelope: 40 combat + 34 support, 28 combat R2+. four fronts lose cross-front authentication for 24–41 minutes during the opening attack. no overall real-time commander.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - 4 hostile ships disabled/captured/sealed; 3 withdraw; V09 service anchor and hospital route remain active; 620,000 directly exposed users avoid power/service interruption; two Outer ships damaged 2–4 months; nine injured, two serious; no death.
 - autonomous-front victory record begins.
 
@@ -7375,17 +7670,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - UNRESOLVED FROM APPROVED SOURCES
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -7397,24 +7692,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E550 — 하나뿐인 예비대
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e548-550-episode-cards-v1]]
 Date: CY 744-09-13.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -7428,10 +7725,10 @@ decide how reserve authority works when two fronts present valid current emergen
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [APPROVED SECTION CARRIER EVIDENCE] [End State E550] multi-front campaign active, not resolved; Asel autonomous victory recorded; no Rian overall command; reserve split and delayed; Civilian Chain remains under-resourced; final campaign losses, under-resourced-front result, Charter v1.0 and Orpheus bridge remain for E551–570.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - reserve is not captured by rank or proximity alone.
 - no Rian unilateral choice; current evidence, affected-service thresholds, mission intent and formation availability are compared; temporary ruling sends 1 combat + 2 support toward Vesper immediately and holds 1 combat + 2 support at a transfer junction pending V10 physical update.
 
@@ -7450,17 +7747,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - no Rian unilateral choice; current evidence, affected-service thresholds, mission intent and formation availability are compared; temporary ruling sends 1 combat + 2 support toward Vesper immediately and holds 1 combat + 2 support at a transfer junction pending V10 physical update.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -7472,24 +7769,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E551 — 예비대가 향한 곳
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e551-554-episode-cards-v1]]
 Date: CY 744-09-15.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -7503,10 +7802,10 @@ release the held reserve between Vesper relay defense and Civilian Chain.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - Vesper relay threat is serious but local Ardo formation retains 7 R2+ combat hulls and fixed defense; V10 has 46,200 people, weak point defense, 0.7 major-action ammunition and no alternate route within 21 hours.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - affected-service threshold and physical route data send the held 1 combat +2 support reserve to V10; Vesper receives only the already dispatched 1 combat +2 support.
 - V10 gains late reinforcement and rescue capacity.
 
@@ -7525,17 +7824,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - affected-service threshold and physical route data send the held 1 combat +2 support reserve to V10; Vesper receives only the already dispatched 1 combat +2 support.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - Vesper relay threat is serious but local Ardo formation retains 7 R2+ combat hulls and fixed defense; V10 has 46,200 people, weak point defense, 0.7 major-action ammunition and no alternate route within 21 hours.
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -7547,23 +7846,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-All mandatory execution slots have approved source evidence. Prose-level exact numbers/names/layouts absent from higher sources still remain `UNRESOLVED FROM APPROVED SOURCES`.
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E552 — 시라 케온이 추격하지 않은 이유
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e551-554-episode-cards-v1]]
 Date: CY 744-09-18.
 POV / information source: Sira Keon and provincial captains.
@@ -7577,10 +7879,10 @@ decide whether to pursue a hostile scout group or protect a food/guardianship co
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-09-15 through 09-24. campaign envelope 40 combat +34 support, 28 combat R2+. reserve 2 combat +4 support: 1 combat +2 support already moving toward Vesper; 1 combat +2 support held at transfer junction. Civilian Chain has 18 civilian/service ships and 46,200 people under larger-than-modeled contact.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - all 12,600 people and 3,800 t arrive; one provincial escort damaged 3–5 months; four injured, none serious; no death; scout group escapes with route observations.
 - Sira rejects pursuit and uses her formation to cover the convoy and verify the home alert before recall.
 - a second autonomous-front success under Charter standing intent.
@@ -7600,17 +7902,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - Sira rejects pursuit and uses her formation to cover the convoy and verify the home alert before recall.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -7622,24 +7924,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E553 — 아르도가 지킨 중계기
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e551-554-episode-cards-v1]]
 Date: CY 744-09-21.
 POV / information source: Ardo Rev and Vesper formation.
@@ -7653,10 +7957,10 @@ preserve relay/repair traffic without the held reserve.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-09-15 through 09-24. campaign envelope 40 combat +34 support, 28 combat R2+. reserve 2 combat +4 support: 1 combat +2 support already moving toward Vesper; 1 combat +2 support held at transfer junction. Civilian Chain has 18 civilian/service ships and 46,200 people under larger-than-modeled contact.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - relay remains operational at 82% current capacity; two hostile ships disabled, three withdraw; one Charter combat ship damaged 6–9 months; six injured, one serious; no death; 18% of Vesper campaign missile/countermeasure reserve spent.
 - Ardo uses the arriving 1 combat +2 support reserve as rear rescue/repair cover and commits his own high-readiness ships to a short centralized intercept.
 - Ardo’s fast local chain proves materially useful.
@@ -7676,17 +7980,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - Ardo uses the arriving 1 combat +2 support reserve as rear rescue/repair cover and commits his own high-readiness ships to a short centralized intercept.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -7698,24 +8002,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E554 — 길을 닫고 전투를 끝내지 못하다
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e551-554-episode-cards-v1]]
 Date: CY 744-09-24.
 POV / information source: Rian, Grey Route captains and local operators.
@@ -7729,10 +8035,10 @@ cut hostile reinforcement through V11 without closing rescue/civilian access or 
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-09-15 through 09-24. campaign envelope 40 combat +34 support, 28 combat R2+. reserve 2 combat +4 support: 1 combat +2 support already moving toward Vesper; 1 combat +2 support held at transfer junction. Civilian Chain has 18 civilian/service ships and 46,200 people under larger-than-modeled contact.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - hostile reinforcement arrival slows 14–19 hours; one Charter support ship damaged 2–4 months during relay capture; three injured, none serious; no death; no enemy command element trapped yet.
 - close two armed transit vectors, preserve one verified rescue/service corridor and mark physical/courier challenges for allied fronts.
 - campaign fronts gain time and evidence.
@@ -7752,17 +8058,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - close two armed transit vectors, preserve one verified rescue/service corridor and mark physical/courier challenges for allied fronts.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -7774,24 +8080,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E555 — 예상보다 큰 접촉
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e555-563-episode-cards-v1]]
 Date: CY 744-09-26.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -7805,10 +8113,10 @@ determine whether V10 can disengage before the reserve arrives.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - threat is 12 armed ships, not the modeled 7–9; one route relay is already compromised; V10 has 0.7 major-action ammunition and no alternate route within 21 hours.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - Oren initiates staged civilian dispersal and defensive withdrawal rather than seek decisive engagement.
 - convoy ships begin separating into three current routes.
 
@@ -7827,17 +8135,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - Oren initiates staged civilian dispersal and defensive withdrawal rather than seek decisive engagement.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - threat is 12 armed ships, not the modeled 7–9; one route relay is already compromised; V10 has 0.7 major-action ammunition and no alternate route within 21 hours.
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -7849,23 +8157,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-All mandatory execution slots have approved source evidence. Prose-level exact numbers/names/layouts absent from higher sources still remain `UNRESOLVED FROM APPROVED SOURCES`.
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E556 — 셀라 루크의 명령
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e555-563-episode-cards-v1]]
 Date: CY 744-09-28.
 POV / information source: Sela Ruk, Crown Guard operations/evacuation officer.
@@ -7879,10 +8190,10 @@ correct the forged return order while Oren’s combat screen is engaged.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [V10 Current Set — shared source state] Dates: CY 744-09-26 through 10-15. Protected convoy/service set: 18 civilian/service ships; 46,200 passengers, civilian crew and service workers; 9,600 t food, medicine, habitat, court and route-service cargo. Oren/Crown/Charter front persons: 742 combat/support/rescue crew across the current 6 combat + 7 support force after reserve arrival; total persons inside the V10 battle/evacuation envelope: 46,942. Threat: 12 armed ships; 26 drones/boarding craft; Recovery Column remnants plus aligned route-seizure/security contractors.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - Sela invokes standing civilian-protection authority, splits the convoy into medical/family, service-cargo and high-thrust groups, and assigns local captains direct route choice within the evacuation envelope.
 - fourteen civilian/service ships clear the first kill/boarding geometry.
 
@@ -7901,17 +8212,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - Sela invokes standing civilian-protection authority, splits the convoy into medical/family, service-cargo and high-thrust groups, and assigns local captains direct route choice within the evacuation envelope.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -7923,24 +8234,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E557 — 사라진 중계기
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e555-563-episode-cards-v1]]
 Date: CY 744-10-01.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -7954,10 +8267,10 @@ preserve the rear group after the relay fails and the reserve remains hours away
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [V10 Current Set — shared source state] Dates: CY 744-09-26 through 10-15. Protected convoy/service set: 18 civilian/service ships; 46,200 passengers, civilian crew and service workers; 9,600 t food, medicine, habitat, court and route-service cargo. Oren/Crown/Charter front persons: 742 combat/support/rescue crew across the current 6 combat + 7 support force after reserve arrival; total persons inside the V10 battle/evacuation envelope: 46,942. Threat: 12 armed ships; 26 drones/boarding craft; Recovery Column remnants plus aligned route-seizure/security contractors.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - one combat escort destroyed; one civilian/service ship destroyed after evacuation of most occupants; 26 confirmed deaths: 14 combat/support crew; 12 civilian/service persons; 58 injured, 11 serious; one additional combat escort damaged 7–10 months; two civilian/service ships damaged 7–12 months; V10 relay disabled 10–16 months.
 - the remaining convoy avoids capture and mass-casualty boarding.
 
@@ -7976,17 +8289,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - UNRESOLVED FROM APPROVED SOURCES
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -7998,24 +8311,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E558 — 늦게 도착한 예비대
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e555-563-episode-cards-v1]]
 Date: CY 744-10-03.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -8029,10 +8344,10 @@ use 1 combat + 2 support reserve to rescue survivors and prevent a second loss.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [V10 Current Set — shared source state] Dates: CY 744-09-26 through 10-15. Protected convoy/service set: 18 civilian/service ships; 46,200 passengers, civilian crew and service workers; 9,600 t food, medicine, habitat, court and route-service cargo. Oren/Crown/Charter front persons: 742 combat/support/rescue crew across the current 6 combat + 7 support force after reserve arrival; total persons inside the V10 battle/evacuation envelope: 46,942. Threat: 12 armed ships; 26 drones/boarding craft; Recovery Column remnants plus aligned route-seizure/security contractors.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - all 46,916 living people inside the original 46,942-person envelope are accounted; one reserve support ship damaged 3–5 months; no additional death; 1,140 t cargo is permanently lost; 8,460 t delivered or secured for later movement.
 - reserve prioritizes rescue, pressure stabilization and a disengagement corridor instead of joining pursuit.
 - living survivors and remaining ships escape capture.
@@ -8052,17 +8367,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - reserve prioritizes rescue, pressure stabilization and a disengagement corridor instead of joining pursuit.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -8074,24 +8389,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E559 — 죽은 사람 뒤의 우선순위
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e555-563-episode-cards-v1]]
 Date: CY 744-10-05.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -8105,10 +8422,10 @@ decide whether to spend the last transferable missile/countermeasure batch on V1
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [V10 Current Set — shared source state] Dates: CY 744-09-26 through 10-15. Protected convoy/service set: 18 civilian/service ships; 46,200 passengers, civilian crew and service workers; 9,600 t food, medicine, habitat, court and route-service cargo. Oren/Crown/Charter front persons: 742 combat/support/rescue crew across the current 6 combat + 7 support force after reserve arrival; total persons inside the V10 battle/evacuation envelope: 46,942. Threat: 12 armed ships; 26 drones/boarding craft; Recovery Column remnants plus aligned route-seizure/security contractors.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - current affected-service and threat evidence assign the batch to protect V10 withdrawal and then support a bounded cross-front interdiction; no revenge pursuit or permanent command transfer.
 - V10 surviving ships gain safe exit timing.
 
@@ -8127,17 +8444,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - current affected-service and threat evidence assign the batch to protect V10 withdrawal and then support a bounded cross-front interdiction; no revenge pursuit or permanent command transfer.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -8149,24 +8466,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E560 — 서로 다른 이유로 닫힌 길
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e555-563-episode-cards-v1]]
 Date: CY 744-10-08.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -8180,10 +8499,10 @@ close three reinforcement/escape vectors without one overall commander.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [V10 Current Set — shared source state] Dates: CY 744-09-26 through 10-15. Protected convoy/service set: 18 civilian/service ships; 46,200 passengers, civilian crew and service workers; 9,600 t food, medicine, habitat, court and route-service cargo. Oren/Crown/Charter front persons: 742 combat/support/rescue crew across the current 6 combat + 7 support force after reserve arrival; total persons inside the V10 battle/evacuation envelope: 46,942. Threat: 12 armed ships; 26 drones/boarding craft; Recovery Column remnants plus aligned route-seizure/security contractors.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - route-seizure forces lose synchronized movement and support.
 
 **COST_OR_REFUSAL**
@@ -8201,17 +8520,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - UNRESOLVED FROM APPROVED SOURCES
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -8223,24 +8542,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E561 — 한 명의 제독이 없는 포위
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e555-563-episode-cards-v1]]
 Date: CY 744-10-10.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -8254,10 +8575,10 @@ disable the command element through front handoffs rather than a single central 
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [V10 Current Set — shared source state] Dates: CY 744-09-26 through 10-15. Protected convoy/service set: 18 civilian/service ships; 46,200 passengers, civilian crew and service workers; 9,600 t food, medicine, habitat, court and route-service cargo. Oren/Crown/Charter front persons: 742 combat/support/rescue crew across the current 6 combat + 7 support force after reserve arrival; total persons inside the V10 battle/evacuation envelope: 46,942. Threat: 12 armed ships; 26 drones/boarding craft; Recovery Column remnants plus aligned route-seizure/security contractors.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - command ship disabled and sealed as evidence; three escorts disabled; three escorts withdraw with Rasa Ked and surviving crews; one Charter combat ship damaged 5–8 months; seven injured, one serious; no additional death.
 - route-seizure network loses coordinated theater capability for the current campaign.
 
@@ -8276,17 +8597,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - UNRESOLVED FROM APPROVED SOURCES
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -8298,24 +8619,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E562 — 영웅 함대의 거짓말
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e555-563-episode-cards-v1]]
 Date: CY 744-10-12.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -8329,10 +8652,10 @@ publish a current multi-front record before later propaganda compresses the camp
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - Asel/Lio/local V09 defense; Sira’s convoy and fork decisions; Ardo’s relay/intercept command; Oren/Sela’s V10 evacuation and loss; Rian’s route timing/closure; workers, captains, support and rescue execution.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - publish front-specific objectives, losses, orders, refusals and counterfactuals rather than one victory owner.
 - G5-X01 hero-fleet compression clue advances with a preserved contradictory record.
 
@@ -8351,17 +8674,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - publish front-specific objectives, losses, orders, refusals and counterfactuals rather than one victory owner.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -8373,23 +8696,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-All mandatory execution slots have approved source evidence. Prose-level exact numbers/names/layouts absent from higher sources still remain `UNRESOLVED FROM APPROVED SOURCES`.
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E563 — 이긴 전역의 빈 창고
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
 Source Card: [[ga5-e555-563-episode-cards-v1]]
 Date: CY 744-10-15.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -8403,11 +8729,11 @@ UNRESOLVED FROM APPROVED SOURCES
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - all five protected route/depot objectives remain in friendly/current service custody; coordinated route seizure fails; Recovery Column Nine loses current theater coordination but survives as a legal/financial/armed network.
 - 26 dead; 58 injured, 11 serious; all 46,916 living accounted; one combat escort destroyed; one civilian/service ship destroyed; one combat escort damaged 7–10 months; two service ships damaged 7–12 months; one reserve support ship damaged 3–5 months; V10 relay disabled 10–16 months; 1,140 t cargo lost; 8,460 t delivered/secured … [source continues]
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - distributed campaign succeeds and preserves autonomous formation legitimacy.
 
 **COST_OR_REFUSAL**
@@ -8425,10 +8751,10 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - UNRESOLVED FROM APPROVED SOURCES
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
@@ -8436,7 +8762,7 @@ Any technical, medical, legal, custody, record, local, affected-party, shipmaste
 - all five protected route/depot objectives remain in friendly/current service custody; coordinated route seizure fails; Recovery Column Nine loses current theater coordination but survives as a legal/financial/armed network.
 - 26 dead; 58 injured, 11 serious; all 46,916 living accounted; one combat escort destroyed; one civilian/service ship destroyed; one combat escort damaged 7–10 months; two service ships damaged 7–12 months; one reserve support ship damaged 3–5 months; V10 relay disabled 10–16 months; 1,140 t cargo lost; 8,460 t delivered/secured. Other opening/final-front costs in E548–563: two Outer ships damaged 2–4 months, nine injured; one Sira escort damaged 3–5 months, four injured; one Ardo combat ship damaged 6–9 months, six injured; one Grey support ship damaged 2–4 months, three injured; one final-intercept Charter combat ship damaged 5–8 months, seven injured … [source continues]
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -8448,24 +8774,29 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- ACTIVE_DESIRE_MAIN exact source label: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
+
+Unresolved mandatory fields:
+- ACTIVE_DESIRE_MAIN: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: NO — semantic review required`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E564 — 승리한 함대의 사망자 명단
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e564-570-episode-cards-v1]]
 Date: CY 744-10-17.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -8479,10 +8810,10 @@ account for campaign deaths, injuries, ships, cargo, ammunition and decisions be
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-10-17 through 10-31. Charter v0.2 expires October 31. campaign objectives held, but V10 relay and major ships/cargo/people are lost. transferable ammunition/countermeasure stock approximately 0.42 major-theater-action equivalent. 720 pay/family cases unresolved.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - preserve separate front records and current causal ranges; no single victory owner or sole blame assignment.
 - claims, command decisions and autonomous successes remain traceable.
 
@@ -8503,17 +8834,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - preserve separate front records and current causal ranges; no single victory owner or sole blame assignment.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -8525,24 +8856,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E565 — 남은 사백팔십 건
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e564-570-episode-cards-v1]]
 Date: CY 744-10-20.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -8556,10 +8889,10 @@ close the GA5 current pay/family review without pretending full pension and reco
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
 - 480 remain unresolved/manual/unfunded; all campaign deaths and serious injuries receive minimum current care/death/family authorization, not full lifetime compensation.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - 480 remain unresolved/manual/unfunded; all campaign deaths and serious injuries receive minimum current care/death/family authorization, not full lifetime compensation.
 - pooled current contribution, casualty priority, household evidence and regional service credits clear 240 more cases.
 - no dead/injured cohort is omitted from the current system.
@@ -8579,17 +8912,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - pooled current contribution, casualty priority, household evidence and regional service credits clear 240 more cases.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - 480 remain unresolved/manual/unfunded; all campaign deaths and serious injuries receive minimum current care/death/family authorization, not full lifetime compensation.
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -8601,23 +8934,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-All mandatory execution slots have approved source evidence. Prose-level exact numbers/names/layouts absent from higher sources still remain `UNRESOLVED FROM APPROVED SOURCES`.
+Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E566 — 네 종류의 참가자
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e564-570-episode-cards-v1]]
 Date: CY 744-10-23.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -8631,10 +8967,10 @@ build a network large enough for future crises without converting every particip
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-10-17 through 10-31. Charter v0.2 expires October 31. campaign objectives held, but V10 relay and major ships/cargo/people are lost. transferable ammunition/countermeasure stock approximately 0.42 major-theater-action equivalent. 720 pay/family cases unresolved.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - each hull appears in exactly one category at a time, with separate title, pay, mission, weapons, support and exit states.
 - macro ownerless-fleet target is reached without universal membership.
 
@@ -8653,17 +8989,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - each hull appears in exactly one category at a time, with separate title, pay, mission, weapons, support and exit states.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -8675,24 +9011,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E567 — 아셀이 들어오지 않은 함대
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e564-570-episode-cards-v1]]
 Date: CY 744-10-25.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -8706,10 +9044,10 @@ resolve major formation choices and command standing.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-10-17 through 10-31. Charter v0.2 expires October 31. campaign objectives held, but V10 relay and major ships/cargo/people are lost. transferable ammunition/countermeasure stock approximately 0.42 major-theater-action equivalent. 720 pay/family cases unresolved.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - major formations join without erasing institutional differences.
 - Asel signs a mission-specific/reciprocal annex for 18 combat + 14 support, 12 R2+, retaining Outer local command and nonmembership; Ardo signs full Charter with stronger named-operation command/succession clauses; Sira splits provincial participation between full and reciprocal categories; Oren signs full civilian-protection/mission terms; Tav’s tenders/yards split between full support and rescue/maintenance-only network; Messa’s crew/pay/rescue office applies across categories only where participants accept current protocols.
 
@@ -8728,17 +9066,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - Asel signs a mission-specific/reciprocal annex for 18 combat + 14 support, 12 R2+, retaining Outer local command and nonmembership; Ardo signs full Charter with stronger named-operation command/succession clauses; Sira splits provincial participation between full and reciprocal categories; Oren signs full civilian-protection/mission terms; Tav’s tenders/yards split between full support and rescue/maintenance-only network; Messa’s crew/pay/rescue office applies across categories only where participants accept current protocols.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -8750,24 +9088,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E568 — 공동전단헌장 1.0
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e564-570-episode-cards-v1]]
 Date: CY 744-10-27.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -8781,10 +9121,10 @@ finalize operational rules before v0.2 expires.
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-10-17 through 10-31. Charter v0.2 expires October 31. campaign objectives held, but V10 relay and major ships/cargo/people are lost. transferable ammunition/countermeasure stock approximately 0.42 major-theater-action equivalent. 720 pay/family cases unresolved.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - Charter v1.0 is ready to become operational.
 
 **COST_OR_REFUSAL**
@@ -8802,17 +9142,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - UNRESOLVED FROM APPROVED SOURCES
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -8824,24 +9164,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E569 — 오르페우스로 향하는 사람들
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e564-570-episode-cards-v1]]
 Date: CY 744-10-29.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -8855,10 +9197,10 @@ establish current Orpheus Approach facts without deciding GA6 evacuation policy 
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-10-17 through 10-31. Charter v0.2 expires October 31. campaign objectives held, but V10 relay and major ships/cargo/people are lost. transferable ammunition/countermeasure stock approximately 0.42 major-theater-action equivalent. 720 pay/family cases unresolved.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - send fact-finding, route, medical and manifest teams without selecting a priority plan or central owner.
 - GA6 begins from current evidence rather than future-memory certainty.
 
@@ -8877,17 +9219,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - send fact-finding, route, medical and manifest teams without selecting a priority plan or central owner.
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -8899,24 +9241,26 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
 
 ## E570 — 주인 없는 함대
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
+CONTEXT READINESS: **READY**
 Source Card: [[ga5-e564-570-episode-cards-v1]]
 Date: CY 744-10-31.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -8930,10 +9274,10 @@ close GA5 with Charter v1.0 authorized, current fleet states separated and Orphe
 **ACTIVE_DESIRE_SECONDARY**  
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
-**PHYSICAL_ANCHOR — approved carrier/evidence**
-- UNRESOLVED FROM APPROVED SOURCES
+**PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
+- [SHARED APPROVED SOURCE-STATE CARRIER] [Shared Starting State — shared source state] dates: CY 744-10-17 through 10-31. Charter v0.2 expires October 31. campaign objectives held, but V10 relay and major ships/cargo/people are lost. transferable ammunition/countermeasure stock approximately 0.42 major-theater-action equivalent. 720 pay/family cases unresolved.
 
-**STATE_CHANGE — derived only from approved result/decision/reward fields**
+**STATE_CHANGE**
 - ownerless fleet network and Charter v1.0.
 
 **COST_OR_REFUSAL**
@@ -8951,17 +9295,17 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - UNRESOLVED FROM APPROVED SOURCES
 
 **CURRENT_OWNER_OF_DECISION**  
-Use only the actor/institution explicitly attached to the decisive choice in the source card or higher authority documents. If the card states a decision without naming its legal/physical owner, owner remains `UNRESOLVED FROM APPROVED SOURCES`; the compiler never defaults ownership to Rian.
+Only the actor/institution explicitly attached to the decisive choice in the source/higher authority may own it. If ownership is not explicit, it stays unresolved; never default it to Rian.
 
 **RIAN_CANNOT_OVERRIDE**  
-Any technical, medical, legal, custody, record, local, affected-party, shipmaster, command or consent authority explicitly owned by another actor/institution in the source card/higher state. Context compilation never migrates that authority to Rian.
+Existing technical, medical, legal, custody, record, local, affected-party, shipmaster, command and consent authority outside Rian remains outside him. Context compilation cannot transfer it.
 
 ### Information / payoff ceiling
 
 **SOURCE_INFORMATION_EVIDENCE**
 - NONE
 
-Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-card findings remain literally available, but a lower tag/open plant window cannot be promoted into an earlier explanatory reveal by this Context Pack.
+Locked mystery/payoff ledgers outrank lower card tags. A source finding may be used literally, but Context compilation cannot turn a setup/teaser into an earlier explanatory reveal.
 
 ### Carry ledgers
 
@@ -8973,17 +9317,18 @@ Formal mystery/clue/payoff accounting follows the highest locked ledger. Source-
 
 **SPECIALIST_PANEL / SOURCE CHECK:** N/A — source card does not store a panel
 
-### Unsupported exacts / source-precedence guard
+### Derivation / unsupported-exact guard
 
-These execution details are not explicit enough in the parsed source. They remain unresolved rather than being invented:
-- PHYSICAL_ANCHOR concrete carrier: `UNRESOLVED FROM APPROVED SOURCES`
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED
+
+Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: YES — source-bound execution layer only`
+`CONTEXT READY: YES`
 
-This readiness does **not** authorize manuscript drafting, AUTHOR-APPROVED status, publication or canon mutation.
+Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
 ---
