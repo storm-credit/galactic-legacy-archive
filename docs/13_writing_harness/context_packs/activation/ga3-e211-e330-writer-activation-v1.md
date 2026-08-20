@@ -951,8 +951,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: Toma accepts less centralized data and a slower preclearance sequence rather than demand total household records.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Toma
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Toma accepts less centralized data and a slower preclearance sequence rather than demand total household records.
@@ -981,7 +981,7 @@ the redesigned sequence requires one exterior receiving branch to be inspected, 
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Failure reconstruction** — Toma separates traffic clearance, current cargo state, receiving physical state, user/service standing and local distribution capacity … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Failure reconstruction** — Toma separates traffic clearance, current cargo state, receiving physical state, user/service standing and local distribution capacity … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -1647,8 +1647,8 @@ Toma, Luma Pell and exterior frame teams.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: Toma stops the entire inspection, accepts that his continuation decision was wrong and preserves all logs for worker/civic review.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Toma
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Toma stops the entire inspection, accepts that his continuation decision was wrong and preserves all logs for worker/civic review.
@@ -1677,7 +1677,7 @@ Foundry workers refuse further Spine parts until pay, injury responsibility and 
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Current evidence** — two direct sensors are good, one indirect estimate is stale and a service-conduit brace shows acceptable load in the model but no current intern … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Current evidence** — two direct sensors are good, one indirect estimate is stale and a service-conduit brace shows acceptable load in the model but no current intern … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -2169,8 +2169,8 @@ Della Wen, Savo Nir, displaced households and Civic housing staff.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: Della accepts current-use evidence and appeal instead of lease-only clearance, while refusing to declare all claimants permanent residents.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Della
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Della accepts current-use evidence and appeal instead of lease-only clearance, while refusing to declare all claimants permanent residents.
@@ -2199,7 +2199,7 @@ twelve children placed outside their original district are denied school entry b
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Three counts** — 167 confirmed current occupants, 24 additional habitual-use claims and 9 disputed/duplicate claims compete for 132 immediately available replacement … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Three counts** — 167 confirmed current occupants, 24 additional habitual-use claims and 9 disputed/duplicate claims compete for 132 immediately available replacement … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -3619,8 +3619,8 @@ Rian, Sella, local commanders and the three-body board.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: Rian refuses the implied overall command and submits the plan to local modification.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Rian
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Rian refuses the implied overall command and submits the plan to local modification.
@@ -3649,7 +3649,7 @@ one cutter detachment states it will not accept orders from Transit/Foundry dele
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Rian’s plan** — four-sector defense, mobile reserve, early patrol concentration and current Spine B denial boundary … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Rian’s plan** — four-sector defense, mobile reserve, early patrol concentration and current Spine B denial boundary … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -3909,8 +3909,8 @@ Seva Lok, depot workers, Mia and Helix convoy service staff.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current medical/care authority together with patient/affected-party consent where applicable; identify the performer/signatory/refuser from this exact source decision beat: Seva uses Helix’s own service rule to keep patient supply moving without surrendering the whole depot.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Seva
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Seva uses Helix’s own service rule to keep patient supply moving without surrendering the whole depot.
@@ -3939,7 +3939,7 @@ convoy command offers full medicine and part release if armed security frames re
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Lock state** — external credentials freeze outbound inventory, revoke three local scheduler roles and require convoy approval for maintenance changes … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Lock state** — external credentials freeze outbound inventory, revoke three local scheduler roles and require convoy approval for maintenance changes … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -4837,8 +4837,8 @@ Sella, sector commanders, Neutral craft and Imperial staff.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: Sella grants a single current fire corridor rather than overall command; Iris acts efficiently inside it.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Sella
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Sella grants a single current fire corridor rather than overall command; Iris acts efficiently inside it.
@@ -4867,7 +4867,7 @@ families and crews demand to know why the city refused the key that could have r
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Threat** — six guided debris/munition bodies and two spoofed rescue beacons approach; origin remains uncertain. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Threat** — six guided debris/munition bodies and two spoofed rescue beacons approach; origin remains uncertain. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -5649,8 +5649,8 @@ Ari/Savo at T-19, Sella/Iris command, Mobile Rescue and command-record teams.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: Ari orders irreversible section isolation and continued local evacuation rather than waiting for full rescue/command certainty.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Ari
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Ari orders irreversible section isolation and continued local evacuation rather than waiting for full rescue/command certainty.
@@ -5679,7 +5679,7 @@ one pressure block ruptures while the remaining residents move through two narro
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Crisis** — external impact damages T-19 shield/utility trunk; D-C shutter begins partial isolation and one pressure section loses stable power. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Crisis** — external impact damages T-19 shield/utility trunk; D-C shutter begins partial isolation and one pressure section loses stable power. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.

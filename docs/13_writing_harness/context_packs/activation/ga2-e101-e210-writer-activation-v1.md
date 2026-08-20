@@ -371,8 +371,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: Academy accepts the expensive bounded survey rather than claiming symbolic ownership or abandoning the hull.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Academy
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Academy accepts the expensive bounded survey rather than claiming symbolic ownership or abandoning the hull.
@@ -401,7 +401,7 @@ the survey board’s first question is not what to repair, but who is legally al
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=common-trunk defect proven; ship cannot depart; recovery crew ready; charter lacks repair money.; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=common-trunk defect proven; ship cannot depart; recovery crew ready; charter lacks repair money.; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -1473,8 +1473,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: KT-441 occupants and 파루스 departments agree to: transfer the 7 medically/physically vulnerable first; keep 15 capable adults aboard KT-441 for stabilization and later tow; move 17 others in staged groups if life-support margin permits; cut only a service access in the sealed cargo under witnessed recording; call Neutral rescue while preserving the right to reject S-1 seizure.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): KT-441 occupants and 파루스 departments
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 KT-441 occupants and 파루스 departments agree to: transfer the 7 medically/physically vulnerable first; keep 15 capable adults aboard KT-441 for stabilization and later tow; move 17 others in staged groups if life-support margin permits; cut only a service access in the sealed cargo under witnessed recording; call Neutral rescue while preserving the right to reject S-1 seizure.
@@ -1503,7 +1503,7 @@ S-1 launches a claim beacon toward KT-441 while S-2 begins an uncontrolled braki
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=KT-441 pressure boundary via 07 service link and local crew feed.; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=KT-441 pressure boundary via 07 service link and local crew feed.; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -5304,8 +5304,8 @@ Ovel.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: Ovel keeps the hold condition despite public pressure.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Ovel
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Ovel keeps the hold condition despite public pressure.
@@ -5334,7 +5334,7 @@ overnight maintenance reconnects the controller for a minor test, then restores 
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Physical inspection** — valve/flow direction label differs from current controller diagram; branch can move opposite to expected state. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Physical inspection** — valve/flow direction label differs from current controller diagram; branch can move opposite to expected state. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -6174,8 +6174,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: Ardis accepts the current person before final historical correction; convoy retains all 9 travellers.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Ardis
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Ardis accepts the current person before final historical correction; convoy retains all 9 travellers.
@@ -6204,7 +6204,7 @@ window opens while the calibration tug’s cooling feed shows a drift exactly at
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Failure** — Imperial registry still shows legal death/closed status … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Failure** — Imperial registry still shows legal death/closed status … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.

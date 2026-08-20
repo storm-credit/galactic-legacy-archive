@@ -4659,12 +4659,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded the current negotiating/signing parties under their existing mandates; identify the performer/signatory/refuser from this exact source decision beat: Ern refuses permanent integration into any Rian residual command, fleet or personal roster; cooperation remains mission/compact-specific.); ground that face in the exact source pivot [Ern refuses permanent integration into any Rian residual command, fleet or personal roster … [source continues]
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (source decision performer/authority actor(s): Ern); ground that face in the exact source pivot [Ern refuses permanent integration into any Rian residual command, fleet or personal roster; cooperation remains mission/compact-specific.] and source cost [Ern keeps responsibility for the harms, compromises and constituencies of an independent route/recovery path; disagreement with the wider compact remains possible.]. Do not create a new named witness merely to supply emotion.
 **POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded the current negotiating/signing parties under their existing mandates; identify the performer/signatory/refuser from this exact source decision beat: Ern refuses permanent integration into any Rian residual command, fleet or personal roster; cooperation remains mission/compact-specific.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Ern
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Ern refuses permanent integration into any Rian residual command, fleet or personal roster; cooperation remains mission/compact-specific.
@@ -4676,7 +4676,7 @@ Ern refuses permanent integration into any Rian residual command, fleet or perso
 PRESSURE[complete M-012's final Ern/Independence payoff through one real regional handoff rather than recruitment.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Ern refuses permanent integration into any Rian residual command, fleet or personal roster; cooperation remains mission/compact-specific.] → DELTA[Ern refuses permanent integration into any Rian residual command, fleet or personal roster; cooperation remains mission/compact-specific.] → COST[Ern keeps responsibility for the harms, compromises and constituencies of an independent route/recovery path; disagreement with the wider compact remains possible.] → NEXT[the remaining fleet and hull ledgers must prove material power follows the same non-ownership rule.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded the current negotiating/signing parties under their existing mandates; identify the performer/signatory/refuser from this exact source decision beat: Ern refuses permanent integration into any Rian residual command, fleet or personal roster; cooperation remains mission/compact-specific.); ground that face in the exact source pivot [Ern refuses permanent integration into any Rian residual command, fleet or personal roster; cooperation remains mission/compact-specific.] and source cost [Ern keeps responsibility for the harms, compromises and constituencies of an independent route/recovery path; disagreement with the wider compact remains possible.]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (source decision performer/authority actor(s): Ern); ground that face in the exact source pivot [Ern refuses permanent integration into any Rian residual command, fleet or personal roster; cooperation remains mission/compact-specific.] and source cost [Ern keeps responsibility for the harms, compromises and constituencies of an independent route/recovery path; disagreement with the wider compact remains possible.]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
@@ -4693,7 +4693,7 @@ the remaining fleet and hull ledgers must prove material power follows the same 
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — E1076 — shared source state] Date boundary: E1075 ends CY 748-03-24. E1076 begins CY 748-03-25 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — E1076 — shared source state] Date boundary: E1075 ends CY 748-03-24. E1076 begins CY 748-03-25 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -5108,7 +5108,7 @@ archive and Seed evidence now must survive without his private complete query pa
 
 **NARRATIVE_ENGINE_FAMILY:** `ENDING/HANDOFF`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=the remaining exclusive future-index interface is physically removed/split while distributed regional systems are already operating; no secret recoverable master copy or personal backdoor is retained … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=the remaining exclusive future-index interface is physically removed/split while distributed regional systems are already operating; no secret recoverable master copy or personal backdoor is retained … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot retain a hidden backdoor, transfer the exclusive credential, repeat regression/master correction, or reclaim standing central sovereignty.
