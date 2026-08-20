@@ -7,6 +7,7 @@ on:
     paths:
       - 'tools/audit_full_series_context_writer_depth.py'
       - 'tools/build_full_series_context_writer_activation*.py'
+      - 'tools/run_full_series_context_writer_activation_deep.py'
       - 'tools/build_full_series_context_packs*.py'
       - 'docs/00_project/full-series-context-writer-activation-depth-standard-v1.md'
       - 'docs/10_story_architecture/**'
@@ -17,6 +18,7 @@ on:
     paths:
       - 'tools/audit_full_series_context_writer_depth.py'
       - 'tools/build_full_series_context_writer_activation*.py'
+      - 'tools/run_full_series_context_writer_activation_deep.py'
       - 'tools/build_full_series_context_packs*.py'
       - 'docs/00_project/full-series-context-writer-activation-depth-standard-v1.md'
       - 'docs/10_story_architecture/**'
@@ -45,7 +47,7 @@ jobs:
         run: python tools/audit_full_series_context_writer_depth.py
 
       - name: Build deep source-bound writer-activation overlays and false-A audit
-        run: python tools/build_full_series_context_writer_activation_deep.py
+        run: python tools/run_full_series_context_writer_activation_deep.py
 
       - name: Commit writer-depth outputs on production branch
         run: |
