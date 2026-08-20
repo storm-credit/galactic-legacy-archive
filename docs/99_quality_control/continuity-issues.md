@@ -2,8 +2,8 @@
 
 Status: CANON PROJECT CONTROL — LIVING REGISTRY
 Owner Agents: X04 Continuity / O01 Canon
-Last Reviewed: 2026-08-20
-Depends On: [[revision-harness]] Pass 4, [[manuscript-production-workflow-v1]] §3.3
+Last Reviewed: 2026-08-21
+Depends On: [[revision-harness]] Pass 4, [[manuscript-production-workflow-v1]] §3.3, [[prewriting-execution-integration-closure-2026-08-21]]
 Used By: 모든 원고 검수 사이클
 Open Risks: 없음 — 미해결 항목이 곧 위험 목록이다
 
@@ -45,3 +45,12 @@ Open Risks: 없음 — 미해결 항목이 곧 위험 목록이다
 - Required Fix: 작가 승인 [[ga10-ending-reconciliation-canon-amendment-2026-08-20]]에 따라 Option C를 적용한다. 기존 유효 장부·손실·수치·책임 사실은 E1076–1095 안에 보존·재배치하고, E1083–1089 locked ownership sequence와 E1090–1095 no-Rian/history sequence를 복구하며, E1096–1100을 CY751-08-03 epilogue로 복원한다. M-019 final unlabeled-person scene은 author-approved change control로 E1099→E1100(+1) 이동해 M-020 E1100 proof와 결합한다.
 - Ripple (파급 범위): [[ga10-e1076-1085-episode-cards-v1]], [[ga10-e1086-1093-episode-cards-v1]], [[ga10-e1094-1100-episode-cards-v1]], [[ga10-ending-reconciliation-canon-amendment-2026-08-20]], final endpoint interpretation for 07/파루스/Ern/core relationships, decision log. Named permanent losses, casualty totals, Haren sanctions, Rian index loss, story length 1100 and Publication gate are not relaxed.
 - Status: FIXED — reconciled detailed cards and canon amendment produced; effective on merge of the same change set
+
+### CI-20260821-01
+- Episode/Location: Full-series pre-writing execution layer / Writer Activation + Collection Desire + CI routing
+- Severity: S1
+- Problem: post-completion blindspot sweep found three execution-chain drifts: (1) a generator fallback could treat `decision + POV` as decision ownership, allowing Rian POV to absorb another actor's stop/refusal/choice; (2) Context/Writer-Activation PR workflows hard-coded historical production branches rather than validating the current PR head; (3) the completed episode-level Writer Activation and subact-level `CLSET-*` Collection Desire layers were not yet made joint mandatory manuscript inputs. A secondary semantic-lint gap also allowed shorthand such as `C/G/L` to pass as `NEXT_DESIRE`.
+- Canon Source (충돌 근거 파일): [[full-series-context-writer-activation-depth-standard-v1]] §2·§4.2, [[pre-writing-gate-open-record-2026-08-06]], [[full-series-collection-desire-subact-completion-checkpoint-2026-08-21]], [[manuscript-production-workflow-v1]], [[prewriting-execution-integration-closure-2026-08-21]]
+- Required Fix: prohibit POV-as-owner fallback; validate PR head; add decision-owner audit, Collection semantic lint and CLSET↔episode-activation cross-layer gate; require both execution layers as manuscript inputs. Preserve all existing story canon, losses, authority boundaries and ending.
+- Ripple (파급 범위): workflow/QC tools, generated writer-activation routing, Collection Desire execution wording and pre-writing control only. No story event/character/death/technology/relationship/authority change and no manuscript approval/publication expansion.
+- Status: FIXED when the blindspot-closure PR passes its integrated gate and is merged to main.
