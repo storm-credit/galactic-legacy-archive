@@ -59,4 +59,4 @@ import finalize_context_load_bearing_overrides as finalizer  # noqa: E402
 
 
 if __name__ == "__main__":
-    raise SystemExit(finalizer.main())
+    raise SystemExit(finalizer.runner.main())
