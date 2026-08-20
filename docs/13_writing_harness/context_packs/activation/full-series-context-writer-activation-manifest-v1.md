@@ -1,0 +1,57 @@
+# Full-Series Context Writer-Activation Manifest v1
+
+Status: REVIEW — WRITING-HARNESS/QC MANIFEST
+Story Canon Effect: NONE
+Publication: NOT AUTHORIZED
+Last Reviewed: 2026-08-20
+
+## Coverage
+
+- E001–E010: existing manual deep effective Context + manual blindspot audit = 10/10 Depth-A override.
+- E011–E1100 writer-activation overlays: **1090/1090**.
+- effective writer-activated target: **1100/1100** after audit PASS.
+- story canon created by overlay: **0**.
+- manuscript prose used as source: **0**.
+
+## Routing-mode counts
+
+### POV
+
+- `WORKFLOW-RECOMMENDATION — NOT STORY CANON`: 608
+- `SOURCE-EXPLICIT`: 481
+- `WORKFLOW-RECOMMENDATION FROM SOURCE FRONT-STAGE`: 1
+
+### Decision owner
+
+- `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`: 607
+- `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`: 481
+- `SOURCE-FRONT-STAGE`: 1
+- `SOURCE-EXPLICIT`: 1
+
+### Human-pressure carrier
+
+- `WORKFLOW-AFFECTED-PARTY ROUTE FROM SOURCE COST/CONFLICT`: 608
+- `SOURCE-POV`: 481
+- `SOURCE-FRONT-STAGE`: 1
+
+### Decision mode
+
+- `SOURCE-EXPLICIT-DECISION`: 911
+- `WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE`: 125
+- `SOURCE-BLOCK-DECISION`: 54
+
+## Narrative-engine distribution
+
+- `ROUTE/LOGISTICS`: 160
+- `RESCUE/SERVICE`: 159
+- `TECHNICAL-REPAIR/TEST`: 128
+- `LEGAL/GOVERNANCE/ACCOUNTABILITY`: 103
+- `MEDICAL/CARE/CONSENT`: 85
+- `TACTICAL-COMBAT`: 81
+- `RECORD/PROVENANCE/MYSTERY`: 80
+- `CLAIM/OWNERSHIP/CUSTODY`: 78
+- `COLLECTION/ACCESS/TRANSFER`: 75
+- `NEGOTIATION/COALITION`: 57
+- `INVESTIGATION/EVIDENCE`: 54
+- `RELATIONSHIP/TEAM`: 29
+- `ENDING/HANDOFF`: 1
