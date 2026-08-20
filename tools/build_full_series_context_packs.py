@@ -1,22 +1,13 @@
 #!/usr/bin/env python3
 """Build source-bound FULL Context Pack documents for E011–E1100.
 
-This tool is intentionally a *routing/execution compiler*, not a story generator.
-It copies and reorganizes already-approved episode-card material into the adopted
-Context Pack execution schema. It does not read manuscript prose and it does not
-invent missing story facts.
+This tool is a routing/execution compiler, not a story generator. It copies and
+reorganizes already-approved episode-card material into the adopted Context Pack
+execution schema. It never reads manuscript prose and never invents missing
+story facts.
 
-Effective E001–E010 packs remain the manually audited files registered in
+E001–E010 remain the manually audited effective packs registered in
 `ga1-e001-e010-context-pack-status-index-v1.md`; generated coverage begins E011.
-
-Outputs:
-  docs/13_writing_harness/context_packs/generated/
-    ga1-e011-e100-context-packs-v1.md
-    ga2-e101-e210-context-packs-v1.md
-    ...
-    ga10-e1001-e1100-context-packs-v1.md
-    full-series-context-pack-generated-manifest-v1.md
-    full-series-context-pack-structural-audit-v1.md
 
 Usage:
   python tools/build_full_series_context_packs.py
@@ -38,20 +29,25 @@ SRC = DOCS / "10_story_architecture"
 DETAIL = SRC / "detail"
 OUT = DOCS / "13_writing_harness" / "context_packs" / "generated"
 
-EP_HEAD = re.compile(r"^# Episode\s+(\d+)\s+—\s+(.+?)\s*$", re.M)
+# Most files use `# Episode N`; the standalone E525 card uses `## Episode 525`.
+EP_HEAD = re.compile(r"^#{1,2}\s+Episode\s+(\d+)\s+—\s+(.+?)\s*$", re.M)
 LABEL = re.compile(r"^([A-Za-z][A-Za-z0-9 /&()'’_.\-]{0,90}):\s*(.*)$")
 GA1_FILE = re.compile(r"^ga1-episodes-(\d+)-(\d+)-.*scene-cards.*\.md$")
-DETAIL_FILE = re.compile(r"^ga(\d+)-e(\d+)-(\d+)-episode-cards-v1\.md$")
+# Accept both range files (`...episode-cards-v1`) and singletons such as
+# `ga5-e525-episode-card-v1.md`. Source coverage still hard-fails on duplicates.
+DETAIL_FILE = re.compile(r"^ga(\d+)-e(\d+)(?:-(\d+))?-episode-cards?-v1\.md$")
 
+# Current canonical production boundaries from
+# episodes-101-1100-detail-production-standard-and-batch-map-v1.md.
 GA_RANGES = {
     1: (11, 100),
     2: (101, 210),
     3: (211, 330),
     4: (331, 450),
-    5: (451, 560),
-    6: (561, 690),
-    7: (691, 810),
-    8: (811, 900),
+    5: (451, 570),
+    6: (571, 690),
+    7: (691, 800),
+    8: (801, 900),
     9: (901, 1000),
     10: (1001, 1100),
 }
@@ -95,11 +91,7 @@ def clean_lines(text: str) -> str:
     rows = []
     for raw in text.splitlines():
         s = raw.strip()
-        if not s:
-            continue
-        if s.startswith("---"):
-            continue
-        if s.startswith("```"):
+        if not s or s.startswith("---") or s.startswith("```"):
             continue
         if s.startswith("-"):
             s = s.lstrip("- ").strip()
@@ -109,9 +101,7 @@ def clean_lines(text: str) -> str:
 
 def shorten(text: str, limit: int = 900) -> str:
     text = re.sub(r"\s+", " ", text).strip()
-    if not text:
-        return ""
-    if len(text) <= limit:
+    if not text or len(text) <= limit:
         return text
     cut = text.rfind(". ", 0, limit)
     if cut < max(120, limit // 2):
@@ -175,21 +165,12 @@ def load_sources() -> dict[int, EpisodeCard]:
     by_ep: dict[int, EpisodeCard] = {}
     duplicates: list[tuple[int, Path, Path]] = []
 
-    ga1_files = []
-    for p in SRC.glob("ga1-episodes-*-scene-cards*.md"):
-        if GA1_FILE.match(p.name):
-            ga1_files.append(p)
-
-    detail_files = []
-    for p in DETAIL.glob("ga*-e*-episode-cards-v1.md"):
-        if DETAIL_FILE.match(p.name):
-            detail_files.append(p)
+    ga1_files = [p for p in SRC.glob("ga1-episodes-*-scene-cards*.md") if GA1_FILE.match(p.name)]
+    detail_files = [p for p in DETAIL.glob("ga*-e*-episode-card*.md") if DETAIL_FILE.match(p.name)]
 
     for p in sorted(ga1_files + detail_files):
         for card in split_episodes(p):
-            if card.episode <= 10:
-                continue
-            if not 11 <= card.episode <= 1100:
+            if card.episode <= 10 or not 11 <= card.episode <= 1100:
                 continue
             if card.episode in by_ep:
                 duplicates.append((card.episode, by_ep[card.episode].source, p))
@@ -201,7 +182,6 @@ def load_sources() -> dict[int, EpisodeCard]:
         for ep, a, b in duplicates:
             lines.append(f"  E{ep}: {a.relative_to(ROOT)} <> {b.relative_to(ROOT)}")
         raise RuntimeError("\n".join(lines))
-
     return by_ep
 
 
@@ -235,33 +215,22 @@ def hw_band(ep: int) -> str | None:
     return None
 
 
-def ga_of(ep: int) -> int:
-    for ga, (lo, hi) in GA_RANGES.items():
-        if lo <= ep <= hi:
-            return ga
-    raise ValueError(ep)
-
-
 def source_stem(card: EpisodeCard) -> str:
     return card.source.stem
 
 
 def render_episode(card: EpisodeCard) -> str:
-    f = card.fields
     visible = first(card, "visible goal", "goal")
     secondary = first(card, "hidden pressure", "obstacle", "pressure", "conflict", "opposition")
 
     opening = vals(card, "opening state", "physical state", "physical setup", "physical reality", max_items=2)
     places = vals(card, "location/time", "location", max_items=3, limit_each=450)
     anchor = opening + places
-
-    changes = vals(card, "state change", "immediate result", "result", "outcome", max_items=5)
+    changes = vals(card, "state change", "immediate result", "result", "outcome", "immediate outcome", max_items=5)
     costs = vals(card, "cost", "refusal", "opposition", max_items=4)
     reentry = vals(card, "carried state", "final hook", "end hook", max_items=3)
-
-    actors = vals(card, "actors/goals", "actors", "actor goal", "actor goals", max_items=5)
+    actors = vals(card, "actors/goals", "actors", "actor goal", "actor goals", "front-stage actor", max_items=5)
     decisions = vals(card, "decisive choice", "decision", "choice", max_items=4)
-
     mystery = vals(card, "mystery state", "archive event", "clue", "clues", max_items=4)
     collection = vals(card, "collection state", max_items=3)
     relationship = vals(card, "relationship/institution state", "relationship state", "institution state", max_items=3)
@@ -269,7 +238,6 @@ def render_episode(card: EpisodeCard) -> str:
     date = first(card, "date", default="UNRESOLVED FROM APPROVED SOURCES")
     pov = first(card, "pov / information source", "pov", default="UNRESOLVED FROM APPROVED SOURCES")
     specialists = first(card, "specialist panel", default="N/A — source card does not store a panel")
-
     band = hw_band(card.episode)
 
     missing = []
@@ -295,54 +263,27 @@ def render_episode(card: EpisodeCard) -> str:
         "",
         "### Common six-field contract",
         "",
-        "**ACTIVE_DESIRE_MAIN**  ",
-        visible,
-        "",
-        "**ACTIVE_DESIRE_SECONDARY**  ",
-        secondary,
-        "",
-        "**PHYSICAL_ANCHOR**",
-        bullets(anchor),
-        "",
-        "**STATE_CHANGE**",
-        bullets(changes),
-        "",
-        "**COST_OR_REFUSAL**",
-        bullets(costs),
-        "",
-        "**REENTRY_ANCHOR**",
-        bullets(reentry),
-        "",
-        "### Agency / authority evidence",
-        "",
-        "**CURRENT_ACTOR_GOAL_EVIDENCE**",
-        bullets(actors),
-        "",
-        "**DECISION_EVIDENCE**",
-        bullets(decisions),
-        "",
+        "**ACTIVE_DESIRE_MAIN**  ", visible, "",
+        "**ACTIVE_DESIRE_SECONDARY**  ", secondary, "",
+        "**PHYSICAL_ANCHOR**", bullets(anchor), "",
+        "**STATE_CHANGE**", bullets(changes), "",
+        "**COST_OR_REFUSAL**", bullets(costs), "",
+        "**REENTRY_ANCHOR**", bullets(reentry), "",
+        "### Agency / authority evidence", "",
+        "**CURRENT_ACTOR_GOAL_EVIDENCE**", bullets(actors), "",
+        "**DECISION_EVIDENCE**", bullets(decisions), "",
         "**RIAN_CANNOT_OVERRIDE**  ",
         "Any technical, medical, legal, custody, record, local, affected-party or command authority explicitly owned by another actor/institution in the source card. Context compilation does not migrate that authority to Rian; exact owner evidence is the actor/decision material above and the higher canon/state documents.",
         "",
-        "### Information / payoff ceiling",
-        "",
-        "**MYSTERY_OR_CLUE_SOURCE_STATE**",
-        bullets(mystery, unresolved=False),
-        "",
+        "### Information / payoff ceiling", "",
+        "**MYSTERY_OR_CLUE_SOURCE_STATE**", bullets(mystery, unresolved=False), "",
         "Formal clue/payoff accounting follows the highest locked mystery/payoff ledger. A lower card tag or open plant window may remain a teaser/setup but cannot be promoted into an earlier explanatory reveal by this Context Pack.",
         "",
-        "### Carry ledgers",
-        "",
-        "**COLLECTION_STATE**",
-        bullets(collection, unresolved=False),
-        "",
-        "**RELATIONSHIP_OR_INSTITUTION_STATE**",
-        bullets(relationship, unresolved=False),
-        "",
-        f"**SPECIALIST_PANEL / SOURCE CHECK:** {specialists}",
-        "",
-        "### Unsupported exacts / source-precedence guard",
-        "",
+        "### Carry ledgers", "",
+        "**COLLECTION_STATE**", bullets(collection, unresolved=False), "",
+        "**RELATIONSHIP_OR_INSTITUTION_STATE**", bullets(relationship, unresolved=False), "",
+        f"**SPECIALIST_PANEL / SOURCE CHECK:** {specialists}", "",
+        "### Unsupported exacts / source-precedence guard", "",
     ]
 
     if missing:
@@ -353,11 +294,7 @@ def render_episode(card: EpisodeCard) -> str:
     else:
         out.append("No mandatory Context slot requires a new fact from this card parse. Any prose-level exact number/name/layout not present in higher sources remains `UNRESOLVED FROM APPROVED SOURCES`.")
 
-    out += [
-        "",
-        "`NEW_CANON_REQUIRED: NO`",
-        "",
-    ]
+    out += ["", "`NEW_CANON_REQUIRED: NO`", ""]
 
     if band:
         face = actors[0] if actors else (pov if not pov.startswith("UNRESOLVED") else "UNRESOLVED FROM APPROVED SOURCES")
@@ -366,36 +303,22 @@ def render_episode(card: EpisodeCard) -> str:
         owner = decisions[0] if decisions else (actors[0] if actors else "UNRESOLVED FROM APPROVED SOURCES")
         abstracts = (mystery + relationship)[:2]
         out += [
-            "### HIGH-WATCH addendum",
-            "",
-            f"`HIGH_WATCH_BAND: {band}`",
-            "",
-            f"**RECURRING_FACE:** {face}",
-            "",
-            f"**RECURRING_ASSET:** {asset}",
-            "",
-            f"**RECURRING_PLACE:** {place}",
-            "",
-            f"**CURRENT_OWNER_OF_DECISION:** {owner}",
-            "",
-            "**RIAN_CANNOT_OVERRIDE:** the non-Rian domain/affected-party authorities carried by the source card; if the decisive owner is not explicit, keep it unresolved rather than defaulting to Rian.",
-            "",
-            "**ABSTRACT_CONCEPTS_FOREGROUNDED:**",
-            bullets(abstracts, unresolved=False),
-            "",
-            "`NEW_CANON_REQUIRED: NO`",
-            "",
+            "### HIGH-WATCH addendum", "",
+            f"`HIGH_WATCH_BAND: {band}`", "",
+            f"**RECURRING_FACE:** {face}", "",
+            f"**RECURRING_ASSET:** {asset}", "",
+            f"**RECURRING_PLACE:** {place}", "",
+            f"**CURRENT_OWNER_OF_DECISION:** {owner}", "",
+            "**RIAN_CANNOT_OVERRIDE:** the non-Rian domain/affected-party authorities carried by the source card; if the decisive owner is not explicit, keep it unresolved rather than defaulting to Rian.", "",
+            "**ABSTRACT_CONCEPTS_FOREGROUNDED:**", bullets(abstracts, unresolved=False), "",
+            "`NEW_CANON_REQUIRED: NO`", "",
         ]
 
     out += [
-        "### Context readiness",
-        "",
-        "`CONTEXT READY: YES — source-bound execution layer only`",
-        "",
-        "This readiness does **not** authorize manuscript drafting, author approval, publication or canon mutation.",
-        "",
-        "---",
-        "",
+        "### Context readiness", "",
+        "`CONTEXT READY: YES — source-bound execution layer only`", "",
+        "This readiness does **not** authorize manuscript drafting, author approval, publication or canon mutation.", "",
+        "---", "",
     ]
     return "\n".join(out)
 
@@ -404,6 +327,7 @@ def render_ga(ga: int, cards: dict[int, EpisodeCard]) -> str:
     lo, hi = GA_RANGES[ga]
     selected = [cards[e] for e in range(lo, hi + 1)]
     source_names = sorted({c.source.stem for c in selected})
+    sections = [render_episode(c) for c in selected]
     return "\n".join([
         f"# GA{ga} E{lo:03d}–E{hi:03d} Full Deep Context Packs v1",
         "",
@@ -423,22 +347,19 @@ def render_ga(ga: int, cards: dict[int, EpisodeCard]) -> str:
         f"Coverage: **{len(selected)}/{hi-lo+1} episodes**",
         f"Source card files: **{len(source_names)}**",
         "",
-        *[render_episode(c) for c in selected],
+        *sections,
     ])
 
 
 def manifest(cards: dict[int, EpisodeCard]) -> str:
     lines = [
-        "# Full-Series Context Pack Generated Manifest v1",
-        "",
+        "# Full-Series Context Pack Generated Manifest v1", "",
         "Status: REVIEW — PROJECT-CONTROL STATUS MANIFEST",
         "Story Canon Effect: NONE",
         "Publication: NOT AUTHORIZED",
         "Last Reviewed: 2026-08-20",
         "Depends On: [[full-series-context-first-production-directive-2026-08-20]], [[context-pack-tangible-reader-memory-execution-spec-proposal-v1]]",
-        "",
-        "## Coverage",
-        "",
+        "", "## Coverage", "",
         "| Range | Effective Context source | Coverage |",
         "|---|---|---:|",
         "| E001–E010 | manually audited files registered in [[ga1-e001-e010-context-pack-status-index-v1]] | 10/10 |",
@@ -448,28 +369,21 @@ def manifest(cards: dict[int, EpisodeCard]) -> str:
         lines.append(f"| E{lo:03d}–E{hi:03d} | [[{stem}]] | {hi-lo+1}/{hi-lo+1} |")
     lines += [
         "",
-        "Total effective Context target after generated files are current: **1100/1100 FULL**.",
-        "",
-        "E001–E010 manual packs outrank any historical PRELOAD/FORECAST text. Generated files begin at E011, so there is no generated/manual ambiguity for the first ten episodes.",
-        "",
-        "## Source-coverage invariants",
-        "",
+        "Total effective Context target after generated files are current: **1100/1100 FULL**.", "",
+        "E001–E010 manual packs outrank any historical PRELOAD/FORECAST text. Generated files begin at E011, so there is no generated/manual ambiguity for the first ten episodes.", "",
+        "## Source-coverage invariants", "",
         f"- generated episode cards loaded: **{len(cards)}** (expected 1090 = E011–E1100)",
         "- duplicate episode source owner: **0 required**",
         "- missing episode source: **0 required**",
         "- manuscript prose used as source: **0**",
         "- generated story-canon mutation: **0**",
-        "- manuscript authorization expansion: **0**",
-        "",
-        "## HIGH-WATCH bands",
-        "",
+        "- manuscript authorization expansion: **0**", "",
+        "## HIGH-WATCH bands", "",
     ]
-    for lo, hi, label in HIGH_WATCH:
+    for _lo, _hi, label in HIGH_WATCH:
         lines.append(f"- {label}: generated entries carry the normalized HIGH-WATCH addendum; companion semantic audits remain authoritative for deeper carrier/authority review.")
     lines += [
-        "",
-        "## Completion semantics",
-        "",
+        "", "## Completion semantics", "",
         "`1100/1100 FULL` means every episode has a source-bound execution packet. It does **not** by itself mean the semantic blindspot gate has passed. Manuscript work resumes only after the separate GA/cross-GA Context blindspot audits are merged and the full-series completion checkpoint is explicitly PASS.",
     ]
     return "\n".join(lines) + "\n"
@@ -485,7 +399,7 @@ def structural_audit(cards: dict[int, EpisodeCard]) -> str:
             field_stats["main_desire_unresolved"] += 1
         if not vals(card, "opening state", "physical state", "physical setup", "physical reality", "location/time", "location", max_items=1):
             field_stats["anchor_unresolved"] += 1
-        if not vals(card, "state change", "immediate result", "result", "outcome", max_items=1):
+        if not vals(card, "state change", "immediate result", "result", "outcome", "immediate outcome", max_items=1):
             field_stats["state_change_unresolved"] += 1
         if not vals(card, "cost", "refusal", "opposition", max_items=1):
             field_stats["cost_unresolved"] += 1
@@ -493,38 +407,28 @@ def structural_audit(cards: dict[int, EpisodeCard]) -> str:
             field_stats["reentry_unresolved"] += 1
 
     lines = [
-        "# Full-Series Context Pack Structural Audit v1",
-        "",
+        "# Full-Series Context Pack Structural Audit v1", "",
         "Status: REVIEW — MACHINE-REPRODUCIBLE CONTEXT QC",
         "Story Canon Effect: NONE",
         "Publication: NOT AUTHORIZED",
-        "Last Reviewed: 2026-08-20",
-        "",
-        "## Result",
-        "",
+        "Last Reviewed: 2026-08-20", "",
+        "## Result", "",
         f"- source-bound generated cards: **{len(cards)} / 1090**",
         f"- missing E011–E1100 source owners: **{len(missing)}**",
         f"- unexpected episode ids: **{len(unexpected)}**",
         f"- HIGH-WATCH generated entries: **{high_watch_count}**",
         "- manuscript prose read by builder: **NO**",
-        "- story facts generated by builder: **NO**",
-        "",
-        "## Field-shape diagnostics",
-        "",
+        "- story facts generated by builder: **NO**", "",
+        "## Field-shape diagnostics", "",
         f"- ACTIVE_DESIRE_MAIN exact-label fallback/unresolved: {field_stats['main_desire_unresolved']}",
         f"- PHYSICAL_ANCHOR source carrier unresolved: {field_stats['anchor_unresolved']}",
         f"- STATE_CHANGE exact-label fallback/unresolved: {field_stats['state_change_unresolved']}",
         f"- COST_OR_REFUSAL exact-label fallback/unresolved: {field_stats['cost_unresolved']}",
-        f"- REENTRY_ANCHOR exact-label fallback/unresolved: {field_stats['reentry_unresolved']}",
-        "",
-        "An unresolved exact does not authorize invention; it is preserved as `UNRESOLVED FROM APPROVED SOURCES` for semantic review.",
-        "",
-        "## Hard fail conditions",
-        "",
-        "The builder exits non-zero before writing outputs if any E011–E1100 episode is missing or has duplicate source ownership. This prevents a visually complete but structurally incomplete 1100-episode Context layer.",
-        "",
-        "## Semantic audit still required",
-        "",
+        f"- REENTRY_ANCHOR exact-label fallback/unresolved: {field_stats['reentry_unresolved']}", "",
+        "An unresolved exact does not authorize invention; it is preserved as `UNRESOLVED FROM APPROVED SOURCES` for semantic review.", "",
+        "## Hard fail conditions", "",
+        "The builder exits non-zero before writing outputs if any E011–E1100 episode is missing or has duplicate source ownership. This prevents a visually complete but structurally incomplete 1100-episode Context layer.", "",
+        "## Semantic audit still required", "",
         "Machine coverage cannot by itself verify clue timing, death/loss continuity, local authority, repeated narrative engine, or exact ending-amendment precedence. Those are handled by GA-level and cross-GA Context blindspot audits before the Context-first gate is declared complete.",
     ]
     if missing:
@@ -561,7 +465,6 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--check", action="store_true")
     args = ap.parse_args()
-
     try:
         outputs = build_outputs()
     except Exception as exc:
