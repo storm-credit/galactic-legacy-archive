@@ -1,0 +1,72 @@
+name: Audit pre-writing execution red-team v2
+
+on:
+  push:
+    branches:
+      - 'qc/prewriting-execution-redteam-v2'
+    paths:
+      - 'tools/audit_prewriting_redteam_v2.py'
+      - 'tools/run_full_series_context_writer_activation*.py'
+      - 'tools/run_full_series_collection_reader_desires*.py'
+      - 'tools/finalize_full_series_collection_desire_semantic_sets.py'
+      - 'docs/09_collection/**'
+      - 'docs/10_story_architecture/**'
+      - 'docs/13_writing_harness/context_packs/activation/**'
+      - '.github/workflows/audit-prewriting-redteam-v2.yml'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'tools/audit_prewriting_redteam_v2.py'
+      - 'tools/run_full_series_context_writer_activation*.py'
+      - 'tools/run_full_series_collection_reader_desires*.py'
+      - 'tools/finalize_full_series_collection_desire_semantic_sets.py'
+      - 'docs/09_collection/**'
+      - 'docs/10_story_architecture/**'
+      - 'docs/13_writing_harness/context_packs/activation/**'
+      - '.github/workflows/audit-prewriting-redteam-v2.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  redteam-v2:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.sha || github.sha }}
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Rebuild current execution layers on exact head
+        run: |
+          python tools/audit_full_series_context_writer_depth.py
+          python tools/run_full_series_context_writer_activation_blindspot.py
+          python tools/sanitize_context_activation_provenance.py
+          python tools/run_full_series_collection_reader_desires_blindspot.py
+
+      - name: Run second-pass hostile audit
+        run: |
+          python tools/audit_prewriting_redteam_v2.py
+          python tools/audit_prewriting_redteam_v2.py --check
+
+      - name: Show red-team summary
+        run: |
+          sed -n '1,120p' docs/99_quality_control/prewriting-execution-redteam-v2-audit.md
+
+      - name: Persist audit report on branch push
+        if: github.event_name == 'push'
+        run: |
+          if git diff --quiet -- docs/99_quality_control/prewriting-execution-redteam-v2-audit.md; then
+            echo 'audit report already current'
+            exit 0
+          fi
+          git config user.name 'galactic-legacy-qc-bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add -- docs/99_quality_control/prewriting-execution-redteam-v2-audit.md
+          git commit -m 'QC: persist prewriting red-team v2 audit'
+          git push origin HEAD:qc/prewriting-execution-redteam-v2
