@@ -6,6 +6,9 @@ layer deepens E1097–E1099 where automatic extraction preserved outcomes but
 compressed the actual independent current actors into abstract ending language.
 No story canon is created; every route below is copied from the reconciled
 E1094–1100 ending card and locked payoff design.
+
+This file is also an explicit watched input for the writer-depth workflow so a
+change here regenerates and persists the derived activation/QC outputs.
 """
 
 import run_full_series_context_writer_activation_deep as runner
