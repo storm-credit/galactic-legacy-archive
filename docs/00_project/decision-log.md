@@ -2,7 +2,7 @@
 
 Status: CANON
 Owner Agent: A00 Novel PM Orchestrator
-Last Reviewed: 2026-08-16
+Last Reviewed: 2026-08-20
 Depends On: None
 Used By: All project documents
 Open Risks: Unrecorded conversational decisions
@@ -892,3 +892,101 @@ Pre-Writing Gate 개방 당시 첫 권장 집필 배치는 E1~5였다. 이후 �
 ## D-20260819-02 — SLR 잔여 5편에 2차 비트(규칙 7 단위)를 승인한다
 
 **채택**: 작가 승인 2026-08-19, [[slr-card-bit-proposals-round2-2026-08-19]] 전 행. **실행**: E9(작업반 청구 동결 + M-020 질문), E10(보증인 빈칸 청구서), E11(하렌의 확인 + 근거 미제출 분류 기록 — 카드 11.3 비용 비트), E12(테러 명명 3단계 과정), E13(빈 사유란 + 리안의 자기 오류 기록 — 카드 13.3 비용 비트). **결과**: E9·10·11·13 하한 도달. **E12는 4,880자로 종결** — 카드가 가장 얇은 회차라는 사실을 원고가 존중한다. 제안서 권고대로 추가 창작하지 않는다.
+
+---
+
+## D-20260820-01 — Context Pack tangible execution spec을 Project-Control workflow/QC 표준으로 채택
+
+Status: ACCEPTED
+Date: 2026-08-20
+Decision Owner: 작가 + A00
+
+### Context
+
+PR #191은 후반 정치·법·기록·Seed 구간이 설정 부족보다 **독자 체감 실행의 추상화**에 취약하다는 점을 확인하고, Context Pack에 사람·물건·장소·상태변화를 연결하는 6개 공통 필드와 HIGH-WATCH 추가 체크를 제안했다. 당시 current main에는 전용 canonical Context Pack field schema가 없었고, PR #191 내부의 `TANGIBLE_*`와 `RECURRING_*` 표현이 겹쳐 proposal을 곧바로 Project-Control로 올리지 않았다.
+
+그 뒤 PR #192에서 서로 다른 실패 모드를 실제 상세카드로 dry-run했다.
+
+- GA7 E716–723 법·귀속·credential 책임 분해: **8/8 PASS**;
+- GA8 E851–860 Seed·archive·protocol layer 분해: **10/10 PASS**;
+- 두 구간 모두 신규 plot/lore/death/injury/ability/relationship/authority 0;
+- unsupported exact person/place/object는 `UNRESOLVED FROM APPROVED SOURCES`로 남기는 방식이 새 NPC·새 시설 발명을 방지함;
+- HAPΔ는 회차 공식이 아니라 five-episode/window guard로 유지 가능함.
+
+PR #193의 impact review는 새 workflow stage나 field list 복제를 만들지 말고, **기존 spec의 in-place promotion + workflow 참조 2곳 + decision-log 1건**만 적용하는 Option C를 권고했다. 작가는 2026-08-20 `응 진행`으로 이 Option C의 실제 채택·PR·main 반영을 승인했다.
+
+### Options Considered
+
+- A. proposal 상태 유지 — 검증이 끝났는데도 실제 원고 생산 시 참조 권위가 모호하게 남는다.
+- B. `manuscript-production-workflow-v1.md`에 필드 목록 전체를 복제 — 단일 진실원칙을 깨고 향후 두 schema가 갈라질 위험이 있다.
+- C. **기존 spec을 workflow/QC authority로 in-place promotion하고 workflow §3.1·§3.3은 짧은 참조만 추가** — 채택.
+- D. HIGH-WATCH 전용 제3 schema 신설 — GA7/GA8 cross-mode dry-run이 불필요함을 입증하여 반려.
+
+### Decision
+
+1. `docs/00_project/context-pack-tangible-reader-memory-execution-spec-proposal-v1.md`를 **Project-Control workflow/QC 실행 표준**으로 채택한다.
+2. 파일명은 기존 링크 안정성을 위해 `proposal-v1`을 유지하되, 문서 내부 `Status`와 본 결정이 현재 권위를 결정한다.
+3. 이 승격은 **스토리 정본 승격이 아니다.** 사건·설정·인물·사망·관계·권한·수치·결말·장면카드에는 변경이 없다.
+4. 모든 episode Context Pack은 공통 6필드를 사용한다:
+   - `ACTIVE_DESIRE_MAIN`
+   - `ACTIVE_DESIRE_SECONDARY`
+   - `PHYSICAL_ANCHOR`
+   - `STATE_CHANGE`
+   - `COST_OR_REFUSAL`
+   - `REENTRY_ANCHOR`
+5. 지정 HIGH-WATCH 구간만 `HIGH_WATCH_BAND` 식별자 1개와 추가 execution check 7개를 사용한다:
+   - `RECURRING_FACE`
+   - `RECURRING_ASSET`
+   - `RECURRING_PLACE`
+   - `CURRENT_OWNER_OF_DECISION`
+   - `RIAN_CANNOT_OVERRIDE`
+   - `ABSTRACT_CONCEPTS_FOREGROUNDED`
+   - `NEW_CANON_REQUIRED: NO / YES-STOP`
+6. `TANGIBLE_*`, `VISIBLE_DELTA_THIS_EP`, `PREVIOUS_REENTRY_ANCHOR` 등 기존 PR #191 표현은 validation alias/history로만 남기며 별도 저장 필드로 복제하지 않는다.
+7. 승인 출처가 exact detail을 제공하지 않으면 `NONE`, `N/A`, `UNRESOLVED FROM APPROVED SOURCES`를 허용한다. 템플릿을 채우기 위해 인물·시설·물건을 만들지 않는다.
+8. 새 정본이 실제로 필요하면 HIGH-WATCH에서 `NEW_CANON_REQUIRED: YES-STOP`으로 기록하고 그 변경을 멈춘다.
+9. `manuscript-production-workflow-v1.md`는 §3.1에서 Context Pack을 입력으로, §3.3에서 carrier/state/decision-owner/Rian authority boundary를 감사 대상으로 참조한다. **새 workflow 단계는 만들지 않는다.**
+10. Context Pack은 승인 출처를 보존하는 실행/QC 레이어이며 story fact source가 아니다.
+11. `AUTHOR-APPROVED`, 공개·유료연재·출판 승인은 이 결정으로 발생하지 않는다. `Publication: NOT AUTHORIZED`와 issue #26 출판 전 블로커는 유지한다.
+
+### Reasons
+
+- GA7과 GA8이라는 구조가 다른 고위험 구간에서 같은 schema가 실제로 작동했다.
+- 한 source-of-truth만 두는 편이 field drift와 중복 스키마를 막는다.
+- `UNRESOLVED FROM APPROVED SOURCES`가 template-driven invention을 구조적으로 차단한다.
+- decision ownership과 Rian authority boundary를 Context Pack 단계에서 미리 노출하면 주인공 인과독점과 권한 흡수를 초고 전에 잡을 수 있다.
+- workflow에는 이미 구조·정본·문체·훅 감사가 존재하므로 새 stage를 만드는 것보다 기존 단계에 참조하는 편이 minimum-action 원칙에 맞는다.
+
+### Consequences
+
+- 향후 Context Pack 생산과 원고 §3.1/§3.3 감사의 실행 schema가 하나로 고정된다.
+- HIGH-WATCH가 아닌 회차에 불필요한 추가 carrier field를 강제하지 않는다.
+- exact name/room/object가 없는 카드도 안전하게 Context Pack을 생산할 수 있다.
+- PR #191/#192의 QC 문서는 근거와 역사로 남고, 새 facts의 출처가 되지는 않는다.
+- story canon, scene cards, manuscript content는 이 결정으로 변경되지 않는다.
+
+### Risks
+
+- 파일명에 `proposal`이 남아 후속 작업자가 상태를 오독할 수 있다.
+- Context Pack field를 독립 정본으로 착각해 카드보다 우선 적용할 수 있다.
+- 모든 회차를 HAPΔ 공식으로 기계화할 위험이 있다.
+
+### Mitigation
+
+- 문서 헤더에 `CANON — PROJECT-CONTROL WORKFLOW/QC`, `Story Canon Effect: NONE`, `D-20260820-01`을 명시한다.
+- source precedence에서 cards/bibles/state/loss/payoff를 field population의 사실 출처로 유지한다.
+- HAPΔ는 five-episode/window guard로 명시하고 per-episode mandatory formula를 금지한다.
+- third schema와 field-list 복제를 금지한다.
+
+### Affected Documents
+
+- [[context-pack-tangible-reader-memory-execution-spec-proposal-v1]]
+- [[manuscript-production-workflow-v1]] §3.1, §3.3
+- [[context-pack-workflow-adoption-impact-review-2026-08-20]]
+- [[ga7-e716-723-context-pack-dry-run-v1]]
+- [[ga8-e851-860-context-pack-dry-run-v1]]
+- [[decision-log]]
+
+### Reversal Condition
+
+작가가 Context Pack 실행 규격을 변경하거나, 실제 원고/Context Pack 생산에서 현 6+HIGH-WATCH schema가 승인 사실을 안전하게 표현하지 못한다는 재현 가능한 실패가 발견될 때 impact review와 dry-run을 다시 수행한 뒤 개정한다.
