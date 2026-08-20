@@ -23,7 +23,16 @@ import re
 import sys
 from collections import defaultdict
 
-import build_full_series_context_packs_complete as complete
+# Preserve the actual source normalizer before the complete renderer overlays
+# deep.normalized. Without this guard, complete.enrich -> deep.normalized can
+# recurse into complete.enrich again when imported as a module.
+import build_full_series_context_packs_deep as deep
+
+_SOURCE_NORMALIZED = deep.normalized
+
+import build_full_series_context_packs_complete as complete  # noqa: E402
+
+complete.deep.normalized = _SOURCE_NORMALIZED
 
 base = complete.base
 ROOT = complete.ROOT
