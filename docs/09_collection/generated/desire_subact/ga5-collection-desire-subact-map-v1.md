@@ -345,20 +345,19 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
 - `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
-- `FRONT_DOMAINS`: C7 세력·제도, C1 인물·관계
+- `FRONT_DOMAINS`: C7 세력·제도, C5 함선, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: assess campaign, formalize charter and respond to emerging Orpheus crisis. → Common Fleet Charter v1.0 and distributed formation network. P-001 receives limited theater/task command standing. rescue/pay/repair/authentication and audit systems operational.
 - `DISCOVERY`: assess campaign, formalize charter and respond to emerging Orpheus crisis.
 - `ACQUISITION_OR_CONNECTION`: Common Fleet Charter v1.0 and distributed formation network. P-001 receives limited theater/task command standing. rescue/pay/repair/authentication and audit systems operational.
 - `SYNERGY_OR_USE`: Common Fleet Charter v1.0 and distributed formation network. P-001 receives limited theater/task command standing. rescue/pay/repair/authentication and audit systems operational.
 - `COST_REFUSAL_OR_LOSS`: not all formations sign. one commander/formation remains rival or leaves. fleet cannot immediately recover.
 - `SET_ADVANCE_CONDITION`: Common Fleet Charter v1.0 and distributed formation network. P-001 receives limited theater/task command standing. rescue/pay/repair/authentication and audit systems operational.
-- `NEXT_DESIRE`: `C/G — recognized but not permanent fleet ownership`. -- / `G`. / `G — grand-act institutional reward`. / `C/G — independent formation aligned by mission, not personal P-001 command`. / `C/L — credible rival or conditional participant entering GA6`.
-- `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지
+- `NEXT_DESIRE`: `C/G — recognized but not permanent fleet ownership`. -- / `G — grand-act institutional reward`. / `G/L — many civilians moved toward V08, creating GA6 pressure`. / `G — grand-act fleet state, not P-001 personal roster`.
+- `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA5-G5-C12` / `G5-C12` / Bounded P-001 Theater/Task Command — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=131
-  - `CLT-GA5-G5-C10` / `G5-C10` / Delegated Formation Command and Standing Rules — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=125
   - `CLT-GA5-G5-C11` / `G5-C11` / Common Fleet Charter v1.0 — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=123
-  - `CLT-GA5-G5-P03` / `G5-P03` / FC-003 / Crown Guard Captain — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
-  - `CLT-GA5-G5-P06` / `G5-P06` / FC-005 / Outer Front Commander — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
+  - `CLT-GA5-G5-L08` / `G5-L08` / Civilian Convoy/Route Capacity — `EPISODE_OVERLAP+TITLE_TEXT` score=119
+  - `CLT-GA5-G5-F06` / `G5-F06` / Ownerless Fleet Network — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=119
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga5-episodes-451-570-act-map-v1.md` / 5D-4
 - `NEW_CANON_REQUIRED`: `NO`

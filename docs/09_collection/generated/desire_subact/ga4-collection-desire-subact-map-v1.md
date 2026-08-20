@@ -338,20 +338,16 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
 - `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
-- `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C1 인물·관계, C6 기술·표준
+- `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: show compact’s immediate effects and launch ownerless-fleet conflict. → show compact’s immediate effects and launch ownerless-fleet conflict.
 - `DISCOVERY`: show compact’s immediate effects and launch ownerless-fleet conflict.
 - `ACQUISITION_OR_CONNECTION`: show compact’s immediate effects and launch ownerless-fleet conflict.
-- `SYNERGY_OR_USE`: permits mediation/mission/fleet coordination under compact. / authentication/verification with published uncertainty and split custody. / recognition seats/obligations in compact. / plural oversight/safe routes or claimant-aligned field network. / provincial precedent and courier mandate.
-- `COST_REFUSAL_OR_LOSS`: scrutiny, accountability and no sovereign/kingmaker authority. / frozen identities/routes/funds and long-term office legitimacy. / bargaining, regional inequality, veto and weak-region neglect. / compromised identities, past manipulation and agency fracture. / Core suspicion and local dissent.
-- `SET_ADVANCE_CONDITION`: permits mediation/mission/fleet coordination under compact. / authentication/verification with published uncertainty and split custody. / recognition seats/obligations in compact. / plural oversight/safe routes or claimant-aligned field network. / provincial precedent and courier mandate.
-- `NEXT_DESIRE`: `C/G — bounded recognition, scope disputed`. -- / `G — bounded Continuity seat, future antagonist path preserved`. / `G/L — enough signatories for compact, major provinces dissent`. / `G/L — one network survives but no unified Intelligence obedience`. / `G — compact precedent, not universal rule`.
-- `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
+- `SYNERGY_OR_USE`: permits mediation/mission/fleet coordination under compact.
+- `COST_REFUSAL_OR_LOSS`: scrutiny, accountability and no sovereign/kingmaker authority.
+- `SET_ADVANCE_CONDITION`: permits mediation/mission/fleet coordination under compact.
+- `NEXT_DESIRE`: `C/G — bounded recognition, scope disputed`. --
+- `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음
 - `ACTIVE_TARGETS`:
   - `CLT-GA4-G4-M06` / `G4-M06` / Strategically Recognized P-001 Coalition Status — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=127
-  - `CLT-GA4-G4-P04` / `G4-P04` / Continuity Custodian Relationship — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=117
-  - `CLT-GA4-G4-P05` / `G4-P05` / Provincial Compact Coalition — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=117
-  - `CLT-GA4-G4-P07` / `G4-P07` / R-IMP-001 / Intelligence Field Network — `EPISODE_OVERLAP+TITLE_TEXT` score=117
-  - `CLT-GA4-G4-E08` / `G4-E08` / Ardis Multiple-Legitimacy Response — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=117
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga4-episodes-331-450-act-map-v1.md` / 4D-4
 - `NEW_CANON_REQUIRED`: `NO`

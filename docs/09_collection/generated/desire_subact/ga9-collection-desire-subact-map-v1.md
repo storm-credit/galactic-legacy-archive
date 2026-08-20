@@ -339,13 +339,10 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: P-001 refuses permanent/indefinite central ownership and orders/prepares staged distribution, while acknowledging he must temporarily stabilize the handoff.
 - `COST_REFUSAL_OR_LOSS`: supporters/officials/fleets resist; opportunists attack; service risks become immediate.
 - `SET_ADVANCE_CONDITION`: P-001 refuses permanent/indefinite central ownership and orders/prepares staged distribution, while acknowledging he must temporarily stabilize the handoff.
-- `NEXT_DESIRE`: `G/R — practical central key retained only for staged handoff, not permanent ownership`. -- / `G/R — expanded into transition minimum rights`. / `C/G — GA10 operating contract`. / `G — direct GA10 trigger`. -- / `G/L — enough survive, some seized/damaged`.
+- `NEXT_DESIRE`: `C/G — GA10 operating contract`. / `G — direct GA10 trigger`. --
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지
 - `ACTIVE_TARGETS`:
-  - `CLT-GA9-G9-P08` / `G9-P08` / P-001 Human Corrective Office — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
-  - `CLT-GA9-G9-R03` / `G9-R03` / Emergency Appeal/Temporary Standing Provision — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
   - `CLT-GA9-G9-R09` / `G9-R09` / Seed/Service Continuity Handoff Requirements — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
   - `CLT-GA9-G9-R10` / `G9-R10` / Staged Distribution Mandate — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
-  - `CLT-GA9-G9-A03` / `G9-A03` / Split Mirrors and Regional Keys — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga9-episodes-901-1000-act-map-v1.md` / 9D-4
 - `NEW_CANON_REQUIRED`: `NO`

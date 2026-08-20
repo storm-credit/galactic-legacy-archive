@@ -324,20 +324,16 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
 - `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
-- `FRONT_DOMAINS`: C5 함선, C7 세력·제도, C6 기술·표준, C1 인물·관계, C8 영토·노드·문명
+- `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: stabilize political/military aftermath and identify next conflict. → distributed institutions survive in several nodes; reforms to emergency route/manifest/authority.
 - `DISCOVERY`: stabilize political/military aftermath and identify next conflict.
 - `ACQUISITION_OR_CONNECTION`: distributed institutions survive in several nodes; reforms to emergency route/manifest/authority.
 - `SYNERGY_OR_USE`: distributed institutions survive in several nodes; reforms to emergency route/manifest/authority.
 - `COST_REFUSAL_OR_LOSS`: war becomes more fragmented and brutal.
 - `SET_ADVANCE_CONDITION`: distributed institutions survive in several nodes; reforms to emergency route/manifest/authority.
-- `NEXT_DESIRE`: `G/L — irreversible negative/operational asset state`. / `G/L — several councils/routes survive, no unified civilian fleet`. / `C/G/L`. / `G/L`. / `G/L — route remains limited or temporarily closed after operation`.
-- `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
+- `NEXT_DESIRE`: `C/G — reform begins; enforcement uneven`. --
+- `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음
 - `ACTIVE_TARGETS`:
-  - `CLT-GA6-G6-R06` / `G6-R06` / Strategic Hull Sacrifice and Scuttle Plan — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=125
-  - `CLT-GA6-G6-P02` / `G6-P02` / Civilian Convoy Council Network — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
-  - `CLT-GA6-G6-R12` / `G6-R12` / Survivor/Holdout Obligation Network — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
-  - `CLT-GA6-G6-A01` / `G6-A01` / Distributed Compact Command Function — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
-  - `CLT-GA6-G6-A08` / `G6-A08` / Orpheus Node/Defense/Thermal Capacity — `EPISODE_OVERLAP+TITLE_TEXT` score=121
+  - `CLT-GA6-G6-R14` / `G6-R14` / Emergency Route/Manifest Reform Package — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=120
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga6-episodes-571-690-act-map-v1.md` / 6D-4
 - `NEW_CANON_REQUIRED`: `NO`

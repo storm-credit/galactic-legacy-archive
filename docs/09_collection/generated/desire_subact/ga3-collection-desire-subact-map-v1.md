@@ -348,20 +348,19 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
 - `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
-- `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C4 유물·증거, C1 인물·관계
+- `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C4 유물·증거
 - `READER_DESIRE_MAIN`: convert emergency operation into a 1–3 year local joint-trust charter/treaty. → Ardis Node Joint Trust and limited regional route. repair/production alliance and political recognition enough to act.
 - `DISCOVERY`: convert emergency operation into a 1–3 year local joint-trust charter/treaty.
 - `ACQUISITION_OR_CONNECTION`: Ardis Node Joint Trust and limited regional route. repair/production alliance and political recognition enough to act.
 - `SYNERGY_OR_USE`: Ardis Node Joint Trust and limited regional route. repair/production alliance and political recognition enough to act.
 - `COST_REFUSAL_OR_LOSS`: slow, contested and underfunded. one leader/faction leaves government or organizes opposition. Imperial/Helix/Independence strategic conflict escalates around succession rumors/orders.
 - `SET_ADVANCE_CONDITION`: Ardis Node Joint Trust and limited regional route. repair/production alliance and political recognition enough to act.
-- `NEXT_DESIRE`: `G — grand-act institutional reward`. / `T/I — one new CORE question only`. / `C/G — begun, not completed`. -- / `G — standing local defense under civilian review`. / `G — worker/production authority sharing power with nontechnical groups`.
-- `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음
+- `NEXT_DESIRE`: `G — grand-act institutional reward`. / `T/I — one new CORE question only`. / `C/G — begun, not completed`. -- / `C — candidate path, months/years from completion`. --
+- `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음
 - `ACTIVE_TARGETS`:
   - `CLT-GA3-G3-R11` / `G3-R11` / Ardis Node Joint Trust Charter — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=131
   - `CLT-GA3-G3-M03` / `G3-M03` / Multiple Valid Imperial Succession Protocols — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=131
   - `CLT-GA3-G3-R12` / `G3-R12` / Local Succession/Operator Training Program — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=123
-  - `CLT-GA3-G3-R07` / `G3-R07` / Segmented Civilian Defense Charter — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
-  - `CLT-GA3-G3-P02` / `G3-P02` / AR-WRK-001 / Foundry Compact Leader — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=117
+  - `CLT-GA3-G3-N10` / `G3-N10` / L2 Candidate Path — `EPISODE_OVERLAP+TITLE_TEXT` score=111
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga3-episodes-211-330-act-map-v1.md` / 3D-4
 - `NEW_CANON_REQUIRED`: `NO`

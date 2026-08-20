@@ -328,19 +328,18 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
-- `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C8 영토·노드·문명
+- `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도
 - `READER_DESIRE_MAIN`: publish/establish plural incident records, direct accountability and H-001’s future role. Possible H-001 outcome — recommended: removed/resigns from singular emergency office. remains elected/contracted political/logistics actor under narrower authority, or leads a separate accountable organization. accepts specific legal/compensation obligations. refuses martyrdom or P-001 subordination. → no total absolution, but individuals/institutions regain names and causal roles.
 - `DISCOVERY`: publish/establish plural incident records, direct accountability and H-001’s future role. Possible H-001 outcome — recommended: removed/resigns from singular emergency office. remains elected/contracted political/logistics actor under narrower authority, or leads a separate accountable organization. accepts specific legal/compensation obligations. refuses martyrdom or P-001 subordination.
 - `ACQUISITION_OR_CONNECTION`: no total absolution, but individuals/institutions regain names and causal roles.
 - `SYNERGY_OR_USE`: no total absolution, but individuals/institutions regain names and causal roles.
 - `COST_REFUSAL_OR_LOSS`: central archive/Continuity actors argue plural correction threatens legal order. radicals/State actors fight over record custody and identity consequences.
 - `SET_ADVANCE_CONDITION`: no total absolution, but individuals/institutions regain names and causal roles.
-- `NEXT_DESIRE`: `C/G/L`. / `G/R — direct GA8 trigger`. / `C/G`. / `G — grand-act institutional reward, not H-001 personal network`. -- / `G — no total guilt or absolution`.
-- `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음
+- `NEXT_DESIRE`: `C/G/L`. / `G/R — direct GA8 trigger`. / `G — grand-act institutional reward, not H-001 personal network`. -- / `G — no total guilt or absolution`.
+- `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지
 - `ACTIVE_TARGETS`:
   - `CLT-GA7-G7-R10` / `G7-R10` / Survivor Aid, Claims and Reparation Obligation — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=134
   - `CLT-GA7-G7-M09` / `G7-M09` / Decompressed Blood Admiral Archive State — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=130
-  - `CLT-GA7-G7-R04` / `G7-R04` / Federation–Continuity Minimum Corridor Link — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=125
   - `CLT-GA7-G7-R12` / `G7-R12` / Reformed Mutual Route Federation Charter — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=122
   - `CLT-GA7-G7-M08` / `G7-M08` / Specific Responsibility Finding — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=122
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga7-episodes-691-800-act-map-v1.md` / 7D-4

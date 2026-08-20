@@ -11,14 +11,14 @@ Publication: NOT AUTHORIZED
 - source collection rows: **415 / 415**
 - parsed subacts: **160**
 - GA subact counts: `{'GA1': 16, 'GA2': 16, 'GA3': 16, 'GA4': 16, 'GA5': 16, 'GA6': 16, 'GA7': 16, 'GA8': 16, 'GA9': 16, 'GA10': 16}`
-- direct A matches: **141**
-- manual source-bound A matches: **19**
+- direct A matches: **140**
+- manual source-bound A matches: **20**
 - B textual matches: **0**
 - B fallback matches: **0**
 - subacts with zero active target: **0**
 - mandatory desire fields missing: **0**
-- source rows with no explicit episode reference: **0**
-- source rows never selected as a front-stage subact target: **168**
+- source rows with no explicit episode reference: **211**
+- source rows never selected as a front-stage subact target: **176**
 
 `never selected` is not automatically a defect: background, later-reuse, claim, loss and legacy rows may remain off-stage. Every source row still receives a stable collection-thread execution ID.
 

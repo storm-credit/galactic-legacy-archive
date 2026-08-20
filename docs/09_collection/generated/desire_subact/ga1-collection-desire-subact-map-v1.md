@@ -358,19 +358,19 @@ Publication: NOT AUTHORIZED
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C5 함선, C2 기체
-- `READER_DESIRE_MAIN`: Student Mutual Network / Assembly Seed / Academy Alumni/External Mission Cell / Student Mutual Guarantee Fund → mutual fund E27–32; preference process E73–84 / E93–100 / E39–45 and E93–100
-- `DISCOVERY`: Student Mutual Network / Assembly Seed / Academy Alumni/External Mission Cell / Student Mutual Guarantee Fund
-- `ACQUISITION_OR_CONNECTION`: mutual fund E27–32; preference process E73–84 / E93–100 / E39–45 and E93–100
-- `SYNERGY_OR_USE`: representation/evacuation/charter E85–100 / GA2 ship/contract structure / scapegoat family/legal support, small independent resource / legal GA2 missions / no single faction/person can deploy/erase frame/core
-- `COST_REFUSAL_OR_LOSS`: factional division, surveillance, elected leaders can be captured / academy reputation, sponsor influence, members can choose other factions / collective contributions/debt and infiltration / oversight, debt, risk classification, multiple sponsors / delayed response and complicated emergency access
-- `SET_ADVANCE_CONDITION`: representation/evacuation/charter E85–100 / GA2 ship/contract structure / scapegoat family/legal support, small independent resource / legal GA2 missions / no single faction/person can deploy/erase frame/core
-- `NEXT_DESIRE`: `G — limited assembly, not united student nation` / `C/G — first licensed autonomous mission unit` -- / `G — part of student assembly finance` / `G — limited cell/ship eligibility` / `G — early model for later distributed command` --
+- `READER_DESIRE_MAIN`: Student Mutual Network / Assembly Seed / Academy Alumni/External Mission Cell / External Mission License → mutual fund E27–32; preference process E73–84 / E93–100 / E39–45 and E93–100 / not personal rescue only; community representation and treatment
+- `DISCOVERY`: Student Mutual Network / Assembly Seed / Academy Alumni/External Mission Cell / External Mission License
+- `ACQUISITION_OR_CONNECTION`: mutual fund E27–32; preference process E73–84 / E93–100 / E39–45 and E93–100 / not personal rescue only; community representation and treatment
+- `SYNERGY_OR_USE`: representation/evacuation/charter E85–100 / GA2 ship/contract structure / legal GA2 missions / no single faction/person can deploy/erase frame/core / H-001 agency, Black Ward, charter rights, future route federation
+- `COST_REFUSAL_OR_LOSS`: factional division, surveillance, elected leaders can be captured / academy reputation, sponsor influence, members can choose other factions / oversight, debt, risk classification, multiple sponsors / delayed response and complicated emergency access / public exposure, internal disagreement, refusal of hero plans
+- `SET_ADVANCE_CONDITION`: representation/evacuation/charter E85–100 / GA2 ship/contract structure / legal GA2 missions / no single faction/person can deploy/erase frame/core / H-001 agency, Black Ward, charter rights, future route federation
+- `NEXT_DESIRE`: `G — limited assembly, not united student nation` / `C/G — first licensed autonomous mission unit` -- / `G — limited cell/ship eligibility` / `G — early model for later distributed command` -- / `G — represented community with separate voice`, exact focal 2–3 people open
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA1-I-001` / `I-001` / Student Mutual Network / Assembly Seed — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=124
   - `CLT-GA1-I-005` / `I-005` / Academy Alumni/External Mission Cell — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=124
-  - `CLT-GA1-R-006` / `R-006` / Student Mutual Guarantee Fund — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
   - `CLT-GA1-R-008` / `R-008` / External Mission License — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=120
   - `CLT-GA1-R-012` / `R-012` / 07 Multi-Party Custody and Command Key Scheme — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=120
+  - `CLT-GA1-P-011` / `P-011` / Protector/Community Focal Network — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=113
 - `SOURCE_SUBACT`: `docs/10_story_architecture/first-100-act-map-v2-consolidated.md` / D4
 - `NEW_CANON_REQUIRED`: `NO`

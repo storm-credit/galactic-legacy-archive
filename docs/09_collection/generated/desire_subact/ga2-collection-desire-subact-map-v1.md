@@ -355,20 +355,17 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
 - `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
-- `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C5 함선, C6 기술·표준, C8 영토·노드·문명, C4 유물·증거
+- `FRONT_DOMAINS`: C5 함선, C7 세력·제도, C6 기술·표준, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: decide whether the team/ship/standard goes to Ardis and under whose terms. → legal/operational route to Ardis, worker/standard coalition, regional legitimacy.
 - `DISCOVERY`: decide whether the team/ship/standard goes to Ardis and under whose terms.
 - `ACQUISITION_OR_CONNECTION`: legal/operational route to Ardis, worker/standard coalition, regional legitimacy.
 - `SYNERGY_OR_USE`: legal/operational route to Ardis, worker/standard coalition, regional legitimacy.
 - `COST_REFUSAL_OR_LOSS`: first ship accepts debt/repair/defense obligation and enters a conflict larger than it can solve. some crew leave or refuse. the standard’s failures become team responsibility.
 - `SET_ADVANCE_CONDITION`: legal/operational route to Ardis, worker/standard coalition, regional legitimacy.
-- `NEXT_DESIRE`: `G — provisional council, not unified permanent faction`. / `G/L — some remain, some paid/leave, claims persist institutionally`. / `G/R — proven and revised distributed command`. / `G — temporary and damaged, not full node ownership`. / `G — functional but fragile crew institution`.
-- `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
+- `NEXT_DESIRE`: `G/R — proven and revised distributed command`. / `C — accepted conditionally, implementation is GA3`.
+- `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA2-G2-P07` / `G2-P07` / Brann–Neris Standards/Worker Council — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=125
-  - `CLT-GA2-G2-P05` / `G2-P05` / Old Crew/Worker Claimants — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
   - `CLT-GA2-G2-S02` / `G2-S02` / Ship Command Charter — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
-  - `CLT-GA2-G2-R08` / `G2-R08` / Silex Limited Access and Repair Trust — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
-  - `CLT-GA2-G2-I01` / `G2-I01` / First Ship Crew and Mission Trust — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
+  - `CLT-GA2-G2-R09` / `G2-R09` / Ardis Service/Defense Invitation — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=117
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga2-episodes-101-210-act-map-v1.md` / 2D-4
 - `NEW_CANON_REQUIRED`: `NO`

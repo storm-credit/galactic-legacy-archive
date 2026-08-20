@@ -6,7 +6,7 @@ Publication: NOT AUTHORIZED
 
 ## Purpose
 
-The first strict pass surfaced 19 B-TEXTUAL subacts. None is promoted by score inflation. Each row below was routed to existing registry IDs after direct subact/registry review.
+The first strict pass surfaced 19 B-TEXTUAL subacts; the endpoint-status false-A filter then surfaced GA10 10D-4 as one additional B. None is promoted by score inflation. Each row below was routed to existing registry IDs after direct subact/registry review.
 
 ## Manual Closure Table
 
@@ -31,6 +31,7 @@ The first strict pass surfaced 19 B-TEXTUAL subacts. None is promoted by score i
 | GA10 10D-1 | E1076–E1082 | `G10-R02`, `G10-R09`, `G10-R10`, `G10-L08`, `G10-R05` | 재건·청구·이주·기술/의료·첫 배의 서비스 전환을 묶어 전쟁 뒤의 수집 보상을 '정리할 책임'으로 바꾼다. |
 | GA10 10D-2 | E1083–E1089 | `G10-P03`, `G10-L07`, `G10-L08`, `G10-L03`, `G10-L01` | P03 Ownership of Collected Legacy를 07/첫 배/독립 archive·route actors의 반환·독립 custody로 해소한다. |
 | GA10 10D-3 | E1090–E1095 | `G10-P04`, `G10-M02`, `G10-M04`, `G10-M08`, `G10-R06` | P04 One Canonical History를 Blood Admiral/Thirteen Heroes/Archive right-wrong/translation commons와 묶어 복수 역사로 종결한다. |
+| GA10 10D-4 | E1096–E1100 | `G10-L07`, `G10-L08`, `G10-L10`, `G10-P04`, `G10-P03` | endpoint-status false-A를 제거한 뒤, CY751 최종 보상을 07 공공 서비스 계보, 첫 배/승무원 기관, 교육 계보, 복수 역사, 비소유 유산으로 수동 고정한다. 평범한 현재 사람은 새 collectible이 아니라 이 구조가 실제로 작동하는 최종 인간 증거다. |
 
 ## GA10 Ending Precedence Attack
 
@@ -69,4 +70,4 @@ The first strict pass surfaced 19 B-TEXTUAL subacts. None is promoted by score i
 
 ## Verdict
 
-> **PASS — 19/19 B-depth rows manually source-bound; no new canon; GA10 current ending precedence preserved.**
+> **PASS — 20/20 strict/manual rows source-bound; endpoint false-A removed; no new canon; GA10 current ending precedence preserved.**

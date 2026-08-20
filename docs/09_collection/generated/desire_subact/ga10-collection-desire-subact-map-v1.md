@@ -372,8 +372,8 @@ Publication: NOT AUTHORIZED
 - `SET_EXECUTION_ID`: `CLSET-GA10-10D-4`
 - `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
 - `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
-- `MATCH_DEPTH`: `A-DIRECT`
-- `FRONT_DOMAINS`: C5 함선, C7 세력·제도, C1 인물·관계, C8 영토·노드·문명, C6 기술·표준
+- `MATCH_DEPTH`: `A-MANUAL`
+- `FRONT_DOMAINS`: C2 기체, C6 기술·표준, C1 인물·관계, C5 함선, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: CY751 ordinary institutions, unequal recovery, independent futures and incomplete histories are the surviving legacy state. → the final reward is not possession: ordinary people can act, correct/refuse records and ask for present service needs without Rian's future index.
 - `DISCOVERY`: CY751 ordinary institutions, unequal recovery, independent futures and incomplete histories are the surviving legacy state.
 - `ACQUISITION_OR_CONNECTION`: the final reward is not possession: ordinary people can act, correct/refuse records and ask for present service needs without Rian's future index.
@@ -383,11 +383,11 @@ Publication: NOT AUTHORIZED
 - `NEXT_DESIRE`: terminal desire: ask the ordinary person's current name and/or what they need now; no chosen-one signal, Archive reaction, reset or E1101 bait.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA10-G10-R04` / `G10-R04` / Common Fleet / Mission Command Network — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=125
-  - `CLT-GA10-G10-P01` / `G10-P01` / P-001 Central Corrective Command — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
-  - `CLT-GA10-G10-A04` / `G10-A04` / Local Capture/Failed Transition Region — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
-  - `CLT-GA10-G10-M05` / `G10-M05` / Administrative Death and Protector Community — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
-  - `CLT-GA10-G10-M13` / `G10-M13` / H-002 Official Death/Collective Authorship — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
+  - `CLT-GA10-G10-L07` / `G10-L07` / 07 Original Frame and Open Service Spine — `MANUAL_SOURCE_BOUND` score=200
+  - `CLT-GA10-G10-L08` / `G10-L08` / First Ship / Crew Institution — `MANUAL_SOURCE_BOUND` score=199
+  - `CLT-GA10-G10-L10` / `G10-L10` / Academy / Education Lineage — `MANUAL_SOURCE_BOUND` score=198
+  - `CLT-GA10-G10-P04` / `G10-P04` / One Canonical History — `MANUAL_SOURCE_BOUND` score=197
+  - `CLT-GA10-G10-P03` / `G10-P03` / Ownership of Collected Legacy — `MANUAL_SOURCE_BOUND` score=196
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga10-episodes-1001-1100-act-map-v1.md` / 10D-4
 - `ENDING_PRECEDENCE_GUARD`: `D-20260820-02 / ga10-ending-reconciliation-canon-amendment-2026-08-20` — conflicting older REVIEW/open registry wording cannot override the reconciled ending.
 - `NEW_CANON_REQUIRED`: `NO`

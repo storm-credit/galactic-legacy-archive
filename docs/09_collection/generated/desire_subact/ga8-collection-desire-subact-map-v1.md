@@ -354,13 +354,10 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: immediate civilizational stabilization and full origin confirmation.
 - `COST_REFUSAL_OR_LOSS`: GA9 preservation regime has begun with public support and institutional momentum.
 - `SET_ADVANCE_CONDITION`: immediate civilizational stabilization and full origin confirmation.
-- `NEXT_DESIRE`: `C/G — partial framework, not final constitution`. / `G/R — selection truth confirmed; exclusive curator refused but unique connection deepens`. -- / `G/R`. / `G — active bounded/expanding system`. / `G`.
+- `NEXT_DESIRE`: `C/G — partial framework, not final constitution`. / `G — active bounded/expanding system`.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA8-G8-R06` / `G8-R06` / Preserve/Correct/Plural/Forget/Refuse/Audit Rights Framework — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=134
-  - `CLT-GA8-G8-P08` / `G8-P08` / P-001 as Unrecorded Connector / Seed Corrective Candidate — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=125
-  - `CLT-GA8-G8-M08` / `G8-M08` / Seed Is Institution, Not Singular Person — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=125
   - `CLT-GA8-G8-A05` / `G8-A05` / Continuity Assembly / Seed Consensus Lattice — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=122
-  - `CLT-GA8-G8-R02` / `G8-R02` / Public Evidence / Intimate Memory / Operational Status Separation — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga8-episodes-801-900-act-map-v1.md` / 8D-4
 - `NEW_CANON_REQUIRED`: `NO`
