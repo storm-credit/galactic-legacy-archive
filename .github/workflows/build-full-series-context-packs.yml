@@ -29,10 +29,10 @@ jobs:
           python-version: '3.12'
 
       - name: Build complete source-bound Context Packs
-        run: python tools/build_full_series_context_packs_complete.py
+        run: python tools/run_full_series_context_packs_complete.py
 
       - name: Verify complete generated coverage is current
-        run: python tools/build_full_series_context_packs_complete.py --check
+        run: python tools/run_full_series_context_packs_complete.py --check
 
       - name: Commit generated Context outputs
         if: ${{ github.event_name == 'push' }}
