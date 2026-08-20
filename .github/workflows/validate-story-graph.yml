@@ -1,0 +1,34 @@
+name: Validate Story Graph
+
+on:
+  pull_request:
+    paths:
+      - "docs/_graph/**"
+      - "docs/_entities/**"
+      - "docs/_index/**"
+      - "tools/validate_story_graph.py"
+      - ".github/workflows/validate-story-graph.yml"
+  push:
+    branches: [main]
+    paths:
+      - "docs/_graph/**"
+      - "docs/_entities/**"
+      - "docs/_index/**"
+      - "tools/validate_story_graph.py"
+      - ".github/workflows/validate-story-graph.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  validate-story-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate Obsidian story graph
+        run: python tools/validate_story_graph.py
