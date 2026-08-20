@@ -79,11 +79,18 @@ jobs:
           grep -n "Status: PASS\|target-title fallback\|malformed" docs/99_quality_control/full-series-collection-reader-desire-source-audit-v1.md
           grep -n "Status: PASS\|exact adjacent\|active-target count" docs/99_quality_control/full-series-collection-desire-repetition-reader-memory-redteam-v1.md
 
+      - name: Restore unchanged normalization baseline bytes
+        if: ${{ github.event_name == 'push' }}
+        run: |
+          git checkout origin/main -- \
+            docs/09_collection/data/collection-normalization-full-source-rows-v1.csv \
+            docs/09_collection/data/collection-normalization-full-expanded-records-v1.csv
+
       - name: Commit generated outputs on production branch
         if: ${{ github.event_name == 'push' }}
         shell: bash
         run: |
-          if [[ -n "$(git status --porcelain docs/09_collection/generated/desire_subact docs/99_quality_control/full-series-collection-desire-subact-depth-audit-v1.md docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md docs/99_quality_control/full-series-collection-endpoint-reference-false-a-audit-v1.md docs/99_quality_control/full-series-collection-set-family-semantic-balance-audit-v1.md docs/99_quality_control/full-series-collection-reader-desire-source-audit-v1.md docs/99_quality_control/full-series-collection-desire-repetition-reader-memory-redteam-v1.md)" ]]; then
+          if [[ -n "$(git status --porcelain docs/09_collection/generated/desire_subact docs/99_quality_control/full-series-collection-desire-subact-depth-audit-v1.md docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md docs/99_quality_control/full-series-collection-endpoint-reference-false-a-audit-v1.md docs/99_quality_control/full-series-collection-set-family-semantic-balance-audit-v1.md docs/99_quality_control/full-series-collection-reader-desire-source-audit-v1.md docs/99_quality_control/full-series-collection-desire-repetition-reader-memory-redteam-v1.md docs/09_collection/data/collection-normalization-full-source-rows-v1.csv docs/09_collection/data/collection-normalization-full-expanded-records-v1.csv)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add docs/09_collection/generated/desire_subact \
@@ -92,7 +99,9 @@ jobs:
                     docs/99_quality_control/full-series-collection-endpoint-reference-false-a-audit-v1.md \
                     docs/99_quality_control/full-series-collection-set-family-semantic-balance-audit-v1.md \
                     docs/99_quality_control/full-series-collection-reader-desire-source-audit-v1.md \
-                    docs/99_quality_control/full-series-collection-desire-repetition-reader-memory-redteam-v1.md
+                    docs/99_quality_control/full-series-collection-desire-repetition-reader-memory-redteam-v1.md \
+                    docs/09_collection/data/collection-normalization-full-source-rows-v1.csv \
+                    docs/09_collection/data/collection-normalization-full-expanded-records-v1.csv
             git commit -m "Collection: finalize source-bound reader desires [collection-generated]"
             git push origin HEAD:${{ github.ref_name }}
           else
