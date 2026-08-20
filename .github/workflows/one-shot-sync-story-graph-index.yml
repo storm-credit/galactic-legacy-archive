@@ -1,9 +1,7 @@
 name: One-shot sync story graph indexes
 
 on:
-  push:
-    branches:
-      - ops/obsidian-story-graph-wiring-v1
+  pull_request:
     paths:
       - ".github/workflows/one-shot-sync-story-graph-index.yml"
 
@@ -12,12 +10,13 @@ permissions:
 
 jobs:
   sync:
+    if: github.event.pull_request.head.repo.full_name == github.repository
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout branch
+      - name: Checkout PR head branch
         uses: actions/checkout@v4
         with:
-          ref: ops/obsidian-story-graph-wiring-v1
+          ref: ${{ github.head_ref }}
           fetch-depth: 0
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -38,7 +37,7 @@ jobs:
           PY
       - name: Regenerate repository indexes
         run: python tools/build_index.py
-      - name: Validate generated state and graph
+      - name: Validate synchronized working tree
         run: |
           python tools/build_index.py --check
           python tools/validate_canon.py
@@ -54,4 +53,4 @@ jobs:
             exit 0
           fi
           git commit -m "Ops: separate story graph from generated source indexes"
-          git push origin HEAD:ops/obsidian-story-graph-wiring-v1
+          git push origin HEAD:${{ github.head_ref }}
