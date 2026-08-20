@@ -5770,7 +5770,7 @@ bounded current mission/formation commander(s) and the crews holding the approve
 
 **DECISION_BEAT**  
 no Rian unilateral choice; current evidence, affected-service thresholds, mission intent and formation availability are compared; temporary ruling sends 1 combat + 2 support toward Vesper immediately and holds 1 combat + 2 support at a transfer junction pending V10 physical update.
-**DECISION_MODE:** `SOURCE-BLOCK-DECISION`
+**DECISION_MODE:** `SOURCE-EXPLICIT-DECISION`
 
 ### Scene execution
 
@@ -5795,7 +5795,7 @@ V10 reports an armed contact larger than its disengagement model, while Vesper�
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[APPROVED SECTION CARRIER EVIDENCE] [End State E550] multi-front campaign active, not resolved; Asel autonomous victory recorded; no Rian overall command; reserve split and delayed … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[APPROVED SECTION CARRIER EVIDENCE] [End State E550] multi-front campaign active, not resolved; Asel autonomous victory recorded; no Rian overall command; reserve split and delayed … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.

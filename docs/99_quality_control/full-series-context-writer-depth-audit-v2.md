@@ -16,8 +16,8 @@ Depends On: [[full-series-context-writer-activation-depth-standard-v1]], [[full-
 
 ## 2. Explicit-vs-workflow routing transparency
 
-- source-explicit POV routes: **481**.
-- workflow-recommended POV routes: **609** (explicitly noncanon; preserve source information ceiling).
+- source-explicit POV routes: **485**.
+- workflow-recommended POV routes: **605** (explicitly noncanon; preserve source information ceiling).
 - owner routes using only generic engine-bounded role with no POV/front/decision actor support: **0**.
 - non-discrete decision pivots routed from approved state change: **125**.
 

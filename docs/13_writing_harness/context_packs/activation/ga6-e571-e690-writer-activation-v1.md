@@ -6341,25 +6341,25 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current medical/care authority together with patient/affected-party consent where applicable; identify the performer/signatory/refuser from this exact source decision beat: Ella Savin and current medical/ship teams.); ground that face in the exact source pivot [Ella Savin and current medical/ship teams.] and source cost [Ella’s death, degraded medical capacity and further delay.]. Do not create a new named witness merely to supply emotion.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
+Ella Savin and current medical/ship teams.
+**POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current medical/care authority together with patient/affected-party consent where applicable; identify the performer/signatory/refuser from this exact source decision beat: Ella Savin and current medical/ship teams.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+POV/decision-carried current actor(s): Ella Savin and current medical/ship teams.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
 
 **DECISION_BEAT**  
-Ella Savin and current medical/ship teams.
-**DECISION_MODE:** `SOURCE-BLOCK-DECISION`
+Ella remains at the manual medical/coupling station with a small technical team; she orders patient/caregiver transfers, treatment-priority separation and manual release; Rian does not order her choice.
+**DECISION_MODE:** `SOURCE-EXPLICIT-DECISION`
 
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[separate an unstable medical-carrier pair and preserve treatment/route access for patients and crews.] → OBSTACLE[damaged coupling, pressure/fire spread and incompatible branch timing threaten both carriers; automatic release risks uncontrolled rotation and patient life-support failure … [source continues]] → PIVOT[Ella Savin and current medical/ship teams.] → DELTA[the two carrier groups separate; most patients/crew continue or enter current care/holdout paths; Ella Savin dies permanently during the final release/pressure-fire failure … [source continues]] → COST[Ella’s death, degraded medical capacity and further delay.] → NEXT[at 03:20 the common phase has exhausted its assumptions; G requests full control and the separated authorities must choose.]
+PRESSURE[separate an unstable medical-carrier pair and preserve treatment/route access for patients and crews.] → OBSTACLE[damaged coupling, pressure/fire spread and incompatible branch timing threaten both carriers; automatic release risks uncontrolled rotation and patient life-support failure … [source continues]] → PIVOT[Ella remains at the manual medical/coupling station with a small technical team; she orders patient/caregiver transfers, treatment-priority separation and manual release; Rian does not order her choice.] → DELTA[the two carrier groups separate; most patients/crew continue or enter current care/holdout paths; Ella Savin dies permanently during the final release/pressure-fire failure … [source continues]] → COST[Ella’s death, degraded medical capacity and further delay.] → NEXT[at 03:20 the common phase has exhausted its assumptions; G requests full control and the separated authorities must choose.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current medical/care authority together with patient/affected-party consent where applicable; identify the performer/signatory/refuser from this exact source decision beat: Ella Savin and current medical/ship teams.); ground that face in the exact source pivot [Ella Savin and current medical/ship teams.] and source cost [Ella’s death, degraded medical capacity and further delay.]. Do not create a new named witness merely to supply emotion.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
+source POV/current participants: Ella Savin and current medical/ship teams.
+**HUMAN_ROUTE_AUTHORITY:** `SOURCE-POV`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -6375,7 +6375,7 @@ at 03:20 the common phase has exhausted its assumptions; G requests full control
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=damaged coupling, pressure/fire spread and incompatible branch timing threaten both carriers; automatic release risks uncontrolled rotation and patient life-support failure … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=damaged coupling, pressure/fire spread and incompatible branch timing threaten both carriers; automatic release risks uncontrolled rotation and patient life-support failure … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -6408,7 +6408,7 @@ bounded current investigators/source custodians/witnesses with their separate ev
 
 **DECISION_BEAT**  
 Common Fact Board updates facts but does not vote priority; Deon/local, medical, ship/captain, affected constituencies, receiving bodies, military formations, evidence/appeal and holdout actors each grant only their fields; Rian rejects the full human-corrective/master operational key and recommends staged distributed architecture; several G/S supporters formally dissent and continue bounded participation.
-**DECISION_MODE:** `SOURCE-BLOCK-DECISION`
+**DECISION_MODE:** `SOURCE-EXPLICIT-DECISION`
 
 ### Scene execution
 
@@ -6433,7 +6433,7 @@ Grey and several captains refuse or alter M assignments at 05:50.
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Truth statement] M is not certified to minimize immediate deaths … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Truth statement] M is not certified to minimize immediate deaths … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -6515,25 +6515,25 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: Ardo Rev aboard `보루의 맹세`.); ground that face in the exact source pivot [Ardo Rev aboard `보루의 맹세`.] and source cost [Ardo’s death, combat-hull loss and weaker later central coordination.]. Do not create a new named witness merely to supply emotion.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
+Ardo Rev aboard `보루의 맹세`.
+**POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: Ardo Rev aboard `보루의 맹세`.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+POV/decision-carried current actor(s): Ardo Rev aboard `보루의 맹세`.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
 
 **DECISION_BEAT**  
-Ardo Rev aboard `보루의 맹세`.
-**DECISION_MODE:** `SOURCE-BLOCK-DECISION`
+Ardo keeps the commands separate, transmits standing intent and uses `보루의 맹세` to hold the hostile lane and authentication break.
+**DECISION_MODE:** `SOURCE-EXPLICIT-DECISION`
 
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[preserve two separating commands: the State/medical escort withdrawing from a collapsing lane and the independent defense formation covering C/receiving traffic.] → OBSTACLE[merging the commands would simplify defense but place both under one compromised route/authentication chain; abandoning either exposes patients/functions or C traffic.] → PIVOT[Ardo Rev aboard `보루의 맹세`.] → DELTA[both formations retain independent succession and continue their missions; `보루의 맹세` is lost/unrecoverable in the action; Ardo Rev dies permanently at 07:35 operation phase … [source continues]] → COST[Ardo’s death, combat-hull loss and weaker later central coordination.] → NEXT[C convergence needs a mobile route/support hull to absorb a propulsion/energy discontinuity.]
+PRESSURE[preserve two separating commands: the State/medical escort withdrawing from a collapsing lane and the independent defense formation covering C/receiving traffic.] → OBSTACLE[merging the commands would simplify defense but place both under one compromised route/authentication chain; abandoning either exposes patients/functions or C traffic.] → PIVOT[Ardo keeps the commands separate, transmits standing intent and uses `보루의 맹세` to hold the hostile lane and authentication break.] → DELTA[both formations retain independent succession and continue their missions; `보루의 맹세` is lost/unrecoverable in the action; Ardo Rev dies permanently at 07:35 operation phase … [source continues]] → COST[Ardo’s death, combat-hull loss and weaker later central coordination.] → NEXT[C convergence needs a mobile route/support hull to absorb a propulsion/energy discontinuity.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: Ardo Rev aboard `보루의 맹세`.); ground that face in the exact source pivot [Ardo Rev aboard `보루의 맹세`.] and source cost [Ardo’s death, combat-hull loss and weaker later central coordination.]. Do not create a new named witness merely to supply emotion.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
+source POV/current participants: Ardo Rev aboard `보루의 맹세`.
+**HUMAN_ROUTE_AUTHORITY:** `SOURCE-POV`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -6549,7 +6549,7 @@ C convergence needs a mobile route/support hull to absorb a propulsion/energy di
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Outcome] both formations retain independent succession and continue their missions; `보루의 맹세` is lost/unrecoverable in the action … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Outcome] both formations retain independent succession and continue their missions; `보루의 맹세` is lost/unrecoverable in the action … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -6573,12 +6573,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: Maren commits `파루스` as a temporary route/energy/traffic stabilizer, not as fleet flagship; Vera and engineering teams isolate the strategic propulsion bus and drive section under overload; local physical stop and crew consent remain.) … [source continues]
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
+Maren Dove, Vera Thorn, current crew and route teams.
+**POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: Maren commits `파루스` as a temporary route/energy/traffic stabilizer, not as fleet flagship; Vera and engineering teams isolate the strategic propulsion bus and drive section under overload; local physical stop and crew consent remain.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+POV/decision-carried current actor(s): Maren Dove, Vera Thorn, current crew and route teams.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
 
 **DECISION_BEAT**  
 Maren commits `파루스` as a temporary route/energy/traffic stabilizer, not as fleet flagship; Vera and engineering teams isolate the strategic propulsion bus and drive section under overload; local physical stop and crew consent remain.
@@ -6590,8 +6590,8 @@ Maren commits `파루스` as a temporary route/energy/traffic stabilizer, not as
 PRESSURE[keep bounded C convergence and a separating service/medical lane from collapsing after Ardo’s loss.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Maren commits `파루스` as a temporary route/energy/traffic stabilizer, not as fleet flagship; Vera and engineering teams isolate the strategic propulsion bus and drive section under overload … [source continues]] → DELTA[C convergence remains usable long enough to complete the major transfer phase; `파루스` permanently loses strategic propulsion and cannot return to normal interregional independent travel … [source continues]] → COST[Wren strategic mobility ends and Vera’s permanent injury changes crew succession.] → NEXT[late local operators, medical teams and remaining small craft have less than three hours before closure.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: Maren commits `파루스` as a temporary route/energy/traffic stabilizer, not as fleet flagship; Vera and engineering teams isolate the strategic propulsion bus and drive section under overload; local physical stop and crew consent remain.); ground that face in the exact source pivot [Maren commits `파루스` as a temporary route/energy/traffic stabilizer, not as fleet flagship; Vera and engineering teams isolate the strategic propulsion bus and drive section under overload; local physical stop and crew consent remain.] and source cost [Wren strategic mobility ends and Vera’s permanent injury changes crew succession.]. Do not create a new named witness merely to supply emotion.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
+source POV/current participants: Maren Dove, Vera Thorn, current crew and route teams.
+**HUMAN_ROUTE_AUTHORITY:** `SOURCE-POV`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -6607,7 +6607,7 @@ late local operators, medical teams and remaining small craft have less than thr
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Outcome] C convergence remains usable long enough to complete the major transfer phase … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Outcome] C convergence remains usable long enough to complete the major transfer phase … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
