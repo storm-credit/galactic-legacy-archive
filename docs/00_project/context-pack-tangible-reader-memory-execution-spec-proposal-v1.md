@@ -151,6 +151,8 @@ ABSTRACT_CONCEPTS_FOREGROUNDED:
 NEW_CANON_REQUIRED: NO / YES-STOP
 ```
 
+`HIGH_WATCH_BAND` is an identifier. The remaining seven rows are the extra HIGH-WATCH execution checks.
+
 ### 5.2 Do not store duplicate aliases
 
 The following PR #191 labels are **validation aliases**, not additional Context Pack fields:
@@ -237,7 +239,7 @@ For each episode Context Pack:
 7. copy the approved cost/refusal into `COST_OR_REFUSAL`;
 8. look backward for an existing carrier whose changed state can legitimately re-enter; otherwise use `NONE`;
 9. if not HIGH-WATCH, stop the tangible mapping here;
-10. if HIGH-WATCH, load the existing carrier matrix row and fill only the seven fields in §5.1;
+10. if HIGH-WATCH, load the existing carrier matrix row and fill the `HIGH_WATCH_BAND` identifier plus the seven execution checks in §5.1;
 11. verify current physical location/time of every recurring carrier;
 12. verify decision owner and Rian authority boundary;
 13. if any field requires new canon, set `NEW_CANON_REQUIRED: YES-STOP` and do not draft that invention.
@@ -442,7 +444,7 @@ This mapping is usable when:
 >
 > **GENERAL STORED FIELDS: 6**
 >
-> **HIGH-WATCH EXTRA STORED FIELDS: 7**
+> **HIGH-WATCH BAND IDENTIFIER: 1 + EXTRA EXECUTION CHECKS: 7**
 >
 > **DUPLICATE DELTA/COST/REENTRY FIELDS: REMOVED BY MAPPING, NOT BY EDITING HISTORY**
 >
