@@ -6,7 +6,8 @@ visual brackets even though they are not document links. Writer-activation
 output is validated as normal documentation, so those labels must not masquerade
 as resolvable wikilinks.
 
-This script changes syntax only, never story/source text semantics.
+This script changes syntax only, never story/source text semantics. It is also a
+watched workflow input so edits here force regeneration + persisted sanitation.
 """
 
 from __future__ import annotations
