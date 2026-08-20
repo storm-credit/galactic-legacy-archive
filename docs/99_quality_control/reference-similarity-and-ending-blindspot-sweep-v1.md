@@ -6,7 +6,7 @@ Canon Promotion: NOT AUTHORIZED
 Publication: NOT AUTHORIZED
 Owner Agents: X01 Logic / X02 Reader Memory / X04 Continuity / X05 Adversarial / C02 Ensemble / C04 Relationship / N06 Ending / A00 PM
 Last Reviewed: 2026-08-20
-Depends On: [[reference-deconstruction-and-anti-similarity-collection-v1]], [[core-cast-collectible-visual-identity-directions-v1]], [[parus-collectible-home-ship-visual-sensory-identity-directions-v1]], [[ga7-ga10-targeted-execution-and-ending-brainstorm-2026-08-20]], [[master-series-chronology-v1]]
+Depends On: [[reference-deconstruction-and-anti-similarity-collection-v1]], [[core-cast-collectible-visual-identity-directions-v1]], [[parus-collectible-home-ship-visual-sensory-identity-directions-v1]], [[master-series-chronology-v1]]
 Used By: final character production briefs, GA10 ending reconciliation decision, E1076–1100 remap preflight
 Open Risks: reference deconstruction can still produce an imitation through recombination; a `different hair + same face + same coat + same relationship` design is still a similarity failure.
 
