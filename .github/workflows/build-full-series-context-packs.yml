@@ -28,11 +28,11 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Build complete source-bound Context Packs
-        run: python tools/run_full_series_context_packs_complete.py
+      - name: Build semantic-complete source-bound Context Packs
+        run: python tools/build_full_series_context_packs_semantic.py
 
-      - name: Verify complete generated coverage is current
-        run: python tools/run_full_series_context_packs_complete.py --check
+      - name: Verify mandatory semantic coverage is current
+        run: python tools/build_full_series_context_packs_semantic.py --check
 
       - name: Commit generated Context outputs
         if: ${{ github.event_name == 'push' }}
@@ -46,6 +46,6 @@ jobs:
             echo "No generated Context changes to commit."
             exit 0
           fi
-          git commit -m "Production: complete E011-E1100 Context Packs [context-generated]"
+          git commit -m "Production: semantic-complete E011-E1100 Context Packs [context-generated]"
           git pull --rebase origin production/e001-e1100-context-full-series-v1
           git push origin HEAD:production/e001-e1100-context-full-series-v1
