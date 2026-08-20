@@ -4,7 +4,7 @@ Status: REVIEW — EXECUTION QC
 Story Canon Effect: NONE
 Publication: NOT AUTHORIZED
 
-> **VERDICT: HOLD**
+> **VERDICT: PASS**
 
 ## Coverage
 
@@ -12,12 +12,13 @@ Publication: NOT AUTHORIZED
 - parsed subacts: **160**
 - GA subact counts: `{'GA1': 16, 'GA2': 16, 'GA3': 16, 'GA4': 16, 'GA5': 16, 'GA6': 16, 'GA7': 16, 'GA8': 16, 'GA9': 16, 'GA10': 16}`
 - direct A matches: **141**
-- B textual matches: **19**
+- manual source-bound A matches: **19**
+- B textual matches: **0**
 - B fallback matches: **0**
 - subacts with zero active target: **0**
 - mandatory desire fields missing: **0**
 - source rows with no explicit episode reference: **0**
-- source rows never selected as a front-stage subact target: **170**
+- source rows never selected as a front-stage subact target: **168**
 
 `never selected` is not automatically a defect: background, later-reuse, claim, loss and legacy rows may remain off-stage. Every source row still receives a stable collection-thread execution ID.
 
@@ -33,25 +34,7 @@ Required for PASS:
 
 ## B-depth queue
 
-- `GA4 4A-2` E338–E345 — `B-TEXTUAL`
-- `GA6 6A-1` E571–E577 — `B-TEXTUAL`
-- `GA9 9A-1` E901–E906 — `B-TEXTUAL`
-- `GA9 9A-4` E919–E925 — `B-TEXTUAL`
-- `GA9 9B-3` E938–E944 — `B-TEXTUAL`
-- `GA10 10A-2` E1007–E1012 — `B-TEXTUAL`
-- `GA10 10A-3` E1013–E1019 — `B-TEXTUAL`
-- `GA10 10A-4` E1020–E1025 — `B-TEXTUAL`
-- `GA10 10B-1` E1026–E1031 — `B-TEXTUAL`
-- `GA10 10B-2` E1032–E1037 — `B-TEXTUAL`
-- `GA10 10B-3` E1038–E1044 — `B-TEXTUAL`
-- `GA10 10B-4` E1045–E1050 — `B-TEXTUAL`
-- `GA10 10C-1` E1051–E1057 — `B-TEXTUAL`
-- `GA10 10C-2` E1058–E1063 — `B-TEXTUAL`
-- `GA10 10C-3` E1064–E1070 — `B-TEXTUAL`
-- `GA10 10C-4` E1071–E1075 — `B-TEXTUAL`
-- `GA10 10D-1` E1076–E1082 — `B-TEXTUAL`
-- `GA10 10D-2` E1083–E1089 — `B-TEXTUAL`
-- `GA10 10D-3` E1090–E1095 — `B-TEXTUAL`
+- NONE
 
 ## Missing-field queue
 

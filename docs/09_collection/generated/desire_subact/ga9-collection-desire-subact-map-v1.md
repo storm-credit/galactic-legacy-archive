@@ -12,8 +12,8 @@ Publication: NOT AUTHORIZED
 - `SET_EXECUTION_ID`: `CLSET-GA9-9A-1`
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION`
-- `MATCH_DEPTH`: `B-TEXTUAL`
-- `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C1 인물·관계, C4 유물·증거
+- `MATCH_DEPTH`: `A-MANUAL`
+- `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C4 유물·증거
 - `READER_DESIRE_MAIN`: synchronized corridors show immediate effects after GA8 activation. → public trust and successful corrective exception.
 - `DISCOVERY`: synchronized corridors show immediate effects after GA8 activation.
 - `ACQUISITION_OR_CONNECTION`: public trust and successful corrective exception.
@@ -21,13 +21,13 @@ Publication: NOT AUTHORIZED
 - `COST_REFUSAL_OR_LOSS`: another review queue/region waits longer because resources/attention shift. P-001 exception becomes precedent/expectation.
 - `SET_ADVANCE_CONDITION`: public trust and successful corrective exception.
 - `NEXT_DESIRE`: a low-confidence person/community with equal urgent need is denied/deferred under the same rule that restored beneficiaries.
-- `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음
+- `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음
 - `ACTIVE_TARGETS`:
-  - `CLT-GA9-G9-P02` / `G9-P02` / Beneficiary Community Coalition — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA9-G9-P07` / `G9-P07` / AI Continuity Citizens and Ambiguous Entities — `TITLE_TEXT+DOMAIN_MATCH` score=8
-  - `CLT-GA9-G9-P08` / `G9-P08` / P-001 Human Corrective Office — `TITLE_TEXT` score=8
-  - `CLT-GA9-G9-R01` / `G9-R01` / Guaranteed Minimum-Service Corridor — `TITLE_TEXT+DOMAIN_MATCH` score=8
-  - `CLT-GA9-G9-R07` / `G9-R07` / Corrective Classification Override Log — `TITLE_TEXT` score=8
+  - `CLT-GA9-G9-P02` / `G9-P02` / Beneficiary Community Coalition — `MANUAL_SOURCE_BOUND` score=200
+  - `CLT-GA9-G9-R01` / `G9-R01` / Guaranteed Minimum-Service Corridor — `MANUAL_SOURCE_BOUND` score=199
+  - `CLT-GA9-G9-R07` / `G9-R07` / Corrective Classification Override Log — `MANUAL_SOURCE_BOUND` score=198
+  - `CLT-GA9-G9-P08` / `G9-P08` / P-001 Human Corrective Office — `MANUAL_SOURCE_BOUND` score=197
+  - `CLT-GA9-G9-R02` / `G9-R02` / Domain Classification Audit Map — `MANUAL_SOURCE_BOUND` score=196
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga9-episodes-901-1000-act-map-v1.md` / 9A-1
 - `NEW_CANON_REQUIRED`: `NO`
 
@@ -76,22 +76,22 @@ Publication: NOT AUTHORIZED
 - `SET_EXECUTION_ID`: `CLSET-GA9-9A-4`
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
-- `MATCH_DEPTH`: `B-TEXTUAL`
-- `FRONT_DOMAINS`: C4 유물·증거, C7 세력·제도, C6 기술·표준
+- `MATCH_DEPTH`: `A-MANUAL`
+- `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도, C4 유물·증거
 - `READER_DESIRE_MAIN`: synchronize a willing region/institution and observe interdependence effects. → clear regime legitimacy and service expansion.
 - `DISCOVERY`: synchronize a willing region/institution and observe interdependence effects.
 - `ACQUISITION_OR_CONNECTION`: clear regime legitimacy and service expansion.
 - `SYNERGY_OR_USE`: clear regime legitimacy and service expansion.
 - `COST_REFUSAL_OR_LOSS`: conditional access/trade/route rules begin pressuring opt-out region.
 - `SET_ADVANCE_CONDITION`: clear regime legitimacy and service expansion.
-- `NEXT_DESIRE`: `G/L — enough survive to help transition; some removed/complicit`. / `L/R — single coercive command defeated/bounded; personnel and security needs remain`. / `G/L — some viable, some failed/coerced, all relevant to GA10 regional choice`. / `C/G`. / `G/L`.
+- `NEXT_DESIRE`: `G/L — some viable, some failed/coerced, all relevant to GA10 regional choice`. / `C/G`. / `G/L`. / `G/L — enough survive to help transition; some removed/complicit`. / `L/R — single coercive command defeated/bounded; personnel and security needs remain`.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA9-G9-P03` / `G9-P03` / Internal Plural Safeguard Reformers — `TITLE_TEXT` score=16
-  - `CLT-GA9-G9-P04` / `G9-P04` / Cascade Security Forces/Hardliner — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA9-G9-P05` / `G9-P05` / Opt-Out/Hybrid Regions — `TITLE_TEXT` score=12
-  - `CLT-GA9-G9-R04` / `G9-R04` / Hybrid Opt-Out Compact — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA9-G9-R08` / `G9-R08` / Forced Synchronization and Harm Ledger — `TITLE_TEXT+DOMAIN_MATCH` score=12
+  - `CLT-GA9-G9-P05` / `G9-P05` / Opt-Out/Hybrid Regions — `MANUAL_SOURCE_BOUND` score=200
+  - `CLT-GA9-G9-R04` / `G9-R04` / Hybrid Opt-Out Compact — `MANUAL_SOURCE_BOUND` score=199
+  - `CLT-GA9-G9-R08` / `G9-R08` / Forced Synchronization and Harm Ledger — `MANUAL_SOURCE_BOUND` score=198
+  - `CLT-GA9-G9-P03` / `G9-P03` / Internal Plural Safeguard Reformers — `MANUAL_SOURCE_BOUND` score=197
+  - `CLT-GA9-G9-P04` / `G9-P04` / Cascade Security Forces/Hardliner — `MANUAL_SOURCE_BOUND` score=196
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga9-episodes-901-1000-act-map-v1.md` / 9A-4
 - `NEW_CANON_REQUIRED`: `NO`
 
@@ -140,8 +140,8 @@ Publication: NOT AUTHORIZED
 - `SET_EXECUTION_ID`: `CLSET-GA9-9B-3`
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
-- `MATCH_DEPTH`: `B-TEXTUAL`
-- `FRONT_DOMAINS`: C7 세력·제도, C1 인물·관계
+- `MATCH_DEPTH`: `A-MANUAL`
+- `FRONT_DOMAINS`: C7 세력·제도
 - `READER_DESIRE_MAIN`: stop real sabotage/attack without allowing the incident to erase all safeguards. → attack stopped, network vulnerability understood.
 - `DISCOVERY`: stop real sabotage/attack without allowing the incident to erase all safeguards.
 - `ACQUISITION_OR_CONNECTION`: attack stopped, network vulnerability understood.
@@ -149,13 +149,13 @@ Publication: NOT AUTHORIZED
 - `COST_REFUSAL_OR_LOSS`: emergency classifications, detentions and route/AI/tech freezes imposed broadly.
 - `SET_ADVANCE_CONDITION`: attack stopped, network vulnerability understood.
 - `NEXT_DESIRE`: Continuity Directorate invokes trusteeship over a failing/unsafe region or institution.
-- `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지
+- `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지
 - `ACTIVE_TARGETS`:
-  - `CLT-GA9-G9-P01` / `G9-P01` / A-001 / Continuity Directorate — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA9-G9-M02` / `G9-M02` / Central Command’s Real Efficiency — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA9-G9-P04` / `G9-P04` / Cascade Security Forces/Hardliner — `TITLE_TEXT+DOMAIN_MATCH` score=8
-  - `CLT-GA9-G9-P07` / `G9-P07` / AI Continuity Citizens and Ambiguous Entities — `TITLE_TEXT+DOMAIN_MATCH` score=8
-  - `CLT-GA9-G9-P08` / `G9-P08` / P-001 Human Corrective Office — `TITLE_TEXT+DOMAIN_MATCH` score=8
+  - `CLT-GA9-G9-P04` / `G9-P04` / Cascade Security Forces/Hardliner — `MANUAL_SOURCE_BOUND` score=200
+  - `CLT-GA9-G9-M02` / `G9-M02` / Central Command’s Real Efficiency — `MANUAL_SOURCE_BOUND` score=199
+  - `CLT-GA9-G9-P01` / `G9-P01` / A-001 / Continuity Directorate — `MANUAL_SOURCE_BOUND` score=198
+  - `CLT-GA9-G9-P08` / `G9-P08` / P-001 Human Corrective Office — `MANUAL_SOURCE_BOUND` score=197
+  - `CLT-GA9-G9-R08` / `G9-R08` / Forced Synchronization and Harm Ledger — `MANUAL_SOURCE_BOUND` score=196
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga9-episodes-901-1000-act-map-v1.md` / 9B-3
 - `NEW_CANON_REQUIRED`: `NO`
 

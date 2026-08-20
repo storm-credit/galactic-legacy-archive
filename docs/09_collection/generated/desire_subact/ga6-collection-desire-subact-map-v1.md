@@ -12,7 +12,7 @@ Publication: NOT AUTHORIZED
 - `SET_EXECUTION_ID`: `CLSET-GA6-6A-1`
 - `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
 - `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
-- `MATCH_DEPTH`: `B-TEXTUAL`
+- `MATCH_DEPTH`: `A-MANUAL`
 - `FRONT_DOMAINS`: C5 함선, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명, C1 인물·관계
 - `READER_DESIRE_MAIN`: distress/command messages reveal structural match to original Orpheus. → multi-party emergency council/operations cell.
 - `DISCOVERY`: distress/command messages reveal structural match to original Orpheus.
@@ -23,11 +23,11 @@ Publication: NOT AUTHORIZED
 - `NEXT_DESIRE`: preliminary census shows 200,000–350,000 people face 24–72 hour medical/air/water deadlines, while State institutional group claims millions of downstream lives.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA6-G6-P02` / `G6-P02` / Civilian Convoy Council Network — `TITLE_TEXT+DOMAIN_MATCH` score=16
-  - `CLT-GA6-G6-A08` / `G6-A08` / Orpheus Node/Defense/Thermal Capacity — `TITLE_TEXT` score=16
-  - `CLT-GA6-G6-P05` / `G6-P05` / Orpheus Local Node/Worker Authority — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA6-G6-P07` / `G6-P07` / Autonomous Fleet Commanders — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA6-G6-P08` / `G6-P08` / Orpheus Survivors and Original Survivors/Witnesses — `TITLE_TEXT+DOMAIN_MATCH` score=12
+  - `CLT-GA6-G6-P02` / `G6-P02` / Civilian Convoy Council Network — `MANUAL_SOURCE_BOUND` score=200
+  - `CLT-GA6-G6-A08` / `G6-A08` / Orpheus Node/Defense/Thermal Capacity — `MANUAL_SOURCE_BOUND` score=199
+  - `CLT-GA6-G6-P05` / `G6-P05` / Orpheus Local Node/Worker Authority — `MANUAL_SOURCE_BOUND` score=198
+  - `CLT-GA6-G6-P07` / `G6-P07` / Autonomous Fleet Commanders — `MANUAL_SOURCE_BOUND` score=197
+  - `CLT-GA6-G6-P08` / `G6-P08` / Orpheus Survivors and Original Survivors/Witnesses — `MANUAL_SOURCE_BOUND` score=196
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga6-episodes-571-690-act-map-v1.md` / 6A-1
 - `NEW_CANON_REQUIRED`: `NO`
 

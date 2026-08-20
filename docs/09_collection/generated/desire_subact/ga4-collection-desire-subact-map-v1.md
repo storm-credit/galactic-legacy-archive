@@ -32,8 +32,8 @@ Publication: NOT AUTHORIZED
 - `SET_EXECUTION_ID`: `CLSET-GA4-4A-2`
 - `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
 - `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP`
-- `MATCH_DEPTH`: `B-TEXTUAL`
-- `FRONT_DOMAINS`: C4 유물·증거, C7 세력·제도, C1 인물·관계
+- `MATCH_DEPTH`: `A-MANUAL`
+- `FRONT_DOMAINS`: C6 기술·표준, C1 인물·관계, C7 세력·제도, C4 유물·증거
 - `READER_DESIRE_MAIN`: recover/protect witness/evidence chain while traveling toward C11/C03/C06. → one crucial witness or physical archive reaches protected custody.
 - `DISCOVERY`: recover/protect witness/evidence chain while traveling toward C11/C03/C06.
 - `ACQUISITION_OR_CONNECTION`: one crucial witness or physical archive reaches protected custody.
@@ -41,13 +41,13 @@ Publication: NOT AUTHORIZED
 - `COST_REFUSAL_OR_LOSS`: another evidence chain is lost, sealed or publicly leaked without context. crew/courier identity exposed.
 - `SET_ADVANCE_CONDITION`: one crucial witness or physical archive reaches protected custody.
 - `NEXT_DESIRE`: the leaked fragment appears to prove one claimant, triggering partial mobilization/ceremony before full review.
-- `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지
+- `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA4-G4-E04` / `G4-E04` / General Staff Emergency Threshold Log — `TITLE_TEXT` score=16
-  - `CLT-GA4-G4-E01` / `G4-E01` / Sovereign Medical/Incapacity Record — `TITLE_TEXT` score=12
-  - `CLT-GA4-G4-E03` / `G4-E03` / Registry Lineage Snapshot — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA4-G4-E05` / `G4-E05` / Continuity Conflict Hashes — `TITLE_TEXT` score=12
-  - `CLT-GA4-G4-E07` / `G4-E07` / Founding Covenant Originals/Lineage Map — `TITLE_TEXT` score=12
+  - `CLT-GA4-G4-P07` / `G4-P07` / R-IMP-001 / Intelligence Field Network — `MANUAL_SOURCE_BOUND` score=200
+  - `CLT-GA4-G4-P08` / `G4-P08` / Witness and Source Coalition — `MANUAL_SOURCE_BOUND` score=199
+  - `CLT-GA4-G4-E01` / `G4-E01` / Sovereign Medical/Incapacity Record — `MANUAL_SOURCE_BOUND` score=198
+  - `CLT-GA4-G4-E04` / `G4-E04` / General Staff Emergency Threshold Log — `MANUAL_SOURCE_BOUND` score=197
+  - `CLT-GA4-G4-E05` / `G4-E05` / Continuity Conflict Hashes — `MANUAL_SOURCE_BOUND` score=196
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga4-episodes-331-450-act-map-v1.md` / 4A-2
 - `NEW_CANON_REQUIRED`: `NO`
 

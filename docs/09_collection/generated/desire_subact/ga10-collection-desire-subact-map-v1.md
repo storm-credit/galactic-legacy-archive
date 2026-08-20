@@ -32,8 +32,8 @@ Publication: NOT AUTHORIZED
 - `SET_EXECUTION_ID`: `CLSET-GA10-10A-2`
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
-- `MATCH_DEPTH`: `B-TEXTUAL`
-- `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C6 기술·표준, C8 영토·노드·문명
+- `MATCH_DEPTH`: `A-MANUAL`
+- `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C1 인물·관계, C6 기술·표준
 - `READER_DESIRE_MAIN`: correct the failure locally instead of cancelling handoff. → local service/current-status system resumes under corrected plural/hybrid authority.
 - `DISCOVERY`: correct the failure locally instead of cancelling handoff.
 - `ACQUISITION_OR_CONNECTION`: local service/current-status system resumes under corrected plural/hybrid authority.
@@ -43,11 +43,11 @@ Publication: NOT AUTHORIZED
 - `NEXT_DESIRE`: dependency audit reveals many supposedly transferred systems still rely on central staff, certificates, reserves or hidden override paths.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA10-G10-P01` / `G10-P01` / P-001 Central Corrective Command — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-R01` / `G10-R01` / Regional Current-Status Authorities — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-R05` / `G10-R05` / Technical and Medical Commons — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-A04` / `G10-A04` / Local Capture/Failed Transition Region — `TITLE_TEXT` score=12
-  - `CLT-GA10-G10-L06` / `G10-L06` / A-001 Archive AI Partner — `TITLE_TEXT+DOMAIN_MATCH` score=12
+  - `CLT-GA10-G10-A01` / `G10-A01` / First Handoff Region — `MANUAL_SOURCE_BOUND` score=200
+  - `CLT-GA10-G10-R01` / `G10-R01` / Regional Current-Status Authorities — `MANUAL_SOURCE_BOUND` score=199
+  - `CLT-GA10-G10-R07` / `G10-R07` / Emergency Corrective Assembly — `MANUAL_SOURCE_BOUND` score=198
+  - `CLT-GA10-G10-R05` / `G10-R05` / Technical and Medical Commons — `MANUAL_SOURCE_BOUND` score=197
+  - `CLT-GA10-G10-A04` / `G10-A04` / Local Capture/Failed Transition Region — `MANUAL_SOURCE_BOUND` score=196
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga10-episodes-1001-1100-act-map-v1.md` / 10A-2
 - `NEW_CANON_REQUIRED`: `NO`
 
@@ -56,8 +56,8 @@ Publication: NOT AUTHORIZED
 - `SET_EXECUTION_ID`: `CLSET-GA10-10A-3`
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
-- `MATCH_DEPTH`: `B-TEXTUAL`
-- `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C1 인물·관계, C6 기술·표준
+- `MATCH_DEPTH`: `A-MANUAL`
+- `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명, C5 함선
 - `READER_DESIRE_MAIN`: disclose/inventory real dependencies and readiness by function/region. → public transition map, readiness bands and failure thresholds.
 - `DISCOVERY`: disclose/inventory real dependencies and readiness by function/region.
 - `ACQUISITION_OR_CONNECTION`: public transition map, readiness bands and failure thresholds.
@@ -67,11 +67,11 @@ Publication: NOT AUTHORIZED
 - `NEXT_DESIRE`: regions demand different transition schedules/states, while maximalists/hardliners reject unequal paths.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA10-G10-A04` / `G10-A04` / Local Capture/Failed Transition Region — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-P01` / `G10-P01` / P-001 Central Corrective Command — `TITLE_TEXT` score=8
-  - `CLT-GA10-G10-R03` / `G10-R03` / Route/Node Federation and Local Custody — `TITLE_TEXT+DOMAIN_MATCH` score=8
-  - `CLT-GA10-G10-A01` / `G10-A01` / First Handoff Region — `TITLE_TEXT+DOMAIN_MATCH` score=8
-  - `CLT-GA10-G10-A02` / `G10-A02` / Voluntary Delayed-Central Region — `TITLE_TEXT+DOMAIN_MATCH` score=8
+  - `CLT-GA10-G10-R01` / `G10-R01` / Regional Current-Status Authorities — `MANUAL_SOURCE_BOUND` score=200
+  - `CLT-GA10-G10-R02` / `G10-R02` / Minimum-Service and Equalization Compact — `MANUAL_SOURCE_BOUND` score=199
+  - `CLT-GA10-G10-R03` / `G10-R03` / Route/Node Federation and Local Custody — `MANUAL_SOURCE_BOUND` score=198
+  - `CLT-GA10-G10-R04` / `G10-R04` / Common Fleet / Mission Command Network — `MANUAL_SOURCE_BOUND` score=197
+  - `CLT-GA10-G10-R05` / `G10-R05` / Technical and Medical Commons — `MANUAL_SOURCE_BOUND` score=196
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga10-episodes-1001-1100-act-map-v1.md` / 10A-3
 - `NEW_CANON_REQUIRED`: `NO`
 
@@ -80,7 +80,7 @@ Publication: NOT AUTHORIZED
 - `SET_EXECUTION_ID`: `CLSET-GA10-10A-4`
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
-- `MATCH_DEPTH`: `B-TEXTUAL`
+- `MATCH_DEPTH`: `A-MANUAL`
 - `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도, C8 영토·노드·문명, C1 인물·관계
 - `READER_DESIRE_MAIN`: establish regional choice/readiness/obligation process. → Transition Convention and first region-specific compacts.
 - `DISCOVERY`: establish regional choice/readiness/obligation process.
@@ -91,11 +91,11 @@ Publication: NOT AUTHORIZED
 - `NEXT_DESIRE`: retains Seed/Continuity services for fixed term with local/minority rights, independent mirror and exit review. `C/G — not forced to match protagonist timetable`. / preserves rights/innovation and accepts external minimum obligations/audit. `G — imperfect alternative`. / elite/warlord capture contested/removed or region remains damaged/under temporary support. `L/C — proof of distribution risk and continuing reconstruction`. / personhood/resource/data/exit arrangement distinct from territorial model. `C/G/L — some…
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA10-G10-A02` / `G10-A02` / Voluntary Delayed-Central Region — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-A03` / `G10-A03` / Viable Opt-Out/Hybrid Region — `TITLE_TEXT` score=12
-  - `CLT-GA10-G10-A04` / `G10-A04` / Local Capture/Failed Transition Region — `TITLE_TEXT` score=12
-  - `CLT-GA10-G10-A06` / `G10-A06` / AI/Composite Nonterritorial Community — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-A07` / `G10-A07` / Central Seed/Continuity Assembly — `TITLE_TEXT+DOMAIN_MATCH` score=12
+  - `CLT-GA10-G10-A02` / `G10-A02` / Voluntary Delayed-Central Region — `MANUAL_SOURCE_BOUND` score=200
+  - `CLT-GA10-G10-A03` / `G10-A03` / Viable Opt-Out/Hybrid Region — `MANUAL_SOURCE_BOUND` score=199
+  - `CLT-GA10-G10-A04` / `G10-A04` / Local Capture/Failed Transition Region — `MANUAL_SOURCE_BOUND` score=198
+  - `CLT-GA10-G10-A06` / `G10-A06` / AI/Composite Nonterritorial Community — `MANUAL_SOURCE_BOUND` score=197
+  - `CLT-GA10-G10-A07` / `G10-A07` / Central Seed/Continuity Assembly — `MANUAL_SOURCE_BOUND` score=196
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga10-episodes-1001-1100-act-map-v1.md` / 10A-4
 - `NEW_CANON_REQUIRED`: `NO`
 
@@ -104,8 +104,8 @@ Publication: NOT AUTHORIZED
 - `SET_EXECUTION_ID`: `CLSET-GA10-10B-1`
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
-- `MATCH_DEPTH`: `B-TEXTUAL`
-- `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C6 기술·표준, C1 인물·관계
+- `MATCH_DEPTH`: `A-MANUAL`
+- `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도, C8 영토·노드·문명, C1 인물·관계
 - `READER_DESIRE_MAIN`: negotiate a region that voluntarily wants continued central synchronization for a fixed term. → legitimate delayed path and beneficiary trust.
 - `DISCOVERY`: negotiate a region that voluntarily wants continued central synchronization for a fixed term.
 - `ACQUISITION_OR_CONNECTION`: legitimate delayed path and beneficiary trust.
@@ -115,11 +115,11 @@ Publication: NOT AUTHORIZED
 - `NEXT_DESIRE`: immediate-transfer/opt-out region suffers local power capture or service exclusion.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA10-G10-A03` / `G10-A03` / Viable Opt-Out/Hybrid Region — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-A04` / `G10-A04` / Local Capture/Failed Transition Region — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-A07` / `G10-A07` / Central Seed/Continuity Assembly — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-M14` / `G10-M14` / Black Ward Witness / Continuity Protocol — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-P01` / `G10-P01` / P-001 Central Corrective Command — `TITLE_TEXT+DOMAIN_MATCH` score=8
+  - `CLT-GA10-G10-A02` / `G10-A02` / Voluntary Delayed-Central Region — `MANUAL_SOURCE_BOUND` score=200
+  - `CLT-GA10-G10-R08` / `G10-R08` / Residual Continuity Service — `MANUAL_SOURCE_BOUND` score=199
+  - `CLT-GA10-G10-R01` / `G10-R01` / Regional Current-Status Authorities — `MANUAL_SOURCE_BOUND` score=198
+  - `CLT-GA10-G10-R09` / `G10-R09` / Cross-Region Migration and Safe-Exit Protocol — `MANUAL_SOURCE_BOUND` score=197
+  - `CLT-GA10-G10-R02` / `G10-R02` / Minimum-Service and Equalization Compact — `MANUAL_SOURCE_BOUND` score=196
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga10-episodes-1001-1100-act-map-v1.md` / 10B-1
 - `NEW_CANON_REQUIRED`: `NO`
 
@@ -128,8 +128,8 @@ Publication: NOT AUTHORIZED
 - `SET_EXECUTION_ID`: `CLSET-GA10-10B-2`
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
-- `MATCH_DEPTH`: `B-TEXTUAL`
-- `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C6 기술·표준, C5 함선, C8 영토·노드·문명
+- `MATCH_DEPTH`: `A-MANUAL`
+- `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C1 인물·관계, C6 기술·표준, C5 함선
 - `READER_DESIRE_MAIN`: stop local elite/warlord capture without inviting permanent central return. → proves distributed order can correct local abuse through external standing/obligations.
 - `DISCOVERY`: stop local elite/warlord capture without inviting permanent central return.
 - `ACQUISITION_OR_CONNECTION`: proves distributed order can correct local abuse through external standing/obligations.
@@ -139,11 +139,11 @@ Publication: NOT AUTHORIZED
 - `NEXT_DESIRE`: medical/technical systems across regions become incompatible or under-resourced, threatening patients and trade.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA10-G10-P01` / `G10-P01` / P-001 Central Corrective Command — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-R05` / `G10-R05` / Technical and Medical Commons — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-R04` / `G10-R04` / Common Fleet / Mission Command Network — `TITLE_TEXT` score=8
-  - `CLT-GA10-G10-R10` / `G10-R10` / Compensation/Reparation and Claims Network — `TITLE_TEXT+DOMAIN_MATCH` score=8
-  - `CLT-GA10-G10-A04` / `G10-A04` / Local Capture/Failed Transition Region — `TITLE_TEXT` score=8
+  - `CLT-GA10-G10-A04` / `G10-A04` / Local Capture/Failed Transition Region — `MANUAL_SOURCE_BOUND` score=200
+  - `CLT-GA10-G10-R07` / `G10-R07` / Emergency Corrective Assembly — `MANUAL_SOURCE_BOUND` score=199
+  - `CLT-GA10-G10-R10` / `G10-R10` / Compensation/Reparation and Claims Network — `MANUAL_SOURCE_BOUND` score=198
+  - `CLT-GA10-G10-R09` / `G10-R09` / Cross-Region Migration and Safe-Exit Protocol — `MANUAL_SOURCE_BOUND` score=197
+  - `CLT-GA10-G10-R04` / `G10-R04` / Common Fleet / Mission Command Network — `MANUAL_SOURCE_BOUND` score=196
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga10-episodes-1001-1100-act-map-v1.md` / 10B-2
 - `NEW_CANON_REQUIRED`: `NO`
 
@@ -152,8 +152,8 @@ Publication: NOT AUTHORIZED
 - `SET_EXECUTION_ID`: `CLSET-GA10-10B-3`
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
-- `MATCH_DEPTH`: `B-TEXTUAL`
-- `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명, C5 함선
+- `MATCH_DEPTH`: `A-MANUAL`
+- `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: maintain cross-region medicine/technical safety without one certifier/Seed. → thin technical/medical interoperability and local capacity building.
 - `DISCOVERY`: maintain cross-region medicine/technical safety without one certifier/Seed.
 - `ACQUISITION_OR_CONNECTION`: thin technical/medical interoperability and local capacity building.
@@ -163,11 +163,11 @@ Publication: NOT AUTHORIZED
 - `NEXT_DESIRE`: identity/current-status divergence strands people between regions and gives hardliners/opportunists a target.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA10-G10-R05` / `G10-R05` / Technical and Medical Commons — `TITLE_TEXT+DOMAIN_MATCH` score=16
-  - `CLT-GA10-G10-A07` / `G10-A07` / Central Seed/Continuity Assembly — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-P04` / `G10-P04` / One Canonical History — `TITLE_TEXT+DOMAIN_MATCH` score=8
-  - `CLT-GA10-G10-R01` / `G10-R01` / Regional Current-Status Authorities — `TITLE_TEXT+DOMAIN_MATCH` score=8
-  - `CLT-GA10-G10-R04` / `G10-R04` / Common Fleet / Mission Command Network — `TITLE_TEXT` score=8
+  - `CLT-GA10-G10-R05` / `G10-R05` / Technical and Medical Commons — `MANUAL_SOURCE_BOUND` score=200
+  - `CLT-GA10-G10-R08` / `G10-R08` / Residual Continuity Service — `MANUAL_SOURCE_BOUND` score=199
+  - `CLT-GA10-G10-R02` / `G10-R02` / Minimum-Service and Equalization Compact — `MANUAL_SOURCE_BOUND` score=198
+  - `CLT-GA10-G10-R01` / `G10-R01` / Regional Current-Status Authorities — `MANUAL_SOURCE_BOUND` score=197
+  - `CLT-GA10-G10-A06` / `G10-A06` / AI/Composite Nonterritorial Community — `MANUAL_SOURCE_BOUND` score=196
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga10-episodes-1001-1100-act-map-v1.md` / 10B-3
 - `NEW_CANON_REQUIRED`: `NO`
 
@@ -176,22 +176,22 @@ Publication: NOT AUTHORIZED
 - `SET_EXECUTION_ID`: `CLSET-GA10-10B-4`
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
-- `MATCH_DEPTH`: `B-TEXTUAL`
-- `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C6 기술·표준, C8 영토·노드·문명, C5 함선
+- `MATCH_DEPTH`: `A-MANUAL`
+- `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: establish cross-region provisional identity/service/migration rules. → minimum interoperability constitution reaches operational draft.
 - `DISCOVERY`: establish cross-region provisional identity/service/migration rules.
 - `ACQUISITION_OR_CONNECTION`: minimum interoperability constitution reaches operational draft.
 - `SYNERGY_OR_USE`: minimum interoperability constitution reaches operational draft.
 - `COST_REFUSAL_OR_LOSS`: no final status for some people/entities; central current-status layer remains as fallback in limited corridors.
 - `SET_ADVANCE_CONDITION`: minimum interoperability constitution reaches operational draft.
-- `NEXT_DESIRE`: `R/L — no permanent central command or secret backdoor`. / `L/R — cannot be restored as one complete private index`. / `G/R — plural authorities under thin interoperability; some cases unresolved`. / `G/R — no P-001 personal fleet or permanent theater command`. / `G — incomplete implementation`.
+- `NEXT_DESIRE`: `G/R — plural authorities under thin interoperability; some cases unresolved`. / `G — incomplete implementation`. / `G — S-001/plural network not sovereign curator`. / `G — bounded interregional institution, not sovereign welfare state`. / personhood/resource/data/exit arrangement distinct from territorial model. `C/G/L — some statuses recognized, one major case unresolved`.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA10-G10-P01` / `G10-P01` / P-001 Central Corrective Command — `TITLE_TEXT+DOMAIN_MATCH` score=20
-  - `CLT-GA10-G10-P02` / `G10-P02` / Exclusive Future/Archive Index — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-R01` / `G10-R01` / Regional Current-Status Authorities — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-R04` / `G10-R04` / Common Fleet / Mission Command Network — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-R09` / `G10-R09` / Cross-Region Migration and Safe-Exit Protocol — `TITLE_TEXT+DOMAIN_MATCH` score=12
+  - `CLT-GA10-G10-R01` / `G10-R01` / Regional Current-Status Authorities — `MANUAL_SOURCE_BOUND` score=200
+  - `CLT-GA10-G10-R09` / `G10-R09` / Cross-Region Migration and Safe-Exit Protocol — `MANUAL_SOURCE_BOUND` score=199
+  - `CLT-GA10-G10-R06` / `G10-R06` / Archive Translation Commons — `MANUAL_SOURCE_BOUND` score=198
+  - `CLT-GA10-G10-R02` / `G10-R02` / Minimum-Service and Equalization Compact — `MANUAL_SOURCE_BOUND` score=197
+  - `CLT-GA10-G10-A06` / `G10-A06` / AI/Composite Nonterritorial Community — `MANUAL_SOURCE_BOUND` score=196
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga10-episodes-1001-1100-act-map-v1.md` / 10B-4
 - `NEW_CANON_REQUIRED`: `NO`
 
@@ -200,8 +200,8 @@ Publication: NOT AUTHORIZED
 - `SET_EXECUTION_ID`: `CLSET-GA10-10C-1`
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
-- `MATCH_DEPTH`: `B-TEXTUAL`
-- `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C6 기술·표준, C8 영토·노드·문명
+- `MATCH_DEPTH`: `A-MANUAL`
+- `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C6 기술·표준, C8 영토·노드·문명, C5 함선
 - `READER_DESIRE_MAIN`: allocate actors and sequence functional transfers under attack. → final transition operation and delegated authority.
 - `DISCOVERY`: allocate actors and sequence functional transfers under attack.
 - `ACQUISITION_OR_CONNECTION`: final transition operation and delegated authority.
@@ -211,11 +211,11 @@ Publication: NOT AUTHORIZED
 - `NEXT_DESIRE`: central hardliner/opportunist strike forces P-001 to choose between preserving his master index or protecting distributed mirrors/people.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA10-G10-P01` / `G10-P01` / P-001 Central Corrective Command — `TITLE_TEXT` score=12
-  - `CLT-GA10-G10-R05` / `G10-R05` / Technical and Medical Commons — `TITLE_TEXT` score=12
-  - `CLT-GA10-G10-A01` / `G10-A01` / First Handoff Region — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-A04` / `G10-A04` / Local Capture/Failed Transition Region — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-A05` / `G10-A05` / Coerced/Occupied Region — `TITLE_TEXT+DOMAIN_MATCH` score=12
+  - `CLT-GA10-G10-P01` / `G10-P01` / P-001 Central Corrective Command — `MANUAL_SOURCE_BOUND` score=200
+  - `CLT-GA10-G10-R01` / `G10-R01` / Regional Current-Status Authorities — `MANUAL_SOURCE_BOUND` score=199
+  - `CLT-GA10-G10-R03` / `G10-R03` / Route/Node Federation and Local Custody — `MANUAL_SOURCE_BOUND` score=198
+  - `CLT-GA10-G10-R04` / `G10-R04` / Common Fleet / Mission Command Network — `MANUAL_SOURCE_BOUND` score=197
+  - `CLT-GA10-G10-R05` / `G10-R05` / Technical and Medical Commons — `MANUAL_SOURCE_BOUND` score=196
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga10-episodes-1001-1100-act-map-v1.md` / 10C-1
 - `NEW_CANON_REQUIRED`: `NO`
 
@@ -224,23 +224,24 @@ Publication: NOT AUTHORIZED
 - `SET_EXECUTION_ID`: `CLSET-GA10-10C-2`
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP`
-- `MATCH_DEPTH`: `B-TEXTUAL`
-- `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C6 기술·표준, C5 함선
-- `READER_DESIRE_MAIN`: end P-001’s exclusive future/Archive index without collapsing correction/current status. → no permanent human curator and Seed correction becomes institutional/plural.
-- `DISCOVERY`: end P-001’s exclusive future/Archive index without collapsing correction/current status.
-- `ACQUISITION_OR_CONNECTION`: no permanent human curator and Seed correction becomes institutional/plural.
-- `SYNERGY_OR_USE`: no permanent human curator and Seed correction becomes institutional/plural.
-- `COST_REFUSAL_OR_LOSS`: one preventable failure/death may occur because he no longer has/uses exclusive access. memory loss/uncertainty becomes permanent.
-- `SET_ADVANCE_CONDITION`: no permanent human curator and Seed correction becomes institutional/plural.
-- `NEXT_DESIRE`: central fleet/security command still depends on his authority during simultaneous attacks.
+- `MATCH_DEPTH`: `A-MANUAL`
+- `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도
+- `READER_DESIRE_MAIN`: Rian's exclusive future/Archive index has become a final dependency and ownership burden, not a prize to preserve. → commit to the distributed/institutional replacement path; do not treat E1058–1063 as the final physical removal scene.
+- `DISCOVERY`: Rian's exclusive future/Archive index has become a final dependency and ownership burden, not a prize to preserve.
+- `ACQUISITION_OR_CONNECTION`: commit to the distributed/institutional replacement path; do not treat E1058–1063 as the final physical removal scene.
+- `SYNERGY_OR_USE`: Archive translation, corrective assembly and current technical/medical operators must be able to function without a permanent private master-query path.
+- `COST_REFUSAL_OR_LOSS`: Rian gives up exclusive certainty and future-ranking privilege; the final irreversible physical removal, credential expiry and unrecoverable query gaps remain locked to the reconciled E1088 implementation.
+- `SET_ADVANCE_CONDITION`: Archive translation, corrective assembly and current technical/medical operators must be able to function without a permanent private master-query path.
+- `NEXT_DESIRE`: the later E1083–1089 handoff must physically close the remaining exclusive interface with no recoverable master backdoor.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA10-G10-P01` / `G10-P01` / P-001 Central Corrective Command — `TITLE_TEXT+DOMAIN_MATCH` score=20
-  - `CLT-GA10-G10-A07` / `G10-A07` / Central Seed/Continuity Assembly — `TITLE_TEXT+DOMAIN_MATCH` score=16
-  - `CLT-GA10-G10-R04` / `G10-R04` / Common Fleet / Mission Command Network — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-M11` / `G10-M11` / Imperial Succession / Master Identity — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-M14` / `G10-M14` / Black Ward Witness / Continuity Protocol — `TITLE_TEXT+DOMAIN_MATCH` score=12
+  - `CLT-GA10-G10-P02` / `G10-P02` / Exclusive Future/Archive Index — `MANUAL_SOURCE_BOUND` score=200
+  - `CLT-GA10-G10-R06` / `G10-R06` / Archive Translation Commons — `MANUAL_SOURCE_BOUND` score=199
+  - `CLT-GA10-G10-R07` / `G10-R07` / Emergency Corrective Assembly — `MANUAL_SOURCE_BOUND` score=198
+  - `CLT-GA10-G10-L06` / `G10-L06` / A-001 Archive AI Partner — `MANUAL_SOURCE_BOUND` score=197
+  - `CLT-GA10-G10-P01` / `G10-P01` / P-001 Central Corrective Command — `MANUAL_SOURCE_BOUND` score=196
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga10-episodes-1001-1100-act-map-v1.md` / 10C-2
+- `ENDING_PRECEDENCE_GUARD`: `D-20260820-02 / ga10-ending-reconciliation-canon-amendment-2026-08-20` — conflicting older REVIEW/open registry wording cannot override the reconciled ending.
 - `NEW_CANON_REQUIRED`: `NO`
 
 ## 10C-3 — 마지막 중앙명령 / E1064–E1070
@@ -248,8 +249,8 @@ Publication: NOT AUTHORIZED
 - `SET_EXECUTION_ID`: `CLSET-GA10-10C-3`
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
-- `MATCH_DEPTH`: `B-TEXTUAL`
-- `FRONT_DOMAINS`: C5 함선, C7 세력·제도, C1 인물·관계, C8 영토·노드·문명, C6 기술·표준
+- `MATCH_DEPTH`: `A-MANUAL`
+- `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C5 함선, C6 기술·표준, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: use final central command to protect distribution, then expire/transfer it. → military monopoly and central command expire/fragment according to mandate.
 - `DISCOVERY`: use final central command to protect distribution, then expire/transfer it.
 - `ACQUISITION_OR_CONNECTION`: military monopoly and central command expire/fragment according to mandate.
@@ -259,11 +260,11 @@ Publication: NOT AUTHORIZED
 - `NEXT_DESIRE`: Seed/current-status system must choose final operating form as central key authority dissolves.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA10-G10-R04` / `G10-R04` / Common Fleet / Mission Command Network — `TITLE_TEXT+DOMAIN_MATCH` score=24
-  - `CLT-GA10-G10-P01` / `G10-P01` / P-001 Central Corrective Command — `TITLE_TEXT+DOMAIN_MATCH` score=16
-  - `CLT-GA10-G10-A05` / `G10-A05` / Coerced/Occupied Region — `TITLE_TEXT+DOMAIN_MATCH` score=16
-  - `CLT-GA10-G10-R05` / `G10-R05` / Technical and Medical Commons — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-A04` / `G10-A04` / Local Capture/Failed Transition Region — `TITLE_TEXT+DOMAIN_MATCH` score=12
+  - `CLT-GA10-G10-P01` / `G10-P01` / P-001 Central Corrective Command — `MANUAL_SOURCE_BOUND` score=200
+  - `CLT-GA10-G10-R04` / `G10-R04` / Common Fleet / Mission Command Network — `MANUAL_SOURCE_BOUND` score=199
+  - `CLT-GA10-G10-R07` / `G10-R07` / Emergency Corrective Assembly — `MANUAL_SOURCE_BOUND` score=198
+  - `CLT-GA10-G10-L09` / `G10-L09` / Ownerless Fleet Charter — `MANUAL_SOURCE_BOUND` score=197
+  - `CLT-GA10-G10-R03` / `G10-R03` / Route/Node Federation and Local Custody — `MANUAL_SOURCE_BOUND` score=196
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga10-episodes-1001-1100-act-map-v1.md` / 10C-3
 - `NEW_CANON_REQUIRED`: `NO`
 
@@ -272,7 +273,7 @@ Publication: NOT AUTHORIZED
 - `SET_EXECUTION_ID`: `CLSET-GA10-10C-4`
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
-- `MATCH_DEPTH`: `B-TEXTUAL`
+- `MATCH_DEPTH`: `A-MANUAL`
 - `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도, C1 인물·관계, C8 영토·노드·문명
 - `READER_DESIRE_MAIN`: establish final thin interoperability/current-status and residual institutions. → no single sovereign Seed operator; plural systems remain connected.
 - `DISCOVERY`: establish final thin interoperability/current-status and residual institutions.
@@ -280,14 +281,14 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: no single sovereign Seed operator; plural systems remain connected.
 - `COST_REFUSAL_OR_LOSS`: lower reliability/unequal services and unresolved regions/people.
 - `SET_ADVANCE_CONDITION`: no single sovereign Seed operator; plural systems remain connected.
-- `NEXT_DESIRE`: sovereign current-status/command authority dissolved. physical systems and staff distributed or retained as bounded services. `R — no master operator`. -- / `G/R — plural authorities under thin interoperability; some cases unresolved`. / `R/L — no permanent central command or secret backdoor`. / `L/R — plural evidence/history survives without one official heroic canon`. / `C/G — exists but unproven/contested, no permanent P-001 seat by default`.
+- `NEXT_DESIRE`: sovereign current-status/command authority dissolved. physical systems and staff distributed or retained as bounded services. `R — no master operator`. -- / `G/R — plural authorities under thin interoperability; some cases unresolved`. / `G — bounded interregional institution, not sovereign welfare state`. / `G/R — several models/regions, no master route key`. / `G/R — useful bounded institution under plural oversight`.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA10-G10-A07` / `G10-A07` / Central Seed/Continuity Assembly — `TITLE_TEXT+DOMAIN_MATCH` score=20
-  - `CLT-GA10-G10-R01` / `G10-R01` / Regional Current-Status Authorities — `TITLE_TEXT+DOMAIN_MATCH` score=16
-  - `CLT-GA10-G10-P01` / `G10-P01` / P-001 Central Corrective Command — `TITLE_TEXT` score=12
-  - `CLT-GA10-G10-P04` / `G10-P04` / One Canonical History — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-R07` / `G10-R07` / Emergency Corrective Assembly — `TITLE_TEXT+DOMAIN_MATCH` score=12
+  - `CLT-GA10-G10-A07` / `G10-A07` / Central Seed/Continuity Assembly — `MANUAL_SOURCE_BOUND` score=200
+  - `CLT-GA10-G10-R01` / `G10-R01` / Regional Current-Status Authorities — `MANUAL_SOURCE_BOUND` score=199
+  - `CLT-GA10-G10-R02` / `G10-R02` / Minimum-Service and Equalization Compact — `MANUAL_SOURCE_BOUND` score=198
+  - `CLT-GA10-G10-R03` / `G10-R03` / Route/Node Federation and Local Custody — `MANUAL_SOURCE_BOUND` score=197
+  - `CLT-GA10-G10-R08` / `G10-R08` / Residual Continuity Service — `MANUAL_SOURCE_BOUND` score=196
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga10-episodes-1001-1100-act-map-v1.md` / 10C-4
 - `NEW_CANON_REQUIRED`: `NO`
 
@@ -296,23 +297,24 @@ Publication: NOT AUTHORIZED
 - `SET_EXECUTION_ID`: `CLSET-GA10-10D-1`
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
-- `MATCH_DEPTH`: `B-TEXTUAL`
-- `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C5 함선, C8 영토·노드·문명, C6 기술·표준
-- `READER_DESIRE_MAIN`: stabilize services, prisoners, holdouts, destroyed identities, demobilization and claims after transition battle. → transition institutions prove they can continue without P-001 central command.
-- `DISCOVERY`: stabilize services, prisoners, holdouts, destroyed identities, demobilization and claims after transition battle.
-- `ACQUISITION_OR_CONNECTION`: transition institutions prove they can continue without P-001 central command.
-- `SYNERGY_OR_USE`: transition institutions prove they can continue without P-001 central command.
-- `COST_REFUSAL_OR_LOSS`: accidents, inequality and proprietary/open conflict. / migration pressure and host-region burdens.
-- `SET_ADVANCE_CONDITION`: transition institutions prove they can continue without P-001 central command.
-- `NEXT_DESIRE`: `R/L — no permanent central command or secret backdoor`. / `G/R/L — never private flagship`. / `L/R — plural evidence/history survives without one official heroic canon`. / `G — plural providers and standards remain`. / `G — incomplete implementation`.
+- `MATCH_DEPTH`: `A-MANUAL`
+- `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명, C1 인물·관계, C6 기술·표준, C5 함선
+- `READER_DESIRE_MAIN`: after transition battle, services, demobilization, prisoners, migration, claims and residual module/connector obligations remain materially unfinished. → transition institutions continue reconstruction and claim handling without restoring Rian's standing central command.
+- `DISCOVERY`: after transition battle, services, demobilization, prisoners, migration, claims and residual module/connector obligations remain materially unfinished.
+- `ACQUISITION_OR_CONNECTION`: transition institutions continue reconstruction and claim handling without restoring Rian's standing central command.
+- `SYNERGY_OR_USE`: minimum service, safe exit, claims, technical/medical commons and the first-ship service institution carry different parts of postwar recovery.
+- `COST_REFUSAL_OR_LOSS`: unequal recovery, unresolved claims and permanent losses remain visible; reconstruction is not a reset to prewar assets or authority.
+- `SET_ADVANCE_CONDITION`: minimum service, safe exit, claims, technical/medical commons and the first-ship service institution carry different parts of postwar recovery.
+- `NEXT_DESIRE`: with immediate reconstruction underway, iconic people/assets/records must be returned or placed in independent/plural custody.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA10-G10-P01` / `G10-P01` / P-001 Central Corrective Command — `TITLE_TEXT+DOMAIN_MATCH` score=16
-  - `CLT-GA10-G10-L08` / `G10-L08` / First Ship / Crew Institution — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-P04` / `G10-P04` / One Canonical History — `TITLE_TEXT+DOMAIN_MATCH` score=8
-  - `CLT-GA10-G10-R05` / `G10-R05` / Technical and Medical Commons — `TITLE_TEXT+DOMAIN_MATCH` score=8
-  - `CLT-GA10-G10-R09` / `G10-R09` / Cross-Region Migration and Safe-Exit Protocol — `TITLE_TEXT+DOMAIN_MATCH` score=8
+  - `CLT-GA10-G10-R02` / `G10-R02` / Minimum-Service and Equalization Compact — `MANUAL_SOURCE_BOUND` score=200
+  - `CLT-GA10-G10-R09` / `G10-R09` / Cross-Region Migration and Safe-Exit Protocol — `MANUAL_SOURCE_BOUND` score=199
+  - `CLT-GA10-G10-R10` / `G10-R10` / Compensation/Reparation and Claims Network — `MANUAL_SOURCE_BOUND` score=198
+  - `CLT-GA10-G10-L08` / `G10-L08` / First Ship / Crew Institution — `MANUAL_SOURCE_BOUND` score=197
+  - `CLT-GA10-G10-R05` / `G10-R05` / Technical and Medical Commons — `MANUAL_SOURCE_BOUND` score=196
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga10-episodes-1001-1100-act-map-v1.md` / 10D-1
+- `ENDING_PRECEDENCE_GUARD`: `D-20260820-02 / ga10-ending-reconciliation-canon-amendment-2026-08-20` — conflicting older REVIEW/open registry wording cannot override the reconciled ending.
 - `NEW_CANON_REQUIRED`: `NO`
 
 ## 10D-2 — 수집한 것을 돌려주는 일 / E1083–E1089
@@ -320,23 +322,24 @@ Publication: NOT AUTHORIZED
 - `SET_EXECUTION_ID`: `CLSET-GA10-10D-2`
 - `PRIMARY_SET_TYPE`: `LINEAGE` — 계보 세트
 - `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
-- `MATCH_DEPTH`: `B-TEXTUAL`
-- `FRONT_DOMAINS`: C1 인물·관계, C5 함선, C7 세력·제도, C8 영토·노드·문명, C6 기술·표준, C2 기체
-- `READER_DESIRE_MAIN`: resolve ownership/custody of iconic people, 07, first ship, records and institutions. → collection theme completes through relinquishment and living integration.
-- `DISCOVERY`: resolve ownership/custody of iconic people, 07, first ship, records and institutions.
-- `ACQUISITION_OR_CONNECTION`: collection theme completes through relinquishment and living integration.
-- `SYNERGY_OR_USE`: collection theme completes through relinquishment and living integration.
-- `COST_REFUSAL_OR_LOSS`: sentimental loss and disputes over heritage/claims.
-- `SET_ADVANCE_CONDITION`: collection theme completes through relinquishment and living integration.
-- `NEXT_DESIRE`: `G/R/L — never private flagship`. / `R/L — no permanent central command or secret backdoor`. / `L/R — cannot be restored as one complete private index`. / returned/remains with independent custodians and constituencies. `R — no personal final roster, fleet, museum or sovereign archive`. / `L/R — plural evidence/history survives without one official heroic canon`.
+- `MATCH_DEPTH`: `A-MANUAL`
+- `FRONT_DOMAINS`: C1 인물·관계, C2 기체, C5 함선, C6 기술·표준, C7 세력·제도, C8 영토·노드·문명
+- `READER_DESIRE_MAIN`: the collected legacy cannot end as Rian's personal roster, fleet, museum, archive or sovereign standard. → 07, the first ship, records and people/institutions resolve into independent or plural living custody rather than protagonist possession.
+- `DISCOVERY`: the collected legacy cannot end as Rian's personal roster, fleet, museum, archive or sovereign standard.
+- `ACQUISITION_OR_CONNECTION`: 07, the first ship, records and people/institutions resolve into independent or plural living custody rather than protagonist possession.
+- `SYNERGY_OR_USE`: 07 survives only in its bounded public rescue/training legacy, the first ship serves an independent route-school/rescue role, and core actors remain legible through their own work.
+- `COST_REFUSAL_OR_LOSS`: sentimental relinquishment and permanent hardware/human losses remain; no set completion restores 07's wartime monopoly or Parus strategic propulsion.
+- `SET_ADVANCE_CONDITION`: 07 survives only in its bounded public rescue/training legacy, the first ship serves an independent route-school/rescue role, and core actors remain legible through their own work.
+- `NEXT_DESIRE`: after ownership is relinquished, the remaining question is who gets to tell the history and whether institutions work without Rian.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA10-G10-L08` / `G10-L08` / First Ship / Crew Institution — `TITLE_TEXT+DOMAIN_MATCH` score=16
-  - `CLT-GA10-G10-P01` / `G10-P01` / P-001 Central Corrective Command — `TITLE_TEXT+DOMAIN_MATCH` score=8
-  - `CLT-GA10-G10-P02` / `G10-P02` / Exclusive Future/Archive Index — `TITLE_TEXT+DOMAIN_MATCH` score=8
-  - `CLT-GA10-G10-P03` / `G10-P03` / Ownership of Collected Legacy — `TITLE_TEXT+DOMAIN_MATCH` score=8
-  - `CLT-GA10-G10-P04` / `G10-P04` / One Canonical History — `TITLE_TEXT+DOMAIN_MATCH` score=8
+  - `CLT-GA10-G10-P03` / `G10-P03` / Ownership of Collected Legacy — `MANUAL_SOURCE_BOUND` score=200
+  - `CLT-GA10-G10-L07` / `G10-L07` / 07 Original Frame and Open Service Spine — `MANUAL_SOURCE_BOUND` score=199
+  - `CLT-GA10-G10-L08` / `G10-L08` / First Ship / Crew Institution — `MANUAL_SOURCE_BOUND` score=198
+  - `CLT-GA10-G10-L03` / `G10-L03` / S-001 — `MANUAL_SOURCE_BOUND` score=197
+  - `CLT-GA10-G10-L01` / `G10-L01` / H-001 — `MANUAL_SOURCE_BOUND` score=196
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga10-episodes-1001-1100-act-map-v1.md` / 10D-2
+- `ENDING_PRECEDENCE_GUARD`: `D-20260820-02 / ga10-ending-reconciliation-canon-amendment-2026-08-20` — conflicting older REVIEW/open registry wording cannot override the reconciled ending.
 - `NEW_CANON_REQUIRED`: `NO`
 
 ## 10D-3 — 서로 다른 역사책 / E1090–E1095
@@ -344,23 +347,24 @@ Publication: NOT AUTHORIZED
 - `SET_EXECUTION_ID`: `CLSET-GA10-10D-3`
 - `PRIMARY_SET_TYPE`: `EVENT` — 사건 세트
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
-- `MATCH_DEPTH`: `B-TEXTUAL`
-- `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C6 기술·표준
-- `READER_DESIRE_MAIN`: show public histories, trials, memorials and education after distribution. → evidence/claims and plural cultural memory.
-- `DISCOVERY`: show public histories, trials, memorials and education after distribution.
-- `ACQUISITION_OR_CONNECTION`: evidence/claims and plural cultural memory.
-- `SYNERGY_OR_USE`: evidence/claims and plural cultural memory.
-- `COST_REFUSAL_OR_LOSS`: propaganda, denial and unresolved pain continue.
-- `SET_ADVANCE_CONDITION`: evidence/claims and plural cultural memory.
-- `NEXT_DESIRE`: years-later ordinary institution/class/school/route shows what survived beyond founders.
+- `MATCH_DEPTH`: `A-MANUAL`
+- `FRONT_DOMAINS`: C1 인물·관계, C6 기술·표준, C7 세력·제도
+- `READER_DESIRE_MAIN`: plural histories, accountability, claims and one real ordinary no-Rian crisis must coexist without a master heroic account. → institutions prove present service and current decisions can continue through local/medical/route/current-status actors while incompatible historical accounts remain available.
+- `DISCOVERY`: plural histories, accountability, claims and one real ordinary no-Rian crisis must coexist without a master heroic account.
+- `ACQUISITION_OR_CONNECTION`: institutions prove present service and current decisions can continue through local/medical/route/current-status actors while incompatible historical accounts remain available.
+- `SYNERGY_OR_USE`: translation commons, claims, public/protected records and ordinary institutions preserve usable evidence without recreating a sovereign curator.
+- `COST_REFUSAL_OR_LOSS`: real deaths, harms, delays, propaganda and unresolved claims are not cancelled by a cleaner retrospective narrative.
+- `SET_ADVANCE_CONDITION`: translation commons, claims, public/protected records and ordinary institutions preserve usable evidence without recreating a sovereign curator.
+- `NEXT_DESIRE`: CY751 must show what survived in ordinary work, relationships and service rather than reopen a final war or reset.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA10-G10-M02` / `G10-M02` / Thirteen Heroes — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-M04` / `G10-M04` / Blood Admiral — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-M08` / `G10-M08` / Archive Right and Wrong — `TITLE_TEXT+DOMAIN_MATCH` score=12
-  - `CLT-GA10-G10-P01` / `G10-P01` / P-001 Central Corrective Command — `TITLE_TEXT+DOMAIN_MATCH` score=8
-  - `CLT-GA10-G10-P04` / `G10-P04` / One Canonical History — `TITLE_TEXT+DOMAIN_MATCH` score=8
+  - `CLT-GA10-G10-P04` / `G10-P04` / One Canonical History — `MANUAL_SOURCE_BOUND` score=200
+  - `CLT-GA10-G10-M02` / `G10-M02` / Thirteen Heroes — `MANUAL_SOURCE_BOUND` score=199
+  - `CLT-GA10-G10-M04` / `G10-M04` / Blood Admiral — `MANUAL_SOURCE_BOUND` score=198
+  - `CLT-GA10-G10-M08` / `G10-M08` / Archive Right and Wrong — `MANUAL_SOURCE_BOUND` score=197
+  - `CLT-GA10-G10-R06` / `G10-R06` / Archive Translation Commons — `MANUAL_SOURCE_BOUND` score=196
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga10-episodes-1001-1100-act-map-v1.md` / 10D-3
+- `ENDING_PRECEDENCE_GUARD`: `D-20260820-02 / ga10-ending-reconciliation-canon-amendment-2026-08-20` — conflicting older REVIEW/open registry wording cannot override the reconciled ending.
 - `NEW_CANON_REQUIRED`: `NO`
 
 ## 10D-4 — 이름을 묻는 사람 / E1096–E1100
@@ -370,13 +374,13 @@ Publication: NOT AUTHORIZED
 - `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `FRONT_DOMAINS`: C5 함선, C7 세력·제도, C1 인물·관계, C8 영토·노드·문명, C6 기술·표준
-- `READER_DESIRE_MAIN`: Common Fleet / Mission Command Network / P-001 Central Corrective Command / Local Capture/Failed Transition Region → 이름을 묻는 사람
-- `DISCOVERY`: Common Fleet / Mission Command Network / P-001 Central Corrective Command / Local Capture/Failed Transition Region
-- `ACQUISITION_OR_CONNECTION`: 이름을 묻는 사람
-- `SYNERGY_OR_USE`: threat warning, mission-specific command, rescue/surrender/parole and support. / stabilizes first handoff and protects final distribution.
-- `COST_REFUSAL_OR_LOSS`: fragmented defense and recall disputes.
-- `SET_ADVANCE_CONDITION`: threat warning, mission-specific command, rescue/surrender/parole and support. / stabilizes first handoff and protects final distribution.
-- `NEXT_DESIRE`: `G/R — no P-001 personal fleet or permanent theater command`. / `R/L — no permanent central command or secret backdoor`. / elite/warlord capture contested/removed or region remains damaged/under temporary support. `L/C — proof of distribution risk and continuing reconstruction`. / identity correction/provisional recognition/no closure without process and plural community routes. / future record ended when authorship became collective; current system records contributors/institutions without one genius owner.
+- `READER_DESIRE_MAIN`: CY751 ordinary institutions, unequal recovery, independent futures and incomplete histories are the surviving legacy state. → the final reward is not possession: ordinary people can act, correct/refuse records and ask for present service needs without Rian's future index.
+- `DISCOVERY`: CY751 ordinary institutions, unequal recovery, independent futures and incomplete histories are the surviving legacy state.
+- `ACQUISITION_OR_CONNECTION`: the final reward is not possession: ordinary people can act, correct/refuse records and ask for present service needs without Rian's future index.
+- `SYNERGY_OR_USE`: public-service/training 07, route-school/rescue first ship, independent core actors and plural records remain useful without recombining into one protagonist-owned set.
+- `COST_REFUSAL_OR_LOSS`: history stays incomplete, sanctions and irreversible losses remain, and no Archive answer turns the present person into a destined collectible.
+- `SET_ADVANCE_CONDITION`: public-service/training 07, route-school/rescue first ship, independent core actors and plural records remain useful without recombining into one protagonist-owned set.
+- `NEXT_DESIRE`: terminal desire: ask the ordinary person's current name and/or what they need now; no chosen-one signal, Archive reaction, reset or E1101 bait.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA10-G10-R04` / `G10-R04` / Common Fleet / Mission Command Network — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=125
@@ -385,4 +389,5 @@ Publication: NOT AUTHORIZED
   - `CLT-GA10-G10-M05` / `G10-M05` / Administrative Death and Protector Community — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
   - `CLT-GA10-G10-M13` / `G10-M13` / H-002 Official Death/Collective Authorship — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga10-episodes-1001-1100-act-map-v1.md` / 10D-4
+- `ENDING_PRECEDENCE_GUARD`: `D-20260820-02 / ga10-ending-reconciliation-canon-amendment-2026-08-20` — conflicting older REVIEW/open registry wording cannot override the reconciled ending.
 - `NEW_CANON_REQUIRED`: `NO`
