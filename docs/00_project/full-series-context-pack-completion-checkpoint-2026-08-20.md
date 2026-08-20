@@ -1,6 +1,6 @@
 # Full-Series Context Pack Completion Checkpoint — 2026-08-20
 
-Status: PASS — READY FOR MAIN INTEGRATION
+Status: PASS — MAIN-INTEGRATED COMPLETE
 Effective Authority: PROJECT-CONTROL WORKFLOW/QC STATUS
 Story Canon Effect: NONE
 Publication: NOT AUTHORIZED
@@ -70,30 +70,38 @@ S1 blockers: 0.
 
 ## 4. Validation state
 
-Latest Context workflow: PASS.
+Context workflow: PASS.
 
-Latest repository validation:
+Repository validation at the completion PR:
 - validator self-test: PASS;
 - canon/link/manuscript-contract validation: PASS;
 - failing stage: generated index freshness check.
 
 The generated-index failure is repository navigation/index hygiene, not a story-canon or Context semantic failure. This checkpoint does not mark those generated indexes current.
 
-## 5. Integration condition
+## 5. Main integration record
 
-This checkpoint is **READY FOR MAIN INTEGRATION** on the Context production branch.
+Full-series Context production PR:
+- PR: **#208** — `Production: full-series E001–E1100 Context-first layer`;
+- final PR state re-read: `state=closed`, `merged=true`;
+- merge method: squash;
+- verified merge SHA: **`090e32bafa144e98a0f144745ffb476a8ae047a6`**;
+- `main` immediately re-read after merge: **`090e32bafa144e98a0f144745ffb476a8ae047a6`**.
 
-The full Context-first production order is considered repository-complete only after the PR containing this checkpoint is merged to `main` and the resulting `main` SHA/PR merged state are re-read.
+Therefore the integration condition from the prior checkpoint is satisfied.
 
-No manuscript Draft PR is authorized to merge merely because the Context layer is complete.
+> **FULL-SERIES CONTEXT-FIRST PRODUCTION ORDER: COMPLETE ON MAIN**
+
+No story-canon event, death, survival, relationship, power, technology, authority, permanent loss or ending was changed by the Context integration.
 
 ## 6. Post-integration scheduling rule
 
-After main integration is verified:
+The hold on *additional Context construction before manuscript work* is complete.
 
-- Context-first hold on *additional Context construction* is complete;
+From this point:
 - manuscript work may resume only under the existing manuscript-production authorization rules;
 - existing draft PRs keep their own review/author-approval status;
+- no manuscript PR is merged merely because Context is complete;
 - AI does not grant `AUTHOR-APPROVED`;
 - publication remains NOT AUTHORIZED;
 - issue #26 remains a pre-publication hard blocker.
