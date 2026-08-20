@@ -8,6 +8,7 @@ on:
       - 'tools/build_full_series_collection_desire_layer.py'
       - 'tools/finalize_full_series_collection_desire_layer.py'
       - 'tools/finalize_full_series_collection_desire_layer_strict.py'
+      - 'tools/finalize_full_series_collection_desire_semantic_sets.py'
       - 'tools/audit_full_series_collection_desire_repetition.py'
       - 'tools/build_collection_normalization.py'
       - 'docs/09_collection/**'
@@ -19,6 +20,7 @@ on:
       - 'tools/build_full_series_collection_desire_layer.py'
       - 'tools/finalize_full_series_collection_desire_layer.py'
       - 'tools/finalize_full_series_collection_desire_layer_strict.py'
+      - 'tools/finalize_full_series_collection_desire_semantic_sets.py'
       - 'tools/audit_full_series_collection_desire_repetition.py'
       - 'tools/build_collection_normalization.py'
       - 'docs/09_collection/**'
@@ -47,36 +49,38 @@ jobs:
         run: |
           python tools/validate_collection_normalization.py
 
-      - name: Build strict final full-series collection desire layer
+      - name: Build semantic five-set final collection desire layer
         run: |
-          python tools/finalize_full_series_collection_desire_layer_strict.py
-          python tools/finalize_full_series_collection_desire_layer_strict.py --check
+          python tools/finalize_full_series_collection_desire_semantic_sets.py
+          python tools/finalize_full_series_collection_desire_semantic_sets.py --check
 
       - name: Audit repetition and reader memory
         run: |
           python tools/audit_full_series_collection_desire_repetition.py
           python tools/audit_full_series_collection_desire_repetition.py --check
 
-      - name: Show final depth verdict
+      - name: Show final depth and set-family verdicts
         run: |
           grep -n "VERDICT\|direct A matches\|manual source-bound A\|B textual\|B fallback\|zero active target\|mandatory desire" docs/99_quality_control/full-series-collection-desire-subact-depth-audit-v1.md
           grep -n "PASS — 20/20" docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md
           grep -n "false-A\|final collection desire depth verdict" docs/99_quality_control/full-series-collection-endpoint-reference-false-a-audit-v1.md
+          grep -n "Status: PASS\|dominant family\|missing primary families\|longest same-primary run" docs/99_quality_control/full-series-collection-set-family-semantic-balance-audit-v1.md
           grep -n "Status: PASS\|exact adjacent\|active-target count" docs/99_quality_control/full-series-collection-desire-repetition-reader-memory-redteam-v1.md
 
       - name: Commit generated outputs on production branch
         if: ${{ github.event_name == 'push' }}
         shell: bash
         run: |
-          if [[ -n "$(git status --porcelain docs/09_collection/generated/desire_subact docs/99_quality_control/full-series-collection-desire-subact-depth-audit-v1.md docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md docs/99_quality_control/full-series-collection-endpoint-reference-false-a-audit-v1.md docs/99_quality_control/full-series-collection-desire-repetition-reader-memory-redteam-v1.md)" ]]; then
+          if [[ -n "$(git status --porcelain docs/09_collection/generated/desire_subact docs/99_quality_control/full-series-collection-desire-subact-depth-audit-v1.md docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md docs/99_quality_control/full-series-collection-endpoint-reference-false-a-audit-v1.md docs/99_quality_control/full-series-collection-set-family-semantic-balance-audit-v1.md docs/99_quality_control/full-series-collection-desire-repetition-reader-memory-redteam-v1.md)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add docs/09_collection/generated/desire_subact \
                     docs/99_quality_control/full-series-collection-desire-subact-depth-audit-v1.md \
                     docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md \
                     docs/99_quality_control/full-series-collection-endpoint-reference-false-a-audit-v1.md \
+                    docs/99_quality_control/full-series-collection-set-family-semantic-balance-audit-v1.md \
                     docs/99_quality_control/full-series-collection-desire-repetition-reader-memory-redteam-v1.md
-            git commit -m "Collection: finalize desire repetition audit [collection-generated]"
+            git commit -m "Collection: finalize semantic five-set desire layer [collection-generated]"
             git push origin HEAD:${{ github.ref_name }}
           else
             echo "Generated Collection Desire outputs are already current."
