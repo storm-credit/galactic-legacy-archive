@@ -6,7 +6,7 @@ on:
       - production/e001-e1100-context-writer-depth-v2
     paths:
       - 'tools/audit_full_series_context_writer_depth.py'
-      - 'tools/build_full_series_context_writer_activation.py'
+      - 'tools/build_full_series_context_writer_activation*.py'
       - 'tools/build_full_series_context_packs*.py'
       - 'docs/00_project/full-series-context-writer-activation-depth-standard-v1.md'
       - 'docs/10_story_architecture/**'
@@ -16,7 +16,7 @@ on:
       - main
     paths:
       - 'tools/audit_full_series_context_writer_depth.py'
-      - 'tools/build_full_series_context_writer_activation.py'
+      - 'tools/build_full_series_context_writer_activation*.py'
       - 'tools/build_full_series_context_packs*.py'
       - 'docs/00_project/full-series-context-writer-activation-depth-standard-v1.md'
       - 'docs/10_story_architecture/**'
@@ -44,12 +44,12 @@ jobs:
       - name: Build strict first-pass audit
         run: python tools/audit_full_series_context_writer_depth.py
 
-      - name: Build source-bound writer-activation overlays and post-audit
-        run: python tools/build_full_series_context_writer_activation.py
+      - name: Build deep source-bound writer-activation overlays and false-A audit
+        run: python tools/build_full_series_context_writer_activation_deep.py
 
       - name: Commit writer-depth outputs on production branch
         run: |
-          TARGETS='docs/99_quality_control/full-series-context-writer-depth-audit-v1.md docs/99_quality_control/full-series-context-writer-depth-audit-v2.md docs/13_writing_harness/context_packs/activation'
+          TARGETS='docs/99_quality_control/full-series-context-writer-depth-audit-v1.md docs/99_quality_control/full-series-context-writer-depth-audit-v2.md docs/99_quality_control/full-series-context-writer-activation-false-a-redteam-v1.md docs/13_writing_harness/context_packs/activation'
           if [ -z "$(git status --porcelain -- $TARGETS)" ]; then
             echo 'Writer-depth outputs already current.'
             exit 0
@@ -57,10 +57,10 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add $TARGETS
-          git commit -m 'Production: refresh full-series writer-activation Context overlays'
+          git commit -m 'Production: deepen writer-activation Context overlays'
           git push origin HEAD:production/e001-e1100-context-writer-depth-v2
 
-      - name: Show depth counts and remaining gates
+      - name: Show depth counts and strict remaining gates
         run: |
           grep -E 'Depth-A:|Depth-B:|Depth-C:' docs/99_quality_control/full-series-context-writer-depth-audit-v1.md
-          grep -E 'generic owner-only|repetition WATCH|effective Depth-A candidate' docs/99_quality_control/full-series-context-writer-depth-audit-v2.md || true
+          grep -E 'legacy abstract-cost|HIGH-WATCH entries not|repetition runs still|MACHINE GATE' docs/99_quality_control/full-series-context-writer-activation-false-a-redteam-v1.md || true
