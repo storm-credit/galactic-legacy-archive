@@ -8,7 +8,8 @@ registry fallback is still only internal status metadata, NEXT_DESIRE is bridged
 to the already-derived reader desire of the next approved subact.
 
 Named operational labels such as Window A/B/C are source language, not status
-shorthand, and are preserved.
+shorthand, and are preserved. Bare backticked registry statuses such as `L`,
+`G`, `C/G/L` are internal metadata and are not valid writer-facing desire text.
 """
 
 from __future__ import annotations
@@ -38,9 +39,10 @@ runner.reader.OVERRIDES[("GA7", "7C-4")] = {
 
 _ORIGINAL_SOURCE_FIELD_PACK = runner.reader.source_field_pack
 _ORIGINAL_BUILD_OUTPUTS = runner.build_outputs
-# Registry state shorthand is written as backticked status codes (`C/G`,
-# `G/R/L — ...`). Do not confuse it with real source names such as Window A/B/C.
-_STATUS_CODE = re.compile(r"`[A-Z](?:/[A-Z]){1,5}(?:\s+—[^`]*)?`")
+# Registry state shorthand is written as bare backticked one-letter or slash
+# codes (`L`, `G`, `C/G`, `G/R/L — ...`). Source-native phrases such as
+# "Window A/B/C" are ordinary text and therefore are not matched here.
+_STATUS_CODE = re.compile(r"`[A-Z](?:/[A-Z]){0,5}(?:\s+—[^`]*)?`")
 _MAP_NAME = re.compile(r"ga(\d+)-collection-desire-subact-map-v1\.md$")
 _HEADING = re.compile(r"^##\s+([^\s]+)\s+—\s+(.+?)\s+/\s+E(\d+)[–—-]E?(\d+)\s*$")
 
