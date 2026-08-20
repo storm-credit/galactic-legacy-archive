@@ -1,0 +1,57 @@
+name: One-shot sync story graph indexes
+
+on:
+  push:
+    branches:
+      - ops/obsidian-story-graph-wiring-v1
+    paths:
+      - ".github/workflows/one-shot-sync-story-graph-index.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v4
+        with:
+          ref: ops/obsidian-story-graph-wiring-v1
+          fetch-depth: 0
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Exclude navigation graph from generated source indexes
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('tools/build_index.py')
+          s = p.read_text(encoding='utf-8')
+          old = 'skip = {"_index", "_catalog"}'
+          new = 'skip = {"_index", "_catalog", "_graph"}'
+          if old not in s and new not in s:
+              raise SystemExit('expected build_index.py skip declaration not found')
+          if old in s:
+              p.write_text(s.replace(old, new, 1), encoding='utf-8')
+          PY
+      - name: Regenerate repository indexes
+        run: python tools/build_index.py
+      - name: Validate generated state and graph
+        run: |
+          python tools/build_index.py --check
+          python tools/validate_canon.py
+          python tools/validate_story_graph.py
+      - name: Remove one-shot workflow
+        run: git rm .github/workflows/one-shot-sync-story-graph-index.yml
+      - name: Commit synchronized indexes
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add tools/build_index.py docs/HOME.md docs/_index .github/workflows/one-shot-sync-story-graph-index.yml
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Ops: separate story graph from generated source indexes"
+          git push origin HEAD:ops/obsidian-story-graph-wiring-v1
