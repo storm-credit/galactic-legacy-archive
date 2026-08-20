@@ -8,6 +8,7 @@ on:
       - 'tools/audit_full_series_context_writer_depth.py'
       - 'tools/build_full_series_context_writer_activation*.py'
       - 'tools/run_full_series_context_writer_activation_deep.py'
+      - 'tools/finalize_context_load_bearing_overrides.py'
       - 'tools/build_full_series_context_packs*.py'
       - 'docs/00_project/full-series-context-writer-activation-depth-standard-v1.md'
       - 'docs/10_story_architecture/**'
@@ -19,6 +20,7 @@ on:
       - 'tools/audit_full_series_context_writer_depth.py'
       - 'tools/build_full_series_context_writer_activation*.py'
       - 'tools/run_full_series_context_writer_activation_deep.py'
+      - 'tools/finalize_context_load_bearing_overrides.py'
       - 'tools/build_full_series_context_packs*.py'
       - 'docs/00_project/full-series-context-writer-activation-depth-standard-v1.md'
       - 'docs/10_story_architecture/**'
@@ -46,8 +48,8 @@ jobs:
       - name: Build strict first-pass audit
         run: python tools/audit_full_series_context_writer_depth.py
 
-      - name: Build deep source-bound writer-activation overlays, load-bearing assertions and false-A audit
-        run: python tools/run_full_series_context_writer_activation_deep.py
+      - name: Build deep source-bound writer-activation overlays, final epilogue routes and load-bearing assertions
+        run: python tools/finalize_context_load_bearing_overrides.py
 
       - name: Commit writer-depth outputs on production branch
         if: github.event_name != 'pull_request'
