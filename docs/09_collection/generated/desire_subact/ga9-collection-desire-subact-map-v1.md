@@ -21,7 +21,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: public trust and successful corrective exception.
 - `COST_REFUSAL_OR_LOSS`: another review queue/region waits longer because resources/attention shift. P-001 exception becomes precedent/expectation.
 - `SET_ADVANCE_CONDITION`: public trust and successful corrective exception.
-- `NEXT_DESIRE`: a low-confidence person/community with equal urgent need is denied/deferred under the same rule that restored beneficiaries.
+- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — investigate how domain classifications produce material permissions without one visible moral score. → classification audit map and appeals access.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음
 - `ACTIVE_TARGETS`:
   - `CLT-GA9-G9-P02` / `G9-P02` / Beneficiary Community Coalition — `MANUAL_SOURCE_BOUND` score=200

@@ -267,7 +267,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: local/Neutral/Independence captains and community members solve separate crises while the first ship protects only the highest-risk junction.
 - `COST_REFUSAL_OR_LOSS`: one group is delayed, captured, stranded or forced back temporarily, and the ship loses cargo/payment or takes damage.
 - `SET_ADVANCE_CONDITION`: local/Neutral/Independence captains and community members solve separate crises while the first ship protects only the highest-risk junction.
-- `NEXT_DESIRE`: the forged-component embargo now threatens several destination groups at once, making open-standard safety the next collection problem.
+- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — settle immediate destinations and create continuing obligations/contact/representation. → settle immediate destinations and create continuing obligations/contact/representation.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA2-G2-S12` / `G2-S12` / Recycler Upgrade or Vela Biological Module — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=114

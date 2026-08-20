@@ -106,7 +106,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: first separation of person, office, doctrine and delegated key.
 - `COST_REFUSAL_OR_LOSS`: not exoneration; H-001’s foreseeable delegation failure visible.
 - `SET_ADVANCE_CONDITION`: first separation of person, office, doctrine and delegated key.
-- `NEXT_DESIRE`: another node under imminent capture asks for D3/D4 authorization while evacuation is incomplete.
+- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — hold/evacuate a route without immediate hard denial. → people/infrastructure saved through restraint.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지
 - `ACTIVE_TARGETS`:
   - `CLT-GA7-G7-R05` / `G7-R05` / Denial Signature and Delegation Map — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=123
