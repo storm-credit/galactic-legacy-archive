@@ -1,15 +1,13 @@
 #!/usr/bin/env python3
-"""Run the Collection Desire finalizer with source-bound semantic blindspot fixes.
+"""Run Collection Desire finalization with source-bound semantic blindspot fixes.
 
 No new collectible, event or authority is created. This wrapper prevents
-backticked registry status shorthand from becoming writer-facing reader desire.
-It first prefers an approved hook/ending trigger from the owning subact. If the
-registry fallback is still only internal status metadata, NEXT_DESIRE is bridged
-to the already-derived reader desire of the next approved subact.
+registry status shorthand from becoming writer-facing reader desire and closes
+a small reviewed set of cases where NEXT_DESIRE skipped the immediate approved
+subact and jumped directly to a later macro pressure.
 
-Named operational labels such as Window A/B/C are source language, not status
-shorthand, and are preserved. Bare backticked registry statuses such as `L`,
-`G`, `C/G/L` are internal metadata and are not valid writer-facing desire text.
+Named operational labels such as Window A/B/C are source language and remain.
+Bare backticked statuses such as `L`, `G`, `C/G/L` are internal metadata.
 """
 
 from __future__ import annotations
@@ -39,12 +37,24 @@ runner.reader.OVERRIDES[("GA7", "7C-4")] = {
 
 _ORIGINAL_SOURCE_FIELD_PACK = runner.reader.source_field_pack
 _ORIGINAL_BUILD_OUTPUTS = runner.build_outputs
-# Registry state shorthand is written as bare backticked one-letter or slash
-# codes (`L`, `G`, `C/G`, `G/R/L — ...`). Source-native phrases such as
-# "Window A/B/C" are ordinary text and therefore are not matched here.
 _STATUS_CODE = re.compile(r"`[A-Z](?:/[A-Z]){0,5}(?:\s+—[^`]*)?`")
 _MAP_NAME = re.compile(r"ga(\d+)-collection-desire-subact-map-v1\.md$")
 _HEADING = re.compile(r"^##\s+([^\s]+)\s+—\s+(.+?)\s+/\s+E(\d+)[–—-]E?(\d+)\s*$")
+
+# Manual v2 cross-layer review: in these rows the prior NEXT_DESIRE represented
+# a later macro pressure while an intervening approved subact still carried a
+# distinct reader task. Bridge to the already-derived next-subact reader desire
+# rather than inventing a transition sentence.
+_REVIEWED_IMMEDIATE_SUBACT_BRIDGES = {
+    (2, "2C-3"),
+    (4, "4B-3"),
+    (4, "4D-2"),
+    (6, "6A-2"),
+    (6, "6B-1"),
+    (7, "7B-1"),
+    (8, "8D-1"),
+    (9, "9A-1"),
+}
 
 
 def source_field_pack_no_registry_shorthand(subact, selected):
@@ -53,23 +63,21 @@ def source_field_pack_no_registry_shorthand(subact, selected):
     if _STATUS_CODE.search(hook):
         source_hook = runner.reader.layer.first_present(
             subact.block,
-            (
-                (
-                    "hook",
-                    "final hook",
-                    "grand-act hook",
-                    "grand act hook",
-                    "act-ending trigger",
-                    "act ending trigger",
-                    "act-ending reveal",
-                    "act ending reveal",
-                    "ending trigger",
-                    "final trigger",
-                    "next pressure",
-                    "next question",
-                    "next",
-                ),
-            ),
+            ((
+                "hook",
+                "final hook",
+                "grand-act hook",
+                "grand act hook",
+                "act-ending trigger",
+                "act ending trigger",
+                "act-ending reveal",
+                "act ending reveal",
+                "ending trigger",
+                "final trigger",
+                "next pressure",
+                "next question",
+                "next",
+            ),),
         )
         if source_hook and not _STATUS_CODE.search(source_hook):
             fields["hook"] = source_hook
@@ -80,7 +88,6 @@ runner.reader.source_field_pack = source_field_pack_no_registry_shorthand
 
 
 def _bridge_status_hooks(outputs):
-    """Replace only unresolved status-metadata NEXT_DESIRE with next subact desire."""
     maps = []
     for path, text in outputs.items():
         m = _MAP_NAME.match(path.name)
@@ -117,10 +124,12 @@ def _bridge_status_hooks(outputs):
 
     changed = 0
     for idx, row in enumerate(rows):
-        if not _STATUS_CODE.search(str(row["next"])):
+        needs_status_bridge = bool(_STATUS_CODE.search(str(row["next"])))
+        needs_reviewed_bridge = (row["ga"], row["code"]) in _REVIEWED_IMMEDIATE_SUBACT_BRIDGES
+        if not (needs_status_bridge or needs_reviewed_bridge):
             continue
         if idx + 1 >= len(rows):
-            raise SystemExit(f"final subact still has registry-status NEXT_DESIRE: GA{row['ga']} {row['code']}")
+            raise SystemExit(f"final subact still requires NEXT_DESIRE bridge: GA{row['ga']} {row['code']}")
         next_row = rows[idx + 1]
         next_desire = str(next_row["reader"]).strip()
         if not next_desire or _STATUS_CODE.search(next_desire):
@@ -128,13 +137,12 @@ def _bridge_status_hooks(outputs):
         line_idx = row["next_idx"]
         if line_idx is None:
             raise SystemExit(f"missing NEXT_DESIRE line: GA{row['ga']} {row['code']}")
-        row["lines"][line_idx] = (
-            "- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — " + next_desire
-        )
-        changed += 1
+        replacement = "NEXT APPROVED SUBACT READER DESIRE — " + next_desire
+        if row["lines"][line_idx] != "- `NEXT_DESIRE`: " + replacement:
+            row["lines"][line_idx] = "- `NEXT_DESIRE`: " + replacement
+            changed += 1
 
     for _ga, path, _text in maps:
-        # all row objects for the same path share the same mutable line list
         source_row = next(row for row in rows if row["path"] == path)
         outputs[path] = "\n".join(source_row["lines"]).rstrip() + "\n"
 
@@ -144,8 +152,6 @@ def _bridge_status_hooks(outputs):
 def build_outputs_blindspot():
     outputs = _ORIGINAL_BUILD_OUTPUTS()
     changed = _bridge_status_hooks(outputs)
-    # Set-family classification is unchanged by NEXT_DESIRE bridge; refresh the
-    # audit text so one build path remains authoritative.
     outputs[runner.reader.semantic.SET_AUDIT] = runner.reader.semantic.set_audit_text(outputs)
     build_outputs_blindspot.bridged = changed
     return outputs
