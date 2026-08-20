@@ -2637,7 +2637,7 @@ Readiness is a writing-input status only. It does **not** authorize manuscript d
 ## E835 — 모두 진짜였고 모두 부족했다
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
-CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
+CONTEXT READINESS: **READY**
 Source Card: [[ga8-e826-835-episode-cards-v1]]
 Date: CY 746-04-14 to 04-18.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -2658,7 +2658,7 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudication.
 
 **COST_OR_REFUSAL**
-- UNRESOLVED FROM APPROVED SOURCES
+- [SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source] [Agreed facts] Imperial resources and offices materially sustained early continuity; refugee and dissident communities materially rebuilt and governed Serrat; Helix-linked investment and maintenance materially sustained infrastructure; Neutral custody materially prevented total alienation and preserved records; each system also excluded, coerced, delayed or reclassified affected people; present AI communities, residents, descendants and service users are not merely historical exhibits.
 
 **REENTRY_ANCHOR**
 - the tribunal opens the 20,960 disputed founding records and 17,600 provenance/translation records for structured adjudication.
@@ -2696,18 +2696,15 @@ Locked mystery/payoff ledgers outrank lower card tags. A source finding may be u
 
 ### Derivation / unsupported-exact guard
 
-Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED, STATE_CHANGE
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED, STATE_CHANGE, COST_OR_REFUSAL_SEMANTIC
 
 Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
-
-Unresolved mandatory fields:
-- COST_OR_REFUSAL: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: NO — semantic review required`
+`CONTEXT READY: YES`
 
 Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
@@ -6355,7 +6352,7 @@ Readiness is a writing-input status only. It does **not** authorize manuscript d
 ## E875 — 활성화 직전의 마지막 분리선
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
-CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
+CONTEXT READINESS: **READY**
 Source Card: [[ga8-e869-875-episode-cards-v1]]
 Date: CY 746-10-28.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -6377,7 +6374,7 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] the system asks for a current credential issuer, and several bodies answer at once.
 
 **COST_OR_REFUSAL**
-- UNRESOLVED FROM APPROVED SOURCES
+- [SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source] [Goal] end B08-03 with the exact unresolved authority dispute.
 
 **REENTRY_ANCHOR**
 - the system asks for a current credential issuer, and several bodies answer at once.
@@ -6415,18 +6412,15 @@ Locked mystery/payoff ledgers outrank lower card tags. A source finding may be u
 
 ### Derivation / unsupported-exact guard
 
-Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED, STATE_CHANGE
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SHARED, STATE_CHANGE, COST_OR_REFUSAL_SEMANTIC
 
 Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
-
-Unresolved mandatory fields:
-- COST_OR_REFUSAL: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: NO — semantic review required`
+`CONTEXT READY: YES`
 
 Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 

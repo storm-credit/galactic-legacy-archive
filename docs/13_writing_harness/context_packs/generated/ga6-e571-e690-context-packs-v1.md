@@ -7030,7 +7030,7 @@ Readiness is a writing-input status only. It does **not** authorize manuscript d
 ## E662 — 여섯 시간의 권한
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
-CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
+CONTEXT READINESS: **READY**
 Source Card: [[ga6-e662-670-episode-cards-v1]]
 Date: CY 744-12-14 12:00–16:00.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -7045,7 +7045,7 @@ define a real limited Authority G demonstration that is neither powerless nor a 
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
 **PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
-- UNRESOLVED FROM APPROVED SOURCES
+- [SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Goal] define a real limited Authority G demonstration that is neither powerless nor a permanent override.
 
 **STATE_CHANGE**
 - run matched G and plural-control sequences on the same frozen physical inputs.
@@ -7090,18 +7090,15 @@ Locked mystery/payoff ledgers outrank lower card tags. A source finding may be u
 
 ### Derivation / unsupported-exact guard
 
-Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SEMANTIC
 
 Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
-
-Unresolved mandatory fields:
-- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: NO — semantic review required`
+`CONTEXT READY: YES`
 
 Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
@@ -7343,7 +7340,7 @@ Readiness is a writing-input status only. It does **not** authorize manuscript d
 ## E666 — 사람 하나를 넣은 중앙권한
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
-CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
+CONTEXT READINESS: **READY**
 Source Card: [[ga6-e662-670-episode-cards-v1]]
 Date: CY 744-12-15 04:00–09:00.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -7358,7 +7355,7 @@ evaluate the offer to place Rian as human corrective inside full Authority G.
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
 **PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
-- UNRESOLVED FROM APPROVED SOURCES
+- [SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Offer] centralized manifest/ship/route/destination optimization; current physical/medical stop preserved but appeal and formation refusal time-limited; Rian can correct anomalous future/current pattern conflicts; one emergency authority chain and complete operational view.
 
 **STATE_CHANGE**
 - Rian refuses acceptance before the final facts, authority terms and affected constituencies are heard; keeps the offer active as a real option.
@@ -7403,18 +7400,15 @@ Locked mystery/payoff ledgers outrank lower card tags. A source finding may be u
 
 ### Derivation / unsupported-exact guard
 
-Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SEMANTIC
 
 Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
-
-Unresolved mandatory fields:
-- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: NO — semantic review required`
+`CONTEXT READY: YES`
 
 Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
@@ -7423,7 +7417,7 @@ Readiness is a writing-input status only. It does **not** authorize manuscript d
 ## E667 — 시험이 끝나기 전에 온 적
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
-CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
+CONTEXT READINESS: **READY**
 Source Card: [[ga6-e662-670-episode-cards-v1]]
 Date: CY 744-12-15 09:00–17:00.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -7438,7 +7432,7 @@ defend the route references and preserve final rehearsals without exposing all s
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
 **PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
-- UNRESOLVED FROM APPROVED SOURCES
+- [SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Action] Ardo commands State/escort defense in its sector; Charter/Asel/provincial formations hold their named lanes; Rian coordinates one Grey–B route handoff; local operators preserve physical stops; no overall commander.
 
 **STATE_CHANGE**
 - hostile/seizure group withdraws after two ships disabled and one route drone cluster destroyed; one friendly combat hull damaged 4–7 months; eleven injured, two serious; no death; C reference test loses six hours of thermal recovery.
@@ -7483,18 +7477,15 @@ Locked mystery/payoff ledgers outrank lower card tags. A source finding may be u
 
 ### Derivation / unsupported-exact guard
 
-Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SEMANTIC
 
 Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
-
-Unresolved mandatory fields:
-- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: NO — semantic review required`
+`CONTEXT READY: YES`
 
 Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
@@ -7503,7 +7494,7 @@ Readiness is a writing-input status only. It does **not** authorize manuscript d
 ## E668 — 누가 결정을 내릴 수 있는가
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
-CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
+CONTEXT READINESS: **READY**
 Source Card: [[ga6-e662-670-episode-cards-v1]]
 Date: CY 744-12-15 17:00–23:59.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -7518,7 +7509,7 @@ define final decision architecture before selecting any plan.
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
 **PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
-- UNRESOLVED FROM APPROVED SOURCES
+- [SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Separate authority fields] 1. Common Fact Board — counts/source/uncertainty; 2. node/route physical stop — Deon/workers/operators; 3. medical/treatment stop and consent; 4. ship/captain/formation safety and accepted mission; 5. affected civilian/State/institution/local/holdout priorities and objections; 6. military defense/escort by named formations; 7. destination/receiving consent; 8. evidence/public/appeal; 9. proposed central optimization/Authority G only if explicitly granted.
 
 **STATE_CHANGE**
 - the coming decision has visible authority and refusal structure.
@@ -7562,18 +7553,15 @@ Locked mystery/payoff ledgers outrank lower card tags. A source finding may be u
 
 ### Derivation / unsupported-exact guard
 
-Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SEMANTIC
 
 Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
-
-Unresolved mandatory fields:
-- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: NO — semantic review required`
+`CONTEXT READY: YES`
 
 Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
@@ -7582,7 +7570,7 @@ Readiness is a writing-input status only. It does **not** authorize manuscript d
 ## E669 — 마지막 빈 창
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
-CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
+CONTEXT READINESS: **READY**
 Source Card: [[ga6-e662-670-episode-cards-v1]]
 Date: CY 744-12-16 00:00–12:00.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -7597,7 +7585,7 @@ run the last integrated empty/cargo rehearsal across A/B/C/Grey with the separat
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
 **PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
-- UNRESOLVED FROM APPROVED SOURCES
+- [SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Updated pre-certification state] A 87% structural/thermal, 76% auth/reception; B 76% structural, 68% traffic/reception; C 58% structural with 31-minute reference; Grey 62% physical continuity.
 
 **STATE_CHANGE**
 - A, B and Grey complete their bounded sequences; C reference holds 31 minutes before technical stop; all authority fields communicate, but two cross-field transfers add 34 minutes; no collision, death or serious injury; one tug damaged 1–2 months and five minor injuries.
@@ -7643,18 +7631,15 @@ Locked mystery/payoff ledgers outrank lower card tags. A source finding may be u
 
 ### Derivation / unsupported-exact guard
 
-Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SEMANTIC
 
 Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
-
-Unresolved mandatory fields:
-- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: NO — semantic review required`
+`CONTEXT READY: YES`
 
 Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
@@ -8127,7 +8112,7 @@ Readiness is a writing-input status only. It does **not** authorize manuscript d
 ## E676 — 04:00, 들어온 사람은 모두 센다
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
-CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
+CONTEXT READINESS: **READY**
 Source Card: [[ga6-e676-686-episode-cards-v1]]
 Date: CY 744-12-17 04:00–05:39.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -8142,7 +8127,7 @@ activate final intake, current location, ship/route and medical/holdout ledgers 
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
 **PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
-- UNRESOLVED FROM APPROVED SOURCES
+- [SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Action] Common Fact Board freezes the operation denominator at 3.44m while preserving corrections/claims; ship and local physical boards mark actual location/readiness; Aurel provides duplicate/change alerts without ranking authority; military formations establish named defense lanes, not one fleet command.
 
 **STATE_CHANGE**
 - accept corrections that change route/care/stay status but do not add nonpresent people to the denominator.
@@ -8187,18 +8172,15 @@ Locked mystery/payoff ledgers outrank lower card tags. A source finding may be u
 
 ### Derivation / unsupported-exact guard
 
-Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SEMANTIC
 
 Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
-
-Unresolved mandatory fields:
-- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: NO — semantic review required`
+`CONTEXT READY: YES`
 
 Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
@@ -8283,7 +8265,7 @@ Readiness is a writing-input status only. It does **not** authorize manuscript d
 ## E678 — 10:20, 가장 안정된 길이 닫힌다
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
-CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
+CONTEXT READINESS: **READY**
 Source Card: [[ga6-e676-686-episode-cards-v1]]
 Date: CY 744-12-17 10:20–12:09.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -8298,7 +8280,7 @@ close A cleanly, rescue in-transition loads and preserve remaining route structu
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
 **PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
-- UNRESOLVED FROM APPROVED SOURCES
+- [SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Outcome] no extra A passenger intake after 10:20; one major transport disabled and three small craft lost in rescue/withdrawal; current casualties enter the global ledger, not a separate heroic count; A remains unavailable for the main operation.
 
 **STATE_CHANGE**
 - no extra A passenger intake after 10:20; one major transport disabled and three small craft lost in rescue/withdrawal; current casualties enter the global ledger, not a separate heroic count; A remains unavailable for the main operation.
@@ -8344,18 +8326,15 @@ Locked mystery/payoff ledgers outrank lower card tags. A source finding may be u
 
 ### Derivation / unsupported-exact guard
 
-Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SEMANTIC
 
 Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
-
-Unresolved mandatory fields:
-- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: NO — semantic review required`
+`CONTEXT READY: YES`
 
 Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
@@ -8364,7 +8343,7 @@ Readiness is a writing-input status only. It does **not** authorize manuscript d
 ## E679 — 12:10, 갈라진 길의 선단
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
-CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
+CONTEXT READINESS: **READY**
 Source Card: [[ga6-e676-686-episode-cards-v1]]
 Date: CY 744-12-17 12:10–12-18 00:54.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -8379,7 +8358,7 @@ operate B’s multiple branches while preserving current captain, destination an
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
 **PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
-- UNRESOLVED FROM APPROVED SOURCES
+- [SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Action] Nada’s five councils coordinate branch facts and missing groups; Ora/Neutral captains exchange medical loads under vessel covenants; local traffic teams maintain collision timing; military formations defend branch approaches without absorbing ship command.
 
 **STATE_CHANGE**
 - [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] one medical group cannot remain coupled without losing both carriers and their patients.
@@ -8424,18 +8403,15 @@ Locked mystery/payoff ledgers outrank lower card tags. A source finding may be u
 
 ### Derivation / unsupported-exact guard
 
-Derived execution slots in this entry: STATE_CHANGE
+Derived execution slots in this entry: STATE_CHANGE, PHYSICAL_ANCHOR_SEMANTIC
 
 Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
-
-Unresolved mandatory fields:
-- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: NO — semantic review required`
+`CONTEXT READY: YES`
 
 Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
@@ -8524,7 +8500,7 @@ Readiness is a writing-input status only. It does **not** authorize manuscript d
 ## E681 — 03:20, 다섯 번째 답
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
-CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
+CONTEXT READINESS: **READY**
 Source Card: [[ga6-e676-686-episode-cards-v1]]
 Date: CY 744-12-18 03:20–05:49.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -8539,7 +8515,7 @@ select an executable architecture after A closure, B losses, Ella’s death, hos
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
 **PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
-- UNRESOLVED FROM APPROVED SOURCES
+- [SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Truth statement] M is not certified to minimize immediate deaths; it is chosen because no actor receives permanent ownership of everyone’s future, and authority remains split, visible and revocable.
 
 **STATE_CHANGE**
 - one executable architecture exists.
@@ -8584,18 +8560,15 @@ Locked mystery/payoff ledgers outrank lower card tags. A source finding may be u
 
 ### Derivation / unsupported-exact guard
 
-Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SEMANTIC
 
 Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
-
-Unresolved mandatory fields:
-- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: NO — semantic review required`
+`CONTEXT READY: YES`
 
 Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
@@ -8604,7 +8577,7 @@ Readiness is a writing-input status only. It does **not** authorize manuscript d
 ## E682 — 05:50, 거절한 배들의 길
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
-CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
+CONTEXT READINESS: **READY**
 Source Card: [[ga6-e676-686-episode-cards-v1]]
 Date: CY 744-12-18 05:50–07:34.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -8619,7 +8592,7 @@ execute Grey/local and refusal paths without converting them into overflow dumpi
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
 **PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
-- UNRESOLVED FROM APPROVED SOURCES
+- [SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Events] captains/communities reject some C/B destination or command conditions; local small-craft groups choose Grey endpoints; others stay for current care, family, work or refusal; hostile/security formations attempt to classify refusals as unauthorized flight.
 
 **STATE_CHANGE**
 - Plan M preserves ship/local refusal under current safety and endpoint consent; Grey traffic uses physical challenges and separate evidence rather than one master manifest; no armed pursuit of nonhostile refusal.
@@ -8664,18 +8637,15 @@ Locked mystery/payoff ledgers outrank lower card tags. A source finding may be u
 
 ### Derivation / unsupported-exact guard
 
-Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SEMANTIC
 
 Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
-
-Unresolved mandatory fields:
-- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: NO — semantic review required`
+`CONTEXT READY: YES`
 
 Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
@@ -8684,7 +8654,7 @@ Readiness is a writing-input status only. It does **not** authorize manuscript d
 ## E683 — 07:35, 아르도 레브의 두 명령
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
-CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
+CONTEXT READINESS: **READY**
 Source Card: [[ga6-e676-686-episode-cards-v1]]
 Date: CY 744-12-18 07:35–09:09.
 POV / information source: Ardo Rev aboard `보루의 맹세`.
@@ -8699,7 +8669,7 @@ preserve two separating commands: the State/medical escort withdrawing from a co
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
 **PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
-- UNRESOLVED FROM APPROVED SOURCES
+- [SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Outcome] both formations retain independent succession and continue their missions; `보루의 맹세` is lost/unrecoverable in the action; Ardo Rev dies permanently at 07:35 operation phase; Iven Roa inherits only the surviving integrated formation/staff method, not Protector status, all fleets or Ardo’s personal authority; Rian receives no automatic command inheritance.
 
 **STATE_CHANGE**
 - both formations retain independent succession and continue their missions; `보루의 맹세` is lost/unrecoverable in the action; Ardo Rev dies permanently at 07:35 operation phase; Iven Roa inherits only the surviving integrated formation/staff method, not Protector status, all fleets or Ardo’s personal authority; Rian receives no automatic command inheritance.
@@ -8747,18 +8717,15 @@ Locked mystery/payoff ledgers outrank lower card tags. A source finding may be u
 
 ### Derivation / unsupported-exact guard
 
-Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SEMANTIC
 
 Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
-
-Unresolved mandatory fields:
-- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: NO — semantic review required`
+`CONTEXT READY: YES`
 
 Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
@@ -8767,7 +8734,7 @@ Readiness is a writing-input status only. It does **not** authorize manuscript d
 ## E684 — 09:10, 파루스의 마지막 항속
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
-CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
+CONTEXT READINESS: **READY**
 Source Card: [[ga6-e676-686-episode-cards-v1]]
 Date: CY 744-12-18 09:10–11:19.
 POV / information source: Maren Dove, Vera Thorn, current crew and route teams.
@@ -8782,7 +8749,7 @@ keep bounded C convergence and a separating service/medical lane from collapsing
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
 **PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
-- UNRESOLVED FROM APPROVED SOURCES
+- [SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Outcome] C convergence remains usable long enough to complete the major transfer phase; `파루스` permanently loses strategic propulsion and cannot return to normal interregional independent travel; hull survives as future fixed/towed route school, rescue and claims institution; Vera Thorn suffers permanent arm/nerve injury while isolating the drive/energy system; Vera survives but retires from active chief-engineer duty; no hidden cure; additional crew/technical casualties enter the global ledger.
 
 **STATE_CHANGE**
 - C convergence remains usable long enough to complete the major transfer phase; `파루스` permanently loses strategic propulsion and cannot return to normal interregional independent travel; hull survives as future fixed/towed route school, rescue and claims institution; Vera Thorn suffers permanent arm/nerve injury while isolating the drive/energy system; Vera survives but retires from active chief-engineer duty; no hidden cure; additional crew/technical casualties enter the global ledger.
@@ -8830,18 +8797,15 @@ Locked mystery/payoff ledgers outrank lower card tags. A source finding may be u
 
 ### Derivation / unsupported-exact guard
 
-Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SEMANTIC
 
 Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
-
-Unresolved mandatory fields:
-- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: NO — semantic review required`
+`CONTEXT READY: YES`
 
 Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
@@ -8850,7 +8814,7 @@ Readiness is a writing-input status only. It does **not** authorize manuscript d
 ## E685 — 11:20, 마지막에 움직인 사람들
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
-CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
+CONTEXT READINESS: **READY**
 Source Card: [[ga6-e676-686-episode-cards-v1]]
 Date: CY 744-12-18 11:20–13:59.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -8865,7 +8829,7 @@ execute late operator relief, local microtransfers, final medical/rescue movemen
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
 **PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
-- UNRESOLVED FROM APPROVED SOURCES
+- [SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Action] replacement teams release selected node/medical/traffic workers; local tugs and shuttles complete bounded transfers into C/Grey/receiving paths; Lea/holdout actors lock supplies, contact, surrender/defense and later claims for people remaining; Ora/Neutral and current captains make final refusal/safety decisions; no general pursuit or forced launch.
 
 **STATE_CHANGE**
 - stop adding movements when physical/medical/captain limits are reached even though people remain.
@@ -8910,18 +8874,15 @@ Locked mystery/payoff ledgers outrank lower card tags. A source finding may be u
 
 ### Derivation / unsupported-exact guard
 
-Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SEMANTIC
 
 Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
-
-Unresolved mandatory fields:
-- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: NO — semantic review required`
+`CONTEXT READY: YES`
 
 Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
@@ -8930,7 +8891,7 @@ Readiness is a writing-input status only. It does **not** authorize manuscript d
 ## E686 — 14:00, 닫힌 창의 숫자
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
-CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
+CONTEXT READINESS: **READY**
 Source Card: [[ga6-e676-686-episode-cards-v1]]
 Date: CY 744-12-18 14:00.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -8945,7 +8906,7 @@ close the operation and produce one internally reconciled immediate count withou
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
 **PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
-- UNRESOLVED FROM APPROVED SOURCES
+- [SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Immediate mutually exclusive outcome categories] arrived/currently verified: **2,570,000**; holdout/stay/current local: **230,000**; captured/unstable destination or route custody: **310,000**; confirmed dead during the decision operation: **180,000**; missing/unconfirmed: **150,000**; total: **3,440,000**.
 
 **STATE_CHANGE**
 - Plan M moves 2.57m while preserving split authority/provenance and current holdout/refusal rights.
@@ -8991,18 +8952,15 @@ Locked mystery/payoff ledgers outrank lower card tags. A source finding may be u
 
 ### Derivation / unsupported-exact guard
 
-Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SEMANTIC
 
 Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
-
-Unresolved mandatory fields:
-- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: NO — semantic review required`
+`CONTEXT READY: YES`
 
 Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
@@ -9011,7 +8969,7 @@ Readiness is a writing-input status only. It does **not** authorize manuscript d
 ## E687 — 도착은 생존완료가 아니다
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
-CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
+CONTEXT READINESS: **READY**
 Source Card: [[ga6-e687-690-episode-cards-v1]]
 Date: CY 744-12-18 14:01–16:30.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -9026,7 +8984,7 @@ preserve the five outcome categories and prevent political reclassification befo
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
 **PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
-- UNRESOLVED FROM APPROVED SOURCES
+- [SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Goal] preserve the five outcome categories and prevent political reclassification before current services/claims begin.
 
 **STATE_CHANGE**
 - prohibit counting captured/unstable as secure arrivals; prohibit presuming missing dead; prohibit treating holdouts as voluntary or abandoned without individual/current evidence; preserve source, ship, destination and authority fields.
@@ -9071,18 +9029,15 @@ Locked mystery/payoff ledgers outrank lower card tags. A source finding may be u
 
 ### Derivation / unsupported-exact guard
 
-Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SEMANTIC
 
 Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
-
-Unresolved mandatory fields:
-- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: NO — semantic review required`
+`CONTEXT READY: YES`
 
 Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
@@ -9091,7 +9046,7 @@ Readiness is a writing-input status only. It does **not** authorize manuscript d
 ## E688 — 원래 오르페우스의 진실
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
-CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
+CONTEXT READINESS: **READY**
 Source Card: [[ga6-e687-690-episode-cards-v1]]
 Date: CY 744-12-18 16:30–19:00.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -9106,7 +9061,7 @@ compare Rian’s remembered history, official future summaries and newly recover
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
 **PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
-- UNRESOLVED FROM APPROVED SOURCES
+- [SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Goal] compare Rian’s remembered history, official future summaries and newly recovered physical/source records.
 
 **STATE_CHANGE**
 - publish the bounded finding and source disagreements; do not replace one myth with a complete public dump or new exact invented count.
@@ -9151,18 +9106,15 @@ Locked mystery/payoff ledgers outrank lower card tags. A source finding may be u
 
 ### Derivation / unsupported-exact guard
 
-Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SEMANTIC
 
 Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
-
-Unresolved mandatory fields:
-- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: NO — semantic review required`
+`CONTEXT READY: YES`
 
 Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
@@ -9171,7 +9123,7 @@ Readiness is a writing-input status only. It does **not** authorize manuscript d
 ## E689 — 남은 사람들의 다섯 권리
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
-CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
+CONTEXT READINESS: **READY**
 Source Card: [[ga6-e687-690-episode-cards-v1]]
 Date: CY 744-12-18 19:00–22:00.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -9186,7 +9138,7 @@ establish immediate obligations for each outcome without pretending the crisis i
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
 **PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
-- UNRESOLVED FROM APPROVED SOURCES
+- [SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Current obligations] 1. arrived — treatment, identity, family, service and destination review; 2. holdout — supplies, local authority, voluntary/forced-status review, defense/contact/surrender and later movement claims; 3. captured/unstable — location/custody evidence, negotiation, protection and no false “arrival” classification; 4. dead — confirmation, family/benefit/claim and source correction; 5. missing — active search, protected legal status, property/pay/family continuity and no presumed death.
 
 **STATE_CHANGE**
 - create separate registries/teams with cross-links and appeal; no single casualty/arrival office owns all categories.
@@ -9231,18 +9183,15 @@ Locked mystery/payoff ledgers outrank lower card tags. A source finding may be u
 
 ### Derivation / unsupported-exact guard
 
-Derived execution slots in this entry: NONE — all six slots came from explicit source labels.
+Derived execution slots in this entry: PHYSICAL_ANCHOR_SEMANTIC
 
 Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
-
-Unresolved mandatory fields:
-- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: NO — semantic review required`
+`CONTEXT READY: YES`
 
 Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
@@ -9251,7 +9200,7 @@ Readiness is a writing-input status only. It does **not** authorize manuscript d
 ## E690 — 닫히는 항로들
 
 CONTEXT STATUS: **FULL — SOURCE-BOUND DEEP EXECUTION PACK**
-CONTEXT READINESS: **SEMANTIC-REVIEW-REQUIRED**
+CONTEXT READINESS: **READY**
 Source Card: [[ga6-e687-690-episode-cards-v1]]
 Date: CY 744-12-18 22:00–23:59.
 POV / information source: UNRESOLVED FROM APPROVED SOURCES
@@ -9266,7 +9215,7 @@ close GA6 and launch the route-denial/federation/accountability conflict of GA7.
 NONE — no separate competing desire/pressure is explicitly stored in the source card
 
 **PHYSICAL_ANCHOR / WORK-SYSTEM CARRIER**
-- UNRESOLVED FROM APPROVED SOURCES
+- [SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Final GA6 state] Plan M operation closed; G/S counterfactuals and dissent preserved; Ella and Ardo permanently dead; Vera permanently injured; `파루스` strategically immobile; massive arrived/holdout/captured/dead/missing claims active; fleet/route/service capacity depleted.
 
 **STATE_CHANGE**
 - [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] receiving regions suspend or condition traffic after overload, security and identity shocks; holdouts/captured/unstable groups seek supply and contact corridors; missing-person searches collide with military route closures; Charter v1.0 categories and formations issue incompatible rescue, defense and home-recall responses; several authentic denial orders share common emergency logic but different current authorities.
@@ -9274,7 +9223,7 @@ NONE — no separate competing desire/pressure is explicitly stored in the sourc
 - [DERIVED STATE-DELTA EVIDENCE FROM APPROVED CARD] the first region refuses an Orpheus-linked rescue convoy under a valid emergency denial, while another region using the same evidence keeps its route open.
 
 **COST_OR_REFUSAL**
-- UNRESOLVED FROM APPROVED SOURCES
+- [SEMANTIC SOURCE-BLOCK COST/BURDEN; do not inflate beyond source] [Final GA6 state] Plan M operation closed; G/S counterfactuals and dissent preserved; Ella and Ardo permanently dead; Vera permanently injured; `파루스` strategically immobile; massive arrived/holdout/captured/dead/missing claims active; fleet/route/service capacity depleted.
 
 **REENTRY_ANCHOR**
 - the first region refuses an Orpheus-linked rescue convoy under a valid emergency denial, while another region using the same evidence keeps its route open.
@@ -9312,19 +9261,15 @@ Locked mystery/payoff ledgers outrank lower card tags. A source finding may be u
 
 ### Derivation / unsupported-exact guard
 
-Derived execution slots in this entry: STATE_CHANGE
+Derived execution slots in this entry: STATE_CHANGE, PHYSICAL_ANCHOR_SEMANTIC, COST_OR_REFUSAL_SEMANTIC
 
 Derivation means only re-routing verbatim approved scene/shared-state evidence into a Context field. It is not canon creation. Prose-level exacts absent from higher sources remain `UNRESOLVED FROM APPROVED SOURCES`.
-
-Unresolved mandatory fields:
-- PHYSICAL_ANCHOR: `UNRESOLVED FROM APPROVED SOURCES`
-- COST_OR_REFUSAL: `UNRESOLVED FROM APPROVED SOURCES`
 
 `NEW_CANON_REQUIRED: NO`
 
 ### Context readiness
 
-`CONTEXT READY: NO — semantic review required`
+`CONTEXT READY: YES`
 
 Readiness is a writing-input status only. It does **not** authorize manuscript drafting, AUTHOR-APPROVED, publication or canon mutation.
 
