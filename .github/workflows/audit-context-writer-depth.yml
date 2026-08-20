@@ -10,6 +10,15 @@ on:
       - 'docs/00_project/full-series-context-writer-activation-depth-standard-v1.md'
       - 'docs/10_story_architecture/**'
       - 'docs/13_writing_harness/context_packs/generated/**'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'tools/audit_full_series_context_writer_depth.py'
+      - 'tools/build_full_series_context_packs*.py'
+      - 'docs/00_project/full-series-context-writer-activation-depth-standard-v1.md'
+      - 'docs/10_story_architecture/**'
+      - 'docs/13_writing_harness/context_packs/generated/**'
   workflow_dispatch:
 
 permissions:
@@ -33,7 +42,8 @@ jobs:
       - name: Build writer-depth audit
         run: python tools/audit_full_series_context_writer_depth.py
 
-      - name: Commit audit output
+      - name: Commit audit output on production branch
+        if: github.event_name != 'pull_request'
         run: |
           if git diff --quiet -- docs/99_quality_control/full-series-context-writer-depth-audit-v1.md; then
             echo 'Depth audit already current.'
@@ -44,3 +54,8 @@ jobs:
           git add docs/99_quality_control/full-series-context-writer-depth-audit-v1.md
           git commit -m 'QC: refresh full-series Context writer-depth audit'
           git push origin HEAD:production/e001-e1100-context-writer-depth-v2
+
+      - name: Show first-pass depth counts on PR
+        if: github.event_name == 'pull_request'
+        run: |
+          grep -E 'Depth-A:|Depth-B:|Depth-C:' docs/99_quality_control/full-series-context-writer-depth-audit-v1.md
