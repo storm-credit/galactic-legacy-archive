@@ -50,6 +50,7 @@ jobs:
         run: python tools/run_full_series_context_writer_activation_deep.py
 
       - name: Commit writer-depth outputs on production branch
+        if: github.event_name != 'pull_request'
         run: |
           TARGETS='docs/99_quality_control/full-series-context-writer-depth-audit-v1.md docs/99_quality_control/full-series-context-writer-depth-audit-v2.md docs/99_quality_control/full-series-context-writer-activation-false-a-redteam-v1.md docs/13_writing_harness/context_packs/activation'
           if [ -z "$(git status --porcelain -- $TARGETS)" ]; then
