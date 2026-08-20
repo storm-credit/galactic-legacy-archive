@@ -10,6 +10,8 @@ wikilink.
 
 This script changes provenance syntax only. It never changes story/source text,
 event order, deaths, relationships, authorities, numbers, or ending state.
+The persisted sanitized outputs are therefore safe to validate as ordinary
+repository documentation on the same PR head.
 """
 
 from __future__ import annotations
