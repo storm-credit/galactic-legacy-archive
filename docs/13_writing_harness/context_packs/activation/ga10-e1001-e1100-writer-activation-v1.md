@@ -4830,19 +4830,22 @@ Numbers/dates/names present in the approved source card may be carried subject t
 Source Card: [[ga10-e1076-1085-episode-cards-v1]]
 Story Canon Effect: NONE — this section is workflow/QC routing only.
 
+**LOAD_BEARING_OVERRIDE_AUTHORITY:**  
+MANUAL CROSSCHECK — M-003 final-fate lock + L-T03 + reconciled ending card. 07 Hybrid Retirement is irreversible without a new public authorization process.
+
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: 07's remaining unique combat-control module is removed and divided under plural/public custody; a nonunique public rescue/training configuration is installed; other qualified pilots operate the frame under ordinary authorization.) … [source continues]
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
+Nera Vick leads the technical action; Rian is present only for his own pilot-priority relinquishment.
+**POV_ROUTE_AUTHORITY:** `M-003 LOCKED POV/OWNER + RECONCILED ENDING CARD`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: 07's remaining unique combat-control module is removed and divided under plural/public custody; a nonunique public rescue/training configuration is installed; other qualified pilots operate the frame under ordinary authorization.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+Nera owns technical truth/custody relinquishment; Rian owns only signing away exclusive pilot priority; plural/public custodians and ordinary authorization own later use.
+**OWNER_ROUTE_AUTHORITY:** `M-003 + L-T03 + ENDING RECONCILIATION`
 
 **DECISION_BEAT**  
-07's remaining unique combat-control module is removed and divided under plural/public custody; a nonunique public rescue/training configuration is installed; other qualified pilots operate the frame under ordinary authorization.
-**DECISION_MODE:** `SOURCE-EXPLICIT-DECISION`
+07's remaining unique combat-control module is removed and divided under plural/public custody; a nonunique public rescue/training configuration is installed; Rian signs away exclusive pilot priority and Nera singular technical custody.
+**DECISION_MODE:** `LOCKED FINAL-FATE DECISION`
 
 ### Scene execution
 
@@ -4850,8 +4853,8 @@ bounded current technical/safety maintainer(s) holding the relevant stop/test au
 PRESSURE[execute M-003 and M-017 07 final-fate locks as Hybrid Retirement.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[07's remaining unique combat-control module is removed and divided under plural/public custody; a nonunique public rescue/training configuration is installed … [source continues]] → DELTA[07 remains physically useful and recognizable while the peak wartime configuration cannot simply return.] → COST[the original `only Rian can use this answer` fantasy is permanently lost; future high-risk use would require a new public authorization process rather than inherited privilege.] → NEXT[distributing the object is incomplete until Nera's own authorship/control relationship is distributed too.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: 07's remaining unique combat-control module is removed and divided under plural/public custody; a nonunique public rescue/training configuration is installed; other qualified pilots operate the frame under ordinary authorization.); ground that face in the exact source pivot [07's remaining unique combat-control module is removed and divided under plural/public custody; a nonunique public rescue/training configuration is installed; other qualified pilots operate the frame under ordinary authorization.] and source cost [the original `only Rian can use this answer` fantasy is permanently lost; future high-risk use would require a new public authorization process rather than inherited privilege.]. Do not create a new named witness merely to supply emotion.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
+Nera, Rian and the already-authorized technical/public custodians physically executing the module removal, replacement and ordinary-pilot handoff.
+**HUMAN_ROUTE_AUTHORITY:** `LOCKED FINAL-FATE CURRENT ACTORS`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -4870,7 +4873,7 @@ distributing the object is incomplete until Nera's own authorship/control relati
 decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=07's remaining unique combat-control module is removed and divided under plural/public custody; a nonunique public rescue/training configuration is installed … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
+Rian cannot reclaim exclusive pilot priority, founder veto, private title or silent peak-wartime restoration.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -4888,19 +4891,22 @@ Numbers/dates/names present in the approved source card may be carried subject t
 Source Card: [[ga10-e1076-1085-episode-cards-v1]]
 Story Canon Effect: NONE — this section is workflow/QC routing only.
 
+**LOAD_BEARING_OVERRIDE_AUTHORITY:**  
+MANUAL CROSSCHECK — M-013 final public-use scene + reconciled ending card. Public technical commons must be demonstrated by another qualified engineer acting without Nera's personal permission.
+
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: contributor credit survives; exclusive technical ownership does not.); ground that face in the exact source pivot [contributor credit survives; exclusive technical ownership does not.] and source cost [no single complete Academy/07 archive, workshop or person can define the lineage alone.] … [source continues]
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
+Nera and the other qualified engineer/current certifier interaction, bounded to public technical-commons rules.
+**POV_ROUTE_AUTHORITY:** `M-013 FINAL PUBLIC-USE LOCK + ENDING CARD`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: contributor credit survives; exclusive technical ownership does not.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+the other qualified engineer owns lawful use/rejection under commons rules; Nera owns only her remaining attribution, refusal and safety-objection rights.
+**OWNER_ROUTE_AUTHORITY:** `M-013 LOCKED PUBLIC-USE AGENCY`
 
 **DECISION_BEAT**  
-contributor credit survives; exclusive technical ownership does not.
-**DECISION_MODE:** `SOURCE-EXPLICIT-DECISION`
+another qualified engineer lawfully uses or rejects part of the Open Service standard without asking Nera's personal permission; Nera accepts the loss of exclusive control and exercises only rights that remain personally hers.
+**DECISION_MODE:** `LOCKED FINAL PUBLIC-USE DECISION`
 
 ### Scene execution
 
@@ -4908,15 +4914,15 @@ contributor credit survives; exclusive technical ownership does not.
 PRESSURE[close Nera/Open Service and Academy/technical-education ownership without erasing authorship.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[contributor credit survives; exclusive technical ownership does not.] → DELTA[contributor credit survives; exclusive technical ownership does not.] → COST[no single complete Academy/07 archive, workshop or person can define the lineage alone.] → NEXT[E1086 applies the same rule to the Common Fleet and remaining command structures.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: contributor credit survives; exclusive technical ownership does not.); ground that face in the exact source pivot [contributor credit survives; exclusive technical ownership does not.] and source cost [no single complete Academy/07 archive, workshop or person can define the lineage alone.]. Do not create a new named witness merely to supply emotion.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
+Nera plus the already-authorized qualified engineer/current certifier demonstrating that public use no longer depends on the inventor's personal permission.
+**HUMAN_ROUTE_AUTHORITY:** `M-013 LOCKED CURRENT-ACTOR CARRIER`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
 **RELATIONSHIP_DELTA_AUTHORITY:** `EXPLICIT-NONE GUARD`
 
 **READER_PAYOFF_THIS_EP**  
-the early survival technology becomes a living shared practice rather than a heroic inventor relic.
+contributor credit and safety objection survive while exclusive technical ownership does not.
 
 **RETENTION_QUESTION_OR_CHANGED_CONDITION**  
 E1086 applies the same rule to the Common Fleet and remaining command structures.
@@ -4928,7 +4934,7 @@ E1086 applies the same rule to the Common Fleet and remaining command structures
 decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=Academy mission/contract/crew-rights records enter a federated education trust; 07/Open Service specifications live in the public technical commons/foundation under multiple certifiers and safety obligations … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
+Rian cannot convert the commons, Academy records, 07 lineage or Nera's authorship into his private technical authority.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -5062,19 +5068,22 @@ Numbers/dates/names present in the approved source card may be carried subject t
 Source Card: [[ga10-e1086-1093-episode-cards-v1]]
 Story Canon Effect: NONE — this section is workflow/QC routing only.
 
+**LOAD_BEARING_OVERRIDE_AUTHORITY:**  
+MANUAL CROSSCHECK — M-001 final ownership lock + reconciled E1088 card. Physical interface removal/split, credential expiry and permanent query gaps are all required; no secret master backdoor survives.
+
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: Rian accepts that present institutions may choose slower or different answers he cannot pre-rank.) … [source continues]
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
+Rian close-third for relinquishment, bounded by current medical/technical operators performing the irreversible interface removal.
+**POV_ROUTE_AUTHORITY:** `M-001 LOCKED FINAL OWNERSHIP SCENE`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: Rian accepts that present institutions may choose slower or different answers he cannot pre-rank.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+Rian owns consent/authorization to relinquish his exclusive interface; current medical/technical operators own safe procedure; distributed institutions own their later decisions.
+**OWNER_ROUTE_AUTHORITY:** `M-001 + RECONCILED ENDING CARD`
 
 **DECISION_BEAT**  
-Rian accepts that present institutions may choose slower or different answers he cannot pre-rank.
-**DECISION_MODE:** `SOURCE-EXPLICIT-DECISION`
+Rian authorizes and accepts physical removal/splitting of the remaining exclusive future-index interface; his personal activation credential expires, no recoverable master copy/backdoor is retained, and the lost master queries cannot later be cured.
+**DECISION_MODE:** `LOCKED FINAL OWNERSHIP DECISION`
 
 ### Scene execution
 
@@ -5082,15 +5091,15 @@ Rian accepts that present institutions may choose slower or different answers he
 PRESSURE[execute M-001/M-017 and [[rian-index-removal-memory-and-medical-state-v1]] final exclusive-index removal.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Rian accepts that present institutions may choose slower or different answers he cannot pre-rank.] → DELTA[Rian accepts that present institutions may choose slower or different answers he cannot pre-rank.] → COST[uncertainty, memory/index gaps and reduced command convenience are permanent; no later cure restores them.] → NEXT[archive and Seed evidence now must survive without his private complete query path.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: Rian accepts that present institutions may choose slower or different answers he cannot pre-rank.); ground that face in the exact source pivot [Rian accepts that present institutions may choose slower or different answers he cannot pre-rank.] and source cost [uncertainty, memory/index gaps and reduced command convenience are permanent; no later cure restores them.]. Do not create a new named witness merely to supply emotion.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
+Rian and the current medical/technical operators executing the irreversible removal while regional systems are already operating without his standing command.
+**HUMAN_ROUTE_AUTHORITY:** `M-001 LOCKED CURRENT-ACTOR CARRIER`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
 **RELATIONSHIP_DELTA_AUTHORITY:** `EXPLICIT-NONE GUARD`
 
 **READER_PAYOFF_THIS_EP**  
-no embodied human curator can silently become the safest permanent master operator.
+Rian permanently loses ranked master-query access and the ability to resume a sovereign future-index role; ordinary revocable skills remain ordinary.
 
 **RETENTION_QUESTION_OR_CHANGED_CONDITION**  
 archive and Seed evidence now must survive without his private complete query path.
@@ -5102,7 +5111,7 @@ archive and Seed evidence now must survive without his private complete query pa
 decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=the remaining exclusive future-index interface is physically removed/split while distributed regional systems are already operating; no secret recoverable master copy or personal backdoor is retained … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot reclaim standing central sovereignty, master keys, exclusive index authority or ownership during final distribution.
+Rian cannot retain a hidden backdoor, transfer the exclusive credential, repeat regression/master correction, or reclaim standing central sovereignty.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -5584,35 +5593,38 @@ Numbers/dates/names present in the approved source card may be carried subject t
 Source Card: [[ga10-e1094-1100-episode-cards-v1]]
 Story Canon Effect: NONE — this section is workflow/QC routing only.
 
+**LOAD_BEARING_OVERRIDE_AUTHORITY:**  
+MANUAL ENDING ROUTE — reconciled E1097 card + M-002 popular-history lock. Parus's permanent propulsion loss and current crew/service life must be visible through an ordinary trainee/current crew, not abstract nostalgia.
+
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: the first home remains alive because later crews use it, not because it was preserved untouched for nostalgia.) … [source continues]
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
+ordinary route-school trainee/child for the M-002 wall scene, bounded with current Parus crew/worker service operators for the physical task; Rian is not the memorial authority.
+**POV_ROUTE_AUTHORITY:** `M-002 LOCKED POPULAR-HISTORY POV + RECONCILED ENDING CARD`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: the first home remains alive because later crews use it, not because it was preserved untouched for nostalgia.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+current Parus crew/worker public-service custody owns lawful ship work; the instructor/trainee interaction owns the local-history recording choice. No protagonist ownership returns.
+**OWNER_ROUTE_AUTHORITY:** `M-002 + PARUS LOCKED END-STATE`
 
 **DECISION_BEAT**  
-NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: the first home remains alive because later crews use it, not because it was preserved untouched for nostalgia.
-**DECISION_MODE:** `WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE`
+a task requiring strategic mobility is sent elsewhere because Parus cannot perform it; in the route-school wall scene the instructor allows a family/local version to be recorded with source and contested status instead of publishing one corrected Thirteen-Hero roster.
+**DECISION_MODE:** `LOCKED EPILOGUE CURRENT-WORK + POPULAR-HISTORY DECISION`
 
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[prove 파루스's permanent loss and social survival while executing M-002's popular-history payoff. 파루스 current state: strategic propulsion loss remains permanent … [source continues]] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: the first home remains alive because later crews use it, not because it was preserved untouch … [source continues]] → DELTA[the first home remains alive because later crews use it, not because it was preserved untouched for nostalgia.] → COST[speed, reach and old strategic possibility remain lost.] → NEXT[the people who once shared that home did not all stay together, and their different institutions now have to be seen on their own terms.]
+PRESSURE[prove Parus survived socially without undoing its permanent strategic-propulsion loss and execute M-002 at ordinary scale] → OBSTACLE[narrative nostalgia could secretly restore the old flagship role or replace plural memory with one corrected roster] → PIVOT[current crew route the strategic-mobility task elsewhere; instructor lets an ordinary trainee record a sourced contested local version] → DELTA[Parus remains a working route-school/rescue-service home and popular history remains plural] → COST[speed, reach and old strategic possibility remain permanently lost] → NEXT[the people who once shared the home must be encountered through their separate present work rather than a reunion summons].
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: the first home remains alive because later crews use it, not because it was preserved untouched for nostalgia.); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: the first home remains alive because later crews use it, not because it was preserved untouched for nostalgia.] and source cost [speed, reach and old strategic possibility remain lost.]. Do not create a new named witness merely to supply emotion.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
+ordinary trainee/child, current Parus crew/workers and service users physically using the scarred route-school/rescue ship; the ship's later life is carried by them, not by Rian nostalgia.
+**HUMAN_ROUTE_AUTHORITY:** `M-002 LOCKED ORDINARY POV + CURRENT PARUS CREW CARRIER`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
-NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
-**RELATIONSHIP_DELTA_AUTHORITY:** `EXPLICIT-NONE GUARD`
+Parus remains a living shared home through later crews while the old strategic-home fantasy is gone; this does not recreate the original party or Rian command.
+**RELATIONSHIP_DELTA_AUTHORITY:** `LOCKED PARUS END-STATE / NO-RECOLLECTION GUARD`
 
 **READER_PAYOFF_THIS_EP**  
-the first home remains alive because later crews use it, not because it was preserved untouched for nostalgia.
+the first home remains useful because ordinary later crews use it, and three incompatible popular histories can coexist without a central correction banner.
 
 **RETENTION_QUESTION_OR_CHANGED_CONDITION**  
 the people who once shared that home did not all stay together, and their different institutions now have to be seen on their own terms.
@@ -5624,7 +5636,7 @@ the people who once shared that home did not all stay together, and their differ
 decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared State at E1094 — shared source state] Four-node crisis: up to 1.36m people affected; no Rian command, reserve or master key … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
+Rian cannot restore strategic propulsion, reclaim flagship authority, or publish the definitive Thirteen-Hero history through personal future memory.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -5642,38 +5654,41 @@ Numbers/dates/names present in the approved source card may be carried subject t
 Source Card: [[ga10-e1094-1100-episode-cards-v1]]
 Story Canon Effect: NONE — this section is workflow/QC routing only.
 
+**LOAD_BEARING_OVERRIDE_AUTHORITY:**  
+MANUAL ENDING ROUTE — reconciled E1098 Distributed Reunion card. The four core allies' independent current work/obligations must remain visible; abstract affection alone is insufficient writer activation.
+
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: affection, history and trust can persist without institutional re-collection.) … [source continues]
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
+bounded scene-level close-third/current-information through Nera, Serin, Mia and Haren in their own current work before any call/visit/intersection with Rian; no reunion summons owns the episode.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW ROUTE FROM RECONCILED DISTRIBUTED-REUNION CARD — NOT NEW CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: affection, history and trust can persist without institutional re-collection.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+Nera owns her technical-commons attribution/safety rights; Serin her plural archive/current-status work; Mia current medical/rescue authority; Haren his nonexecutive affected-region/route-obligation work under continuing sanctions. Each owns their present institution and refusals.
+**OWNER_ROUTE_AUTHORITY:** `RECONCILED E1098 INDEPENDENT-CURRENT-STATE PROOF`
 
 **DECISION_BEAT**  
-NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: affection, history and trust can persist without institutional re-collection.
-**DECISION_MODE:** `WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE`
+NON-DISCRETE DISTRIBUTED REUNION — each core ally is encountered first through current work, service or obligation; bounded intersections may occur, but no exchange restores old command, alters Haren's sentence/liability, or recollects the group around Rian.
+**DECISION_MODE:** `WORKFLOW-NON-DISCRETE ENDING STATE FROM APPROVED CURRENT-WORK BLOCK`
 
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[execute the Distributed Reunion architecture without rebuilding the old party around Rian.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: affection, history and trust can persist without institutional re-collection.] → DELTA[affection, history and trust can persist without institutional re-collection.] → COST[distance and unresolved disagreement are part of the stable ending, not a defect waiting for one final speech.] → NEXT[someone else who once could have been reduced to `enemy ace` also kept an independent future—and still has reasons to say no.]
+PRESSURE[prove the old team can remain connected without institutional re-collection] → OBSTACLE[a conventional finale would summon everyone around Rian and make independent institutions feel temporary] → PIVOT[Nera, Serin, Mia and Haren are first shown doing their own current work and obligations; intersections remain bounded] → DELTA[affection/history/trust persist while institutional ownership stays distributed] → COST[distance and unresolved disagreement remain part of the stable ending] → NEXT[Ern must prove an even stronger right: cooperation without final agreement or recruitment].
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: affection, history and trust can persist without institutional re-collection.); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: affection, history and trust can persist without institutional re-collection.] and source cost [distance and unresolved disagreement are part of the stable ending, not a defect waiting for one final speech.]. Do not create a new named witness merely to supply emotion.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
+Nera in the technical commons/multiple-certifier structure; Serin in plural archive/current-status translation; Mia in interregional minimum medical/rescue service; Haren in nonexecutive affected-region/route-obligation work under continuing D4 restrictions.
+**HUMAN_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT INDEPENDENT-CURRENT-STATE PROOF`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
-NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
-**RELATIONSHIP_DELTA_AUTHORITY:** `EXPLICIT-NONE GUARD`
+affection, history and trust can persist with distance and disagreement; no romance/family pairing, forgiveness, sentence reduction or restored command is created by the reunion architecture.
+**RELATIONSHIP_DELTA_AUTHORITY:** `RECONCILED E1098 RELATIONSHIP ARCHITECTURE`
 
 **READER_PAYOFF_THIS_EP**  
-affection, history and trust can persist without institutional re-collection.
+the reader sees four former core allies as owners of durable current lives and institutions, not characters waiting for Rian to collect them again.
 
 **RETENTION_QUESTION_OR_CHANGED_CONDITION**  
-someone else who once could have been reduced to `enemy ace` also kept an independent future—and still has reasons to say no.
+Ern's independent institution now has to cooperate or refuse on its own mandate, proving disagreement also survives the ending.
 
 ### Anti-repetition / authority / information
 
@@ -5682,7 +5697,7 @@ someone else who once could have been reduced to `enemy ace` also kept an indepe
 decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Serin Or] works through plural archive/current-status translation; no final curator/master history office exists.; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
+Rian cannot summon the old party back into a standing team, alter Haren's sanctions through friendship, override Mia/Serin/Nera domains, or turn bounded contact into institutional subordination.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -5700,35 +5715,38 @@ Numbers/dates/names present in the approved source card may be carried subject t
 Source Card: [[ga10-e1094-1100-episode-cards-v1]]
 Story Canon Effect: NONE — this section is workflow/QC routing only.
 
+**LOAD_BEARING_OVERRIDE_AUTHORITY:**  
+MANUAL ENDING ROUTE — reconciled E1099 Ern state + M-012 final independence payoff. Ern must be seen acting through his own institution and retaining a documented right to refuse.
+
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: source human/current-work carrier block: an ordinary interregional/recovery decision proceeds through Ern's own institution and mandate; cooperation with another system is conditional and documented rather than treated as final ideological surrender.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
+Ern Varka through his own route/recovery/provenance institution and current constituency/mission constraints.
+**POV_ROUTE_AUTHORITY:** `M-012 FINAL INDEPENDENCE PAYOFF / RECONCILED E1099`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: a major rival/opposition path becomes durable enough to outlive the protagonist's command.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+Ern and his independent accountable institution own the current interregional/recovery decision; counterpart institutions own their own acceptance terms. Rian owns neither side.
+**OWNER_ROUTE_AUTHORITY:** `M-012 LOCKED INDEPENDENT CURRENT MANDATE`
 
 **DECISION_BEAT**  
-NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: a major rival/opposition path becomes durable enough to outlive the protagonist's command.
-**DECISION_MODE:** `WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE`
+an ordinary interregional/recovery decision proceeds under Ern's own mandate; cooperation is conditional and documented, and Ern may refuse when constituency, mission or accountability requires it.
+**DECISION_MODE:** `LOCKED INDEPENDENT-CURRENT DECISION`
 
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[close Ern Varka/E-001 and remaining plural-opposition payoff without converting disagreement into sequel bait or protagonist recruitment.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: a major rival/opposition path becomes durable enough to outlive the protagonist's command.] → DELTA[a major rival/opposition path becomes durable enough to outlive the protagonist's command.] → COST[the galaxy keeps arguments Rian cannot settle and institutions he does not control.] → NEXT[the last proof is smaller: one ordinary person whose present need matters even though no system can tell Rian whether history will remember them.]
+PRESSURE[close Ern's arc without turning disagreement into recruitment or sequel bait] → OBSTACLE[ending pressure could frame cooperation as final ideological surrender to Rian] → PIVOT[Ern's own institution makes the current decision and keeps refusal available under documented conditions] → DELTA[an opposition path becomes durable enough to outlive Rian's command] → COST[the galaxy keeps institutions and arguments Rian cannot settle] → NEXT[the final proof shrinks to one ordinary present person whose future importance cannot be queried].
 
 **HUMAN_PRESSURE_CARRIER**  
-source human/current-work carrier block: an ordinary interregional/recovery decision proceeds through Ern's own institution and mandate; cooperation with another system is conditional and documented rather than treated as final ideological surrender.
-**HUMAN_ROUTE_AUTHORITY:** `SOURCE HUMAN/WORK BLOCK`
+Ern plus the current constituency/crew/recovery actors whose risks and obligations his independent institution must answer to; cooperation does not make them Rian's roster.
+**HUMAN_ROUTE_AUTHORITY:** `M-012 INDEPENDENT-CURRENT ACTOR CARRIER`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
-NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
-**RELATIONSHIP_DELTA_AUTHORITY:** `EXPLICIT-NONE GUARD`
+Ern can cooperate and still disagree/refuse; no permanent Rian subordination, private roster membership or residual-command integration is created.
+**RELATIONSHIP_DELTA_AUTHORITY:** `M-012 FINAL INDEPENDENCE LOCK`
 
 **READER_PAYOFF_THIS_EP**  
-a major rival/opposition path becomes durable enough to outlive the protagonist's command.
+a former rival/opposition route remains an accountable independent institution rather than an eventually collected ally.
 
 **RETENTION_QUESTION_OR_CHANGED_CONDITION**  
 the last proof is smaller: one ordinary person whose present need matters even though no system can tell Rian whether history will remember them.
@@ -5740,7 +5758,7 @@ the last proof is smaller: one ordinary person whose present need matters even t
 decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE HUMAN/WORK BLOCK; carrier=alive; independent accountable operator-leader in route/recovery/provenance or closely equivalent work rooted in the existing industrial-rescue/Independence arc … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
+Rian cannot convert cooperation into accession, appoint Ern through personal authority, or treat refusal as betrayal of a residual protagonist command.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.

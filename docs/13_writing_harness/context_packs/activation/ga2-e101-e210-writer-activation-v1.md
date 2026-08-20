@@ -2858,6 +2858,9 @@ Numbers/dates/names present in the approved source card may be carried subject t
 Source Card: [[ga2-e146-150-episode-cards-v1]]
 Story Canon Effect: NONE — this section is workflow/QC routing only.
 
+**LOAD_BEARING_OVERRIDE_AUTHORITY:**  
+MANUAL CROSSCHECK — E150 detailed card + L-H01 named-loss lock; death/agency/no-reversal unchanged. Detailed card refines the older coarse loss wording by preserving E147 injury → E150 death timing.
+
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  

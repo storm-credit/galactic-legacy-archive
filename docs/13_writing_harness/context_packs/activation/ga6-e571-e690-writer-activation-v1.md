@@ -6338,38 +6338,41 @@ Numbers/dates/names present in the approved source card may be carried subject t
 Source Card: [[ga6-e676-686-episode-cards-v1]]
 Story Canon Effect: NONE — this section is workflow/QC routing only.
 
+**LOAD_BEARING_OVERRIDE_AUTHORITY:**  
+O01/X04 PROPAGATION RESOLUTION — E680 detailed card + final GA6 operation state + GA6 final cross-audit control writer execution. Older L-H03 stay-behind/capture wording is stale at mechanism level; locked death, medical agency and no-reversal remain unchanged.
+
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-Ella Savin and current medical/ship teams.
-**POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
+Ella Savin and current medical/ship teams at the unstable medical-carrier separation.
+**POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT / LATER FINAL GA6 STATE`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Ella Savin and current medical/ship teams.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+Ella owns the manual medical/coupling decision; current medical/ship teams own patient transfer, treatment separation and bounded technical execution. Rian does not order her choice.
+**OWNER_ROUTE_AUTHORITY:** `LATER GA6 FINAL STATE + SOURCE DECISION`
 
 **DECISION_BEAT**  
-Ella remains at the manual medical/coupling station with a small technical team; she orders patient/caregiver transfers, treatment-priority separation and manual release; Rian does not order her choice.
-**DECISION_MODE:** `SOURCE-EXPLICIT-DECISION`
+Ella remains at the manual medical/coupling station, orders patient/caregiver transfers and treatment-priority separation, and completes the manual release needed to separate the unstable carrier pair.
+**DECISION_MODE:** `SOURCE-EXPLICIT-DECISION / PROPAGATION-RESOLVED`
 
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[separate an unstable medical-carrier pair and preserve treatment/route access for patients and crews.] → OBSTACLE[damaged coupling, pressure/fire spread and incompatible branch timing threaten both carriers; automatic release risks uncontrolled rotation and patient life-support failure … [source continues]] → PIVOT[Ella remains at the manual medical/coupling station with a small technical team; she orders patient/caregiver transfers, treatment-priority separation and manual release; Rian does not order her choice.] → DELTA[the two carrier groups separate; most patients/crew continue or enter current care/holdout paths; Ella Savin dies permanently during the final release/pressure-fire failure … [source continues]] → COST[Ella’s death, degraded medical capacity and further delay.] → NEXT[at 03:20 the common phase has exhausted its assumptions; G requests full control and the separated authorities must choose.]
+PRESSURE[preserve patients, crews and B/C transition while an unstable medical-carrier pair threatens coupled failure] → OBSTACLE[automatic release risks uncontrolled rotation and life-support failure; waiting blocks the transition and exposes surrounding ships] → PIVOT[Ella orders transfers and completes manual separation; Rian does not order her choice] → DELTA[the carrier groups separate and the wider branch collision does not propagate] → COST[Ella dies permanently during the final release/pressure-fire failure; medical capacity degrades and other casualties remain in the global ledger] → NEXT[the common phase is exhausted and E681 must choose the fifth-answer architecture].
 
 **HUMAN_PRESSURE_CARRIER**  
-source POV/current participants: Ella Savin and current medical/ship teams.
-**HUMAN_ROUTE_AUTHORITY:** `SOURCE-POV`
+Ella Savin, the patients/caregivers she orders transferred, and the current medical/ship teams performing the separation.
+**HUMAN_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT / LATER FINAL GA6 STATE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
 **RELATIONSHIP_DELTA_AUTHORITY:** `EXPLICIT-NONE GUARD`
 
 **READER_PAYOFF_THIS_EP**  
-medical-carrier loss does not propagate into a larger branch collision and B/C transition remains possible.
+the medical-carrier separation preserves patients/crews and prevents a wider branch propagation without converting Ella's death into Rian's decision.
 
 **RETENTION_QUESTION_OR_CHANGED_CONDITION**  
-at 03:20 the common phase has exhausted its assumptions; G requests full control and the separated authorities must choose.
+E681 begins after Ella's permanent loss with the common assumptions exhausted and G requesting full control.
 
 ### Anti-repetition / authority / information
 
@@ -6378,7 +6381,7 @@ at 03:20 the common phase has exhausted its assumptions; G requests full control
 decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=damaged coupling, pressure/fire spread and incompatible branch timing threaten both carriers; automatic release risks uncontrolled rotation and patient life-support failure … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
+Rian cannot order Ella's sacrifice, inherit her medical authority, reverse her death, or erase current patient/team consent and stop authority.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -6512,6 +6515,9 @@ Numbers/dates/names present in the approved source card may be carried subject t
 Source Card: [[ga6-e676-686-episode-cards-v1]]
 Story Canon Effect: NONE — this section is workflow/QC routing only.
 
+**LOAD_BEARING_OVERRIDE_AUTHORITY:**  
+MANUAL CROSSCHECK — E683 detailed card + final GA6 state + L-H04/L-S01. Ardo owns the two-command hold; Vow of Bastion is unrecoverable; no Rian inheritance.
+
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
@@ -6569,6 +6575,9 @@ Numbers/dates/names present in the approved source card may be carried subject t
 `DEPTH_GRADE: A — WRITER-ACTIVATED DEEP`
 Source Card: [[ga6-e676-686-episode-cards-v1]]
 Story Canon Effect: NONE — this section is workflow/QC routing only.
+
+**LOAD_BEARING_OVERRIDE_AUTHORITY:**  
+MANUAL CROSSCHECK — E684 detailed card + final GA6 state + L-T01/L-T02. Vera injury and Parus strategic-propulsion loss remain permanent; no hidden restoration.
 
 ### POV / ownership
 

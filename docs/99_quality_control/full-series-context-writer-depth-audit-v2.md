@@ -16,10 +16,10 @@ Depends On: [[full-series-context-writer-activation-depth-standard-v1]], [[full-
 
 ## 2. Explicit-vs-workflow routing transparency
 
-- source-explicit POV routes: **485**.
-- workflow-recommended POV routes: **605** (explicitly noncanon; preserve source information ceiling).
+- source-explicit POV routes: **483**.
+- workflow-recommended POV routes: **607** (explicitly noncanon; preserve source information ceiling).
 - owner routes using only generic engine-bounded role with no POV/front/decision actor support: **0**.
-- non-discrete decision pivots routed from approved state change: **125**.
+- non-discrete decision pivots routed from approved state change: **123**.
 
 A workflow recommendation does not lower depth by itself because POV is a drafting route, not a story-canon fact. It fails only if it changes information, event ownership or authority.
 
@@ -59,7 +59,7 @@ PASS conditions applied:
 - E708–E714: `RESCUE/SERVICE` × 7; owner/cost/carrier signatures=3; `PASS-DIFFERENTIATED`.
 - E715–E723: `INVESTIGATION/EVIDENCE` × 9; owner/cost/carrier signatures=8; `PASS-DIFFERENTIATED`.
 - E776–E790: `LEGAL/GOVERNANCE/ACCOUNTABILITY` × 15; owner/cost/carrier signatures=10; `PASS-DIFFERENTIATED`.
-- E830–E843: `RECORD/PROVENANCE/MYSTERY` × 14; owner/cost/carrier signatures=10; `PASS-DIFFERENTIATED`.
+- E830–E843: `RECORD/PROVENANCE/MYSTERY` × 14; owner/cost/carrier signatures=11; `PASS-DIFFERENTIATED`.
 - E851–E868: `RECORD/PROVENANCE/MYSTERY` × 18; owner/cost/carrier signatures=17; `PASS-DIFFERENTIATED`.
 - E871–E879: `RECORD/PROVENANCE/MYSTERY` × 9; owner/cost/carrier signatures=6; `PASS-DIFFERENTIATED`.
 - E894–E897: `COLLECTION/ACCESS/TRANSFER` × 4; owner/cost/carrier signatures=3; `PASS-DIFFERENTIATED`.

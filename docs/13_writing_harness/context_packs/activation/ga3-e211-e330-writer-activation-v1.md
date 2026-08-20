@@ -6454,19 +6454,22 @@ Numbers/dates/names present in the approved source card may be carried subject t
 Source Card: [[ga3-e315-323-episode-cards-v1]]
 Story Canon Effect: NONE — this section is workflow/QC routing only.
 
+**LOAD_BEARING_OVERRIDE_AUTHORITY:**  
+O01/X04 PROPAGATION RESOLUTION — later E322 detailed card + GA3 final cross-audit control writer execution. Older L-H02 battery wording is stale at mechanism level; locked death, independent agency, plural succession and no-Rian-inheritance remain unchanged.
+
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-Toma, Rema, Anchor operators and current window feeds.
-**POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
+Toma Cal, Rema, Anchor operators and current window feeds.
+**POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT / LATER FINAL GA3 STATE`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Toma, Rema, Anchor operators and current window feeds.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+Toma owns the 74-second manual hold and role/state handoff; Rema/alternates own acceptance of the bounded physical role; Iris owns timing fallback only.
+**OWNER_ROUTE_AUTHORITY:** `LATER GA3 FINAL CROSS-AUDIT + SOURCE DECISION`
 
 **DECISION_BEAT**  
-Toma completes a role/state handoff rather than preserving his office, claiming heroic sole command or allowing automatic total succession.
-**DECISION_MODE:** `SOURCE-EXPLICIT-DECISION`
+Toma completes the 74-second manual isolation and transfers current physical state, unknowns, stop limits and lane condition instead of preserving office or allowing automatic total succession.
+**DECISION_MODE:** `SOURCE-EXPLICIT-DECISION / PROPAGATION-RESOLVED`
 
 ### Scene execution
 
@@ -6474,8 +6477,8 @@ Toma completes a role/state handoff rather than preserving his office, claiming 
 PRESSURE[preserve the local physical reference and hand it to the alternate chain while the Anchor service bay fails.] → OBSTACLE[Imperial timing fallback can keep synchronization for 180 seconds, but without local physical-state transfer the operation must either abort or accept full emergency custody.] → PIVOT[Toma completes a role/state handoff rather than preserving his office, claiming heroic sole command or allowing automatic total succession.] → DELTA[the physical reference survives and the operation can continue under local alternates plus bounded Imperial timing.] → COST[Toma dies permanently at E322; four operators are injured, two seriously; Anchor service bay is lost for the campaign.] → NEXT[the final technical/housing phase enters while B-2 falls and one external group attempts a last seizure approach.]
 
 **HUMAN_PRESSURE_CARRIER**  
-source POV/current participants: Toma, Rema, Anchor operators and current window feeds.
-**HUMAN_ROUTE_AUTHORITY:** `SOURCE-POV`
+Toma, Rema and the Anchor operators physically performing the evacuation, manual hold and acceptance of the bounded role/state handoff.
+**HUMAN_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT / LATER FINAL GA3 STATE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -6494,7 +6497,7 @@ the final technical/housing phase enters while B-2 falls and one external group 
 decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Service-bay strike** — external debris/attack and prior fatigue rupture a cooling/pressure partition; physical B/A reference instruments diverge from remote state … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
+Rian receives no Toma succession authority, governorship, master key or automatic command inheritance.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.

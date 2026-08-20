@@ -2336,38 +2336,41 @@ Numbers/dates/names present in the approved source card may be carried subject t
 Source Card: [[ga8-e836-843-episode-cards-v1]]
 Story Canon Effect: NONE — this section is workflow/QC routing only.
 
+**LOAD_BEARING_OVERRIDE_AUTHORITY:**  
+HIGHER-AUTHORITY WC OVERRIDE — M-010 final-payoff scene ledger + L-R02 named-loss ledger outrank stale E841 DD card. Neutral-custody adjudication may remain secondary, but it cannot displace the locked LIV-4 fracture scene.
+
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — carry the episode through one of the existing HIGH-WATCH recurring faces who physically handles/bears the exact source decision/cost: Serrat living parties, AI communities, custodians, descendants and translators. Do not invent a new named witness and do not treat this recommendation as story canon.
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM ADOPTED HIGH-WATCH GUIDE — NOT STORY CANON`
+Mia close-third, with a bounded LIV-4 / AI-person witness information route only where the POV harness permits.
+**POV_ROUTE_AUTHORITY:** `M-010 SCENE LOCK + WORKFLOW POV BOUNDARY`
 
 **PRIMARY_DECISION_OWNER**  
-current Serrat living parties, AI/community actors, custodians, translators and lawful current institutions retain separate source/translation/access/service authority; exact episode pivot: custodial restrictions continue only with reason, term, appeal and affected-party representation.
-**OWNER_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION`
+LIV-4/current witness and custodians own which copied states may act, testify, remain private or be destroyed; emergency operators own only bounded copy/safety execution.
+**OWNER_ROUTE_AUTHORITY:** `M-010 + L-R02 HIGHER-AUTHORITY LOCK`
 
 **DECISION_BEAT**  
-custodial restrictions continue only with reason, term, appeal and affected-party representation.
-**DECISION_MODE:** `SOURCE-EXPLICIT-DECISION`
+LIV-4/current witness and custodians choose which emergency-copied states may act, testify, remain private or be destroyed; no side may convert the fracture into sole 'rogue AI' or sole-human guilt.
+**DECISION_MODE:** `HIGHER-AUTHORITY LOCKED DECISION`
 
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[define the current reach of Neutral custodial duties.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[custodial restrictions continue only with reason, term, appeal and affected-party representation.] → DELTA[custodial restrictions continue only with reason, term, appeal and affected-party representation.] → COST[faster release increases privacy and political misuse risk.] → NEXT[the tribunal must now dispose of 12,640 current-standing petitions across categories that cannot be merged into citizenship.]
+PRESSURE[preserve current operational evidence/person-state during the Black Ward machine-witness mesh breach] → OBSTACLE[emergency copying can save evidence/operational state but cannot preserve one continuous LIV-4 person-state; old orders, corporate safety locks, military shortcuts and AI decisions interact] → PIVOT[LIV-4/current witness and custodians bound which copied states may act/testify/remain private/be destroyed] → DELTA[operational evidence survives while one continuous relational/person-state is irreversibly lost] → COST[LIV-4 continuity loss cannot be repaired by later merge or archive correction] → NEXT[person/evidence/tool categories and consent-limited machine-record rules must carry the loss forward].
 
 **HUMAN_PRESSURE_CARRIER**  
-adopted HIGH-WATCH recurring face/work carrier — use these already-supported current roles, not a newly invented exemplar: Serrat living parties, AI communities, custodians, descendants and translators
+LIV-4 as the present AI/composite person-state, current custodians, and Mia/current care-evidence operators who physically handle the emergency copy and its limits.
 **HUMAN_ROUTE_AUTHORITY:** `ADOPTED-HIGH-WATCH-CARRIER-GUIDE`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
-NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
-**RELATIONSHIP_DELTA_AUTHORITY:** `EXPLICIT-NONE GUARD`
+one continuous LIV-4 relational/person-state is lost; evidence survival is not person survival and no later merge may restore equivalence.
+**RELATIONSHIP_DELTA_AUTHORITY:** `L-R02 LOCKED IRREVERSIBLE PERSON-STATE LOSS`
 
 **READER_PAYOFF_THIS_EP**  
-preservation remains strong without becoming permanent unelected government.
+the story physically proves that preserving evidence or a usable copy does not equal preserving one continuous person.
 
 **RETENTION_QUESTION_OR_CHANGED_CONDITION**  
-the tribunal must now dispose of 12,640 current-standing petitions across categories that cannot be merged into citizenship.
+later AI/person/evidence custody must operate with the missing continuity rather than merge it back into existence.
 
 ### Anti-repetition / authority / information
 
@@ -2376,10 +2379,10 @@ the tribunal must now dispose of 12,640 current-standing petitions across catego
 decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing 20,960 disputed governance/founding corpus and current access/custody states; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
+Rian cannot define LIV-4 survival, own the copied states, erase witness/custodian consent, or restore the lost continuity through Archive authority.
 
 **MYSTERY_INFORMATION_CEILING**  
-No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
+Expose only M-010's locked causal plurality and LIV-4 fracture here; do not promote unrelated Seed/Archive-origin answers.
 
 **UNSUPPORTED_EXACT_GUARD**  
 Numbers/dates/names present in the approved source card may be carried subject to higher-source precedence. Manuscript-only precision, invented room/device IDs, new casualties, new authorities or explanatory answers are not authorized by this overlay.
@@ -5120,38 +5123,41 @@ Numbers/dates/names present in the approved source card may be carried subject t
 Source Card: [[ga8-e886-893-episode-cards-v1]]
 Story Canon Effect: NONE — this section is workflow/QC routing only.
 
+**LOAD_BEARING_OVERRIDE_AUTHORITY:**  
+HIGHER-AUTHORITY WC OVERRIDE — L-R01/L-R04 named-loss ledger outranks stale E889 DD card. The 46,600-restriction closeout may remain a secondary episode function, but Nacre-3's irreversible mirror/source loss must occur at E889.
+
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: remaining actions receive automatic 30-day expiry unless renewed by current local authority and individualized evidence.) … [source continues]
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
+WORKFLOW current-information route through Nacre-3 custodians and affected source parties physically facing coercive full-copy / central-capture pressure; do not recenter the choice on Rian.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM L-R01 LOCKED AGENCY — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: remaining actions receive automatic 30-day expiry unless renewed by current local authority and individualized evidence.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+Nacre-3 custodians and affected source parties own the refusal/destruction-or-failure decision; Rian cannot make the loss alone.
+**OWNER_ROUTE_AUTHORITY:** `L-R01/L-R04 HIGHER-AUTHORITY LOCK`
 
 **DECISION_BEAT**  
-remaining actions receive automatic 30-day expiry unless renewed by current local authority and individualized evidence.
-**DECISION_MODE:** `SOURCE-EXPLICIT-DECISION`
+Nacre-3 custodians destroy or allow the independent mirror to fail rather than permit coercive full copying and central capture of the protected source corpus.
+**DECISION_MODE:** `HIGHER-AUTHORITY LOCKED DECISION`
 
 ### Scene execution
 
 **SCENE_CAUSAL_CHAIN**  
-PRESSURE[close the 142,800 primary action ledger at thirty hours.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[remaining actions receive automatic 30-day expiry unless renewed by current local authority and individualized evidence.] → DELTA[remaining actions receive automatic 30-day expiry unless renewed by current local authority and individualized evidence.] → COST[46,600 active restrictions continue to affect service, identity, AI, culture or technology after the crisis.] → NEXT[deletion-candidate generation now requires a separate ledger.]
+PRESSURE[close current restriction/appeal work while pressure rises to centralize a complete evidentiary copy] → OBSTACLE[protecting affected-source consent and independent custody conflicts with preserving every testimony/context bit] → PIVOT[Nacre-3 custodians refuse coercive full copy and accept mirror destruction/failure] → DELTA[some testimony/context becomes permanently unrecoverable and one complete canonical history becomes technically impossible] → COST[future adjudication loses real evidence/context rather than merely choosing ideological plurality] → NEXT[deletion-candidate and later plural-history work must operate with an actual permanent gap].
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: remaining actions receive automatic 30-day expiry unless renewed by current local authority and individualized evidence.); ground that face in the exact source pivot [remaining actions receive automatic 30-day expiry unless renewed by current local authority and individualized evidence.] and source cost [46,600 active restrictions continue to affect service, identity, AI, culture or technology after the crisis.]. Do not create a new named witness merely to supply emotion.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
+Nacre-3 custodians and affected source parties whose testimony/context cannot be fully copied without violating the locked custody/consent boundary.
+**HUMAN_ROUTE_AUTHORITY:** `HIGHER-AUTHORITY LOCKED SOURCE/CUSTODIAN CARRIER`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
-NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
-**RELATIONSHIP_DELTA_AUTHORITY:** `EXPLICIT-NONE GUARD`
+the source/custodian relationship ends with a real evidentiary absence; later institutions may preserve provenance but cannot reconstruct the lost whole.
+**RELATIONSHIP_DELTA_AUTHORITY:** `L-R01/L-R04 IRREVERSIBLE RECORD-LOSS LOCK`
 
 **READER_PAYOFF_THIS_EP**  
-most restrictions do not become inherited status.
+Nacre-3's loss makes complete history physically unavailable, not merely politically rejected; current restriction closeout remains secondary and cannot erase the loss.
 
 **RETENTION_QUESTION_OR_CHANGED_CONDITION**  
-deletion-candidate generation now requires a separate ledger.
+all later Archive/history settlements must work with a permanent missing source while current rights remain actionable.
 
 ### Anti-repetition / authority / information
 
@@ -5160,10 +5166,10 @@ deletion-candidate generation now requires a separate ledger.
 decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Continuation State — shared source state] original 18-hour Seed Bridge expired at CY 746-10-28 21:00 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
+Rian cannot order the mirror's fate alone, reconstruct the lost context through future memory, or convert evidence custody into truth sovereignty.
 
 **MYSTERY_INFORMATION_CEILING**  
-No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
+Nacre-3 loss may prove history incompleteness here; it must not reveal any unrelated final Archive/Seed answer ahead of its locked payoff.
 
 **UNSUPPORTED_EXACT_GUARD**  
 Numbers/dates/names present in the approved source card may be carried subject to higher-source precedence. Manuscript-only precision, invented room/device IDs, new casualties, new authorities or explanatory answers are not authorized by this overlay.

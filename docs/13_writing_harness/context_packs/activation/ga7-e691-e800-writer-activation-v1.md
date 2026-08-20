@@ -4134,19 +4134,22 @@ Numbers/dates/names present in the approved source card may be carried subject t
 Source Card: [[ga7-e754-765-episode-cards-v1]]
 Story Canon Effect: NONE — this section is workflow/QC routing only.
 
+**LOAD_BEARING_OVERRIDE_AUTHORITY:**  
+MANUAL LOAD-BEARING ROUTE — E761 source-explicit Lin/local agency carries into E762 consequence; L-H05 loss lock controls. Lin does not choose death and is not reduced to Haren/Rian motivation.
+
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current medical/care authority together with patient/affected-party consent where applicable; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: Lin dies despite local treatment/evacuation attempts; her current appeal, work logs and household evidence remain available; additional deaths and harms enter the D4 downstream ledger.) … [source continues]
-**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
+WORKFLOW close-third/current-information route through Lin Osa's already-established local household/work/service actors and the immediate treatment/evacuation team; preserve Lin's E761 agency without inventing a new witness.
+**POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM E761 SOURCE-EXPLICIT AGENCY + E762 LOCKED LOSS — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current medical/care authority together with patient/affected-party consent where applicable; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: Lin dies despite local treatment/evacuation attempts; her current appeal, work logs and household evidence remain available; additional deaths and harms enter the D4 downstream ledger.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+Lin owns her E761 care/work/household choices and evidence; current local care/service actors own E762 treatment and evacuation attempts. No actor owns her death as a chosen sacrifice.
+**OWNER_ROUTE_AUTHORITY:** `L-H05 + E761/E762 SOURCE CAUSAL CHAIN`
 
 **DECISION_BEAT**  
-NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: Lin dies despite local treatment/evacuation attempts; her current appeal, work logs and household evidence remain available; additional deaths and harms enter the D4 downstream ledger.
-**DECISION_MODE:** `WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE`
+NON-DISCRETE CONSEQUENCE — Lin dies despite local treatment/evacuation attempts after the locked D4 downstream service-failure chain; her appeal, work logs and household evidence remain available.
+**DECISION_MODE:** `WORKFLOW-NON-DISCRETE CONSEQUENCE FROM LOCKED LOSS`
 
 ### Scene execution
 
@@ -4154,8 +4157,8 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 PRESSURE[[SEMANTIC SOURCE-BLOCK EPISODE FUNCTION; no new fact] [Named locked loss] Lin Osa dies permanently as a downstream D4 victim.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: Lin dies despite local treatment/evacuation attempts … [source continues]] → DELTA[Lin dies despite local treatment/evacuation attempts; her current appeal, work logs and household evidence remain available; additional deaths and harms enter the D4 downstream ledger.] → COST[Lin Osa dies permanently as a downstream D4 victim.] → NEXT[the D4 order expires automatically 46 minutes later.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current medical/care authority together with patient/affected-party consent where applicable; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: Lin dies despite local treatment/evacuation attempts; her current appeal, work logs and household evidence remain available; additional deaths and harms enter the D4 downstream ledger.); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: Lin dies despite local treatment/evacuation attempts; her current appeal, work logs and household evidence remain available … [source continues]] and source cost [Lin Osa dies permanently as a downstream D4 victim.]. Do not create a new named witness merely to supply emotion.
-**HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
+Lin Osa's current household/community/work team plus the local treatment/evacuation actors who physically bear the service failure; do not stage Lin as choosing death.
+**HUMAN_ROUTE_AUTHORITY:** `SOURCE-BOUND E761→E762 HUMAN-CARRIER CONTINUITY`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
 NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
@@ -4174,7 +4177,7 @@ the D4 order expires automatically 46 minutes later.
 decision-mode=WORKFLOW-NON-DISCRETE PIVOT FROM APPROVED STATE CHANGE; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=power/oxygen and medical-refrigeration service failure spreads through the understated shelter/work zone; delayed coupler/filter/oxygen support cannot arrive before the local margin is exhausted … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
+Rian cannot convert Lin's death into his private guilt/authority, erase Haren's bounded responsibility, or replace affected-region ownership of her evidence.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
