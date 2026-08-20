@@ -6,7 +6,7 @@ Canon Promotion: NOT AUTHORIZED
 Publication: NOT AUTHORIZED
 Owner Agents: A00 PM / X02 Reader Memory / X05 Adversarial / C02 Ensemble / C04 Relationship / G04 Reward / N06 Ending
 Last Reviewed: 2026-08-20
-Depends On: [[CLAUDE]], [[core-cast-collectible-visual-identity-directions-v1]], [[parus-collectible-home-ship-visual-sensory-identity-directions-v1]], [[ga7-ga10-targeted-execution-and-ending-brainstorm-2026-08-20]], [[master-series-chronology-v1]], [[ga10-episodes-1001-1100-act-map-v1]]
+Depends On: [[CLAUDE]], [[core-cast-collectible-visual-identity-directions-v1]], [[parus-collectible-home-ship-visual-sensory-identity-directions-v1]], [[master-series-chronology-v1]], [[ga10-episodes-1001-1100-act-map-v1]]
 Used By: GA10 ending reconciliation preflight, core-cast production briefs, later silhouette/character-sheet review
 Open Risks: reference material can quietly become imitation if a single work supplies face + costume + pose + relationship + ending beat. This document therefore stores **feature extraction and vetoes**, not copy instructions.
 
