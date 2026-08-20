@@ -1,0 +1,46 @@
+name: Audit full-series Context writer depth
+
+on:
+  push:
+    branches:
+      - production/e001-e1100-context-writer-depth-v2
+    paths:
+      - 'tools/audit_full_series_context_writer_depth.py'
+      - 'tools/build_full_series_context_packs*.py'
+      - 'docs/00_project/full-series-context-writer-activation-depth-standard-v1.md'
+      - 'docs/10_story_architecture/**'
+      - 'docs/13_writing_harness/context_packs/generated/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit-depth:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Check out writer-depth branch
+        uses: actions/checkout@v4
+        with:
+          ref: production/e001-e1100-context-writer-depth-v2
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Build writer-depth audit
+        run: python tools/audit_full_series_context_writer_depth.py
+
+      - name: Commit audit output
+        run: |
+          if git diff --quiet -- docs/99_quality_control/full-series-context-writer-depth-audit-v1.md; then
+            echo 'Depth audit already current.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/99_quality_control/full-series-context-writer-depth-audit-v1.md
+          git commit -m 'QC: refresh full-series Context writer-depth audit'
+          git push origin HEAD:production/e001-e1100-context-writer-depth-v2
