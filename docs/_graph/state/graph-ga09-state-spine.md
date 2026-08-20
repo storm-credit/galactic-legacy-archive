@@ -6,6 +6,7 @@ GA: 09
 
 - Story: [[ga9-episodes-901-1000-act-map-v1]]
 - Collection: [[ga9-collection-registry-v1]]
+- Episode design index: [[episodes-101-1100-detail-production-standard-and-batch-map-v1]]
 - Episodes: [[episode-briefs]]
 - Context Pack: [[context-pack-tangible-reader-memory-execution-spec-proposal-v1]]
 - Current state: [[ga1-10-state-checkpoint-matrix-v1]] / [[ga1-10-operational-checkpoint-snapshots-v1]]

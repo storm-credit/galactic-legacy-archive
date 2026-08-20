@@ -6,6 +6,7 @@ GA: 06
 
 - Story: [[ga6-episodes-571-690-act-map-v1]]
 - Collection: [[ga6-collection-registry-v1]]
+- Episode design index: [[episodes-101-1100-detail-production-standard-and-batch-map-v1]]
 - Episodes: [[episode-briefs]]
 - Context Pack: [[context-pack-tangible-reader-memory-execution-spec-proposal-v1]]
 - Current state: [[ga1-10-state-checkpoint-matrix-v1]] / [[ga1-10-operational-checkpoint-snapshots-v1]]
