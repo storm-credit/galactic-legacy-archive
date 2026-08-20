@@ -2,9 +2,10 @@
 """Semantic lint for generated Collection Desire packets.
 
 Existing audits prove field presence, target bounds and adjacent duplication.
-This lint catches writer-unusable internal shorthand that can still satisfy
-those checks, for example `C/G/L. / G.` in NEXT_DESIRE. Concise but readable
-source phrases are WATCH, not automatic failures.
+This lint catches writer-unusable internal registry shorthand that can still
+satisfy those checks, for example backticked `C/G/L — ...` status facets in
+NEXT_DESIRE. Source-native operational labels such as Window A/B/C are valid.
+Concise but readable source phrases are WATCH, not automatic failures.
 """
 
 from __future__ import annotations
@@ -28,7 +29,7 @@ REQUIRED = (
     "SET_ADVANCE_CONDITION",
     "NEXT_DESIRE",
 )
-SHORT_CODE = re.compile(r"(?:^|[\s`])(?:[A-Z](?:/[A-Z]){1,5})(?:[.\s`/]|$)")
+STATUS_CODE = re.compile(r"`[A-Z](?:/[A-Z]){1,5}(?:\s+—[^`]*)?`")
 PLACEHOLDER = re.compile(r"\b(?:TBD|TODO|PLACEHOLDER)\b", re.IGNORECASE)
 
 
@@ -68,8 +69,8 @@ def build() -> str:
             reasons = []
             if not value:
                 reasons.append("missing")
-            if value and SHORT_CODE.search(value):
-                reasons.append("shorthand-code-token")
+            if value and STATUS_CODE.search(value):
+                reasons.append("backticked-registry-status-token")
             if value and PLACEHOLDER.search(value):
                 reasons.append("placeholder-token")
             if reasons:
@@ -108,7 +109,7 @@ def build() -> str:
         "",
         "## Gate",
         "",
-        "A field can be structurally present and still be unusable for prose planning. Internal status/category abbreviations are hard failures. A short but ordinary-language approved-source phrase is a WATCH only and may remain when its meaning is clear in the owning subact.",
+        "A field can be structurally present and still be unusable for prose planning. Backticked registry status/category abbreviations are hard failures. Source-native labels such as Window A/B/C are preserved. A short but ordinary-language approved-source phrase is a WATCH only when its meaning remains clear in the owning subact.",
         "",
     ])
     return "\n".join(lines)
