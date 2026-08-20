@@ -6,6 +6,7 @@ on:
       - 'qc/prewriting-execution-redteam-v2'
     paths:
       - 'tools/audit_prewriting_redteam_v2.py'
+      - 'tools/run_prewriting_redteam_v2_strict.py'
       - 'tools/run_full_series_context_writer_activation*.py'
       - 'tools/run_full_series_collection_reader_desires*.py'
       - 'tools/finalize_full_series_collection_desire_semantic_sets.py'
@@ -18,6 +19,7 @@ on:
       - main
     paths:
       - 'tools/audit_prewriting_redteam_v2.py'
+      - 'tools/run_prewriting_redteam_v2_strict.py'
       - 'tools/run_full_series_context_writer_activation*.py'
       - 'tools/run_full_series_collection_reader_desires*.py'
       - 'tools/finalize_full_series_collection_desire_semantic_sets.py'
@@ -49,14 +51,14 @@ jobs:
           python tools/sanitize_context_activation_provenance.py
           python tools/run_full_series_collection_reader_desires_blindspot.py
 
-      - name: Run second-pass hostile audit
+      - name: Run strict second-pass hostile audit
         run: |
-          python tools/audit_prewriting_redteam_v2.py
-          python tools/audit_prewriting_redteam_v2.py --check
+          python tools/run_prewriting_redteam_v2_strict.py
+          python tools/run_prewriting_redteam_v2_strict.py --check
 
       - name: Show red-team summary
         run: |
-          sed -n '1,120p' docs/99_quality_control/prewriting-execution-redteam-v2-audit.md
+          sed -n '1,150p' docs/99_quality_control/prewriting-execution-redteam-v2-audit.md
 
       - name: Persist audit report on branch push
         if: github.event_name == 'push'
