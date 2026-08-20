@@ -120,21 +120,21 @@ For repository manageability, Context Pack files are grouped by Grand Act / cont
 
 Batching is a storage choice only. Completion is still counted per episode.
 
-Production sequence:
+Current authoritative GA boundaries follow [[episodes-101-1100-detail-production-standard-and-batch-map-v1]] and the current act maps:
 
 1. E001–E100 / GA1;
 2. E101–E210 / GA2;
 3. E211–E330 / GA3;
 4. E331–E450 / GA4;
-5. E451–E560 / GA5;
-6. E561–E690 / GA6;
-7. E691–E810 / GA7;
-8. E811–E900 / GA8;
+5. E451–E570 / GA5;
+6. E571–E690 / GA6;
+7. E691–E800 / GA7;
+8. E801–E900 / GA8;
 9. E901–E1000 / GA9;
 10. E1001–E1100 / GA10;
 11. full-series cross-GA blindspot audit and final status manifest.
 
-The exact GA boundaries follow current project architecture; if a higher source defines a narrower internal batch, that source controls.
+Internal detail batches may be narrower, but no lower batching note may move a GA boundary away from the current act-map/detail-production standard.
 
 ---
 
