@@ -1,33 +1,59 @@
-# GA10 Episodes 1076–1085 Detailed Episode Cards v1 — 돌아갈 곳을 정하는 일
+# GA10 Episodes 1076–1085 Detailed Episode Cards v2 — 돌아갈 곳을 정하는 일
 
-Status: REVIEW — DETAILED EPISODE DESIGN
-Owner Agents: N03 Episode / N04 Causality / N06 Ending / P03 Law / P04 Care / P06 Factions / M05 Logistics / X04 Continuity
-Last Reviewed: 2026-08-05
-Depends On: E1075 defeat of the Final Continuity Fleet, [[ga10-e1069-1075-episode-cards-v1]], [[ga10-episodes-1001-1100-act-map-v1]]
-Used By: E1086–1100 final relinquishment and series audit, [[ga10-e1086-1093-episode-cards-v1]], [[ga10-e1094-1100-episode-cards-v1]]
+Status: REVIEW — DETAILED EPISODE DESIGN / ENDING RECONCILED
+Owner Agents: N03 Episode / N04 Causality / N06 Ending / P03 Law / P04 Care / P06 Factions / M05 Logistics / X04 Continuity / O01 Canon
+Last Reviewed: 2026-08-20
+Depends On: E1075 final transition battle, [[ga10-e1069-1075-episode-cards-v1]], [[ga10-episodes-1001-1100-act-map-v1]], [[master-series-chronology-v1]], [[final-payoff-scene-ledger-locked-v1]], [[ga10-ending-reconciliation-canon-amendment-2026-08-20]]
+Used By: E1086–1100 final relinquishment/epilogue and series audit, [[ga10-e1086-1093-episode-cards-v1]], [[ga10-e1094-1100-episode-cards-v1]]
+Publication: NOT AUTHORIZED
 
-## Shared Opening State
+## Reconciliation Note
 
-- Pre-Writing Gate: CLOSED.
-- Manuscript prose: prohibited.
-- 31 nodes, 26.0m people.
-- modules: 14 transferred, 2 stability-compact, 1 inactive.
-- connector patterns: 25 independent, 13 limited, 5 not operational.
-- Rian has no standing command or reserve mandate.
-- remaining tasks: stability-module settlement, craft/title, records/artifacts, restitution, connector completion, ordinary-crisis proof.
+This v2 replaces the stale lower-card allocation that dated E1076–1085 in CY747-11/12.
+
+Higher authority controls:
+- E1076–1095 main-story close = CY748-03-25 through 07-31;
+- E1083–1089 = collected legacy returned/distributed;
+- locked payoff scenes retain their episode numbers unless changed through explicit change control.
+
+No old valid ledger fact is deleted merely because its episode placement changes.
+
+## Shared Opening State — E1076
+
+Date boundary:
+- E1075 ends CY 748-03-24.
+- E1076 begins CY 748-03-25.
+
+System state carried forward:
+- 31 nodes, 26.0m people in the final transition envelope;
+- modules: 14 transferred, 2 stability-compact, 1 inactive pending final settlement;
+- connector patterns: 25 independent, 13 limited, 5 not operational at the immediate E1075 checkpoint;
+- Rian has no standing command or reserve mandate;
+- first-line tasks are medical/rescue stabilization, demobilization, prisoners/holdouts, asset title, service continuity, claims and final custody.
+
+Current project gate:
+- draft production may be OPEN under the project-control gate, but this design file does not authorize publication;
+- `Publication: NOT AUTHORIZED` remains mandatory.
 
 ---
 
 # Episode 1076 — 전쟁이 끝난 다음의 소유권
 
 Date:
-- CY 747-11-15 to 11-17.
+- CY 748-03-25 to 03-31.
 
 Goal:
-- open final return without converting victory custody into title.
+- begin reconstruction by separating physical custody from legal title while rescue and demobilization are still active.
 
-Registers:
-- prior 103 enclave craft;
+Current work:
+- medical/rescue and damaged-node stabilization;
+- prisoners, surrendered crews and holdout processing;
+- route/node/ship repair triage;
+- refugee return, relocation and safe-exit requests;
+- payroll, pension and worker claims opened under ordinary institutions.
+
+Asset review opened:
+- 103 earlier enclave craft;
 - 104 newly surrendered/grounded hardliner craft;
 - 91 locally/temporarily operated hardliner craft;
 - command/provenance records;
@@ -35,269 +61,328 @@ Registers:
 - module and repair claims.
 
 Decision:
-- every asset receives separate title, crew, mission, safety, culpability and local-need review.
+- every asset receives separate title, crew, mission, safety, culpability and local-need review;
+- victory custody creates no Rian/coalition ownership presumption.
 
 Reward:
-- final return begins from current rights rather than collector possession.
+- reconstruction begins from current rights rather than collector possession.
 
 Cost:
-- recovery cannot use all captured capacity immediately.
+- captured/grounded capacity cannot all be used immediately; repair and service queues remain worse in several regions.
 
 Hook:
-- the stability compact reaches its final mandatory review.
+- the two remaining stability modules reach their final mandatory review.
 
 ---
 
 # Episode 1077 — 안정협약의 마지막 투표
 
 Date:
-- CY 747-11-18 to 11-20.
+- CY 748-04-01 to 04-06.
 
 Goal:
-- resolve the two remaining stability modules by current mandate.
+- resolve the two remaining stability modules and five-node compact by current mandate rather than automatic renewal.
 
 Five-node decisions:
 - two nodes convert to local custody with reciprocal service;
 - two retain a voluntary function-specific service consortium;
-- one splits: shared service interoperability, local command/credentials.
+- one splits shared service interoperability from local command/credentials.
 
 Decision:
 - the 120-day compact ends without automatic renewal;
-- no standing composer or central credential remains.
+- no standing composer or central credential survives the compact by inertia.
 
 Reward:
 - communities keep useful coordination without preserving a central key.
 
 Cost:
-- service and liability rules become more complex.
+- service, liability and cross-node review become more complex and slower.
 
 Hook:
-- the inactive module requires a decision between reactivation, distribution and retirement.
+- the inactive seventeenth module still has useful modeling value but no safe inherited custody path.
 
 ---
 
 # Episode 1078 — 쓰지 않는 기능의 마지막 상태
 
 Date:
-- CY 747-11-21 to 11-23.
+- CY 748-04-07 to 04-12.
 
 Goal:
-- settle the inactive module without treating nonuse as failure.
+- settle the inactive module and close the seventeen-module architecture without treating deliberate nonuse as failure.
 
 Evidence:
-- function remains technically useful in rare galaxy-scale modeling;
+- the function remains technically useful in rare galaxy-scale modeling;
 - local/reciprocal systems can operate without it;
-- custody would recreate a strategic focal point.
+- inherited custody would recreate a strategic focal point.
 
-Decision:
+Decision on inactive module:
 - retire and cryptographically seal the operational credential;
 - publish nonoperational specifications and risk history;
 - place evidence copies under distributed archive custody;
-- reactivation would require a future new design, not inherited authority.
+- any future reactivation requires a new design/mandate, not inherited authority.
 
-Reward:
-- one capability is deliberately relinquished rather than seized.
-
-Cost:
-- future crisis response may be slower.
-
-Hook:
-- the full seventeen-module final ledger is published.
-
----
-
-# Episode 1079 — 열일곱 조각의 마지막 장부
-
-Date:
-- CY 747-11-24.
-
-Goal:
-- finalize module custody.
-
-Final modules 17:
+Final 17-module disposition:
 - 12 local/sector public institutions;
 - 3 AI/community/affected institutions;
 - 1 voluntary reciprocal interoperability service with no command credential;
 - 1 retired/sealed nonoperational module;
 - total 17.
 
-Decision:
-- no person or institution can recombine all functions through inherited credentials.
-
 Reward:
-- central-key architecture ceases to exist as one operable object.
+- central-key architecture no longer exists as one recombinable inherited object.
 
 Cost:
-- interoperability depends on negotiated standards and current consent.
+- a future galaxy-scale crisis may be slower to model or coordinate.
 
 Hook:
-- records and collections must receive equally specific destinations.
+- the same test must now be applied to people who learned to connect the distributed system.
 
 ---
 
-# Episode 1080 — 수집품을 공공기관으로 바꾸다
+# Episode 1079 — 서른두 개의 독립 연결자
 
 Date:
-- CY 747-11-25 to 11-27.
+- CY 748-04-13 to 04-20.
 
 Goal:
-- classify prior collections by current rights rather than trophy value.
+- finish connector qualification without creating a substitute caste of master operators.
+
+Among 43 connector patterns:
+- 32 independently qualified;
+- 9 limited/supervised;
+- 2 retired or not operational by current choice/capacity;
+- total 43.
+
+Operational distribution:
+- six cells can compose multi-node named packages;
+- twelve institutions can operate their specific authority fields;
+- AI/community and mixed-team patterns retain separate mandates;
+- no one cell recombines all authority fields.
+
+Decision:
+- transition training authority ends;
+- certification moves to ordinary institutions with review, expiry and local/domain limits.
+
+Reward:
+- routine and most regional crises no longer require Rian.
+
+Cost:
+- no non-Rian cell has his full wartime experience; latency and disagreement remain real.
+
+Hook:
+- power can be distributed technically while property, compensation and records still remain concentrated.
+
+---
+
+# Episode 1080 — 수집품보다 먼저 남은 청구
+
+Date:
+- CY 748-04-21 to 05-08.
+
+Goal:
+- establish the reconstruction/claims architecture and classify collected assets by rights before ceremonial legacy placement begins.
 
 Destination classes:
 - returned/local assets;
 - public institutions and standards;
-- current private/community consent custody;
+- current private/community-consent custody;
 - protected multi-archive evidence;
 - sealed/inactive or permanently lost state.
 
+Claims opened/continued:
+- Orpheus and route harms;
+- Blood Admiral/D4 harms;
+- administrative closure/identity damage;
+- forced synchronization/preservation harms;
+- final-front transition losses;
+- worker/pay, repair and asset-title claims.
+
 Decision:
-- no universal collector inventory controls title or access.
+- no universal collector inventory controls title, access or compensation;
+- unresolved causation survives into ordinary claims institutions rather than being closed for series neatness.
 
 Reward:
-- collections become durable institutions, returned property or acknowledged loss.
+- the final collection payoff is forced to pass through current rights and actual claimants.
 
 Cost:
-- completeness and easy access are sacrificed.
+- the ending cannot produce one complete inventory or one ceremonial compensation event.
 
 Hook:
-- Academy and 07 collections undergo final placement.
+- one independent front still needs a final signatory who will not enter Rian's residual command afterward.
 
 ---
 
-# Episode 1081 — 학교와 07호가 남는 방식
+# Episode 1081 — 남의 지휘 아래 끝내지 않는다
 
 Date:
-- CY 747-11-28 to 11-30.
+- CY 748-05-09 to 05-15.
 
 Goal:
-- resolve the earliest institutional and technical collections.
+- complete M-012's final Ern/Independence payoff through one real regional handoff rather than recruitment.
+
+POV/owner:
+- Ern Varka / E-001.
+
+Action:
+- Ern commands and signs one final regional handoff front using the route/recovery/industrial knowledge earned through the Independence arc;
+- local/crew/affected mandates, not Rian's personal authority, determine custody and continuing service;
+- the handoff accepts accountable review and current law without becoming a Rian-controlled institution.
+
+Decision:
+- Ern refuses permanent integration into any Rian residual command, fleet or personal roster;
+- cooperation remains mission/compact-specific.
+
+Reward:
+- the former emergency liberation path ends with an accountable independent institution capable of acting without becoming the protagonist's possession.
+
+Cost:
+- Ern keeps responsibility for the harms, compromises and constituencies of an independent route/recovery path; disagreement with the wider compact remains possible.
+
+Hook:
+- the remaining fleet and hull ledgers must prove material power follows the same non-ownership rule.
+
+---
+
+# Episode 1082 — 함선의 숫자를 소유권으로 읽지 않는 법
+
+Date:
+- CY 748-05-16 to 05-24.
+
+Goal:
+- close the major craft-title ledgers and move war assets into ordinary title/service/claims law before the iconic-legacy sequence.
+
+### Earlier enclave craft — 103
+
+- 38 returned to verified prior/local title;
+- 31 remain in time-limited crew/service trusts with ordinary renewal rules;
+- 27 completed or approved demilitarized service conversion;
+- 7 sealed, unsafe or still disputed under neutral/claims custody;
+- total 103.
+
+### Surrendered/grounded + temporary/local hardliner craft — 195
+
+- 72 local title/defense custody after crew and node mandate;
+- 48 crew/service trusts;
+- 36 demilitarized service conversions;
+- 21 neutral/claims custody;
+- 18 sealed, dismantled or unusable;
+- total 195.
+
+### Escaped/dispersed craft — 47
+
+- 18 surrender, localize or enter ordinary review;
+- 17 remain outside as criminal, mercenary, refugee or local actors under separate current law;
+- 12 remain missing/unresolved;
+- total 47.
+
+Related placement:
+- ownerless-fleet charters continue as crew/mission/exit commons;
+- joint-trust node rights remain local;
+- no residual transition or Rian title is created.
+
+Reward:
+- campaign accounting becomes current lawful custody rather than a prize fleet.
+
+Cost:
+- repair/defense capacity remains fragmented and 19 hull groups across the three ledgers remain sealed/disputed/missing in different ways rather than being narratively cleaned up.
+
+Hook:
+- E1083 begins the intentionally slower return of the objects and institutions readers actually remember: first ship, 07, people, routes and records.
+
+---
+
+# Episode 1083 — 첫 집을 돌려주는 일
+
+Date:
+- CY 748-05-25 to 06-03.
+
+Goal:
+- execute M-017's first iconic ownership payoff through 파루스.
+
+Locked physical/legal state:
+- 파루스 remains under an independent crew/worker public-service trust or equivalent already-supported crew institution;
+- Rian cannot redirect, sell or reclaim it through former command history;
+- strategic propulsion loss remains permanent and visibly limits mission choice;
+- it transitions toward the already-locked `route school / rescue-service station` role rather than flagship restoration.
+
+Permitted work within existing capability:
+- rescue and inspection;
+- route/service training;
+- workshop and slow local/route support consistent with its old tender/escort identity and permanent propulsion limits.
+
+Decision:
+- crew/worker/current-service custody wins over protagonist nostalgia or collector value.
+
+Reward:
+- the first moving home survives as work other people can use.
+
+Cost:
+- it can no longer perform the strategic mobility or wartime role readers remember from before the permanent loss.
+
+Hook:
+- the first machine now has to surrender its own unique combat configuration without becoming a museum relic.
+
+---
+
+# Episode 1084 — 07호가 전설기가 되지 않는 마지막 방법
+
+Date:
+- CY 748-06-04 to 06-10.
+
+Goal:
+- execute M-003 and M-017 07 final-fate locks as Hybrid Retirement.
+
+POV/owner:
+- Nera Vick leads the technical action; Rian is not the owner of technical truth.
+
+Physical action:
+- 07's remaining unique combat-control module is removed and divided under plural/public custody;
+- a nonunique public rescue/training configuration is installed;
+- other qualified pilots operate the frame under ordinary authorization.
+
+Decisions:
+- Rian signs away exclusive pilot priority and any founder-like veto;
+- Nera signs away singular technical custody while retaining personal attribution, refusal and safety-objection rights;
+- no additional hull destruction is invented merely to dramatize retirement.
+
+Reward:
+- 07 remains physically useful and recognizable while the peak wartime configuration cannot simply return.
+
+Cost:
+- the original `only Rian can use this answer` fantasy is permanently lost; future high-risk use would require a new public authorization process rather than inherited privilege.
+
+Hook:
+- distributing the object is incomplete until Nera's own authorship/control relationship is distributed too.
+
+---
+
+# Episode 1085 — 만든 사람도 소유하지 않는 표준
+
+Date:
+- CY 748-06-11 to 06-18.
+
+Goal:
+- close Nera/Open Service and Academy/technical-education ownership without erasing authorship.
 
 Placement:
 - Academy mission/contract/crew-rights records enter a federated education trust;
-- 07 open-interface specifications enter a public technical foundation;
-- current frame/hull parts remain with verified crews, institutions and local owners;
-- private student and patient records remain protected.
+- 07/Open Service specifications live in the public technical commons/foundation under multiple certifiers and safety obligations;
+- private student and patient records remain protected;
+- surviving parts/hulls stay with verified crews, institutions and local owners rather than one complete museum archive.
+
+Locked public-use action:
+- another qualified engineer uses or rejects part of the standard lawfully without asking Nera's personal permission;
+- Nera accepts the loss of control and exercises only attribution/safety/refusal rights that actually remain hers.
 
 Decision:
-- no Rian ownership or founder veto.
+- contributor credit survives; exclusive technical ownership does not.
 
 Reward:
-- early survival tools remain usable after the protagonists leave.
+- the early survival technology becomes a living shared practice rather than a heroic inventor relic.
 
 Cost:
-- no single complete Academy/07 archive exists.
-
-Hook:
-- route, node and fleet collections follow.
-
----
-
-# Episode 1082 — 항로와 도시와 함대를 돌려주다
-
-Date:
-- CY 747-12-01 to 12-03.
-
-Goal:
-- place route, node and fleet institutions.
-
-Placement:
-- H-001 route/service ledgers become current service commons with privacy and affected correction;
-- joint-trust node rights remain local trusts;
-- ownerless-fleet charters become crew/mission/exit commons;
-- Orpheus relief records enter disaster-response institutions;
-- no Haren, Rian or coalition route ownership.
-
-Reward:
-- authority survives as procedures and local mandates.
-
-Cost:
-- route and fleet decisions remain slower and contested.
-
-Hook:
-- Blood Admiral, D4, Seed and Serrat records require protected/public layering.
-
----
-
-# Episode 1083 — 공개해야 할 죄와 보호해야 할 사람
-
-Date:
-- CY 747-12-04 to 12-06.
-
-Goal:
-- finalize accountability archives without exposing current private lives.
-
-Public/protected archive:
-- D4 orders and 12/24/48-hour reviews;
-- Haren verdict and sanctions;
-- Lin Osa’s four ledgers with household/privacy protections;
-- Blood Admiral five-layer provenance;
-- Seed and Perfect Route performance/errors;
-- administrative and command-linked harm evidence.
-
-Decision:
-- public findings, protected individual data and sealed security evidence remain separate.
-
-Reward:
-- accountability cannot be erased by distribution.
-
-Cost:
-- no one archive offers unrestricted access.
-
-Hook:
-- Haren’s current sanction timeline is corrected for final chronology.
-
----
-
-# Episode 1084 — 끝난 형과 끝나지 않은 제재
-
-Date:
-- CY 747-12-07.
-
-Goal:
-- establish Haren’s accurate current legal state.
-
-Finding:
-- fourteen-month liberty restriction/inquiry detention was completed earlier with credited time;
-- 12-year executive route-command ban remains;
-- permanent unilateral high-grade denial/master-key ban remains;
-- 15-year reparations contribution remains;
-- no automatic federation or oversight office;
-- later nonexecutive eligibility still requires ordinary mandate and explicit affected-region approval.
-
-Decision:
-- correct later shorthand references to “serving sentence” without altering conviction or sanctions.
-
-Reward:
-- chronology and accountability align.
-
-Cost:
-- beneficiary and victim regions reopen political dispute over any future civic role.
-
-Hook:
-- Rian must decide the destination of his own exclusive composer credential and records.
-
----
-
-# Episode 1085 — 리안의 자격증명은 누구의 것인가
-
-Date:
-- CY 747-12-08 to 12-10.
-
-Goal:
-- separate Rian’s knowledge, qualification and authority.
-
-Decision:
-- command-composition curriculum and logs enter public/qualified training institutions;
-- Rian’s personal activation credential expires and is not transferable;
-- his professional qualification becomes an ordinary revocable certification;
-- no founder, hereditary or emergency succession right;
-- private memories remain his.
-
-Reward:
-- knowledge survives while exclusive activation authority ends.
-
-Cost:
-- Rian can no longer guarantee immediate control if distributed institutions fail.
+- no single complete Academy/07 archive, workshop or person can define the lineage alone.
 
 Final hook:
-- E1086 tests whether enough other connectors can act without his supervision.
+- E1086 applies the same rule to the Common Fleet and remaining command structures.
