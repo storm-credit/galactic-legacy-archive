@@ -10,24 +10,28 @@ on:
       - 'tools/finalize_full_series_collection_desire_layer_strict.py'
       - 'tools/finalize_full_series_collection_desire_semantic_sets.py'
       - 'tools/finalize_full_series_collection_reader_desires.py'
-      - 'tools/run_full_series_collection_reader_desires.py'
+      - 'tools/run_full_series_collection_reader_desires*.py'
       - 'tools/audit_full_series_collection_desire_repetition.py'
       - 'tools/audit_full_series_collection_reader_desire_source.py'
+      - 'tools/audit_collection_desire_semantic_lint.py'
       - 'tools/build_collection_normalization.py'
       - 'docs/09_collection/**'
       - 'docs/10_story_architecture/**'
       - 'docs/00_project/full-series-collection-desire-subact-execution-standard-v1.md'
       - '.github/workflows/build-full-series-collection-desire-layer.yml'
   pull_request:
+    branches:
+      - main
     paths:
       - 'tools/build_full_series_collection_desire_layer.py'
       - 'tools/finalize_full_series_collection_desire_layer.py'
       - 'tools/finalize_full_series_collection_desire_layer_strict.py'
       - 'tools/finalize_full_series_collection_desire_semantic_sets.py'
       - 'tools/finalize_full_series_collection_reader_desires.py'
-      - 'tools/run_full_series_collection_reader_desires.py'
+      - 'tools/run_full_series_collection_reader_desires*.py'
       - 'tools/audit_full_series_collection_desire_repetition.py'
       - 'tools/audit_full_series_collection_reader_desire_source.py'
+      - 'tools/audit_collection_desire_semantic_lint.py'
       - 'tools/build_collection_normalization.py'
       - 'docs/09_collection/**'
       - 'docs/10_story_architecture/**'
@@ -52,18 +56,22 @@ jobs:
           python-version: '3.11'
 
       - name: Validate source normalization baseline
-        run: |
-          python tools/validate_collection_normalization.py
+        run: python tools/validate_collection_normalization.py
 
       - name: Build source-bound reader-desire + semantic five-set layer
         run: |
-          python tools/run_full_series_collection_reader_desires.py
-          python tools/run_full_series_collection_reader_desires.py --check
+          python tools/run_full_series_collection_reader_desires_blindspot.py
+          python tools/run_full_series_collection_reader_desires_blindspot.py --check
 
       - name: Audit reader-desire source provenance
         run: |
           python tools/audit_full_series_collection_reader_desire_source.py
           python tools/audit_full_series_collection_reader_desire_source.py --check
+
+      - name: Audit semantic writer readability
+        run: |
+          python tools/audit_collection_desire_semantic_lint.py
+          python tools/audit_collection_desire_semantic_lint.py --check
 
       - name: Audit repetition and reader memory
         run: |
@@ -77,6 +85,7 @@ jobs:
           grep -n "false-A\|final collection desire depth verdict" docs/99_quality_control/full-series-collection-endpoint-reference-false-a-audit-v1.md
           grep -n "Status: PASS\|dominant family\|missing primary families\|longest same-primary run" docs/99_quality_control/full-series-collection-set-family-semantic-balance-audit-v1.md
           grep -n "Status: PASS\|target-title fallback\|malformed" docs/99_quality_control/full-series-collection-reader-desire-source-audit-v1.md
+          grep -n "Status: PASS\|writer-unusable semantic fields" docs/99_quality_control/full-series-collection-desire-semantic-lint-v1.md
           grep -n "Status: PASS\|exact adjacent\|active-target count" docs/99_quality_control/full-series-collection-desire-repetition-reader-memory-redteam-v1.md
 
       - name: Restore unchanged normalization baseline bytes
@@ -90,18 +99,11 @@ jobs:
         if: ${{ github.event_name == 'push' }}
         shell: bash
         run: |
-          if [[ -n "$(git status --porcelain docs/09_collection/generated/desire_subact docs/99_quality_control/full-series-collection-desire-subact-depth-audit-v1.md docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md docs/99_quality_control/full-series-collection-endpoint-reference-false-a-audit-v1.md docs/99_quality_control/full-series-collection-set-family-semantic-balance-audit-v1.md docs/99_quality_control/full-series-collection-reader-desire-source-audit-v1.md docs/99_quality_control/full-series-collection-desire-repetition-reader-memory-redteam-v1.md docs/09_collection/data/collection-normalization-full-source-rows-v1.csv docs/09_collection/data/collection-normalization-full-expanded-records-v1.csv)" ]]; then
+          TARGETS='docs/09_collection/generated/desire_subact docs/99_quality_control/full-series-collection-desire-subact-depth-audit-v1.md docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md docs/99_quality_control/full-series-collection-endpoint-reference-false-a-audit-v1.md docs/99_quality_control/full-series-collection-set-family-semantic-balance-audit-v1.md docs/99_quality_control/full-series-collection-reader-desire-source-audit-v1.md docs/99_quality_control/full-series-collection-desire-semantic-lint-v1.md docs/99_quality_control/full-series-collection-desire-repetition-reader-memory-redteam-v1.md docs/09_collection/data/collection-normalization-full-source-rows-v1.csv docs/09_collection/data/collection-normalization-full-expanded-records-v1.csv'
+          if [[ -n "$(git status --porcelain -- $TARGETS)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add docs/09_collection/generated/desire_subact \
-                    docs/99_quality_control/full-series-collection-desire-subact-depth-audit-v1.md \
-                    docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md \
-                    docs/99_quality_control/full-series-collection-endpoint-reference-false-a-audit-v1.md \
-                    docs/99_quality_control/full-series-collection-set-family-semantic-balance-audit-v1.md \
-                    docs/99_quality_control/full-series-collection-reader-desire-source-audit-v1.md \
-                    docs/99_quality_control/full-series-collection-desire-repetition-reader-memory-redteam-v1.md \
-                    docs/09_collection/data/collection-normalization-full-source-rows-v1.csv \
-                    docs/09_collection/data/collection-normalization-full-expanded-records-v1.csv
+            git add $TARGETS
             git commit -m "Collection: finalize source-bound reader desires [collection-generated]"
             git push origin HEAD:${{ github.ref_name }}
           else
