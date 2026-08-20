@@ -88,7 +88,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: clear regime legitimacy and service expansion.
 - `COST_REFUSAL_OR_LOSS`: conditional access/trade/route rules begin pressuring opt-out region.
 - `SET_ADVANCE_CONDITION`: clear regime legitimacy and service expansion.
-- `NEXT_DESIRE`: `G/L — some viable, some failed/coerced, all relevant to GA10 regional choice`. / `C/G`. / `G/L`. / `G/L — enough survive to help transition; some removed/complicit`. / `L/R — single coercive command defeated/bounded; personnel and security needs remain`.
+- `NEXT_DESIRE`: an appeals backlog/low-confidence population reaches lethal service deadlines while sabotage/forgery from an unsynchronized area triggers security alarm. --
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA9-G9-P05` / `G9-P05` / Opt-Out/Hybrid Regions — `MANUAL_SOURCE_BOUND` score=200
@@ -180,7 +180,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: some services stabilized and evidence/appeal channels preserved.
 - `COST_REFUSAL_OR_LOSS`: local authority replaced/suspended; hardliner forces gain physical access.
 - `SET_ADVANCE_CONDITION`: some services stabilized and evidence/appeal channels preserved.
-- `NEXT_DESIRE`: `G/R/L — harmful precedents registered for GA10 reversal/limits`.
+- `NEXT_DESIRE`: multiple regions/institutions now face forced stabilization, and regime internal blocs split over whether P-001 should lead or constrain it. --
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지
 - `ACTIVE_TARGETS`:
   - `CLT-GA9-G9-R05` / `G9-R05` / Conditional Trusteeship Terms — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=114
@@ -267,7 +267,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: direct access to Seed/command capable of reversing classifications and controlling synchronized forces.
 - `COST_REFUSAL_OR_LOSS`: he becomes exactly the safest central ruler the series has warned about.
 - `SET_ADVANCE_CONDITION`: direct access to Seed/command capable of reversing classifications and controlling synchronized forces.
-- `NEXT_DESIRE`: `G — held for transition, central danger unresolved`. / `G/R — practical central key retained only for staged handoff, not permanent ownership`. -- / `G/L`.
+- `NEXT_DESIRE`: final confrontation begins across Seed sites, synchronized fleets and dependent regions. --
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지
 - `ACTIVE_TARGETS`:
   - `CLT-GA9-G9-A02` / `G9-A02` / P-001 Central Corrective Key/Interface — `EPISODE_OVERLAP+TITLE_TEXT` score=122
@@ -355,7 +355,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: P-001 refuses permanent/indefinite central ownership and orders/prepares staged distribution, while acknowledging he must temporarily stabilize the handoff.
 - `COST_REFUSAL_OR_LOSS`: supporters/officials/fleets resist; opportunists attack; service risks become immediate.
 - `SET_ADVANCE_CONDITION`: P-001 refuses permanent/indefinite central ownership and orders/prepares staged distribution, while acknowledging he must temporarily stabilize the handoff.
-- `NEXT_DESIRE`: `C/G — GA10 operating contract`. / `G — direct GA10 trigger`. --
+- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — first RS-1/RS-2 handoff suffers authentication, payroll, hospital, route or elite-capture failure/attack. → immediate collapse stopped.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지
 - `ACTIVE_TARGETS`:
   - `CLT-GA9-G9-R09` / `G9-R09` / Seed/Service Continuity Handoff Requirements — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121

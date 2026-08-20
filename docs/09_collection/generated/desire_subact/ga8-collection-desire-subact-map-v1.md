@@ -180,7 +180,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: Authority F operational, plural source map and route to consensus assembly/Authority G.
 - `COST_REFUSAL_OR_LOSS`: source map is leaked/stolen/targeted; living custodians become strategic targets.
 - `SET_ADVANCE_CONDITION`: Authority F operational, plural source map and route to consensus assembly/Authority G.
-- `NEXT_DESIRE`: `C/G — partial framework, not final constitution`. / `L`. -- / `G/L — several mirrors accessed, at least one lost/refuses`. / `G — distributed and auditable, not sole key`.
+- `NEXT_DESIRE`: external identity/command collapse accelerates and factions demand immediate consensus activation. --
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA8-G8-R06` / `G8-R06` / Preserve/Correct/Plural/Forget/Refuse/Audit Rights Framework — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=126
@@ -273,7 +273,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: draft bounded activation architecture and distributed Authority F.
 - `COST_REFUSAL_OR_LOSS`: slower/incomplete; current identity/command collapse reaches emergency threshold.
 - `SET_ADVANCE_CONDITION`: draft bounded activation architecture and distributed Authority F.
-- `NEXT_DESIRE`: `L`. -- / `C/G — partial framework, not final constitution`. / `G — central GA9 conflict object`. / `G/L — breached or strained by activation; contamination persists`.
+- `NEXT_DESIRE`: simultaneous forged orders, identity-service failures and mirror attacks force immediate activation/no-activation decision. --
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA8-G8-A08` / `G8-A08` / Lost/Exposed Mirror or Source Class — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=126
@@ -370,7 +370,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: immediate civilizational stabilization and full origin confirmation.
 - `COST_REFUSAL_OR_LOSS`: GA9 preservation regime has begun with public support and institutional momentum.
 - `SET_ADVANCE_CONDITION`: immediate civilizational stabilization and full origin confirmation.
-- `NEXT_DESIRE`: `C/G — partial framework, not final constitution`. / `G — active bounded/expanding system`.
+- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — synchronized corridors show immediate effects after GA8 activation. → public trust and successful corrective exception.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA8-G8-R06` / `G8-R06` / Preserve/Correct/Plural/Forget/Refuse/Audit Rights Framework — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=134

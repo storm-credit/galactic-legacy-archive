@@ -49,13 +49,13 @@ PASS conditions applied:
 - E503–E506: `CLAIM/OWNERSHIP/CUSTODY` × 4; owner/cost/carrier signatures=3; `PASS-DIFFERENTIATED`.
 - E521–E524: `ROUTE/LOGISTICS` × 4; owner/cost/carrier signatures=4; `PASS-DIFFERENTIATED`.
 - E540–E544: `TACTICAL-COMBAT` × 5; owner/cost/carrier signatures=5; `PASS-DIFFERENTIATED`.
-- E548–E554: `TACTICAL-COMBAT` × 7; owner/cost/carrier signatures=7; `PASS-DIFFERENTIATED`.
-- E556–E559: `RESCUE/SERVICE` × 4; owner/cost/carrier signatures=4; `PASS-DIFFERENTIATED`.
+- E548–E554: `TACTICAL-COMBAT` × 7; owner/cost/carrier signatures=6; `PASS-DIFFERENTIATED`.
+- E556–E559: `RESCUE/SERVICE` × 4; owner/cost/carrier signatures=3; `PASS-DIFFERENTIATED`.
 - E560–E563: `ROUTE/LOGISTICS` × 4; owner/cost/carrier signatures=4; `PASS-DIFFERENTIATED`.
 - E608–E612: `ROUTE/LOGISTICS` × 5; owner/cost/carrier signatures=4; `PASS-DIFFERENTIATED`.
 - E621–E624: `TACTICAL-COMBAT` × 4; owner/cost/carrier signatures=4; `PASS-DIFFERENTIATED`.
 - E690–E698: `ROUTE/LOGISTICS` × 9; owner/cost/carrier signatures=7; `PASS-DIFFERENTIATED`.
-- E700–E707: `ROUTE/LOGISTICS` × 8; owner/cost/carrier signatures=6; `PASS-DIFFERENTIATED`.
+- E700–E707: `ROUTE/LOGISTICS` × 8; owner/cost/carrier signatures=5; `PASS-DIFFERENTIATED`.
 - E708–E714: `RESCUE/SERVICE` × 7; owner/cost/carrier signatures=3; `PASS-DIFFERENTIATED`.
 - E715–E723: `INVESTIGATION/EVIDENCE` × 9; owner/cost/carrier signatures=8; `PASS-DIFFERENTIATED`.
 - E776–E790: `LEGAL/GOVERNANCE/ACCOUNTABILITY` × 15; owner/cost/carrier signatures=10; `PASS-DIFFERENTIATED`.

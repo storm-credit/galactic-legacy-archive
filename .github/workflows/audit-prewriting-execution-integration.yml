@@ -1,0 +1,100 @@
+name: Audit pre-writing execution integration
+
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'tools/run_full_series_context_writer_activation*.py'
+      - 'tools/audit_writer_activation_decision_ownership.py'
+      - 'tools/run_full_series_collection_reader_desires*.py'
+      - 'tools/audit_collection_desire_semantic_lint.py'
+      - 'tools/audit_collection_context_crosslayer.py'
+      - 'tools/finalize_context_load_bearing_overrides.py'
+      - 'tools/finalize_full_series_collection_reader_desires.py'
+      - 'docs/09_collection/**'
+      - 'docs/10_story_architecture/**'
+      - 'docs/13_writing_harness/context_packs/**'
+      - 'docs/00_project/prewriting-execution-integration-closure-2026-08-21.md'
+      - 'docs/99_quality_control/continuity-issues.md'
+      - '.github/workflows/audit-prewriting-execution-integration.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  integration:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.sha || github.sha }}
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Rebuild writer activation on this exact head
+        run: |
+          python tools/audit_full_series_context_writer_depth.py
+          python tools/run_full_series_context_writer_activation_blindspot.py
+          python tools/sanitize_context_activation_provenance.py
+
+      - name: Rebuild Collection Desire on this exact head
+        run: python tools/run_full_series_collection_reader_desires_blindspot.py
+
+      - name: Decision-owner anti-centralization gate
+        run: python tools/audit_writer_activation_decision_ownership.py
+
+      - name: Collection writer-semantic lint
+        run: python tools/audit_collection_desire_semantic_lint.py
+
+      - name: CLSET to episode Context bridge gate
+        run: python tools/audit_collection_context_crosslayer.py
+
+      - name: Existing false-A and repetition gates
+        run: |
+          python tools/audit_full_series_collection_reader_desire_source.py
+          python tools/audit_full_series_collection_desire_repetition.py
+          grep -q 'MACHINE GATE PASS' docs/99_quality_control/full-series-context-writer-activation-false-a-redteam-v1.md
+          grep -q 'FINAL MANUAL VERDICT: PASS' docs/99_quality_control/full-series-context-load-bearing-manual-redteam-2026-08-20.md
+
+      - name: Show integration verdicts
+        run: |
+          grep -E 'Status: PASS|banned `POV \+ decision|missing owner' docs/99_quality_control/full-series-context-decision-owner-blindspot-audit-v1.md
+          grep -E 'Status: PASS|writer-unusable semantic fields' docs/99_quality_control/full-series-collection-desire-semantic-lint-v1.md
+          grep -E 'Status: PASS|without exactly one CLSET|overlapping CLSET|hard bridge failures|semantic exit-hook' docs/99_quality_control/full-series-collection-context-crosslayer-audit-v1.md
+
+      - name: Persist validated generated execution outputs on same-repository PR
+        if: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          TARGETS=(
+            docs/13_writing_harness/context_packs/activation
+            docs/09_collection/generated/desire_subact
+            docs/99_quality_control/full-series-context-writer-depth-audit-v1.md
+            docs/99_quality_control/full-series-context-writer-depth-audit-v2.md
+            docs/99_quality_control/full-series-context-writer-activation-false-a-redteam-v1.md
+            docs/99_quality_control/full-series-context-load-bearing-manual-redteam-2026-08-20.md
+            docs/99_quality_control/full-series-context-decision-owner-blindspot-audit-v1.md
+            docs/99_quality_control/full-series-collection-desire-subact-depth-audit-v1.md
+            docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md
+            docs/99_quality_control/full-series-collection-endpoint-reference-false-a-audit-v1.md
+            docs/99_quality_control/full-series-collection-set-family-semantic-balance-audit-v1.md
+            docs/99_quality_control/full-series-collection-reader-desire-source-audit-v1.md
+            docs/99_quality_control/full-series-collection-desire-repetition-reader-memory-redteam-v1.md
+            docs/99_quality_control/full-series-collection-desire-semantic-lint-v1.md
+            docs/99_quality_control/full-series-collection-context-crosslayer-audit-v1.md
+          )
+          if [[ -z "$(git status --porcelain -- "${TARGETS[@]}")" ]]; then
+            echo 'Validated execution outputs already persisted.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- "${TARGETS[@]}"
+          git commit -m 'QC: persist validated execution outputs [execution-generated]'
+          git push origin HEAD:${{ github.head_ref }}

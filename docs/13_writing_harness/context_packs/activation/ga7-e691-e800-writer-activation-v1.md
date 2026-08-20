@@ -835,8 +835,8 @@ Haren Doan and affected route/service actors.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Haren Doan and affected route/service actors.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: Haren proposes reciprocal minimums scaled to current capacity and benefit, not one central command or unconditional opening.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Haren proposes reciprocal minimums scaled to current capacity and benefit, not one central command or unconditional opening.
@@ -865,7 +865,7 @@ emergency operations must stabilize enough corridors to test the obligation tabl
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-28 through CY 745-01-15. 1.14m arrived people have cross-region dependencies inside fourteen days … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-12-28 through CY 745-01-15. 1.14m arrived people have cross-region dependencies inside fourteen days … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -1125,7 +1125,7 @@ WORKFLOW POV recommendation — select the already-present human/work carrier id
 **POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 78,000 of the original 93,000 critical holdouts receive current stabilization; 15,000 remain under 72-hour or uncertain risk; 8,120 t delivered; 780 t lost/held/diverted; 54 confirmed deaths and 318 serious harms during gaps/attack … [source continues]
+bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 78,000 of the original 93,000 critical holdouts receive current stabilization; 15,000 remain under 72-hour or uncertain risk; 8,120 t delivered; 780 t lost/held/diverted; 54 confirmed deaths and 318 serious harms during gaps/attack; one service ship damaged 5–8 months.
 **OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
@@ -1138,7 +1138,7 @@ NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/ac
 PRESSURE[move medicine, oxygen, food, contact and repair support to critical holdouts without reopening mass evacuation.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 78,000 of the original 93,000 critical holdouts receive current stabilization … [source continues]] → DELTA[78,000 of the original 93,000 critical holdouts receive current stabilization; 15,000 remain under 72-hour or uncertain risk; 8,120 t delivered; 780 t lost/held/diverted … [source continues]] → COST[holdout relief consumes escorts and cargo needed elsewhere; 15k remain critical.] → NEXT[military authorities demand inspection power over all future missions after one hostile infiltration attempt.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 78,000 of the original 93,000 critical holdouts receive current stabilization; 15,000 remain under 72-hour or uncertain risk; 8,120 t delivered; 780 t lost/held/diverted; 54 confirmed deaths and 318 serious harms during gaps/attack … [source continues]); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 78,000 of the original 93,000 critical holdouts receive current stabilization; 15,000 remain under 72-hour or uncertain risk; 8,120 t delivered; 780 t lost/held/diverted … [source continues]] and source cost [holdout relief consumes escorts and cargo needed elsewhere; 15k remain critical.]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 78,000 of the original 93,000 critical holdouts receive current stabilization; 15,000 remain under 72-hour or uncertain risk; 8,120 t delivered; 780 t lost/held/diverted; 54 confirmed deaths and 318 serious harms during gaps/attack; one service ship damaged 5–8 months.); ground that face in the exact source pivot [NON-DISCRETE CAUSAL PIVOT — the approved episode turns on this source state/action result rather than a newly invented choice: 78,000 of the original 93,000 critical holdouts receive current stabilization; 15,000 remain under 72-hour or uncertain risk; 8,120 t delivered; 780 t lost/held/diverted … [source continues]] and source cost [holdout relief consumes escorts and cargo needed elsewhere; 15k remain critical.]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
@@ -4083,8 +4083,8 @@ Lin Osa and current local service/household actors.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Lin Osa and current local service/household actors.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+Lin Osa and current local service/household actors.
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **DECISION_BEAT**  
 Lin Osa and current local service/household actors.
@@ -4113,7 +4113,7 @@ service failure reaches Lin’s shelter/work zone shortly before the D4 expiry.
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Outcome] several medicine stores and shelter sections remain usable through the night; the heavy/parts mission is still delayed … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=SOURCE-EXPLICIT; human-route=SOURCE-POV; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Outcome] several medicine stores and shelter sections remain usable through the night; the heavy/parts mission is still delayed … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.

@@ -88,7 +88,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: institutions certify contradiction publicly enough to prevent one claimant from claiming settled truth.
 - `COST_REFUSAL_OR_LOSS`: markets/fleets/provinces panic or choose sides. Purge bloc attacks/isolates one witness/institution. Continuity suspension expands temporarily.
 - `SET_ADVANCE_CONDITION`: institutions certify contradiction publicly enough to prevent one claimant from claiming settled truth.
-- `NEXT_DESIRE`: `G — central legal payoff of GA4`. / `G/R — immediately outdated as fleets choose compact`.
+- `NEXT_DESIRE`: state services begin failing because nobody knows which orders/payments/appointments to obey; Regent proposes emergency executive continuity while Heir prepares limited accession and Protector mobilizes. --
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음
 - `ACTIVE_TARGETS`:
   - `CLT-GA4-G4-E09` / `G4-E09` / Multiple Legitimacy Finding — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=123
@@ -176,7 +176,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: civil administration and services. / tracks institutional loyalty/readiness/route exposure.
 - `COST_REFUSAL_OR_LOSS`: opposition arrested/excluded or services tied to compliance. Continuity/Protector offices demand equal emergency powers.
 - `SET_ADVANCE_CONDITION`: civil administration and services. / tracks institutional loyalty/readiness/route exposure.
-- `NEXT_DESIRE`: `G — sunset, audit, removal and limited scope`. / `G/R — immediately outdated as fleets choose compact`.
+- `NEXT_DESIRE`: coordinated Intelligence/Purge/military move seeks to settle crisis through “lawful emergency” seizure of key institutions and P-001/07/records. --
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음
 - `ACTIVE_TARGETS`:
   - `CLT-GA4-G4-R04` / `G4-R04` / Audited Executive Regency — `EPISODE_OVERLAP+DOMAIN_MATCH` score=111
@@ -267,7 +267,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: enough public evidence to support temporary compact; one historical suppression exposed.
 - `COST_REFUSAL_OR_LOSS`: records/witnesses lost, privacy compromised or truth remains incomplete. one claimant/support base severely damaged.
 - `SET_ADVANCE_CONDITION`: enough public evidence to support temporary compact; one historical suppression exposed.
-- `NEXT_DESIRE`: `G/L — no single master archive`. -- / `G`. / `G — central technical precedent, still vulnerable`.
+- `NEXT_DESIRE`: services and fleets cannot wait; all factions must negotiate a compact while field forces/provinces set deadlines and begin independent alignment. --
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA4-G4-E10` / `G4-E10` / Plural Evidence Custody Map — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=120
@@ -361,7 +361,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: permits mediation/mission/fleet coordination under compact.
 - `COST_REFUSAL_OR_LOSS`: scrutiny, accountability and no sovereign/kingmaker authority.
 - `SET_ADVANCE_CONDITION`: permits mediation/mission/fleet coordination under compact.
-- `NEXT_DESIRE`: `C/G — bounded recognition, scope disputed`. --
+- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — Vesper Depot crowded with formations waiting on pay, repairs, orders and recognition. → 7–10 day shared defensive/service mandate for Vesper Depot and Talren routes.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음
 - `ACTIVE_TARGETS`:
   - `CLT-GA4-G4-M06` / `G4-M06` / Strategically Recognized P-001 Coalition Status — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=127

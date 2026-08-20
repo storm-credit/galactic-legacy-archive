@@ -90,7 +90,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: Mixed Evacuation Mandate and work breakdown.
 - `COST_REFUSAL_OR_LOSS`: plan openly admits groups/functions will be abandoned. dissenters may defect/seize routes.
 - `SET_ADVANCE_CONDITION`: Mixed Evacuation Mandate and work breakdown.
-- `NEXT_DESIRE`: `G — central political/ethical choice, not proof of optimality`. / `G/R — shows some central claims overstated and some functions truly nonportable`.
+- `NEXT_DESIRE`: to make Option 3 possible, State institutions and heavy ships must be physically dismantled/distributed before Window A. --
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지
 - `ACTIVE_TARGETS`:
   - `CLT-GA6-G6-R04` / `G6-R04` / Mixed Evacuation Mandate — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=120
@@ -176,7 +176,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: separate commanders own A/B/C/Grey/holdout fronts. standing rules for lost communication. P-001 cannot supervise all.
 - `COST_REFUSAL_OR_LOSS`: one commander/formation refuses assignment or plans independent action.
 - `SET_ADVANCE_CONDITION`: separate commanders own A/B/C/Grey/holdout fronts. standing rules for lost communication. P-001 cannot supervise all.
-- `NEXT_DESIRE`: `C/G — useful, contested precedent; full override refused`.
+- `NEXT_DESIRE`: Window A countdown begins under attack/panic and no further planning time. --
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지
 - `ACTIVE_TARGETS`:
   - `CLT-GA6-G6-R08` / `G6-R08` / Bounded Continuity Synchronization Accord — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=120
@@ -260,7 +260,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: majority of mixed plan survives immediate phase.
 - `COST_REFUSAL_OR_LOSS`: casualty/missing count unknown and horrific. State central force shattered/degraded.
 - `SET_ADVANCE_CONDITION`: majority of mixed plan survives immediate phase.
-- `NEXT_DESIRE`: `C/G/L`. / `G/L`.
+- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — locate/rescue survivors, support holdouts and establish casualty/missing ranges. → some survivors/records recovered; holdout contact/terms established.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA6-G6-R12` / `G6-R12` / Survivor/Holdout Obligation Network — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=118
@@ -282,7 +282,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: some survivors/records recovered; holdout contact/terms established.
 - `COST_REFUSAL_OR_LOSS`: another front/region receives less support or one rescue fails.
 - `SET_ADVANCE_CONDITION`: some survivors/records recovered; holdout contact/terms established.
-- `NEXT_DESIRE`: `C/G/L`.
+- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — build public casualty, decision and order record. → public plural after-action finding and compensation/claim framework.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA6-G6-R12` / `G6-R12` / Survivor/Holdout Obligation Network — `EPISODE_OVERLAP+TITLE_TEXT` score=115
@@ -347,7 +347,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: distributed institutions survive in several nodes; reforms to emergency route/manifest/authority.
 - `COST_REFUSAL_OR_LOSS`: war becomes more fragmented and brutal.
 - `SET_ADVANCE_CONDITION`: distributed institutions survive in several nodes; reforms to emergency route/manifest/authority.
-- `NEXT_DESIRE`: `C/G — reform begins; enforcement uneven`. --
+- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — Orpheus survivors/functions arrive unevenly; other fronts and holdouts demand supplies promised during GA6. → public federation obligation/shortage map.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음
 - `ACTIVE_TARGETS`:
   - `CLT-GA6-G6-R14` / `G6-R14` / Emergency Route/Manifest Reform Package — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=120

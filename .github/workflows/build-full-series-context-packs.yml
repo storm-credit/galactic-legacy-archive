@@ -17,10 +17,10 @@ jobs:
     if: ${{ github.event_name != 'push' || !contains(github.event.head_commit.message || '', '[context-generated]') }}
     runs-on: ubuntu-latest
     steps:
-      - name: Check out Context production branch
+      - name: Check out current validation head
         uses: actions/checkout@v4
         with:
-          ref: production/e001-e1100-context-full-series-v1
+          ref: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.sha || github.sha }}
           fetch-depth: 0
 
       - name: Set up Python
@@ -47,5 +47,5 @@ jobs:
             exit 0
           fi
           git commit -m "Production: semantic-complete E011-E1100 Context Packs [context-generated]"
-          git pull --rebase origin production/e001-e1100-context-full-series-v1
-          git push origin HEAD:production/e001-e1100-context-full-series-v1
+          git pull --rebase origin "${{ github.ref_name }}"
+          git push origin HEAD:"${{ github.ref_name }}"

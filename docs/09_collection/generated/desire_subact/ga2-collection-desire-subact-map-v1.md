@@ -290,7 +290,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: H-001’s future political/logistics path. / contact, emergency aid, record correction, care/resource promises across separated groups. / increases endurance/passenger safety.
 - `COST_REFUSAL_OR_LOSS`: no return to one home. some relationships break. H-001 becomes accountable to representatives and opposing choices.
 - `SET_ADVANCE_CONDITION`: H-001’s future political/logistics path. / contact, emergency aid, record correction, care/resource promises across separated groups. / increases endurance/passenger safety.
-- `NEXT_DESIRE`: `G`. / `G — seed, not sovereign organization`. / `C/G/L — used for convoy; final module configuration open`. / `C/G — one capacity improvement, not unlimited passengers`.
+- `NEXT_DESIRE`: an open-standard failure/embargo threatens several destination groups simultaneously; the only practical bypass is Silex→Ardis. --
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA2-G2-I02` / `G2-I02` / Distributed Home / Route Federation Seed — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=126
@@ -378,7 +378,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: legal/operational route to Ardis, worker/standard coalition, regional legitimacy.
 - `COST_REFUSAL_OR_LOSS`: first ship accepts debt/repair/defense obligation and enters a conflict larger than it can solve. some crew leave or refuse. the standard’s failures become team responsibility.
 - `SET_ADVANCE_CONDITION`: legal/operational route to Ardis, worker/standard coalition, regional legitimacy.
-- `NEXT_DESIRE`: `G/R — proven and revised distributed command`. / `C — accepted conditionally, implementation is GA3`.
+- `NEXT_DESIRE`: Ardis node map shows three legal owners, one failing phase core, food/medical countdown and armed fleets arriving on different schedules. --
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA2-G2-S02` / `G2-S02` / Ship Command Charter — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121

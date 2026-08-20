@@ -23,8 +23,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 리안, restricted to the charter mission board and exterior inspection feed.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+actor(s) in source actor block who perform/refuse the exact decision: K-13 tug crew wants a quick handoff and berth release; 리안 wants immediate physical access; 하렌 wants the mission-income schedule; 세린 wants the transfer authority and source record.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE ACTORS + DECISION`
 
 **DECISION_BEAT**  
 리안 supports a joint temporary custody request rather than forcing entry through the Academy’s emergency authority.
@@ -53,7 +53,7 @@ the outer airlock accepts three keys and still refuses to open.
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=the Academy expects a distressed mission asset; the hull is physically approaching but legal access is not granted.; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE ACTORS + DECISION; human-route=SOURCE-POV; carrier=the Academy expects a distressed mission asset; the hull is physically approaching but legal access is not granted.; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -81,8 +81,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 세린, with 리안 observing physical consequences rather than controlling the data scene.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+actor(s) in source actor block who perform/refuse the exact decision: 마렌, one Neutral safety technician, 세린, 네라 and a K-13 pressure operator.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE ACTORS + DECISION`
 
 **DECISION_BEAT**  
 세린 and 마렌 refuse; the team accepts slower witnessed access and requests an emergency claims freeze.
@@ -111,7 +111,7 @@ one sealed crew locker contains a current wage claim dated after the ship was of
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=docking complete; 36-hour deadline active; outer airlock has three valid-looking but incompatible authorizations.; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE ACTORS + DECISION; human-route=SOURCE-POV; carrier=docking complete; 36-hour deadline active; outer airlock has three valid-looking but incompatible authorizations.; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -139,8 +139,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 하렌, focused on people, wages and future obligations rather than legal abstraction alone.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+actor(s) in source actor block who perform/refuse the exact decision: provincial title office; Helix lien counsel; old crew/wage representative; Neutral insurer; Academy charter; 테오 마른 as independent claims/manifest specialist.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE ACTORS + DECISION`
 
 **DECISION_BEAT**  
 the Academy accepts a 72-hour no-stripping order with no departure, no modification and evidence preservation.
@@ -169,7 +169,7 @@ the only engineer willing to sign entry safety has already refused the ship once
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=limited access obtained; 26 hours remain before stripping authority may activate.; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE ACTORS + DECISION; human-route=SOURCE-POV; carrier=limited access obtained; 26 hours remain before stripping authority may activate.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -197,8 +197,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 리안.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+actor(s) in source actor block who perform/refuse the exact decision: former deck workers refuse 07 measurement access until their wage/equipment claims are acknowledged.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE ACTORS + DECISION`
 
 **DECISION_BEAT**  
 마렌 agrees to lead handling/safety evaluation but withholds command acceptance until defect and wage terms are known.
@@ -227,7 +227,7 @@ a cold steering command moves the starboard cluster correctly and the port clust
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=72-hour freeze active; limited areas accessible; no captain and no engineering certificate.; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE ACTORS + DECISION; human-route=SOURCE-POV; carrier=72-hour freeze active; limited areas accessible; no captain and no engineering certificate.; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -255,8 +255,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 네라.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: 베라 refuses departure certification and accepts only a defect survey contract.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 베라 refuses departure certification and accepts only a defect survey contract.
@@ -285,7 +285,7 @@ both reactor rooms feed one patched coolant trunk behind a panel absent from the
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=asymmetrical control response observed; licensed engineering signoff required.; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=asymmetrical control response observed; licensed engineering signoff required.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -313,8 +313,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 베라 for physical state, with 리안’s future assumption explicitly limited.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+actor(s) in source actor block who perform/refuse the exact decision: 베라, 네라, old-crew technicians, berth safety staff, 미아 as medical monitor.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE ACTORS + DECISION`
 
 **DECISION_BEAT**  
 리안 supports publishing the defect to all claimants rather than concealing it to preserve the contract.
@@ -343,7 +343,7 @@ Helix recovery crew powers its removal equipment as the hearing begins.
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=common trunk suspected; 72-hour freeze nearing expiration; Helix stripping order remains ready.; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE ACTORS + DECISION; human-route=SOURCE-POV; carrier=common trunk suspected; 72-hour freeze nearing expiration; Helix stripping order remains ready.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -371,8 +371,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 리안 as charter mission representative, without chair authority.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: Academy accepts the expensive bounded survey rather than claiming symbolic ownership or abandoning the hull.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Academy accepts the expensive bounded survey rather than claiming symbolic ownership or abandoning the hull.
@@ -401,7 +401,7 @@ the survey board’s first question is not what to repair, but who is legally al
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=common-trunk defect proven; ship cannot depart; recovery crew ready; charter lacks repair money.; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=common-trunk defect proven; ship cannot depart; recovery crew ready; charter lacks repair money.; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -429,8 +429,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 리안.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: the board accepts split authority in principle rather than symbolic sole command.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 the board accepts split authority in principle rather than symbolic sole command.
@@ -459,7 +459,7 @@ the only available physician asks how many patients the ship is expected to aban
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=survey access exists, but no person can lawfully command departure or whole-ship testing.; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=survey access exists, but no person can lawfully command departure or whole-ship testing.; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -487,8 +487,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 미아, under licensed supervision rather than acting as final authority.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: the charter refuses to certify the ship by double-counting cadets; it funds training/temporary contracts despite the cost.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 the charter refuses to certify the ship by double-counting cadets; it funds training/temporary contracts despite the cost.
@@ -517,7 +517,7 @@ one applicant can fill the route position, but their license carries an undeclar
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=provisional authority skeleton drafted; 27 immediately valid crew positions versus legal minimum 42.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=provisional authority skeleton drafted; 27 immediately valid crew positions versus legal minimum 42.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -545,8 +545,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 테오, using payroll/watch/habitation constraints.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: 마렌 rejects the proposed continuous mission tempo; charter accepts a trial-only roster with mandatory rest blocks and shore support before departure.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 마렌 rejects the proposed continuous mission tempo; charter accepts a trial-only roster with mandatory rest blocks and shore support before departure.
@@ -575,7 +575,7 @@ during the watch test, an old emergency override accepts 리안’s service resp
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=35 potentially countable personnel; two-watch emergency pattern proposed; ship remains crowded and partly sealed.; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=35 potentially countable personnel; two-watch emergency pattern proposed; ship remains crowded and partly sealed.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -603,8 +603,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 세린, with authority traces visible.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: charter retains the stop rights and requires timed emergency override plus after-action audit.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 charter retains the stop rights and requires timed emergency override plus after-action audit.
@@ -633,7 +633,7 @@ the captain’s licensing board reopens the incident that ended her previous com
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=old emergency override has accepted a service response tied to 리안/07 lineage; provisional roles exist but are not tested under conflict.; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=old emergency override has accepted a service response tied to 리안/07 lineage; provisional roles exist but are not tested under conflict.; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -661,8 +661,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 마렌 through hearing records/current testimony; no melodramatic confession scene.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: 마렌 accepts conditional command, knowing another retreat can end her career permanently.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 마렌 accepts conditional command, knowing another retreat can end her career permanently.
@@ -691,7 +691,7 @@ Helix delivers a certified coolant valve; 네라 says it will fail in the ship�
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=command structure needs her license; previous command incident may invalidate or politically control it.; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=command structure needs her license; previous command incident may invalidate or politically control it.; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -719,8 +719,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 네라.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: 네라 and 베라 accept a hybrid test article with shared documentation and no claim of final design.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 네라 and 베라 accept a hybrid test article with shared documentation and no claim of final design.
@@ -749,7 +749,7 @@ the provisional crew list reaches 42 only by counting seven people whose contrac
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=captain secured; Reactor A/common-trunk isolation remains the largest repair blocker.; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=captain secured; Reactor A/common-trunk isolation remains the largest repair blocker.; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -777,8 +777,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 리안, attending as mission commander candidate rather than chair.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: charter signs the split command and accepts a trial that can be stopped by valid department authority.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 charter signs the split command and accepts a trial that can be stopped by valid department authority.
@@ -807,7 +807,7 @@ the first repair vote puts weapons, passenger space, workshop tools and the 07 c
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=captain and engineering pathway exist; provisional roster can reach legal 42 only through temporary contracts/waivers; repair funding and revenue claims unresolved.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=captain and engineering pathway exist; provisional roster can reach legal 42 only through temporary contracts/waivers; repair funding and revenue claims unresolved.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -835,8 +835,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 하렌, translating mission promises into passenger, cargo and community consequences.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: board approves a ship that can work and rescue locally but cannot fight or carry everyone.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 board approves a ship that can work and rescue locally but cannot fight or carry everyone.
@@ -865,7 +865,7 @@ the hybrid coolant isolation passes cold pressure and fails the first hot expans
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=repair funding exists only for a minimum configuration; all departments submit “essential” requests exceeding budget, heat, space and labor.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=repair funding exists only for a minimum configuration; all departments submit “essential” requests exceeding budget, heat, space and labor.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -893,8 +893,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 베라.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: ship accepts lower power instead of hiding the failed repeatability test.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 ship accepts lower power instead of hiding the failed repeatability test.
@@ -923,7 +923,7 @@ at 8% commanded port translation, the ship rotates before it translates.
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=hybrid isolation installed as provisional test article; Reactor A cannot yet provide transit power.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=hybrid isolation installed as provisional test article; Reactor A cannot yet provide transit power.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -951,8 +951,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 루카.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: 루카 accepts a slower certified handling profile instead of using opaque auto-correction; 마렌 signs only for restricted mass and acceleration.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 루카 accepts a slower certified handling profile instead of using opaque auto-correction; 마렌 signs only for restricted mass and acceleration.
@@ -981,7 +981,7 @@ the recycler test shows the ship can carry the legal crew or the requested passe
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=Reactor A provisionally stable; propulsion controller mismatch remains.; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=Reactor A provisionally stable; propulsion controller mismatch remains.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -1009,8 +1009,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 미아, with 엘라 holding final medical authority.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+actor(s) in source actor block who perform/refuse the exact decision: 하렌’s community representatives request employment, treatment and relocation places; some reject departure or want different destinations.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE ACTORS + DECISION`
 
 **DECISION_BEAT**  
 하렌 supports the lower cap and refuses to preassign all remaining seats to his community.
@@ -1039,7 +1039,7 @@ the certification office adds six patients, four caregivers, two inspectors and 
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=restricted drive profile increases travel time; recycler remains 68–74% efficient; multiple groups expect passenger places.; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE ACTORS + DECISION; human-route=SOURCE-POV; carrier=restricted drive profile increases travel time; recycler remains 68–74% efficient; multiple groups expect passenger places.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -1067,8 +1067,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 네라.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: certify one limited cradle and leave Bay 2/cold-carriage dreams for later.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 certify one limited cradle and leave Bay 2/cold-carriage dreams for later.
@@ -1097,7 +1097,7 @@ the ship accepts the 07 cradle locally, then an external service credential atte
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=Bay 1 cradle mechanically partial; workshop, cargo and cooling resources overlap; 07 remains at 45–50% state from GA1.; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=Bay 1 cradle mechanically partial; workshop, cargo and cooling resources overlap; 07 remains at 45–50% state from GA1.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -1125,8 +1125,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 세린.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current investigators/source custodians/witnesses with their separate evidentiary standing; identify the performer/signatory/refuser from this exact source decision beat: charter accepts slower multi-signature operation rather than granting Helix or Imperial remote control.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 charter accepts slower multi-signature operation rather than granting Helix or Imperial remote control.
@@ -1155,7 +1155,7 @@ the final inspection schedule leaves only forty-eight hours before the first con
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=physical systems nearly ready; authentication layers still permit conflicting owner, lien, security and mission commands.; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=physical systems nearly ready; authentication layers still permit conflicting owner, lien, security and mission commands.; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -1183,8 +1183,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 마렌.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: 마렌 accepts the certificate only with every limitation attached to the mission package; the board accepts that a valid stop may cause contract failure.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 마렌 accepts the certificate only with every limitation attached to the mission package; the board accepts that a valid stop may cause contract failure.
@@ -1213,7 +1213,7 @@ the contract packet arrives with a distress beacon already overdue.
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=repairs and authority layers individually tested; first-contract advance deadline approaching; ship remains below sustainable staffing.; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=repairs and authority layers individually tested; first-contract advance deadline approaching; ship remains below sustainable staffing.; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -1241,8 +1241,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 테오.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+actor(s) in source actor block who perform/refuse the exact decision: patients/caregivers choose treatment destinations and risk conditions; appeal witnesses insist on remaining with sealed evidence; inspectors retain authority to stop certificate-invalid action.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE ACTORS + DECISION`
 
 **DECISION_BEAT**  
 crew accepts the relay, patient/witness and bounded tug-search obligations; rejects automatic hull salvage, forced passenger transfer and unrestricted pursuit clauses.
@@ -1271,7 +1271,7 @@ while the last cargo seal is verified, the overdue KT-441 beacon returns for ele
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=certificate issued; first-contract advance can be withdrawn if the package is not accepted immediately.; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE ACTORS + DECISION; human-route=SOURCE-POV; carrier=certificate issued; first-contract advance can be withdrawn if the package is not accepted immediately.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -1299,8 +1299,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 마렌.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: 마렌 enters a bounded search leg because it is part of the accepted contract, while preserving a return-to-corridor threshold.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 마렌 enters a bounded search leg because it is part of the accepted contract, while preserving a return-to-corridor threshold.
@@ -1329,7 +1329,7 @@ passive thermal search detects one tug-sized object and two smaller intermittent
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=departure authorized; tug beacon location uncertain; crew is legal but tired and not yet socially integrated.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=departure authorized; tug beacon location uncertain; crew is legal but tired and not yet socially integrated.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -1357,8 +1357,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 루카 for sensor/route geometry, with 리안 limited to mission planning.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: 마렌 authorizes a limited 07 sortie under T2/T3 heat margin, while holding the ship below the patient/drive threshold.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 마렌 authorizes a limited 07 sortie under T2/T3 heat margin, while holding the ship below the patient/drive threshold.
@@ -1387,7 +1387,7 @@ KT-441’s outer hatch opens without a matching life-support pressure report.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=ship on bounded search leg; KT-441 not yet identified; two smaller contacts unclassified; patients and route window constrain acceleration.; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=ship on bounded search leg; KT-441 not yet identified; two smaller contacts unclassified; patients and route window constrain acceleration.; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -1415,8 +1415,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 리안 during 07 external mission, bounded by ship sensors and current physical information.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: 리안 does not choose the final allocation alone; he reports physical options and begins immediate pressure/life-support stabilization while 마렌, 엘라, 테오, 하렌, 세린 and the tug occupants retain their domains.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 리안 does not choose the final allocation alone; he reports physical options and begins immediate pressure/life-support stabilization while 마렌, 엘라, 테오, 하렌, 세린 and the tug occupants retain their domains.
@@ -1445,7 +1445,7 @@ the tug’s crew says the sealed cargo cannot be surrendered because it is not c
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=07 cleared for one limited sortie; ship at T2 rising toward T3 due sensors, frame support and maneuver; Reactor B unavailable; KT-441 contains undeclared people/mass; route window and patients remain active constraints.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=07 cleared for one limited sortie; ship at T2 rising toward T3 due sensors, frame support and maneuver; Reactor B unavailable; KT-441 contains undeclared people/mass; route window and patients remain active constraints.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -1473,8 +1473,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 미아, limited to medical/pressure information and current people.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: KT-441 occupants and 파루스 departments agree to: transfer the 7 medically/physically vulnerable first; keep 15 capable adults aboard KT-441 for stabilization and later tow; move 17 others in staged groups if life-support margin permits; cut only a service access in the sealed cargo under witnessed recording; call Neutral rescue while preserving the right to reject S-1 seizure.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 KT-441 occupants and 파루스 departments agree to: transfer the 7 medically/physically vulnerable first; keep 15 capable adults aboard KT-441 for stabilization and later tow; move 17 others in staged groups if life-support margin permits; cut only a service access in the sealed cargo under witnessed recording; call Neutral rescue while preserving the right to reject S-1 seizure.
@@ -1503,7 +1503,7 @@ S-1 launches a claim beacon toward KT-441 while S-2 begins an uncontrolled braki
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=KT-441 pressure boundary via 07 service link and local crew feed.; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=KT-441 pressure boundary via 07 service link and local crew feed.; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -1531,8 +1531,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 세린 for source/claim state, with 루카 tracking geometry.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: 세린 transmits witnessed proof of occupied status and invokes Neutral rescue review; KT-441 occupants refuse custody transfer but accept emergency coolant from the returning skiff.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 세린 transmits witnessed proof of occupied status and invokes Neutral rescue review; KT-441 occupants refuse custody transfer but accept emergency coolant from the returning skiff.
@@ -1561,7 +1561,7 @@ the first transferred patient destabilizes when 파루스 increases spin/acceler
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=KR-17 cannot immediately seize the tug, but remains physically present and free to pursue separate cargo claims; Neutral responder ETA remains 16–28 hours.; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=KR-17 cannot immediately seize the tug, but remains physically present and free to pursue separate cargo claims; Neutral responder ETA remains 16–28 hours.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -1589,8 +1589,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 엘라.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: 엘라 issues medical stop on the acceleration profile; 마렌 upholds it; crew continues slow transfer/stabilization rather than pursuing the queue.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 엘라 issues medical stop on the acceleration profile; 마렌 upholds it; crew continues slow transfer/stabilization rather than pursuing the queue.
@@ -1619,7 +1619,7 @@ KT-441’s patched radiator begins to tear at its old hinge as the second transf
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=Lumen priority cargo window is lost.; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=Lumen priority cargo window is lost.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -1647,8 +1647,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 하렌.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: 파루스 departs KT-441 before Neutral tow arrival because remaining ship/patient safety and route access would otherwise fail; 마렌 records retreat threshold and responsibility.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 파루스 departs KT-441 before Neutral tow arrival because remaining ship/patient safety and route access would otherwise fail; 마렌 records retreat threshold and responsibility.
@@ -1677,7 +1677,7 @@ the Neutral responder confirms KT-441 is stabilized, then asks why one evidence 
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=파루스 can accept 12 more only by converting workshop/cargo volume and reducing reserve; it cannot accept all 42 tug/skiff people.; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=파루스 can accept 12 more only by converting workshop/cargo volume and reducing reserve; it cannot accept all 42 tug/skiff people.; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -1705,8 +1705,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 리안 during arrival and contract review, not victory celebration.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: crew accepts a joint claims investigation rather than immediately pursuing the module as loot.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 crew accepts a joint claims investigation rather than immediately pursuing the module as loot.
@@ -1735,7 +1735,7 @@ the claims clerk finds a current transponder renewal payment for a ship official
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=medical stop and captain retreat complied with charter; manifest was amended through emergency process, not hidden; route/cargo performance failed; 07 service sortie and evidence chain performed within bounds … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=medical stop and captain retreat complied with charter; manifest was amended through emergency process, not hidden; route/cargo performance failed; 07 service sortie and evidence chain performed within bounds … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -1763,8 +1763,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 세린.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: crew requests a joint inquiry with worker and Neutral representation rather than a seizure warrant.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 crew requests a joint inquiry with worker and Neutral representation rather than a seizure warrant.
@@ -1793,7 +1793,7 @@ the cooperative reports that it never serviced a whole ship—only a transponder
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=Kael Salvage Court Secretariat/claims hall.; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=Kael Salvage Court Secretariat/claims hall.; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -1821,8 +1821,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 테오.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: inquiry refuses to select one total owner; creates four provisional categories: registry, physical component, labor/provenance and operational safety.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 inquiry refuses to select one total owner; creates four provisional categories: registry, physical component, labor/provenance and operational safety.
@@ -1851,7 +1851,7 @@ Neris reports that a 061-marked control unit is already scheduled for installati
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 132.1 — Three title chains] Chains: 1. military/Imperial loss closure; 2. insurer salvage distribution; 3. worker/cooperative possession and rebuild … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 132.1 — Three title chains] Chains: 1. military/Imperial loss closure; 2. insurer salvage distribution; 3. worker/cooperative possession and rebuild … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -1879,8 +1879,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 네라.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: allow reversible installation for a monitored caravan test; mirror evidence and mark every intervention; no transfer of ownership to Academy/Helix.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 allow reversible installation for a monitored caravan test; mirror evidence and mark every intervention; no transfer of ownership to Academy/Helix.
@@ -1909,7 +1909,7 @@ one maintainer refuses to name the person who last repaired the unit because tha
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=Neris Independent Maintainers cooperative.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=Neris Independent Maintainers cooperative.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -1937,8 +1937,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 하렌.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+actor(s) in source actor block who perform/refuse the exact decision: former 061 repair workers/relatives under local or temporary identities; some seek wages and recognition; others prioritize continued invisibility.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE ACTORS + DECISION`
 
 **DECISION_BEAT**  
 하렌 separates testimony, public name, compensation and travel into independent choices.
@@ -1967,7 +1967,7 @@ the protected deposition names a service-module serial that also appears in 파�
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 134.1 — Closed-worker network] Actors: former 061 repair workers/relatives under local or temporary identities; some seek wages and recognition … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE ACTORS + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 134.1 — Closed-worker network] Actors: former 061 repair workers/relatives under local or temporary identities; some seek wages and recognition … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -1995,8 +1995,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 마렌.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: 마렌 signs only after route, withdrawal, rescue and evidence priorities are explicit.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 마렌 signs only after route, withdrawal, rescue and evidence priorities are explicit.
@@ -2025,7 +2025,7 @@ the renewed 061 transponder appears near Marn before the caravan carrying the in
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 135.1 — Mission parties] Participants: Kael claims office; Neris maintainers; Neutral rescue/insurance observer; Helix safety/seizure representative; 파루스 mission trust … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 135.1 — Mission parties] Participants: Kael claims office; Neris maintainers; Neutral rescue/insurance observer; Helix safety/seizure representative; 파루스 mission trust … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -2053,8 +2053,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 세린/루카 shared operational information, keeping identities uncertain.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current investigators/source custodians/witnesses with their separate evidentiary standing; identify the performer/signatory/refuser from this exact source decision beat: travel with the caravan, preserving civilian/worker mission and evidence; use route/sensor planning to reach Marn safely rather than winning a speed race.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 travel with the caravan, preserving civilian/worker mission and evidence; use route/sensor planning to reach Marn safely rather than winning a speed race.
@@ -2083,7 +2083,7 @@ the caravan leader demands a full-load test of the rebuilt 061 controller before
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=Neris unit remains physically in workshop; Marn signal shares identity root but different timing noise and power profile; at least two active 061-derived devices exist.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=Neris unit remains physically in workshop; Marn signal shares identity root but different timing noise and power profile; at least two active 061-derived devices exist.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -2111,8 +2111,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 네라.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: mission proceeds as escort/service/investigation with no intact-ship assumption.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 mission proceeds as escort/service/investigation with no intact-ship assumption.
@@ -2141,7 +2141,7 @@ the moving 061 signal stops inside a debris volume where the route chart lists n
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=low-load synchronization succeeds; one actuator response and thermal sensor disagree under simulated caravan load; no full-load approval.; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=low-load synchronization succeeds; one actuator response and thermal sensor disagree under simulated caravan load; no full-load approval.; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -2169,8 +2169,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 루카.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+actor(s) in source actor block who perform/refuse the exact decision: 루카 coordinates windows; local tug masters retain vessel safety; 파루스 cannot command every craft; 061 controller offers synchronization support but remains limited.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE ACTORS + DECISION`
 
 **DECISION_BEAT**  
 루카 rejects the old route and accepts a slower curved approach using current debris occlusion.
@@ -2199,7 +2199,7 @@ the client with the shortest survival window is also the one unable to pay the c
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=an apparently clear corridor contains cold unregistered hull sections drifting across future path; moving 061 signal briefly appears behind them.; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE ACTORS + DECISION; human-route=SOURCE-POV; carrier=an apparently clear corridor contains cold unregistered hull sections drifting across future path; moving 061 signal briefly appears behind them.; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -2227,8 +2227,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 하렌, observing allocation authority rather than narrating Jena’s interior.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: 마렌 and 리안 accept 제나’s civilian-service priority and do not commandeer the caravan.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 마렌 and 리안 accept 제나’s civilian-service priority and do not commandeer the caravan.
@@ -2257,7 +2257,7 @@ the signal and habitat B’s old service controller answer the same 061 maintena
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 139.1 — Jena Ark] Role: 제나 아크, senior pressure/cooling technician and rotating field lead of the civilian repair caravan … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 139.1 — Jena Ark] Role: 제나 아크, senior pressure/cooling technician and rotating field lead of the civilian repair caravan … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -2285,8 +2285,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 세린/네라.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: isolate network-level trust while preserving local/manual operation; inspect high-risk controllers in place; do not revoke all physical service access.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 isolate network-level trust while preserving local/manual operation; inspect high-risk controllers in place; do not revoke all physical service access.
@@ -2315,7 +2315,7 @@ its trajectory changes only when a nearby salvage tug fires, suggesting the “g
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=genuine original housings and connectors; locally rebuilt controllers; copied authentication roots; incompatible safety routines; worker repair marks spanning decades.; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=genuine original housings and connectors; locally rebuilt controllers; copied authentication roots; incompatible safety routines; worker repair marks spanning decades.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -2343,8 +2343,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 리안 during 07 exterior reconnaissance.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: 리안 does not physically capture the train; places evidence tags, confirms occupied status and requests joint standstill; one tug cuts loose an unoccupied module and flees.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 리안 does not physically capture the train; places evidence tags, confirms occupied status and requests joint standstill; one tug cuts loose an unoccupied module and flees.
@@ -2373,7 +2373,7 @@ the workers say the module that fled is not the dangerous one; the dangerous con
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=three workers are aboard the workshop section; they operate under a recovery contract and claim they preserved components from seizure/scrap; their employer/creditor relationship is unclear.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=three workers are aboard the workshop section; they operate under a recovery contract and claim they preserved components from seizure/scrap; their employer/creditor relationship is unclear.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -2401,8 +2401,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 제나 아크 as an episode-level focal for current caravan systems and people.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: 제나 authorizes only segmented operation below a locked simultaneous-load threshold; requires local manual watchers and physical isolation at each service branch; refuses the sponsor’s request for one full-capacity demonstration.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 제나 authorizes only segmented operation below a locked simultaneous-load threshold; requires local manual watchers and physical isolation at each service branch; refuses the sponsor’s request for one full-capacity demonstration.
@@ -2431,7 +2431,7 @@ a debris shift closes the planned manual bypass route, leaving one service branc
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=moving-object inquiry exposes a missing fault-isolation routine shared by the caravan controller’s copied root; low-load success did not test simultaneous mixed-actuator reversal and cooling transfer.; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=moving-object inquiry exposes a missing fault-isolation routine shared by the caravan controller’s copied root; low-load success did not test simultaneous mixed-actuator reversal and cooling transfer.; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -2459,8 +2459,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 마렌.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: Helix field lead accepts bounded delay rather than force removal; no party renounces later claims.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Helix field lead accepts bounded delay rather than force removal; no party renounces later claims.
@@ -2489,7 +2489,7 @@ habitat B sends a casualty warning: a cooling loop has entered automatic shutdow
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 143.1 — Helix standstill order] Action: Helix invokes certified safety and lien/provenance claims; requests physical removal of the controller and copied credentials … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 143.1 — Helix standstill order] Action: Helix invokes certified safety and lien/provenance claims; requests physical removal of the controller and copied credentials … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -2517,8 +2517,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 미아/제나 split by physical care and field repair information.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: choose C; 07 and local frames carry isolation tools/tags; 파루스 provides limited sensor/power relay but not full power; Helix monitors; Neris workers and habitat crews operate branches.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 choose C; 07 and local frames carry isolation tools/tags; 파루스 provides limited sensor/power relay but not full power; Helix monitors; Neris workers and habitat crews operate branches.
@@ -2547,7 +2547,7 @@ route debris movement removes the planned delay margin; the final branch must re
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=medical/care cooling stabilizes; industrial loop remains shut; controller anomaly does not trigger under current segmented load.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=medical/care cooling stabilizes; industrial loop remains shut; controller anomaly does not trigger under current segmented load.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -2575,8 +2575,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 네라, with Jena holding field authority.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: begin the staged reconnection because every alternative produces earlier current harm.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 begin the staged reconnection because every alternative produces earlier current harm.
@@ -2605,7 +2605,7 @@ the controller issues a successful synchronization confirmation one second befor
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=first two isolation points hold; the third reports timing drift within predicted bounds; the fourth sensor feed shows a delay not present in the test rig.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=first two isolation points hold; the third reports timing drift within predicted bounds; the fourth sensor feed shows a delay not present in the test rig.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -2633,8 +2633,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 네라, bounded by controller data and 07/habitat feeds.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: 제나 orders manual isolation while 07 holds the external load; all other points confirm local physical state rather than controller report.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 제나 orders manual isolation while 07 holds the external load; all other points confirm local physical state rather than controller report.
@@ -2663,7 +2663,7 @@ the station bulkhead indicator turns red before the pressure gauge moves.
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=pressure rise slows but does not stop; a hidden delay in an old local actuator sends stored load toward the primary station.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=pressure rise slows but does not stop; a hidden delay in an old local actuator sends stored load toward the primary station.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -2691,8 +2691,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 미아 for casualty/evacuation state, with Jena’s actions observed through local feed.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current medical/care authority together with patient/affected-party consent where applicable; identify the performer/signatory/refuser from this exact source decision beat: choose D under local worker consent and medical/engineering agreement.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 choose D under local worker consent and medical/engineering agreement.
@@ -2721,7 +2721,7 @@ Ella’s remote assessment returns a survivable transport profile only if Jena c
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=three people inside primary zone: Jena and two workers; one worker injured by shifting equipment; escape hatch and manual isolation cannot both remain fully engaged under the current deformation.; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=three people inside primary zone: Jena and two workers; one worker injured by shifting equipment; escape hatch and manual isolation cannot both remain fully engaged under the current deformation.; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -2749,8 +2749,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 리안 during 07 rescue and post-failure allocation.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current medical/care authority together with patient/affected-party consent where applicable; identify the performer/signatory/refuser from this exact source decision beat: 리안 cuts through the controller/branch assembly to reach Jena faster.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 리안 cuts through the controller/branch assembly to reach Jena faster.
@@ -2779,7 +2779,7 @@ Jena regains enough awareness to approve one procedure and refuse the use of her
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=medical/care loop survives at reduced capacity; industrial/housing cooling remains offline; residents require rationing/temporary relocation; controller housing partly destroyed and impounded.; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=medical/care loop survives at reduced capacity; industrial/housing cooling remains offline; residents require rationing/temporary relocation; controller housing partly destroyed and impounded.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -2807,8 +2807,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 세린/미아, separating testimony, medical consent and public narrative.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current medical/care authority together with patient/affected-party consent where applicable; identify the performer/signatory/refuser from this exact source decision beat: care shifts from impossible cure claim to comfort, selected treatment and presence while maintaining other patients/habitat service.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 care shifts from impossible cure claim to comfort, selected treatment and presence while maintaining other patients/habitat service.
@@ -2837,7 +2837,7 @@ the habitat clock reaches a new day while Jena’s monitor does not complete the
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=procedure extends stability but cannot reverse combined hypoxic, pressure, chemical and internal injury; transfer to a major center remains nonviable within the required window.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=procedure extends stability but cannot reverse combined hypoxic, pressure, chemical and internal injury; transfer to a major center remains nonviable within the required window.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -2868,8 +2868,8 @@ distributed current witnesses; no omniscient memorial voice.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): distributed current witnesses; no omniscient memorial voice.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: worker/caravan council authorizes Jena’s name on the failure record and safety requirement, while restricting private medical details; future open-service specification must include: local queued-state discovery; physical branch verification; worker stop authority; shared liability and training; no automatic “successful sync” trust.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 worker/caravan council authorizes Jena’s name on the failure record and safety requirement, while restricting private medical details; future open-service specification must include: local queued-state discovery; physical branch verification; worker stop authority; shared liability and training; no automatic “successful sync” trust.
@@ -2898,7 +2898,7 @@ the impounded controller’s parts list shows that the missing fault routine was
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=incomplete legacy documentation; mixed local/certified controls; local queued actuator state; current service deadline; insufficient evacuation capacity; joint decision under constrained alternatives … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=incomplete legacy documentation; mixed local/certified controls; local queued actuator state; current service deadline; insufficient evacuation capacity; joint decision under constrained alternatives … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -2926,8 +2926,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 테오.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current investigators/source custodians/witnesses with their separate evidentiary standing; identify the performer/signatory/refuser from this exact source decision beat: 파루스 accepts a reduced/no immediate mission share so the emergency pool reaches local people first.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 파루스 accepts a reduced/no immediate mission share so the emergency pool reaches local people first.
@@ -2956,7 +2956,7 @@ Helix produces an older certified software image showing the missing routine was
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Current obligations** — Jena’s caravan council identifies dependents/community obligations, injured workers, missed client jobs and habitat B emergency needs … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Current obligations** — Jena’s caravan council identifies dependents/community obligations, injured workers, missed client jobs and habitat B emergency needs … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -2984,8 +2984,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 세린.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: inquiry accepts conditional safe harbor instead of pursuit/seizure.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 inquiry accepts conditional safe harbor instead of pursuit/seizure.
@@ -3014,7 +3014,7 @@ the returned collar matches NR72-118 Bay 2 mounting geometry but its cooling spi
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Version comparison** — original worker-built routine monitored local queued actuator state but assumed slower hardware and manual watchers … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Version comparison** — original worker-built routine monitored local queued actuator state but assumed slower hardware and manual watchers … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -3042,8 +3042,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 네라.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: abandon total reconstruction and define a new bounded service function using only tested layers.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 abandon total reconstruction and define a new bounded service function using only tested layers.
@@ -3072,7 +3072,7 @@ the only safe proposed function is not a weapon or frame bay but a low-load rela
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Physical table** — genuine early service collar, locally rebuilt controller, Helix-certified sensor package, worker-made isolation frame and later salvage cooling pi … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Physical table** — genuine early service collar, locally rebuilt controller, Helix-certified sensor package, worker-made isolation frame and later salvage cooling pi … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -3100,8 +3100,8 @@ caravan/habitat worker panel, with Nera as technical participant.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): caravan/habitat worker panel, with Nera as technical participant.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: create the `Jena Mixed-Service Safety Annex`, governed jointly rather than owned by Nera/Helix.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 create the `Jena Mixed-Service Safety Annex`, governed jointly rather than owned by Nera/Helix.
@@ -3130,7 +3130,7 @@ applying the annex makes the proposed relay too large for the remaining Bay 2 sp
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Community authorization** — caravan council authorizes public use of Jena’s name only for failure/worker-stop requirements, not product branding … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Community authorization** — caravan council authorizes public use of Jena’s name only for failure/worker-stop requirements, not product branding … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -3158,8 +3158,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 리안.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: permanently defer active Bay 2 restoration and select a bounded `Mixed-Service Relay & Audit Module`.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 permanently defer active Bay 2 restoration and select a bounded `Mixed-Service Relay & Audit Module`.
@@ -3188,7 +3188,7 @@ every claimant agrees the relay is useful and none agrees who may switch it on.
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Options** — partial Bay 2 frame collar; larger workshop; medical extension; mixed-service relay; sale/claim settlement. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Options** — partial Bay 2 frame collar; larger workshop; medical extension; mixed-service relay; sale/claim settlement. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -3216,8 +3216,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 테오/세린.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current investigators/source custodians/witnesses with their separate evidentiary standing; identify the performer/signatory/refuser from this exact source decision beat: accept a multi-party module trust with bounded emergency operation.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 accept a multi-party module trust with bounded emergency operation.
@@ -3246,7 +3246,7 @@ fitting the module requires 파루스 to remove one cargo rack used for the next
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Claims** — worker/cooperative physical/labor rights; Helix certified sensor/software layer; Kael/Neutral evidence/insurance; habitat/caravan user rights … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Claims** — worker/cooperative physical/labor rights; Helix certified sensor/software layer; Kael/Neutral evidence/insurance; habitat/caravan user rights … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -3274,8 +3274,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 하렌.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: 파루스/Academy accepts a contribution and service obligation despite not controlling the failed controller.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 파루스/Academy accepts a contribution and service obligation despite not controlling the failed controller.
@@ -3304,7 +3304,7 @@ the caravan council approves installation participation but refuses to supply a 
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Claim categories** — death/family/community; injured workers; habitat repair; delayed clients; caravan lost capacity; evidence/inquiry cost. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Claim categories** — death/family/community; injured workers; habitat repair; delayed clients; caravan lost capacity; evidence/inquiry cost. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -3332,8 +3332,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 네라/베라.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: retire the 061 transponder as a current whole-asset identity while preserving provenance records and bounded compatibility.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 retire the 061 transponder as a current whole-asset identity while preserving provenance records and bounded compatibility.
@@ -3362,7 +3362,7 @@ the first live service request comes from a habitat whose operator refuses to sh
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Component selection** — use tested collar structure, new local isolation, certified sensors, rewritten audit layer and physical state lines … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Component selection** — use tested collar structure, new local isolation, certified sensors, rewritten audit layer and physical state lines … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -3390,8 +3390,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 세린/루카.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: accept incomplete automation and slower service rather than demand full data/control.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 accept incomplete automation and slower service rather than demand full data/control.
@@ -3420,7 +3420,7 @@ the relay identifies several destination systems that can accept different parts
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Client condition** — local habitat permits state/limit exchange but not resident identity, full logs or remote control. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Client condition** — local habitat permits state/limit exchange but not resident identity, full logs or remote control. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -3448,8 +3448,8 @@ ensemble institutional summary through current decisions, not exposition alone.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): ensemble institutional summary through current decisions, not exposition alone.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: crew closes the treasure hunt and accepts a service/convoy obligation with no universal destination.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 crew closes the treasure hunt and accepts a service/convoy obligation with no universal destination.
@@ -3478,7 +3478,7 @@ Haren places thirty-six names on the table, then removes the single destination 
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Final findings** — NR72-061 existed historically but current “ghost” is a chain of redistributed hull sections, service credentials, rebuilt components, worker labor … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Final findings** — NR72-061 existed historically but current “ghost” is a chain of redistributed hull sections, service credentials, rebuilt components, worker labor … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -3506,8 +3506,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 하렌, with his information explicitly limited to granted mandates.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current medical/care authority together with patient/affected-party consent where applicable; identify the performer/signatory/refuser from this exact source decision beat: Haren publicly renounces blanket authority to sign for the 36; each group/household grants bounded mandates for specific negotiations.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Haren publicly renounces blanket authority to sign for the 36; each group/household grants bounded mandates for specific negotiations.
@@ -3536,7 +3536,7 @@ Glasswater accepts eight patients but recognizes only three of the five requeste
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=K-13 community hall/ship mission room linked to receiving institutions.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=K-13 community hall/ship mission room linked to receiving institutions.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -3564,8 +3564,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 미아 under Ella/receiving-clinic authority.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current medical/care authority together with patient/affected-party consent where applicable; identify the performer/signatory/refuser from this exact source decision beat: negotiate 13 places: 8 care recipients +5 chosen caregivers; one later subgroup transfer to Lentz written into the compact; no labor or permanent data assignment tied to treatment.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 negotiate 13 places: 8 care recipients +5 chosen caregivers; one later subgroup transfer to Lentz written into the compact; no labor or permanent data assignment tied to treatment.
@@ -3594,7 +3594,7 @@ Ardis offers nine work-residency places, but only if the first six workers arriv
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 162.1 — Eight different care plans] Assessment: chronic respiratory support; immune/medication continuity; mobility/prosthetic repair; trauma and identity-triggered care … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 162.1 — Eight different care plans] Assessment: chronic respiratory support; immune/medication continuity; mobility/prosthetic repair; trauma and identity-triggered care … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -3622,8 +3622,8 @@ ensemble through the nine applicants and Ardis representatives; no Rian decision
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): ensemble through the nine applicants and Ardis representatives; no Rian decision authority.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: nine people accept individual/household provisional offers, contingent on transport and current housing confirmation; they reject group employment under Haren or the Academy.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 nine people accept individual/household provisional offers, contingent on transport and current housing confirmation; they reject group employment under Haren or the Academy.
@@ -3652,7 +3652,7 @@ two candidates qualify for 파루스’s missing watch positions, but one receiv
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=three applicants demonstrate repair, cargo/service and administration skills; one expected worker is better suited to care/logistics, changing the group plan; Ardis cannot count all nine as productive workers.; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=three applicants demonstrate repair, cargo/service and administration skills; one expected worker is better suited to care/logistics, changing the group plan; Ardis cannot count all nine as productive workers.; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -3680,8 +3680,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 마렌/route-group applicants.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: two people accept trial positions on 파루스; two sign with other crews; three enter Open Passage/Varka-supported work arrangements.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 two people accept trial positions on 파루스; two sign with other crews; three enter Open Passage/Varka-supported work arrangements.
@@ -3710,7 +3710,7 @@ a K-13 stayer is told their current claim may be closed if the “community relo
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 164.1 — Seven different route choices] Paths: two qualify toward 파루스 trial positions after training/licensing … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 164.1 — Seven different route choices] Paths: two qualify toward 파루스 trial positions after training/licensing … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -3738,8 +3738,8 @@ four K-13 stayers through local service/claim interactions.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): four K-13 stayers through local service/claim interactions.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: four sign renewed K-13 agreements and decline current convoy places; remaining convoy capacity is not reassigned without review.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 four sign renewed K-13 agreements and decline current convoy places; remaining convoy capacity is not reassigned without review.
@@ -3768,7 +3768,7 @@ Neutral verifies the private route is physically viable but refuses to disclose 
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 165.1 — Four reasons] Reasons include: current schooling/apprenticeship; local care stability; active wage/identity claim; relationship/family tie … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 165.1 — Four reasons] Reasons include: current schooling/apprenticeship; local care stability; active wage/identity claim; relationship/family tie … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -3796,8 +3796,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 세린, with sealed-information boundaries.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: public record states `private route — independently confirmed`; Haren retains no destination key.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 public record states `private route — independently confirmed`; Haren retains no destination key.
@@ -3826,7 +3826,7 @@ the complete movement plan requires 43 passenger-equivalent places and 9 medical
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 166.1 — Disclosure layers] Neutral verification contains: identity continuity/confidence; emergency contact; minimum medical/life-support needs … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 166.1 — Disclosure layers] Neutral verification contains: identity continuity/confidence; emergency contact; minimum medical/life-support needs … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -3854,8 +3854,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 테오/루카, through capacity, mass and route schedules.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: no overload and no ceremonial common departure.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 no overload and no ceremonial common departure.
@@ -3884,7 +3884,7 @@ the five groups reject Haren’s proposal for one permanent central representati
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=36 people require 43 ordinary-equivalent and 9 medical-equivalent places for the first movements.; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=36 people require 43 ordinary-equivalent and 9 medical-equivalent places for the first movements.; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -3912,8 +3912,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 하렌.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded the current negotiating/signing parties under their existing mandates; identify the performer/signatory/refuser from this exact source decision beat: 180-day renewable coordination compact; group contacts can withdraw mandate; shared fund requires multi-group approval; emergency action expires and is audited; no “community leader” title in external contracts.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 180-day renewable coordination compact; group contacts can withdraw mandate; shared fund requires multi-group approval; emergency action expires and is audited; no “community leader” title in external contracts.
@@ -3942,7 +3942,7 @@ five destination compacts are ready, but one insurer will cover only a single un
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 168.1 — Five group mandates] Each group establishes contacts for: care/service; contract/claim; transport; consent/appeal … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 168.1 — Five group mandates] Each group establishes contacts for: care/service; contract/claim; transport; consent/appeal … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -3970,8 +3970,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 테오, with group contacts holding final consent.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current medical/care authority together with patient/affected-party consent where applicable; identify the performer/signatory/refuser from this exact source decision beat: accept higher combined cost and shared contingency pool rather than unified control.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 accept higher combined cost and shared contingency pool rather than unified control.
@@ -4000,7 +4000,7 @@ the Neutral medical passage advances departure by thirty-six hours, forcing the 
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=all five contract paths become legally executable.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=all five contract paths become legally executable.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -4028,8 +4028,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 마렌/루카 through actual vessels and route windows.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: create a coordination board and emergency signals rather than one convoy commander; each vessel master retains safety/withdrawal authority.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 create a coordination board and emergency signals rather than one convoy commander; each vessel master retains safety/withdrawal authority.
@@ -4058,7 +4058,7 @@ the Ardis convoy can take all nine people or the cooling/filter cargo promised t
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 170.1 — Vessel roster] Front-stage vessels: 파루스 — escort/relay/workshop and limited passengers; Neutral medical passage vessel — DG-CARE … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 170.1 — Vessel roster] Front-stage vessels: 파루스 — escort/relay/workshop and limited passengers; Neutral medical passage vessel — DG-CARE … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -4086,8 +4086,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 테오/하렌.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: accept split arrival and delayed property rather than sacrifice another habitat’s current service.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 accept split arrival and delayed property rather than sacrifice another habitat’s current service.
@@ -4116,7 +4116,7 @@ minutes before medical boarding, one patient withdraws consent for their registe
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 171.1 — Mass and service conflict] Ardis convoy shortage: all nine people + household tools/care load exceed current protected mass by approximately 14.8 t … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 171.1 — Mass and service conflict] Ardis convoy shortage: all nine people + household tools/care load exceed current protected mass by approximately 14.8 t … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -4144,8 +4144,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 미아 and DG-CARE current participants.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current medical/care authority together with patient/affected-party consent where applicable; identify the performer/signatory/refuser from this exact source decision beat: Neutral captain departs on medical timing despite a request to wait for a charter ceremony; Haren does not ride with or command the group.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Neutral captain departs on medical timing despite a request to wait for a charter ceremony; Haren does not ride with or command the group.
@@ -4174,7 +4174,7 @@ the Ardis provisional residence approvals arrive before one member’s legal-dea
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 172.1 — Caregiver revision] Action: one competent patient withdraws the registered family caregiver and selects another trusted person within the approved group … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 172.1 — Caregiver revision] Action: one competent patient withdraws the registered family caregiver and selects another trusted person within the approved group … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -4202,8 +4202,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 세린.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: use provisional portable records and appeals rather than delay all physical movement for complete synchronization.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 use provisional portable records and appeals rather than delay all physical movement for complete synchronization.
@@ -4232,7 +4232,7 @@ the Silex–Ardis route authority announces a reduced window and removes one non
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=legal death remains materially harmful; correction cannot retroactively restore lost services.; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=legal death remains materially harmful; correction cannot retroactively restore lost services.; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -4260,8 +4260,8 @@ Ardis group contacts and local receiving operator.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Ardis group contacts and local receiving operator.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: Ardis receiving operator and group contacts sign current manifests; Haren/Rian do not choose jobs/districts; the delayed traveller retains appeal and later slot rather than being dropped.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Ardis receiving operator and group contacts sign current manifests; Haren/Rian do not choose jobs/districts; the delayed traveller retains appeal and later slot rather than being dropped.
@@ -4290,7 +4290,7 @@ Helix withdraws warranty/service support from three mixed-standard coolant/filte
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 174.1 — Final current offers] Ardis confirms: work/training placement for current qualified members; shared housing blocks; ration and local registry access … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 174.1 — Final current offers] Ardis confirms: work/training placement for current qualified members; shared housing blocks; ration and local registry access … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -4318,8 +4318,8 @@ ensemble through Haren’s coordination board and multiple vessel departures.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): ensemble through Haren’s coordination board and multiple vessel departures.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: groups and vessel masters continue only where current safety evidence supports operation; one craft is held back rather than hidden as safe; 파루스 uses its relay to provide bounded state/audit translation, not unauthorized certification; Haren coordinates rerouting without recalling everyone to one ship.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 groups and vessel masters continue only where current safety evidence supports operation; one craft is held back rather than hidden as safe; 파루스 uses its relay to provide bounded state/audit translation, not unauthorized certification; Haren coordinates rerouting without recalling everyone to one ship.
@@ -4348,7 +4348,7 @@ the grounded support craft’s captain asks the only question the new relay cann
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=community physically fragments across destinations; no mass casualty or clean reunification; one support craft and cargo remain behind, creating the next convoy/sanctions crisis.; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=community physically fragments across destinations; no mass casualty or clean reunification; one support craft and cargo remain behind, creating the next convoy/sanctions crisis.; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -4376,8 +4376,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 베라/네라 through three physical inspections.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: refuse both “all safe because they work” and “all unsafe because Helix withdrew.”
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 refuse both “all safe because they work” and “all unsafe because Helix withdrew.”
@@ -4406,7 +4406,7 @@ A17’s replacement seal exists in regional stock, but its insurer reserves it f
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **A17 low-load illusion** — current readings appear normal; pressure-cycle and material test reveal seal microcrack/swelling after uncertified solvent use. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **A17 low-load illusion** — current readings appear normal; pressure-cycle and material test reveal seal microcrack/swelling after uncertified solvent use. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -4434,8 +4434,8 @@ held-back support-craft captain and crew.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): held-back support-craft captain and crew.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: treat A17 as genuinely unsafe and pay the delay rather than using open-service rhetoric as permission.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 treat A17 as genuinely unsafe and pay the delay rather than using open-service rhetoric as permission.
@@ -4464,7 +4464,7 @@ B09’s insurer offers immediate coverage if the tug removes the Jena Annex audi
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Priority stock denial** — certified seal/body allocated to a Core/Inner medical-service contract; buying priority would displace current care elsewhere. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Priority stock denial** — certified seal/body allocated to a Core/Inner medical-service contract; buying priority would displace current care elsewhere. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -4492,8 +4492,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 테오/세린 with B09 tug master.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current investigators/source custodians/witnesses with their separate evidentiary standing; identify the performer/signatory/refuser from this exact source decision beat: tug accepts the expensive bounded rider rather than removing Jena Annex hooks or sailing uninsured.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 tug accepts the expensive bounded rider rather than removing Jena Annex hooks or sailing uninsured.
@@ -4522,7 +4522,7 @@ C22’s crew passes the written training but fails the first physical isolation 
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Insurer position** — current hardware test is acceptable, but no approved liability model exists for local firmware/fork. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Insurer position** — current hardware test is acceptable, but no approved liability model exists for local firmware/fork. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -4550,8 +4550,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 세린/미아 during C22 drill.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current investigators/source custodians/witnesses with their separate evidentiary standing; identify the performer/signatory/refuser from this exact source decision beat: refuse to let relay output substitute for operator qualification or local physical evidence.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 refuse to let relay output substitute for operator qualification or local physical evidence.
@@ -4580,7 +4580,7 @@ the three different remedies are publicly compressed into one headline: “개�
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Failed drill** — crew follows written sequence; reversed physical labels create a wrong branch assumption; relay reports `state unknown`, not failure/success. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Failed drill** — crew follows written sequence; reversed physical labels create a wrong branch assumption; relay reports `state unknown`, not failure/success. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -4608,8 +4608,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 세린 and local media/public-information actors.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: Rian/Haren/charter refuse the simple victory message despite funding risk.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Rian/Haren/charter refuse the simple victory message despite funding risk.
@@ -4638,7 +4638,7 @@ A17’s locally remanufactured seal passes pressure test, but the craft can no l
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Actual state** — A17 still under physical repair; B09 limited via expensive rider; C22 not yet connected to medical load. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Actual state** — A17 still under physical repair; B09 limited via expensive rider; C22 not yet connected to medical load. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -4666,8 +4666,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 루카/convoy masters.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: no vessel secretly exceeds its envelope to recreate the original manifest.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 no vessel secretly exceeds its envelope to recreate the original manifest.
@@ -4696,7 +4696,7 @@ C22’s first live low-load test succeeds, and three other workshops request the
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **A17 return test** — new seal/body passes full pressure cycle and cleanout; craft certified only for reduced load/inspection interval. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **A17 return test** — new seal/body passes full pressure cycle and cleanout; craft certified only for reduced load/inspection interval. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -4724,8 +4724,8 @@ one DG-ROUTE crew and one DG-CARE/K-13 contact, without Haren present.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): one DG-ROUTE crew and one DG-CARE/K-13 contact, without Haren present.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded the current negotiating/signing parties under their existing mandates; identify the performer/signatory/refuser from this exact source decision beat: the coordination compact is interpreted as interoperable support, not centralized approval.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 the coordination compact is interpreted as interoperable support, not centralized approval.
@@ -4754,7 +4754,7 @@ a workshop publishes the C22 adapter before the audit closes, adding a local per
 
 **NARRATIVE_ENGINE_FAMILY:** `NEGOTIATION/COALITION`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Route-crew delay** — two DG-ROUTE members on another tug face a certification/berth issue … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Route-crew delay** — two DG-ROUTE members on another tug face a certification/berth issue … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot bind independent parties beyond their current mandate or turn cooperation into accession/ownership.
@@ -4782,8 +4782,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 네라/베라.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: keep files open but mark deployments by level/provenance and deny general O2/O3 claims.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 keep files open but mark deployments by level/provenance and deny general O2/O3 claims.
@@ -4812,7 +4812,7 @@ the performance fork’s maintainer argues the removed warnings are redundant be
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Fork discovery** — three local copies found; one unchanged, one adapted responsibly, one performance fork removes unknown-state/hold warnings. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Fork discovery** — three local copies found; one unchanged, one adapted responsibly, one performance fork removes unknown-state/hold warnings. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -4840,8 +4840,8 @@ Theo/insurer/user panel.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Theo/insurer/user panel.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: approve provisional tiered governance rather than either no insurance or full Helix image return.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 approve provisional tiered governance rather than either no insurance or full Helix image return.
@@ -4870,7 +4870,7 @@ the C22 supervised test passes under the new process, prompting a public demonst
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Insurer minimums** — version identity, physical sensor placement, operator qualification, test record, stop authority, incident fund and responsible legal party. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Insurer minimums** — version identity, physical sensor placement, operator qualification, test record, stop authority, incident fund and responsible legal party. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -4898,8 +4898,8 @@ ensemble through operators rather than sponsor celebration.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): ensemble through operators rather than sponsor celebration.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: technical board authorizes only a public O1/O2 transition demonstration, not general certification.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 technical board authorizes only a public O1/O2 transition demonstration, not general certification.
@@ -4928,7 +4928,7 @@ the demonstration sponsor schedules a one-hour hold period; the safety plan requ
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **A17** — physical repair/pressure cycles complete; reduced-load service resumes. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **A17** — physical repair/pressure cycles complete; reduced-load service resumes. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -4956,8 +4956,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 네라/세린 through the release board.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: publish OSR-0.7 openly with explicit O0/O1 status and prohibited claims rather than delay all access or allow sponsor-controlled branding.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 publish OSR-0.7 openly with explicit O0/O1 status and prohibited claims rather than delay all access or allow sponsor-controlled branding.
@@ -4986,7 +4986,7 @@ within twelve hours, four local variants appear, one advertising “O2 performan
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Release contents** — state/source/confidence, queue, stop, operator level, sensor placement, unknown state and incident feedback fields. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Release contents** — state/source/confidence, queue, stop, operator level, sensor placement, unknown state and incident feedback fields. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -5014,8 +5014,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 베라 and independent workshop representatives.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: classify/restrict claims rather than close the source; Fork D cannot call itself O2 without test/governance.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 classify/restrict claims rather than close the source; Fork D cannot call itself O2 without test/governance.
@@ -5044,7 +5044,7 @@ the demonstration contractor chooses Fork D’s throughput patch for one control
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Fork A** — unchanged source with local language/tooling notes; low risk. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Fork A** — unchanged source with local language/tooling notes; low risk. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -5072,8 +5072,8 @@ Theo/Helix/insurer panel.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Theo/Helix/insurer panel.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: accept Helix field participation without central certification and create a shared incident bond.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 accept Helix field participation without central certification and create a shared incident bond.
@@ -5102,7 +5102,7 @@ a route habitat reports an immediate cooling crisis and requests the same unprov
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Helix central position** — no warranty/diagnostic support for Fork D or unknown mixed profile; company mark cannot appear as approval. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Helix central position** — no warranty/diagnostic support for Fork D or unknown mixed profile; company mark cannot appear as approval. 2 … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -5130,8 +5130,8 @@ one local habitat operator and OSR support team.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): one local habitat operator and OSR support team.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: release complete incident/test data despite losing control of the headline.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 release complete incident/test data despite losing control of the headline.
@@ -5160,7 +5160,7 @@ fourteen workshops request O2 status, and the demonstration sponsor doubles the 
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Current crisis** — habitat cooling controller cannot read a replacement filter state; certified technician ETA exceeds reserve. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Current crisis** — habitat cooling controller cannot read a replacement filter state; certified technician ETA exceeds reserve. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -5188,8 +5188,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 오벨 나르, Neris field maintainer and user-safety representative.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: demonstration retains physical watchers but compresses full-team hold/drill time to two hours instead of four.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 demonstration retains physical watchers but compresses full-team hold/drill time to two hours instead of four.
@@ -5218,7 +5218,7 @@ the performance-fork vendor offers a controller update that automatically discov
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Qualification review** — written completion exceeds physical-drill capacity; several operators are scheduled outside their trained configuration. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Qualification review** — written completion exceeds physical-drill capacity; several operators are scheduled outside their trained configuration. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -5246,8 +5246,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 세린/네라.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: demonstration may evaluate the feature only if the branch remains physically watched and the warning/state confidence is visible.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 demonstration may evaluate the feature only if the branch remains physically watched and the warning/state confidence is visible.
@@ -5276,7 +5276,7 @@ platform maintenance records reveal the bypass valve’s physical direction labe
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Lab/bench test** — automatic discovery succeeds on documented configurations. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Lab/bench test** — automatic discovery succeeds on documented configurations. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -5304,8 +5304,8 @@ Ovel.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Ovel.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: Ovel keeps the hold condition despite public pressure.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Ovel keeps the hold condition despite public pressure.
@@ -5334,7 +5334,7 @@ overnight maintenance reconnects the controller for a minor test, then restores 
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Physical inspection** — valve/flow direction label differs from current controller diagram; branch can move opposite to expected state. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Physical inspection** — valve/flow direction label differs from current controller diagram; branch can move opposite to expected state. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -5362,8 +5362,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 마렌/오벨/플랫폼 운영자 through current authority conflict.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: demonstration proceeds as a bounded test rather than full cancellation, despite unresolved schedule risk.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 demonstration proceeds as a bounded test rather than full cancellation, despite unresolved schedule risk.
@@ -5392,7 +5392,7 @@ every interface shows the same branch state except Ovel’s mechanical indicator
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=platform begins pre-transfer state checks; Ovel retains red-tag stop authority at the critical branch.; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=platform begins pre-transfer state checks; Ovel retains red-tag stop authority at the critical branch.; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -5420,8 +5420,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 오벨 나르 at the physical branch, with Serin/Nera receiving incomplete system data.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: proceed to a reduced transfer stage while retaining Ovel’s manual stop and no full certification claim.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 proceed to a reduced transfer stage while retaining Ovel’s manual stop and no full certification claim.
@@ -5450,7 +5450,7 @@ the controller declares synchronization complete while the platform’s return-l
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=initial cooling/service flow appears stable.; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=initial cooling/service flow appears stable.; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -5478,8 +5478,8 @@ distributed operational information through Ovel, Mia, Nera and platform respond
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): distributed operational information through Ovel, Mia, Nera and platform responders; no spectacle-only viewpoint.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: responders prioritize people and physical isolation, cutting through/contaminating some demonstration hardware and evidence rather than preserving the installation.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 responders prioritize people and physical isolation, cutting through/contaminating some demonstration hardware and evidence rather than preserving the installation.
@@ -5508,7 +5508,7 @@ the first synchronized logs disagree on whether the system ever entered an unkno
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Divergence** — platform buffer and route-tug commands transfer load; rebuilt bypass remains partly closed while interface reports open … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Divergence** — platform buffer and route-tug commands transfer load; rebuilt bypass remains partly closed while interface reports open … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -5536,8 +5536,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 미아/플랫폼 civil-defense operators.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: keep current critical systems alive under local/physical supervision while freezing expansion, instead of disconnecting every open-profile system.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 keep current critical systems alive under local/physical supervision while freezing expansion, instead of disconnecting every open-profile system.
@@ -5566,7 +5566,7 @@ the base release logs retain the `unknown` warning, but the demonstration contro
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Triage/evacuation** — Ovel and three serious casualties moved through current medical capacity; minor exposures decontaminated and monitored … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Triage/evacuation** — Ovel and three serious casualties moved through current medical capacity; minor exposures decontaminated and monitored … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -5594,8 +5594,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 세린/inquiry panel with Ovel participating only within current medical limits and consent.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: publish a multi-cause preliminary report with confidence levels; impose sanctions on the vendor but do not close inquiry as solved by sabotage.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 publish a multi-cause preliminary report with confidence levels; impose sanctions on the vendor but do not close inquiry as solved by sabotage.
@@ -5624,7 +5624,7 @@ several remote habitats report they cannot wait for the general freeze because t
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Fork manipulation evidence** — vendor deliberately downgraded the unknown-state hold and shortened supervised waiting to improve throughput/market claim … [source continues]; cost-class=TRUST/POLITICAL
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Fork manipulation evidence** — vendor deliberately downgraded the unknown-state hold and shortened supervised waiting to improve throughput/market claim … [source continues]; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -5652,8 +5652,8 @@ worker/user/medical/insurer/Helix/open-service governance panel.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): worker/user/medical/insurer/Helix/open-service governance panel.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: create a temporary `Mixed-Service Safety Board` and accident/compensation fund, with deployment levels O0–O3 and right-to-stop enforcement.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 create a temporary `Mixed-Service Safety Board` and accident/compensation fund, with deployment levels O0–O3 and right-to-stop enforcement.
@@ -5682,7 +5682,7 @@ the first emergency application comes from a site where the open profile is safe
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Seat structure** — worker/maintainer, user/operator, medical/service-dependent, insurer/safety, vendor/Helix and open-workshop roles; no one holds majority command … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Seat structure** — worker/maintainer, user/operator, medical/service-dependent, insurer/safety, vendor/Helix and open-workshop roles; no one holds majority command … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -5710,8 +5710,8 @@ Vera/Nera/board current inspectors.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Vera/Nera/board current inspectors.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: reauthorize narrow emergency O1 rather than abandon open service or declare it generally safe.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 reauthorize narrow emergency O1 rather than abandon open service or declare it generally safe.
@@ -5740,7 +5740,7 @@ Silex reports that its relay window will close unless one mixed-service calibrat
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Emergency site comparison** — damaged certified controller versus locally verified open O1 profile; current physical state and operators are known. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Emergency site comparison** — damaged certified controller versus locally verified open O1 profile; current physical state and operators are known. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -5768,8 +5768,8 @@ ensemble through current service decisions and public record.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): ensemble through current service decisions and public record.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: keep the standard alive only as a bounded, failure-bearing public process rather than destroy it or proclaim victory.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 keep the standard alive only as a bounded, failure-bearing public process rather than destroy it or proclaim victory.
@@ -5798,7 +5798,7 @@ the Silex message includes a countdown and a condition: “장비가 아니라, 
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=open-service movement loses speed/credibility but gains stronger worker/user/medical governance; Silex emergency calibration becomes the next decision.; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=open-service movement loses speed/credibility but gains stronger worker/user/medical governance; Silex emergency calibration becomes the next decision.; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -5826,8 +5826,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 하렌/마렌 arriving at Silex control, with local operators holding current authority.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: mission accepts Silex local start/stop authority and no general-route claim.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 mission accepts Silex local start/stop authority and no general-route claim.
@@ -5856,7 +5856,7 @@ Helix central files an injunction warning that one phase-reference controller la
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Silex current state** — phase coherence 51–58%, cooling enough for one attempt, one exterior branch requiring physical service, split keys/authority. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Silex current state** — phase coherence 51–58%, cooling enough for one attempt, one exterior branch requiring physical service, split keys/authority. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -5884,8 +5884,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 세린/P03 legal-authority panel.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: accept expiring bounded legacy access and one-use Neutral standing, reject permanent classification/priority.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 accept expiring bounded legacy access and one-use Neutral standing, reject permanent classification/priority.
@@ -5914,7 +5914,7 @@ the exterior branch’s current physical position differs by 0.7 degrees from ev
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Helix position** — unsupported controller and O1-only profile make the attempt uninsurable under normal policy. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Helix position** — unsupported controller and O1-only profile make the attempt uninsurable under normal policy. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -5942,8 +5942,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 리안 in 07, bounded by local operator/tug/physical readings.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: reject a faster future-derived compensation and accept current local physical correction.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 reject a faster future-derived compensation and accept current local physical correction.
@@ -5972,7 +5972,7 @@ low-load pulse can begin, but the planned four-vessel mass now exceeds the recal
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Exterior approach** — 07 and local service frames/tug reach the branch; debris/structure and node emissions limit movement. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Exterior approach** — 07 and local service frames/tug reach the branch; debris/structure and node emissions limit movement. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -6000,8 +6000,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 테오/convoy masters.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: leave revenue/political cargo behind and keep empty reserve rather than fill the theoretical ceiling.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 leave revenue/political cargo behind and keep empty reserve rather than fill the theoretical ceiling.
@@ -6030,7 +6030,7 @@ the first low-load pulse reports stable phase but raises Silex cooling faster th
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Mass table** — four vessels, people, cooling/medical/service components, tools, records and commercial/sponsor cargo. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Mass table** — four vessels, people, cooling/medical/service components, tools, records and commercial/sponsor cargo. 2 … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -6058,8 +6058,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 오르사 덴 and local Silex operations team.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: proceed once under local stop authority, accepting uncertainty and nonrepeatability.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 proceed once under local stop authority, accepting uncertainty and nonrepeatability.
@@ -6088,7 +6088,7 @@ Ardis receiving node reports it can recover only three arrivals in the first 28 
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Low-load pulse** — direct sensors and OSR O1 translation align; one old controller lags but remains inside local threshold. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Low-load pulse** — direct sensors and OSR O1 translation align; one old controller lags but remains inside local threshold. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -6116,8 +6116,8 @@ Ardis receiving operator/convoy contacts.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): Ardis receiving operator/convoy contacts.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: local Silex and Ardis operators jointly set sequence rather than Rian/Imperial command.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 local Silex and Ardis operators jointly set sequence rather than Rian/Imperial command.
@@ -6146,7 +6146,7 @@ one Ardis traveller’s provisional identity packet fails the receiving-node cur
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Receiving limit** — three early arrivals can receive normal recovery; later arrival faces reduced margin/delay. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Receiving limit** — three early arrivals can receive normal recovery; later arrival faces reduced margin/delay. 2 … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -6174,8 +6174,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 세린 and the delayed traveller, with current consent/appeal limits.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: Ardis accepts the current person before final historical correction; convoy retains all 9 travellers.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Ardis accepts the current person before final historical correction; convoy retains all 9 travellers.
@@ -6204,7 +6204,7 @@ window opens while the calibration tug’s cooling feed shows a drift exactly at
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Failure** — Imperial registry still shows legal death/closed status … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Failure** — Imperial registry still shows legal death/closed status … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -6232,8 +6232,8 @@ split operational feeds; no omniscient command.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): split operational feeds; no omniscient command.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: Orsa/Ardis operators hold the queue for current physical verification instead of honoring the preplanned timing.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Orsa/Ardis operators hold the queue for current physical verification instead of honoring the preplanned timing.
@@ -6262,7 +6262,7 @@ two vessels and six DG-ARDIS travellers arrive.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Window open** — Orsa opens bounded transition; all evidence/version/stop channels active; no general route announcement. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Window open** — Orsa opens bounded transition; all evidence/version/stop channels active; no general route announcement. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -6290,8 +6290,8 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): 오르사 덴/마렌/리안 across distinct domains.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: current local operator sacrifices the fourth vessel and short-term regional benefit to preserve closure and future repair.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 current local operator sacrifices the fourth vessel and short-term regional benefit to preserve closure and future repair.
@@ -6320,7 +6320,7 @@ Ardis recovery feed resolves into a city/node emergency queue far larger than th
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=파루스 enters with 3 DG-ARDIS travellers, records and selected parts; tug remains at Silex; node closes immediately after current recovery confirmation.; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=파루스 enters with 3 DG-ARDIS travellers, records and selected parts; tug remains at Silex; node closes immediately after current recovery confirmation.; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -6348,8 +6348,8 @@ ensemble through arrival, current city services and ship/people states.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-POV/decision-carried current actor(s): ensemble through arrival, current city services and ship/people states.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-ROUTE FROM SOURCE POV + DECISION`
+bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: crew accepts Ardis’s local joint-service terms and an obligation to assist current node/city work rather than claim the route or city.
+**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
 
 **DECISION_BEAT**  
 crew accepts Ardis’s local joint-service terms and an obligation to assist current node/city work rather than claim the route or city.
@@ -6378,7 +6378,7 @@ Ardis traffic control assigns 파루스 a berth only after asking which of the c
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=GA2 closes with access, relationships and a functioning-but-indebted ship; GA3 begins inside an already living, self-governing damaged city.; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=GA2 closes with access, relationships and a functioning-but-indebted ship; GA3 begins inside an already living, self-governing damaged city.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
