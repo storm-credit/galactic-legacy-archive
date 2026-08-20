@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
 """Run the Collection Desire finalizer with source-bound semantic blindspot fixes.
 
-No new collectible, event or authority is created. The overrides below only
-replace shorthand/administrative tokens that were not usable writer-facing
-reader-desire language with sentences compressed from the owning approved
-subact map.
+No new collectible, event or authority is created. This wrapper prevents
+registry status shorthand from becoming writer-facing reader desire when the
+approved act/subact map already supplies a Hook / Act-ending trigger / next
+pressure.
 """
 
 from __future__ import annotations
+
+import re
 
 import run_full_series_collection_reader_desires as runner
 
@@ -29,6 +31,36 @@ runner.reader.OVERRIDES[("GA7", "7C-4")] = {
         "evidence that several 'Blood Admiral' incidents occurred under different commanders, titles and timelines turns the next desire into a representative incident matrix and plural responsibility audit."
     ),
 }
+
+_ORIGINAL_SOURCE_FIELD_PACK = runner.reader.source_field_pack
+_SHORT_CODE = re.compile(r"(?:^|[\s`])(?:[A-Z](?:/[A-Z]){1,5})(?:[.\s`/]|$)")
+
+
+def source_field_pack_no_registry_shorthand(subact, selected):
+    fields = dict(_ORIGINAL_SOURCE_FIELD_PACK(subact, selected))
+    hook = fields.get("hook", "")
+    if _SHORT_CODE.search(hook):
+        source_hook = runner.reader.layer.first_present(
+            subact.block,
+            (
+                (
+                    "hook",
+                    "act-ending trigger",
+                    "act ending trigger",
+                    "ending trigger",
+                    "final trigger",
+                    "next pressure",
+                    "next question",
+                    "next",
+                ),
+            ),
+        )
+        if source_hook and not _SHORT_CODE.search(source_hook):
+            fields["hook"] = source_hook
+    return fields
+
+
+runner.reader.source_field_pack = source_field_pack_no_registry_shorthand
 
 
 if __name__ == "__main__":
