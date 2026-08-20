@@ -10,6 +10,7 @@ on:
       - 'tools/finalize_full_series_collection_desire_layer_strict.py'
       - 'tools/finalize_full_series_collection_desire_semantic_sets.py'
       - 'tools/finalize_full_series_collection_reader_desires.py'
+      - 'tools/run_full_series_collection_reader_desires.py'
       - 'tools/audit_full_series_collection_desire_repetition.py'
       - 'tools/audit_full_series_collection_reader_desire_source.py'
       - 'tools/build_collection_normalization.py'
@@ -24,6 +25,7 @@ on:
       - 'tools/finalize_full_series_collection_desire_layer_strict.py'
       - 'tools/finalize_full_series_collection_desire_semantic_sets.py'
       - 'tools/finalize_full_series_collection_reader_desires.py'
+      - 'tools/run_full_series_collection_reader_desires.py'
       - 'tools/audit_full_series_collection_desire_repetition.py'
       - 'tools/audit_full_series_collection_reader_desire_source.py'
       - 'tools/build_collection_normalization.py'
@@ -55,8 +57,8 @@ jobs:
 
       - name: Build source-bound reader-desire + semantic five-set layer
         run: |
-          python tools/finalize_full_series_collection_reader_desires.py
-          python tools/finalize_full_series_collection_reader_desires.py --check
+          python tools/run_full_series_collection_reader_desires.py
+          python tools/run_full_series_collection_reader_desires.py --check
 
       - name: Audit reader-desire source provenance
         run: |
