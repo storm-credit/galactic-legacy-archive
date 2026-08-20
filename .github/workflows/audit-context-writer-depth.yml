@@ -43,7 +43,6 @@ jobs:
         run: python tools/audit_full_series_context_writer_depth.py
 
       - name: Commit audit output on production branch
-        if: github.event_name != 'pull_request'
         run: |
           if git diff --quiet -- docs/99_quality_control/full-series-context-writer-depth-audit-v1.md; then
             echo 'Depth audit already current.'
@@ -55,7 +54,6 @@ jobs:
           git commit -m 'QC: refresh full-series Context writer-depth audit'
           git push origin HEAD:production/e001-e1100-context-writer-depth-v2
 
-      - name: Show first-pass depth counts on PR
-        if: github.event_name == 'pull_request'
+      - name: Show depth counts
         run: |
           grep -E 'Depth-A:|Depth-B:|Depth-C:' docs/99_quality_control/full-series-context-writer-depth-audit-v1.md
