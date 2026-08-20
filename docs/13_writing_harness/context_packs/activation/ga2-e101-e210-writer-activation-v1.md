@@ -2893,12 +2893,12 @@ the impounded controller’s parts list shows that the missing fault routine was
 
 ### Anti-repetition / authority / information
 
-**NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
+**NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
 decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=incomplete legacy documentation; mixed local/certified controls; local queued actuator state; current service deadline; insufficient evacuation capacity; joint decision under constrained alternatives … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
+Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
 
 **MYSTERY_INFORMATION_CEILING**  
 May expose only this source-supported information now: SM-07 “one true or one fake component” false binary is materially challenged but full lineage resolution carries to E151–160.. Locked mystery/payoff ledgers outrank lower card tags and this overlay.

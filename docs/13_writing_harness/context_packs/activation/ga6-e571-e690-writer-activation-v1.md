@@ -6605,12 +6605,12 @@ late local operators, medical teams and remaining small craft have less than thr
 
 ### Anti-repetition / authority / information
 
-**NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
+**NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
 decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence] [Outcome] C convergence remains usable long enough to complete the major transfer phase … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
+Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.

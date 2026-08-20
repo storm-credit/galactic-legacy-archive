@@ -4865,12 +4865,12 @@ distributing the object is incomplete until Nera's own authorship/control relati
 
 ### Anti-repetition / authority / information
 
-**NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
+**NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
 decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=07's remaining unique combat-control module is removed and divided under plural/public custody; a nonunique public rescue/training configuration is installed … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
+Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -4923,12 +4923,12 @@ E1086 applies the same rule to the Common Fleet and remaining command structures
 
 ### Anti-repetition / authority / information
 
-**NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
+**NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
 decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=Academy mission/contract/crew-rights records enter a federated education trust; 07/Open Service specifications live in the public technical commons/foundation under multiple certifiers and safety obligations … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
+Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -5097,12 +5097,12 @@ archive and Seed evidence now must survive without his private complete query pa
 
 ### Anti-repetition / authority / information
 
-**NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
+**NARRATIVE_ENGINE_FAMILY:** `ENDING/HANDOFF`
 **ENGINE_DIFFERENTIATOR**  
 decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=the remaining exclusive future-index interface is physically removed/split while distributed regional systems are already operating; no secret recoverable master copy or personal backdoor is retained … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
+Rian cannot reclaim standing central sovereignty, master keys, exclusive index authority or ownership during final distribution.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.

@@ -6489,12 +6489,12 @@ the final technical/housing phase enters while B-2 falls and one external group 
 
 ### Anti-repetition / authority / information
 
-**NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
+**NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
 decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-ROUTE FROM SOURCE POV + DECISION; human-route=SOURCE-POV; carrier=[APPROVED SECTION CARRIER EVIDENCE] [Scene units] 1. **Service-bay strike** — external debris/attack and prior fatigue rupture a cooling/pressure partition; physical B/A reference instruments diverge from remote state … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
+Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.

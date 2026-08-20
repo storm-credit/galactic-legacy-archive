@@ -2376,7 +2376,7 @@ the tribunal must now dispose of 12,640 current-standing petitions across catego
 decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=ADOPTED-HIGH-WATCH-OWNER-GUARD + SOURCE DECISION; human-route=ADOPTED-HIGH-WATCH-CARRIER-GUIDE; carrier=[HIGH-WATCH BAND CARRIER FAMILY — verify exact episode use from source before prose] ASSET: existing 20,960 disputed governance/founding corpus and current access/custody states; cost-class=TRUST/POLITICAL
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority. HIGH-WATCH veto: no sacred archive object or one true founding document.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
@@ -5155,12 +5155,12 @@ deletion-candidate generation now requires a separate ledger.
 
 ### Anti-repetition / authority / information
 
-**NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
+**NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
 decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=[SHARED APPROVED SOURCE-STATE CARRIER] [Shared Continuation State — shared source state] original 18-hour Seed Bridge expired at CY 746-10-28 21:00 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
-Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
+Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
 
 **MYSTERY_INFORMATION_CEILING**  
 No extra explanatory reveal is created by the activation layer. Use only the owning episode card and any higher locked payoff/mystery obligation; do not promote a setup/theme tag into an earlier answer.
