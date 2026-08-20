@@ -9,7 +9,7 @@ Publication: NOT AUTHORIZED
 - E011–E1100 episodes without exactly one CLSET range: **0**
 - E011–E1100 episodes in overlapping CLSET ranges: **0**
 - hard bridge failures: **0**
-- semantic exit-hook lexical WATCH: **93** (review aid; not automatic canon failure)
+- semantic exit-hook lexical WATCH: **92** (review aid; not automatic canon failure)
 
 ## Hard failure queue
 
@@ -86,7 +86,6 @@ Publication: NOT AUTHORIZED
 - GA7 7D-4 E800: NEXT_DESIRE ↔ exit hook lexical overlap 0
 - GA8 8A-1 E806: NEXT_DESIRE ↔ exit hook lexical overlap 0
 - GA8 8A-2 E813: NEXT_DESIRE ↔ exit hook lexical overlap 0
-- GA8 8A-4 E825: NEXT_DESIRE ↔ exit hook lexical overlap 0
 - GA8 8B-1 E831: NEXT_DESIRE ↔ exit hook lexical overlap 0
 - GA8 8B-2 E837: NEXT_DESIRE ↔ exit hook lexical overlap 0
 - GA8 8B-3 E844: NEXT_DESIRE ↔ exit hook lexical overlap 0

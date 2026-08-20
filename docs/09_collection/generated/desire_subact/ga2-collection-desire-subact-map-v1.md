@@ -71,7 +71,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: workshop vs medical/refugee vs relay-service capability.
 - `COST_REFUSAL_OR_LOSS`: missile/PD weakness. no full hospital or second frame. repair debt and inspection rights.
 - `SET_ADVANCE_CONDITION`: workshop vs medical/refugee vs relay-service capability.
-- `NEXT_DESIRE`: `G — updated after damage/standard changes`. / `G`. / `R — proves contracts are mission constraints, not rewards alone`. / `G`. / `G`.
+- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — the first real voyage combines delivery, rescue/tow, passenger/inspection and non-escalation obligations that the ship cannot satisfy at full tactical output simultaneously. → complete enough of the voyage to earn route/insurance certification and slightly stronger crew trust without overriding valid captain/engineering/medical vetoes.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA2-G2-R01` / `G2-R01` / Minimum Transit Certificate — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=123
