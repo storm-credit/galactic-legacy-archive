@@ -2,8 +2,8 @@
 
 Status: REVIEW — ACTIVATES ONLY AFTER PRE-WRITING GATE OPEN
 Owner Agents: A00 PM / A11 Prose & Serialization / O01 Canon / O02 Gates / X04 Continuity
-Last Reviewed: 2026-08-16
-Depends On: [[revision-harness]], [[prose-bible]], [[storycraft-bible]], [[prewriting-gate]], [[design-only-scope-restoration-2026-08-03]]
+Last Reviewed: 2026-08-20
+Depends On: [[revision-harness]], [[prose-bible]], [[storycraft-bible]], [[prewriting-gate]], [[design-only-scope-restoration-2026-08-03]], [[context-pack-tangible-reader-memory-execution-spec-proposal-v1]]
 Used By: 모든 정본 원고 배치 생산
 Open Risks: 이 문서 자체는 집필을 승인하지 않는다. Pre-Writing Gate가 OPEN되기 전에는 어떤 단계도 실행되지 않는다.
 
@@ -46,6 +46,7 @@ Publication: NOT AUTHORIZED
 ### 3.1 원고 작성
 
 - 입력: 해당 회차 장면 카드, 운영 상태 시트, 인물 음성 잠금, 문체 캘리브레이션 파일.
+- **Context Pack 입력**: 집필 직전 [[context-pack-tangible-reader-memory-execution-spec-proposal-v1]]에 따라 공통 6필드를 채우고, 지정된 HIGH-WATCH 구간에만 추가 식별자 1개 + 실행 체크 7개를 채운다. 승인 출처가 없는 정확한 인물·장소·물건은 `UNRESOLVED FROM APPROVED SOURCES`로 남기며 템플릿을 채우기 위해 만들지 않는다.
 - 규칙: 장면 카드의 사건·순서·상태 변화를 벗어나는 새 사실(새 인물, 새 죽음, 새 기술, 새 권한)을 만들지 않는다. 필요 시 작성 중단 후 변경 제안서를 먼저 낸다.
 - 한 장면 = 한 초점 인물. Rian 근접 3인칭 기본.
 - **분량 숫자를 보면서 쓰지 않는다.** `현재 N자 / N자 부족`은 집필 입력이 아니다. 먼저 승인 장면카드의 사건·갈등·선택·독립 인물 행동·후속 비용을 완전한 장면으로 구현한다.
@@ -65,6 +66,7 @@ Publication: NOT AUTHORIZED
   - [[m001-m020-early-clue-episode-ledger-v1]] — 단서 노출 상한(정보 상한) 준수.
   - [[master-series-chronology-v1]] — 날짜·나이·경과시간.
   - errata 001~004 — 구버전 수치 사용 금지.
+  - [[context-pack-tangible-reader-memory-execution-spec-proposal-v1]] — `STATE_CHANGE`, `COST_OR_REFUSAL`, 반복 carrier의 시간·위치, `CURRENT_OWNER_OF_DECISION`, Rian 권한 경계, `NEW_CANON_REQUIRED`를 대조한다. Context Pack은 정본 사실의 출처가 아니라 승인 출처를 실행 단계에서 보존하는 QC 레이어다.
 - 모순 발견 시 [[continuity-issues]]에 등록하고 S0/S1이면 해당 회차를 BLOCKED 처리한다. 해당 파일은 현재 저장소에 없으므로(readiness audit F-15) 첫 배치 착수 시 빈 등록부로 생성한다. revision-harness의 S0~S4 등급과 게이트 체계의 S0~S3 등급 대응(S4 = 게이트 체계의 기록성 노트)도 그 파일 머리에 명기한다.
 
 ### 3.4 문체감사
