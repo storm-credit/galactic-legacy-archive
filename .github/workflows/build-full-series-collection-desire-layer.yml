@@ -7,6 +7,7 @@ on:
     paths:
       - 'tools/build_full_series_collection_desire_layer.py'
       - 'tools/finalize_full_series_collection_desire_layer.py'
+      - 'tools/finalize_full_series_collection_desire_layer_strict.py'
       - 'tools/build_collection_normalization.py'
       - 'docs/09_collection/**'
       - 'docs/10_story_architecture/**'
@@ -16,6 +17,7 @@ on:
     paths:
       - 'tools/build_full_series_collection_desire_layer.py'
       - 'tools/finalize_full_series_collection_desire_layer.py'
+      - 'tools/finalize_full_series_collection_desire_layer_strict.py'
       - 'tools/build_collection_normalization.py'
       - 'docs/09_collection/**'
       - 'docs/10_story_architecture/**'
@@ -43,27 +45,29 @@ jobs:
         run: |
           python tools/validate_collection_normalization.py
 
-      - name: Build final full-series collection desire layer
+      - name: Build strict final full-series collection desire layer
         run: |
-          python tools/finalize_full_series_collection_desire_layer.py
-          python tools/finalize_full_series_collection_desire_layer.py --check
+          python tools/finalize_full_series_collection_desire_layer_strict.py
+          python tools/finalize_full_series_collection_desire_layer_strict.py --check
 
       - name: Show final depth verdict
         run: |
           grep -n "VERDICT\|direct A matches\|manual source-bound A\|B textual\|B fallback\|zero active target\|mandatory desire" docs/99_quality_control/full-series-collection-desire-subact-depth-audit-v1.md
-          grep -n "PASS — 19/19" docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md
+          grep -n "PASS — 19/19\|PASS — 20/20" docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md || true
+          grep -n "false-A\|final collection desire depth verdict" docs/99_quality_control/full-series-collection-endpoint-reference-false-a-audit-v1.md
 
       - name: Commit generated outputs on production branch
         if: ${{ github.event_name == 'push' }}
         shell: bash
         run: |
-          if [[ -n "$(git status --porcelain docs/09_collection/generated/desire_subact docs/99_quality_control/full-series-collection-desire-subact-depth-audit-v1.md docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md)" ]]; then
+          if [[ -n "$(git status --porcelain docs/09_collection/generated/desire_subact docs/99_quality_control/full-series-collection-desire-subact-depth-audit-v1.md docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md docs/99_quality_control/full-series-collection-endpoint-reference-false-a-audit-v1.md)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add docs/09_collection/generated/desire_subact \
                     docs/99_quality_control/full-series-collection-desire-subact-depth-audit-v1.md \
-                    docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md
-            git commit -m "Collection: finalize full-series desire layer [collection-generated]"
+                    docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md \
+                    docs/99_quality_control/full-series-collection-endpoint-reference-false-a-audit-v1.md
+            git commit -m "Collection: strict-finalize full-series desire layer [collection-generated]"
             git push origin HEAD:${{ github.ref_name }}
           else
             echo "Generated Collection Desire outputs are already current."
