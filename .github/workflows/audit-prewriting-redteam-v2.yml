@@ -7,6 +7,7 @@ on:
     paths:
       - 'tools/audit_prewriting_redteam_v2.py'
       - 'tools/run_prewriting_redteam_v2_strict.py'
+      - 'tools/audit_relationship_activation_source_labels.py'
       - 'tools/run_full_series_context_writer_activation*.py'
       - 'tools/run_full_series_collection_reader_desires*.py'
       - 'tools/finalize_full_series_collection_desire_semantic_sets.py'
@@ -20,6 +21,7 @@ on:
     paths:
       - 'tools/audit_prewriting_redteam_v2.py'
       - 'tools/run_prewriting_redteam_v2_strict.py'
+      - 'tools/audit_relationship_activation_source_labels.py'
       - 'tools/run_full_series_context_writer_activation*.py'
       - 'tools/run_full_series_collection_reader_desires*.py'
       - 'tools/finalize_full_series_collection_desire_semantic_sets.py'
@@ -55,20 +57,28 @@ jobs:
         run: |
           python tools/run_prewriting_redteam_v2_strict.py
           python tools/run_prewriting_redteam_v2_strict.py --check
+          grep -q 'Status: PASS-WITH-WATCH' docs/99_quality_control/prewriting-execution-redteam-v2-audit.md
+
+      - name: Audit explicit relationship source-label routing
+        run: |
+          python tools/audit_relationship_activation_source_labels.py
+          python tools/audit_relationship_activation_source_labels.py --check
+          grep -q 'explicit relationship/emotion/character-state labels missed while activation=NONE: \*\*0\*\*' docs/99_quality_control/relationship-activation-source-label-audit-v1.md
 
       - name: Show red-team summary
         run: |
-          sed -n '1,150p' docs/99_quality_control/prewriting-execution-redteam-v2-audit.md
+          sed -n '1,170p' docs/99_quality_control/prewriting-execution-redteam-v2-audit.md
+          sed -n '1,120p' docs/99_quality_control/relationship-activation-source-label-audit-v1.md
 
-      - name: Persist audit report on branch push
+      - name: Persist audit reports on branch push
         if: github.event_name == 'push'
         run: |
-          if git diff --quiet -- docs/99_quality_control/prewriting-execution-redteam-v2-audit.md; then
-            echo 'audit report already current'
+          if git diff --quiet -- docs/99_quality_control/prewriting-execution-redteam-v2-audit.md docs/99_quality_control/relationship-activation-source-label-audit-v1.md; then
+            echo 'audit reports already current'
             exit 0
           fi
           git config user.name 'galactic-legacy-qc-bot'
           git config user.email 'actions@users.noreply.github.com'
-          git add -- docs/99_quality_control/prewriting-execution-redteam-v2-audit.md
-          git commit -m 'QC: persist prewriting red-team v2 audit'
+          git add -- docs/99_quality_control/prewriting-execution-redteam-v2-audit.md docs/99_quality_control/relationship-activation-source-label-audit-v1.md
+          git commit -m 'QC: persist prewriting red-team v2 audits'
           git push origin HEAD:qc/prewriting-execution-redteam-v2
