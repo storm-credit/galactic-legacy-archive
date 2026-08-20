@@ -10,6 +10,7 @@ on:
       - 'tools/finalize_full_series_collection_desire_layer_strict.py'
       - 'tools/finalize_full_series_collection_desire_semantic_sets.py'
       - 'tools/audit_full_series_collection_desire_repetition.py'
+      - 'tools/audit_full_series_collection_reader_desire_source.py'
       - 'tools/build_collection_normalization.py'
       - 'docs/09_collection/**'
       - 'docs/10_story_architecture/**'
@@ -22,6 +23,7 @@ on:
       - 'tools/finalize_full_series_collection_desire_layer_strict.py'
       - 'tools/finalize_full_series_collection_desire_semantic_sets.py'
       - 'tools/audit_full_series_collection_desire_repetition.py'
+      - 'tools/audit_full_series_collection_reader_desire_source.py'
       - 'tools/build_collection_normalization.py'
       - 'docs/09_collection/**'
       - 'docs/10_story_architecture/**'
@@ -54,6 +56,11 @@ jobs:
           python tools/finalize_full_series_collection_desire_semantic_sets.py
           python tools/finalize_full_series_collection_desire_semantic_sets.py --check
 
+      - name: Audit reader-desire source provenance
+        run: |
+          python tools/audit_full_series_collection_reader_desire_source.py
+          python tools/audit_full_series_collection_reader_desire_source.py --check
+
       - name: Audit repetition and reader memory
         run: |
           python tools/audit_full_series_collection_desire_repetition.py
@@ -65,13 +72,14 @@ jobs:
           grep -n "PASS — 20/20" docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md
           grep -n "false-A\|final collection desire depth verdict" docs/99_quality_control/full-series-collection-endpoint-reference-false-a-audit-v1.md
           grep -n "Status: PASS\|dominant family\|missing primary families\|longest same-primary run" docs/99_quality_control/full-series-collection-set-family-semantic-balance-audit-v1.md
+          grep -n "Status: PASS\|target-title fallback\|malformed" docs/99_quality_control/full-series-collection-reader-desire-source-audit-v1.md
           grep -n "Status: PASS\|exact adjacent\|active-target count" docs/99_quality_control/full-series-collection-desire-repetition-reader-memory-redteam-v1.md
 
       - name: Commit generated outputs on production branch
         if: ${{ github.event_name == 'push' }}
         shell: bash
         run: |
-          if [[ -n "$(git status --porcelain docs/09_collection/generated/desire_subact docs/99_quality_control/full-series-collection-desire-subact-depth-audit-v1.md docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md docs/99_quality_control/full-series-collection-endpoint-reference-false-a-audit-v1.md docs/99_quality_control/full-series-collection-set-family-semantic-balance-audit-v1.md docs/99_quality_control/full-series-collection-desire-repetition-reader-memory-redteam-v1.md)" ]]; then
+          if [[ -n "$(git status --porcelain docs/09_collection/generated/desire_subact docs/99_quality_control/full-series-collection-desire-subact-depth-audit-v1.md docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md docs/99_quality_control/full-series-collection-endpoint-reference-false-a-audit-v1.md docs/99_quality_control/full-series-collection-set-family-semantic-balance-audit-v1.md docs/99_quality_control/full-series-collection-reader-desire-source-audit-v1.md docs/99_quality_control/full-series-collection-desire-repetition-reader-memory-redteam-v1.md)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add docs/09_collection/generated/desire_subact \
@@ -79,8 +87,9 @@ jobs:
                     docs/99_quality_control/full-series-collection-desire-manual-b-depth-redteam-v1.md \
                     docs/99_quality_control/full-series-collection-endpoint-reference-false-a-audit-v1.md \
                     docs/99_quality_control/full-series-collection-set-family-semantic-balance-audit-v1.md \
+                    docs/99_quality_control/full-series-collection-reader-desire-source-audit-v1.md \
                     docs/99_quality_control/full-series-collection-desire-repetition-reader-memory-redteam-v1.md
-            git commit -m "Collection: finalize semantic five-set desire layer [collection-generated]"
+            git commit -m "Collection: finalize reader-desire source audit [collection-generated]"
             git push origin HEAD:${{ github.ref_name }}
           else
             echo "Generated Collection Desire outputs are already current."
