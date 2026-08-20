@@ -44,7 +44,7 @@ jobs:
 
       - name: Commit audit output on production branch
         run: |
-          if git diff --quiet -- docs/99_quality_control/full-series-context-writer-depth-audit-v1.md; then
+          if [ -z "$(git status --porcelain -- docs/99_quality_control/full-series-context-writer-depth-audit-v1.md)" ]; then
             echo 'Depth audit already current.'
             exit 0
           fi
