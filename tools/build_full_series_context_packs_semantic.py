@@ -249,7 +249,7 @@ def main() -> int:
 
     try:
         outputs = base.build_outputs()
-        cards = base.collect_cards()
+        cards = base.load_sources()
         failed = readiness(cards)
     except Exception as exc:
         print(f"SEMANTIC CONTEXT BUILD ERROR: {exc}", file=sys.stderr)
