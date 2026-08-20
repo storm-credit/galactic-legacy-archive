@@ -2,7 +2,7 @@
 
 Status: CANON PROJECT CONTROL
 Owner Agents: O01 Canon / O02 Gates / X04 Continuity
-Last Reviewed: 2026-08-08
+Last Reviewed: 2026-08-20
 Depends On: master index, final settings-bible audit, individual document headers
 Used By: source resolution, status normalization and future revisions
 Open Risks: individual legacy files may still display `Status: REVIEW`; this manifest defines their effective authority without mass-editing historical headers
@@ -94,6 +94,7 @@ Effective status `PC`:
 - [[context-window-handoff-protocol]];
 - [[design-only-scope-restoration-2026-08-03]];
 - canonical name errata files, including [[canonical-name-errata-005]] for P-001 `리안 칼데르 / Rian Calder`;
+- [[ga10-ending-reconciliation-canon-amendment-2026-08-20]] and its decision record [[decision-log-addendum-2026-08-20-ga10-ending]] for D-20260820-02;
 - this manifest;
 - agent orchestra registry and execution policy;
 - document review signoff ledger.
@@ -215,13 +216,15 @@ Includes:
 - final chronology and major states: `WC`;
 - first 100 operational/scene-card design: `AS`;
 - E101–1100 exact scene cards: `DD`;
+- **GA10 E1076–1100 ending chronology and endpoint mapping are governed by [[ga10-ending-reconciliation-canon-amendment-2026-08-20]] / D-20260820-02.** The reconciled detailed-card files retain their document-class/history status, but their effective chronology, payoff placement and endpoint envelope may not contradict that amendment;
 - 650–750 alternate edition: `OPEN SEPARATE PROJECT`.
 
 ### Quality control — `PC/WC`
 
 - final audit/gates/source precedence: `PC`;
 - red-team findings and controls: `WC` conditions;
-- old gap audits: historical evidence, superseded where stated.
+- old gap audits: historical evidence, superseded where stated;
+- [[ga10-e1076-1100-ending-reconciliation-crosswalk-and-audit-v1]] records the `ENDING-S1-01` implementation audit and historical-to-effective crosswalk.
 
 ---
 
@@ -237,9 +240,12 @@ Effective `NC`:
 
 Effective `BL`:
 
-- manuscript drafting, revision and publication preparation without new explicit author instruction;
+- draft production outside the currently authorized manuscript scope or without the current gate/workflow authority;
+- public release, paid serialization or publication without separate explicit authorization;
 - claims of human expert review without Mode H evidence;
 - claims of independent multi-agent execution without Mode I evidence.
+
+Current draft-production authorization is controlled by the later Pre-Writing Gate open record and subsequent accepted scope decisions; this manifest does not re-close an explicitly opened draft scope.
 
 ---
 
@@ -261,6 +267,15 @@ When two accepted files conflict:
 6. older review/draft documents.
 
 O01/X04 must record the resolution.
+
+### GA10 ending-specific override
+
+For E1076–1100, D-20260820-02 and [[ga10-ending-reconciliation-canon-amendment-2026-08-20]] are the explicit change-control record. Therefore:
+
+- stale `OPEN` endpoint alternatives in [[ga10-final-collection-and-payoff-registry-v1]] or [[ga10-transition-actors-and-final-roles-v1]] remain historical alternatives only;
+- the historical M-019 E1099 allocation in [[final-payoff-scene-ledger-locked-v1]] is effectively moved to E1100 by the approved +1 change-control decision;
+- those historical lines may remain for audit provenance and **cannot re-open or override** the author-approved 07, Parus, Ern, distributed-reunion or E1100 endpoint facts;
+- [[ga10-e1076-1100-ending-reconciliation-crosswalk-and-audit-v1]] is the implementation crosswalk explaining old-to-new placement without silently erasing history.
 
 ---
 
@@ -297,6 +312,6 @@ Review state and effective authority should no longer be conflated.
 
 ## 8. Manifest Verdict
 
-> **PASS — EFFECTIVE CANON STATUS IS NOW NORMALIZED WITHOUT REWRITING ALL HISTORICAL FILE HEADERS**
+> **PASS — EFFECTIVE CANON STATUS IS NORMALIZED WITHOUT REWRITING ALL HISTORICAL FILE HEADERS**
 
-This resolves the discrepancy between legacy `REVIEW` headers and the final completion audit’s Working Canon promotion.
+For GA10 E1076–1100, the 2026-08-20 Canon Amendment and D-20260820-02 now provide the explicit effective override while preserving older ledgers as audit history.

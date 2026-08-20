@@ -1,228 +1,208 @@
-# GA10 Episodes 1086–1093 Detailed Episode Cards v1 — 누구 없이도 작동하는가
+# GA10 Episodes 1086–1093 Detailed Episode Cards v2 — 누구 없이도 작동하는가
 
-Status: REVIEW — DETAILED EPISODE DESIGN
-Owner Agents: N03 Episode / N04 Causality / N06 Ending / P03 Law / P04 Care / P06 Factions / M05 Logistics / X04 Continuity
-Last Reviewed: 2026-08-05
-Depends On: E1076–1085 final module and collection placement, [[ga10-e1076-1085-episode-cards-v1]], [[ga10-episodes-1001-1100-act-map-v1]]
-Used By: E1094–1100 final ordinary-crisis proof and series audit, [[ga10-e1094-1100-episode-cards-v1]]
+Status: REVIEW — DETAILED EPISODE DESIGN / ENDING RECONCILED
+Owner Agents: N03 Episode / N04 Causality / N06 Ending / P03 Law / P04 Care / P06 Factions / M05 Logistics / X04 Continuity / O01 Canon
+Last Reviewed: 2026-08-20
+Depends On: [[ga10-e1076-1085-episode-cards-v1]], [[ga10-episodes-1001-1100-act-map-v1]], [[master-series-chronology-v1]], [[final-payoff-scene-ledger-locked-v1]], [[ga10-ending-reconciliation-canon-amendment-2026-08-20]]
+Used By: E1094–1100 main-story close/epilogue and final series audit, [[ga10-e1094-1100-episode-cards-v1]]
+Publication: NOT AUTHORIZED
 
-## Shared Final-Distribution State
+## Reconciliation Note
 
-- no standing central command or operable master key.
-- modules: 12 local/sector public, 3 AI/community/affected, 1 voluntary interoperability service, 1 retired/sealed.
-- Rian’s exclusive activation credential expired; ordinary qualification only.
-- final tasks: connector sufficiency, craft/title placement, restitution, Aven/Seed knowledge custody and no-Rian ordinary crisis.
+This v2 restores the locked E1083–1089 `ownership/fate transfer` sequence and moves the valid ordinary-crisis proof fully inside E1090–1095.
 
----
-
-# Episode 1086 — 서른두 개의 독립 연결자
-
-Date:
-- CY 747-12-11 to 12-13.
-
-Goal:
-- publish final connector readiness without manufacturing perfect equality.
-
-Among 43 patterns:
-- 32 independently qualified;
-- 9 limited/supervised;
-- 2 retired or not operational by current choice/capacity;
-- total 43.
-
-Independent composer capacity:
-- six cells can compose multi-node named packages;
-- twelve institutions can operate their specific authority fields;
-- AI/community and mixed-team patterns retain separate mandates;
-- no one cell recombines all fields.
-
-Decision:
-- end the transition training authority and move certification to ordinary institutions.
-
-Reward:
-- Rian is no longer indispensable for routine or most regional crises.
-
-Cost:
-- no non-Rian cell has his full wartime experience.
-
-Hook:
-- craft-title ledgers test whether material power is equally distributed.
+By E1086:
+- no standing central command or operable master key exists;
+- 17 modules are already distributed/retired as `12 + 3 + 1 + 1`;
+- connector patterns are `32 independent + 9 limited + 2 retired/not operational`;
+- 파루스 and 07 have entered their independently held public-service/training end states;
+- Rian still retains the final remnant of exclusive future-index access until E1088.
 
 ---
 
-# Episode 1087 — 백세 척의 마지막 귀환표
+# Episode 1086 — 함대를 가진 사람이 없는 함대
 
 Date:
-- CY 747-12-14 to 12-16.
+- CY 748-06-19 to 06-25.
 
 Goal:
-- finalize the earlier 103 enclave craft review.
+- execute M-017's Common Fleet ownership transfer without replacing central command with a protagonist fleet.
 
-Final 103:
-- 38 returned to verified prior/local title;
-- 31 remain in time-limited crew/service trusts with ordinary renewal rules;
-- 27 completed or approved demilitarized service conversion;
-- 7 sealed, unsafe or still disputed under neutral/claims custody;
-- total 103.
+Action:
+- remaining Common Fleet formations sign regional, mission-specific and recall/exit compacts;
+- crew, local-security and mission mandates are separated from hull possession;
+- formation commanders retain current operational responsibility instead of becoming Rian delegates by default.
 
 Decision:
-- no residual transition or Rian title.
+- no permanent theater command, personal fleet or automatic recall right belongs to Rian;
+- cross-regional defense continues through named missions, threat warning, rescue/surrender/parole rules and compact-specific support.
 
 Reward:
-- most craft receive current lawful homes.
+- shared defense survives the end of central military ownership.
 
 Cost:
-- seven hulls remain unresolved or unusable.
+- readiness, repair, recall and ammunition support remain fragmented; future coordinated response requires negotiation.
 
 Hook:
-- 195 later hardliner craft require a separate ledger.
+- route and denial keys are still capable of recreating monopoly even without a single fleet commander.
 
 ---
 
-# Episode 1088 — 패배한 중앙함대의 함선을 나누다
+# Episode 1087 — 항로의 열쇠를 한 사람에게 돌려주지 않는다
 
 Date:
-- CY 747-12-17 to 12-20.
+- CY 748-06-26 to 07-01.
 
 Goal:
-- resolve 104 surrendered/grounded and 91 temporary/local hardliner craft without prize acquisition.
+- execute M-017's route/denial-key transfer and close the route/node collection as current institutions rather than a Haren/Rian inheritance.
 
-Final 195:
-- 72 local title/defense custody after crew and node mandate;
-- 48 crew/service trusts;
-- 36 demilitarized service conversions;
-- 21 neutral/claims custody;
-- 18 sealed, dismantled or unusable;
-- total 195.
+Placement:
+- Haren-era route/service ledgers become current service commons with privacy and affected correction;
+- joint-trust node rights remain local trusts;
+- route-opening/denial functions use regional multi-key custody, expiry and affected-region standing;
+- Orpheus relief records remain in disaster-response institutions rather than command prestige archives.
 
 Decision:
-- coalition receives no automatic fleet increase.
+- no Haren, Rian or federation office receives a personal master route key;
+- Haren's permanent unilateral denial/master-key prohibition remains unchanged.
 
 Reward:
-- material authority follows crews, local mandates and safety.
+- route authority survives as bounded procedures, local mandates and reciprocal obligations.
 
 Cost:
-- fragmented repair and defense capacity remains.
+- decisions are slower, some corridors remain unequal, and no one can guarantee a single optimized route outcome.
 
 Hook:
-- the 47 escaped/dispersed craft need ordinary-law status rather than campaign accounting.
+- the last truly singular control surface is inside Rian's own future-index relationship.
 
 ---
 
-# Episode 1089 — 사라진 마흔일곱 척
+# Episode 1088 — 미래를 찾는 마지막 창을 닫다
 
 Date:
-- CY 747-12-21 to 12-23.
+- CY 748-07-02 to 07-07.
 
 Goal:
-- close the escaped/dispersed ledger without claiming total capture.
+- execute M-001/M-017 and [[rian-index-removal-memory-and-medical-state-v1]] final exclusive-index removal.
 
-State:
-- 18 surrender, localize or enter ordinary review;
-- 17 remain outside as criminal, mercenary, refugee or local actors under separate current law;
-- 12 missing/unresolved;
-- total 47.
+Physical/medical action:
+- the remaining exclusive future-index interface is physically removed/split while distributed regional systems are already operating;
+- no secret recoverable master copy or personal backdoor is retained;
+- medical limits on high-load synchronization and future piloting remain binding.
+
+Credential action:
+- Rian's personal activation credential expires and is not transferable;
+- learned command/piloting qualifications remain ordinary, revocable professional qualifications;
+- private memories remain his, but ranked master-query access does not.
+
+Permanent losses completed here:
+- exact original-Orpheus casualty index access;
+- stable Thirteen-Hero rank/roster query;
+- remaining master Seed/failure-tree query;
+- precise future death/disappearance dates for current core people;
+- any path to repeatable regression/master correction remains unusable.
 
 Decision:
-- no permanent enemy identity inherited from former fleet status.
+- Rian accepts that present institutions may choose slower or different answers he cannot pre-rank.
 
 Reward:
-- war ledger converts into ordinary legal and local processes.
+- no embodied human curator can silently become the safest permanent master operator.
 
 Cost:
-- twelve craft remain a future safety uncertainty.
+- uncertainty, memory/index gaps and reduced command convenience are permanent; no later cure restores them.
 
 Hook:
-- restitution must include both earlier claims and final-front losses.
+- archive and Seed evidence now must survive without his private complete query path.
+
+---
+
+# Episode 1089 — 기록을 나누고 방법만 남기다
+
+Date:
+- CY 748-07-08 to 07-13.
+
+Goal:
+- execute M-017's final Archive/Seed mirror distribution and preserve useful methods without a master copy.
+
+Archive/accountability placement:
+- Blood Admiral/D4 findings remain layered public/protected/sealed evidence;
+- private current lives and household data are not made public merely for historical completeness;
+- Seed/Perfect Route performance, failures and omission histories remain available through plural provenance and originating-community/current-person rules;
+- Archive/current-status translators remain separate from final historical truth authority.
+
+Methods institution:
+- `Distributed Continuity Methods Commons` preserves dependency models, package comparison, omission/error audits, benchmarks and training methods;
+- it has no command, credential, deletion or fused current-status authority;
+- Aven may contribute only through an ordinary reviewable appointment with no founder veto or proprietary custody.
+
+Decision:
+- useful knowledge is retained while source custody, current-person consent and execution authority remain separated.
+
+Reward:
+- the system can learn from central expertise without rebuilding central sovereignty.
+
+Cost:
+- fragmented data access lowers some analytical performance and leaves genuine historical gaps.
+
+Hook:
+- now that objects and institutions have owners/custodians, the ending must address claims and history—and prove the system works in a current crisis without Rian.
 
 ---
 
 # Episode 1090 — 사만오천팔백 개의 청구
 
 Date:
-- CY 747-12-24 to 12-27.
+- CY 748-07-14 to 07-17.
 
 Goal:
-- consolidate restitution without erasing individual causation.
+- close the main-story restitution ledger without pretending every causal dispute or injury can be completed before the epilogue.
 
-Files:
-- prior priority register 28,600;
-- final-front and later return claims 17,200;
-- consolidated distinct claimant files 45,800.
+Consolidated distinct claimant files:
+- prior priority register: 28,600;
+- final-front/later return claims: 17,200;
+- total: 45,800.
 
-Disposition:
+Disposition at main-story close:
 - 27,400 completed awards/restorations;
 - 11,600 structured ongoing plans;
 - 6,800 contested, missing-evidence or unresolved-causation files;
 - total 45,800.
 
+History/accountability rule:
+- Orpheus, Blood Admiral, administrative closure, forced synchronization and transition harms remain causally separated where evidence permits;
+- benefit in one field never cancels another person's valid claim;
+- incomplete history does not erase current standing.
+
 Decision:
-- unresolved claims survive the series ending under ordinary institutions.
+- unresolved claims survive under ordinary institutions rather than being administratively closed for a clean ending.
 
 Reward:
-- restitution becomes durable work rather than a final ceremonial payment.
+- restitution becomes durable work with named causes and current claimants.
 
 Cost:
-- not every claimant receives closure.
+- 18,400 files are still ongoing or contested; no universal reconciliation exists.
 
 Hook:
-- Seed, Perfect Route and Aven’s expertise require a final noncustodial institution.
+- before histories can be taught, the distributed institutions face a current four-node service crisis with no Rian command fallback.
 
 ---
 
-# Episode 1091 — 지식을 소유하지 않는 연구소
+# Episode 1091 — 제독을 부르지 않는 위기
 
 Date:
-- CY 747-12-28 to 12-30.
+- CY 748-07-18 to 07-20.
 
 Goal:
-- preserve useful central knowledge without restoring fused authority.
-
-Institution:
-- `Distributed Continuity Methods Commons`.
-
-Custody:
-- dependency models;
-- package comparison;
-- omission/error audits;
-- performance benchmarks;
-- open training materials;
-- protected data under originating community/current-person rules.
-
-Governance:
-- public technical institutions;
-- AI/community seats;
-- affected/service representatives;
-- local/Neutral audit;
-- no command, credential or deletion authority.
-
-Aven:
-- contributes and may serve under ordinary reviewed appointment;
-- no founder veto or proprietary custody.
-
-Reward:
-- useful Seed/Perfect Route knowledge survives.
-
-Cost:
-- fragmented data access reduces some model performance.
-
-Hook:
-- an ordinary four-node crisis begins before the final institutional review.
-
----
-
-# Episode 1092 — 제독을 부르지 않는 위기
-
-Date:
-- CY 748-01-02 to 01-03.
-
-Goal:
-- initiate a real crisis without Rian or a master key.
+- begin the final real no-Rian proof under ordinary distributed institutions.
 
 Crisis:
-- relay failure, medical receiving shortage, food/filter delay and forged service credentials across four nodes;
-- 1.36m people potentially affected.
+- relay failure;
+- medical receiving shortage;
+- food/filter delay;
+- forged service credentials across four nodes;
+- up to 1.36m people potentially affected.
 
-Response:
+Response owners:
 - six independent composer cells;
 - local physical/medical authorities;
 - two service/affected councils;
@@ -232,51 +212,101 @@ Response:
 
 Rian:
 - not called into command or reserve;
-- receives ordinary public information only.
+- receives ordinary public information only;
+- cannot reactivate a master query.
 
 Decision:
-- distributed institutions activate named reciprocal procedures.
+- distributed institutions activate named reciprocal procedures and accept that no one actor can instantly optimize every priority.
 
 Reward:
-- final proof begins under real uncertainty.
+- the final proof tests actual institutions rather than a staged demonstration.
 
 Cost:
-- no single actor can instantly resolve conflicting priorities.
+- response begins with delay, disagreement and imperfect information.
 
 Hook:
-- one cell proposes broad credential suspension and is stopped by the separated gateways.
+- one cell proposes suspending 22,000 uncertain credentials to protect the network.
 
 ---
 
-# Episode 1093 — 같은 오류를 반복하지 않는 법
+# Episode 1092 — 기록을 하나로 만들지 않고 사람을 살리는 법
 
 Date:
-- CY 748-01-03 to 01-04.
+- CY 748-07-21 to 07-23.
 
 Goal:
-- test whether institutional memory changes current decisions.
+- execute M-008/M-020 final history/current-status payoff inside the live crisis.
 
 Proposal:
-- suspend 22,000 uncertain credentials to protect service networks.
+- broad suspension of 22,000 uncertain credentials.
 
 Response:
 - current-standing and local gateways reject broad action;
 - 4,100 named current-risk restrictions;
 - 3,600 expedited checks;
-- AI/community and mobile proofs retained;
-- no culture or technology-value ranking.
+- AI/community/mobile proofs remain valid where current provenance supports them;
+- 280 legitimate actions are delayed;
+- 264 are corrected before material harm;
+- 16 require manual follow-up;
+- hostile access remains open 27 minutes longer than the broad-suspension option.
 
-Outcome:
-- forged cluster isolated;
-- 280 legitimate actions delayed;
-- 264 corrected before material harm;
-- 16 require manual follow-up.
+Archive/current-status action:
+- plural archives and translators make identity/benefit/route status interoperable for the current emergency;
+- incompatible historical accounts are **not** merged into one canonical record.
+
+Decision:
+- current service and risk decisions use bounded provenance, appeal and local stops rather than historical totalization.
 
 Reward:
-- lessons from D4, Seed and Perfect Route operate without one moral hero.
+- lessons from D4, Archive, Seed and Perfect Route change a current decision without one moral hero or master history.
 
 Cost:
-- hostile access remains open twenty-seven minutes longer.
+- security exposure lasts longer and the system keeps 16 unresolved current cases instead of hiding them behind one mass classification.
+
+Hook:
+- the six composer cells still disagree about the physical service package, and one proposed hull plan exceeds current local limits.
+
+---
+
+# Episode 1093 — 여섯 작곡셀과 멈춘 함선
+
+Date:
+- CY 748-07-24 to 07-26.
+
+Goal:
+- resolve competing service packages through separated decision ownership and prove that local refusal can correct the distributed system.
+
+Composer work:
+- two cells compose medical/service packages;
+- two compose route/repair sequences;
+- one coordinates outsider carriers;
+- one maintains rollback/divergence plans;
+- affected councils select current minimums;
+- local authorities retain physical/medical stops.
+
+Initial mixed result:
+- two nodes stabilize quickly;
+- one remains partial;
+- one requires outside bilateral support.
+
+Critical stop:
+- a composed package sends an overloaded service hull toward the partial node;
+- its captain and local engineer refuse launch;
+- medical authority confirms the receiving limit;
+- composer cells reallocate smaller craft instead of overriding them.
+
+Outcome:
+- service arrives 74 minutes later;
+- no hull is lost;
+- 8,600 people remain partial longer;
+- 12 serious condition-worsened cases are recorded;
+- no disciplinary retaliation follows the lawful stop.
+
+Reward:
+- ordinary current actors correct the system in the moment where a centralized optimizer would be most tempting.
+
+Cost:
+- the slower answer produces real harm and no hypothetical Rian benchmark can erase those claims.
 
 Final hook:
-- E1094 resolves the ordinary crisis and closes the final service/death ledgers.
+- outside carriers must decide whether to accept the slower plan, while a regional route assembly prepares the final legal separation of Haren's name from the Blood Admiral myth.
