@@ -31,6 +31,7 @@ DOMAIN_HUBS = [
 
 ACT_LETTERS = "abcd"
 WIKI_RE = re.compile(r"\[\[([^\]|#]+)")
+DETAIL_PRODUCTION_INDEX = "episodes-101-1100-detail-production-standard-and-batch-map-v1"
 
 
 def text(path: Path) -> str:
@@ -76,6 +77,42 @@ def collection_source(ga: int) -> str:
     return f"ga{ga}-collection-registry-v1"
 
 
+def ordered_subacts() -> list[str]:
+    return [
+        f"graph-ga{ga:02d}-subact-{a}{n}"
+        for ga in range(1, 11)
+        for a in ACT_LETTERS
+        for n in range(1, 5)
+    ]
+
+
+def validate_graph_link_targets(errors: list[str]) -> None:
+    """Fail when a graph note points at a wiki target that does not exist in the repo.
+
+    This resolves either an explicit repo-relative path or a unique Markdown stem.
+    Ambiguous stems are accepted because the repository's canonical wiki-link lint owns
+    ambiguity detection globally; this validator only catches missing graph targets.
+    """
+
+    markdown = list(ROOT.rglob("*.md"))
+    stems: dict[str, list[Path]] = {}
+    for p in markdown:
+        stems.setdefault(p.stem, []).append(p)
+
+    for graph_note in GRAPH.rglob("*.md"):
+        for target in wiki_targets(text(graph_note)):
+            if "/" in target:
+                candidate = ROOT / f"{target}.md"
+                if not candidate.exists():
+                    errors.append(
+                        f"BROKEN PATH LINK: {graph_note.relative_to(ROOT)} -> [[{target}]]"
+                    )
+            elif target not in stems:
+                errors.append(
+                    f"BROKEN WIKI LINK: {graph_note.relative_to(ROOT)} -> [[{target}]]"
+                )
+
+
 def main() -> int:
     errors: list[str] = []
 
@@ -94,6 +131,8 @@ def main() -> int:
         [f"graph-ga{ga:02d}-hub" for ga in range(1, 11)] + DOMAIN_HUBS,
     )
 
+    sequence = ordered_subacts()
+
     for ga in range(1, 11):
         ga_id = f"ga{ga:02d}"
         ga_hub = GRAPH / "ga" / f"graph-{ga_id}-hub.md"
@@ -105,19 +144,17 @@ def main() -> int:
         )
 
         state = GRAPH / "state" / f"graph-{ga_id}-state-spine.md"
-        check_contains(
-            errors,
-            state,
-            DOMAIN_HUBS
-            + [
-                ga_source(ga),
-                collection_source(ga),
-                "episode-briefs",
-                "context-pack-tangible-reader-memory-execution-spec-proposal-v1",
-                "ga1-10-state-checkpoint-matrix-v1",
-                "ga1-10-operational-checkpoint-snapshots-v1",
-            ],
-        )
+        state_required = DOMAIN_HUBS + [
+            ga_source(ga),
+            collection_source(ga),
+            "episode-briefs",
+            "context-pack-tangible-reader-memory-execution-spec-proposal-v1",
+            "ga1-10-state-checkpoint-matrix-v1",
+            "ga1-10-operational-checkpoint-snapshots-v1",
+        ]
+        if ga >= 2:
+            state_required.append(DETAIL_PRODUCTION_INDEX)
+        check_contains(errors, state, state_required)
 
         for a in ACT_LETTERS:
             act = GRAPH / "acts" / f"graph-{ga_id}-act-{a}.md"
@@ -133,7 +170,8 @@ def main() -> int:
             )
 
             for n in range(1, 5):
-                sub = GRAPH / "subacts" / f"graph-{ga_id}-subact-{a}{n}.md"
+                stem = f"graph-{ga_id}-subact-{a}{n}"
+                sub = GRAPH / "subacts" / f"{stem}.md"
                 check_contains(
                     errors,
                     sub,
@@ -153,6 +191,16 @@ def main() -> int:
                         ["ga10-ending-reconciliation-canon-amendment-2026-08-20"],
                     )
 
+                # The 160 Subact nodes form one chronological navigation chain.
+                idx = sequence.index(stem)
+                targets = wiki_targets(text(sub)) if sub.exists() else set()
+                if idx > 0 and sequence[idx - 1] not in targets:
+                    errors.append(f"PREVIOUS LINK MISSING: {stem} -> {sequence[idx - 1]}")
+                if idx < len(sequence) - 1 and sequence[idx + 1] not in targets:
+                    errors.append(f"NEXT LINK MISSING: {stem} -> {sequence[idx + 1]}")
+                if idx == len(sequence) - 1 and "story-graph-root" not in targets:
+                    errors.append("SERIES-END LINK MISSING: final Subact must return to story-graph-root")
+
     # Domain hubs must remain navigation-only and must all exist.
     for name in DOMAIN_HUBS:
         path = GRAPH / "state" / f"{name}.md"
@@ -162,6 +210,9 @@ def main() -> int:
         body = text(path)
         if "NOT A" not in body and "QC BRIDGE ONLY" not in body:
             errors.append(f"AUTHORITY GUARD MISSING: {path.relative_to(ROOT)}")
+
+    # Every graph wiki link must lead to a real Markdown node/source.
+    validate_graph_link_targets(errors)
 
     # Do not silently introduce the other project's Volume/60-Subact hierarchy.
     rules = text(GRAPH / "README.md")
@@ -181,6 +232,9 @@ def main() -> int:
     print("- subact hubs: 160")
     print("- GA state spines: 10")
     print("- domain state hubs: 11")
+    print("- chronological Subact chain: 160/160")
+    print("- GA2-GA10 episode-design index bridge: 9/9")
+    print("- graph wiki targets: all resolvable")
     print("- exact story facts remain source-owned; graph is navigation-only")
     return 0
 
