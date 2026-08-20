@@ -1,9 +1,75 @@
 #!/usr/bin/env python3
-"""Run deep writer activation while preserving the base activation function."""
+"""Run deep writer activation while preserving the base activation function.
+
+The runner also normalizes high-signal card labels that appear in later locked
+operation cards (`Independent decision`, `Decision process`, and combined
+`POV/decision owner(s)`). This prevents a participant/location line from being
+mistaken for the actual decision beat.
+"""
 
 import build_full_series_context_writer_activation as base
 
 _ORIGINAL_ACTIVATION = base.activation
+_ORIGINAL_SOURCE_DECISION = base.source_decision
+_ORIGINAL_SOURCE_POV = base.source_pov
+
+
+def enhanced_source_decision(card):
+    value = base.first(
+        card,
+        "independent decision",
+        "decision process",
+        "final decision",
+        "current decision",
+        "medical decision",
+        "technical decision",
+        "command decision",
+        "decisive choice",
+        "decision",
+        "choice",
+        "physical action",
+        "action",
+        "agency",
+        "authorized immediately",
+    )
+    if value:
+        return value, "SOURCE-EXPLICIT-DECISION"
+    value = base.source_block(
+        card,
+        (
+            "independent decision",
+            "decision process",
+            "final decision",
+            "current decision",
+            "decisive choice",
+            "decision",
+            "choice",
+            "physical action",
+            "action",
+            "agency",
+            "response",
+            "resolution",
+        ),
+    )
+    if value:
+        return value, "SOURCE-BLOCK-DECISION"
+    return None, "NON-DISCRETE"
+
+
+def enhanced_source_pov(card):
+    return base.first(
+        card,
+        "pov / decision owner",
+        "pov/decision owner",
+        "pov / decision owners",
+        "pov/decision owners",
+        "pov / information source",
+        "pov",
+    )
+
+
+base.source_decision = enhanced_source_decision
+base.source_pov = enhanced_source_pov
 
 import build_full_series_context_writer_activation_deep as deep  # noqa: E402
 
