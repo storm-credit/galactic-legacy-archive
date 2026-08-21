@@ -1125,8 +1125,8 @@ Rian, with Haren leading.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: ordinary students/workers contribute, refuse or attach conditions. one student asks whether the fund would protect someone accused against Rian too.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source-reviewed collective/institutional decision performer(s): ordinary students/workers
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-REVIEWED ROLE PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 ordinary students/workers contribute, refuse or attach conditions. one student asks whether the fund would protect someone accused against Rian too.
@@ -1155,7 +1155,7 @@ the necessary proof requires Serin to submit the audit trail that also documents
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=Ring B dining/recreation or memorial/community room.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-REVIEWED ROLE PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=Ring B dining/recreation or memorial/community room.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -3503,8 +3503,8 @@ Rian coordinating one layer, not all.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current medical/care authority together with patient/affected-party consent where applicable; identify the performer/signatory/refuser from this exact source decision beat: licensed clinicians invoke medical stop/custody. Neutral witness/corridor and public/process evidence make indiscriminate seizure costly. some consenting transfers continue; disputed blanket seizure stops.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source-reviewed collective/institutional decision performer(s): licensed clinicians
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-REVIEWED ROLE PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 licensed clinicians invoke medical stop/custody. Neutral witness/corridor and public/process evidence make indiscriminate seizure costly. some consenting transfers continue; disputed blanket seizure stops.
@@ -3533,7 +3533,7 @@ Academy Research/Helix/Imperial funding streams are suspended or withdrawn pendi
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 71.1 — Seizure/purge order] POV: Rian coordinating one layer, not all. Order objectives: secure ORA-3/continuity data. transfer protected patients/equipment … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-REVIEWED ROLE PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 71.1 — Seizure/purge order] POV: Rian coordinating one layer, not all. Order objectives: secure ORA-3/continuity data. transfer protected patients/equipment … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.

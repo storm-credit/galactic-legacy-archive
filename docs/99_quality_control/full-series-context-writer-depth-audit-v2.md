@@ -49,7 +49,7 @@ PASS conditions applied:
 - E503–E506: `CLAIM/OWNERSHIP/CUSTODY` × 4; owner/cost/carrier signatures=3; `PASS-DIFFERENTIATED`.
 - E521–E524: `ROUTE/LOGISTICS` × 4; owner/cost/carrier signatures=4; `PASS-DIFFERENTIATED`.
 - E540–E544: `TACTICAL-COMBAT` × 5; owner/cost/carrier signatures=5; `PASS-DIFFERENTIATED`.
-- E548–E554: `TACTICAL-COMBAT` × 7; owner/cost/carrier signatures=6; `PASS-DIFFERENTIATED`.
+- E548–E554: `TACTICAL-COMBAT` × 7; owner/cost/carrier signatures=7; `PASS-DIFFERENTIATED`.
 - E556–E559: `RESCUE/SERVICE` × 4; owner/cost/carrier signatures=3; `PASS-DIFFERENTIATED`.
 - E560–E563: `ROUTE/LOGISTICS` × 4; owner/cost/carrier signatures=4; `PASS-DIFFERENTIATED`.
 - E608–E612: `ROUTE/LOGISTICS` × 5; owner/cost/carrier signatures=4; `PASS-DIFFERENTIATED`.

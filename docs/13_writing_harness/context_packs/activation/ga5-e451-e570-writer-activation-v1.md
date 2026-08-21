@@ -5707,8 +5707,8 @@ Asel Varon and Lio Saren.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: Lio/current operators confirm inhabited loads and refuse the false evacuation; Asel shifts two escorts from pursuit to a concealed service-anchor defense; local worker tugs cut an armed recovery bridge; Asel’s formation traps the seizure group against a physically closed lane.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source-reviewed collective/institutional decision performer(s): Lio/current operators, Asel, and local worker tugs
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-REVIEWED ROLE PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Lio/current operators confirm inhabited loads and refuse the false evacuation; Asel shifts two escorts from pursuit to a concealed service-anchor defense; local worker tugs cut an armed recovery bridge; Asel’s formation traps the seizure group against a physically closed lane.
@@ -5737,7 +5737,7 @@ Vesper and Civilian Chain both request the same two-combat/four-support reserve.
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-09-09 through 09-13. campaign envelope: 40 combat + 34 support, 28 combat R2+ … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-REVIEWED ROLE PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] dates: CY 744-09-09 through 09-13. campaign envelope: 40 combat + 34 support, 28 combat R2+ … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.

@@ -5426,8 +5426,8 @@ WORKFLOW POV recommendation — select the already-present human/work carrier id
 **POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: after the already-completed 30-month public-route-office bar and ordinary affected-region process, Haren accepts the nonexecutive `피해지역·항로의무 조정위원` role; the role negotiates reparations/service obligations/claims and carries no route/fleet command or personal key.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source-reviewed collective/institutional decision performer(s): Haren
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-REVIEWED ROLE PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 after the already-completed 30-month public-route-office bar and ordinary affected-region process, Haren accepts the nonexecutive `피해지역·항로의무 조정위원` role; the role negotiates reparations/service obligations/claims and carries no route/fleet command or personal key.
@@ -5456,7 +5456,7 @@ the main story now has enough evidence to publish the final crisis/service ledge
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE HUMAN/WORK BLOCK; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared State at E1094 — shared source state] Four-node crisis: up to 1.36m people affected; no Rian command, reserve or master key … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-REVIEWED ROLE PERFORMER + SOURCE DECISION; human-route=SOURCE HUMAN/WORK BLOCK; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared State at E1094 — shared source state] Four-node crisis: up to 1.36m people affected; no Rian command, reserve or master key … [source continues]; cost-class=KNOWLEDGE/UNCERTAINTY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
