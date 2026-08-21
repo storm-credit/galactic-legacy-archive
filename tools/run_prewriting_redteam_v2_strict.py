@@ -5,7 +5,9 @@ The first discovery pass intentionally over-recalled candidates. This wrapper:
 - normalizes generated set-family labels before comparison;
 - narrows orphan attention to source threads with explicit episode/subact placement;
 - records two source-reviewed set-family exceptions where active-target domain
-  counts do not describe the actual reader reward/combination engine.
+  counts do not describe the actual reader reward/combination engine; and
+- excludes only explicitly reviewed secondary-support threads from the unresolved
+  high-value orphan queue.
 
 It changes audit interpretation only, not story canon or generated story facts.
 """
@@ -15,6 +17,7 @@ from __future__ import annotations
 import re
 
 import audit_prewriting_redteam_v2 as audit
+import collection_active_pursuit_reconciliation as pursuit
 
 _FAMILY = re.compile(r"\b(LINEAGE|EVENT|FUNCTIONAL|RELATIONSHIP|CIVILIZATION)\b")
 _ORIGINAL_PARSE_MAPS = audit.parse_maps
@@ -49,11 +52,14 @@ def set_family_mismatches_reviewed(rows, threads):
 
 
 def orphan_watch_strict(thread_rows):
-    """Flag only explicit, episode-addressable threads that never front-stage.
+    """Flag only explicit, episode-addressable unresolved front-stage promises.
 
     `ARC_WIDE_OR_UNSPECIFIED` rows are support/ledger architecture by design and
     cannot be called orphaned reader promises merely because they are not one of
-    the 1–5 front-stage targets of a subact.
+    the 1–5 front-stage targets of a subact. The three IDs in
+    `ACCEPTED_SECONDARY_ORPHANS` were manually checked against the source Active
+    Pursuit window and are deliberately support evidence/tools rather than a
+    separate reader quest.
     """
     orphans = []
     high = []
@@ -65,6 +71,9 @@ def orphan_watch_strict(thread_rows):
         if selected:
             continue
         orphans.append(row)
+
+        if row.get("collection_thread_id") in pursuit.ACCEPTED_SECONDARY_ORPHANS:
+            continue
 
         explicit_subacts = (row.get("explicit_subacts") or "").strip()
         if not explicit_subacts or explicit_subacts == "ARC_WIDE_OR_UNSPECIFIED":
