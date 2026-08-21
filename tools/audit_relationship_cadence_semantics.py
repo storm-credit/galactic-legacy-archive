@@ -29,13 +29,13 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "docs" / "99_quality_control" / "relationship-cadence-semantic-redteam-v1.md"
 
 MIXED_HUMAN_PRESSURE = {
-    ("GA1", "B1"),   # Ern/current rescue/claim contact
-    ("GA1", "B2"),   # Juno/Serin trust, complicity, refusal
-    ("GA1", "C1"),   # imitators/patients/family grievance + no-forgiveness guard
-    ("GA2", "2C-4"), # community separation, broken relations, Haren accountability
-    ("GA4", "4A-3"), # direct access/relationship with competing claimants
-    ("GA5", "5C-3"), # negotiation with main rejecter/counterpart relationship
-    ("GA10", "10D-3"), # plural histories + core actors; E1095 explicit final relationship rule
+    ("GA1", "B1"),
+    ("GA1", "B2"),
+    ("GA1", "C1"),
+    ("GA2", "2C-4"),
+    ("GA4", "4A-3"),
+    ("GA5", "5C-3"),
+    ("GA10", "10D-3"),
 }
 
 EXPECTED = {
@@ -56,10 +56,6 @@ EXPECTED = {
 }
 assert len(EXPECTED) == 38
 
-# These are not emotions. They are exact load-bearing anti-restoration locks
-# sourced from the approved episode design + Named Loss ledger and already
-# covered by the load-bearing manual red-team. Keep the exemption narrow:
-# episode AND authority string must both match.
 LOAD_BEARING_NON_EMOTIONAL_LOCKS = {
     841: (
         "L-R02 LOCKED IRREVERSIBLE PERSON-STATE LOSS",
@@ -70,6 +66,9 @@ LOAD_BEARING_NON_EMOTIONAL_LOCKS = {
         "Nacre-3/custodian record-loss state: later provenance may survive, but the lost whole cannot be reconstructed; this is absence continuity, not emotion.",
     ),
 }
+# Fail closed if this exception set is ever widened casually. Any additional
+# episode must first be reconciled against the higher-authority loss/state ledger.
+assert set(LOAD_BEARING_NON_EMOTIONAL_LOCKS) == {841, 889}
 
 
 def build_report() -> str:
@@ -90,11 +89,6 @@ def build_report() -> str:
     for row, eps, none_eps, explicit_eps, share in watches:
         key = (row["arc"], row["code"])
         category = "MIXED HUMAN + INSTITUTIONAL PRESSURE" if key in MIXED_HUMAN_PRESSURE else "INSTITUTIONAL / RIGHTS / CONSENT RELATIONSHIP"
-
-        # Any non-NONE delta inside the watched range must be source-explicit,
-        # unless it is one of the exact ledger-backed non-emotional loss/state
-        # locks above. Workflow-invented emotion is never an acceptable way to
-        # reduce the NONE rate.
         bad_non_none = []
         display_non_none = []
         for ep in eps:
