@@ -13,15 +13,15 @@ Publication: NOT AUTHORIZED
 - `PRIMARY_SET_TYPE`: `CIVILIZATION` — 문명 복원 세트
 - `SECONDARY_SET_TYPES`: `EVENT, FUNCTIONAL, RELATIONSHIP`
 - `MATCH_DEPTH`: `A-DIRECT`
-- `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
+- `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
 - `FRONT_DOMAINS`: C7 세력·제도, C8 영토·노드·문명
-- `READER_DESIRE_MAIN`: first RS-1/RS-2 handoff suffers authentication, payroll, hospital, route or elite-capture failure/attack. → immediate collapse stopped.
-- `DISCOVERY`: first RS-1/RS-2 handoff suffers authentication, payroll, hospital, route or elite-capture failure/attack.
-- `ACQUISITION_OR_CONNECTION`: immediate collapse stopped.
-- `SYNERGY_OR_USE`: immediate collapse stopped.
-- `COST_REFUSAL_OR_LOSS`: one irreversible death/loss and public proof that P-001 central control is safer.
-- `SET_ADVANCE_CONDITION`: immediate collapse stopped.
-- `NEXT_DESIRE`: transition region demands local ownership of correction rather than another central takeover.
+- `READER_DESIRE_MAIN`: the first handoff can fail through incomplete local staff/training, hidden central dependency or backdoor, local exploitation, hostile/hardliner attack and schedule pressure; the failure must be identified while authentication, payroll, hospital and route services are collapsing. → stop the immediate mass-service collapse with a temporary bounded central correction whose expiration and trace are explicit, without cancelling the handoff or converting emergency use back into permanent central ownership.
+- `DISCOVERY`: the first handoff can fail through incomplete local staff/training, hidden central dependency or backdoor, local exploitation, hostile/hardliner attack and schedule pressure; the failure must be identified while authentication, payroll, hospital and route services are collapsing.
+- `ACQUISITION_OR_CONNECTION`: stop the immediate mass-service collapse with a temporary bounded central correction whose expiration and trace are explicit, without cancelling the handoff or converting emergency use back into permanent central ownership.
+- `SYNERGY_OR_USE`: the bounded correction preserves named people/services long enough for the failure cause to become usable evidence, while its trace/expiration makes the next local correction possible instead of hiding dependency behind another central takeover.
+- `COST_REFUSAL_OR_LOSS`: one irreversible death/loss remains, and the successful emergency override publicly strengthens the argument that P-001's central control is safer.
+- `SET_ADVANCE_CONDITION`: the bounded correction preserves named people/services long enough for the failure cause to become usable evidence, while its trace/expiration makes the next local correction possible instead of hiding dependency behind another central takeover.
+- `NEXT_DESIRE`: the transition region demands local ownership of the correction rather than another central takeover.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음
 - `ACTIVE_TARGETS`:
   - `CLT-GA10-G10-A01` / `G10-A01` / First Handoff Region — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=113

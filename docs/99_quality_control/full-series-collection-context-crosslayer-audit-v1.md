@@ -9,7 +9,7 @@ Publication: NOT AUTHORIZED
 - E011–E1100 episodes without exactly one CLSET range: **0**
 - E011–E1100 episodes in overlapping CLSET ranges: **0**
 - hard bridge failures: **0**
-- semantic exit-hook lexical WATCH: **92** (review aid; not automatic canon failure)
+- semantic exit-hook lexical WATCH: **91** (review aid; not automatic canon failure)
 
 ## Hard failure queue
 
@@ -108,7 +108,6 @@ Publication: NOT AUTHORIZED
 - GA9 9C-2 E962: NEXT_DESIRE ↔ exit hook lexical overlap 0
 - GA9 9C-3 E969: NEXT_DESIRE ↔ exit hook lexical overlap 0
 - GA9 9D-3 E995: NEXT_DESIRE ↔ exit hook lexical overlap 0
-- GA9 9D-4 E1000: NEXT_DESIRE ↔ exit hook lexical overlap 0
 
 ## Writer bridge table
 
@@ -130,7 +129,7 @@ Publication: NOT AUTHORIZED
 | GA1 D2 | E79–E84 | `CLSET-GA1-D2` | E79–E84 (6) | Imperial, Helix, Independence, Neutral and internal/hybrid packages each provide real benefits while imposing different control, capacity and exit li… | Imperial package understood and Darin autonomy protected. | six fronts activate, and one central command network begins issuing conflicting orders. |
 | GA1 D3 | E85–E92 | `CLSET-GA1-D3` | E85–E92 (8) | six simultaneous fronts prove that the academy cannot save every zone, person, record and asset under separate claims and time limits. → keep enough … | siege fronts/authority clarified; one forced transfer route slowed. | Rian enters the command path with enough authority to save the school—or own it. |
 | GA1 D4 | E93–E100 | `CLSET-GA1-D4` | E93–E100 (8) | central authority can save lives faster, but keeping it would turn emergency success into permanent control over people, records and assets. → stop t… | central key and immediate lives saved. | the obsolete hull record displays a sister-ship salvage entry carrying an impossible service-key signature. Rian understands the school survived by b… |
-| GA10 10A-1 | E1001–E1006 | `CLSET-GA10-10A-1` | E1001–E1006 (6) | first RS-1/RS-2 handoff suffers authentication, payroll, hospital, route or elite-capture failure/attack. → immediate collapse stopped. | emergency authority receives a visible end date. | the first node power crisis tests whether module custody can operate without Rian composing every step. |
+| GA10 10A-1 | E1001–E1006 | `CLSET-GA10-10A-1` | E1001–E1006 (6) | the first handoff can fail through incomplete local staff/training, hidden central dependency or backdoor, local exploitation, hostile/hardliner atta… | emergency authority receives a visible end date. | the first node power crisis tests whether module custody can operate without Rian composing every step. |
 | GA10 10A-2 | E1007–E1012 | `CLSET-GA10-10A-2` | E1007–E1012 (6) | correct the failure locally instead of cancelling handoff. → local service/current-status system resumes under corrected plural/hybrid authority. | Rian is no longer the only demonstrated composer. | node-by-node local return plans expose unequal readiness. |
 | GA10 10A-3 | E1013–E1019 | `CLSET-GA10-10A-3` | E1013–E1019 (7) | disclose/inventory real dependencies and readiness by function/region. → public transition map, readiness bands and failure thresholds. | authority begins moving to named places. | the disputed review registry raises the question of who audits the auditors. |
 | GA10 10A-4 | E1020–E1025 | `CLSET-GA10-10A-4` | E1020–E1025 (6) | establish regional choice/readiness/obligation process. → Transition Convention and first region-specific compacts. | no single institution owns the authority to declare every other key valid. | E1026 begins when several communities ask not for faster distribution but for continued central stability, forcing opt-in, opt-out and delayed-return… |

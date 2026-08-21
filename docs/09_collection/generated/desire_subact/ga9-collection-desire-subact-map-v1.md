@@ -355,7 +355,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: P-001 refuses permanent/indefinite central ownership and orders/prepares staged distribution, while acknowledging he must temporarily stabilize the handoff.
 - `COST_REFUSAL_OR_LOSS`: supporters/officials/fleets resist; opportunists attack; service risks become immediate.
 - `SET_ADVANCE_CONDITION`: P-001 refuses permanent/indefinite central ownership and orders/prepares staged distribution, while acknowledging he must temporarily stabilize the handoff.
-- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — first RS-1/RS-2 handoff suffers authentication, payroll, hospital, route or elite-capture failure/attack. → immediate collapse stopped.
+- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — the first handoff can fail through incomplete local staff/training, hidden central dependency or backdoor, local exploitation, hostile/hardliner attack and schedule pressure; the failure must be identified while authentication, payroll, hospital and route services are collapsing. → stop the immediate mass-service collapse with a temporary bounded central correction whose expiration and trace are explicit, without cancelling the handoff or converting emergency use back into permanent central ownership.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지
 - `ACTIVE_TARGETS`:
   - `CLT-GA9-G9-R09` / `G9-R09` / Seed/Service Continuity Handoff Requirements — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121

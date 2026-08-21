@@ -6,7 +6,7 @@ Publication: NOT AUTHORIZED
 
 - subacts scanned: **160 / 160**
 - writer-unusable semantic fields: **0**
-- concise readable fields WATCH: **3**
+- concise readable fields WATCH: **0**
 
 ## Finding queue
 
@@ -14,9 +14,7 @@ Publication: NOT AUTHORIZED
 
 ## Concise-field WATCH
 
-- `GA10 10A-1` `ACQUISITION_OR_CONNECTION` — `immediate collapse stopped.`
-- `GA10 10A-1` `SYNERGY_OR_USE` — `immediate collapse stopped.`
-- `GA10 10A-1` `SET_ADVANCE_CONDITION` — `immediate collapse stopped.`
+- NONE
 
 ## Gate
 
