@@ -8,6 +8,11 @@ on:
       - 'tools/audit_prewriting_redteam_v2.py'
       - 'tools/run_prewriting_redteam_v2_strict.py'
       - 'tools/audit_relationship_activation_source_labels.py'
+      - 'tools/relationship_secondary_label_reconciliation.py'
+      - 'tools/audit_relationship_cadence_semantics.py'
+      - 'tools/decision_owner_role_reconciliation.py'
+      - 'tools/audit_decision_owner_role_reconciliation.py'
+      - 'tools/audit_long_window_engine_differentiation.py'
       - 'tools/audit_collection_active_pursuit_reconciliation.py'
       - 'tools/collection_active_pursuit_reconciliation.py'
       - 'tools/run_full_series_context_writer_activation*.py'
@@ -24,6 +29,11 @@ on:
       - 'tools/audit_prewriting_redteam_v2.py'
       - 'tools/run_prewriting_redteam_v2_strict.py'
       - 'tools/audit_relationship_activation_source_labels.py'
+      - 'tools/relationship_secondary_label_reconciliation.py'
+      - 'tools/audit_relationship_cadence_semantics.py'
+      - 'tools/decision_owner_role_reconciliation.py'
+      - 'tools/audit_decision_owner_role_reconciliation.py'
+      - 'tools/audit_long_window_engine_differentiation.py'
       - 'tools/audit_collection_active_pursuit_reconciliation.py'
       - 'tools/collection_active_pursuit_reconciliation.py'
       - 'tools/run_full_series_context_writer_activation*.py'
@@ -63,28 +73,52 @@ jobs:
           python tools/audit_collection_active_pursuit_reconciliation.py --check
           grep -q 'Status: PASS — EXECUTION QC' docs/99_quality_control/collection-active-pursuit-crosslayer-redteam-v1.md
 
+      - name: Audit source-role decision-owner reconciliation
+        run: |
+          python tools/audit_decision_owner_role_reconciliation.py
+          python tools/audit_decision_owner_role_reconciliation.py --check
+          grep -q 'full 50-row role-owner WATCH resolution: \*\*PASS\*\*' docs/99_quality_control/decision-owner-role-reconciliation-redteam-v1.md
+
       - name: Run strict second-pass hostile audit
         run: |
           python tools/run_prewriting_redteam_v2_strict.py
           python tools/run_prewriting_redteam_v2_strict.py --check
-          grep -q 'Status: PASS-WITH-WATCH' docs/99_quality_control/prewriting-execution-redteam-v2-audit.md
+          grep -q 'source-named/code performer recoverable from decision sentence: \*\*0\*\*' docs/99_quality_control/prewriting-execution-redteam-v2-audit.md
+          grep -q 'concrete source-role performer recoverable: \*\*0\*\*' docs/99_quality_control/prewriting-execution-redteam-v2-audit.md
+          grep -q 'high-value orphan WATCH: \*\*0\*\*' docs/99_quality_control/prewriting-execution-redteam-v2-audit.md
 
       - name: Audit explicit relationship source-label routing
         run: |
           python tools/audit_relationship_activation_source_labels.py
           python tools/audit_relationship_activation_source_labels.py --check
-          grep -q 'explicit relationship/emotion/character-state labels missed while activation=NONE: \*\*0\*\*' docs/99_quality_control/relationship-activation-source-label-audit-v1.md
+          grep -q 'Status: PASS — EXECUTION QC' docs/99_quality_control/relationship-activation-source-label-audit-v1.md
+          grep -q 'unresolved secondary trust/standing label WATCH: \*\*0\*\*' docs/99_quality_control/relationship-activation-source-label-audit-v1.md
+
+      - name: Resolve relationship-cadence semantics
+        run: |
+          python tools/audit_relationship_cadence_semantics.py
+          python tools/audit_relationship_cadence_semantics.py --check
+          grep -q 'Status: PASS — EXECUTION QC' docs/99_quality_control/relationship-cadence-semantic-redteam-v1.md
+
+      - name: Resolve long-window narrative-engine concentration
+        run: |
+          python tools/audit_long_window_engine_differentiation.py
+          python tools/audit_long_window_engine_differentiation.py --check
+          grep -q 'Status: PASS — EXECUTION QC' docs/99_quality_control/long-window-narrative-engine-differentiation-redteam-v1.md
+          grep -q 'unresolved repetitive-engine windows: \*\*0\*\*' docs/99_quality_control/long-window-narrative-engine-differentiation-redteam-v1.md
 
       - name: Show red-team summary
         run: |
           sed -n '1,180p' docs/99_quality_control/prewriting-execution-redteam-v2-audit.md
-          sed -n '1,180p' docs/99_quality_control/collection-active-pursuit-crosslayer-redteam-v1.md
+          sed -n '1,160p' docs/99_quality_control/decision-owner-role-reconciliation-redteam-v1.md
+          sed -n '1,180p' docs/99_quality_control/relationship-cadence-semantic-redteam-v1.md
+          sed -n '1,220p' docs/99_quality_control/long-window-narrative-engine-differentiation-redteam-v1.md
           sed -n '1,120p' docs/99_quality_control/relationship-activation-source-label-audit-v1.md
 
       - name: Persist audit reports on branch push
         if: github.event_name == 'push'
         run: |
-          TARGETS='docs/99_quality_control/prewriting-execution-redteam-v2-audit.md docs/99_quality_control/relationship-activation-source-label-audit-v1.md docs/99_quality_control/collection-active-pursuit-crosslayer-redteam-v1.md'
+          TARGETS='docs/99_quality_control/prewriting-execution-redteam-v2-audit.md docs/99_quality_control/relationship-activation-source-label-audit-v1.md docs/99_quality_control/collection-active-pursuit-crosslayer-redteam-v1.md docs/99_quality_control/decision-owner-role-reconciliation-redteam-v1.md docs/99_quality_control/relationship-cadence-semantic-redteam-v1.md docs/99_quality_control/long-window-narrative-engine-differentiation-redteam-v1.md'
           if git diff --quiet -- $TARGETS; then
             echo 'audit reports already current'
             exit 0
