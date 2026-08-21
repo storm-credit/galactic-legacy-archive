@@ -5,6 +5,8 @@ This wrapper changes workflow/QC routing only.
 - POV never creates decision authority.
 - If an exact source decision sentence begins with a named/code performer, retain
   that source performer rather than an anonymous bounded role.
+- If the second-pass role queue was manually reviewed and the source itself
+  writes a collective/institutional performer, retain that exact role actor.
 - If the episode card explicitly labels a relationship/character-state rule,
   carry that exact source text into the relationship execution slot instead of
   rendering a false NONE.
@@ -17,6 +19,7 @@ from __future__ import annotations
 import re
 
 import build_full_series_context_writer_activation as base
+import decision_owner_role_reconciliation as role_review
 
 VERBS = (
     "keeps", "keep", "maps", "map", "orders", "order", "chooses", "choose",
@@ -105,6 +108,14 @@ def owner_route_no_pov_fallback(card, engine, decision, pov):
                 "source decision performer/authority actor(s): " + performer,
                 "SOURCE-DECISION-PERFORMER + SOURCE DECISION",
             )
+
+        reviewed_role = role_review.SAFE_ROLE_OWNERS.get(card.episode)
+        if reviewed_role:
+            return (
+                "source-reviewed collective/institutional decision performer(s): " + reviewed_role,
+                "SOURCE-REVIEWED ROLE PERFORMER + SOURCE DECISION",
+            )
+
         return (
             f"bounded {base.OWNER_ROLE[engine]}; identify the performer/signatory/refuser from this exact source decision beat: "
             + base.clip(decision, 420),
