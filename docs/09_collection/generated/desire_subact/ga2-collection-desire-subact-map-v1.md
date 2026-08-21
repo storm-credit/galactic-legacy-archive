@@ -36,10 +36,10 @@ Publication: NOT AUTHORIZED
 
 - `SET_EXECUTION_ID`: `CLSET-GA2-2A-2`
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
-- `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT, LINEAGE`
+- `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
-- `FRONT_DOMAINS`: C5 함선, C7 세력·제도, C1 인물·관계, C4 유물·증거, C6 기술·표준, C8 영토·노드·문명
+- `FRONT_DOMAINS`: C5 함선, C7 세력·제도, C1 인물·관계
 - `READER_DESIRE_MAIN`: create a legal minimum command/crew structure and decide who owns final authority. → provisional ship command charter and minimum licensed roster.
 - `DISCOVERY`: create a legal minimum command/crew structure and decide who owns final authority.
 - `ACQUISITION_OR_CONNECTION`: provisional ship command charter and minimum licensed roster.
@@ -47,13 +47,13 @@ Publication: NOT AUTHORIZED
 - `COST_REFUSAL_OR_LOSS`: no one can deploy the ship on P-001’s word alone. old crew/workers receive first claim on part of mission revenue.
 - `SET_ADVANCE_CONDITION`: CAP-001 demonstrates ship handling/safety competence P-001 lacks in current context. P-001 realizes future-admiral experience does not grant current legal or bodily capacity. H-001 and Q-001 conflict over manifest/cargo/passenger rights. H-002 and ENG-001 run a repair test where both are partly right.
 - `NEXT_DESIRE`: route certification requires a successful K-13→Lumen/Kael trial carrying a cargo/medical obligation the ship cannot fully support.
-- `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
+- `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA2-G2-S02` / `G2-S02` / Ship Command Charter — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=123
-  - `CLT-GA2-G2-I01` / `G2-I01` / First Ship Crew and Mission Trust — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=123
-  - `CLT-GA2-G2-R02` / `G2-R02` / First Mission/Revenue Contract — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=119
-  - `CLT-GA2-G2-P07` / `G2-P07` / Brann–Neris Standards/Worker Council — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=115
-  - `CLT-GA2-G2-S01` / `G2-S01` / NR72-118 Mission Trust / Operational Hull — `EPISODE_OVERLAP+TITLE_TEXT` score=111
+  - `CLT-GA2-G2-S02` / `G2-S02` / Ship Command Charter — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=260
+  - `CLT-GA2-G2-S11` / `G2-S11` / Multi-Signature Comms and Identity Overlay — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=259
+  - `CLT-GA2-G2-P01` / `G2-P01` / CAP-001 / Ship Master — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=258
+  - `CLT-GA2-G2-P02` / `G2-P02` / ENG-001 / Chief Engineer — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=257
+  - `CLT-GA2-G2-P04` / `G2-P04` / Q-001 / Quartermaster-Claims Officer — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=256
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga2-episodes-101-210-act-map-v1.md` / 2A-2
 - `NEW_CANON_REQUIRED`: `NO`
 
@@ -89,7 +89,7 @@ Publication: NOT AUTHORIZED
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, LINEAGE, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
-- `FRONT_DOMAINS`: C1 인물·관계, C4 유물·증거, C5 함선, C7 세력·제도, C3 무기·부품
+- `FRONT_DOMAINS`: C6 기술·표준, C7 세력·제도, C8 영토·노드·문명, C3 무기·부품, C5 함선, C1 인물·관계, C4 유물·증거
 - `READER_DESIRE_MAIN`: the first real voyage combines delivery, rescue/tow, passenger/inspection and non-escalation obligations that the ship cannot satisfy at full tactical output simultaneously. → complete enough of the voyage to earn route/insurance certification and slightly stronger crew trust without overriding valid captain/engineering/medical vetoes.
 - `DISCOVERY`: the first real voyage combines delivery, rescue/tow, passenger/inspection and non-escalation obligations that the ship cannot satisfy at full tactical output simultaneously.
 - `ACQUISITION_OR_CONNECTION`: complete enough of the voyage to earn route/insurance certification and slightly stronger crew trust without overriding valid captain/engineering/medical vetoes.
@@ -97,12 +97,13 @@ Publication: NOT AUTHORIZED
 - `COST_REFUSAL_OR_LOSS`: cargo/payment, a suspect target or another objective is lost; repair and debt/pay pressure worsen despite operational arrival.
 - `SET_ADVANCE_CONDITION`: NAV-001, Q-001 and crew route/cargo/contract knowledge preserve an objective Rian did not prioritize while 07 remains only one tool in the mission.
 - `NEXT_DESIRE`: a salvage manifest ties the removed second-bay/service module to NR72-061, creating the ghost-parts collection desire.
-- `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
+- `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA2-G2-I01` / `G2-I01` / First Ship Crew and Mission Trust — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=129
-  - `CLT-GA2-G2-P07` / `G2-P07` / Brann–Neris Standards/Worker Council — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=121
-  - `CLT-GA2-G2-S12` / `G2-S12` / Recycler Upgrade or Vela Biological Module — `EPISODE_OVERLAP+TITLE_TEXT` score=113
-  - `CLT-GA2-G2-G01` / `G2-G01` / NR72-061 Duplicate Transponder — `EPISODE_OVERLAP+TITLE_TEXT` score=109
+  - `CLT-GA2-G2-R02` / `G2-R02` / First Mission/Revenue Contract — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=260
+  - `CLT-GA2-G2-R01` / `G2-R01` / Minimum Transit Certificate — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=259
+  - `CLT-GA2-G2-S12` / `G2-S12` / Recycler Upgrade or Vela Biological Module — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=258
+  - `CLT-GA2-G2-S13` / `G2-S13` / Point-Defense Restoration — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=257
+  - `CLT-GA2-G2-I01` / `G2-I01` / First Ship Crew and Mission Trust — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=256
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga2-episodes-101-210-act-map-v1.md` / 2A-4
 - `NEW_CANON_REQUIRED`: `NO`
 
@@ -113,7 +114,7 @@ Publication: NOT AUTHORIZED
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `DESIRE_SOURCE_MODE`: `SUBACT_EXPLICIT_OR_STRUCTURED`
-- `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C5 함선, C3 무기·부품
+- `FRONT_DOMAINS`: C5 함선, C7 세력·제도, C1 인물·관계
 - `READER_DESIRE_MAIN`: authenticate salvage manifest and obtain route/claim standing. → Marn/Neris search route, one genuine module serial, old crew map.
 - `DISCOVERY`: authenticate salvage manifest and obtain route/claim standing.
 - `ACQUISITION_OR_CONNECTION`: Marn/Neris search route, one genuine module serial, old crew map.
@@ -123,10 +124,10 @@ Publication: NOT AUTHORIZED
 - `NEXT_DESIRE`: an active transponder from destroyed NR72-061 appears near Marn Graveyard.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA2-G2-P07` / `G2-P07` / Brann–Neris Standards/Worker Council — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=119
-  - `CLT-GA2-G2-G01` / `G2-G01` / NR72-061 Duplicate Transponder — `EPISODE_OVERLAP+TITLE_TEXT` score=119
-  - `CLT-GA2-G2-S12` / `G2-S12` / Recycler Upgrade or Vela Biological Module — `EPISODE_OVERLAP+TITLE_TEXT` score=111
-  - `CLT-GA2-G2-R03` / `G2-R03` / Ghost Salvage Joint-Claim Agreement — `EPISODE_OVERLAP+TITLE_TEXT` score=111
+  - `CLT-GA2-G2-G01` / `G2-G01` / NR72-061 Duplicate Transponder — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=260
+  - `CLT-GA2-G2-R03` / `G2-R03` / Ghost Salvage Joint-Claim Agreement — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=259
+  - `CLT-GA2-G2-G02` / `G2-G02` / 061 Crew/Wage/Rescue Ledger — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=258
+  - `CLT-GA2-G2-P07` / `G2-P07` / Brann–Neris Standards/Worker Council — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=257
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga2-episodes-101-210-act-map-v1.md` / 2B-1
 - `NEW_CANON_REQUIRED`: `NO`
 
@@ -184,10 +185,10 @@ Publication: NOT AUTHORIZED
 
 - `SET_EXECUTION_ID`: `CLSET-GA2-2B-4`
 - `PRIMARY_SET_TYPE`: `FUNCTIONAL` — 역할 조합 세트
-- `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, LINEAGE, EVENT`
+- `SECONDARY_SET_TYPES`: `CIVILIZATION, RELATIONSHIP, LINEAGE, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
-- `FRONT_DOMAINS`: C3 무기·부품, C5 함선, C6 기술·표준, C1 인물·관계, C7 세력·제도
+- `FRONT_DOMAINS`: C3 무기·부품, C5 함선, C7 세력·제도, C6 기술·표준
 - `READER_DESIRE_MAIN`: the recovered 061 collar/module can improve second-bay capacity or preserve relay-service value, but current claimants and future Silex needs prevent taking both benefits freely. → install a partial modular service collar while retaining calibration capacity for Silex and recognizing worker/labor claims.
 - `DISCOVERY`: the recovered 061 collar/module can improve second-bay capacity or preserve relay-service value, but current claimants and future Silex needs prevent taking both benefits freely.
 - `ACQUISITION_OR_CONNECTION`: install a partial modular service collar while retaining calibration capacity for Silex and recognizing worker/labor claims.
@@ -195,13 +196,13 @@ Publication: NOT AUTHORIZED
 - `COST_REFUSAL_OR_LOSS`: revenue share/transport/protection obligations remain and forged-system vulnerability persists in the regional supply chain.
 - `SET_ADVANCE_CONDITION`: utility/rescue-frame support, relay-service use and old AUXILIA lineage become a flexible but incomplete shared capability.
 - `NEXT_DESIRE`: corridor-wide certification restrictions hit just as Doran community contracts freeze, shifting desire from module completion to preserving people's separate route choices.
-- `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
+- `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA2-G2-S07` / `G2-S07` / Partial Bay 2 / Relay-Service Collar — `EPISODE_OVERLAP+TITLE_TEXT` score=123
-  - `CLT-GA2-G2-S10` / `G2-S10` / Relay Calibration Package — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=123
-  - `CLT-GA2-G2-P07` / `G2-P07` / Brann–Neris Standards/Worker Council — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=115
-  - `CLT-GA2-G2-G03` / `G2-G03` / Genuine Service Collar Core — `EPISODE_OVERLAP+TITLE_TEXT` score=115
-  - `CLT-GA2-G2-S12` / `G2-S12` / Recycler Upgrade or Vela Biological Module — `EPISODE_OVERLAP+TITLE_TEXT` score=111
+  - `CLT-GA2-G2-S07` / `G2-S07` / Partial Bay 2 / Relay-Service Collar — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=260
+  - `CLT-GA2-G2-G05` / `G2-G05` / Service Authority D / Relay Maintenance Authority — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=259
+  - `CLT-GA2-G2-G06` / `G2-G06` / Open-Service Lineage Map — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=258
+  - `CLT-GA2-G2-S10` / `G2-S10` / Relay Calibration Package — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=257
+  - `CLT-GA2-G2-G03` / `G2-G03` / Genuine Service Collar Core — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=256
 - `SOURCE_SUBACT`: `docs/10_story_architecture/ga2-episodes-101-210-act-map-v1.md` / 2B-4
 - `NEW_CANON_REQUIRED`: `NO`
 
