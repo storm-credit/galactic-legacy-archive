@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """Run Collection Desire finalization with source-bound semantic blindspot fixes.
 
-No new collectible, event or authority is created. This wrapper prevents
-registry status shorthand from becoming writer-facing reader desire and closes
-a small reviewed set of cases where NEXT_DESIRE skipped the immediate approved
-subact and jumped directly to a later macro pressure.
+No new collectible, event or authority is created. This wrapper:
+- prevents registry status shorthand from becoming writer-facing desire,
+- closes reviewed NEXT_DESIRE skips to the immediate approved subact, and
+- reconciles a narrow reviewed set of CLSET front targets with explicit source
+  `Active Pursuit Windows` when score ranking displaced the registered pursuit.
 
 Named operational labels such as Window A/B/C are source language and remain.
 Bare backticked statuses such as `L`, `G`, `C/G/L` are internal metadata.
@@ -14,6 +15,7 @@ from __future__ import annotations
 
 import re
 
+import collection_active_pursuit_reconciliation as pursuit
 import run_full_series_collection_reader_desires as runner
 
 
@@ -85,6 +87,34 @@ def source_field_pack_no_registry_shorthand(subact, selected):
 
 
 runner.reader.source_field_pack = source_field_pack_no_registry_shorthand
+
+# `final.build_final_outputs()` assigns `layer.select_threads` from this module
+# attribute at build time, so patch the attribute itself. Returning `A-DIRECT`
+# keeps these rows out of the historical B-depth manual-closure count: they were
+# already valid A rows; only the 1–5 foreground ordering was wrong.
+_final = runner.reader.semantic.strict.final
+_original_select_threads_manual = _final.select_threads_manual
+
+
+def select_threads_with_active_pursuit(subact, threads):
+    key = (subact.arc, subact.code)
+    source_ids = pursuit.REVIEWED_SELECTIONS.get(key)
+    if not source_ids:
+        return _original_select_threads_manual(subact, threads)
+
+    by_id = {thread.source_id: thread for thread in threads if thread.arc == subact.arc}
+    missing = [source_id for source_id in source_ids if source_id not in by_id]
+    if missing:
+        raise SystemExit(f"{subact.arc} {subact.code}: missing active-pursuit registry IDs: {missing}")
+
+    selected = [
+        (by_id[source_id], 260 - index, "SOURCE-ACTIVE-PURSUIT-RECONCILIATION")
+        for index, source_id in enumerate(source_ids)
+    ]
+    return selected, "A-DIRECT"
+
+
+_final.select_threads_manual = select_threads_with_active_pursuit
 
 
 def _bridge_status_hooks(outputs):
@@ -164,4 +194,5 @@ runner.build_outputs = build_outputs_blindspot
 if __name__ == "__main__":
     code = runner.main()
     print(f"collection_status_hook_bridges={build_outputs_blindspot.bridged}")
+    print(f"collection_active_pursuit_reconciled_rows={len(pursuit.REVIEWED_SELECTIONS)}")
     raise SystemExit(code)
