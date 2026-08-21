@@ -7,7 +7,7 @@
 게이트 §12는 미결정과 가정이 숨겨져 있지 않을 것을 요구한다. 숨겨져 있지는 않았고,
 한자리에 모여 있지 않았을 뿐이다. 이 목록이 그 자리다.
 
-`Open Risks`를 가진 문서 **360개** · `[ASSUMPTION]` 표기를 가진 문서 **14개**
+`Open Risks`를 가진 문서 **402개** · `[ASSUMPTION]` 표기를 가진 문서 **16개**
 
 ## 명시적 가정 `[ASSUMPTION]`
 
@@ -24,7 +24,9 @@
 | [[first-writing-batch-readiness-v1]] | 1 |
 | [[pre-writing-gate-open-record-2026-08-06]] | 1 |
 | [[pre-writing-gate-review-v1]] | 1 |
+| [[ga4-ga7-ga8-ga9-tangible-execution-and-reader-memory-overlay-v1]] | 1 |
 | [[blind-spot-register]] | 1 |
+| [[e1-20-full-review-pass-2026-08-18]] | 1 |
 | [[ga1-e1-v2-design-canon-narration-conformance-audit-2026-08-08]] | 1 |
 | [[pre-writing-readiness-audit-v1]] | 1 |
 | [[prewriting-gate-scorecard-2026-08-13]] | 1 |
@@ -40,7 +42,7 @@
 
 ## 분야별 열린 위험
 
-### 00_project — 25건
+### 00_project — 42건
 
 | 문서 | 열린 위험 |
 |---|---|
@@ -48,23 +50,40 @@
 | [[agent-gap-audit]] | Too many reviewers, unclear final authority, duplicated documentation |
 | [[agent-orchestra-registry-v1]] | this is a role-based specialist system operated by one orchestrator unless an execution log explicitly proves independent agent sessions |
 | [[autonomous-completion-validation-override-2026-08-03]] | no human/mobile market validation; same-model proxy bias |
+| [[context-pack-tangible-reader-memory-execution-spec-proposal-v1]] | this file governs execution/QC fields only. It cannot create story facts, promote scene cards, alter deaths/relationships/authority/ending, or authorize publication. If approved sources do not support a field, use `NONE`, `N/A` or `UNRESOLVED FROM APPROVED SOURCES` rather than invention. |
 | [[context-window-handoff-protocol]] | platform context capacity cannot be measured exactly; trigger conservatively before continuity degrades |
+| [[current-work-status-2026-08-17]] | held Draft PR approvals, issue #26 external human/mobile validation, issue #3 legal-preview deep-read completion |
+| [[decision-log-addendum-2026-08-20-ga10-ending]] | this is an append-only continuation record for D-20260820-02. It does not replace earlier decisions in [[decision-log]]. |
 | [[decision-log]] | Unrecorded conversational decisions |
 | [[deferred-design-register-v2]] | exact episode-card production remains the largest unfinished design task |
 | [[document-review-signoff-ledger-v1]] | retrospective entries summarize existing review evidence; they are not proof of independent AI or human sessions |
 | [[effective-canon-status-manifest-v1]] | individual legacy files may still display `Status: REVIEW`; this manifest defines their effective authority without mass-editing historical headers |
 | [[first-writing-batch-readiness-v1]] | 게이트 개방 전에는 어떤 항목도 실행되지 않는다. D1(플랫폼·자수)과 D3(E1~20 처리) 결정에 따라 §4 작업 내용이 달라진다. |
+| [[full-series-collection-desire-subact-execution-standard-v1]] | derived execution IDs must never be mistaken for new in-world collectibles or Archive ontology |
+| [[full-series-context-first-production-directive-2026-08-20]] | context completion does not itself authorize any manuscript batch, AUTHOR-APPROVED promotion or publication. |
+| [[full-series-context-pack-completion-checkpoint-2026-08-20]] | manuscript quality/audits remain separate; publication remains blocked and issue #26 remains a pre-publication hard blocker. |
+| [[full-series-context-writer-activation-depth-standard-v1]] | this standard may recommend a writing route but may not invent story facts, transfer authority, change a locked payoff, or grant manuscript/publication approval. |
 | [[ga1-10-state-checkpoint-matrix-v1]] | exact numeric inventory and named casualty lists remain open |
+| [[ga1-e001-e010-context-pack-production-v1]] | E002–E010 dynamic state must be refreshed from the immediately previous audited draft. This file must never be treated as future-story canon. |
+| [[ga1-e001-e010-context-pack-status-index-v1]] | Context readiness does not expand manuscript authorization beyond the current first-writing batch E001–E005. |
+| [[ga1-e002-context-pack-refresh-v1]] | PR #199 is not author-approved and is not on main. Only its state changes that are already supported by approved E001 structure may be carried; manuscript-only wording cannot create E002 facts. |
+| [[ga1-e003-context-pack-refresh-v1]] | E002 v3 remains unmerged and non-author-approved. Only its state functions already required by approved E002 structure may be carried. Exact workshop times, part counts, prior incident anecdotes and UI wording found only in old manuscript prose cannot become E003 facts. |
+| [[ga1-e004-context-pack-refresh-v1]] | E003 v3 remains unmerged and non-author-approved. Current E004 v2 was expanded before the rolling Context Pack/fairness-ledger precedence pass and contains an early M-002 count clue plus several manuscript-origin exact values. |
+| [[ga1-e005-context-pack-refresh-v1]] | E004 v3 remains unmerged/non-author-approved. E005 current v2 contains movement geometry exceeding or obscuring the S07-E5 movement envelope, several manuscript-origin exact costs/timers, and references to E004 hero-count/Orpheus explanations that the rolling revision has now removed. |
+| [[ga1-e006-e010-context-pack-deep-v1]] | E006–E010 manuscript production is NOT currently authorized by the first-writing-batch gate. Exact board/hearing wording, minor procedural roles and prose-level geometry remain unresolved unless already locked by higher sources. |
 | [[ga1-e1-5-first-draft-status-2026-08-03]] | publication compression and real human/mobile validation |
 | [[ga1-e21-45-continuity-change-record]] | human/mobile pacing may later compress individual episodes without changing state order |
 | [[ga1-e6-20-first-draft-authorization-2026-08-03]] | publication-length compression and real human/mobile validation |
 | [[ga1-e6-20-first-draft-status-2026-08-03]] | publication compression and human/mobile validation |
+| [[ga10-ending-reconciliation-canon-amendment-2026-08-20]] | exact prose, minor epilogue blocking and final visual anatomy remain later production decisions; none may override the endpoint facts below. |
 | [[gate6-decision-record]] | Must be consolidated into the main decision log during the next governance pass |
 | [[issue-26-status-resolution-proposal-v1]] | 본 문서는 제안서다. 작가 승인 전에는 어떤 문서 지위도 변경하지 않는다. |
+| [[local-action-space-audit-2026-08-19]] | 밴드 계층은 탐색 보조이며 정본 권한을 바꾸지 않는다 — 거부권과 게이트는 [[agent-execution-contract-and-veto-policy-v1]]가 그대로 보유한다 |
 | [[manuscript-production-workflow-v1]] | 이 문서 자체는 집필을 승인하지 않는다. Pre-Writing Gate가 OPEN되기 전에는 어떤 단계도 실행되지 않는다. |
 | [[orchestra]] | Agent overlap, duplicate authority, excessive documentation |
 | [[pre-writing-gate-open-record-2026-08-06]] | 출판·공개·유료연재는 여전히 차단 상태다. 본 기록은 초고 생산만 개방한다. |
 | [[pre-writing-gate-review-v1]] | 이 문서는 게이트를 열지 않는다. 개방은 작가의 명시 선언으로만 가능하다. |
+| [[prewriting-execution-integration-closure-2026-08-21]] | publication remains blocked by issue #26; this record does not grant AUTHOR-APPROVED status. The repository-wide generic validator still has pre-existing generated-index currentness debt; canon/link/manuscript-contract validation is green. |
 | [[project-charter]] | 공모전 규정 미확인 (§0.4 가정으로 운용 중, 확인 주체는 작가) |
 | [[reader-facing-terminology-phonetics-and-register-bible-v1]] | human mobile recall testing remains blocked until an explicit writing phase |
 | [[specialist-roster]] | Coordination overhead, duplicated review, excessive specialization |
@@ -427,25 +446,37 @@
 |---|---|
 | [[named-loss-and-irreversible-transformation-ledger-v1]] | exact scene blocking and some secondary names remain open |
 
-### 12_research — 4건
+### 12_research — 6건
 
 | 문서 | 열린 위험 |
 |---|---|
+| [[gate1-legal-preview-access-audit-2026-08-17]] | official platform detail pages expose free-scope metadata, but this audit did not retrieve or store the actual free episode prose; sentence/paragraph analysis and exact E1–20 beat verification therefore remain open |
 | [[gate1-pattern-synthesis]] | Exact episode counts require legal-preview verification |
 | [[gate1-reference-baseline]] | Public synopsis cannot prove detailed prose or exact episode cadence; legal preview deep-read remains required |
+| [[prose-style-reference-shortlist-v1]] | 이 목록은 **후보 선정만** 했다. 실제 문장·문단 리듬 딥리드는 미수행이며 Issue #3은 계속 OPEN이다. 문장 복제 금지(§2-4) — 추출 대상은 구조·효과·독자 기대뿐이다 |
 | [[reference-structure-analysis-v1]] | 개별 작품의 회차 단위 실측은 하지 않았다 — 이 문서는 장르 관습과 저장소가 이미 내린 참고 판정을 통합한 것이다 |
 | [[reference-study-plan]] | Availability of legal previews, popularity metric mismatch across platforms, imitation risk |
 
-### 13_writing_harness — 4건
+### 13_writing_harness — 14건
 
 | 문서 | 열린 위험 |
 |---|---|
+| [[ga1-e011-e100-context-packs-v1]] | generated reorganization cannot resolve a semantic contradiction in an upstream card; such conflicts belong in the companion blindspot audit/change-control path. |
+| [[ga10-e1001-e1100-context-packs-v1]] | generated reorganization cannot resolve a semantic contradiction in an upstream card; such conflicts belong in the companion blindspot audit/change-control path. |
+| [[ga2-e101-e210-context-packs-v1]] | generated reorganization cannot resolve a semantic contradiction in an upstream card; such conflicts belong in the companion blindspot audit/change-control path. |
+| [[ga3-e211-e330-context-packs-v1]] | generated reorganization cannot resolve a semantic contradiction in an upstream card; such conflicts belong in the companion blindspot audit/change-control path. |
+| [[ga4-e331-e450-context-packs-v1]] | generated reorganization cannot resolve a semantic contradiction in an upstream card; such conflicts belong in the companion blindspot audit/change-control path. |
+| [[ga5-e451-e570-context-packs-v1]] | generated reorganization cannot resolve a semantic contradiction in an upstream card; such conflicts belong in the companion blindspot audit/change-control path. |
+| [[ga6-e571-e690-context-packs-v1]] | generated reorganization cannot resolve a semantic contradiction in an upstream card; such conflicts belong in the companion blindspot audit/change-control path. |
+| [[ga7-e691-e800-context-packs-v1]] | generated reorganization cannot resolve a semantic contradiction in an upstream card; such conflicts belong in the companion blindspot audit/change-control path. |
+| [[ga8-e801-e900-context-packs-v1]] | generated reorganization cannot resolve a semantic contradiction in an upstream card; such conflicts belong in the companion blindspot audit/change-control path. |
+| [[ga9-e901-e1000-context-packs-v1]] | generated reorganization cannot resolve a semantic contradiction in an upstream card; such conflicts belong in the companion blindspot audit/change-control path. |
 | [[narration-harness-v1]] | 낭독 시료가 될 정본 원고는 게이트 개방 후 생산됨. 그 전에는 비정본 샘플(E1 v2)로만 테스트한다. |
 | [[prose-bible]] | Over-standardization, artificial rhythm, exposition overload |
 | [[revision-harness]] | Overediting, voice flattening, late structural changes |
 | [[storycraft-bible]] | Formulaic scenes, over-engineering, emotional flattening |
 
-### 99_quality_control — 59건
+### 99_quality_control — 72건
 
 | 문서 | 열린 위험 |
 |---|---|
@@ -469,9 +500,14 @@
 | [[ga4-e356-380-redteam-v1]] | seven-field pilot performance, final compact and sovereign settlement remain later work |
 | [[ga4-e381-405-redteam-v1]] | pilot close, East renewal and final claimant/sovereign compact remain later work |
 | [[ga4-e406-430-redteam-v1]] | nomination, ratification, recall, final sovereign and compact remain B04-05 work |
+| [[e1-20-full-review-pass-2026-08-18]] | C4 미달 13편의 처분(장면 우선 유지 vs 승인 비트 복원)은 작가 결정이다 |
 | [[execution-state-orpheus-opening20-redteam]] | identical-assumption plan simulation and human opening test remain open |
 | [[final-canonization-redteam-review]] | exact scene cards and state simulations remain open |
 | [[frame-lineup-faction-coverage-gap-2026-08-13]] | 결손 3개 클래스의 슬롯 수 추정치가 없다 — 세력 정본화 전에는 산출 불가 |
+| [[full-series-context-pack-semantic-blindspot-audit-2026-08-20]] | prose execution can still fail even when Context is sound; this audit authorizes no manuscript merge, AUTHOR-APPROVED state or publication. |
+| [[ga1-e001-context-pack-manuscript-diagnosis-2026-08-20]] | exact regression instant relative to the E001 cold open is not independently locked strongly enough to support an added `처음 며칠` duration in prose. |
+| [[ga1-e001-e010-context-pack-deep-blindspot-audit-2026-08-20]] | E011+ scene-card clue tags contain additional timing conflicts with the locked fairness ledger and require the same treatment before any later manuscript batch is authorized. |
+| [[ga1-e002-context-pack-manuscript-diagnosis-2026-08-20]] | C4 length must be checked only after the content corrections. No padding is permitted if the corrected episode drops below the nominal floor. |
 | [[ga1-e1-5-first-draft-continuity-voice-audit-v1]] | real human/mobile response and publication-length compression |
 | [[ga1-e1-5-first-draft-redteam]] | actual human/mobile response unavailable |
 | [[ga1-e21-45-scene-card-redteam]] | human/mobile test and named minor casualty/operative detail remain |
@@ -479,6 +515,8 @@
 | [[ga1-e6-20-first-draft-continuity-voice-audit-v1]] | publication compression and real human/mobile response |
 | [[ga1-e6-20-first-draft-redteam]] | real-reader pacing and publication compression |
 | [[ga1-e73-100-scene-card-redteam]] | human/mobile testing and detailed battle/medical prose remain |
+| [[ga10-e1076-1100-ending-reconciliation-crosswalk-and-audit-v1]] | exact prose blocking and final visual anatomy remain later stages; the structural/canon reconciliation audited here is complete. |
+| [[ga10-ending-targeted-brainstorm-v2]] | the endpoint package is author-approved in direction, but exact episode placement must still reconcile all upper-authority chronology/state/loss/payoff constraints before becoming canon. |
 | [[ga10-redteam-review]] | exact representative regions/fronts, P-001 final state and asset/relationship endings remain open |
 | [[ga2-redteam-review]] | Detailed battle maps and prose testing remain open |
 | [[ga3-redteam-review]] | exact battle maps, local voices and succession payload remain open |
@@ -500,12 +538,18 @@
 | [[opening20-scene-card-redteam]] | prose/mobile response remains external |
 | [[orchestra-domain-coverage-matrix-v1]] | local exact-scene expertise remains deferred with the scene-production phase |
 | [[orchestra-verification-audit-v1]] | independent specialist sessions and human professional validation remain absent unless later recorded |
+| [[pr136-actmap-compliance-notes-2026-08-18]] | 이 노트의 근거 원고는 폐기된 병렬 개정본이다 — 발견만 취하고 문장은 가져오지 않는다 |
+| [[pr137-actmap-compliance-notes-2026-08-18]] | §3의 액트맵–카드 불일치는 이 노트가 판정할 수 없다 — 연속성 판정 필요 |
 | [[pre-writing-readiness-audit-v1]] | 본 감사는 AI 감사이며 인간 독자 검증(issue #26)을 대체하지 않는다. |
 | [[prewriting-gate-dry-audit-2026-08-03]] | human/mobile evidence absent; dry audit cannot authorize canonical manuscript |
 | [[prewriting-gate-proxy-signoff-2026-08-03]] | human/mobile market response remains untested |
 | [[prewriting-gate-scorecard-2026-08-13]] | §3 Project & Market 미완이 BLOCKER 2건을 막고 있음 |
 | [[prewriting-gate]] | False confidence, unchecked placeholders, unresolved canon conflicts |
+| [[reference-deconstruction-and-anti-similarity-collection-v1]] | reference material can quietly become imitation if a single work supplies face + costume + pose + relationship + ending beat. This document therefore stores **feature extraction and vetoes**, not copy instructions. |
+| [[reference-similarity-and-ending-blindspot-sweep-v1]] | reference deconstruction can still produce an imitation through recombination; a `different hair + same face + same coat + same relationship` design is still a similarity failure. |
 | [[registry-redteam-2026-08-13]] | 이 검토 자체가 등록부를 만든 주체가 수행했다. 독립 검토가 아니다 |
+| [[slr-card-bit-proposals-2026-08-19]] | 승인 전에는 어떤 비트도 원고에 넣지 않는다 |
+| [[slr-card-bit-proposals-round2-2026-08-19]] | 1차와 달리 "정본이 이미 약속한 미구현 항목"은 소진됐다 — 이번 비트는 기존 장면의 저항·선택·후속비용을 세우는 것이며, 그만큼 회차당 승인 판단이 더 중요하다 |
 | [[world-bible-completion-gap-audit-v2]] | repository issue bodies are stale and do not reflect many merged completions |
 | [[world-design-01-02-03-linkage-and-payoff-audit-2026-08-13]] | 본 감사 자체가 23개 고아 문서의 첫 인바운드 링크가 된다 — 재실행 시 이 문서를 참조자에서 제외해야 한다 |
 
