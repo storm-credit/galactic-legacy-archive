@@ -8,6 +8,12 @@ in every episode. This audit verifies the exact 38 v2 watch subacts, separates
 institutional/rights sets from mixed human-pressure sets, and ensures sparse
 source-explicit relationship rules are carried without inventing emotions.
 
+A small number of load-bearing irreversible state/loss locks are intentionally
+stored in the relationship execution slot because they prohibit false restoration
+of person/record continuity. They are not emotional deltas. Only the exact
+ledger-backed episode/authority pairs below are exempted from SOURCE-EXPLICIT
+emotion routing; any other non-source non-NONE delta remains a hard failure.
+
 Workflow/QC only. No story relationship is added or changed.
 """
 
@@ -50,6 +56,21 @@ EXPECTED = {
 }
 assert len(EXPECTED) == 38
 
+# These are not emotions. They are exact load-bearing anti-restoration locks
+# sourced from the approved episode design + Named Loss ledger and already
+# covered by the load-bearing manual red-team. Keep the exemption narrow:
+# episode AND authority string must both match.
+LOAD_BEARING_NON_EMOTIONAL_LOCKS = {
+    841: (
+        "L-R02 LOCKED IRREVERSIBLE PERSON-STATE LOSS",
+        "LIV-4 continuity/person-state loss: evidence survival is not person survival; the lock prevents a later false-equivalence restoration.",
+    ),
+    889: (
+        "L-R01/L-R04 IRREVERSIBLE RECORD-LOSS LOCK",
+        "Nacre-3/custodian record-loss state: later provenance may survive, but the lost whole cannot be reconstructed; this is absence continuity, not emotion.",
+    ),
+}
+
 
 def build_report() -> str:
     maps = strict.parse_maps_normalized()
@@ -64,19 +85,38 @@ def build_report() -> str:
         )
 
     rows = []
+    reviewed_state_locks = []
+    seen_state_locks = set()
     for row, eps, none_eps, explicit_eps, share in watches:
         key = (row["arc"], row["code"])
         category = "MIXED HUMAN + INSTITUTIONAL PRESSURE" if key in MIXED_HUMAN_PRESSURE else "INSTITUTIONAL / RIGHTS / CONSENT RELATIONSHIP"
 
-        # Any non-NONE delta inside the watched range must be source-explicit;
-        # workflow-invented emotion is not an acceptable way to reduce NONE rate.
+        # Any non-NONE delta inside the watched range must be source-explicit,
+        # unless it is one of the exact ledger-backed non-emotional loss/state
+        # locks above. Workflow-invented emotion is never an acceptable way to
+        # reduce the NONE rate.
         bad_non_none = []
+        display_non_none = []
         for ep in eps:
             act = acts[ep]
             delta = act.get("RELATIONSHIP_EMOTIONAL_DELTA", "")
             auth = act.get("RELATIONSHIP_DELTA_AUTHORITY", "")
-            if not delta.startswith("NONE") and not auth.startswith("SOURCE-EXPLICIT"):
-                bad_non_none.append((ep, auth, delta))
+            if delta.startswith("NONE"):
+                continue
+            if auth.startswith("SOURCE-EXPLICIT"):
+                display_non_none.append(f"E{ep}")
+                continue
+
+            lock = LOAD_BEARING_NON_EMOTIONAL_LOCKS.get(ep)
+            if lock and auth == lock[0]:
+                seen_state_locks.add(ep)
+                reviewed_state_locks.append((ep, auth, delta, lock[1]))
+                display_non_none.append(f"E{ep} [LOSS/STATE LOCK]")
+                continue
+
+            bad_non_none.append((ep, auth, delta))
+            display_non_none.append(f"E{ep} [UNAUTHORIZED]")
+
         if bad_non_none:
             failures.append(f"{key[0]} {key[1]} has non-source relationship delta(s): {bad_non_none}")
 
@@ -90,9 +130,14 @@ def build_report() -> str:
                 "The Collection RELATIONSHIP family here is executed mainly through consent, custody, claims, contracts, representation, standing or bounded authority. "
                 "An episode-level emotion beat is not required unless the source card labels one."
             )
-        rows.append((row, eps, none_eps, explicit_eps, share, category, rationale))
+        rows.append((row, eps, none_eps, display_non_none, share, category, rationale))
+
+    missing_locks = set(LOAD_BEARING_NON_EMOTIONAL_LOCKS) - seen_state_locks
+    if missing_locks:
+        failures.append(f"expected load-bearing non-emotional state lock(s) not observed: {sorted(missing_locks)}")
 
     status = "PASS" if not failures else "FAIL"
+    invented_count = sum(1 for f in failures if "non-source relationship delta" in f)
     lines = [
         "# Relationship-Cadence Semantic Red-Team v1",
         "",
@@ -104,23 +149,33 @@ def build_report() -> str:
         "",
         "`RELATIONSHIP` set-family ≠ mandatory new emotion every episode. The family also tracks consent, custody, representation, obligations, claims and institutional standing. Therefore forcing a feeling into all 38 watch subacts would be a false-depth regression.",
         "",
+        "Irreversible person/record-continuity locks may occupy the execution slot without becoming emotions. Only exact ledger-backed loss/state authorities are accepted; they exist to prevent false restoration, not to invent feeling.",
+        "",
         "## Coverage",
         "",
         f"- v2 cadence WATCH subacts reviewed: **{len(rows)}/38**",
         f"- mixed human/institutional-pressure subacts: **{sum(1 for r in rows if r[5].startswith('MIXED'))}**",
         f"- institutional/rights/consent relationship subacts: **{sum(1 for r in rows if r[5].startswith('INSTITUTIONAL'))}**",
-        f"- non-source invented relationship deltas detected: **{sum(1 for f in failures if 'non-source relationship' in f)}**",
+        f"- load-bearing non-emotional state/loss locks reviewed: **{len(reviewed_state_locks)}/{len(LOAD_BEARING_NON_EMOTIONAL_LOCKS)}**",
+        f"- non-source invented relationship deltas detected: **{invented_count}**",
         "",
         "## Per-subact ruling",
         "",
-        "| Subact | Episodes | NONE ratio | Source-explicit delta episodes | Semantic class | Ruling |",
+        "| Subact | Episodes | NONE ratio | Approved non-NONE execution episodes | Semantic class | Ruling |",
         "|---|---|---:|---|---|---|",
     ]
-    for row, eps, none_eps, explicit_eps, share, category, rationale in rows:
+    for row, eps, none_eps, display_non_none, share, category, rationale in rows:
         lines.append(
             f"| {row['arc']} {row['code']} | E{row['start']}–E{row['end']} | {len(none_eps)}/{len(eps)} ({share:.0%}) | "
-            f"{', '.join('E'+str(ep) for ep in explicit_eps) if explicit_eps else 'NONE'} | {category} | {rationale} |"
+            f"{', '.join(display_non_none) if display_non_none else 'NONE'} | {category} | {rationale} |"
         )
+
+    lines.extend(["", "## Reviewed load-bearing non-emotional locks", ""])
+    if reviewed_state_locks:
+        for ep, auth, delta, rationale in reviewed_state_locks:
+            lines.append(f"- E{ep}: `{auth}` — {rationale} Execution text: {delta}")
+    else:
+        lines.append("- NONE")
 
     lines.extend(["", "## Failure queue", ""])
     if failures:
@@ -135,6 +190,7 @@ def build_report() -> str:
         f"- relationship-cadence false-depth risk: **{status}**",
         "- explicit relationship/character labels are handled by the separate source-label gate; unresolved strong label gaps must remain 0.",
         "- `NONE` is retained where the source does not authorize a feeling; it is a drafting guard, not missing design.",
+        "- irreversible loss/state locks may block restoration without implying a new emotion.",
         "- invented confession/forgiveness/loyalty/intimacy/reconciliation: **0**",
         "- story-canon relationship mutation: **0**",
         "",
