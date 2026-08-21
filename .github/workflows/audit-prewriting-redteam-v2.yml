@@ -107,10 +107,12 @@ jobs:
           grep -q 'Status: PASS — EXECUTION QC' docs/99_quality_control/long-window-narrative-engine-differentiation-redteam-v1.md
           grep -q 'unresolved repetitive-engine windows: \*\*0\*\*' docs/99_quality_control/long-window-narrative-engine-differentiation-redteam-v1.md
 
-      - name: Rebuild generated navigation index after audit docs
+      - name: Rebuild generated navigation and open-question indexes after audit docs
         run: |
           python tools/build_index.py
           python tools/build_index.py --check
+          python tools/build_open_questions.py
+          python tools/build_open_questions.py --check
 
       - name: Show red-team summary
         run: |
@@ -123,13 +125,13 @@ jobs:
       - name: Persist audit reports and regenerated indexes on branch push
         if: github.event_name == 'push'
         run: |
-          TARGETS='docs/99_quality_control/prewriting-execution-redteam-v2-audit.md docs/99_quality_control/relationship-activation-source-label-audit-v1.md docs/99_quality_control/collection-active-pursuit-crosslayer-redteam-v1.md docs/99_quality_control/decision-owner-role-reconciliation-redteam-v1.md docs/99_quality_control/relationship-cadence-semantic-redteam-v1.md docs/99_quality_control/long-window-narrative-engine-differentiation-redteam-v1.md docs/HOME.md docs/_index/index-story.md docs/_index/index-characters.md docs/_index/index-frames.md docs/_index/index-collection.md docs/_index/index-world.md docs/_index/index-craft.md docs/_index/index-project.md'
+          TARGETS='docs/99_quality_control/prewriting-execution-redteam-v2-audit.md docs/99_quality_control/relationship-activation-source-label-audit-v1.md docs/99_quality_control/collection-active-pursuit-crosslayer-redteam-v1.md docs/99_quality_control/decision-owner-role-reconciliation-redteam-v1.md docs/99_quality_control/relationship-cadence-semantic-redteam-v1.md docs/99_quality_control/long-window-narrative-engine-differentiation-redteam-v1.md docs/HOME.md docs/_index/index-story.md docs/_index/index-characters.md docs/_index/index-frames.md docs/_index/index-collection.md docs/_index/index-world.md docs/_index/index-craft.md docs/_index/index-project.md docs/_index/open-questions.md'
           if git diff --quiet -- $TARGETS; then
-            echo 'audit reports and navigation indexes already current'
+            echo 'audit reports and generated indexes already current'
             exit 0
           fi
           git config user.name 'galactic-legacy-qc-bot'
           git config user.email 'actions@users.noreply.github.com'
           git add -- $TARGETS
-          git commit -m 'QC: persist v2 audits and refresh navigation indexes'
+          git commit -m 'QC: persist v2 audits and refresh generated indexes'
           git push origin HEAD:qc/prewriting-execution-redteam-v2
