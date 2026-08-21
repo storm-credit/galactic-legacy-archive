@@ -4,6 +4,9 @@
 No emotion is inferred from prose. This only detects episode-card fields whose
 LABEL itself explicitly declares relationship/emotion/character-state content
 while the current activation renders RELATIONSHIP_EMOTIONAL_DELTA as NONE.
+Secondary `trust/standing` labels are kept as WATCH unless an exact source review
+has established that the field is legal/institutional standing or an option name
+rather than an emotional/interpersonal delta.
 """
 
 from __future__ import annotations
@@ -14,6 +17,7 @@ from pathlib import Path
 
 import build_full_series_context_packs_semantic as semantic
 import audit_prewriting_redteam_v2 as red
+import relationship_secondary_label_reconciliation as reviewed
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "docs" / "99_quality_control" / "relationship-activation-source-label-audit-v1.md"
@@ -35,6 +39,7 @@ def build() -> str:
     acts = red.parse_activation()
     strong = []
     secondary = []
+    reviewed_non_emotional = []
 
     for ep in range(11, 1101):
         act = acts.get(ep, {})
@@ -50,9 +55,13 @@ def build() -> str:
             if STRONG_LABEL.search(key):
                 strong.append((ep, key, value, card.source.name))
             elif SECONDARY_LABEL.search(key):
-                secondary.append((ep, key, value, card.source.name))
+                review_reason = reviewed.REVIEWED_NON_EMOTIONAL.get((ep, key))
+                if review_reason:
+                    reviewed_non_emotional.append((ep, key, value, card.source.name, review_reason))
+                else:
+                    secondary.append((ep, key, value, card.source.name))
 
-    status = "FAIL" if strong else "PASS-WITH-WATCH"
+    status = "FAIL" if strong or secondary else "PASS"
     lines = [
         "# Relationship Activation Source-Label Audit v1",
         "",
@@ -62,7 +71,8 @@ def build() -> str:
         "",
         f"- episodes scanned: **{len(cards)}/1090**",
         f"- explicit relationship/emotion/character-state labels missed while activation=NONE: **{len(strong)}**",
-        f"- secondary trust/standing label WATCH: **{len(secondary)}**",
+        f"- unresolved secondary trust/standing label WATCH: **{len(secondary)}**",
+        f"- reviewed non-emotional secondary labels: **{len(reviewed_non_emotional)}/6**",
         "",
         "## Strong parser-gap queue",
         "",
@@ -72,7 +82,7 @@ def build() -> str:
             lines.append(f"- E{ep:03d} `{key}` / `{source}` — {value[:520]}")
     else:
         lines.append("- NONE")
-    lines += ["", "## Secondary label WATCH", ""]
+    lines += ["", "## Unresolved secondary label WATCH", ""]
     if secondary:
         for ep, key, value, source in secondary[:180]:
             lines.append(f"- E{ep:03d} `{key}` / `{source}` — {value[:360]}")
@@ -80,12 +90,19 @@ def build() -> str:
             lines.append(f"- … {len(secondary)-180} additional secondary-label watches omitted from display")
     else:
         lines.append("- NONE")
+
+    lines += ["", "## Source-reviewed non-emotional labels", ""]
+    for ep, key, value, source, reason in reviewed_non_emotional:
+        lines.append(f"- E{ep:03d} `{key}` / `{source}` — **KEEP OUT OF EMOTION DELTA**: {reason}. Source value: {value[:300]}")
+
     lines += [
         "",
         "## Ruling",
         "",
-        "- strong queue entries are parser/source-routing defects only; fix by recognizing the exact approved label, not by inventing emotion.",
-        "- secondary WATCH is not enough to create an emotional beat; source review is required.",
+        "- strong parser/source-routing gap: **0 required for PASS**.",
+        "- unresolved secondary trust/standing ambiguity: **0 required for PASS**.",
+        "- legal/service standing and option labels must not be converted into invented feelings.",
+        "- story-canon mutation: **0**.",
         "",
     ]
     return "\n".join(lines)
@@ -102,6 +119,8 @@ def main() -> int:
     else:
         OUT.write_text(text, encoding="utf-8")
     print(text)
+    if "Status: FAIL" in text:
+        raise SystemExit("RELATIONSHIP SOURCE-LABEL GATE FAIL")
     return 0
 
 
