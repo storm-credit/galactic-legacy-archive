@@ -5,9 +5,11 @@ The first discovery pass intentionally over-recalled candidates. This wrapper:
 - normalizes generated set-family labels before comparison;
 - narrows orphan attention to source threads with explicit episode/subact placement;
 - records two source-reviewed set-family exceptions where active-target domain
-  counts do not describe the actual reader reward/combination engine; and
+  counts do not describe the actual reader reward/combination engine;
 - excludes only explicitly reviewed secondary-support threads from the unresolved
-  high-value orphan queue.
+  high-value orphan queue; and
+- removes role-owner heuristic captures only after the complete 50-row queue has
+  been partitioned into promoted source performers vs reviewed non-performers.
 
 It changes audit interpretation only, not story canon or generated story facts.
 """
@@ -18,10 +20,12 @@ import re
 
 import audit_prewriting_redteam_v2 as audit
 import collection_active_pursuit_reconciliation as pursuit
+import decision_owner_role_reconciliation as owner_review
 
 _FAMILY = re.compile(r"\b(LINEAGE|EVENT|FUNCTIONAL|RELATIONSHIP|CIVILIZATION)\b")
 _ORIGINAL_PARSE_MAPS = audit.parse_maps
 _ORIGINAL_SET_MISMATCH = audit.set_family_mismatches
+_ORIGINAL_OWNER_PRECISION = audit.owner_precision
 
 # Manual source review on 2026-08-21:
 # - GA1 A3 is FUNCTIONAL because the reader reward is the combined operation of
@@ -51,12 +55,25 @@ def set_family_mismatches_reviewed(rows, threads):
     ]
 
 
+def owner_precision_reviewed(cards, acts):
+    """Leave only genuinely unresolved role-owner candidates.
+
+    SAFE_ROLE_OWNERS are expected to have been promoted by the activation
+    wrapper and therefore should no longer occur in the bounded queue.
+    REVIEWED_NON_PERFORMERS are exact heuristic false positives and are filtered
+    only here after independent reconciliation audit verifies the 50-row set.
+    """
+    bounded, named, roles = _ORIGINAL_OWNER_PRECISION(cards, acts)
+    unresolved = [row for row in roles if row[0] not in owner_review.REVIEWED_NON_PERFORMERS]
+    return bounded, named, unresolved
+
+
 def orphan_watch_strict(thread_rows):
     """Flag only explicit, episode-addressable unresolved front-stage promises.
 
     `ARC_WIDE_OR_UNSPECIFIED` rows are support/ledger architecture by design and
     cannot be called orphaned reader promises merely because they are not one of
-    the 1–5 front-stage targets of a subact. The three IDs in
+    the 1–5 front-stage targets of a subact. The IDs in
     `ACCEPTED_SECONDARY_ORPHANS` were manually checked against the source Active
     Pursuit window and are deliberately support evidence/tools rather than a
     separate reader quest.
@@ -100,6 +117,7 @@ def orphan_watch_strict(thread_rows):
 
 audit.parse_maps = parse_maps_normalized
 audit.set_family_mismatches = set_family_mismatches_reviewed
+audit.owner_precision = owner_precision_reviewed
 audit.orphan_watch = orphan_watch_strict
 
 
