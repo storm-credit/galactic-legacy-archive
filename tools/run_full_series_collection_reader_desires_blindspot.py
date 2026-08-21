@@ -3,9 +3,11 @@
 
 No new collectible, event or authority is created. This wrapper:
 - prevents registry status shorthand from becoming writer-facing desire,
-- closes reviewed NEXT_DESIRE skips to the immediate approved subact, and
+- closes reviewed NEXT_DESIRE skips to the immediate approved subact,
 - reconciles a narrow reviewed set of CLSET front targets with explicit source
-  `Active Pursuit Windows` when score ranking displaced the registered pursuit.
+  `Active Pursuit Windows` when score ranking displaced the registered pursuit,
+- and preserves source distinctions when a terse Reward line would otherwise be
+  copied into several writer-execution fields.
 
 Named operational labels such as Window A/B/C are source language and remain.
 Bare backticked statuses such as `L`, `G`, `C/G/L` are internal metadata.
@@ -34,6 +36,30 @@ runner.reader.OVERRIDES[("GA7", "7C-4")] = {
     ),
     "hook": (
         "evidence that several 'Blood Admiral' incidents occurred under different commanders, titles and timelines turns the next desire into a representative incident matrix and plural responsibility audit."
+    ),
+}
+
+# GA10 10A-1 source already distinguishes cause, bounded emergency correction,
+# irreversible cost and the region's demand to own the correction. The base
+# extractor previously copied the terse Reward ('immediate collapse stopped')
+# into acquisition/synergy/set-advance, which was mechanically valid but too
+# shallow for writer execution. These phrases paraphrase only the approved
+# 10A-1 Entry/Goal/Cause stack/P-001 response/Reward/Cost/Hook.
+runner.reader.OVERRIDES[("GA10", "10A-1")] = {
+    "discovery": (
+        "the first handoff can fail through incomplete local staff/training, hidden central dependency or backdoor, local exploitation, hostile/hardliner attack and schedule pressure; the failure must be identified while authentication, payroll, hospital and route services are collapsing."
+    ),
+    "acquisition": (
+        "stop the immediate mass-service collapse with a temporary bounded central correction whose expiration and trace are explicit, without cancelling the handoff or converting emergency use back into permanent central ownership."
+    ),
+    "synergy": (
+        "the bounded correction preserves named people/services long enough for the failure cause to become usable evidence, while its trace/expiration makes the next local correction possible instead of hiding dependency behind another central takeover."
+    ),
+    "cost": (
+        "one irreversible death/loss remains, and the successful emergency override publicly strengthens the argument that P-001's central control is safer."
+    ),
+    "hook": (
+        "the transition region demands local ownership of the correction rather than another central takeover."
     ),
 }
 
