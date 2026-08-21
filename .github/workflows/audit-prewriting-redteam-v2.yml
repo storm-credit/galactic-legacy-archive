@@ -8,6 +8,8 @@ on:
       - 'tools/audit_prewriting_redteam_v2.py'
       - 'tools/run_prewriting_redteam_v2_strict.py'
       - 'tools/audit_relationship_activation_source_labels.py'
+      - 'tools/audit_collection_active_pursuit_reconciliation.py'
+      - 'tools/collection_active_pursuit_reconciliation.py'
       - 'tools/run_full_series_context_writer_activation*.py'
       - 'tools/run_full_series_collection_reader_desires*.py'
       - 'tools/finalize_full_series_collection_desire_semantic_sets.py'
@@ -22,6 +24,8 @@ on:
       - 'tools/audit_prewriting_redteam_v2.py'
       - 'tools/run_prewriting_redteam_v2_strict.py'
       - 'tools/audit_relationship_activation_source_labels.py'
+      - 'tools/audit_collection_active_pursuit_reconciliation.py'
+      - 'tools/collection_active_pursuit_reconciliation.py'
       - 'tools/run_full_series_context_writer_activation*.py'
       - 'tools/run_full_series_collection_reader_desires*.py'
       - 'tools/finalize_full_series_collection_desire_semantic_sets.py'
@@ -53,6 +57,12 @@ jobs:
           python tools/sanitize_context_activation_provenance.py
           python tools/run_full_series_collection_reader_desires_blindspot.py
 
+      - name: Audit source Active Pursuit to CLSET routing
+        run: |
+          python tools/audit_collection_active_pursuit_reconciliation.py
+          python tools/audit_collection_active_pursuit_reconciliation.py --check
+          grep -q 'Status: PASS — EXECUTION QC' docs/99_quality_control/collection-active-pursuit-crosslayer-redteam-v1.md
+
       - name: Run strict second-pass hostile audit
         run: |
           python tools/run_prewriting_redteam_v2_strict.py
@@ -67,18 +77,20 @@ jobs:
 
       - name: Show red-team summary
         run: |
-          sed -n '1,170p' docs/99_quality_control/prewriting-execution-redteam-v2-audit.md
+          sed -n '1,180p' docs/99_quality_control/prewriting-execution-redteam-v2-audit.md
+          sed -n '1,180p' docs/99_quality_control/collection-active-pursuit-crosslayer-redteam-v1.md
           sed -n '1,120p' docs/99_quality_control/relationship-activation-source-label-audit-v1.md
 
       - name: Persist audit reports on branch push
         if: github.event_name == 'push'
         run: |
-          if git diff --quiet -- docs/99_quality_control/prewriting-execution-redteam-v2-audit.md docs/99_quality_control/relationship-activation-source-label-audit-v1.md; then
+          TARGETS='docs/99_quality_control/prewriting-execution-redteam-v2-audit.md docs/99_quality_control/relationship-activation-source-label-audit-v1.md docs/99_quality_control/collection-active-pursuit-crosslayer-redteam-v1.md'
+          if git diff --quiet -- $TARGETS; then
             echo 'audit reports already current'
             exit 0
           fi
           git config user.name 'galactic-legacy-qc-bot'
           git config user.email 'actions@users.noreply.github.com'
-          git add -- docs/99_quality_control/prewriting-execution-redteam-v2-audit.md docs/99_quality_control/relationship-activation-source-label-audit-v1.md
+          git add -- $TARGETS
           git commit -m 'QC: persist prewriting red-team v2 audits'
           git push origin HEAD:qc/prewriting-execution-redteam-v2
