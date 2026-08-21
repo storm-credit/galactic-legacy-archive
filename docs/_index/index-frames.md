@@ -17,7 +17,7 @@
 
 [[07호]]
 
-## 06_hardware (12)
+## 06_hardware (13)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
@@ -33,3 +33,4 @@
 | [[named-technology-lineage-registry-v1|named-technology-lineage-registry-v1]] | Named Technology Lineage Registry v1 | PROPOSED |
 | [[named-weapon-and-part-registry-v1|named-weapon-and-part-registry-v1]] | Named Weapon and Part Registry v1 | PROPOSED |
 | [[ownerless-fleet-structure-and-alignment-v1|ownerless-fleet-structure-and-alignment-v1]] | Ownerless Fleet Structure & Alignment v1 | REVIEW |
+| [[parus-collectible-home-ship-visual-sensory-identity-directions-v1|parus-collectible-home-ship-visual-sensory-identity-directions-v1]] | Parus Collectible Home-Ship Visual & Sensory Identity Dir… | PROPOSED |

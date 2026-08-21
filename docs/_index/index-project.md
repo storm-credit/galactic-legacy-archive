@@ -9,7 +9,7 @@
 
 정본 목록은 [[HOME]]에서 갈라집니다.
 
-## 00_project (134)
+## 00_project (150)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
@@ -29,10 +29,12 @@
 | [[context-handoff-ga8-after-e850-2026-08-05|context-handoff-ga8-after-e850-2026-08-05]] | Context Handoff | NEW-WINDOW EXECUTION PROMPT |
 | [[context-handoff-ga8-after-e875-2026-08-05|context-handoff-ga8-after-e875-2026-08-05]] | Context Handoff | NEW-WINDOW EXECUTION PROMPT |
 | [[context-handoff-ga9-after-e900-2026-08-05|context-handoff-ga9-after-e900-2026-08-05]] | Context Handoff | NEW-WINDOW EXECUTION PROMPT |
+| [[context-pack-tangible-reader-memory-execution-spec-proposal-v1|context-pack-tangible-reader-memory-execution-spec-proposal-v1]] | Context Pack Tangible Reader-Memory Execution Spec v1 | CANON |
 | [[context-window-handoff-protocol|context-window-handoff-protocol]] | Context Window Handoff Protocol | CANON PROJECT CONTROL |
 | [[culture-community-scale-status-2026-08-03|culture-community-scale-status-2026-08-03]] | Culture, Community & Scale Status | CANON PROJECT CONTROL |
 | [[current-work-status-2026-08-17|current-work-status-2026-08-17]] | Current Work Status | PROJECT CONTROL |
 | [[decision-log|decision-log]] | Decision Log | CANON |
+| [[decision-log-addendum-2026-08-20-ga10-ending|decision-log-addendum-2026-08-20-ga10-ending]] | Decision Log Addendum | CANON PROJECT CONTROL |
 | [[deferred-design-register-v1|deferred-design-register-v1]] | Deferred Design Register v1 | CANON PROJECT CONTROL |
 | [[deferred-design-register-v2|deferred-design-register-v2]] | Deferred Design Register v2 | CANON PROJECT CONTROL |
 | [[design-only-scope-restoration-2026-08-03|design-only-scope-restoration-2026-08-03]] | Design-Only Scope Restoration | CANON PROJECT CONTROL |
@@ -45,7 +47,19 @@
 | [[final-canonization-deliverables-index|final-canonization-deliverables-index]] | Final Canonization Deliverables Index | CANON PROJECT CONTROL |
 | [[final-canonization-status-2026-08-03|final-canonization-status-2026-08-03]] | Final Canonization Status | CANON PROJECT CONTROL |
 | [[first-writing-batch-readiness-v1|first-writing-batch-readiness-v1]] | First Writing Batch Readiness v1 | REVIEW |
+| [[full-series-collection-desire-subact-completion-checkpoint-2026-08-21|full-series-collection-desire-subact-completion-checkpoint-2026-08-21]] | Full-Series Collection Desire / Set / Subact Completion C… | PASS |
+| [[full-series-collection-desire-subact-execution-standard-v1|full-series-collection-desire-subact-execution-standard-v1]] | Full-Series Collection Desire / Set / Subact Execution St… | WORKFLOW/QC |
+| [[full-series-context-first-production-directive-2026-08-20|full-series-context-first-production-directive-2026-08-20]] | Full-Series Context-First Production Directive | CANON |
+| [[full-series-context-pack-completion-checkpoint-2026-08-20|full-series-context-pack-completion-checkpoint-2026-08-20]] | Full-Series Context Pack Completion Checkpoint | PASS |
+| [[full-series-context-writer-activation-depth-standard-v1|full-series-context-writer-activation-depth-standard-v1]] | Full-Series Context Writer-Activation Depth Standard v1 | CANON |
 | [[ga1-10-state-checkpoint-matrix-v1|ga1-10-state-checkpoint-matrix-v1]] | GA1–10 State Checkpoint Matrix v1 | REVIEW |
+| [[ga1-e001-e010-context-pack-production-v1|ga1-e001-e010-context-pack-production-v1]] | GA1 E001–E010 Context Pack Production v1 | REVIEW |
+| [[ga1-e001-e010-context-pack-status-index-v1|ga1-e001-e010-context-pack-status-index-v1]] | GA1 E001–E010 Context Pack Status Index v1 | REVIEW |
+| [[ga1-e002-context-pack-refresh-v1|ga1-e002-context-pack-refresh-v1]] | GA1 E002 Context Pack Refresh v1 | REVIEW |
+| [[ga1-e003-context-pack-refresh-v1|ga1-e003-context-pack-refresh-v1]] | GA1 E003 Context Pack Refresh v1 | REVIEW |
+| [[ga1-e004-context-pack-refresh-v1|ga1-e004-context-pack-refresh-v1]] | GA1 E004 Context Pack Refresh v1 | REVIEW |
+| [[ga1-e005-context-pack-refresh-v1|ga1-e005-context-pack-refresh-v1]] | GA1 E005 Context Pack Refresh v1 | REVIEW |
+| [[ga1-e006-e010-context-pack-deep-v1|ga1-e006-e010-context-pack-deep-v1]] | GA1 E006–E010 Deep Context Pack v1 | REVIEW |
 | [[ga1-e1-5-first-draft-status-2026-08-03|ga1-e1-5-first-draft-status-2026-08-03]] | GA1 Episodes 1–5 First-Draft Status | CANON PROJECT CONTROL |
 | [[ga1-e21-45-continuity-change-record|ga1-e21-45-continuity-change-record]] | GA1 Episodes 21–45 Continuity Change Record | CANON PROJECT CONTROL |
 | [[ga1-e21-45-scene-card-status-2026-08-03|ga1-e21-45-scene-card-status-2026-08-03]] | GA1 Episodes 21–45 Scene-Card Status | CANON PROJECT CONTROL |
@@ -57,6 +71,7 @@
 | [[ga10-detail-progress-status-925-2026-08-05|ga10-detail-progress-status-925-2026-08-05]] | GA10 Detailed Episode Progress Status 925 | PROJECT CONTROL |
 | [[ga10-detail-progress-status-950-2026-08-05|ga10-detail-progress-status-950-2026-08-05]] | GA10 Detailed Episode Progress Status 950 | PROJECT CONTROL |
 | [[ga10-detail-progress-status-975-2026-08-05|ga10-detail-progress-status-975-2026-08-05]] | GA10 Detailed Episode Progress Status 975 | PROJECT CONTROL |
+| [[ga10-ending-reconciliation-canon-amendment-2026-08-20|ga10-ending-reconciliation-canon-amendment-2026-08-20]] | GA10 Ending Reconciliation Canon Amendment | CANON AMENDMENT |
 | [[ga10-status-2026-08-03|ga10-status-2026-08-03]] | GA10 Status | CANON PROJECT CONTROL |
 | [[ga2-detail-completion-status-110-2026-08-03|ga2-detail-completion-status-110-2026-08-03]] | GA2 Detailed Completion Status 110 | PROJECT CONTROL |
 | [[ga2-detail-progress-status-050-2026-08-03|ga2-detail-progress-status-050-2026-08-03]] | GA2 Detailed Episode Progress Status 050 | PROJECT CONTROL |
@@ -139,6 +154,7 @@
 | [[pre-writing-gate-open-record-2026-08-06|pre-writing-gate-open-record-2026-08-06]] | Pre-Writing Gate Open Record | CANON PROJECT CONTROL |
 | [[pre-writing-gate-review-v1|pre-writing-gate-review-v1]] | Pre-Writing Gate Review v1 | REVIEW |
 | [[prewriting-dry-audit-status-2026-08-03|prewriting-dry-audit-status-2026-08-03]] | Pre-Writing Dry-Audit Status | CANON PROJECT CONTROL |
+| [[prewriting-execution-integration-closure-2026-08-21|prewriting-execution-integration-closure-2026-08-21]] | Pre-Writing Execution Integration Closure | PASS |
 | [[project-charter|project-charter]] | Project Charter | CANON |
 | [[reader-facing-terminology-phonetics-and-register-bible-v1|reader-facing-terminology-phonetics-and-register-bible-v1]] | Reader-Facing Terminology, Phonetics & Register Bible v1 | CANON PROJECT CONTROL |
 | [[settings-bible-final-status-2026-08-03|settings-bible-final-status-2026-08-03]] | Settings-Bible Final Status | FINAL CANON PROJECT CONTROL |
@@ -148,13 +164,17 @@
 | [[specialist-routing-index|specialist-routing-index]] | Specialist Routing Index | CANON |
 | [[workflow|workflow]] | End-to-End Workflow & Harness | CANON |
 
-## 99_quality_control (111)
+## 99_quality_control (150)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
 | [[blind-spot-register|blind-spot-register]] | Blind-Spot Register | DRAFT |
+| [[collection-active-pursuit-crosslayer-redteam-v1|collection-active-pursuit-crosslayer-redteam-v1]] | Collection Active-Pursuit Cross-Layer Red-Team v1 | PASS |
+| [[collection-desire-and-reader-memory-completion-scorecard-2026-08-20|collection-desire-and-reader-memory-completion-scorecard-2026-08-20]] | Collection Desire & Reader Memory Completion Scorecard | REVIEW |
+| [[context-pack-workflow-adoption-impact-review-2026-08-20|context-pack-workflow-adoption-impact-review-2026-08-20]] | Context Pack Workflow Adoption Impact Review | REVIEW |
 | [[continuity-issues|continuity-issues]] | Continuity Issues | CANON PROJECT CONTROL |
 | [[culture-community-galaxy-scale-redteam|culture-community-galaxy-scale-redteam]] | Culture, Community & Galaxy-Scale Red-Team Review | REVIEW COMPLETE |
+| [[decision-owner-role-reconciliation-redteam-v1|decision-owner-role-reconciliation-redteam-v1]] | Decision-Owner Role Reconciliation Red-Team v1 | PASS |
 | [[deferred-detail-completion-ci-closure-v1|deferred-detail-completion-ci-closure-v1]] | Deferred-Detail Completion CI Closure v1 | REVIEW COMPLETE |
 | [[deferred-detail-completion-redteam-v1|deferred-detail-completion-redteam-v1]] | Deferred-Detail Completion Red Team v1 | REVIEW COMPLETE |
 | [[design-linkage-04-13-audit-and-frame-standing-2026-08-13|design-linkage-04-13-audit-and-frame-standing-2026-08-13]] | 설계 문서 04–13 연결성 감사 + 기체 진행 현황 (2026-08-13) | QUALITY-CONTROL |
@@ -166,7 +186,27 @@
 | [[final-canonization-redteam-review|final-canonization-redteam-review]] | Final Canonization Red-Team Review | REVIEW COMPLETE |
 | [[final-settings-bible-completion-audit-v3|final-settings-bible-completion-audit-v3]] | Final Settings-Bible Completion Audit v3 | REVIEW COMPLETE |
 | [[frame-lineup-faction-coverage-gap-2026-08-13|frame-lineup-faction-coverage-gap-2026-08-13]] | 기동 프레임 라인업 | QUALITY-CONTROL |
+| [[full-series-collection-context-crosslayer-audit-v1|full-series-collection-context-crosslayer-audit-v1]] | Full-Series Collection Desire ↔ Context Writer-Activation… | PASS |
+| [[full-series-collection-desire-manual-b-depth-redteam-v1|full-series-collection-desire-manual-b-depth-redteam-v1]] | Full-Series Collection Desire Manual B-Depth Red-Team v1 | PASS |
+| [[full-series-collection-desire-repetition-reader-memory-redteam-v1|full-series-collection-desire-repetition-reader-memory-redteam-v1]] | Full-Series Collection Desire Repetition / Reader-Memory … | PASS |
+| [[full-series-collection-desire-semantic-lint-v1|full-series-collection-desire-semantic-lint-v1]] | Full-Series Collection Desire Semantic Lint v1 | PASS |
+| [[full-series-collection-desire-subact-depth-audit-v1|full-series-collection-desire-subact-depth-audit-v1]] | Full-Series Collection Desire / Subact Depth Audit v1 | REVIEW |
+| [[full-series-collection-endpoint-reference-false-a-audit-v1|full-series-collection-endpoint-reference-false-a-audit-v1]] | Collection Endpoint-Reference False-A Audit v1 | PASS |
+| [[full-series-collection-reader-desire-source-audit-v1|full-series-collection-reader-desire-source-audit-v1]] | Full-Series Collection Reader-Desire Source Audit v1 | PASS |
+| [[full-series-collection-set-family-semantic-balance-audit-v1|full-series-collection-set-family-semantic-balance-audit-v1]] | Full-Series Collection Set-Family Semantic Balance Audit v1 | PASS |
+| [[full-series-context-decision-owner-blindspot-audit-v1|full-series-context-decision-owner-blindspot-audit-v1]] | Full-Series Context Decision-Owner Blindspot Audit v1 | PASS |
+| [[full-series-context-load-bearing-manual-redteam-2026-08-20|full-series-context-load-bearing-manual-redteam-2026-08-20]] | Full-Series Context Load-Bearing Manual Red-Team | PASS |
+| [[full-series-context-pack-semantic-blindspot-audit-2026-08-20|full-series-context-pack-semantic-blindspot-audit-2026-08-20]] | Full-Series Context Pack Semantic Blindspot Audit | PASS |
+| [[full-series-context-writer-activation-false-a-redteam-v1|full-series-context-writer-activation-false-a-redteam-v1]] | Full-Series Context Writer-Activation False-A Red-Team Au… | REVIEW |
+| [[full-series-context-writer-depth-audit-v1|full-series-context-writer-depth-audit-v1]] | Full-Series Context Writer-Activation Depth Audit v1 | REVIEW |
+| [[full-series-context-writer-depth-audit-v2|full-series-context-writer-depth-audit-v2]] | Full-Series Context Writer-Activation Depth Audit v2 | REVIEW |
+| [[ga1-e001-context-pack-manuscript-diagnosis-2026-08-20|ga1-e001-context-pack-manuscript-diagnosis-2026-08-20]] | GA1 E001 Context Pack Manuscript Diagnosis | QUALITY CONTROL |
+| [[ga1-e001-e010-context-pack-deep-blindspot-audit-2026-08-20|ga1-e001-e010-context-pack-deep-blindspot-audit-2026-08-20]] | GA1 E001–E010 Deep Context Pack Blindspot Audit | QUALITY-CONTROL |
 | [[ga1-e001-e020-narration-audit-v1|ga1-e001-e020-narration-audit-v1]] | GA1 E001~E020 낭독 감사 v1 | — |
+| [[ga1-e002-context-pack-manuscript-diagnosis-2026-08-20|ga1-e002-context-pack-manuscript-diagnosis-2026-08-20]] | GA1 E002 Context Pack Manuscript Diagnosis | QUALITY-CONTROL |
+| [[ga1-e003-context-pack-manuscript-diagnosis-2026-08-20|ga1-e003-context-pack-manuscript-diagnosis-2026-08-20]] | GA1 E003 Context Pack Manuscript Diagnosis | REVIEW COMPLETE |
+| [[ga1-e004-context-pack-manuscript-diagnosis-2026-08-20|ga1-e004-context-pack-manuscript-diagnosis-2026-08-20]] | GA1 E004 Context Pack Manuscript Diagnosis | REVIEW COMPLETE |
+| [[ga1-e005-context-pack-manuscript-diagnosis-2026-08-20|ga1-e005-context-pack-manuscript-diagnosis-2026-08-20]] | GA1 E005 Context Pack Manuscript Diagnosis | REVIEW COMPLETE |
 | [[ga1-e1-5-first-draft-continuity-voice-audit-v1|ga1-e1-5-first-draft-continuity-voice-audit-v1]] | GA1 Episodes 1–5 First-Draft Continuity & Voice Audit v1 | QUALITY-CONTROL |
 | [[ga1-e1-5-first-draft-redteam|ga1-e1-5-first-draft-redteam]] | GA1 Episodes 1–5 First-Draft Red-Team Review | QUALITY-CONTROL |
 | [[ga1-e1-v2-design-canon-narration-conformance-audit-2026-08-08|ga1-e1-v2-design-canon-narration-conformance-audit-2026-08-08]] | Conformance Audit | REVIEW COMPLETE |
@@ -181,10 +221,13 @@
 | [[ga1-e6-20-first-draft-continuity-voice-audit-v1|ga1-e6-20-first-draft-continuity-voice-audit-v1]] | GA1 Episodes 6–20 First-Draft Continuity & Voice Audit v1 | QUALITY-CONTROL |
 | [[ga1-e6-20-first-draft-redteam|ga1-e6-20-first-draft-redteam]] | GA1 Episodes 6–20 First-Draft Red-Team Review | QUALITY-CONTROL |
 | [[ga1-e73-100-scene-card-redteam|ga1-e73-100-scene-card-redteam]] | GA1 Episodes 73–100 Scene-Card Red-Team | REVIEW COMPLETE |
+| [[ga1-ga10-collection-desire-and-tangible-reward-rhythm-regression-audit-v1|ga1-ga10-collection-desire-and-tangible-reward-rhythm-regression-audit-v1]] | GA1–GA10 Collection-Desire & Tangible-Reward Rhythm Regre… | REVIEW |
 | [[ga10-e1001-1025-redteam-v1|ga10-e1001-1025-redteam-v1]] | GA10 E1001–1025 Red-Team Audit v1 | PASS |
 | [[ga10-e1001-1100-final-cross-audit-v1|ga10-e1001-1100-final-cross-audit-v1]] | GA10 E1001–1100 Final Cross-Audit v1 | PASS |
 | [[ga10-e1026-1050-redteam-v1|ga10-e1026-1050-redteam-v1]] | GA10 E1026–1050 Red-Team Audit v1 | PASS |
 | [[ga10-e1051-1075-redteam-v1|ga10-e1051-1075-redteam-v1]] | GA10 E1051–1075 Red-Team Audit v1 | PASS |
+| [[ga10-e1076-1100-ending-reconciliation-crosswalk-and-audit-v1|ga10-e1076-1100-ending-reconciliation-crosswalk-and-audit-v1]] | GA10 E1076–1100 Ending Reconciliation Crosswalk & Audit v1 | PASS |
+| [[ga10-ending-targeted-brainstorm-v2|ga10-ending-targeted-brainstorm-v2]] | GA10 Ending Targeted Brainstorm v2 | REVIEW |
 | [[ga10-redteam-review|ga10-redteam-review]] | GA10 Red-Team Review | REVIEW COMPLETE |
 | [[ga2-e101-125-redteam-v1|ga2-e101-125-redteam-v1]] | GA2 E101–125 Detailed Design Red Team v1 | REVIEW COMPLETE |
 | [[ga2-e101-210-final-cross-audit-v1|ga2-e101-210-final-cross-audit-v1]] | GA2 E101–210 Final Cross-Audit v1 | REVIEW COMPLETE |
@@ -204,6 +247,7 @@
 | [[ga4-e356-380-redteam-v1|ga4-e356-380-redteam-v1]] | GA4 E356–380 Detailed Design Red Team v1 | REVIEW COMPLETE |
 | [[ga4-e381-405-redteam-v1|ga4-e381-405-redteam-v1]] | GA4 E381–405 Detailed Design Red Team v1 | REVIEW COMPLETE |
 | [[ga4-e406-430-redteam-v1|ga4-e406-430-redteam-v1]] | GA4 E406–430 Detailed Design Red Team v1 | REVIEW COMPLETE |
+| [[ga4-ga7-ga8-ga9-episode-level-tangible-anchor-and-collection-desire-audit-v1|ga4-ga7-ga8-ga9-episode-level-tangible-anchor-and-collection-desire-audit-v1]] | GA4·GA7·GA8·GA9 Episode-Level Tangible Anchor & Collectio… | REVIEW |
 | [[ga4-redteam-review|ga4-redteam-review]] | GA4 Red-Team Review | REVIEW COMPLETE |
 | [[ga5-e451-475-redteam-v1|ga5-e451-475-redteam-v1]] | GA5 E451–475 Red-Team Audit v1 | REVIEW |
 | [[ga5-e451-570-final-cross-audit-v1|ga5-e451-570-final-cross-audit-v1]] | GA5 E451–570 Final Cross-Audit v1 | REVIEW |
@@ -219,6 +263,7 @@
 | [[ga6-redteam-review|ga6-redteam-review]] | GA6 Red-Team Review | REVIEW COMPLETE |
 | [[ga7-e691-715-redteam-v1|ga7-e691-715-redteam-v1]] | GA7 E691–715 Red-Team Audit v1 | REVIEW |
 | [[ga7-e691-800-final-cross-audit-v1|ga7-e691-800-final-cross-audit-v1]] | GA7 E691–800 Final Cross-Audit v1 | PASS |
+| [[ga7-e716-723-context-pack-dry-run-v1|ga7-e716-723-context-pack-dry-run-v1]] | GA7 E716–723 Context Pack Dry-Run v1 | REVIEW |
 | [[ga7-e716-740-redteam-v1|ga7-e716-740-redteam-v1]] | GA7 E716–740 Red-Team Audit v1 | REVIEW |
 | [[ga7-e741-765-redteam-v1|ga7-e741-765-redteam-v1]] | GA7 E741–765 Red-Team Audit v1 | REVIEW |
 | [[ga7-e766-790-redteam-v1|ga7-e766-790-redteam-v1]] | GA7 E766–790 Red-Team Audit v1 | PASS |
@@ -226,6 +271,7 @@
 | [[ga8-e801-825-redteam-v1|ga8-e801-825-redteam-v1]] | GA8 E801–825 Red-Team Audit v1 | PASS |
 | [[ga8-e801-900-final-cross-audit-v1|ga8-e801-900-final-cross-audit-v1]] | GA8 E801–900 Final Cross-Audit v1 | PASS |
 | [[ga8-e826-850-redteam-v1|ga8-e826-850-redteam-v1]] | GA8 E826–850 Red-Team Audit v1 | PASS |
+| [[ga8-e851-860-context-pack-dry-run-v1|ga8-e851-860-context-pack-dry-run-v1]] | GA8 E851–860 Context Pack Dry-Run v1 | REVIEW |
 | [[ga8-e851-875-redteam-v1|ga8-e851-875-redteam-v1]] | GA8 E851–875 Red-Team Audit v1 | PASS |
 | [[ga8-redteam-review|ga8-redteam-review]] | GA8 Red-Team Review | REVIEW COMPLETE |
 | [[ga9-e901-1000-final-cross-audit-v1|ga9-e901-1000-final-cross-audit-v1]] | GA9 E901–1000 Final Cross-Audit v1 | PASS |
@@ -243,6 +289,7 @@
 | [[gates4-5-opening-completion-redteam|gates4-5-opening-completion-redteam]] | Gates 4–5 Opening Completion Red-Team | REVIEW COMPLETE |
 | [[gates4-5-redteam-review|gates4-5-redteam-review]] | Gates 4–5 Red-Team Review | REVIEW COMPLETE |
 | [[late-series-world-atlas-redteam|late-series-world-atlas-redteam]] | Late-Series World Atlas Red-Team | REVIEW COMPLETE |
+| [[long-window-narrative-engine-differentiation-redteam-v1|long-window-narrative-engine-differentiation-redteam-v1]] | Long-Window Narrative-Engine Differentiation Red-Team v1 | PASS |
 | [[macro-economy-and-trade-redteam|macro-economy-and-trade-redteam]] | Macro Economy & Trade Red-Team | REVIEW COMPLETE |
 | [[military-doctrine-and-holdings-redteam|military-doctrine-and-holdings-redteam]] | Military Doctrine & Holdings Red-Team | REVIEW COMPLETE |
 | [[named-succession-and-supporting-cast-redteam|named-succession-and-supporting-cast-redteam]] | Named Succession & Supporting Cast Red-Team | REVIEW COMPLETE |
@@ -252,14 +299,22 @@
 | [[pr136-actmap-compliance-notes-2026-08-18|pr136-actmap-compliance-notes-2026-08-18]] | PR #136 검토 노트 | REVIEW NOTE |
 | [[pr137-actmap-compliance-notes-2026-08-18|pr137-actmap-compliance-notes-2026-08-18]] | PR #137 검토 노트 | REVIEW NOTE |
 | [[pre-writing-readiness-audit-v1|pre-writing-readiness-audit-v1]] | Pre-Writing Readiness Audit v1 | REVIEW |
+| [[prewriting-execution-redteam-v2-audit|prewriting-execution-redteam-v2-audit]] | Pre-Writing Execution Red-Team v2 Audit | PASS-WITH-WATCH |
 | [[prewriting-gate|prewriting-gate]] | Pre-Writing Gate | CANON |
 | [[prewriting-gate-dry-audit-2026-08-03|prewriting-gate-dry-audit-2026-08-03]] | Pre-Writing Gate Dry Audit | REVIEW COMPLETE |
 | [[prewriting-gate-evidence-matrix-v2|prewriting-gate-evidence-matrix-v2]] | Pre-Writing Gate Evidence Matrix v2 | REVIEW |
 | [[prewriting-gate-proxy-signoff-2026-08-03|prewriting-gate-proxy-signoff-2026-08-03]] | Pre-Writing Gate Proxy Sign-Off | CANON PROJECT CONTROL |
 | [[prewriting-gate-scorecard-2026-08-13|prewriting-gate-scorecard-2026-08-13]] | Pre-Writing Gate Scorecard | REVIEW COMPLETE |
+| [[reader-collection-desire-character-mecha-place-visual-memory-audit-2026-08-20|reader-collection-desire-character-mecha-place-visual-memory-audit-2026-08-20]] | Reader Collection-Desire, Character/Mecha/Place Visual-Me… | REVIEW |
+| [[reference-deconstruction-and-anti-similarity-collection-v1|reference-deconstruction-and-anti-similarity-collection-v1]] | Reference Deconstruction & Anti-Similarity Collection v1 | REVIEW |
+| [[reference-similarity-and-ending-blindspot-sweep-v1|reference-similarity-and-ending-blindspot-sweep-v1]] | Reference Similarity & Ending Blindspot Sweep v1 | REVIEW |
 | [[registry-redteam-2026-08-13|registry-redteam-2026-08-13]] | Registry Red-Team | REVIEW COMPLETE |
+| [[relationship-activation-source-label-audit-v1|relationship-activation-source-label-audit-v1]] | Relationship Activation Source-Label Audit v1 | PASS |
+| [[relationship-cadence-semantic-redteam-v1|relationship-cadence-semantic-redteam-v1]] | Relationship-Cadence Semantic Red-Team v1 | PASS |
 | [[slr-card-bit-proposals-2026-08-19|slr-card-bit-proposals-2026-08-19]] | SLR 12편 카드 비트 승인 제안 | PROPOSED |
 | [[slr-card-bit-proposals-round2-2026-08-19|slr-card-bit-proposals-round2-2026-08-19]] | SLR 잔여 5편 카드 비트 승인 제안 | PROPOSED |
 | [[society-and-culture-completion-redteam|society-and-culture-completion-redteam]] | Society & Culture Completion Red-Team | REVIEW COMPLETE |
+| [[tangible-execution-overcorrection-redteam-v1|tangible-execution-overcorrection-redteam-v1]] | Tangible Execution Overcorrection Red Team v1 | REVIEW |
+| [[weapon-relic-tactile-collectibility-and-canon-readiness-audit-2026-08-20|weapon-relic-tactile-collectibility-and-canon-readiness-audit-2026-08-20]] | Weapon/Relic Tactile Collectibility & Canon-Readiness Audit | REVIEW |
 | [[world-bible-completion-gap-audit-v2|world-bible-completion-gap-audit-v2]] | World-Bible Completion Gap Audit v2 | REVIEW COMPLETE |
 | [[world-design-01-02-03-linkage-and-payoff-audit-2026-08-13|world-design-01-02-03-linkage-and-payoff-audit-2026-08-13]] | 세계관 01·02·03 연결성·회수 감사 (2026-08-13) | QUALITY-CONTROL |

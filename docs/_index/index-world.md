@@ -9,12 +9,13 @@
 
 정본 목록은 [[HOME]]에서 갈라집니다.
 
-## 02_world (34)
+## 02_world (36)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
 | [[ardis-node-city-bible-v1|ardis-node-city-bible-v1]] | Ardis Node City Bible v1 | REVIEW |
 | [[ardis-node-engineering-and-battle-bible-v1|ardis-node-engineering-and-battle-bible-v1]] | Ardis Node Engineering & Battle Bible v1 | REVIEW |
+| [[ardis-reader-memory-visual-sensory-identity-directions-v1|ardis-reader-memory-visual-sensory-identity-directions-v1]] | Ardis Reader-Memory Visual & Sensory Identity Directions v1 | PROPOSED |
 | [[census-anchor-and-scale-clarifications-v1|census-anchor-and-scale-clarifications-v1]] | Census Anchor & Scale Clarifications v1 | WORKING CANON |
 | [[divergence-ledger-opening-v1|divergence-ledger-opening-v1]] | Divergence Ledger | REVIEW |
 | [[education-media-art-sport-and-holidays-bible-v1|education-media-art-sport-and-holidays-bible-v1]] | Education, Media, Art, Sport & Holidays Bible v1 | REVIEW |
@@ -42,13 +43,14 @@
 | [[opening-region-route-graph-v1|opening-region-route-graph-v1]] | Opening Region Route Graph v1 | REVIEW |
 | [[original-timeline-v1|original-timeline-v1]] | Original Timeline v1 | REVIEW |
 | [[orpheus-incident-original-and-current-packet-v1|orpheus-incident-original-and-current-packet-v1]] | Orpheus Incident Packet v1 | REVIEW |
+| [[palimpsest-reach-reader-memory-visual-sensory-identity-directions-v1|palimpsest-reach-reader-memory-visual-sensory-identity-directions-v1]] | Palimpsest Reach Reader-Memory Visual & Sensory Identity … | PROPOSED |
 | [[regression-causality-harness|regression-causality-harness]] | Regression Causality Harness | CANON FOR DESIGN / TEMPORAL MODEL NOT YET LOCKED |
 | [[reproductive-genetic-and-continuity-medicine-bible-v1|reproductive-genetic-and-continuity-medicine-bible-v1]] | Reproductive, Genetic & Continuity Medicine Bible v1 | WORKING CANON |
 | [[technology-era-and-interoperability-bible-v1|technology-era-and-interoperability-bible-v1]] | Technology Era & Interoperability Bible v1 | REVIEW |
 | [[three-year-epilogue-regional-statistics-v1|three-year-epilogue-regional-statistics-v1]] | Three-Year Epilogue Regional Statistics v1 | WORKING CANON |
 | [[visual-language-costume-architecture-and-concept-brief-v1|visual-language-costume-architecture-and-concept-brief-v1]] | Visual Language, Costume, Architecture & Concept Brief v1 | WORKING CANON |
 
-## 03_academy (6)
+## 03_academy (7)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
@@ -57,6 +59,7 @@
 | [[academy-scale-law-calibration-v1|academy-scale-law-calibration-v1]] | Academy Scale & Law Calibration v1 | REVIEW |
 | [[academy-siege-force-and-front-state-v1|academy-siege-force-and-front-state-v1]] | Academy Siege Force & Front State v1 | REVIEW |
 | [[academy-white-dock-map-v1|academy-white-dock-map-v1]] | Academy & White Dock Spatial Map v1 | REVIEW |
+| [[academy-white-dock-reader-memory-visual-sensory-identity-directions-v1|academy-white-dock-reader-memory-visual-sensory-identity-directions-v1]] | Academy & White Dock Reader-Memory Visual/Sensory Identit… | PROPOSED |
 | [[prison-military-academy-bible-v1|prison-military-academy-bible-v1]] | Prison Military Academy Bible v1 | REVIEW |
 
 ## 03_systems (11)

@@ -24,7 +24,7 @@
 | Q-001 | 테오 마른 | Theo Marn |
 | A-001 | [[아우렐]] | Aurel |
 
-## 05_characters (62)
+## 05_characters (63)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
@@ -34,6 +34,7 @@
 | [[antagonist-a001-continuity-director-v1|antagonist-a001-continuity-director-v1]] | Antagonist A-001 Bible v1 | REVIEW |
 | [[aurel-embodiment-and-office-timeline-v1|aurel-embodiment-and-office-timeline-v1]] | Aurel Embodiment & Office Timeline v1 | REVIEW |
 | [[core-canonical-names-and-voice-lock-v1|core-canonical-names-and-voice-lock-v1]] | Core Canonical Names & Voice Lock v1 | REVIEW |
+| [[core-cast-collectible-visual-identity-directions-v1|core-cast-collectible-visual-identity-directions-v1]] | Core Cast Collectible Visual Identity Directions v1 | PROPOSED |
 | [[enemy-ace-e001-bible-v1|enemy-ace-e001-bible-v1]] | Enemy Ace E-001 Bible v1 | REVIEW |
 | [[ga10-autonomous-fronts-early-institutions-and-last-fleet-cast-e1051-1075-v1|ga10-autonomous-fronts-early-institutions-and-last-fleet-cast-e1051-1075-v1]] | GA10 Autonomous Fronts, Early Institutions and Last Fleet… | REVIEW |
 | [[ga10-final-return-ordinary-crisis-and-citizen-state-e1076-1100-v1|ga10-final-return-ordinary-crisis-and-citizen-state-e1076-1100-v1]] | GA10 Final Return, Ordinary Crisis and Citizen State E107… | REVIEW |

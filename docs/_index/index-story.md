@@ -9,7 +9,7 @@
 
 정본 목록은 [[HOME]]에서 갈라집니다.
 
-## 설계 문서 (43)
+## 설계 문서 (45)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
@@ -35,6 +35,7 @@
 | [[ga1-episodes-93-100-scene-cards-v1|ga1-episodes-93-100-scene-cards-v1]] | GA1 Episodes 93–100 Scene Cards v1 | REVIEW |
 | [[ga2-episodes-101-210-act-map-v1|ga2-episodes-101-210-act-map-v1]] | GA2 Episodes 101–210 Act Map v1 | REVIEW |
 | [[ga3-episodes-211-330-act-map-v1|ga3-episodes-211-330-act-map-v1]] | GA3 Episodes 211–330 Act Map v1 | REVIEW |
+| [[ga4-ga7-ga8-ga9-tangible-execution-and-reader-memory-overlay-v1|ga4-ga7-ga8-ga9-tangible-execution-and-reader-memory-overlay-v1]] | GA4·GA7·GA8·GA9 Tangible Execution & Reader-Memory Overla… | PROPOSED |
 | [[ga4-episodes-331-450-act-map-v1|ga4-episodes-331-450-act-map-v1]] | GA4 Episodes 331–450 Act Map v1 | REVIEW |
 | [[ga5-episodes-451-570-act-map-v1|ga5-episodes-451-570-act-map-v1]] | GA5 Episodes 451–570 Act Map v1 | REVIEW |
 | [[ga6-episodes-571-690-act-map-v1|ga6-episodes-571-690-act-map-v1]] | GA6 Episodes 571–690 Act Map v1 | REVIEW |
@@ -50,6 +51,7 @@
 | [[final-payoff-scene-ledger-template-v1|final-payoff-scene-ledger-template-v1]] | Final Payoff Scene Ledger Template v1 | REVIEW |
 | [[first-20-causality-map-v1|first-20-causality-map-v1]] | First 20 Causality Map v1 | REVIEW |
 | [[grand-act-character-faction-matrix-v1|grand-act-character-faction-matrix-v1]] | Grand-Act Character & Faction Matrix v1 | REVIEW |
+| [[high-watch-tangible-carrier-matrix-ga4-ga7-ga8-ga9-v1|high-watch-tangible-carrier-matrix-ga4-ga7-ga8-ga9-v1]] | High-Watch Tangible Carrier Matrix | PROPOSED |
 | [[legacy-archive-origin-ending-options|legacy-archive-origin-ending-options]] | Legacy Archive Origin & Ending Options | REVIEW |
 | [[m001-m020-early-clue-episode-ledger-v1|m001-m020-early-clue-episode-ledger-v1]] | M-001–M-020 Early-Clue Episode Ledger v1 | REVIEW |
 | [[secondary-mystery-decoy-and-retirement-ledger-v1|secondary-mystery-decoy-and-retirement-ledger-v1]] | Secondary Mystery, Decoy & Retirement Ledger v1 | WORKING CANON |
@@ -191,6 +193,6 @@
 | [[ga10-e1051-1060-episode-cards-v1|ga10-e1051-1060-episode-cards-v1]] | GA10 Episodes 1051–1060 Detailed Episode Cards v1 | REVIEW |
 | [[ga10-e1061-1068-episode-cards-v1|ga10-e1061-1068-episode-cards-v1]] | GA10 Episodes 1061–1068 Detailed Episode Cards v1 | REVIEW |
 | [[ga10-e1069-1075-episode-cards-v1|ga10-e1069-1075-episode-cards-v1]] | GA10 Episodes 1069–1075 Detailed Episode Cards v1 | REVIEW |
-| [[ga10-e1076-1085-episode-cards-v1|ga10-e1076-1085-episode-cards-v1]] | GA10 Episodes 1076–1085 Detailed Episode Cards v1 | REVIEW |
-| [[ga10-e1086-1093-episode-cards-v1|ga10-e1086-1093-episode-cards-v1]] | GA10 Episodes 1086–1093 Detailed Episode Cards v1 | REVIEW |
-| [[ga10-e1094-1100-episode-cards-v1|ga10-e1094-1100-episode-cards-v1]] | GA10 Episodes 1094–1100 Detailed Episode Cards v1 | REVIEW |
+| [[ga10-e1076-1085-episode-cards-v1|ga10-e1076-1085-episode-cards-v1]] | GA10 Episodes 1076–1085 Detailed Episode Cards v2 | REVIEW |
+| [[ga10-e1086-1093-episode-cards-v1|ga10-e1086-1093-episode-cards-v1]] | GA10 Episodes 1086–1093 Detailed Episode Cards v2 | REVIEW |
+| [[ga10-e1094-1100-episode-cards-v1|ga10-e1094-1100-episode-cards-v1]] | GA10 Episodes 1094–1100 Detailed Episode Cards v2 | REVIEW |
