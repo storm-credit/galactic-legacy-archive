@@ -6,7 +6,7 @@
 
 REVIEW 문서가 405개다. 내용이 얕아서가 아니라 **승격 단계가 한 번도 실행되지 않아서**다. 이 표는 GA1 집필이 실제로 링크로 딛고 있는 문서만 추려, 남은 장애물이 **작업으로 치울 수 있는 것**인지 **작가가 결정해야 하는 것**인지 나눈다.
 
-의존 REVIEW 문서 **64개** · 즉시 승격 가능 **20** · 작가 결정 대기 **42** · 선행 작업 필요 **2**
+의존 REVIEW 문서 **65개** · 즉시 승격 가능 **20** · 작가 결정 대기 **43** · 선행 작업 필요 **2**
 
 ## 즉시 승격 가능
 
@@ -82,6 +82,7 @@ REVIEW 문서가 405개다. 내용이 얕아서가 아니라 **승격 단계가 
 | [[m001-m020-early-clue-episode-ledger-v1]] | exact scene prose and some supporting-object names remain open |
 | [[named-loss-and-irreversible-transformation-ledger-v1]] | exact scene blocking and some secondary names remain open |
 | [[gate6-cross-series-completion-audit]] | deep contraction, exact state sheets, named outcomes, prose/POV calibration and scene-level payoff mapping |
+| [[pr136-actmap-compliance-notes-2026-08-18]] | 이 노트의 근거 원고는 폐기된 병렬 개정본이다 — 발견만 취하고 문장은 가져오지 않는다 |
 | [[registry-redteam-2026-08-13]] | 이 검토 자체가 등록부를 만든 주체가 수행했다. 독립 검토가 아니다 |
 
 ## 선행 작업 필요
