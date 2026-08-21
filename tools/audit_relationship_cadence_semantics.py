@@ -69,6 +69,7 @@ LOAD_BEARING_NON_EMOTIONAL_LOCKS = {
 # Fail closed if this exception set is ever widened casually. Any additional
 # episode must first be reconciled against the higher-authority loss/state ledger.
 assert set(LOAD_BEARING_NON_EMOTIONAL_LOCKS) == {841, 889}
+assert len({lock[0] for lock in LOAD_BEARING_NON_EMOTIONAL_LOCKS.values()}) == len(LOAD_BEARING_NON_EMOTIONAL_LOCKS)
 
 
 def build_report() -> str:
