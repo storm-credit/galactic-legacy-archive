@@ -11,6 +11,15 @@ Open Risks: issue #26 human/mobile validation remains a hard pre-publication blo
 
 This record closes the second-pass pre-writing execution audit merged through PR #214. It validates translation readiness only. It does not promote manuscript prose, alter story canon, authorize publication, or replace author approval.
 
+## Why the Act Map and Context Pack exist
+
+The Act Map and Context Pack are not documentation-volume goals. They are production controls built for two reader-facing outcomes:
+
+1. **Plausibility and causality** — preserve the approved chain of cause, motive, constraint, decision ownership, cost, loss and payoff when the design is translated into prose.
+2. **Interest and retention** — preserve each episode's active desire, concrete object/person/place, choice pressure, reward, emotional or state delta, exit hook and next-subact desire so correct lore does not become flat or procedural prose.
+
+The Act Map controls the long- and mid-range dramatic progression. The Context Pack activates only the exact source-bound information needed by the current episode and converts that progression into executable scene pressure. Passing this audit therefore means the plausibility/interest bridge is mechanically available for drafting; it does not mean an eventual manuscript is automatically interesting or author-approved. Manuscript QA must still verify the realized prose episode by episode.
+
 ## Verified source coverage
 
 | Gate | Result |
