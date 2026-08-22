@@ -1,0 +1,143 @@
+name: Audit pre-writing execution red-team v2
+
+on:
+  push:
+    branches:
+      - 'qc/prewriting-execution-redteam-v2'
+    paths:
+      - 'tools/audit_prewriting_redteam_v2.py'
+      - 'tools/run_prewriting_redteam_v2_strict.py'
+      - 'tools/audit_relationship_activation_source_labels.py'
+      - 'tools/relationship_secondary_label_reconciliation.py'
+      - 'tools/audit_relationship_cadence_semantics.py'
+      - 'tools/decision_owner_role_reconciliation.py'
+      - 'tools/audit_decision_owner_role_reconciliation.py'
+      - 'tools/audit_long_window_engine_differentiation.py'
+      - 'tools/audit_collection_active_pursuit_reconciliation.py'
+      - 'tools/collection_active_pursuit_reconciliation.py'
+      - 'tools/run_full_series_context_writer_activation*.py'
+      - 'tools/run_full_series_collection_reader_desires*.py'
+      - 'tools/finalize_full_series_collection_desire_semantic_sets.py'
+      - 'docs/09_collection/**'
+      - 'docs/10_story_architecture/**'
+      - 'docs/13_writing_harness/context_packs/activation/**'
+      - '.github/workflows/audit-prewriting-redteam-v2.yml'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'tools/audit_prewriting_redteam_v2.py'
+      - 'tools/run_prewriting_redteam_v2_strict.py'
+      - 'tools/audit_relationship_activation_source_labels.py'
+      - 'tools/relationship_secondary_label_reconciliation.py'
+      - 'tools/audit_relationship_cadence_semantics.py'
+      - 'tools/decision_owner_role_reconciliation.py'
+      - 'tools/audit_decision_owner_role_reconciliation.py'
+      - 'tools/audit_long_window_engine_differentiation.py'
+      - 'tools/audit_collection_active_pursuit_reconciliation.py'
+      - 'tools/collection_active_pursuit_reconciliation.py'
+      - 'tools/run_full_series_context_writer_activation*.py'
+      - 'tools/run_full_series_collection_reader_desires*.py'
+      - 'tools/finalize_full_series_collection_desire_semantic_sets.py'
+      - 'docs/09_collection/**'
+      - 'docs/10_story_architecture/**'
+      - 'docs/13_writing_harness/context_packs/activation/**'
+      - '.github/workflows/audit-prewriting-redteam-v2.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  redteam-v2:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.sha || github.sha }}
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Rebuild current execution layers on exact head
+        run: |
+          python tools/audit_full_series_context_writer_depth.py
+          python tools/run_full_series_context_writer_activation_blindspot.py
+          python tools/sanitize_context_activation_provenance.py
+          python tools/run_full_series_collection_reader_desires_blindspot.py
+
+      - name: Audit source Active Pursuit to CLSET routing
+        run: |
+          python tools/audit_collection_active_pursuit_reconciliation.py
+          python tools/audit_collection_active_pursuit_reconciliation.py --check
+          grep -q 'Status: PASS — EXECUTION QC' docs/99_quality_control/collection-active-pursuit-crosslayer-redteam-v1.md
+
+      - name: Audit source-role decision-owner reconciliation
+        run: |
+          python tools/audit_decision_owner_role_reconciliation.py
+          python tools/audit_decision_owner_role_reconciliation.py --check
+          grep -q 'full 50-row role-owner WATCH resolution: \*\*PASS\*\*' docs/99_quality_control/decision-owner-role-reconciliation-redteam-v1.md
+
+      - name: Run strict second-pass hostile audit
+        run: |
+          python tools/run_prewriting_redteam_v2_strict.py
+          python tools/run_prewriting_redteam_v2_strict.py --check
+          grep -q 'source-named/code performer recoverable from decision sentence: \*\*0\*\*' docs/99_quality_control/prewriting-execution-redteam-v2-audit.md
+          grep -q 'concrete source-role performer recoverable: \*\*0\*\*' docs/99_quality_control/prewriting-execution-redteam-v2-audit.md
+          grep -q 'high-value orphan WATCH: \*\*0\*\*' docs/99_quality_control/prewriting-execution-redteam-v2-audit.md
+
+      - name: Audit explicit relationship source-label routing
+        run: |
+          python tools/audit_relationship_activation_source_labels.py
+          python tools/audit_relationship_activation_source_labels.py --check
+          grep -q 'Status: PASS — EXECUTION QC' docs/99_quality_control/relationship-activation-source-label-audit-v1.md
+          grep -q 'unresolved secondary trust/standing label WATCH: \*\*0\*\*' docs/99_quality_control/relationship-activation-source-label-audit-v1.md
+
+      - name: Resolve relationship-cadence semantics
+        run: |
+          python tools/audit_relationship_cadence_semantics.py
+          python tools/audit_relationship_cadence_semantics.py --check
+          grep -q 'Status: PASS — EXECUTION QC' docs/99_quality_control/relationship-cadence-semantic-redteam-v1.md
+
+      - name: Resolve long-window narrative-engine concentration
+        run: |
+          python tools/audit_long_window_engine_differentiation.py
+          python tools/audit_long_window_engine_differentiation.py --check
+          grep -q 'Status: PASS — EXECUTION QC' docs/99_quality_control/long-window-narrative-engine-differentiation-redteam-v1.md
+          grep -q 'unresolved repetitive-engine windows: \*\*0\*\*' docs/99_quality_control/long-window-narrative-engine-differentiation-redteam-v1.md
+
+      # Keep generated governance artifacts in parity with validate-canon.yml;
+      # audit documents change repository-wide counts even when story canon does not.
+      - name: Rebuild generated governance indexes after audit docs
+        run: |
+          python tools/build_index.py
+          python tools/build_index.py --check
+          python tools/build_open_questions.py
+          python tools/build_open_questions.py --check
+          python tools/build_episode_briefs.py
+          python tools/build_episode_briefs.py --check
+          python tools/promotion_review.py
+          python tools/promotion_review.py --check
+
+      - name: Show red-team summary
+        run: |
+          sed -n '1,180p' docs/99_quality_control/prewriting-execution-redteam-v2-audit.md
+          sed -n '1,160p' docs/99_quality_control/decision-owner-role-reconciliation-redteam-v1.md
+          sed -n '1,180p' docs/99_quality_control/relationship-cadence-semantic-redteam-v1.md
+          sed -n '1,220p' docs/99_quality_control/long-window-narrative-engine-differentiation-redteam-v1.md
+          sed -n '1,120p' docs/99_quality_control/relationship-activation-source-label-audit-v1.md
+
+      - name: Persist audit reports and regenerated indexes on branch push
+        if: github.event_name == 'push'
+        run: |
+          TARGETS='docs/99_quality_control/prewriting-execution-redteam-v2-audit.md docs/99_quality_control/relationship-activation-source-label-audit-v1.md docs/99_quality_control/collection-active-pursuit-crosslayer-redteam-v1.md docs/99_quality_control/decision-owner-role-reconciliation-redteam-v1.md docs/99_quality_control/relationship-cadence-semantic-redteam-v1.md docs/99_quality_control/long-window-narrative-engine-differentiation-redteam-v1.md docs/HOME.md docs/_index/index-story.md docs/_index/index-characters.md docs/_index/index-frames.md docs/_index/index-collection.md docs/_index/index-world.md docs/_index/index-craft.md docs/_index/index-project.md docs/_index/open-questions.md docs/_index/episode-briefs.md docs/_index/promotion-review.md'
+          if git diff --quiet -- $TARGETS; then
+            echo 'audit reports and generated governance indexes already current'
+            exit 0
+          fi
+          git config user.name 'galactic-legacy-qc-bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add -- $TARGETS
+          git commit -m 'QC: persist v2 audits and refresh generated governance indexes'
+          git push origin HEAD:qc/prewriting-execution-redteam-v2

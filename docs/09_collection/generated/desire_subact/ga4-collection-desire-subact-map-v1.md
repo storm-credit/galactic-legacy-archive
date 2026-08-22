@@ -154,7 +154,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: provisional provincial consultation/continuation mechanism.
 - `COST_REFUSAL_OR_LOSS`: concessions, unequal burdens and delayed shipments. one weak province is deprioritized or exposed.
 - `SET_ADVANCE_CONDITION`: provisional provincial consultation/continuation mechanism.
-- `NEXT_DESIRE`: military units/fleets begin choosing payment/recognition chains; Protector invokes stronger command.
+- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — test Regent’s emergency administration under real simultaneous crises. → test Regent’s emergency administration under real simultaneous crises.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음
 - `ACTIVE_TARGETS`:
   - `CLT-GA4-G4-R03` / `G4-R03` / Provincial Consultation and Burden Mechanism — `EPISODE_OVERLAP+TITLE_TEXT` score=124
@@ -314,7 +314,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: political space for final agreement.
 - `COST_REFUSAL_OR_LOSS`: casualties, schism or one institution/claimant withdraws.
 - `SET_ADVANCE_CONDITION`: political space for final agreement.
-- `NEXT_DESIRE`: field fleets and provinces demand executable command within hours/days or will act independently.
+- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — enact compact across several sites/institutions, not one signature table. → compact becomes operational, not merely declared.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음
 - `ACTIVE_TARGETS`:
   - `CLT-GA4-G4-R10` / `G4-R10` / Compact Sunset/Review/Removal Schedule — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=115
@@ -337,7 +337,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: compact becomes operational, not merely declared.
 - `COST_REFUSAL_OR_LOSS`: several major fleets/provinces do not recognize all terms. command becomes distributed and slower. hardliners form successor commands.
 - `SET_ADVANCE_CONDITION`: compact becomes operational, not merely declared.
-- `NEXT_DESIRE`: `G — future conflict object`. -- / `G — grand-act institutional reward, not final constitution`. / `G — central technical precedent, still vulnerable`. / `G — sunset, audit, removal and limited scope`.
+- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — show compact’s immediate effects and launch ownerless-fleet conflict. → show compact’s immediate effects and launch ownerless-fleet conflict.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음
 - `ACTIVE_TARGETS`:
   - `CLT-GA4-G4-R10` / `G4-R10` / Compact Sunset/Review/Removal Schedule — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=133

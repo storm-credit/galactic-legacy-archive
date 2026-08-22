@@ -3151,12 +3151,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: Rian accepts the command key for the initial 18-hour window.); ground that face in the exact source pivot [Rian accepts the command key for the initial 18-hour window.] and source cost [he can no longer claim that central authority belongs only to others.]. Do not create a new named witness merely to supply emotion.
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (source decision performer/authority actor(s): Rian); ground that face in the exact source pivot [Rian accepts the command key for the initial 18-hour window.] and source cost [he can no longer claim that central authority belongs only to others.]. Do not create a new named witness merely to supply emotion.
 **POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: Rian accepts the command key for the initial 18-hour window.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Rian
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Rian accepts the command key for the initial 18-hour window.
@@ -3168,7 +3168,7 @@ Rian accepts the command key for the initial 18-hour window.
 PRESSURE[make Rian’s acceptance an explicit current decision.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Rian accepts the command key for the initial 18-hour window.] → DELTA[Rian accepts the command key for the initial 18-hour window.] → COST[he can no longer claim that central authority belongs only to others.] → NEXT[the five fields assemble the first live package.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: Rian accepts the command key for the initial 18-hour window.); ground that face in the exact source pivot [Rian accepts the command key for the initial 18-hour window.] and source cost [he can no longer claim that central authority belongs only to others.]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (source decision performer/authority actor(s): Rian); ground that face in the exact source pivot [Rian accepts the command key for the initial 18-hour window.] and source cost [he can no longer claim that central authority belongs only to others.]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
@@ -3185,7 +3185,7 @@ the five fields assemble the first live package.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited. Rian has no central key at E951 … [source continues]; cost-class=RIGHTS/AUTHORITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] Pre-Writing Gate: CLOSED. Manuscript prose: prohibited. Rian has no central key at E951 … [source continues]; cost-class=RIGHTS/AUTHORITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.

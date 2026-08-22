@@ -19,12 +19,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: Rian holds outside the node and recognizes the refusal as presumptively current pending authenticity checks.) … [source continues]
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (source decision performer/authority actor(s): Rian); ground that face in the exact source pivot [Rian holds outside the node and recognizes the refusal as presumptively current pending authenticity checks.] and source cost [6,800 of the 48,600 immediate-risk users lose automated access during the delay.]. Do not create a new named witness merely to supply emotion.
 **POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: Rian holds outside the node and recognizes the refusal as presumptively current pending authenticity checks.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Rian
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Rian holds outside the node and recognizes the refusal as presumptively current pending authenticity checks.
@@ -36,7 +36,7 @@ Rian holds outside the node and recognizes the refusal as presumptively current 
 PRESSURE[enter the old node without treating an authenticated refusal as a malfunction.] → OBSTACLE[one archive copy labels Serrat abandoned property; another records both communities as active custodians; federation preservation officers argue delay risks index collapse.] → PIVOT[Rian holds outside the node and recognizes the refusal as presumptively current pending authenticity checks.] → DELTA[Rian holds outside the node and recognizes the refusal as presumptively current pending authenticity checks.] → COST[6,800 of the 48,600 immediate-risk users lose automated access during the delay.] → NEXT[the refusal signatures are valid, but their legal identity roots do not match the archive’s abandoned-property taxonomy.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current source custodians/reviewers and affected current persons; evidence custody is not truth sovereignty; identify the performer/signatory/refuser from this exact source decision beat: Rian holds outside the node and recognizes the refusal as presumptively current pending authenticity checks.); ground that face in the exact source pivot [Rian holds outside the node and recognizes the refusal as presumptively current pending authenticity checks.] and source cost [6,800 of the 48,600 immediate-risk users lose automated access during the delay.]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (source decision performer/authority actor(s): Rian); ground that face in the exact source pivot [Rian holds outside the node and recognizes the refusal as presumptively current pending authenticity checks.] and source cost [6,800 of the 48,600 immediate-risk users lose automated access during the delay.]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
@@ -53,7 +53,7 @@ the refusal signatures are valid, but their legal identity roots do not match th
 
 **NARRATIVE_ENGINE_FAMILY:** `RECORD/PROVENANCE/MYSTERY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Current AI Identity Snapshots — shared source state] These are separate nonadditive denominators: 11,240 continuity-root identities; 18,960 active conversational identities … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot turn archive access or future memory into sole truth, source custody or current-person identity authority.
@@ -831,12 +831,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: each community appoints a plural delegation with published selection limits and dissent records; no federation or descendant body chooses the AI representatives.); ground that face in the exact source pivot [each community appoints a plural delegation with published selection limits and dissent records … [source continues]
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (source-reviewed collective/institutional decision performer(s): each community); ground that face in the exact source pivot [each community appoints a plural delegation with published selection limits and dissent records; no federation or descendant body chooses the AI representatives.] and source cost [negotiation slows and internal minority claims require separate procedures.]. Do not create a new named witness merely to supply emotion.
 **POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: each community appoints a plural delegation with published selection limits and dissent records; no federation or descendant body chooses the AI representatives.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source-reviewed collective/institutional decision performer(s): each community
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-REVIEWED ROLE PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 each community appoints a plural delegation with published selection limits and dissent records; no federation or descendant body chooses the AI representatives.
@@ -848,7 +848,7 @@ each community appoints a plural delegation with published selection limits and 
 PRESSURE[prevent each AI community from becoming a single spokesperson character.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[each community appoints a plural delegation with published selection limits and dissent records; no federation or descendant body chooses the AI representatives.] → DELTA[each community appoints a plural delegation with published selection limits and dissent records; no federation or descendant body chooses the AI representatives.] → COST[negotiation slows and internal minority claims require separate procedures.] → NEXT[the Return Council likewise fractures over physical return, public release and current-person privacy.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: each community appoints a plural delegation with published selection limits and dissent records; no federation or descendant body chooses the AI representatives.); ground that face in the exact source pivot [each community appoints a plural delegation with published selection limits and dissent records; no federation or descendant body chooses the AI representatives.] and source cost [negotiation slows and internal minority claims require separate procedures.]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (source-reviewed collective/institutional decision performer(s): each community); ground that face in the exact source pivot [each community appoints a plural delegation with published selection limits and dissent records; no federation or descendant body chooses the AI representatives.] and source cost [negotiation slows and internal minority claims require separate procedures.]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
@@ -865,7 +865,7 @@ the Return Council likewise fractures over physical return, public release and c
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] 64 active AI identities went offline during substrate stabilization; 61 returned through ordinary community-controlled recovery … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-REVIEWED ROLE PERFORMER + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Starting State — shared source state] 64 active AI identities went offline during substrate stabilization; 61 returned through ordinary community-controlled recovery … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.

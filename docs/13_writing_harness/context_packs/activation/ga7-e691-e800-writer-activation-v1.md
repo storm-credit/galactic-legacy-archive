@@ -135,12 +135,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: local operators maintain the heavy-load stop but allow small medical/contact craft under current physical challenges.) … [source continues]
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (source-reviewed collective/institutional decision performer(s): local operators); ground that face in the exact source pivot [local operators maintain the heavy-load stop but allow small medical/contact craft under current physical challenges.] and source cost [13,800 people remain on alternate/late paths; 37 die or suffer irreversible treatment loss before substitute supply arrives.]. Do not create a new named witness merely to supply emotion.
 **POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: local operators maintain the heavy-load stop but allow small medical/contact craft under current physical challenges.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source-reviewed collective/institutional decision performer(s): local operators
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-REVIEWED ROLE PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 local operators maintain the heavy-load stop but allow small medical/contact craft under current physical challenges.
@@ -152,7 +152,7 @@ local operators maintain the heavy-load stop but allow small medical/contact cra
 PRESSURE[test a physically justified local closure against urgent regional need.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[local operators maintain the heavy-load stop but allow small medical/contact craft under current physical challenges.] → DELTA[local operators maintain the heavy-load stop but allow small medical/contact craft under current physical challenges.] → COST[13,800 people remain on alternate/late paths; 37 die or suffer irreversible treatment loss before substitute supply arrives.] → NEXT[families call the closure a death sentence while military actors cite sabotage risk on the alternate route.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: local operators maintain the heavy-load stop but allow small medical/contact craft under current physical challenges.); ground that face in the exact source pivot [local operators maintain the heavy-load stop but allow small medical/contact craft under current physical challenges.] and source cost [13,800 people remain on alternate/late paths; 37 die or suffer irreversible treatment loss before substitute supply arrives.]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (source-reviewed collective/institutional decision performer(s): local operators); ground that face in the exact source pivot [local operators maintain the heavy-load stop but allow small medical/contact craft under current physical challenges.] and source cost [13,800 people remain on alternate/late paths; 37 die or suffer irreversible treatment loss before substitute supply arrives.]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
@@ -169,7 +169,7 @@ families call the closure a death sentence while military actors cite sabotage r
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=damaged relay/thermal trunk has a 22–31% failure risk under heavy convoy load; opening it could collapse three neighboring local systems; the alternate route adds 19 hours and hostile exposure.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-REVIEWED ROLE PERFORMER + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=damaged relay/thermal trunk has a 22–31% failure risk under heavy convoy load; opening it could collapse three neighboring local systems; the alternate route adds 19 hours and hostile exposure.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.

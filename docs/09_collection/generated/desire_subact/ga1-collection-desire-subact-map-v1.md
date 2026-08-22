@@ -11,10 +11,10 @@ Publication: NOT AUTHORIZED
 
 - `SET_EXECUTION_ID`: `CLSET-GA1-A1`
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
-- `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, CIVILIZATION`
+- `SECONDARY_SET_TYPES`: `EVENT, CIVILIZATION, FUNCTIONAL, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
-- `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C2 기체
+- `FRONT_DOMAINS`: C1 인물·관계, C4 유물·증거, C7 세력·제도
 - `READER_DESIRE_MAIN`: Rian is absent from the future record while Haren, the current 07 and the academy cell do not match the roles his memory expects. → establish a bounded provisional cell/process and complete the first limited 07 operation without choosing a sacrificial victim.
 - `DISCOVERY`: Rian is absent from the future record while Haren, the current 07 and the academy cell do not match the roles his memory expects.
 - `ACQUISITION_OR_CONNECTION`: establish a bounded provisional cell/process and complete the first limited 07 operation without choosing a sacrificial victim.
@@ -22,13 +22,13 @@ Publication: NOT AUTHORIZED
 - `COST_REFUSAL_OR_LOSS`: Rian cannot treat future knowledge as present ownership or competence; the closed-choice/betrayal problem remains a live risk.
 - `SET_ADVANCE_CONDITION`: current trust, route detail, present-body limits and the cell's separate roles become necessary to make the first operation work.
 - `NEXT_DESIRE`: the next desire is to learn who actually owns, maintains and authorizes the damaged 07 and its records.
-- `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
+- `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지
 - `ACTIVE_TARGETS`:
-  - `CLT-GA1-P-001` / `P-001` / H-001 / Future Blood Admiral — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=116
-  - `CLT-GA1-P-005` / `P-005` / I-001 / Field Instructor — `EPISODE_OVERLAP+DOMAIN_MATCH` score=109
-  - `CLT-GA1-I-001` / `I-001` / Student Mutual Network / Assembly Seed — `EPISODE_OVERLAP+DOMAIN_MATCH` score=109
-  - `CLT-GA1-P-007` / `P-007` / R-IMP-001 / Imperial Observer — `EPISODE_OVERLAP+DOMAIN_MATCH` score=108
-  - `CLT-GA1-P-011` / `P-011` / Protector/Community Focal Network — `EPISODE_OVERLAP+DOMAIN_MATCH` score=107
+  - `CLT-GA1-P-001` / `P-001` / H-001 / Future Blood Admiral — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=260
+  - `CLT-GA1-R-001` / `R-001` / Betrayal-Trial Relay Fragment — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=259
+  - `CLT-GA1-P-005` / `P-005` / I-001 / Field Instructor — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=258
+  - `CLT-GA1-I-001` / `I-001` / Student Mutual Network / Assembly Seed — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=257
+  - `CLT-GA1-P-011` / `P-011` / Protector/Community Focal Network — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=256
 - `SOURCE_SUBACT`: `docs/10_story_architecture/first-100-act-map-v2-consolidated.md` / A1
 - `NEW_CANON_REQUIRED`: `NO`
 
@@ -39,7 +39,7 @@ Publication: NOT AUTHORIZED
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
-- `FRONT_DOMAINS`: C3 무기·부품, C6 기술·표준, C7 세력·제도, C1 인물·관계, C2 기체
+- `FRONT_DOMAINS`: C1 인물·관계, C2 기체, C6 기술·표준, C7 세력·제도, C3 무기·부품
 - `READER_DESIRE_MAIN`: 07 access is split across ownership, maintenance labor, tools and records, while Soma proves an administrative death record can be materially wrong. → gain usable maintenance/record access and a more accurate map of rights without silently converting access into ownership.
 - `DISCOVERY`: 07 access is split across ownership, maintenance labor, tools and records, while Soma proves an administrative death record can be materially wrong.
 - `ACQUISITION_OR_CONNECTION`: gain usable maintenance/record access and a more accurate map of rights without silently converting access into ownership.
@@ -49,11 +49,11 @@ Publication: NOT AUTHORIZED
 - `NEXT_DESIRE`: external mission, medical, route and certification actors now determine what the cell can legitimately do with 07.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA1-I-002` / `I-002` / Open-Service Workshop Seed — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=112
-  - `CLT-GA1-P-009` / `P-009` / R-HEL-001 / Helix Evaluator — `EPISODE_OVERLAP+DOMAIN_MATCH` score=109
-  - `CLT-GA1-F-010` / `F-010` / H-002 Calibration Toolset — `EPISODE_OVERLAP+DOMAIN_MATCH` score=108
-  - `CLT-GA1-F-003` / `F-003` / Industrial Manipulator Arm — `EPISODE_OVERLAP+DOMAIN_MATCH` score=107
-  - `CLT-GA1-F-009` / `F-009` / Sensor-Tag Projector — `EPISODE_OVERLAP+DOMAIN_MATCH` score=106
+  - `CLT-GA1-P-002` / `P-002` / H-002 / Future Fleet Designer — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=260
+  - `CLT-GA1-F-001` / `F-001` / 07 Core / AUXILIA Inspection Kernel — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=259
+  - `CLT-GA1-F-002` / `F-002` / Asymmetric Radiator Wing — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=258
+  - `CLT-GA1-F-010` / `F-010` / H-002 Calibration Toolset — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=257
+  - `CLT-GA1-I-002` / `I-002` / Open-Service Workshop Seed — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=256
 - `SOURCE_SUBACT`: `docs/10_story_architecture/first-100-act-map-v2-consolidated.md` / A2
 - `NEW_CANON_REQUIRED`: `NO`
 
@@ -74,11 +74,11 @@ Publication: NOT AUTHORIZED
 - `NEXT_DESIRE`: the first full powered test must prove whether this limited coalition survives when Rian's future-style operation causes real damage.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA1-P-011` / `P-011` / Protector/Community Focal Network — `EPISODE_OVERLAP+TITLE_TEXT` score=105
-  - `CLT-GA1-F-011` / `F-011` / Service Authority Key A — `EPISODE_OVERLAP+DOMAIN_MATCH` score=105
-  - `CLT-GA1-R-004` / `R-004` / Neutral Medical Protection Clause — `EPISODE_OVERLAP+TITLE_TEXT` score=105
-  - `CLT-GA1-R-008` / `R-008` / External Mission License — `EPISODE_OVERLAP+TITLE_TEXT` score=105
-  - `CLT-GA1-I-001` / `I-001` / Student Mutual Network / Assembly Seed — `EPISODE_OVERLAP` score=105
+  - `CLT-GA1-P-006` / `P-006` / E-001 / White Dock Enemy Ace — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=260
+  - `CLT-GA1-R-004` / `R-004` / Neutral Medical Protection Clause — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=259
+  - `CLT-GA1-F-011` / `F-011` / Service Authority Key A — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=258
+  - `CLT-GA1-R-008` / `R-008` / External Mission License — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=257
+  - `CLT-GA1-P-011` / `P-011` / Protector/Community Focal Network — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=256
 - `SOURCE_SUBACT`: `docs/10_story_architecture/first-100-act-map-v2-consolidated.md` / A3
 - `NEW_CANON_REQUIRED`: `NO`
 
@@ -89,7 +89,7 @@ Publication: NOT AUTHORIZED
 - `SECONDARY_SET_TYPES`: `RELATIONSHIP, EVENT, CIVILIZATION, LINEAGE`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
-- `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C4 유물·증거, C2 기체, C3 무기·부품
+- `FRONT_DOMAINS`: C1 인물·관계, C4 유물·증거, C7 세력·제도, C2 기체, C6 기술·표준, C3 무기·부품
 - `READER_DESIRE_MAIN`: Rian's future-style maneuver damages the current 07 and turns the betrayal test into a real question of responsibility rather than a theoretical choice. → keep the cell and 07 mission-capable without solving the failure by assigning one traitor or sacrificial culprit.
 - `DISCOVERY`: Rian's future-style maneuver damages the current 07 and turns the betrayal test into a real question of responsibility rather than a theoretical choice.
 - `ACQUISITION_OR_CONNECTION`: keep the cell and 07 mission-capable without solving the failure by assigning one traitor or sacrificial culprit.
@@ -99,11 +99,11 @@ Publication: NOT AUTHORIZED
 - `NEXT_DESIRE`: White Dock begins with Ern already inside, shifting the desire from training survival to people/evidence/asset recovery under competing claims.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA1-I-001` / `I-001` / Student Mutual Network / Assembly Seed — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=117
-  - `CLT-GA1-R-002` / `R-002` / Student/Family Custody Manifest Fragments — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=113
-  - `CLT-GA1-R-005` / `R-005` / White Dock Joint-Custody/Evidence Order — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=113
-  - `CLT-GA1-R-003` / `R-003` / Medical/Administrative Death Records — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=109
-  - `CLT-GA1-P-008` / `P-008` / R-NEU-001 / Neutral Rescue and Claims Officer — `EPISODE_OVERLAP+DOMAIN_MATCH` score=107
+  - `CLT-GA1-R-002` / `R-002` / Student/Family Custody Manifest Fragments — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=260
+  - `CLT-GA1-F-001` / `F-001` / 07 Core / AUXILIA Inspection Kernel — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=259
+  - `CLT-GA1-R-005` / `R-005` / White Dock Joint-Custody/Evidence Order — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=258
+  - `CLT-GA1-P-008` / `P-008` / R-NEU-001 / Neutral Rescue and Claims Officer — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=257
+  - `CLT-GA1-I-001` / `I-001` / Student Mutual Network / Assembly Seed — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=256
 - `SOURCE_SUBACT`: `docs/10_story_architecture/first-100-act-map-v2-consolidated.md` / A4
 - `NEW_CANON_REQUIRED`: `NO`
 
@@ -164,7 +164,7 @@ Publication: NOT AUTHORIZED
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
-- `FRONT_DOMAINS`: C1 인물·관계, C2 기체, C3 무기·부품, C7 세력·제도
+- `FRONT_DOMAINS`: C2 기체, C7 세력·제도, C3 무기·부품, C6 기술·표준, C1 인물·관계
 - `READER_DESIRE_MAIN`: the component deadline reveals that radiator, arm, sensor and certified manifold each have different safety, labor and ownership paths. → recover a workable subset of 07 components through debt, shared use and evidence custody while deliberately abandoning an unsustainable certified part.
 - `DISCOVERY`: the component deadline reveals that radiator, arm, sensor and certified manifold each have different safety, labor and ownership paths.
 - `ACQUISITION_OR_CONNECTION`: recover a workable subset of 07 components through debt, shared use and evidence custody while deliberately abandoning an unsustainable certified part.
@@ -174,11 +174,11 @@ Publication: NOT AUTHORIZED
 - `NEXT_DESIRE`: the physically false Imperial core receipt shifts the collection desire from parts to the missing core's real custody chain.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA1-P-009` / `P-009` / R-HEL-001 / Helix Evaluator — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=114
-  - `CLT-GA1-F-006` / `F-006` / Utility Sensor Head — `EPISODE_OVERLAP+TITLE_TEXT` score=114
-  - `CLT-GA1-P-005` / `P-005` / I-001 / Field Instructor — `EPISODE_OVERLAP+DOMAIN_MATCH` score=110
-  - `CLT-GA1-F-002` / `F-002` / Asymmetric Radiator Wing — `EPISODE_OVERLAP+TITLE_TEXT` score=110
-  - `CLT-GA1-F-003` / `F-003` / Industrial Manipulator Arm — `EPISODE_OVERLAP+TITLE_TEXT` score=110
+  - `CLT-GA1-F-002` / `F-002` / Asymmetric Radiator Wing — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=260
+  - `CLT-GA1-F-003` / `F-003` / Industrial Manipulator Arm — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=259
+  - `CLT-GA1-F-001` / `F-001` / 07 Core / AUXILIA Inspection Kernel — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=258
+  - `CLT-GA1-R-007` / `R-007` / H-002 Maintenance and Design-Rights Agreement — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=257
+  - `CLT-GA1-P-009` / `P-009` / R-HEL-001 / Helix Evaluator — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=256
 - `SOURCE_SUBACT`: `docs/10_story_architecture/first-100-act-map-v2-consolidated.md` / B3
 - `NEW_CANON_REQUIRED`: `NO`
 
@@ -189,7 +189,7 @@ Publication: NOT AUTHORIZED
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
-- `FRONT_DOMAINS`: C1 인물·관계, C2 기체, C7 세력·제도, C6 기술·표준
+- `FRONT_DOMAINS`: C2 기체, C6 기술·표준, C1 인물·관계, C7 세력·제도, C5 함선
 - `READER_DESIRE_MAIN`: the missing core's physical/legal custody and continuity-protocol diversion lead to a useful but exclusive Imperial protection offer. → return the core under four-lock/shared custody and regain conditional 07 operation without making Rian the personal owner of the protection or machine.
 - `DISCOVERY`: the missing core's physical/legal custody and continuity-protocol diversion lead to a useful but exclusive Imperial protection offer.
 - `ACQUISITION_OR_CONNECTION`: return the core under four-lock/shared custody and regain conditional 07 operation without making Rian the personal owner of the protection or machine.
@@ -199,11 +199,11 @@ Publication: NOT AUTHORIZED
 - `NEXT_DESIRE`: C-9's imitation turns the next desire toward the people, treatment system and grievance hidden behind the copied method.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA1-P-007` / `P-007` / R-IMP-001 / Imperial Observer — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=119
-  - `CLT-GA1-F-005` / `F-005` / Mixed Leg Pair — `EPISODE_OVERLAP+TITLE_TEXT` score=115
-  - `CLT-GA1-R-012` / `R-012` / 07 Multi-Party Custody and Command Key Scheme — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=115
-  - `CLT-GA1-P-005` / `P-005` / I-001 / Field Instructor — `EPISODE_OVERLAP+DOMAIN_MATCH` score=111
-  - `CLT-GA1-F-001` / `F-001` / 07 Core / AUXILIA Inspection Kernel — `EPISODE_OVERLAP+TITLE_TEXT` score=111
+  - `CLT-GA1-F-001` / `F-001` / 07 Core / AUXILIA Inspection Kernel — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=260
+  - `CLT-GA1-R-007` / `R-007` / H-002 Maintenance and Design-Rights Agreement — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=259
+  - `CLT-GA1-R-008` / `R-008` / External Mission License — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=258
+  - `CLT-GA1-R-012` / `R-012` / 07 Multi-Party Custody and Command Key Scheme — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=257
+  - `CLT-GA1-P-007` / `P-007` / R-IMP-001 / Imperial Observer — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=256
 - `SOURCE_SUBACT`: `docs/10_story_architecture/first-100-act-map-v2-consolidated.md` / B4
 - `NEW_CANON_REQUIRED`: `NO`
 
@@ -270,11 +270,11 @@ Publication: NOT AUTHORIZED
 - `NEXT_DESIRE`: scarce treatment cycles and competing destinations make the next collection desire a workable multi-party care combination rather than fuller information.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA1-R-003` / `R-003` / Medical/Administrative Death Records — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=115
-  - `CLT-GA1-R-009` / `R-009` / Patient Consent and Data-Access Protocol — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=115
-  - `CLT-GA1-I-003` / `I-003` / Multi-Party Medical Oversight — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=115
-  - `CLT-GA1-P-010` / `P-010` / AI-W001 / Black Ward Witness Interface — `EPISODE_OVERLAP+DOMAIN_MATCH` score=111
-  - `CLT-GA1-F-013` / `F-013` / Service Authority Key C — `EPISODE_OVERLAP+DOMAIN_MATCH` score=111
+  - `CLT-GA1-R-003` / `R-003` / Medical/Administrative Death Records — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=260
+  - `CLT-GA1-R-009` / `R-009` / Patient Consent and Data-Access Protocol — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=259
+  - `CLT-GA1-P-011` / `P-011` / Protector/Community Focal Network — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=258
+  - `CLT-GA1-F-013` / `F-013` / Service Authority Key C — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=257
+  - `CLT-GA1-P-010` / `P-010` / AI-W001 / Black Ward Witness Interface — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=256
 - `SOURCE_SUBACT`: `docs/10_story_architecture/first-100-act-map-v2-consolidated.md` / C3
 - `NEW_CANON_REQUIRED`: `NO`
 
@@ -349,10 +349,10 @@ Publication: NOT AUTHORIZED
 
 - `SET_EXECUTION_ID`: `CLSET-GA1-D3`
 - `PRIMARY_SET_TYPE`: `RELATIONSHIP` — 관계 세트
-- `SECONDARY_SET_TYPES`: `CIVILIZATION, EVENT, FUNCTIONAL`
+- `SECONDARY_SET_TYPES`: `FUNCTIONAL, CIVILIZATION, EVENT`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
-- `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도
+- `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C2 기체, C6 기술·표준
 - `READER_DESIRE_MAIN`: six simultaneous fronts prove that the academy cannot save every zone, person, record and asset under separate claims and time limits. → keep enough independent people, records and service functions alive to prepare a segmented response instead of surrendering everything to one seizure.
 - `DISCOVERY`: six simultaneous fronts prove that the academy cannot save every zone, person, record and asset under separate claims and time limits.
 - `ACQUISITION_OR_CONNECTION`: keep enough independent people, records and service functions alive to prepare a segmented response instead of surrendering everything to one seizure.
@@ -360,9 +360,13 @@ Publication: NOT AUTHORIZED
 - `COST_REFUSAL_OR_LOSS`: locked deaths, serious injuries, workshop/record/capacity loss and unsaved zones remain; central command is shown to be genuinely faster in some cases.
 - `SET_ADVANCE_CONDITION`: local actors, medical transfers, aggregate records, 07 combat and bounded centralized clinical action protect different fronts.
 - `NEXT_DESIRE`: Rian can now take the central key, creating the final GA1 desire: use that power without turning emergency control into permanent ownership.
-- `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지
+- `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA1-I-001` / `I-001` / Student Mutual Network / Assembly Seed — `EPISODE_OVERLAP` score=108
+  - `CLT-GA1-R-011` / `R-011` / 제13학원 임시공동운영·보호헌장 — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=260
+  - `CLT-GA1-R-012` / `R-012` / 07 Multi-Party Custody and Command Key Scheme — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=259
+  - `CLT-GA1-F-001` / `F-001` / 07 Core / AUXILIA Inspection Kernel — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=258
+  - `CLT-GA1-I-003` / `I-003` / Multi-Party Medical Oversight — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=257
+  - `CLT-GA1-I-001` / `I-001` / Student Mutual Network / Assembly Seed — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=256
 - `SOURCE_SUBACT`: `docs/10_story_architecture/first-100-act-map-v2-consolidated.md` / D3
 - `NEW_CANON_REQUIRED`: `NO`
 
@@ -373,7 +377,7 @@ Publication: NOT AUTHORIZED
 - `SECONDARY_SET_TYPES`: `FUNCTIONAL, EVENT, CIVILIZATION`
 - `MATCH_DEPTH`: `A-DIRECT`
 - `DESIRE_SOURCE_MODE`: `MANUAL_SOURCE_BOUND`
-- `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C5 함선, C2 기체
+- `FRONT_DOMAINS`: C1 인물·관계, C7 세력·제도, C2 기체, C6 기술·표준, C5 함선
 - `READER_DESIRE_MAIN`: central authority can save lives faster, but keeping it would turn emergency success into permanent control over people, records and assets. → stop the mass seizure with bounded central use, then distribute authority into an underfunded charter and independent mission roles before master access expires.
 - `DISCOVERY`: central authority can save lives faster, but keeping it would turn emergency success into permanent control over people, records and assets.
 - `ACQUISITION_OR_CONNECTION`: stop the mass seizure with bounded central use, then distribute authority into an underfunded charter and independent mission roles before master access expires.
@@ -383,10 +387,10 @@ Publication: NOT AUTHORIZED
 - `NEXT_DESIRE`: the first distressed-ship/ghost-key contract turns the next desire into acquiring an operable ship and crew whose command cannot collapse back into Rian.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
-  - `CLT-GA1-I-001` / `I-001` / Student Mutual Network / Assembly Seed — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=124
-  - `CLT-GA1-I-005` / `I-005` / Academy Alumni/External Mission Cell — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=124
-  - `CLT-GA1-R-008` / `R-008` / External Mission License — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=120
-  - `CLT-GA1-R-012` / `R-012` / 07 Multi-Party Custody and Command Key Scheme — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=120
-  - `CLT-GA1-P-011` / `P-011` / Protector/Community Focal Network — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=113
+  - `CLT-GA1-R-011` / `R-011` / 제13학원 임시공동운영·보호헌장 — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=260
+  - `CLT-GA1-R-012` / `R-012` / 07 Multi-Party Custody and Command Key Scheme — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=259
+  - `CLT-GA1-F-001` / `F-001` / 07 Core / AUXILIA Inspection Kernel — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=258
+  - `CLT-GA1-I-003` / `I-003` / Multi-Party Medical Oversight — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=257
+  - `CLT-GA1-I-005` / `I-005` / Academy Alumni/External Mission Cell — `SOURCE-ACTIVE-PURSUIT-RECONCILIATION` score=256
 - `SOURCE_SUBACT`: `docs/10_story_architecture/first-100-act-map-v2-consolidated.md` / D4
 - `NEW_CANON_REQUIRED`: `NO`

@@ -1,15 +1,80 @@
 #!/usr/bin/env python3
-"""Run writer activation with the no-POV-owner blindspot closure.
+"""Run writer activation with source-bound owner and relationship precision fixes.
 
-This wrapper changes workflow/QC routing only. A POV can carry information
-without owning the decisive action. When the source does not explicitly name a
-decision owner, keep the owner bounded to an existing role plus the exact
-source decision instead of promoting the protagonist/POV by default.
+This wrapper changes workflow/QC routing only.
+- POV never creates decision authority.
+- If an exact source decision sentence begins with a named/code performer, retain
+  that source performer rather than an anonymous bounded role.
+- If the second-pass role queue was manually reviewed and the source itself
+  writes a collective/institutional performer, retain that exact role actor.
+- If the episode card explicitly labels a relationship/character-state rule,
+  carry that exact source text into the relationship execution slot instead of
+  rendering a false NONE.
+
+No relationship, emotion, actor or authority is inferred from unlabeled prose.
 """
 
 from __future__ import annotations
 
+import re
+
 import build_full_series_context_writer_activation as base
+import decision_owner_role_reconciliation as role_review
+
+VERBS = (
+    "keeps", "keep", "maps", "map", "orders", "order", "chooses", "choose",
+    "votes", "vote", "refuses", "refuse", "rejects", "reject", "signs", "sign",
+    "accepts", "accept", "authorizes", "authorize", "approves", "approve",
+    "commits", "commit", "holds", "hold", "uses", "use", "opens", "open",
+    "releases", "release", "separates", "separate", "isolates", "isolate",
+    "decides", "decide", "selects", "select", "retains", "retain", "stays", "stay",
+    "transmits", "transmit", "grants", "grant", "withholds", "withhold",
+    "deploys", "deploy", "restores", "restore", "adopts", "adopt", "requests", "request",
+    "leaves", "leave", "hands", "hand", "records", "record", "publishes", "publish",
+    "agrees", "agree", "moves", "move", "routes", "route", "cancels", "cancel",
+    "stops", "stop", "permits", "permit", "allows", "allow", "maintains", "maintain",
+    "suspends", "suspend", "limits", "limit", "continues", "continue", "withdraws", "withdraw",
+    "enters", "enter", "issues", "issue", "removes", "remove", "distributes", "distribute",
+)
+PERFORMER_RE = re.compile(
+    r"^(.{1,120}?)\s+(" + "|".join(sorted(VERBS, key=len, reverse=True)) + r")\b",
+    re.I,
+)
+GENERIC_BAD = {
+    "it", "this", "that", "there", "one", "someone", "something", "the episode",
+    "the approved episode", "the source", "a result", "an outcome", "the result",
+}
+
+_ORIGINAL_RELATIONSHIP_DELTA = base.relationship_delta
+
+
+def source_named_decision_performer(decision: str) -> str | None:
+    text = re.sub(r"\s+", " ", decision or "").strip()
+    if not text or text.startswith("NON-DISCRETE"):
+        return None
+    text = re.sub(r"^\[[^\]]+\]\s*", "", text)
+    first = re.split(r"(?<=[.!?])\s+|\s*;\s*", text, maxsplit=1)[0].strip()
+    match = PERFORMER_RE.match(first)
+    if not match:
+        return None
+    actor = match.group(1).strip(" -,:`[]()")
+    low = actor.casefold()
+    if low in GENERIC_BAD or len(actor.split()) > 12:
+        return None
+    if any(x in low for x in ("because ", "while ", " if ", " when ", " after ", " before ", " so that ")):
+        return None
+
+    has_code = bool(re.search(r"\b[A-Z]{1,5}-\d{1,4}\b", actor))
+    proper = bool(
+        re.fullmatch(
+            r"[A-Z][A-Za-z'’-]+(?:\s+[A-Z][A-Za-z'’-]+){0,3}"
+            r"(?:\s+and\s+[A-Z][A-Za-z'’-]+(?:\s+[A-Z][A-Za-z'’-]+){0,3})?",
+            actor,
+        )
+    )
+    if not (has_code or proper):
+        return None
+    return actor
 
 
 def owner_route_no_pov_fallback(card, engine, decision, pov):
@@ -37,6 +102,20 @@ def owner_route_no_pov_fallback(card, engine, decision, pov):
             "WORKFLOW-ROUTE FROM SOURCE ACTORS + DECISION",
         )
     if decision:
+        performer = source_named_decision_performer(decision)
+        if performer:
+            return (
+                "source decision performer/authority actor(s): " + performer,
+                "SOURCE-DECISION-PERFORMER + SOURCE DECISION",
+            )
+
+        reviewed_role = role_review.SAFE_ROLE_OWNERS.get(card.episode)
+        if reviewed_role:
+            return (
+                "source-reviewed collective/institutional decision performer(s): " + reviewed_role,
+                "SOURCE-REVIEWED ROLE PERFORMER + SOURCE DECISION",
+            )
+
         return (
             f"bounded {base.OWNER_ROLE[engine]}; identify the performer/signatory/refuser from this exact source decision beat: "
             + base.clip(decision, 420),
@@ -51,10 +130,32 @@ def owner_route_no_pov_fallback(card, engine, decision, pov):
     return base.OWNER_ROLE[engine], "WORKFLOW-BOUNDED ROLE"
 
 
-base.owner_route = owner_route_no_pov_fallback
+def relationship_delta_with_explicit_source_labels(card, human, n):
+    """Carry only explicitly labeled relationship/character-state source text.
 
-# Import after the patch so the existing enhanced label normalization,
-# load-bearing loss/payoff overrides and final epilogue routes are preserved.
+    `local/patient trust`, standing warrants and similar institutional option
+    labels are intentionally not included here: they do not by themselves
+    declare an episode relationship/emotion delta.
+    """
+    explicit = base.first(
+        card,
+        "relationship/institution state",
+        "relationship state",
+        "institution state",
+        "relationship",
+        "character state",
+        "visual/relationship rule",
+    )
+    if explicit:
+        return explicit, "SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE"
+    return _ORIGINAL_RELATIONSHIP_DELTA(card, human, n)
+
+
+base.owner_route = owner_route_no_pov_fallback
+base.relationship_delta = relationship_delta_with_explicit_source_labels
+
+# Import after patches so enhanced label normalization, load-bearing loss/payoff
+# overrides and final epilogue routes remain intact.
 import finalize_context_load_bearing_overrides as finalizer  # noqa: E402
 
 

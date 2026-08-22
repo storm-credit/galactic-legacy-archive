@@ -23,8 +23,8 @@ Rian.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: Haren maps personnel, 07 support, medical retreat and equipment recovery. his plan accounts for people after arrival, not only test completion.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Haren
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Haren maps personnel, 07 support, medical retreat and equipment recovery. his plan accounts for people after arrival, not only test completion.
@@ -53,7 +53,7 @@ Rian sees a firing solution from archived footage that should have killed him—
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=successful partial run; Rian states which future assumption he cannot verify.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=successful partial run; Rian states which future assumption he cannot verify.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.
@@ -1125,8 +1125,8 @@ Rian, with Haren leading.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded the current people/crew whose acceptance, refusal or obligation changes; identify the performer/signatory/refuser from this exact source decision beat: ordinary students/workers contribute, refuse or attach conditions. one student asks whether the fund would protect someone accused against Rian too.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source-reviewed collective/institutional decision performer(s): ordinary students/workers
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-REVIEWED ROLE PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 ordinary students/workers contribute, refuse or attach conditions. one student asks whether the fund would protect someone accused against Rian too.
@@ -1155,7 +1155,7 @@ the necessary proof requires Serin to submit the audit trail that also documents
 
 **NARRATIVE_ENGINE_FAMILY:** `RELATIONSHIP/TEAM`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=Ring B dining/recreation or memorial/community room.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-REVIEWED ROLE PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=Ring B dining/recreation or memorial/community room.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot decide another person's loyalty, forgiveness, exit, refusal or relationship state for them.
@@ -1241,8 +1241,8 @@ Rian.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current custodian/title/crew/receiving parties required by the approved transfer; identify the performer/signatory/refuser from this exact source decision beat: Nera refuses unsafe/illegal equipment use. Haren says physical escape voids guarantees. Serin tracks the exact manifest and authority window. Mia inspects whether transfer medical/life-support conditions match the listed passengers.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Nera
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Nera refuses unsafe/illegal equipment use. Haren says physical escape voids guarantees. Serin tracks the exact manifest and authority window. Mia inspects whether transfer medical/life-support conditions match the listed passengers.
@@ -1271,7 +1271,7 @@ Nera receives a notice that the radiator will be dismantled/recertified within f
 
 **NARRATIVE_ENGINE_FAMILY:** `COLLECTION/ACCESS/TRANSFER`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-BLOCK-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=Juno and several transfer cases are loaded toward a contracted shuttle. the student mutual guarantee is nearly complete but one signature/placement confirmation is late. Security has lawful internal transfer papers.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-BLOCK-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=Juno and several transfer cases are loaded toward a contracted shuttle. the student mutual guarantee is nearly complete but one signature/placement confirmation is late. Security has lawful internal transfer papers.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot treat discovery/access/transfer as personal collection ownership when title, custody, crew or local rights remain separate.
@@ -1299,8 +1299,8 @@ Rian.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current technical/safety maintainer(s) holding the relevant stop/test authority; identify the performer/signatory/refuser from this exact source decision beat: Juno leaves active Academy-cell status for the Neutral-supervised technical/education placement. Juno’s cellmates retain limited guarantees under the mutual-fund package.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Juno
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Juno leaves active Academy-cell status for the Neutral-supervised technical/education placement. Juno’s cellmates retain limited guarantees under the mutual-fund package.
@@ -1316,8 +1316,8 @@ source POV/current participants: Rian.
 **HUMAN_ROUTE_AUTHORITY:** `SOURCE-POV`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
-NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
-**RELATIONSHIP_DELTA_AUTHORITY:** `EXPLICIT-NONE GUARD`
+Rian offers future cooperation, not recruitment. Juno says survival does not erase that Rian’s cell received chances paid for by others. no reconciliation speech.
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 Juno remains alive, visible and autonomous.
@@ -1329,7 +1329,7 @@ one auction transport route passes through an old external truss with weak juris
 
 **NARRATIVE_ENGINE_FAMILY:** `TECHNICAL-REPAIR/TEST`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 33.1 — Juno’s departure] POV: Rian. Action: Juno leaves active Academy-cell status for the Neutral-supervised technical/education placement … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 33.1 — Juno’s departure] POV: Rian. Action: Juno leaves active Academy-cell status for the Neutral-supervised technical/education placement … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-certify repair/safety, overrule current measurement, or convert pilot memory into technical authority.
@@ -1473,8 +1473,8 @@ Rian in a low-interface Academy utility frame.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: Rian uses precise relative-motion timing, tether angles and minimal thrust to redirect the worker tug and catch/soften the radiator pallet. he does not perform future-machine acceleration beyond current utility limits. Nera/ordinary workers secure physical lines and complete attachment.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Rian
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Rian uses precise relative-motion timing, tether angles and minimal thrust to redirect the worker tug and catch/soften the radiator pallet. he does not perform future-machine acceleration beyond current utility limits. Nera/ordinary workers secure physical lines and complete attachment.
@@ -1503,7 +1503,7 @@ the manifold is legally captured by another bidder, while the saved radiator now
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=radiator pallet, manifold/control pallet, worker/tool tug and related cargo move along old truss. Academy, Helix, salvage-broker and worker observers occupy separate craft/suits … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=radiator pallet, manifold/control pallet, worker/tool tug and related cargo move along old truss. Academy, Helix, salvage-broker and worker observers occupy separate craft/suits … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -2302,8 +2302,8 @@ source POV/current participants: Rian before a limited student/staff broadcast/h
 **HUMAN_ROUTE_AUTHORITY:** `SOURCE-POV`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
-NONE — relationship/internal-emotion delta is not separately fixed by the source. Preserve only the current obligation/friction implicit in the approved cost/state; do not invent confession, loyalty, forgiveness or intimacy.
-**RELATIONSHIP_DELTA_AUTHORITY:** `EXPLICIT-NONE GUARD`
+no forgiveness or recruitment.
+**RELATIONSHIP_DELTA_AUTHORITY:** `SOURCE-EXPLICIT RELATIONSHIP/CHARACTER RULE`
 
 **READER_PAYOFF_THIS_EP**  
 myth weakened and medical inquiry path.
@@ -3387,8 +3387,8 @@ Rian in 07.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current medical/care authority together with patient/affected-party consent where applicable; identify the performer/signatory/refuser from this exact source decision beat: Rian holds the service line and lets the target escape.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Rian
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Rian holds the service line and lets the target escape.
@@ -3417,7 +3417,7 @@ Helix offers immediate remaining stock if local patient council/ORA/adapters are
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 69.1 — External service failure] POV: Rian in 07. Problem: BW-F/H temporary cooling/power module or medical launch connection cannot align/hold under current fault/debris/lock c … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 69.1 — External service failure] POV: Rian in 07. Problem: BW-F/H temporary cooling/power module or medical launch connection cannot align/hold under current fault/debris/lock c … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.
@@ -3503,8 +3503,8 @@ Rian coordinating one layer, not all.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current medical/care authority together with patient/affected-party consent where applicable; identify the performer/signatory/refuser from this exact source decision beat: licensed clinicians invoke medical stop/custody. Neutral witness/corridor and public/process evidence make indiscriminate seizure costly. some consenting transfers continue; disputed blanket seizure stops.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source-reviewed collective/institutional decision performer(s): licensed clinicians
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-REVIEWED ROLE PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 licensed clinicians invoke medical stop/custody. Neutral witness/corridor and public/process evidence make indiscriminate seizure costly. some consenting transfers continue; disputed blanket seizure stops.
@@ -3533,7 +3533,7 @@ Academy Research/Helix/Imperial funding streams are suspended or withdrawn pendi
 
 **NARRATIVE_ENGINE_FAMILY:** `MEDICAL/CARE/CONSENT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 71.1 — Seizure/purge order] POV: Rian coordinating one layer, not all. Order objectives: secure ORA-3/continuity data. transfer protected patients/equipment … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-REVIEWED ROLE PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene 71.1 — Seizure/purge order] POV: Rian coordinating one layer, not all. Order objectives: secure ORA-3/continuity data. transfer protected patients/equipment … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot self-clear medical limits, override patient consent, or convert operational urgency into care authority.

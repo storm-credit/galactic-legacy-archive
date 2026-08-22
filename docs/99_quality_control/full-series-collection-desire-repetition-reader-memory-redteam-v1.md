@@ -43,16 +43,16 @@ Identical target sets with a changed desire are a WATCH, not an automatic failur
 ## Most Reused Active Threads
 
 - `CLT-GA8-G8-A08`: **12 subacts**
-- `CLT-GA2-G2-S12`: **9 subacts**
 - `CLT-GA3-G3-M01`: **9 subacts**
 - `CLT-GA8-G8-R06`: **9 subacts**
-- `CLT-GA1-I-001`: **8 subacts**
 - `CLT-GA4-G4-M01`: **8 subacts**
 - `CLT-GA5-G5-L08`: **8 subacts**
 - `CLT-GA9-G9-R08`: **8 subacts**
-- `CLT-GA2-G2-P07`: **7 subacts**
+- `CLT-GA2-G2-S12`: **7 subacts**
 - `CLT-GA7-G7-R11`: **7 subacts**
 - `CLT-GA10-G10-R01`: **7 subacts**
+- `CLT-GA1-I-001`: **6 subacts**
+- `CLT-GA1-F-001`: **6 subacts**
 - `CLT-GA3-G3-D05`: **6 subacts**
 - `CLT-GA3-G3-R12`: **6 subacts**
 - `CLT-GA8-G8-A06`: **6 subacts**

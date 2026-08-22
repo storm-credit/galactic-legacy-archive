@@ -87,7 +87,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: expedition and Authority F access possible.
 - `COST_REFUSAL_OR_LOSS`: identity/service crisis worsens in the Core/regions during absence; Continuity emergency current-status layer expands.
 - `SET_ADVANCE_CONDITION`: expedition and Authority F access possible.
-- `NEXT_DESIRE`: `L`. -- / `G — distributed and auditable, not sole key`.
+- `NEXT_DESIRE`: Palimpsest custodians refuse forced synchronization and warn that some “archives” are living AI/composite communities. --
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA8-G8-A08` / `G8-A08` / Lost/Exposed Mirror or Source Class — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=118
@@ -298,7 +298,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: enough sources/rights survive for activation choice.
 - `COST_REFUSAL_OR_LOSS`: current crisis worsens and trust collapses.
 - `SET_ADVANCE_CONDITION`: enough sources/rights survive for activation choice.
-- `NEXT_DESIRE`: hospitals/fleets/routes begin rejecting identities/orders at lethal scale.
+- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — attempt plural/current-status operation without Authority G full consensus. → final constraints and support for bounded activation.
 - `OWNERSHIP_GUARD`: 인물은 소유물이 아니며 동의·거절·이탈 가능성을 유지; 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지; 장소·노드·문명은 발견/접근과 소유·통치·자치를 동일시하지 않음; 물리 확보와 운용권·인증·정비·승무원·산업능력을 분리
 - `ACTIVE_TARGETS`:
   - `CLT-GA8-G8-A08` / `G8-A08` / Lost/Exposed Mirror or Source Class — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=126

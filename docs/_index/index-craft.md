@@ -22,10 +22,33 @@
 | [[noncanon-episode-1-close-third-sample-v1|noncanon-episode-1-close-third-sample-v1]] | Non-Canon Episode 1 Close-Third Sample v1 | TEST MATERIAL |
 | [[noncanon-episode-1-close-third-sample-v2-mobile|noncanon-episode-1-close-third-sample-v2-mobile]] | Non-Canon Episode 1 Close-Third Sample v2 | TEST MATERIAL |
 
-## 13_writing_harness (4)
+## 13_writing_harness (27)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
+| [[full-series-context-pack-generated-manifest-v1|full-series-context-pack-generated-manifest-v1]] | Full-Series Context Pack Generated Manifest v1 | REVIEW |
+| [[full-series-context-pack-structural-audit-v1|full-series-context-pack-structural-audit-v1]] | Full-Series Context Pack Structural Audit v3 | REVIEW |
+| [[full-series-context-writer-activation-manifest-v1|full-series-context-writer-activation-manifest-v1]] | Full-Series Context Writer-Activation Manifest v1 | REVIEW |
+| [[ga1-e011-e100-context-packs-v1|ga1-e011-e100-context-packs-v1]] | GA1 E011–E100 Full Deep Context Packs v1 | REVIEW |
+| [[ga1-e011-e100-writer-activation-v1|ga1-e011-e100-writer-activation-v1]] | GA1 E011–E100 Writer-Activation Context Overlay v1 | REVIEW |
+| [[ga10-e1001-e1100-context-packs-v1|ga10-e1001-e1100-context-packs-v1]] | GA10 E1001–E1100 Full Deep Context Packs v1 | REVIEW |
+| [[ga10-e1001-e1100-writer-activation-v1|ga10-e1001-e1100-writer-activation-v1]] | GA10 E1001–E1100 Writer-Activation Context Overlay v1 | REVIEW |
+| [[ga2-e101-e210-context-packs-v1|ga2-e101-e210-context-packs-v1]] | GA2 E101–E210 Full Deep Context Packs v1 | REVIEW |
+| [[ga2-e101-e210-writer-activation-v1|ga2-e101-e210-writer-activation-v1]] | GA2 E101–E210 Writer-Activation Context Overlay v1 | REVIEW |
+| [[ga3-e211-e330-context-packs-v1|ga3-e211-e330-context-packs-v1]] | GA3 E211–E330 Full Deep Context Packs v1 | REVIEW |
+| [[ga3-e211-e330-writer-activation-v1|ga3-e211-e330-writer-activation-v1]] | GA3 E211–E330 Writer-Activation Context Overlay v1 | REVIEW |
+| [[ga4-e331-e450-context-packs-v1|ga4-e331-e450-context-packs-v1]] | GA4 E331–E450 Full Deep Context Packs v1 | REVIEW |
+| [[ga4-e331-e450-writer-activation-v1|ga4-e331-e450-writer-activation-v1]] | GA4 E331–E450 Writer-Activation Context Overlay v1 | REVIEW |
+| [[ga5-e451-e570-context-packs-v1|ga5-e451-e570-context-packs-v1]] | GA5 E451–E570 Full Deep Context Packs v1 | REVIEW |
+| [[ga5-e451-e570-writer-activation-v1|ga5-e451-e570-writer-activation-v1]] | GA5 E451–E570 Writer-Activation Context Overlay v1 | REVIEW |
+| [[ga6-e571-e690-context-packs-v1|ga6-e571-e690-context-packs-v1]] | GA6 E571–E690 Full Deep Context Packs v1 | REVIEW |
+| [[ga6-e571-e690-writer-activation-v1|ga6-e571-e690-writer-activation-v1]] | GA6 E571–E690 Writer-Activation Context Overlay v1 | REVIEW |
+| [[ga7-e691-e800-context-packs-v1|ga7-e691-e800-context-packs-v1]] | GA7 E691–E800 Full Deep Context Packs v1 | REVIEW |
+| [[ga7-e691-e800-writer-activation-v1|ga7-e691-e800-writer-activation-v1]] | GA7 E691–E800 Writer-Activation Context Overlay v1 | REVIEW |
+| [[ga8-e801-e900-context-packs-v1|ga8-e801-e900-context-packs-v1]] | GA8 E801–E900 Full Deep Context Packs v1 | REVIEW |
+| [[ga8-e801-e900-writer-activation-v1|ga8-e801-e900-writer-activation-v1]] | GA8 E801–E900 Writer-Activation Context Overlay v1 | REVIEW |
+| [[ga9-e901-e1000-context-packs-v1|ga9-e901-e1000-context-packs-v1]] | GA9 E901–E1000 Full Deep Context Packs v1 | REVIEW |
+| [[ga9-e901-e1000-writer-activation-v1|ga9-e901-e1000-writer-activation-v1]] | GA9 E901–E1000 Writer-Activation Context Overlay v1 | REVIEW |
 | [[narration-harness-v1|narration-harness-v1]] | Narration Harness v1 | DRAFT |
 | [[prose-bible|prose-bible]] | Prose Bible | CANON FOR DESIGN / REQUIRES SAMPLE VALIDATION BEFORE DRAFTING |
 | [[revision-harness|revision-harness]] | Revision Harness | CANON FOR DESIGN / ACTIVATES AFTER PRE-WRITING GATE |

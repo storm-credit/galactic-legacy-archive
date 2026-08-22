@@ -371,8 +371,8 @@ Joint Trust fields, 파루스 crew, Neutral evidence staff and potential witness
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current investigators/source custodians/witnesses with their separate evidentiary standing; identify the performer/signatory/refuser from this exact source decision beat: Ardis authorizes the October 12 bounded window and evidence mission through local Trust fields, not a protagonist or claimant order.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Ardis
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Ardis authorizes the October 12 bounded window and evidence mission through local Trust fields, not a protagonist or claimant order.
@@ -401,7 +401,7 @@ four separate retrieval teams and one private evidence broker are already moving
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Mission object** — recover living witness if possible; preserve physical clock/ledger/drive/medical evidence … [source continues]; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Mission object** — recover living witness if possible; preserve physical clock/ledger/drive/medical evidence … [source continues]; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -1067,8 +1067,8 @@ Mara’s civil staff, local province, depot workers/users and hearing observers.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: Mara accepts a shared execution that limits Regency control instead of claiming exclusive civil supremacy.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Mara
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Mara accepts a shared execution that limits Regency control instead of claiming exclusive civil supremacy.
@@ -1097,7 +1097,7 @@ Dor Kain must now stop two larger claimant flotillas from treating the depot set
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Dispute** — local province claims emergency custody; Regency court orders shared release; Elian seal validates title chain; Isa modules control certified inventory … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Dispute** — local province claims emergency custody; Regency court orders shared release; Elian seal validates title chain; Isa modules control certified inventory … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -1183,8 +1183,8 @@ Dor, General Staff officers, convoy/evidence custodians and civil/provincial obs
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current investigators/source custodians/witnesses with their separate evidentiary standing; identify the performer/signatory/refuser from this exact source decision beat: Dor limits his own command to armed/security functions despite losing a faster path to total stability.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Dor
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Dor limits his own command to armed/security functions despite losing a faster path to total stability.
@@ -1213,7 +1213,7 @@ Isa Bell’s Continuity network detects a cross-protocol identity/payment outage
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Expanded order** — one staff command freezes evidence transfers, provincial broadcasts and claimant travel as potential military threats. 2 … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Expanded order** — one staff command freezes evidence transfers, provincial broadcasts and claimant travel as potential military threats. 2 … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.
@@ -1299,8 +1299,8 @@ Isa, affected service users, civil/Registry/military auditors and hearing office
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current title/claim/custody parties and affected crew/community; title does not absorb people; identify the performer/signatory/refuser from this exact source decision beat: Isa accepts bounded modules and public/user review rather than claiming that continuity operation proves sovereign supremacy.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Isa
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Isa accepts bounded modules and public/user review rather than claiming that continuity operation proves sovereign supremacy.
@@ -1329,7 +1329,7 @@ the authentic-document hearing opens with proof that every claimant can keep one
 
 **NARRATIVE_ENGINE_FAMILY:** `CLAIM/OWNERSHIP/CUSTODY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Power inventory** — root suspension, translation, medical/payment/identity service, node authentication and incident logs are separated into current functions. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Power inventory** — root suspension, translation, medical/payment/identity service, node authentication and incident logs are separated into current functions. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot convert access, salvage, title, lien, surrender or custody into ownership of people/crew/whole mission.
@@ -1763,8 +1763,8 @@ Ora Fenn, hospital/depot/ship operators, Vern Soa and four-function mission staf
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: Graybridge issues one current-state board and keeps physical/service control local while admitting all four claimant functions.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Graybridge
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Graybridge issues one current-state board and keeps physical/service control local while admitting all four claimant functions.
@@ -1793,7 +1793,7 @@ Elian’s Registry team can identify the patients and households fastest, but 3,
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Physical map** — three corridors have different mass, recovery, security and pressure limits; one cannot take hospital and grain traffic in the same recovery cycle … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Physical map** — three corridors have different mass, recovery, security and pressure limits; one cannot take hospital and grain traffic in the same recovery cycle … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -2401,8 +2401,8 @@ Secretariat, Mara/Dor/Isa mission teams, Elian records staff and Meridian operat
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current route/traffic/captain/receiving authorities attached to the movement; identify the performer/signatory/refuser from this exact source decision beat: Secretariat issues the legal emergency order under the draft’s actual rules rather than inventing a direct physical veto that the compact does not yet contain.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Secretariat
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Secretariat issues the legal emergency order under the draft’s actual rules rather than inventing a direct physical veto that the compact does not yet contain.
@@ -2431,7 +2431,7 @@ Corridor 1 pressure geometry shifts while the first two ships are committed.
 
 **NARRATIVE_ENGINE_FAMILY:** `ROUTE/LOGISTICS`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Central concurrence** — civil funding/order, military lane and Continuity authentication agree; Registry manifests are valid and not disputed. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦APPROVED SECTION CARRIER EVIDENCE⟧ [Scene units] 1. **Central concurrence** — civil funding/order, military lane and Continuity authentication agree; Registry manifests are valid and not disputed. 2 … [source continues]; cost-class=TIME/SERVICE-DELAY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot override current captain, traffic, receiving, local-service or affected-party route authority.

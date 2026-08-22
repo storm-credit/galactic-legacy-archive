@@ -255,8 +255,8 @@ Deon Har, Muren Kas and local workers.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current rescue/service operators plus the receiving/affected authority named by the operation; identify the performer/signatory/refuser from this exact source decision beat: Deon maintains the stop and authorizes only a 36% bounded intake through alternating trunks.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Deon
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Deon maintains the stop and authorizes only a 36% bounded intake through alternating trunks.
@@ -285,7 +285,7 @@ Neutral rescue ships announce they will refuse boarding beyond current covenant 
 
 **NARRATIVE_ENGINE_FAMILY:** `RESCUE/SERVICE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=outside fleets already consume 18% of emergency energy and 23% of certified dock/repair shifts; connecting another high-load intake line risks a thermal cascade with one heat-sink field offline.; cost-class=MATERIAL/CAPACITY
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=outside fleets already consume 18% of emergency energy and 23% of certified dock/repair shifts; connecting another high-load intake line risks a thermal cascade with one heat-sink field offline.; cost-class=MATERIAL/CAPACITY
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot own recipients, erase receiving stops, or turn rescue coordination into permanent service authority.
@@ -313,8 +313,8 @@ Ora Niv and member captains.
 **POV_ROUTE_AUTHORITY:** `SOURCE-EXPLICIT`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current mission/formation commander(s) and the crews holding the approved tactical mandate; identify the performer/signatory/refuser from this exact source decision beat: Ora publishes ship-level capacity, disarmament, medical and destination limits and refuses political overbooking.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Ora
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Ora publishes ship-level capacity, disarmament, medical and destination limits and refuses political overbooking.
@@ -343,7 +343,7 @@ holdout/stay groups demand a seat before planners treat them as future leftovers
 
 **NARRATIVE_ENGINE_FAMILY:** `TACTICAL-COMBAT`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E571: CY 744-11-01. physically present/currently committed: 1,260,000. projected six-week envelope: 3.29–3.49m … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=SOURCE-POV; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Opening State — shared source state] E571: CY 744-11-01. physically present/currently committed: 1,260,000. projected six-week envelope: 3.29–3.49m … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot absorb another formation commander's current mandate, crew refusal, targeting stop or lawful local command merely through future knowledge.
@@ -5529,12 +5529,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: Rian refuses acceptance before the final facts, authority terms and affected constituencies are heard; keeps the offer active as a real option.); ground that face in the exact source pivot [Rian refuses acceptance before the final facts, authority terms and affected constituencies are heard … [source continues]
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (source decision performer/authority actor(s): Rian); ground that face in the exact source pivot [Rian refuses acceptance before the final facts, authority terms and affected constituencies are heard; keeps the offer active as a real option.] and source cost [no single command solution is ready with less than two days remaining.]. Do not create a new named witness merely to supply emotion.
 **POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: Rian refuses acceptance before the final facts, authority terms and affected constituencies are heard; keeps the offer active as a real option.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Rian
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Rian refuses acceptance before the final facts, authority terms and affected constituencies are heard; keeps the offer active as a real option.
@@ -5546,7 +5546,7 @@ Rian refuses acceptance before the final facts, authority terms and affected con
 PRESSURE[evaluate the offer to place Rian as human corrective inside full Authority G.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Rian refuses acceptance before the final facts, authority terms and affected constituencies are heard; keeps the offer active as a real option.] → DELTA[Rian refuses acceptance before the final facts, authority terms and affected constituencies are heard; keeps the offer active as a real option.] → COST[no single command solution is ready with less than two days remaining.] → NEXT[hostile forces begin a live attempt to seize or disable one route reference.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: Rian refuses acceptance before the final facts, authority terms and affected constituencies are heard; keeps the offer active as a real option.); ground that face in the exact source pivot [Rian refuses acceptance before the final facts, authority terms and affected constituencies are heard; keeps the offer active as a real option.] and source cost [no single command solution is ready with less than two days remaining.]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (source decision performer/authority actor(s): Rian); ground that face in the exact source pivot [Rian refuses acceptance before the final facts, authority terms and affected constituencies are heard; keeps the offer active as a real option.] and source cost [no single command solution is ready with less than two days remaining.]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
@@ -5563,7 +5563,7 @@ hostile forces begin a live attempt to seize or disable one route reference.
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Offer] centralized manifest/ship/route/destination optimization; current physical/medical stop preserved but appeal and formation refusal time-limited … [source continues]; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Offer] centralized manifest/ship/route/destination optimization; current physical/medical stop preserved but appeal and formation refusal time-limited … [source continues]; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -6051,12 +6051,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: Rian refuses the full key before current outcomes and separate authorities choose; bounded Aurel fact/model/alert services remain active; a later explicit emergency grant remains legally possible.); ground that face in the exact source pivot [Rian refuses the full key before current outcomes and separate authorities choose … [source continues]
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (source decision performer/authority actor(s): Rian); ground that face in the exact source pivot [Rian refuses the full key before current outcomes and separate authorities choose; bounded Aurel fact/model/alert services remain active; a later explicit emergency grant remains legally possible.] and source cost [the operation begins without the fastest common command.]. Do not create a new named witness merely to supply emotion.
 **POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: Rian refuses the full key before current outcomes and separate authorities choose; bounded Aurel fact/model/alert services remain active; a later explicit emergency grant remains legally possible.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source decision performer/authority actor(s): Rian
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-DECISION-PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Rian refuses the full key before current outcomes and separate authorities choose; bounded Aurel fact/model/alert services remain active; a later explicit emergency grant remains legally possible.
@@ -6068,7 +6068,7 @@ Rian refuses the full key before current outcomes and separate authorities choos
 PRESSURE[decide whether Rian receives full G human-corrective authority before the common phase.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Rian refuses the full key before current outcomes and separate authorities choose; bounded Aurel fact/model/alert services remain active; a later explicit emergency grant remains legally possible.] → DELTA[Rian refuses the full key before current outcomes and separate authorities choose; bounded Aurel fact/model/alert services remain active … [source continues]] → COST[the operation begins without the fastest common command.] → NEXT[E676 opens at CY 744-12-17 04:00 with final intake and external contact already inside the approach volume.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current authorized board/assembly/tribunal/office and affected-party standing; identify the performer/signatory/refuser from this exact source decision beat: Rian refuses the full key before current outcomes and separate authorities choose; bounded Aurel fact/model/alert services remain active; a later explicit emergency grant remains legally possible.); ground that face in the exact source pivot [Rian refuses the full key before current outcomes and separate authorities choose; bounded Aurel fact/model/alert services remain active; a later explicit emergency grant remains legally possible.] and source cost [the operation begins without the fastest common command.]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (source decision performer/authority actor(s): Rian); ground that face in the exact source pivot [Rian refuses the full key before current outcomes and separate authorities choose; bounded Aurel fact/model/alert services remain active; a later explicit emergency grant remains legally possible.] and source cost [the operation begins without the fastest common command.]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
@@ -6085,7 +6085,7 @@ E676 opens at CY 744-12-17 04:00 with final intake and external contact already 
 
 **NARRATIVE_ENGINE_FAMILY:** `LEGAL/GOVERNANCE/ACCOUNTABILITY`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Final-Preparation Window — shared source state] CY 744-12-17 00:00–03:59. decisive operation begins 04:00. no named locked loss occurs before E680.; cost-class=OTHER/COMPOSITE
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-DECISION-PERFORMER + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SHARED APPROVED SOURCE-STATE CARRIER⟧ [Shared Final-Preparation Window — shared source state] CY 744-12-17 00:00–03:59. decisive operation begins 04:00. no named locked loss occurs before E680.; cost-class=OTHER/COMPOSITE
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot become the default judge, legislature, claimant, victim representative or permanent executive.
@@ -6402,12 +6402,12 @@ Story Canon Effect: NONE — this section is workflow/QC routing only.
 ### POV / ownership
 
 **POV_INFORMATION_ROUTE**  
-WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current investigators/source custodians/witnesses with their separate evidentiary standing; identify the performer/signatory/refuser from this exact source decision beat: Common Fact Board updates facts but does not vote priority; Deon/local, medical, ship/captain, affected constituencies, receiving bodies, military formations, evidence/appeal and holdout actors each grant only their fields … [source continues]
+WORKFLOW POV recommendation — select the already-present human/work carrier identified below, prefer the actor who physically performs/refuses the source pivot or bears its immediate cost, and reveal only information available through that current role: writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (source-reviewed collective/institutional decision performer(s): Common Fact Board plus the field-specific current decision actors enumerated in the source decision); ground that face in the exact source pivot [Common Fact Board updates facts but does not vote priority … [source continues]
 **POV_ROUTE_AUTHORITY:** `WORKFLOW-RECOMMENDATION FROM SOURCE/BOUNDED EXISTING ROLE — NOT STORY CANON`
 
 **PRIMARY_DECISION_OWNER**  
-bounded current investigators/source custodians/witnesses with their separate evidentiary standing; identify the performer/signatory/refuser from this exact source decision beat: Common Fact Board updates facts but does not vote priority; Deon/local, medical, ship/captain, affected constituencies, receiving bodies, military formations, evidence/appeal and holdout actors each grant only their fields; Rian rejects the full human-corrective/master operational key and recommends staged distributed architecture; several G/S supporters formally dissent and continue bounded participation.
-**OWNER_ROUTE_AUTHORITY:** `WORKFLOW-BOUNDED ROLE + SOURCE DECISION`
+source-reviewed collective/institutional decision performer(s): Common Fact Board plus the field-specific current decision actors enumerated in the source decision
+**OWNER_ROUTE_AUTHORITY:** `SOURCE-REVIEWED ROLE PERFORMER + SOURCE DECISION`
 
 **DECISION_BEAT**  
 Common Fact Board updates facts but does not vote priority; Deon/local, medical, ship/captain, affected constituencies, receiving bodies, military formations, evidence/appeal and holdout actors each grant only their fields; Rian rejects the full human-corrective/master operational key and recommends staged distributed architecture; several G/S supporters formally dissent and continue bounded participation.
@@ -6419,7 +6419,7 @@ Common Fact Board updates facts but does not vote priority; Deon/local, medical,
 PRESSURE[select an executable architecture after A closure, B losses, Ella’s death, hostile escalation and current refusals.] → OBSTACLE[current source-supported obstacle/pressure encoded in the physical state and cost] → PIVOT[Common Fact Board updates facts but does not vote priority; Deon/local, medical, ship/captain, affected constituencies, receiving bodies, military formations, evidence/appeal and holdout actors each grant only their fiel … [source continues]] → DELTA[one executable architecture exists.] → COST[slower coordination and lost capacity remain; dissent is legitimate and recorded.] → NEXT[Grey and several captains refuse or alter M assignments at 05:50.]
 
 **HUMAN_PRESSURE_CARRIER**  
-writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (bounded current investigators/source custodians/witnesses with their separate evidentiary standing; identify the performer/signatory/refuser from this exact source decision beat: Common Fact Board updates facts but does not vote priority; Deon/local, medical, ship/captain, affected constituencies, receiving bodies, military formations, evidence/appeal and holdout actors each grant only their fields; Rian rejects the full human-corrective/master operational key and recommends staged distributed architecture; several G/S supporters formally dissent and continue bounded participation.); ground that face in the exact source pivot [Common Fact Board updates facts but does not vote priority; Deon/local, medical, ship/captain, affected constituencies, receiving bodies, military formations, evidence/appeal and holdout actors each grant only their fields … [source continues]] and source cost [slower coordination and lost capacity remain; dissent is legitimate and recorded.]. Do not create a new named witness merely to supply emotion.
+writer face target — use an already-present performer/refuser/recipient from this episode's bounded decision domain (source-reviewed collective/institutional decision performer(s): Common Fact Board plus the field-specific current decision actors enumerated in the source decision); ground that face in the exact source pivot [Common Fact Board updates facts but does not vote priority; Deon/local, medical, ship/captain, affected constituencies, receiving bodies, military formations, evidence/appeal and holdout actors each grant only their fields … [source continues]] and source cost [slower coordination and lost capacity remain; dissent is legitimate and recorded.]. Do not create a new named witness merely to supply emotion.
 **HUMAN_ROUTE_AUTHORITY:** `WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST`
 
 **RELATIONSHIP_EMOTIONAL_DELTA**  
@@ -6436,7 +6436,7 @@ Grey and several captains refuse or alter M assignments at 05:50.
 
 **NARRATIVE_ENGINE_FAMILY:** `INVESTIGATION/EVIDENCE`
 **ENGINE_DIFFERENTIATOR**  
-decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=WORKFLOW-BOUNDED ROLE + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Truth statement] M is not certified to minimize immediate deaths … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
+decision-mode=SOURCE-EXPLICIT-DECISION; owner-route=SOURCE-REVIEWED ROLE PERFORMER + SOURCE DECISION; human-route=WORKFLOW BOUNDED EXISTING-ROLE TARGET + SOURCE DECISION/COST; carrier=⟦SEMANTIC SOURCE-BLOCK CARRIER; exact approved episode evidence⟧ [Truth statement] M is not certified to minimize immediate deaths … [source continues]; cost-class=HEALTH/IRREVERSIBLE-LOSS
 
 **RIAN_CANNOT_OVERRIDE**  
 Rian cannot collapse witness/source/investigator roles into one authoritative interpretation.

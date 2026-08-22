@@ -46,7 +46,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: operational census with uncertainty bands and protected/private layers.
 - `COST_REFUSAL_OR_LOSS`: information leaks; hostile/claimant actors target key ships/functions.
 - `SET_ADVANCE_CONDITION`: operational census with uncertainty bands and protected/private layers.
-- `NEXT_DESIRE`: one essential hospital/Registry/command function cannot survive intact transit and must be split or prioritized.
+- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — prevent unilateral seizure of Window A and define temporary traffic rules. → traffic-control compact and local/node standing.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지
 - `ACTIVE_TARGETS`:
   - `CLT-GA6-G6-R01` / `G6-R01` / Current Operational Census — `EPISODE_OVERLAP+TITLE_TEXT` score=115
@@ -112,7 +112,7 @@ Publication: NOT AUTHORIZED
 - `SYNERGY_OR_USE`: distributed function manifest and smaller transport packages.
 - `COST_REFUSAL_OR_LOSS`: reduced capacity, data gaps and staff separation.
 - `SET_ADVANCE_CONDITION`: distributed function manifest and smaller transport packages.
-- `NEXT_DESIRE`: distributing command/authentication creates security gap exploited by hostile/rejecter actors.
+- `NEXT_DESIRE`: NEXT APPROVED SUBACT READER DESIRE — select 12–24 heavy combat/support hulls for abandonment, scuttling, thermal support, crew/passenger transfer or rearguard. → freed mass/thermal/traffic and rescue capacity.
 - `OWNERSHIP_GUARD`: 세력·제도는 구성원·대표성·승계와 분리된 독립 의사를 유지
 - `ACTIVE_TARGETS`:
   - `CLT-GA6-G6-R05` / `G6-R05` / Distributed Function Manifest — `EPISODE_OVERLAP+TITLE_TEXT+DOMAIN_MATCH` score=123
