@@ -20,6 +20,8 @@ The Act Map and Context Pack are not documentation-volume goals. They are produc
 
 The Act Map controls the long- and mid-range dramatic progression. The Context Pack activates only the exact source-bound information needed by the current episode and converts that progression into executable scene pressure. Passing this audit therefore means the plausibility/interest bridge is mechanically available for drafting; it does not mean an eventual manuscript is automatically interesting or author-approved. Manuscript QA must still verify the realized prose episode by episode.
 
+Accordingly, a Context Pack that is canonically accurate but does not carry choice pressure, reader desire, cost/reward movement and an exit hook is a production failure, not a successful pack.
+
 ## Verified source coverage
 
 | Gate | Result |
