@@ -5,10 +5,14 @@ Episode: E002
 Owner Agents: A00 PM / A11 Prose / N03 Episode / N05 Mystery-Payoff / C02 Ensemble / C06 Voice / O01 Canon / X04 Continuity / N07 Retention
 Last Reviewed: 2026-08-20
 Source Main: `10794b65cfec40c49f03f10019ab1df74daaf55f`
-Depends On: [[ga1-e002-context-pack-refresh-v1]], [[ga1-episodes-1-5-noncanon-scene-cards-v1]], [[ga1-episodes-1-20-beat-map-v1]], [[m001-m020-early-clue-episode-ledger-v1]], [[final-payoff-scene-ledger-locked-v1]], [[academy-and-07-opening-operational-state-v1]], [[core-canonical-names-and-voice-lock-v1]], [[hero-h001-bible-v1]], [[ga1-e2-v2-revision-review-2026-08-08]], [[002-한-사람의-벌이-서른여섯-명에게-간다-v1]], [[002-한-사람의-벌이-서른여섯-명에게-간다-v2]]
+Depends On: [[ga1-e002-context-pack-refresh-v1]], [[ga1-episodes-1-5-noncanon-scene-cards-v1]], [[ga1-episodes-1-20-beat-map-v1]], [[m001-m020-early-clue-episode-ledger-v1]], [[final-payoff-scene-ledger-locked-v1]], [[academy-and-07-opening-operational-state-v1]], [[core-canonical-names-and-voice-lock-v1]], [[hero-h001-bible-v1]], [[ga1-e2-v2-revision-review-2026-08-08]], `002-한-사람의-벌이-서른여섯-명에게-간다-v1`, `002-한-사람의-벌이-서른여섯-명에게-간다-v2`
 Used By: E002 v3 narrow manuscript revision
 Open Risks: C4 length must be checked only after the content corrections. No padding is permitted if the corrected episode drops below the nominal floor.
 Publication: NOT AUTHORIZED
+
+> [!note] 폐기된 원고를 가리키던 링크
+> 이 문서가 참조하는 원고는 작가 결정 `D-20260822-01`로 폐기됐다 ([[decision-log]]). 파일명은 평문으로 남기고 위키링크는 내렸다 — 없는 파일을 링크하지 않는다 (CLAUDE.md §11-5). 판정과 서술은 그대로 역사로 보존한다. 폐기 직전 상태는 `70a2ebb577c48857af1d524c97b60c41baac89b1`이 보유한다.
+
 
 ---
 
@@ -346,7 +350,7 @@ Header:
 Status: REVISED
 Episode: E2
 Source Cards: [[ga1-episodes-1-5-noncanon-scene-cards-v1]]
-Revision Base: [[002-한-사람의-벌이-서른여섯-명에게-간다-v2]]
+Revision Base: `002-한-사람의-벌이-서른여섯-명에게-간다-v2`
 Canon Check: SELF-PASS
 Publication: NOT AUTHORIZED
 ```

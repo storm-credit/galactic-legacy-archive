@@ -7,9 +7,13 @@ Reviewer Roles: A00 PM / A11 Prose / N03 Episode / N04 Causality / N05 Mystery-P
 Publication: NOT AUTHORIZED
 Source Main: `01cd470a6087ccebf9b2dc1dcb075d78dcbfa454`
 Context Pack: [[ga1-e004-context-pack-refresh-v1]]
-Current Manuscript: [[004-오르페우스의-빈칸-v2]]
+Current Manuscript: `004-오르페우스의-빈칸-v2`
 Legacy Review: [[ga1-e3-e4-v2-revision-review-2026-08-09]]
 Upstream Draft Evidence: PR #203 / E003 v3 — UNMERGED, DRAFT-ONLY; only approved E003 state functions may carry
+
+> [!note] 폐기된 원고를 가리키던 링크
+> 이 문서가 참조하는 원고는 작가 결정 `D-20260822-01`로 폐기됐다 ([[decision-log]]). 파일명은 평문으로 남기고 위키링크는 내렸다 — 없는 파일을 링크하지 않는다 (CLAUDE.md §11-5). 판정과 서술은 그대로 역사로 보존한다. 폐기 직전 상태는 `70a2ebb577c48857af1d524c97b60c41baac89b1`이 보유한다.
+
 
 ---
 

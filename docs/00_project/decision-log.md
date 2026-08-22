@@ -2,10 +2,13 @@
 
 Status: CANON
 Owner Agent: A00 Novel PM Orchestrator
-Last Reviewed: 2026-08-20
+Last Reviewed: 2026-08-22
 Depends On: None
 Used By: All project documents
 Open Risks: Unrecorded conversational decisions
+
+> [!note] 폐기된 원고를 가리키던 링크
+> 이 문서가 참조하는 원고는 작가 결정 `D-20260822-01`로 폐기됐다. 파일명은 평문으로 남기고 위키링크는 내렸다 — 없는 파일을 링크하지 않는다 (CLAUDE.md §11-5). 판정과 서술은 그대로 역사로 보존한다. 폐기 직전 상태는 `70a2ebb577c48857af1d524c97b60c41baac89b1`이 보유한다.
 
 ## Decision Format
 
@@ -39,6 +42,7 @@ Decision Owner:
 Status: ACCEPTED
 Date: 2026-08-03
 Decision Owner: User + A00
+
 
 ### Context
 
@@ -418,7 +422,7 @@ E1 v2 교정 과정에서 한글 수량 표현을 일괄적으로 아라비아 �
 
 ### Affected Documents
 
-- [[001-역사에-없는-생도-v2]]
+- `001-역사에-없는-생도-v2`
 - [[prose-bible]]
 - `docs/99_quality_control/ga1-e1-5-v2-batch-review-v1.md`
 - 이후 승인된 원고 회차
@@ -484,7 +488,7 @@ P-001의 유일한 독자 노출 정본명을 **`리안 칼데르 / Rian Calder`
 - [[canonical-name-errata-005]]
 - [[effective-canon-status-manifest-v1]]
 - [[decision-log]]
-- [[001-역사에-없는-생도-v2]]
+- `001-역사에-없는-생도-v2`
 - 향후 P-001 독자 노출 문서 전부
 
 ### Reversal Condition
@@ -871,7 +875,7 @@ Pre-Writing Gate 개방 당시 첫 권장 집필 배치는 E1~5였다. 이후 �
 
 **변경**: E1 831자 지점 — "그 항로와 시각을 정한 사람이 자신이었기 때문에, 기억은 그쪽부터 정확했다." 한 문장. 기존 문장의 기억 비대칭에 이유를 부여하는 방식이라 반복이 아니며, Anti-Padding(§20) 위반이 아니다.
 
-**파급 범위**: [[001-역사에-없는-생도-v2]] 단일 파일. 정본 사실 변경 없음 — 리안이 항로를 정했다는 것은 [[protagonist-p001-bible-v1]]의 기존 사실이다.
+**파급 범위**: `001-역사에-없는-생도-v2` 단일 파일. 정본 사실 변경 없음 — 리안이 항로를 정했다는 것은 [[protagonist-p001-bible-v1]]의 기존 사실이다.
 
 ## D-20260818-02 — C4 미달 13편의 처분은 B안(승인 비트 복원)으로 한다
 
@@ -990,3 +994,69 @@ PR #193의 impact review는 새 workflow stage나 field list 복제를 만들지
 ### Reversal Condition
 
 작가가 Context Pack 실행 규격을 변경하거나, 실제 원고/Context Pack 생산에서 현 6+HIGH-WATCH schema가 승인 사실을 안전하게 표현하지 못한다는 재현 가능한 실패가 발견될 때 impact review와 dry-run을 다시 수행한 뒤 개정한다.
+
+## D-20260822-01 — E1–E100 초고 전체를 폐기하고 원고를 처음부터 다시 쓴다
+
+### Context
+
+저장소는 E1–E100 원고를 보유하고 있었다 — 121개 파일, 100회차, 약 69만 7천 자. E1–E20은 v2까지 개정됐고 E5는 v3까지 갔으며, E21–E100은 v1 초고 상태였다. E1–E4의 v3 개정본은 PR #199·#201·#203·#205에 draft로 떠 있었고 각각 main보다 13~16커밋 뒤처져 있었다.
+
+같은 기간에 설계층은 계속 깊어졌다 — Context 1100/1100, Writer Activation 1100/1100, Collection thread 415/415, CLSET 160/160, GA10 결말 재조정, Pre-Writing Execution Red-Team v2 S0/S1/S2 = 0/0/0. **원고는 그 설계가 완성되기 전의 상태에서 쓰였다.**
+
+### Options Considered
+
+1. 구버전만 정리하고 회차당 최신본 하나만 남긴다.
+2. 파일을 남기되 `DEPRECATED / NONCANON`으로 표시해 참조를 금지한다.
+3. E21–E100(v1 초고 80회차)만 폐기하고 E1–E20은 유지한다.
+4. **E1–E100 원고 전체를 폐기하고 처음부터 다시 쓴다.**
+
+### Decision
+
+작가가 **4안**을 선택했다 (2026-08-22).
+
+- `manuscript/` 아래 원고 산문 121개 파일을 전부 삭제한다.
+- E1–E4 v3 draft PR 4건(#199·#201·#203·#205)을 병합하지 않고 닫는다.
+- **설계층은 하나도 건드리지 않는다** — 세계관·설정집·액트맵·상세 회차 카드·Context Pack·Writer Activation·Collection Desire·손실/회수 장부는 전부 유지한다.
+- 폐기 직전 상태는 `70a2ebb577c48857af1d524c97b60c41baac89b1`이 보유한다.
+
+### Reasons
+
+- 폐기된 원고는 Context Pack 1100/1100과 Writer Activation 1100/1100이 존재하기 **전에** 쓰였다. 지금 다시 쓰면 회차마다 승인된 실행 규격을 처음부터 손에 쥐고 시작한다.
+- E1–E20에 v1·v2·v3가 섞여 있어 어느 것이 기준인지 회차마다 달랐다. 개정 이력을 이어붙이는 비용이 새로 쓰는 비용에 근접했다.
+- v3 draft 4건이 13~16커밋 뒤처진 채 방치돼 있었다. 되살리려면 최신 정본 기준으로 재작성해야 했고, 그것은 이미 재집필이다.
+- 폐기 대상은 설계가 아니라 설계를 문장으로 옮긴 결과물뿐이다. 다시 쓸 때 참조할 근거는 전부 남는다.
+
+### Consequences
+
+- `manuscript/`는 [[manuscript/README]] 한 개만 남는다. 재집필 규칙과 복원 명령을 그 파일이 보유한다.
+- C3(출판 차단 필드)·C4(분량 하한)·C5(헤더 스키마) 검사 대상이 0건이 된다. 검사 자체는 유지되며 새 원고가 들어오는 즉시 다시 작동한다.
+- [[episode-briefs]]의 회차별 `원고` 줄이 사라진다. 생성물이므로 재생성으로 반영한다.
+- 폐기된 원고를 위키링크로 가리키던 8개 문서의 링크를 평문으로 내린다 (CLAUDE.md §11-5 — 깨진 링크 금지). 문서의 판정과 서술은 역사로 보존한다.
+- 재집필 배치 승인 범위는 **아직 열려 있다.** 승인 없이 원고를 생산하지 않는다.
+- 공개·유료연재·출판 승인과는 무관하다. `Publication: NOT AUTHORIZED`가 유지된다.
+
+### Risks
+
+- 69만 7천 자를 다시 생산해야 한다. 재집필 일정이 이전 진도를 되찾는 데 시간이 든다.
+- 폐기된 원고에만 있던 좋은 문장·장면 해법이 함께 사라진다.
+- 후속 작업자가 git 이력에서 구 원고를 꺼내 문체 기준으로 삼을 수 있다 — 그러면 폐기의 목적이 무너진다.
+- 승인 범위가 열린 상태로 남아, 승인 없이 재집필이 시작될 수 있다.
+
+### Mitigation
+
+- 폐기 직전 SHA를 [[manuscript/README]]와 이 항목에 명시해 필요할 때 특정 회차만 꺼낼 수 있게 한다.
+- [[manuscript/README]] §3-1에 「폐기된 원고를 문체·구성의 기준으로 삼지 않는다」를 명시한다.
+- 재집필은 [[episode-briefs]]와 서브액트 허브([[story-graph-root]])에서 시작해 승인된 설계를 먼저 손에 쥔다.
+- 승인 범위가 정해지면 이 로그에 별도 항목으로 기록하고 [[manuscript/README]] §4를 갱신한다.
+
+### Affected Documents
+
+- [[manuscript/README]] — 신규
+- [[episode-briefs]] — 재생성
+- [[ga1-e1-5-first-draft-status-2026-08-03]], [[ga1-e1-v2-review-2026-08-08]], [[ga1-e001-context-pack-manuscript-diagnosis-2026-08-20]], [[ga1-e002-context-pack-manuscript-diagnosis-2026-08-20]], [[ga1-e003-context-pack-manuscript-diagnosis-2026-08-20]], [[ga1-e004-context-pack-manuscript-diagnosis-2026-08-20]], [[ga1-e005-context-pack-manuscript-diagnosis-2026-08-20]] — 원고 위키링크를 평문으로 내림
+- [[decision-log]]
+- PR #199·#201·#203·#205 — 병합하지 않고 닫음
+
+### Reversal Condition
+
+작가가 폐기를 철회하면 `70a2ebb577c48857af1d524c97b60c41baac89b1`에서 `manuscript/` 트리를 복원하고, 이 항목을 철회 결정으로 갱신한다. 부분 복원(특정 회차만)도 같은 SHA에서 가능하다.
