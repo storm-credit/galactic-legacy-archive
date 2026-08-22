@@ -165,7 +165,7 @@
 | [[specialist-routing-index|specialist-routing-index]] | Specialist Routing Index | CANON |
 | [[workflow|workflow]] | End-to-End Workflow & Harness | CANON |
 
-## 99_quality_control (152)
+## 99_quality_control (153)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
@@ -204,6 +204,7 @@
 | [[ga1-e001-context-pack-manuscript-diagnosis-2026-08-20|ga1-e001-context-pack-manuscript-diagnosis-2026-08-20]] | GA1 E001 Context Pack Manuscript Diagnosis | QUALITY CONTROL |
 | [[ga1-e001-e010-context-pack-deep-blindspot-audit-2026-08-20|ga1-e001-e010-context-pack-deep-blindspot-audit-2026-08-20]] | GA1 E001–E010 Deep Context Pack Blindspot Audit | QUALITY-CONTROL |
 | [[ga1-e001-e020-narration-audit-v1|ga1-e001-e020-narration-audit-v1]] | GA1 E001~E020 낭독 감사 v1 | — |
+| [[ga1-e001-e020-rewrite-audit-2026-08-22|ga1-e001-e020-rewrite-audit-2026-08-22]] | GA1 E001–E020 Rewrite Audit | CANONICAL QC RECORD |
 | [[ga1-e002-context-pack-manuscript-diagnosis-2026-08-20|ga1-e002-context-pack-manuscript-diagnosis-2026-08-20]] | GA1 E002 Context Pack Manuscript Diagnosis | QUALITY-CONTROL |
 | [[ga1-e003-context-pack-manuscript-diagnosis-2026-08-20|ga1-e003-context-pack-manuscript-diagnosis-2026-08-20]] | GA1 E003 Context Pack Manuscript Diagnosis | REVIEW COMPLETE |
 | [[ga1-e004-context-pack-manuscript-diagnosis-2026-08-20|ga1-e004-context-pack-manuscript-diagnosis-2026-08-20]] | GA1 E004 Context Pack Manuscript Diagnosis | REVIEW COMPLETE |

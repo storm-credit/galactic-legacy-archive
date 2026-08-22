@@ -7,7 +7,7 @@
 게이트 §12는 미결정과 가정이 숨겨져 있지 않을 것을 요구한다. 숨겨져 있지는 않았고,
 한자리에 모여 있지 않았을 뿐이다. 이 목록이 그 자리다.
 
-`Open Risks`를 가진 문서 **406개** · `[ASSUMPTION]` 표기를 가진 문서 **16개**
+`Open Risks`를 가진 문서 **407개** · `[ASSUMPTION]` 표기를 가진 문서 **16개**
 
 ## 명시적 가정 `[ASSUMPTION]`
 
@@ -477,7 +477,7 @@
 | [[revision-harness]] | Overediting, voice flattening, late structural changes |
 | [[storycraft-bible]] | Formulaic scenes, over-engineering, emotional flattening |
 
-### 99_quality_control — 74건
+### 99_quality_control — 75건
 
 | 문서 | 열린 위험 |
 |---|---|
@@ -508,6 +508,7 @@
 | [[full-series-context-pack-semantic-blindspot-audit-2026-08-20]] | prose execution can still fail even when Context is sound; this audit authorizes no manuscript merge, AUTHOR-APPROVED state or publication. |
 | [[ga1-e001-context-pack-manuscript-diagnosis-2026-08-20]] | exact regression instant relative to the E001 cold open is not independently locked strongly enough to support an added `처음 며칠` duration in prose. |
 | [[ga1-e001-e010-context-pack-deep-blindspot-audit-2026-08-20]] | E011+ scene-card clue tags contain additional timing conflicts with the locked fairness ledger and require the same treatment before any later manuscript batch is authorized. |
+| [[ga1-e001-e020-rewrite-audit-2026-08-22]] | E001–E005 sit at 97–100% of the C4 floor and are referred to the author as a structural length question; three clue-ledger episode assignments disagree with the beat map and are referred to canon review |
 | [[ga1-e002-context-pack-manuscript-diagnosis-2026-08-20]] | C4 length must be checked only after the content corrections. No padding is permitted if the corrected episode drops below the nominal floor. |
 | [[ga1-e1-5-first-draft-continuity-voice-audit-v1]] | real human/mobile response and publication-length compression |
 | [[ga1-e1-5-first-draft-redteam]] | actual human/mobile response unavailable |

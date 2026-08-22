@@ -32,6 +32,9 @@ import re
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import validate_canon  # noqa: E402  -- C4 is measured by its owner
+
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
 OUT = DOCS / "_index" / "episode-briefs.md"
@@ -120,19 +123,22 @@ def scene_cards() -> list[tuple[int, int, str]]:
 
 
 def manuscripts() -> dict[int, tuple[int, str, int]]:
-    """episode -> (version, stem, prose length)."""
+    """episode -> (version, stem, prose length).
+
+    Length is measured exactly the way C4 measures it, by calling C4's owner.
+    This brief is what a writer opens before an episode; when it counted line
+    breaks and the validator did not, the two disagreed by about one character
+    per paragraph, and the brief could report a floor as met that C4 then
+    flagged as short. Two tools, one declared floor, opposite verdicts.
+    """
     out: dict[int, tuple[int, str, int]] = {}
     for p in sorted((ROOT / "manuscript").rglob("*.md")):
         m = re.match(r"^(\d{3})-(.*)-v(\d)$", p.stem)
         if not m:
             continue
         num, ver = int(m.group(1)), int(m.group(3))
-        lines = p.read_text(encoding="utf-8").split("\n")
-        start = 0
-        for i, line in enumerate(lines[:25]):
-            if re.match(r"^[A-Za-z][A-Za-z ]*:", line):
-                start = i + 1
-        length = len("\n".join(lines[start:]))
+        body = validate_canon.episode_body(p.read_text(encoding="utf-8"))
+        length = len(body.replace("\n", "").strip())
         if num not in out or ver > out[num][0]:
             out[num] = (ver, p.stem, length)
     return out
