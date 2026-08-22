@@ -6,9 +6,12 @@ Canon Check: PASS WITH LOCAL PROSE FIXES
 Publication: NOT AUTHORIZED
 Owner Agents: A00 PM / A11 Prose / N03 Episode / N05 Mystery-Payoff / X04 Continuity / O01 Canon / A16 Red Team
 Last Reviewed: 2026-08-20
-Depends On: [[ga1-e001-e010-context-pack-production-v1]], [[001-역사에-없는-생도-v1]], [[001-역사에-없는-생도-v2]], [[ga1-episodes-1-5-noncanon-scene-cards-v1]], [[first-100-act-map-v2-consolidated]], [[academy-and-07-opening-operational-state-v1]], [[m001-m020-early-clue-episode-ledger-v1]], [[first-100-collectible-registry-v1]], [[master-series-chronology-v1]], [[original-timeline-v1]]
+Depends On: [[ga1-e001-e010-context-pack-production-v1]], `001-역사에-없는-생도-v1`, `001-역사에-없는-생도-v2`, [[ga1-episodes-1-5-noncanon-scene-cards-v1]], [[first-100-act-map-v2-consolidated]], [[academy-and-07-opening-operational-state-v1]], [[m001-m020-early-clue-episode-ledger-v1]], [[first-100-collectible-registry-v1]], [[master-series-chronology-v1]], [[original-timeline-v1]]
 Used By: E001 next manuscript revision decision
 Open Risks: exact regression instant relative to the E001 cold open is not independently locked strongly enough to support an added `처음 며칠` duration in prose.
+
+> [!note] 폐기된 원고를 가리키던 링크
+> 이 문서가 참조하는 원고는 작가 결정 `D-20260822-01`로 폐기됐다 ([[decision-log]]). 파일명은 평문으로 남기고 위키링크는 내렸다 — 없는 파일을 링크하지 않는다 (CLAUDE.md §11-5). 판정과 서술은 그대로 역사로 보존한다. 폐기 직전 상태는 `70a2ebb577c48857af1d524c97b60c41baac89b1`이 보유한다.
 
 ---
 
@@ -17,6 +20,7 @@ Open Risks: exact regression instant relative to the E001 cold open is not indep
 This review follows the production handoff from [[ga1-e001-e010-context-pack-production-v1]].
 
 Order:
+
 
 1. diagnose legacy E001 v1 as a revision-base/history artifact;
 2. audit current-main E001 v2 as the actual current implementation;

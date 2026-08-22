@@ -7,6 +7,10 @@ Depends On: E1–5 manuscript files, continuity/voice audit and red-team
 Used By: manuscript-development progression and E6–20 authorization decision
 Open Risks: publication compression and real human/mobile validation
 
+> [!note] 폐기된 원고를 가리키던 링크
+> 이 문서가 참조하는 원고는 작가 결정 `D-20260822-01`로 폐기됐다 ([[decision-log]]). 파일명은 평문으로 남기고 위키링크는 내렸다 — 없는 파일을 링크하지 않는다 (CLAUDE.md §11-5). 판정과 서술은 그대로 역사로 보존한다. 폐기 직전 상태는 `70a2ebb577c48857af1d524c97b60c41baac89b1`이 보유한다.
+
+
 ## Verdict
 
 > **CONDITIONAL PASS — EPISODES 1–5 COMPLETE AS CANONICAL MANUSCRIPT DEVELOPMENT FIRST DRAFTS**
@@ -15,11 +19,11 @@ Open Risks: publication compression and real human/mobile validation
 
 ## Completed Manuscripts
 
-1. [[001-역사에-없는-생도-v1]]
-2. [[002-한-사람의-벌이-서른여섯-명에게-간다-v1]]
-3. [[003-조종사는-기체를-고칠-수-없다-v1]]
-4. [[004-오르페우스의-빈칸-v1]]
-5. [[005-다섯-번째-답의-시작-v1]]
+1. `001-역사에-없는-생도-v1`
+2. `002-한-사람의-벌이-서른여섯-명에게-간다-v1`
+3. `003-조종사는-기체를-고칠-수-없다-v1`
+4. `004-오르페우스의-빈칸-v1`
+5. `005-다섯-번째-답의-시작-v1`
 
 ## Locked Development Outcomes
 
