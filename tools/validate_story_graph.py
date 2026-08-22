@@ -434,6 +434,8 @@ def run() -> int:
                 else:
                     required += [("G7", S.MANUAL_CONTEXT_STEM),
                                  ("G7", S.MANUAL_ACTIVATION_STEM)]
+                if s.deep_context:
+                    required.append(("G7", s.deep_context))
                 errors += check_required(s.stem, sub_links, required)
                 errors += check_parent_child(s.stem, a.stem, act_links)
 
@@ -514,8 +516,12 @@ def run() -> int:
     print("- chronological subact chain: %d/%d unbroken" % (len(chain), len(chain)))
     print("- Context Pack links: %d generated + %d manual (E001-E010) = %d/%d"
           % (generated_ctx, manual_ctx, generated_ctx + manual_ctx, len(chain)))
+    deep = sum(1 for g in series for a in g.acts for sub in a.subacts
+               if sub.deep_context and sub.deep_context in doc_links.get(sub.stem, set()))
+    deep_expected = sum(1 for g in series for a in g.acts for sub in a.subacts if sub.deep_context)
     print("- Writer Activation links: %d/%d · CLSET links: %d/%d · state spine links: %d/%d"
           % (activation, len(chain), clset, len(chain), spine, len(chain)))
+    print("- deep Context overrides linked: %d/%d" % (deep, deep_expected))
     print("- heading anchors resolved: %d/%d" % (anchored, anchored))
     print("- GA10 %s subacts citing the ending amendment: %d/%d"
           % (final_act.act_id, ending, len(final_act.subacts)))

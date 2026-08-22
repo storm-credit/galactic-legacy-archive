@@ -7,7 +7,7 @@
 게이트 §12는 미결정과 가정이 숨겨져 있지 않을 것을 요구한다. 숨겨져 있지는 않았고,
 한자리에 모여 있지 않았을 뿐이다. 이 목록이 그 자리다.
 
-`Open Risks`를 가진 문서 **405개** · `[ASSUMPTION]` 표기를 가진 문서 **16개**
+`Open Risks`를 가진 문서 **406개** · `[ASSUMPTION]` 표기를 가진 문서 **16개**
 
 ## 명시적 가정 `[ASSUMPTION]`
 
@@ -42,7 +42,7 @@
 
 ## 분야별 열린 위험
 
-### 00_project — 42건
+### 00_project — 43건
 
 | 문서 | 열린 위험 |
 |---|---|
@@ -71,6 +71,7 @@
 | [[ga1-e004-context-pack-refresh-v1]] | E003 v3 remains unmerged and non-author-approved. Current E004 v2 was expanded before the rolling Context Pack/fairness-ledger precedence pass and contains an early M-002 count clue plus several manuscript-origin exact values. |
 | [[ga1-e005-context-pack-refresh-v1]] | E004 v3 remains unmerged/non-author-approved. E005 current v2 contains movement geometry exceeding or obscuring the S07-E5 movement envelope, several manuscript-origin exact costs/timers, and references to E004 hero-count/Orpheus explanations that the rolling revision has now removed. |
 | [[ga1-e006-e010-context-pack-deep-v1]] | E006–E010 manuscript production is NOT currently authorized by the first-writing-batch gate. Exact board/hearing wording, minor procedural roles and prose-level geometry remain unresolved unless already locked by higher sources. |
+| [[ga1-e011-e020-context-pack-deep-v1]] | E011-E020 manuscript production is NOT currently authorized by the first-writing-batch gate. Source discrepancies in §14 are referred upward and not resolved here. Exact White Dock geometry, exact opposition craft operation, exact sponsor representative, exact private information-offer owner and prose-level procedural wording remain unresolved unless already locked by higher sources. |
 | [[ga1-e1-5-first-draft-status-2026-08-03]] | publication compression and real human/mobile validation |
 | [[ga1-e21-45-continuity-change-record]] | human/mobile pacing may later compress individual episodes without changing state order |
 | [[ga1-e6-20-first-draft-authorization-2026-08-03]] | publication-length compression and real human/mobile validation |

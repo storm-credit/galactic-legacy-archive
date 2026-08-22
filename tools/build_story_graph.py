@@ -397,6 +397,9 @@ def build_subact_hub(g, a, s, chain: list, produced: dict) -> None:
                   % link(S.MANUAL_CONTEXT_STEM),
                   "- Writer Activation: %s (E001–E010 Depth-A override)"
                   % link(S.MANUAL_ACTIVATION_STEM)]
+    if s.deep_context:
+        lines.append("- **심화 Context (우선)**: %s — 이 구간은 생성 팩보다 이 팩이 실행 정본이다"
+                     % link(s.deep_context))
     lines += ["- 회차 작업지시서: %s" % link("episode-briefs"),
               "- Context 규격: %s" % link("context-pack-tangible-reader-memory-execution-spec-proposal-v1"),
               "- 원고 워크플로: %s" % link("manuscript-production-workflow-v1")]
