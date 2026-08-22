@@ -42,6 +42,16 @@ git checkout 70a2ebb577c48857af1d524c97b60c41baac89b1 -- manuscript/
 
 ## 4. 집필 승인 범위
 
-재집필 배치 승인은 아직 정해지지 않았다. 작가가 범위를 정하면 [[decision-log]]에 기록하고 이 절을 갱신한다.
+**E001–E020** — 작가 결정 `D-20260822-02` (2026-08-22, [[decision-log]]).
 
-승인 없이 원고를 생산하지 않는다 — [[effective-canon-status-manifest-v1]] §5의 `BL` 조항이다.
+- 회차 제목은 [[ga1-episodes-1-20-beat-map-v1]]의 승인 표제를 쓴다. 새 제목을 만들지 않는다.
+- E021 이상은 승인되지 않았다. 승인 없이 생산하지 않는다 — [[effective-canon-status-manifest-v1]] §5의 `BL` 조항이다.
+- **집필 승인은 출판 승인이 아니다.** `Publication: NOT AUTHORIZED`가 유지되고 `AUTHOR-APPROVED`는 부여되지 않았다. 회차별 작가 승인은 별도 절차다.
+- issue #26 사람·모바일 검증은 출판 전 하드 블로커로 남는다.
+
+구간별 Context 소스:
+
+| 구간 | 유효 Context |
+|---|---|
+| E001–E010 | [[ga1-e001-e010-context-pack-status-index-v1]]가 회차별 유효 소스를 지정한다 |
+| E011–E020 | [[ga1-e011-e020-context-pack-deep-v1]] — 생성 팩보다 우선한다 |
