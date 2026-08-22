@@ -116,7 +116,7 @@ class Doc:
 
 
 def collect():
-    skip = {"_index", "_catalog"}
+    skip = {"_index", "_catalog", "_graph"}
     docs = []
     for p in sorted(DOCS.rglob("*.md")):
         parts = p.relative_to(DOCS).parts
@@ -242,6 +242,10 @@ def build_home(docs):
         "전생의 패전 제독이 교도군사학교 생도로 회귀하는 한국형 장편 스페이스 오페라의 "
         "설계 저장소입니다. 이 노트는 입구일 뿐이고, 설정과 플롯은 링크가 가리키는 "
         "문서가 보유합니다.", "",
+        "## 서사 그래프", "",
+        "대액트 → 액트 → 서브액트 → Context / Writer Activation / CLSET → 현재 상태를 "
+        "클릭으로 따라가려면 [[story-graph-root]]에서 시작합니다. 볼트는 `docs/`가 아니라 "
+        "**저장소 루트**에서 열어야 전체 경로 위키링크가 해석됩니다.", "",
         "## 분야별 입구", "",
         table(rows, ["분야", "문서", "나가는 링크 없음"], ["---", "---:", "---:"]), "",
         "## 연결 상태", "",

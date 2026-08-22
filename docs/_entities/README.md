@@ -2,9 +2,9 @@
 
 Status: CANON FOR NAVIGATION / NOT A SETTINGS SOURCE
 Owner Agents: A00 PM / O01 Canon / X04 Continuity
-Last Reviewed: 2026-08-08
-Depends On: [[core-canonical-names-and-voice-lock-v1]], [[reader-facing-terminology-phonetics-and-register-bible-v1]]
-Used By: 옵시디언 그래프뷰·백링크 탐색, 장면 카드, 원고 헤더
+Last Reviewed: 2026-08-22
+Depends On: [[core-canonical-names-and-voice-lock-v1]], [[reader-facing-terminology-phonetics-and-register-bible-v1]], [[story-graph-root]]
+Used By: 옵시디언 그래프뷰·백링크 탐색, 장면 카드, 원고 헤더, GA Current-State Spine
 Open Risks: 허브가 편해서 설정이 여기로 새는 것 (C6 검사로 방지)
 
 ## 1. 왜 필요한가
@@ -57,3 +57,21 @@ docs/_entities/
 ## 5. 채택 근거
 
 시안 비교와 맹점 훑기는 [[entity-layer-design-options-and-blindspot-sweep-2026-08-08]]에 있다. 요약하면 **시안 A(링크 허브)를 기반으로, 시안 B의 속성은 정본에 없는 메타데이터로만 제한하고, 시안 D의 액트별 추적은 별도 노트가 아니라 허브 안의 절로 흡수**했다. 시안 C(태그 색인)는 기각했다 — 태그는 노트가 아니라 그래프에 연결선을 만들지 못한다.
+
+## 6. Story Graph 연결 규칙
+
+2026-08-22부터 [[story-graph-root]]가 서사 계층과 현재 상태를 연결한다.
+
+경로:
+
+`Grand Act Hub → Act Hub → Subact Hub → GA Current-State Spine → Domain-State Hub → Entity/Registry/Bible`.
+
+엔티티 노트는 이 경로의 **마지막 front-stage 탐색 허브**이지 모든 개체를 의무적으로 노트화하는 계층이 아니다.
+
+- 인물 현재 상태는 [[graph-state-characters]]에서 시작한다.
+- 기체 현재 상태는 [[graph-state-frames]]에서 시작한다.
+- 함선·무장·유물·기술·세력·장소는 exact entity note가 아직 없으므로 각 Domain-State Hub가 index/registry/bible로 끝점을 제공한다.
+- Subact Hub가 특정 인물을 직접 언급하지 않아도, GA Current-State Spine을 통해 해당 구간의 정본 상태 소스로 이동할 수 있다.
+- front-stage 승격으로 별도 엔티티 노트가 실제로 유용해질 때만 생성한다.
+
+따라서 Story Graph 도입은 `197명 전원`, `612성계 전부`, 모든 기체·함선·유물에 빈 노트를 만드는 근거가 아니다. 그래프 밀도보다 신호 품질이 우선이다 (§14-6).
