@@ -7,7 +7,7 @@
 게이트 §12는 미결정과 가정이 숨겨져 있지 않을 것을 요구한다. 숨겨져 있지는 않았고,
 한자리에 모여 있지 않았을 뿐이다. 이 목록이 그 자리다.
 
-`Open Risks`를 가진 문서 **403개** · `[ASSUMPTION]` 표기를 가진 문서 **16개**
+`Open Risks`를 가진 문서 **405개** · `[ASSUMPTION]` 표기를 가진 문서 **16개**
 
 ## 명시적 가정 `[ASSUMPTION]`
 
@@ -476,7 +476,7 @@
 | [[revision-harness]] | Overediting, voice flattening, late structural changes |
 | [[storycraft-bible]] | Formulaic scenes, over-engineering, emotional flattening |
 
-### 99_quality_control — 73건
+### 99_quality_control — 74건
 
 | 문서 | 열린 위험 |
 |---|---|
@@ -535,6 +535,7 @@
 | [[gates1-3-redteam-review]] | Some fixes require Gate 4–6 detail rather than concept revision |
 | [[gates4-5-opening-completion-redteam]] | final names/cultures and external force/economy scale remain |
 | [[gates4-5-redteam-review]] | Detailed numbers and maps remain absent |
+| [[obsidian-story-graph-deep-wiring-audit-2026-08-22]] | heading-anchored links depend on Context/Activation/CLSET heading text; G8 is the regression gate that keeps them honest |
 | [[opening20-scene-card-redteam]] | prose/mobile response remains external |
 | [[orchestra-domain-coverage-matrix-v1]] | local exact-scene expertise remains deferred with the scene-production phase |
 | [[orchestra-verification-audit-v1]] | independent specialist sessions and human professional validation remain absent unless later recorded |
@@ -559,4 +560,10 @@
 | 문서 | 열린 위험 |
 |---|---|
 | [[docs/_entities/README]] | 허브가 편해서 설정이 여기로 새는 것 (C6 검사로 방지) |
+
+### _graph — 1건
+
+| 문서 | 열린 위험 |
+|---|---|
+| [[docs/_graph/README]] | navigation hubs accidentally becoming a duplicate canon source; graph clutter from creating empty entity notes |
 

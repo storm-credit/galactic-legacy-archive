@@ -1,0 +1,60 @@
+name: Validate story graph
+
+# Permanent read-only regression gate for the Obsidian navigation layer.
+#
+# The failure modes this catches are reproducible, not one-off: a re-cut act
+# map, a renamed Context Pack heading, a resurrected GA10 ending endpoint, or a
+# hand-edited hub all leave the 233 generated nodes silently stale. There is no
+# branch-only sync job here by design — see PR #214's workflow disposition.
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'docs/_graph/**'
+      - 'docs/_entities/**'
+      - 'docs/10_story_architecture/**'
+      - 'docs/09_collection/generated/**'
+      - 'docs/13_writing_harness/context_packs/**'
+      - 'manuscript/**'
+      - 'tools/build_story_graph.py'
+      - 'tools/story_graph_sources.py'
+      - 'tools/validate_story_graph.py'
+      - '.github/workflows/validate-story-graph.yml'
+  pull_request:
+    paths:
+      - 'docs/_graph/**'
+      - 'docs/_entities/**'
+      - 'docs/10_story_architecture/**'
+      - 'docs/09_collection/generated/**'
+      - 'docs/13_writing_harness/context_packs/**'
+      - 'manuscript/**'
+      - 'tools/build_story_graph.py'
+      - 'tools/story_graph_sources.py'
+      - 'tools/validate_story_graph.py'
+      - '.github/workflows/validate-story-graph.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-story-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the pull-request head
+        uses: actions/checkout@v4
+        with:
+          # Validate what the branch actually contains, not the merge preview.
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Verify the graph checks themselves still fire
+        run: python tools/validate_story_graph.py --selftest
+      - name: Check the generated story graph is current
+        run: python tools/build_story_graph.py --check
+      - name: Validate the Obsidian story graph
+        run: python tools/validate_story_graph.py

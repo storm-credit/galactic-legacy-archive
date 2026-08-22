@@ -164,7 +164,7 @@
 | [[specialist-routing-index|specialist-routing-index]] | Specialist Routing Index | CANON |
 | [[workflow|workflow]] | End-to-End Workflow & Harness | CANON |
 
-## 99_quality_control (151)
+## 99_quality_control (152)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
@@ -293,6 +293,7 @@
 | [[macro-economy-and-trade-redteam|macro-economy-and-trade-redteam]] | Macro Economy & Trade Red-Team | REVIEW COMPLETE |
 | [[military-doctrine-and-holdings-redteam|military-doctrine-and-holdings-redteam]] | Military Doctrine & Holdings Red-Team | REVIEW COMPLETE |
 | [[named-succession-and-supporting-cast-redteam|named-succession-and-supporting-cast-redteam]] | Named Succession & Supporting Cast Red-Team | REVIEW COMPLETE |
+| [[obsidian-story-graph-deep-wiring-audit-2026-08-22|obsidian-story-graph-deep-wiring-audit-2026-08-22]] | Obsidian Story Graph Deep Wiring Audit | CANONICAL QC RECORD |
 | [[opening20-scene-card-redteam|opening20-scene-card-redteam]] | Opening-20 Scene-Card & 07-State Red-Team Review | REVIEW COMPLETE |
 | [[orchestra-domain-coverage-matrix-v1|orchestra-domain-coverage-matrix-v1]] | Orchestra Domain Coverage Matrix v1 | REVIEW COMPLETE |
 | [[orchestra-verification-audit-v1|orchestra-verification-audit-v1]] | Orchestra Verification Audit v1 | REVIEW COMPLETE |

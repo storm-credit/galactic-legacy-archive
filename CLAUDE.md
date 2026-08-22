@@ -440,3 +440,42 @@ python tools/promotion_review.py --check  # 낡았으면 실패 (CI가 실행)
 **도메인 정본은 항상 이 저장소가 갖는다.** OS는 "어떻게 일할지"만 규정하며 Canon·Spec·Freeze·원고를 덮어쓰지 않는다. 충돌 시 순서는 ① 작가의 현재 지시 ② 이 저장소의 정본 ③ OS 원칙이다.
 
 **중복 생성 금지**: 의도 확인·맹점 훑기·함정 체크·4안 비교·본보기 조사·독립 Critic·하네스·이탈 기록·상태 갱신은 §2·§3·§6·§9·§13·§15·§21에 이미 있다. OS 적용을 이유로 같은 규칙을 다시 만들지 않는다.
+
+## 27. 서사 그래프 (2026-08-22 추가)
+
+§17이 "어떤 **문서**가 있는가", §18이 "어떤 **항목**이 있는가", §22가 "이 **회차**를 쓰려면 무엇을 봐야 하는가"에 답했다. 남은 질문은 **"이 서브액트에서 저 실행층으로 어떻게 가는가"**였다.
+
+설계는 전부 있었다 — GA 10, Act 40, Subact 160, E001–E1100 상세설계, Context 1100/1100, Writer Activation 1100/1100, CLSET 160/160. **없던 것은 그 사이의 클릭 가능한 간선이다.** GA5 C2를 쓰려면 문서 여섯 개를 열어야 했고, 그중 어느 것도 나머지 다섯을 가리키지 않았다.
+
+```bash
+python tools/build_story_graph.py          # 그래프 생성
+python tools/build_story_graph.py --check  # 낡았으면 실패 (CI가 실행)
+python tools/validate_story_graph.py --selftest
+python tools/validate_story_graph.py
+```
+
+- 생성물은 [[story-graph-root]]와 `docs/_graph/` 233개 노드다. **직접 편집하지 않는다** — 다음 실행이 덮어쓴다.
+- 그래프는 **정본을 보유하지 않는다.** 회차 범위·서브액트 제목·CLSET ID조차 매 실행마다 액트맵과 CLSET 맵에서 다시 읽는다 (§3 복제 금지).
+- 액트맵·Context·Writer Activation·CLSET을 바꾸면 같은 PR에서 재생성한다. CI의 `--check`가 강제한다.
+- 규약과 노드 규칙은 [[docs/_graph/README]], 감사 기록은 [[obsidian-story-graph-deep-wiring-audit-2026-08-22]]가 보유한다.
+
+### 옵시디언 볼트
+
+**볼트 root는 저장소 루트다** (`docs/`가 아니다). `[[CLAUDE]]`, `[[docs/_entities/README]]`, `[[docs/_graph/README]]` 형태의 전체 경로 링크가 `docs/`를 볼트로 열면 깨진다. 시작 문서는 [[story-graph-root]]이며, 필수 커뮤니티 플러그인은 없다.
+
+### 검증
+
+`tools/validate_story_graph.py`가 G1–G11을 강제한다 — 노드 수, 부모/자식 상호참조, previous/next 체인, 고아 노드, 위키링크 해석, 대액트 소스 결속, 실행층 링크(Context/Activation/CLSET/State Spine), **표제 앵커 해석**, **GA10 결말 권위 이탈**, branch-only workflow 잔류, **원고 링크 오염**.
+
+- **표제 앵커(G8)**: 서브액트 허브는 Context/Activation/CLSET의 *해당 표제*로 앵커한다. 표제가 바뀌면 앵커가 조용히 죽으므로 G8이 CI 실패로 만든다. 고치는 방법은 표제를 되돌리는 것이 아니라 **재생성**이다.
+- **결말 권위(G9)**: GA10 D 4개 허브는 [[ga10-ending-reconciliation-canon-amendment-2026-08-20]]를 인용해야 하고, 구 배치(`E1099`, `CY748-01`)를 이력 표시 없이 주장할 수 없다. §12 개명 미전파와 같은 실패 유형의 결말판이다.
+- **원고 오염(G11)**: §14-5를 기계로 옮긴 것이다. 그래프는 `manuscript/` 파일을 링크하지 않는다.
+- 새 검사에는 `--selftest` 픽스처를 함께 넣는다 (§13 재확인). 현재 31 케이스.
+
+### 엔티티 노트
+
+그래프 도입은 197명·612성계·전 기체에 빈 노트를 만드는 근거가 **아니다** (§14-6). exact entity note가 없으면 Domain-State Hub가 index/registry/bible로 끝점을 제공한다. 그래프 밀도보다 신호 품질이 우선이다.
+
+### 고아 지표
+
+`docs/_graph`는 §17과 같은 이유로 [[HOME]]의 연결 상태표 계산에서 제외된다 (`build_index.py`의 `skip`). 그래프는 거의 모든 설계 문서를 가리키므로 포함하면 고아 수가 항상 0에 가깝게 나온다.
