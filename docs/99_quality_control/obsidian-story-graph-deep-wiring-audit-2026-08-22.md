@@ -132,7 +132,7 @@ python tools/build_story_graph.py --check  # 낡았으면 실패 (CI가 실행)
 ## 6. 기계 검증
 
 ```bash
-python tools/validate_story_graph.py --selftest   # 33 cases
+python tools/validate_story_graph.py --selftest   # 39 cases
 python tools/validate_story_graph.py
 python tools/build_story_graph.py --check
 ```
@@ -141,7 +141,7 @@ python tools/build_story_graph.py --check
 |---|---|---|
 | G1 | 노드 인벤토리 | 233노드 shape 붕괴, domain hub 소실, authority guard 문장 소실 |
 | G2 | 부모/자식 상호참조 | 자식이 주장한 부모가 자식을 되받지 않음 (백링크 단절) |
-| G3 | 시간축 체인 | previous/next 끊김, 마지막 서브액트가 Root로 복귀하지 않음 |
+| G3 | 시간축 체인 | 허브가 **선언한** previous/next 필드가 기대 이웃과 다름, 마지막 서브액트가 Root로 복귀하지 않음 |
 | G4 | 고아 노드 | 어떤 그래프 노드도 가리키지 않는 Act/Subact |
 | G5 | 위키링크 해석 | 깨진 링크, 모호한 동명 링크, 깨진 전체경로 링크 |
 | G6 | 대액트 소스 결속 | 노드가 다른 GA의 액트맵·등록부를 인용 |
@@ -153,7 +153,7 @@ python tools/build_story_graph.py --check
 
 **G8과 G9는 이 저장소가 실제로 겪은 실패 유형을 옮긴 것이다.** G8은 §22가 기록한 "구조는 있었는데 쓰는 순간 손에 쥐여지지 않았다"의 링크판이고, G9는 §12가 기록한 개명 미전파(PR #99가 errata만 갱신해 정본 잠금이 구명을 유지)의 결말판이다.
 
-`--selftest` 33케이스가 **각 검사가 실제로 발화하는지** 증명한다. 발화를 증명하지 못하는 검사는 없는 것과 같다 (§13).
+`--selftest` 39케이스가 **각 검사가 실제로 발화하는지** 증명한다. 발화를 증명하지 못하는 검사는 없는 것과 같다 (§13).
 
 초안의 G9는 이 기준을 통과하지 못했다 — §10.2 참조.
 
@@ -161,7 +161,7 @@ python tools/build_story_graph.py --check
 
 | 명령 | 결과 |
 |---|---|
-| `validate_story_graph.py --selftest` | PASS — 33 cases |
+| `validate_story_graph.py --selftest` | PASS — 39 cases |
 | `validate_story_graph.py` | PASS |
 | `build_story_graph.py --check` | current (233 nodes) |
 | `validate_canon.py --selftest` | PASS — 39 cases |
@@ -255,7 +255,14 @@ python tools/build_story_graph.py --check
 
 ## 10. 독립 감사와 수정 (2026-08-22)
 
-§6 하네스 3단계(맹점·반론 레드팀)와 §15-3 독립 감사를 별도 검토자로 실행했다. 검토자는 이 문서와 생성기의 근거를 **전달받지 않고** 저장소를 직접 읽어 반증을 시도했다. 결함 4건과 비차단 위험 5건을 보고했고, **전부 수정했다.**
+§6 하네스 3단계(맹점·반론 레드팀)와 §15-3 독립 감사를 **두 번** 실행했다. 두 검토자 모두 이 문서와 생성기의 근거를 **전달받지 않고** 저장소를 직접 읽어 반증을 시도했다.
+
+| 패스 | 검토자 | 결과 |
+|---|---|---|
+| 1차 (병합 전) | Claude 독립 Critic | 결함 4건 + 비차단 위험 5건 — 전부 수정 후 병합 |
+| 2차 (병합 후) | Codex 0.148.0 `exec --sandbox read-only` | 14항목 중 11 CONFIRMED-OK, 1 UNVERIFIED(샌드박스 쓰기 차단), **결함 1건**, 오탐 1건 |
+
+**Codex 실행 함정**: `PATH`가 잡는 `codex`(데스크톱 앱 런처)는 모델은 응답하지만 **셸을 하나도 띄우지 못한다** — 파일 읽기·grep·git·python이 전부 실패해 전 항목이 UNVERIFIED로 돌아온다. 1차 시도가 그렇게 무의미하게 끝났다. `~/.codex/packages/standalone/releases/<ver>-x86_64-pc-windows-msvc/bin/codex.exe`를 **전체 경로로** 부르면 정상 동작한다. 프롬프트는 `exec - < prompt.txt`로 stdin에 넣는다.
 
 ### 10.1 D1 — 생성기에 하드코딩된 story fact
 
@@ -289,7 +296,28 @@ PASS 요약의 `Context Pack links: 160/160`, `GA10 D ending authority: 4/4` 등
 
 **수정**: §8을 사실대로 고쳤다.
 
-### 10.5 비차단 위험 수정
+### 10.5 D5 — G3가 선언된 이웃이 아니라 링크 집합만 봤다 (2차 감사)
+
+Codex가 잡았다. G3은 「다음 서브액트가 이 노드의 **링크 어딘가에** 있는가」를 물었지, 「`- Next Subact:` 필드가 **그 값인가**」를 묻지 않았다. 두 질문은 다르다.
+
+허브가 `Next Subact: [[graph-ga05-subact-c3]]`이라고 **틀리게 선언**해도, 올바른 stem이 페이지 다른 곳(참고 링크, 상태 문서 목록 등)에 남아 있으면 통과했다. **끊긴 체인이 멀쩡해 보이는** 상태다.
+
+실제 GA02 2A-1 노드로 재현:
+
+| | 결과 |
+|---|---|
+| 구 G3 — 틀린 `Next` 선언 + 올바른 stem을 다른 줄에 잔류 | **오류 없음** ← 구멍 |
+| 신 G3 — 같은 입력 | `G3 chain break: graph-ga02-subact-a1 declares next 'graph-ga05-subact-c3', expected 'graph-ga02-subact-a2'` |
+
+**수정**: `declared_neighbours()`가 `- Previous Subact:` / `- Next Subact:` 필드를 직접 파싱하고, G3이 그 값을 기대 이웃과 **정확히** 비교한다. `없음 —` 센티널은 이웃 없음으로 읽는다. 시리즈 종점의 Root 복귀 검사는 `check_chain_ends()`로 분리했다. 픽스처 6개 추가 (33 → 39).
+
+### 10.6 오탐 1건 — `validate_canon.py --selftest`
+
+Codex는 이 문서 §6이 「`validate_canon.py --selftest` PASS」라고 적은 것을 과대주장이라고 보고했다. 자기 실행에서 exit 1이 났기 때문이다. **오탐이다** — `tools/validate_canon.py`의 C10 픽스처가 `tempfile.TemporaryDirectory()`를 쓰는데 read-only 샌드박스가 그 쓰기를 막았다. 로컬과 CI에서는 exit 0이며, main `24ee8739`의 `validate-canon.yml`도 success다. 문서는 고치지 않았다.
+
+읽기 전용 샌드박스에서 UNVERIFIED로 남은 항목 하나(생성 결정론)도 같은 이유다 — 1차 감사가 쓰기 가능 환경에서 재생성 후 `git status --porcelain` 빈 출력으로 확인했다.
+
+### 10.7 비차단 위험 수정
 
 | # | 위험 | 수정 |
 |---|---|---|
@@ -299,7 +327,7 @@ PASS 요약의 `Context Pack links: 160/160`, `GA10 D ending authority: 4/4` 등
 | R4 | `EXPECTED_TOTAL = 233`이 생성기와 검증기 양쪽에 하드코딩 | 액트맵에서 파생한다. 액트맵이 정당하게 재분할되면 두 도구가 함께 움직인다. selftest에 「서브액트 200개로 재분할해도 통과한다」 픽스처를 넣어 증명했다. |
 | R5 | 676개 앵커가 표제 문자열에 묶임 | 수정 대상이 아니다. G8이 CI 실패로 만들고, 고치는 방법은 재생성이다 — §7 남은 위험에 이미 기록. |
 
-### 10.6 검토자가 반증에 실패한 항목
+### 10.8 검토자가 반증에 실패한 항목
 
 독립 확인으로 통과한 것들이다 — 이 문서의 주장이 아니라 검토자의 독립 계측이다.
 
@@ -325,7 +353,7 @@ PASS 요약의 `Context Pack links: 160/160`, `GA10 D ending authority: 4/4` 등
 >
 > **STORY CANON CHANGE: 0 · MANUSCRIPT CHANGE: 0**
 >
-> **INDEPENDENT AUDIT: 4 DEFECTS FOUND AND FIXED, 5 RISKS CLOSED**
+> **INDEPENDENT AUDIT x2: 5 DEFECTS FOUND AND FIXED, 5 RISKS CLOSED**
 >
 > **PR #197: SUPERSEDED**
 >

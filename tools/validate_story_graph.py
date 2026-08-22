@@ -129,18 +129,59 @@ def check_parent_child(child: str, parent: str, parent_links: set) -> list:
     return []
 
 
-def check_chain(chain: list, doc_links: dict) -> list:
-    """G3 — the 160 subacts form one unbroken previous/next line."""
+DECLARED_NEIGHBOUR = re.compile(r"^- (Previous|Next) Subact: (.+)$")
+NO_NEIGHBOUR = "없음"
+
+
+def declared_neighbours(text: str) -> tuple:
+    """(previous, next) as the node itself declares them, or None at an end.
+
+    Reading the declared fields matters. Membership in the node's whole link set
+    is not the same claim: a hub could declare the wrong neighbour and still
+    contain the right stem somewhere else on the page — a broken chain that
+    reads as intact.
+    """
+    prev = nxt = None
+    for line in strip_code(text).splitlines():
+        m = DECLARED_NEIGHBOUR.match(line)
+        if not m:
+            continue
+        tail = m.group(2).strip()
+        value = None
+        if not tail.startswith(NO_NEIGHBOUR):
+            hit = re.match(r"\[\[([^\]|#]+)", tail)
+            value = hit.group(1).strip() if hit else tail
+        if m.group(1) == "Previous":
+            prev = value
+        else:
+            nxt = value
+    return prev, nxt
+
+
+def check_chain(chain: list, declared: dict) -> list:
+    """G3 — the subacts form one unbroken previous/next line, as declared."""
     errors = []
     for i, stem in enumerate(chain):
-        found = doc_links.get(stem, set())
-        if i > 0 and chain[i - 1] not in found:
-            errors.append("G3 chain break: %s does not link previous %s" % (stem, chain[i - 1]))
-        if i < len(chain) - 1 and chain[i + 1] not in found:
-            errors.append("G3 chain break: %s does not link next %s" % (stem, chain[i + 1]))
-        if i == len(chain) - 1 and "story-graph-root" not in found:
-            errors.append("G3 chain end: final subact %s must return to story-graph-root" % stem)
+        prev, nxt = declared.get(stem, (None, None))
+        want_prev = chain[i - 1] if i > 0 else None
+        want_next = chain[i + 1] if i < len(chain) - 1 else None
+        if prev != want_prev:
+            errors.append("G3 chain break: %s declares previous %r, expected %r"
+                          % (stem, prev, want_prev))
+        if nxt != want_next:
+            errors.append("G3 chain break: %s declares next %r, expected %r"
+                          % (stem, nxt, want_next))
     return errors
+
+
+def check_chain_ends(chain: list, doc_links: dict) -> list:
+    """G3 — the last subact must hand the reader back to the series root."""
+    if not chain:
+        return []
+    last = chain[-1]
+    if "story-graph-root" not in doc_links.get(last, set()):
+        return ["G3 chain end: final subact %s must return to story-graph-root" % last]
+    return []
 
 
 def check_orphans(expected: set, referenced: set) -> list:
@@ -404,7 +445,12 @@ def run() -> int:
                 if g.ga == 10 and a.letter == "d" and sub_path.exists():
                     errors += check_ending_authority(s.stem, sub_links, text_of[sub_path])
 
-    errors += check_chain(chain, doc_links)
+    declared = {}
+    for sub in S.ordered_subacts(series):
+        path = GRAPH / "subacts" / ("%s.md" % sub.stem)
+        declared[sub.stem] = declared_neighbours(text_of[path]) if path in text_of else (None, None)
+    errors += check_chain(chain, declared)
+    errors += check_chain_ends(chain, doc_links)
 
     expected_nodes = {a.stem for g in series for a in g.acts} | set(chain)
     errors += check_orphans(expected_nodes, all_refs)
@@ -505,14 +551,48 @@ def selftest() -> int:
          False),
         ("G3 detects a previous/next chain break",
          lambda: check_chain(["s1", "s2", "s3"],
-                             {"s1": {"s2"}, "s2": {"s1"}, "s3": {"s2", "story-graph-root"}}),
+                             {"s1": (None, "s2"), "s2": ("s1", None), "s3": ("s2", None)}),
          True),
-        ("G3 detects a final subact that never returns to the root",
-         lambda: check_chain(["s1", "s2"], {"s1": {"s2"}, "s2": {"s1"}}),
+        ("G3 detects a hub declaring the wrong neighbour",
+         lambda: check_chain(["s1", "s2", "s3"],
+                             {"s1": (None, "s3"), "s2": ("s1", "s3"), "s3": ("s2", None)}),
+         True),
+        ("G3 detects an end node that claims a neighbour it should not have",
+         lambda: check_chain(["s1", "s2"],
+                             {"s1": ("s0", "s2"), "s2": ("s1", None)}),
          True),
         ("G3 accepts an unbroken chain",
          lambda: check_chain(["s1", "s2"],
-                             {"s1": {"s2"}, "s2": {"s1", "story-graph-root"}}),
+                             {"s1": (None, "s2"), "s2": ("s1", None)}),
+         False),
+        ("G3 detects a final subact that never returns to the root",
+         lambda: check_chain_ends(["s1", "s2"], {"s1": {"s2"}, "s2": {"s1"}}),
+         True),
+        ("G3 accepts a final subact that returns to the root",
+         lambda: check_chain_ends(["s1", "s2"], {"s1": {"s2"}, "s2": {"s1", "story-graph-root"}}),
+         False),
+        # The gap an independent audit found: membership in the whole link set is
+        # not the declared field. This hub still contains the correct stem, but
+        # declares the wrong next — the old check passed it.
+        ("G3 catches a wrong declared next even when the correct stem appears elsewhere",
+         lambda: check_chain(
+             ["s1", "s2", "s3"],
+             {"s1": (None, "s2"), "s2": ("s1", "s1"), "s3": ("s2", None)}),
+         True),
+        ("G3 reads the declared fields out of a real node body",
+         lambda: [declared_neighbours(
+             "- Previous Subact: [[graph-ga01-subact-d4]] (GA01 D4 / E93–E100)\n"
+             "- Next Subact: [[graph-ga02-subact-a2]] (GA02 2A-2 / E108–E114)")
+         ] if declared_neighbours(
+             "- Previous Subact: [[graph-ga01-subact-d4]] (GA01 D4 / E93–E100)\n"
+             "- Next Subact: [[graph-ga02-subact-a2]] (GA02 2A-2 / E108–E114)"
+         ) != ("graph-ga01-subact-d4", "graph-ga02-subact-a2") else [],
+         False),
+        ("G3 reads the series-end sentinel as no neighbour",
+         lambda: [] if declared_neighbours(
+             "- Previous Subact: [[graph-ga10-subact-d3]] (GA10 10D-3 / E1090–E1095)\n"
+             "- Next Subact: 없음 — 시리즈 종점, [[story-graph-root]]로 복귀"
+         ) == ("graph-ga10-subact-d3", None) else ["sentinel misread"],
          False),
         ("G4 detects an orphaned Act/Subact node",
          lambda: check_orphans({"graph-ga03-act-c"}, set()),
