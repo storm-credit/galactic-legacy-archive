@@ -47,9 +47,9 @@ Source Authority: [[architecture-rules]] · [[1000-episode-grand-act-map-v1]] ·
 ## 실행층 정본
 
 - Context 규격: [[context-pack-tangible-reader-memory-execution-spec-proposal-v1]]
-- Context 생성 장부 (1100/1100): [[full-series-context-pack-generated-manifest-v1]]
-- Writer Activation 장부 (1100/1100): [[full-series-context-writer-activation-manifest-v1]]
-- Collection Desire / CLSET 장부 (160/160 · thread 415/415): [[full-series-collection-desire-manifest-v1]]
+- Context 생성 장부: [[full-series-context-pack-generated-manifest-v1]]
+- Writer Activation 장부: [[full-series-context-writer-activation-manifest-v1]]
+- Collection Desire / CLSET 장부 (160 서브액트): [[full-series-collection-desire-manifest-v1]]
 - 회차 작업지시서: [[episode-briefs]]
 - 원고 생산 워크플로: [[manuscript-production-workflow-v1]]
 - 게이트·정본 상태: [[effective-canon-status-manifest-v1]] · [[prewriting-execution-redteam-v2-final-verdict-2026-08-22]]

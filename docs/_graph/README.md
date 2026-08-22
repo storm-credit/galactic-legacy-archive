@@ -45,7 +45,7 @@ Subact는 GA01 A1부터 GA10 10D-4까지 previous/next 링크로 하나의 시�
 
 ## 4. 물리 규모
 
-`docs/_graph/` Markdown 파일은 **233개**다.
+`docs/_graph/` Markdown 파일은 **233개**다. 이 수는 액트맵에서 파생한다 — 손으로 유지하지 않는다.
 
 | 종류 | 수 |
 |---|---:|

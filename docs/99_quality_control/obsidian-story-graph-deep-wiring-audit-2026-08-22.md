@@ -54,7 +54,7 @@ PR #197의 노드는 **작성 당시에는 맞았지만 지금은 실행층의 �
 - `docs/_index/story-graph-navigation.md` → `_index/`는 생성 폴더이므로 손으로 쓴 노트를 두지 않고, `build_index.py`의 `QUICK_LINKS`에 [[story-graph-root]]를 넣어 [[HOME]]이 가리키게 함;
 - README의 "Context Pack 1,100개를 선생성하지 않는다" 문장 (현재 상태와 반대).
 
-PR #197은 **superseded**다. 대체 PR과 병합 SHA는 §9에 기록한다.
+PR #197은 **superseded**다. 대체 PR은 #218이며, 그 PR에 supersede 사유와 병합 SHA를 기록한다.
 
 ---
 
@@ -98,7 +98,7 @@ python tools/build_story_graph.py --check  # 낡았으면 실패 (CI가 실행)
 - 집필 실행층: 해당 GA Context Pack의 **첫 회차 표제**, Writer Activation의 **첫 회차 표제**, [[episode-briefs]], Context 규격, [[manuscript-production-workflow-v1]]
 - 수집욕: `CLSET-*` ID와 CLSET 맵의 **해당 서브액트 표제**, GA 수집 등록부, 전 시리즈 수집 장부
 - 상태·손실·권한: GA State Spine, 회차 범위가 겹치는 collection/loss · operations · institution/authority · law/evidence · QC 문서, 시리즈 3대 장부
-- GA10 D 4개: 결말 정본 3종 추가
+- GA10 D 4개: 결말 정본 3종(개정·결정 기록·구/신 대조) 링크 추가. **연표와 종점 사실은 재서술하지 않는다** — §7 공격 1 참조
 
 ### 4.2 계측
 
@@ -117,7 +117,7 @@ python tools/build_story_graph.py --check  # 낡았으면 실패 (CI가 실행)
 | **본문이 서로 다른 Subact 허브** | **160/160** |
 | previous/next 체인 | GA01 A1 → GA10 10D-4, 끊김 0 |
 
-`160/160 distinct` 는 §11-3(모든 Subact가 같은 형식의 빈 껍데기가 아닌가)에 대한 기계 답변이다. 각 허브는 자기 회차 범위에서 실제로 겹치는 문서만 링크하므로, 상태 문서 개수 분포가 1~10으로 갈라진다.
+`160/160 distinct` 는 §7 공격 3(모든 Subact가 같은 형식의 빈 껍데기가 아닌가)에 대한 기계 답변이다. 각 허브는 자기 회차 범위에서 실제로 겹치는 문서만 링크하므로, 상태 문서 개수 분포가 1~10으로 갈라진다.
 
 ---
 
@@ -132,7 +132,7 @@ python tools/build_story_graph.py --check  # 낡았으면 실패 (CI가 실행)
 ## 6. 기계 검증
 
 ```bash
-python tools/validate_story_graph.py --selftest   # 31 cases
+python tools/validate_story_graph.py --selftest   # 33 cases
 python tools/validate_story_graph.py
 python tools/build_story_graph.py --check
 ```
@@ -153,13 +153,15 @@ python tools/build_story_graph.py --check
 
 **G8과 G9는 이 저장소가 실제로 겪은 실패 유형을 옮긴 것이다.** G8은 §22가 기록한 "구조는 있었는데 쓰는 순간 손에 쥐여지지 않았다"의 링크판이고, G9는 §12가 기록한 개명 미전파(PR #99가 errata만 갱신해 정본 잠금이 구명을 유지)의 결말판이다.
 
-`--selftest` 31케이스가 **각 검사가 실제로 발화하는지** 증명한다. 발화를 증명하지 못하는 검사는 없는 것과 같다 (§13).
+`--selftest` 33케이스가 **각 검사가 실제로 발화하는지** 증명한다. 발화를 증명하지 못하는 검사는 없는 것과 같다 (§13).
+
+초안의 G9는 이 기준을 통과하지 못했다 — §10.2 참조.
 
 ### 실행 결과 (2026-08-22)
 
 | 명령 | 결과 |
 |---|---|
-| `validate_story_graph.py --selftest` | PASS — 31 cases |
+| `validate_story_graph.py --selftest` | PASS — 33 cases |
 | `validate_story_graph.py` | PASS |
 | `build_story_graph.py --check` | current (233 nodes) |
 | `validate_canon.py --selftest` | PASS — 39 cases |
@@ -177,12 +179,12 @@ python tools/build_story_graph.py --check
 
 | # | 공격 | 판정 | 근거 |
 |---:|---|---|---|
-| 1 | Graph Hub가 두 번째 정본이 됐는가 | NO | 허브는 사건·날짜·상태를 서술하지 않는다. 본문은 링크·표제·회차 범위뿐이며, 회차 범위는 액트맵에서 읽어 온 값이다. 모든 노드에 `NOT A STORY SOURCE`와 해석 순서 5단계를 명시. |
+| 1 | Graph Hub가 두 번째 정본이 됐는가 | **초안에서 1건 발생 — 수정 후 NO** | 초안의 생성기가 GA10 D 허브 4개에 「E1076–E1095는 CY748 본편 종결, E1096–E1100은 CY751 에필로그다」를 **하드코딩**하고 있었다. 내용은 정본과 일치했지만 연표는 story fact이고, 정본이 개정되면 그 4개가 조용히 제2정본이 된다 — §3 위반이자 §12가 기록한 전파 실패의 결말판. 독립 감사가 잡았고 문장을 삭제해 링크만 남겼다. 재검증 결과 `docs/_graph` 전체에서 `CY748`/`CY751`/`E1099` 히트 0. 이제 본문은 링크·표제·회차 범위뿐이며, 회차 범위는 액트맵에서 읽어 온 값이다. |
 | 2 | 설명 복제로 정본과 갈라질 위험 | NO | 정본 문장을 복사하지 않는다. 유일하게 재현되는 값(회차 범위·서브액트 제목·CLSET ID)은 매 실행마다 소스에서 다시 읽으며, 어긋나면 생성기가 실패한다. |
 | 3 | 160개가 같은 빈 껍데기인가 | NO | 본문 해시 160/160 distinct. 상태 문서 개수 분포 1~10. |
 | 4 | Context/Collection 링크가 실제 해당 범위를 가리키는가 | YES | Context/Activation은 서브액트 **첫 회차의 실제 표제**로 앵커되고, CLSET은 **해당 서브액트 표제**로 앵커된다. 앵커 문자열이 대상 파일의 표제와 일치하는지 G8이 검사한다(676개). 액트맵과 CLSET 맵의 회차 범위가 다르면 생성 자체가 실패한다. |
 | 5 | GA1만 세밀하고 GA2–GA10은 형식적인가 | NO | GA당 Subact 16개로 균일. 상세 회차 카드 링크는 GA1 16/16, GA2–GA10 144/144. GA1이 오히려 카드 수가 적다(비정본 E1–5 샘플 제외). |
-| 6 | 최신 GA10 결말 대신 과거 카드를 가리키는가 | NO | GA10 D 4개 허브 전부가 [[ga10-ending-reconciliation-canon-amendment-2026-08-20]]·결정 기록·crosswalk를 인용하고, E1076–1095 = CY748 본편 / E1096–1100 = CY751 에필로그를 명시한다. G9가 구 배치 부활을 차단한다. |
+| 6 | 최신 GA10 결말 대신 과거 카드를 가리키는가 | NO | GA10 D 4개 허브 전부가 [[ga10-ending-reconciliation-canon-amendment-2026-08-20]]·결정 기록·crosswalk를 인용한다. 허브가 보유한 회차 범위(D1 E1076–1082 / D2 E1083–1089 / D3 E1090–1095 / D4 E1096–1100)는 액트맵에서 읽은 값이며 개정의 4기능 순서와 일치한다. 연표 자체는 정본이 소유한다. G9가 구 배치(`E1099`·`CY748-01`) 부활을 차단한다. |
 | 7 | 엔티티 노트 대량 생성으로 신호를 죽였는가 | NO | 새 엔티티 노트 0개. `docs/_entities`는 README 1개만 수정. 197명·612성계 placeholder 생성 없음. |
 | 8 | Series → GA → Act → Subact → 실행층이 실제 클릭 가능한가 | YES | §8 경로 시험 참조. |
 | 9 | 상세카드에서 상위로 돌아올 수 있는가 | YES | 상세 카드는 자기 `Depends On`으로 액트맵을 가리키고, 액트맵의 백링크 패널에 해당 Act/Subact 허브가 나타난다. 허브→카드 간선이 생겼으므로 카드의 백링크에서 허브로 역주행할 수 있다. |
@@ -214,11 +216,11 @@ python tools/build_story_graph.py --check
 | 4 | Subact → Writer Activation | OK |
 | 5 | Subact → CLSET (`ga2-collection-desire-subact-map-v1#2A-1 — 배보다 먼저 도착한 빚 / E101–E107`) | OK |
 | 6 | Subact → [[graph-ga02-state-spine]] → Domain Hub → registry/bible | OK |
-| 7 | [[graph-ga10-subact-d4]] → [[ga10-ending-reconciliation-canon-amendment-2026-08-20]] | OK |
+| 7 | [[graph-ga10-subact-d4]] → [[ga10-ending-reconciliation-canon-amendment-2026-08-20]] (D1–D4 4/4) | OK |
 | 8 | previous/next로 GA01 A1 → GA10 10D-4 완주 | OK, 끊김 0 |
 | 9 | 상세 카드 → 백링크 패널 → 상위 Subact/Act 허브 | OK |
 
-동명 basename 충돌은 저장소 전체에서 0건이었으므로 전체 경로 위키링크는 `docs/_entities/*`와 `docs/_graph/README` 두 경우에만 사용했다. 존재하지 않는 파일을 링크로 만든 곳은 없다(G5 = 0).
+저장소 전체에서 동명 basename 충돌은 `README` 하나다 — `README.md`, `data/README.md`, `docs/00_project/README.md`, `docs/_entities/README.md`, `docs/_graph/README.md` 다섯 개가 같은 이름을 갖는다. **그래서** §11-3에 따라 그 두 대상만 전체 경로 위키링크(`[[docs/_entities/README]]`, `[[docs/_graph/README]]`)로 적었고, 나머지 링크는 이름이 유일하므로 bare name으로 적었다. 존재하지 않는 파일을 링크로 만든 곳은 없다(G5 broken 0 · ambiguous 0).
 
 `.obsidian/` 개인 설정은 커밋하지 않는다.
 
@@ -251,7 +253,69 @@ python tools/build_story_graph.py --check
 
 ---
 
-## 10. 판정
+## 10. 독립 감사와 수정 (2026-08-22)
+
+§6 하네스 3단계(맹점·반론 레드팀)와 §15-3 독립 감사를 별도 검토자로 실행했다. 검토자는 이 문서와 생성기의 근거를 **전달받지 않고** 저장소를 직접 읽어 반증을 시도했다. 결함 4건과 비차단 위험 5건을 보고했고, **전부 수정했다.**
+
+### 10.1 D1 — 생성기에 하드코딩된 story fact
+
+`tools/build_story_graph.py`가 GA10 D 허브 4개에 연표 문장을 직접 써 넣고 있었다. 233개 노드 가운데 story fact를 서술하는 유일한 산문이었고, 세 줄 위의 배너가 「사건·날짜·상태·권한은 링크된 정본이 소유합니다」라고 선언한 직후에 날짜를 주장했다.
+
+**수정**: 문장 삭제. 대신 「연표 잠금, 07·파루스·Ern의 최종 상태, 핵심 관계 구조, M-019 배치는 위 정본이 소유한다. 이 허브는 그 내용을 재서술하지 않는다」로 대체했다 — 무엇을 찾아야 하는지는 알려주되 그 값을 복제하지 않는다.
+
+### 10.2 D2 — G9가 실제로는 한 번도 발화할 수 없었다
+
+같은 문장이 만든 2차 피해다. G9의 이력 면제가 **문서 전체**를 보고 있었고(`"이력" not in text`), 하드코딩된 문장이 모든 GA10 D 노드에 `이력`을 넣고 있었으므로, **G9가 지키려던 바로 그 4개 문서에서 가드가 영구히 열려 있었다.** selftest는 통과하고 있었다 — 픽스처가 실제 출력이 취할 수 없는 형태였기 때문이다. §13이 금지하는 상태다.
+
+**수정**: 면제를 **줄 단위**로 좁히고, 실제 생성된 노드 본문에 구 배치를 주입해 발화를 증명했다.
+
+| 입력 | 수정 전 | 수정 후 |
+|---|---|---|
+| 실제 D4 노드 원본 | `[]` | `[]` |
+| 실제 D4 노드 + 「M-019는 E1099에서 끝난다」 | `[]` ← 발화했어야 함 | `G9 ending drift ... 'E1099'` |
+| 실제 D4 노드 + 「본편은 CY748-01에 종료된다」 | `[]` ← 발화했어야 함 | `G9 ending drift ... 'CY748-01'` |
+
+selftest에 「`이력`이 다른 줄에 있어도 발화한다」 픽스처를 추가했다 (31 → 33 케이스).
+
+### 10.3 D3 — 검증기가 측정하지 않은 성공 수치를 출력했다
+
+PASS 요약의 `Context Pack links: 160/160`, `GA10 D ending authority: 4/4` 등이 계산값이 아니라 **문자열 리터럴**이었다. 그중 Context 줄은 사실과 달랐다 — 생성층 158 + 수동 2이지 생성층 160이 아니다. 검증기가 자기가 검증하지 않은 것을 보고하고 있었다.
+
+**수정**: 전부 `run()`이 이미 들고 있는 데이터에서 계산한다. 현재 출력은 `158 generated + 2 manual (E001-E010) = 160/160`이다.
+
+### 10.4 D4 — 이 문서의 허위 진술
+
+§8이 「동명 basename 충돌은 저장소 전체에서 0건」이라고 적고 있었다. 사실이 아니다 — `README`가 5중 충돌이고, **그래서** 전체 경로 링크를 쓴 것이다. 인과가 뒤집혀 있었다. 엔지니어링은 옳았고 설명이 틀렸다. QC 기록의 과대주장은 그 자체로 결함이다.
+
+**수정**: §8을 사실대로 고쳤다.
+
+### 10.5 비차단 위험 수정
+
+| # | 위험 | 수정 |
+|---|---|---|
+| R1 | `check_workflows`가 `*.yml`만 훑어 `.yaml` workflow가 보이지 않음 | `.yml`·`.yaml` 모두 훑는다. `git push`/`contents: write` 검사를 story-graph workflow로 한정한 것은 **의도적**이며 주석으로 남겼다 — 전 시리즈 빌드 workflow 3종이 정당하게 write 권한을 갖고 있고 이 검증기가 그 정책의 주인이 아니다. one-shot 파일명 검사는 저장소 전역이다. |
+| R2 | `MANUSCRIPT_DIR_NAMES` 상수를 정의만 하고 쓰지 않아, `원고/`·`manuscripts/` 트리가 생기면 G11이 못 봄 | G11이 그 상수를 실제로 사용한다. |
+| R3 | 전체 경로 링크의 앵커는 `heading_index`가 bare stem으로만 키잉돼 검사되지 않음 | 전체 경로도 색인한다. 현재 해당 링크는 0건이지만 생기는 즉시 검사된다. |
+| R4 | `EXPECTED_TOTAL = 233`이 생성기와 검증기 양쪽에 하드코딩 | 액트맵에서 파생한다. 액트맵이 정당하게 재분할되면 두 도구가 함께 움직인다. selftest에 「서브액트 200개로 재분할해도 통과한다」 픽스처를 넣어 증명했다. |
+| R5 | 676개 앵커가 표제 문자열에 묶임 | 수정 대상이 아니다. G8이 CI 실패로 만들고, 고치는 방법은 재생성이다 — §7 남은 위험에 이미 기록. |
+
+### 10.6 검토자가 반증에 실패한 항목
+
+독립 확인으로 통과한 것들이다 — 이 문서의 주장이 아니라 검토자의 독립 계측이다.
+
+- 160/160 distinct body hash **그리고 160/160 distinct wikilink set**(최대 동일 그룹 = 1). 쌍별 Jaccard 최소 0.22 / 중앙값 0.26 / 최대 0.31
+- 676개 앵커 재파싱 결과 stale 0 · 비유일 해석 0
+- 액트맵 ↔ CLSET ↔ Context 교차확인: 회차 항목 누락 0, 범위 불일치 0 (160/160)
+- 체인 독립 정주행: head 1 · tail 1 · 길이 160 · 순환 0 · 분기 0 · 비대칭 링크 0 · 회차 불연속 0
+- 위키링크 5,657건 중 broken 0 · ambiguous 0
+- `manuscript/` 127개 파일 중 그래프가 링크한 것 0 (그리고 `manuscript_stems`가 비어 있지 않으므로 G11은 공허참이 아니다)
+- 결정론: 재생성 후 `git status --porcelain` 빈 출력. Windows CRLF는 `Path.read_text`/`write_text`가 universal newline이라 CI에서 흔들리지 않는다
+- 부분 쓰기 불가: `build()`가 메모리 dict를 채운 뒤 한꺼번에 쓴다
+- `git diff --name-status 770c5aa..HEAD`의 비생성 파일 목록이 예상과 정확히 일치, 원고·액트맵·등록부·Context/Activation/CLSET 내용 변경 0
+
+---
+
+## 11. 판정
 
 > **OBSIDIAN STORY GRAPH: 233 NODES WIRED AND MACHINE-LOCKED**
 >
@@ -260,6 +324,8 @@ python tools/build_story_graph.py --check
 > **GA10 ENDING AUTHORITY: 2026-08-20 AMENDMENT, 4/4 D-SUBACTS**
 >
 > **STORY CANON CHANGE: 0 · MANUSCRIPT CHANGE: 0**
+>
+> **INDEPENDENT AUDIT: 4 DEFECTS FOUND AND FIXED, 5 RISKS CLOSED**
 >
 > **PR #197: SUPERSEDED**
 >

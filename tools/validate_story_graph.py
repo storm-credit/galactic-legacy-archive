@@ -41,14 +41,10 @@ ROOT = S.ROOT
 GRAPH = S.GRAPH
 WORKFLOWS = ROOT / ".github" / "workflows"
 
-EXPECTED_INVENTORY = {
-    ".": 2,            # README + story-graph-root
-    "ga": 10,
-    "acts": 40,
-    "subacts": 160,
-    "state": 21,       # 10 GA spines + 11 domain hubs
-}
-EXPECTED_TOTAL = 233
+# The expected shape is derived from the act maps, not hardcoded a second time.
+# A legitimate act-map re-cut then moves the generator and the validator
+# together instead of needing two edits in lockstep.
+FIXED_NODES = 2  # README + story-graph-root
 
 DOMAIN_HUBS = [
     "graph-state-characters",
@@ -100,17 +96,28 @@ def targets(text: str) -> set:
 # drive them with a crafted defect instead of a whole synthetic repository.
 # ---------------------------------------------------------------------------
 
-def check_inventory(counts: dict, total: int) -> list:
-    """G1 — the graph must keep its declared shape."""
+def expected_inventory(ga_count: int, act_count: int, subact_count: int) -> dict:
+    return {
+        ".": FIXED_NODES,
+        "ga": ga_count,
+        "acts": act_count,
+        "subacts": subact_count,
+        "state": ga_count + len(DOMAIN_HUBS),
+    }
+
+
+def check_inventory(counts: dict, total: int, expected: dict) -> list:
+    """G1 — the graph must keep the shape its sources imply."""
     errors = []
-    if total != EXPECTED_TOTAL:
+    expected_total = sum(expected.values())
+    if total != expected_total:
         errors.append("G1 node count: expected %d markdown files under docs/_graph, found %d"
-                      % (EXPECTED_TOTAL, total))
-    for group, expected in EXPECTED_INVENTORY.items():
+                      % (expected_total, total))
+    for group, want in expected.items():
         actual = counts.get(group, 0)
-        if actual != expected:
+        if actual != want:
             errors.append("G1 node count: docs/_graph/%s expected %d, found %d"
-                          % (group, expected, actual))
+                          % (group, want, actual))
     return errors
 
 
@@ -196,19 +203,33 @@ ENDING_STALE_CLAIMS = (
 
 
 def check_ending_authority(source: str, found: set, text: str) -> list:
-    """G9 — GA10 D nodes cite the current ending amendment and no stale endpoint."""
+    """G9 — GA10 D nodes cite the current ending amendment and no stale endpoint.
+
+    The history exemption is scoped to the line, not the document. A document-wide
+    escape is permanently open the moment any boilerplate elsewhere in the node
+    contains the word, which is how this check sat inert while looking green.
+    """
     errors = []
     for stem in ENDING_REQUIRED:
         if stem not in found:
             errors.append("G9 ending authority: %s must link [[%s]]" % (source, stem))
-    for claim in ENDING_STALE_CLAIMS:
-        if claim in strip_code(text) and "이력" not in text and "historical" not in text.lower():
-            errors.append("G9 ending drift: %s asserts stale endpoint %r without marking it history"
-                          % (source, claim))
+    for line in strip_code(text).splitlines():
+        marked = "이력" in line or "historical" in line.lower()
+        for claim in ENDING_STALE_CLAIMS:
+            if claim in line and not marked:
+                errors.append(
+                    "G9 ending drift: %s asserts stale endpoint %r without marking it history"
+                    % (source, claim))
     return errors
 
 
 BRANCH_ONLY_MARKERS = ("one-shot", "oneshot", "one_shot")
+
+# The branch-only filename check is repository-wide: a one-shot sync job is
+# never legitimate on main. The write/push checks are scoped to the story-graph
+# gate on purpose — the full-series build workflows legitimately hold
+# `contents: write` and push generated layers, and this validator does not own
+# their policy.
 
 
 def check_workflows(workflows: dict) -> list:
@@ -275,24 +296,26 @@ def run() -> int:
         rel = p.relative_to(ROOT).as_posix()
         by_stem.setdefault(p.stem, []).append(rel)
         by_path.add(rel[: -len(".md")])
-        if parts[0] == "manuscript":
+        if parts[0] in S.MANUSCRIPT_DIR_NAMES:
             manuscript_stems.add(p.stem)
 
     graph_files = sorted(GRAPH.rglob("*.md"))
     text_of = {p: p.read_text(encoding="utf-8") for p in graph_files}
     for p, t in text_of.items():
         for stem, anchor in links(t):
-            if anchor and stem not in heading_index:
-                hits = by_stem.get(stem, [])
-                if len(hits) == 1:
-                    heading_index[stem] = headings_of(
-                        (ROOT / hits[0]).read_text(encoding="utf-8"))
-
-    counts: dict = {}
-    for p in graph_files:
-        group = p.parent.relative_to(GRAPH).as_posix()
-        counts[group] = counts.get(group, 0) + 1
-    errors += check_inventory(counts, len(graph_files))
+            if not anchor or stem in heading_index:
+                continue
+            if "/" in stem:
+                # Path-form links carry anchors too; keying only by bare stem
+                # left them unchecked.
+                target = ROOT / ("%s.md" % stem)
+                if target.exists():
+                    heading_index[stem] = headings_of(target.read_text(encoding="utf-8"))
+                continue
+            hits = by_stem.get(stem, [])
+            if len(hits) == 1:
+                heading_index[stem] = headings_of(
+                    (ROOT / hits[0]).read_text(encoding="utf-8"))
 
     # --- approved sources -------------------------------------------------
     try:
@@ -302,6 +325,14 @@ def run() -> int:
         print("- G6 approved source drift: %s" % exc)
         return 1
     chain = [s.stem for s in S.ordered_subacts(series)]
+    acts = [a for g in series for a in g.acts]
+
+    counts: dict = {}
+    for p in graph_files:
+        group = p.parent.relative_to(GRAPH).as_posix()
+        counts[group] = counts.get(group, 0) + 1
+    expected = expected_inventory(len(series), len(acts), len(chain))
+    errors += check_inventory(counts, len(graph_files), expected)
 
     doc_links = {p.stem: targets(t) for p, t in text_of.items()}
     all_refs: set = set()
@@ -389,7 +420,9 @@ def run() -> int:
 
     workflows = {}
     if WORKFLOWS.exists():
-        workflows = {p.name: p.read_text(encoding="utf-8") for p in sorted(WORKFLOWS.glob("*.yml"))}
+        workflows = {p.name: p.read_text(encoding="utf-8")
+                     for p in sorted(WORKFLOWS.iterdir())
+                     if p.suffix in (".yml", ".yaml")}
     errors += check_workflows(workflows)
 
     readme = GRAPH / "README.md"
@@ -404,17 +437,44 @@ def run() -> int:
             print("- %s" % e)
         return 1
 
+    # Everything printed below is counted from what was just validated. A summary
+    # line that is a string literal reports the author's intention, not the
+    # artifact — and the Context line was wrong exactly that way (158 generated
+    # + 2 manual, never 160 generated).
     anchored = sum(1 for t in text_of.values() for _, a in links(t) if a)
+    generated_ctx = manual_ctx = activation = clset = spine = 0
+    for g in series:
+        for a in g.acts:
+            for sub in a.subacts:
+                found = doc_links.get(sub.stem, set())
+                if sub.context_anchor:
+                    generated_ctx += S.CONTEXT_PACK_STEM[g.ga] in found
+                    activation += S.ACTIVATION_STEM[g.ga] in found
+                else:
+                    manual_ctx += S.MANUAL_CONTEXT_STEM in found
+                    activation += S.MANUAL_ACTIVATION_STEM in found
+                clset += S.DESIRE_STEM[g.ga] in found
+                spine += g.spine_stem in found
+    final_act = series[-1].acts[-1]
+    ending = sum(1 for sub in final_act.subacts
+                 if set(ENDING_REQUIRED) <= doc_links.get(sub.stem, set()))
+    manuscript_hits = sum(len(targets(t) & manuscript_stems) for t in text_of.values())
+
     print("STORY GRAPH VALIDATION: PASS")
     print("- markdown nodes under docs/_graph: %d" % len(graph_files))
-    print("- grand-act hubs: 10 / act hubs: 40 / subact hubs: 160")
-    print("- GA state spines: 10 / domain state hubs: 11")
+    print("- grand-act hubs: %d / act hubs: %d / subact hubs: %d"
+          % (len(series), len(acts), len(chain)))
+    print("- GA state spines: %d / domain state hubs: %d" % (len(series), len(DOMAIN_HUBS)))
     print("- chronological subact chain: %d/%d unbroken" % (len(chain), len(chain)))
-    print("- Context Pack links: 160/160 · Writer Activation links: 160/160")
-    print("- Collection Desire CLSET links: 160/160")
-    print("- heading anchors resolved: %d" % anchored)
-    print("- GA10 D ending authority: 4/4 subacts cite the 2026-08-20 amendment")
-    print("- manuscript links: 0 · branch-only workflow residue: 0")
+    print("- Context Pack links: %d generated + %d manual (E001-E010) = %d/%d"
+          % (generated_ctx, manual_ctx, generated_ctx + manual_ctx, len(chain)))
+    print("- Writer Activation links: %d/%d · CLSET links: %d/%d · state spine links: %d/%d"
+          % (activation, len(chain), clset, len(chain), spine, len(chain)))
+    print("- heading anchors resolved: %d/%d" % (anchored, anchored))
+    print("- GA10 %s subacts citing the ending amendment: %d/%d"
+          % (final_act.act_id, ending, len(final_act.subacts)))
+    print("- manuscript links: %d · workflow files inspected: %d"
+          % (manuscript_hits, len(workflows)))
     print("- exact story facts remain source-owned; the graph is navigation-only")
     return 0
 
@@ -426,10 +486,16 @@ def run() -> int:
 def selftest() -> int:
     cases = [
         ("G1 detects a node-count mismatch",
-         lambda: check_inventory({".": 2, "ga": 10, "acts": 40, "subacts": 159, "state": 21}, 232),
+         lambda: check_inventory({".": 2, "ga": 10, "acts": 40, "subacts": 159, "state": 21},
+                                 232, expected_inventory(10, 40, 160)),
          True),
-        ("G1 accepts the declared shape",
-         lambda: check_inventory({".": 2, "ga": 10, "acts": 40, "subacts": 160, "state": 21}, 233),
+        ("G1 accepts the shape its sources imply",
+         lambda: check_inventory({".": 2, "ga": 10, "acts": 40, "subacts": 160, "state": 21},
+                                 233, expected_inventory(10, 40, 160)),
+         False),
+        ("G1 follows the sources when an act map is legitimately re-cut",
+         lambda: check_inventory({".": 2, "ga": 10, "acts": 40, "subacts": 200, "state": 21},
+                                 273, expected_inventory(10, 40, 200)),
          False),
         ("G2 detects a parent that does not own the child back",
          lambda: check_parent_child("graph-ga02-act-a", "graph-ga02-hub", {"graph-ga02-act-b"}),
@@ -515,10 +581,15 @@ def selftest() -> int:
          lambda: check_ending_authority("graph-ga10-subact-d4", set(ENDING_REQUIRED),
                                         "M-019는 E1099에서 끝난다"),
          True),
-        ("G9 accepts a stale endpoint explicitly marked as history",
+        ("G9 accepts a stale endpoint marked as history on its own line",
          lambda: check_ending_authority("graph-ga10-subact-d4", set(ENDING_REQUIRED),
                                         "구 카드의 E1099 배치는 이력이며 정본이 아니다"),
          False),
+        ("G9 still fires when 이력 sits on a different line than the stale claim",
+         lambda: check_ending_authority(
+             "graph-ga10-subact-d4", set(ENDING_REQUIRED),
+             "- 구/신 배치 대조: 구 배치를 이력으로 보존한다\nM-019는 E1099에서 끝난다"),
+         True),
         ("G10 detects a branch-only one-shot workflow",
          lambda: check_workflows({"one-shot-sync-story-graph-index.yml": "on: pull_request"}),
          True),

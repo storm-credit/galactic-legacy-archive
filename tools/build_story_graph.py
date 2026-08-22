@@ -7,7 +7,8 @@
 The graph is generated, never hand-edited. Every edge is read out of an
 approved source by ``story_graph_sources``; if an act map, Context Pack,
 writer-activation overlay or Collection Desire map is re-cut, regenerating
-re-points the 233 nodes instead of leaving them silently stale.
+re-points every node instead of leaving them silently stale. The node count is
+derived from the act maps, never asserted.
 
 The graph holds no story facts. It is a thin navigation surface over documents
 that already own the facts (CLAUDE.md section 3, single source of truth).
@@ -239,17 +240,21 @@ def build_root(series: list, produced: dict) -> None:
             link(S.ACT_MAP_STEM[g.ga]), link(S.COLLECTION_REGISTRY_STEM[g.ga]),
             link(g.spine_stem)))
     lines += ["", "## 시간축", "",
-              "160개 서브액트는 %s(GA01 %s)부터 %s(GA10 %s)까지 previous/next 한 줄로 이어진다." % (
-                  link(series[0].acts[0].subacts[0].stem), series[0].acts[0].subacts[0].subact_id,
-                  link(series[-1].acts[-1].subacts[-1].stem), series[-1].acts[-1].subacts[-1].subact_id),
+              "%d개 서브액트는 %s(GA%02d %s)부터 %s(GA%02d %s)까지 previous/next 한 줄로 이어진다." % (
+                  sum(len(g.subacts) for g in series),
+                  link(series[0].acts[0].subacts[0].stem), series[0].ga,
+                  series[0].acts[0].subacts[0].subact_id,
+                  link(series[-1].acts[-1].subacts[-1].stem), series[-1].ga,
+                  series[-1].acts[-1].subacts[-1].subact_id),
               "",
               "## 현재 상태 도메인 허브", ""]
     lines += ["- %s" % link(x) for x in DOMAIN_HUBS]
     lines += ["", "## 실행층 정본", "",
               "- Context 규격: %s" % link("context-pack-tangible-reader-memory-execution-spec-proposal-v1"),
-              "- Context 생성 장부 (1100/1100): %s" % link(S.CONTEXT_MANIFEST_STEM),
-              "- Writer Activation 장부 (1100/1100): %s" % link(S.ACTIVATION_MANIFEST_STEM),
-              "- Collection Desire / CLSET 장부 (160/160 · thread 415/415): %s" % link(S.DESIRE_MANIFEST_STEM),
+              "- Context 생성 장부: %s" % link(S.CONTEXT_MANIFEST_STEM),
+              "- Writer Activation 장부: %s" % link(S.ACTIVATION_MANIFEST_STEM),
+              "- Collection Desire / CLSET 장부 (%d 서브액트): %s" % (
+                  sum(len(g.subacts) for g in series), link(S.DESIRE_MANIFEST_STEM)),
               "- 회차 작업지시서: %s" % link("episode-briefs"),
               "- 원고 생산 워크플로: %s" % link("manuscript-production-workflow-v1"),
               "- 게이트·정본 상태: %s · %s" % (
@@ -418,13 +423,19 @@ def build_subact_hub(g, a, s, chain: list, produced: dict) -> None:
     lines.append("- 도메인 허브: %s" % link("graph-state-loss-payoff-authority"))
 
     if g.ga == 10 and a.letter == "d":
+        # Links only. The chronology lock, the 07 / 파루스 / Ern endpoints, the
+        # relationship architecture and the M-019 placement are story facts; a
+        # navigation hub that restates them becomes a second canon the moment the
+        # amendment is re-cut (CLAUDE.md section 3, and the section 12 propagation
+        # failure). Name what the source owns; do not copy what it says.
         lines += ["", "## 결말 정본 (E1076–E1100)", "",
                   "- 유효 정본: %s" % link(S.ENDING_AMENDMENT_STEM),
                   "- 결정 기록: %s" % link(S.ENDING_DECISION_STEM),
                   "- 구/신 배치 대조: %s" % link(S.ENDING_CROSSWALK_STEM),
                   "",
-                  "E1076–E1095는 CY748 본편 종결, E1096–E1100은 CY751 에필로그다. "
-                  "구 카드의 E1100 원장 배치나 CY748-01 종료는 이력이며 정본이 아니다."]
+                  "연표 잠금, 07·파루스·Ern의 최종 상태, 핵심 관계 구조, M-019 배치는 "
+                  "위 정본이 소유한다. 이 허브는 그 내용을 재서술하지 않는다. "
+                  "구 상세 카드의 배치는 대조 문서가 이력으로 보존한다."]
 
     lines += ["", "## 경계", "", BOUNDARY]
     write(GRAPH / "subacts" / ("%s.md" % s.stem), lines, produced)
@@ -508,9 +519,9 @@ Open Risks: navigation hubs accidentally becoming a duplicate canon source; grap
 
 ```text
 [[story-graph-root]]
-→ Grand Act Hub (10)
-→ Act Hub (40)
-→ Subact Hub (160)
+→ Grand Act Hub ({gas})
+→ Act Hub ({acts})
+→ Subact Hub ({subacts})
 ├─→ Act Map 해당 서브액트 표제
 ├─→ 상세 회차 설계 카드
 ├─→ Context Pack 해당 회차 / Writer Activation 해당 회차
@@ -521,21 +532,21 @@ Open Risks: navigation hubs accidentally becoming a duplicate canon source; grap
        → registry / bible / entity note / loss-payoff ledger
 ```
 
-Subact는 GA01 A1부터 GA10 10D-4까지 previous/next 링크로 하나의 시간축 체인을 이룬다.
+Subact는 {first}부터 {last}까지 previous/next 링크로 하나의 시간축 체인을 이룬다.
 
 ## 4. 물리 규모
 
-`docs/_graph/` Markdown 파일은 **233개**다.
+`docs/_graph/` Markdown 파일은 **{total}개**다. 이 수는 액트맵에서 파생한다 — 손으로 유지하지 않는다.
 
 | 종류 | 수 |
 |---|---:|
 | 규약 README | 1 |
 | Series Root | 1 |
-| Grand Act Hub | 10 |
-| Act Hub | 40 |
-| Subact Hub | 160 |
-| GA Current-State Spine | 10 |
-| Domain-State Hub | 11 |
+| Grand Act Hub | {gas} |
+| Act Hub | {acts} |
+| Subact Hub | {subacts} |
+| GA Current-State Spine | {gas} |
+| Domain-State Hub | {domains} |
 
 ## 5. 노드 규칙
 
@@ -607,9 +618,18 @@ def build(produced: dict) -> None:
             build_act_hub(g, a, produced)
             for s in a.subacts:
                 build_subact_hub(g, a, s, chain, produced)
+    gas = len(series)
+    acts = sum(len(g.acts) for g in series)
+    subacts = len(chain)
     write(GRAPH / "README.md",
           README.format(reviewed=LAST_REVIEWED, banner=BANNER,
-                        ending=S.ENDING_AMENDMENT_STEM).rstrip().split("\n"),
+                        ending=S.ENDING_AMENDMENT_STEM,
+                        gas=gas, acts=acts, subacts=subacts,
+                        domains=len(DOMAIN_HUBS),
+                        total=2 + gas + acts + subacts + gas + len(DOMAIN_HUBS),
+                        first="GA%02d %s" % (series[0].ga, chain[0].subact_id),
+                        last="GA%02d %s" % (series[-1].ga, chain[-1].subact_id),
+                        ).rstrip().split("\n"),
           produced)
 
 
