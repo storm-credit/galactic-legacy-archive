@@ -9,7 +9,7 @@
 
 정본 목록은 [[HOME]]에서 갈라집니다.
 
-## 00_project (150)
+## 00_project (151)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
@@ -60,6 +60,7 @@
 | [[ga1-e004-context-pack-refresh-v1|ga1-e004-context-pack-refresh-v1]] | GA1 E004 Context Pack Refresh v1 | REVIEW |
 | [[ga1-e005-context-pack-refresh-v1|ga1-e005-context-pack-refresh-v1]] | GA1 E005 Context Pack Refresh v1 | REVIEW |
 | [[ga1-e006-e010-context-pack-deep-v1|ga1-e006-e010-context-pack-deep-v1]] | GA1 E006–E010 Deep Context Pack v1 | REVIEW |
+| [[ga1-e011-e020-context-pack-deep-v1|ga1-e011-e020-context-pack-deep-v1]] | GA1 E011-E020 Deep Context Pack v1 | REVIEW |
 | [[ga1-e1-5-first-draft-status-2026-08-03|ga1-e1-5-first-draft-status-2026-08-03]] | GA1 Episodes 1–5 First-Draft Status | CANON PROJECT CONTROL |
 | [[ga1-e21-45-continuity-change-record|ga1-e21-45-continuity-change-record]] | GA1 Episodes 21–45 Continuity Change Record | CANON PROJECT CONTROL |
 | [[ga1-e21-45-scene-card-status-2026-08-03|ga1-e21-45-scene-card-status-2026-08-03]] | GA1 Episodes 21–45 Scene-Card Status | CANON PROJECT CONTROL |

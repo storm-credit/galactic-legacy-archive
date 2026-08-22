@@ -30,6 +30,7 @@ Last Reviewed: 2026-08-22
 
 - Context Pack: [[ga1-e011-e100-context-packs-v1#E016 — 07호가 걷는다|ga1-e011-e100-context-packs-v1 → E16]]
 - Writer Activation: [[ga1-e011-e100-writer-activation-v1#E016 — 07호가 걷는다|ga1-e011-e100-writer-activation-v1 → E16]]
+- **심화 Context (우선)**: [[ga1-e011-e020-context-pack-deep-v1]] — 이 구간은 생성 팩보다 이 팩이 실행 정본이다
 - 회차 작업지시서: [[episode-briefs]]
 - Context 규격: [[context-pack-tangible-reader-memory-execution-spec-proposal-v1]]
 - 원고 워크플로: [[manuscript-production-workflow-v1]]

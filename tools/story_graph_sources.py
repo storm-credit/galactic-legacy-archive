@@ -99,6 +99,23 @@ MANUAL_CONTEXT_STEM = "ga1-e001-e010-context-pack-status-index-v1"
 MANUAL_ACTIVATION_STEM = "full-series-context-writer-activation-manifest-v1"
 GENERATED_CONTEXT_FLOOR = 11
 
+# Episode ranges that have since been deepened past the generated layer. The
+# generated entries stay as the machine floor and as coverage evidence; the deep
+# pack is what a writer should actually open, so the hub has to say so. Without
+# this the graph keeps pointing at the shallower file and the deep pass is
+# invisible at the moment of use.
+DEEP_CONTEXT_OVERRIDES = [
+    (11, 20, "ga1-e011-e020-context-pack-deep-v1"),
+]
+
+
+def deep_override(start: int, end: int) -> str:
+    """Stem of the deep pack covering this episode range, or empty."""
+    for lo, hi, stem in DEEP_CONTEXT_OVERRIDES:
+        if lo <= start and end <= hi:
+            return stem
+    return ""
+
 CONTEXT_MANIFEST_STEM = "full-series-context-pack-generated-manifest-v1"
 ACTIVATION_MANIFEST_STEM = "full-series-context-writer-activation-manifest-v1"
 DESIRE_MANIFEST_STEM = "full-series-collection-desire-manifest-v1"
@@ -136,6 +153,7 @@ class Subact:
     clset_id: str = ""
     context_anchor: str = ""
     activation_anchor: str = ""
+    deep_context: str = ""
     state_sources: list = field(default_factory=list)
 
     @property
@@ -356,6 +374,13 @@ def load_series() -> list:
                         )
                     sub.context_anchor = context[sub.start]
                     sub.activation_anchor = activation[sub.start]
+
+                sub.deep_context = deep_override(sub.start, sub.end)
+                if sub.deep_context and not (DOCS / "00_project" /
+                                             ("%s.md" % sub.deep_context)).exists():
+                    raise SourceError(
+                        "GA%d %s: deep Context override %s does not exist"
+                        % (ga, sub.subact_id, sub.deep_context))
 
                 sub.state_sources = overlapping(docs, ga, sub.start, sub.end)
 
