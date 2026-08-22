@@ -164,7 +164,7 @@
 | [[specialist-routing-index|specialist-routing-index]] | Specialist Routing Index | CANON |
 | [[workflow|workflow]] | End-to-End Workflow & Harness | CANON |
 
-## 99_quality_control (150)
+## 99_quality_control (151)
 
 | 문서 | 제목 | 상태 |
 |---|---|---|
@@ -300,6 +300,7 @@
 | [[pr137-actmap-compliance-notes-2026-08-18|pr137-actmap-compliance-notes-2026-08-18]] | PR #137 검토 노트 | REVIEW NOTE |
 | [[pre-writing-readiness-audit-v1|pre-writing-readiness-audit-v1]] | Pre-Writing Readiness Audit v1 | REVIEW |
 | [[prewriting-execution-redteam-v2-audit|prewriting-execution-redteam-v2-audit]] | Pre-Writing Execution Red-Team v2 Audit | PASS-WITH-WATCH |
+| [[prewriting-execution-redteam-v2-final-verdict-2026-08-22|prewriting-execution-redteam-v2-final-verdict-2026-08-22]] | Pre-Writing Execution Red-Team v2 | CANONICAL QC RECORD |
 | [[prewriting-gate|prewriting-gate]] | Pre-Writing Gate | CANON |
 | [[prewriting-gate-dry-audit-2026-08-03|prewriting-gate-dry-audit-2026-08-03]] | Pre-Writing Gate Dry Audit | REVIEW COMPLETE |
 | [[prewriting-gate-evidence-matrix-v2|prewriting-gate-evidence-matrix-v2]] | Pre-Writing Gate Evidence Matrix v2 | REVIEW |

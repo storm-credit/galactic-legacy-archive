@@ -7,7 +7,7 @@
 게이트 §12는 미결정과 가정이 숨겨져 있지 않을 것을 요구한다. 숨겨져 있지는 않았고,
 한자리에 모여 있지 않았을 뿐이다. 이 목록이 그 자리다.
 
-`Open Risks`를 가진 문서 **402개** · `[ASSUMPTION]` 표기를 가진 문서 **16개**
+`Open Risks`를 가진 문서 **403개** · `[ASSUMPTION]` 표기를 가진 문서 **16개**
 
 ## 명시적 가정 `[ASSUMPTION]`
 
@@ -476,7 +476,7 @@
 | [[revision-harness]] | Overediting, voice flattening, late structural changes |
 | [[storycraft-bible]] | Formulaic scenes, over-engineering, emotional flattening |
 
-### 99_quality_control — 72건
+### 99_quality_control — 73건
 
 | 문서 | 열린 위험 |
 |---|---|
@@ -541,6 +541,7 @@
 | [[pr136-actmap-compliance-notes-2026-08-18]] | 이 노트의 근거 원고는 폐기된 병렬 개정본이다 — 발견만 취하고 문장은 가져오지 않는다 |
 | [[pr137-actmap-compliance-notes-2026-08-18]] | §3의 액트맵–카드 불일치는 이 노트가 판정할 수 없다 — 연속성 판정 필요 |
 | [[pre-writing-readiness-audit-v1]] | 본 감사는 AI 감사이며 인간 독자 검증(issue #26)을 대체하지 않는다. |
+| [[prewriting-execution-redteam-v2-final-verdict-2026-08-22]] | issue #26 human/mobile validation remains a hard pre-publication blocker |
 | [[prewriting-gate-dry-audit-2026-08-03]] | human/mobile evidence absent; dry audit cannot authorize canonical manuscript |
 | [[prewriting-gate-proxy-signoff-2026-08-03]] | human/mobile market response remains untested |
 | [[prewriting-gate-scorecard-2026-08-13]] | §3 Project & Market 미완이 BLOCKER 2건을 막고 있음 |

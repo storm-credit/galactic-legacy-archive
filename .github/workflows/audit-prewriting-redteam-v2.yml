@@ -1,27 +1,6 @@
 name: Audit pre-writing execution red-team v2
 
 on:
-  push:
-    branches:
-      - 'qc/prewriting-execution-redteam-v2'
-    paths:
-      - 'tools/audit_prewriting_redteam_v2.py'
-      - 'tools/run_prewriting_redteam_v2_strict.py'
-      - 'tools/audit_relationship_activation_source_labels.py'
-      - 'tools/relationship_secondary_label_reconciliation.py'
-      - 'tools/audit_relationship_cadence_semantics.py'
-      - 'tools/decision_owner_role_reconciliation.py'
-      - 'tools/audit_decision_owner_role_reconciliation.py'
-      - 'tools/audit_long_window_engine_differentiation.py'
-      - 'tools/audit_collection_active_pursuit_reconciliation.py'
-      - 'tools/collection_active_pursuit_reconciliation.py'
-      - 'tools/run_full_series_context_writer_activation*.py'
-      - 'tools/run_full_series_collection_reader_desires*.py'
-      - 'tools/finalize_full_series_collection_desire_semantic_sets.py'
-      - 'docs/09_collection/**'
-      - 'docs/10_story_architecture/**'
-      - 'docs/13_writing_harness/context_packs/activation/**'
-      - '.github/workflows/audit-prewriting-redteam-v2.yml'
   pull_request:
     branches:
       - main
@@ -46,7 +25,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   redteam-v2:
@@ -128,16 +107,3 @@ jobs:
           sed -n '1,220p' docs/99_quality_control/long-window-narrative-engine-differentiation-redteam-v1.md
           sed -n '1,120p' docs/99_quality_control/relationship-activation-source-label-audit-v1.md
 
-      - name: Persist audit reports and regenerated indexes on branch push
-        if: github.event_name == 'push'
-        run: |
-          TARGETS='docs/99_quality_control/prewriting-execution-redteam-v2-audit.md docs/99_quality_control/relationship-activation-source-label-audit-v1.md docs/99_quality_control/collection-active-pursuit-crosslayer-redteam-v1.md docs/99_quality_control/decision-owner-role-reconciliation-redteam-v1.md docs/99_quality_control/relationship-cadence-semantic-redteam-v1.md docs/99_quality_control/long-window-narrative-engine-differentiation-redteam-v1.md docs/HOME.md docs/_index/index-story.md docs/_index/index-characters.md docs/_index/index-frames.md docs/_index/index-collection.md docs/_index/index-world.md docs/_index/index-craft.md docs/_index/index-project.md docs/_index/open-questions.md docs/_index/episode-briefs.md docs/_index/promotion-review.md'
-          if git diff --quiet -- $TARGETS; then
-            echo 'audit reports and generated governance indexes already current'
-            exit 0
-          fi
-          git config user.name 'galactic-legacy-qc-bot'
-          git config user.email 'actions@users.noreply.github.com'
-          git add -- $TARGETS
-          git commit -m 'QC: persist v2 audits and refresh generated governance indexes'
-          git push origin HEAD:qc/prewriting-execution-redteam-v2
