@@ -6,140 +6,369 @@ Last Reviewed: 2026-08-19
 Depends On: [[specialist-routing-index]], [[orchestra]], [[specialist-roster]], [[agent-orchestra-registry-v1]], [[orchestra-v2-activation-rules]], [[agent-execution-contract-and-veto-policy-v1]], [[CLAUDE]]
 Used By: 세션 착수 시 역할 라우팅, 신규 에이전트·스킬 추가 판단
 Publication: NOT AUTHORIZED
-Open Risks: 밴드 계층은 탐색 보조이며 정본 권한을 바꾸지 않는다 — 거부권과 게이트는 [[agent-execution-contract-and-veto-policy-v1]]가 그대로 보유한다
+Open Risks: 이 문서는 탐색·작업방법만 제어한다. Canon/Spec/Freeze, 거부권, 게이트, C1–C11은 기존 프로젝트 문서가 계속 보유한다.
 
-## 1. 이 문서가 하는 일과 하지 않는 일
+---
 
-`storm-credit/minimum-action-agent-os`를 **작업 방법론으로만** 적용한 결과를 기록한다.
+## 1. 범위와 정본 경계
 
-**하지 않는 것**: 정본·스펙·원고·도구·연구설계 변경, 에이전트 삭제·축소, 등록부 구조 개편. [[agent-orchestra-registry-v1]]은 `CANON — FIXED SPECIALIST ROLE REGISTRY`이며 이 문서가 건드리지 않는다.
+`storm-credit/minimum-action-agent-os`를 **작업 방법론으로만** 적용한다.
 
-**하는 것**: reasoning node별 Local Action Space 실측과, 5를 넘는 곳에 밴드 색인을 얹는 것.
+변경하지 않는 것:
+- Canon / Spec / Freeze;
+- 원고;
+- 프로젝트 코드·연구설계;
+- 고정 전문역할 명부;
+- 기존 하네스와 C1–C11 검증기;
+- 거부권과 정본 승격 권한.
 
-## 2. 감사 결과
+변경 가능한 것은 오직 **reasoning node가 한 번에 직접 선택하는 행동의 노출 방식**이다.
 
-기준: 한 reasoning node에서 **직접 선택 가능한** 행동 수 `<= 5`. 전체 에이전트 수에는 제한이 없다.
+프로젝트 정본 우선순위:
+1. 작가의 현재 명시 지시;
+2. 이 저장소의 Canon / Spec / Freeze / current status / decision records;
+3. Minimum Action Agent OS 작업방법.
 
-| # | 노드 | 직접 선택지 | 수 | 판정 |
-|---|---|---|---:|---|
-| A | 메인 세션 (프로젝트 선언분) | `.claude/` 부재 → 프로젝트 에이전트·스킬·MCP **0개**. `tools/` 15개 스크립트는 전부 Bash 하나 뒤에 있다 | 1 | **PASS** |
-| **B** | **A00 산출물 라우팅 — [[specialist-routing-index]]** | **산출물 유형 29행 중 택1. `Status: CANON` · `Used By: All project work`로 이 저장소의 실제 1차 라우팅면이다** | **29** | **REVIEW** → §3에서 처리 |
-| B' | A00 역할 라우팅 (등록부 활성화 규칙) | 산출물 유형 10행 중 택1 | 10 | **REVIEW** → §3에서 처리 |
-| C | A00 패널 탐색 (등록부 8패널) | 8개 패널 | 8 | **REVIEW** → §3에서 처리 |
-| D | 패널 내부 전문가 선택 | 패널당 6–10 | 6–10 | **PASS (근거 §4)** |
-| E | 고정 실행 순서 (등록부 §10) | 10단계 — 선택이 아니라 순서 | — | **PASS** |
-| F | 수집 오케스트라 (C1–C8) | 8개 — 선택이 아니라 범위 전체 팬아웃 | — | **PASS (근거 §4)** |
-| G | 기체 디자인 오케스트라 (M01–M08) | 8개 — 동일 | — | **PASS (근거 §4)** |
-| H | 라우팅표 행별 검토자 수 (6–8명이 대부분, `게임 참고 분석`은 `G01~G09, R07, O04`, `완성 회차 검토`는 `Q01~Q06 + 해당 분야 전문가`로 더 넓다) | 「주 담당과 필수 검토자를 **호출한다**」 — 폭과 무관하게 전원 호출 팬아웃이지 택1이 아니다 | — | **PASS (근거 §4)** |
-| I | 기본 거부권 분야 8종 (활성화 규칙) | 해당 분야를 건드리면 자동 발동하는 트리거 조건 — 선택이 아니다 | — | **PASS** |
-| J | 레거시 라우팅 — [[orchestra]] §4 Required Review Matrix | 산출물 10행 중 택1. `Status: CANON` · `Used By: All project phases`로 여전히 유효하다 | 10 | **REVIEW** → §3.4에서 처리 |
-| K | [[specialist-roster]] 11개 부서 | 자체 라우팅표가 없다 — 정의 문서이며 진입은 [[specialist-routing-index]]를 거친다. 등록부 패널과 같은 부류 | — | **PASS** |
+OS가 도메인 내용을 덮어쓰는 것은 금지한다.
 
-**핵심 판정**: 라우팅 문서들은 action space가 아니라 **routing table**이다. 등록부 §10이 실행 순서를 고정하고 §11이 전문가 집합을 결정하며, [[specialist-routing-index]]의 검토자 수도 택1이 아니라 전원 호출이다. **모델이 실제로 자유 선택하는 지점은 「이 산출물이 어느 유형인가」 하나뿐이고, 그 선택지가 29개다.**
+---
 
-> **정정 이력**: 이 감사의 1차 판정은 등록부(10행)만 보고 B를 처리했다. 독립 Critic(§8)이 [[specialist-routing-index]]가 `Used By: All project work`인 채로 29행을 들고 있다는 것을 잡았다. 이 저장소가 반복해 온 실패 — **찾은 문서로 판단하고 지배하는 문서로 판단하지 않는 것** — 이 감사 자체에서 재현됐다. 2차 검토에서는 레거시 라우팅면 두 곳([[orchestra]] §4, [[specialist-roster]])이 추가로 지적돼 J·K로 분류하고 §3.4에 배정했다. **라우팅면이 네 곳에 겹쳐 있다는 것 자체가 이 저장소의 구조적 부채이며**, 이 감사는 그것을 정리하지 않고 진입점만 하나로 모은다 — 정리는 정본 변경이라 작가 결정 영역이다.
+## 2. 감사 입력 복구
 
-## 3. 채택 수정 — 밴드 색인 하나
+이번 감사는 다음 현재 구조를 기준으로 한다.
 
-B·B'·C가 같은 원인이다. 최소 수정은 **[[specialist-routing-index]] 29행 · 등록부 활성화 10행 · 등록부 8패널을 같은 5개 밴드로 묶는 색인**이며, 적용 원칙 6의 순서 중 `Router 계층화`에 해당한다. 정본 표의 행·주 담당·검토자·권한은 하나도 바꾸지 않는다 — 진입점만 얹는다.
+- root `CLAUDE.md`;
+- repository root와 `.claude/` 존재 여부;
+- [[agent-orchestra-registry-v1]] — 고정 전문역할 61개;
+- [[specialist-routing-index]] — 전 프로젝트 작업에 쓰이는 29행 상세 라우팅면;
+- [[orchestra]] §4 — 레거시 10행 라우팅면;
+- [[specialist-roster]] — 부서/역할 정의;
+- [[orchestra-v2-activation-rules]];
+- [[agent-execution-contract-and-veto-policy-v1]];
+- 프로젝트 Canon / Freeze / gate / current-status / [[decision-log]] 계층;
+- `CLAUDE.md` §6·§13·§15의 Harness / 독립감사 / C1–C11;
+- `tools/` 검증 스크립트와 `validate_canon.py`;
+- `storm-credit/minimum-action-agent-os`의 `AGENT_OS_SPEC.md`, `rules/local-action-space.md`, `adapters/claude-code.md`.
 
-### 3.1 밴드별 산출물 (29행 전수 배정)
+`.claude/`에 프로젝트 전용 Agent/Skill/MCP를 vendoring하지 않는다. 공통 OS는 user-scope plugin으로 사용한다.
 
-| 밴드 | [[specialist-routing-index]] 산출물 행 | 행 수 |
+---
+
+## 3. 계산 규칙
+
+한 reasoning node에서 모델이 **peer choice로 직접 선택할 수 있는 것**만 센다.
+
+포함:
+- Agent;
+- Tool;
+- Skill;
+- MCP action;
+- 기타 callable / router branch.
+
+제외:
+- 이미 선택된 라우팅 행이 자동으로 호출하는 필수 검토자 fan-out;
+- 정해진 순서대로 전부 수행하는 단계;
+- 내부 구현 세부;
+- 현재 단계에서 아직 노출되지 않는 phase-gated action.
+
+기본 목표:
+
+> **Local Action Space <= 5**
+
+5를 넘으면 순서대로 검토한다.
+1. 불필요 Tool/action 제거;
+2. 하나의 Skill/workflow로 묶기;
+3. 역할/책임 분리;
+4. Router 계층화;
+5. 그래도 필요할 때만 예외와 tradeoff 기록.
+
+전체 Agent 수는 제한하지 않는다.
+
+---
+
+## 4. Local Action Space Audit — 엄격 재감사
+
+### 4.1 주요 reasoning node
+
+| Node | 직접 보이는 Agent | 직접 보이는 Tool | 직접 보이는 Skill | MCP | 기타 callable | 총 선택지 | 판정 |
+|---|---:|---:|---:|---:|---:|---:|---|
+| P0 착수 전 OS preflight | 0 | 0 | 1 (`os-preflight`) | 0 | 0 | **1** | **PASS** |
+| R0 도메인 최상위 라우터 | 0 | 0 | 0 | 0 | 5개 밴드 | **5** | **PASS** |
+| R1 B1 세계 규칙 | 0 | 0 | 0 | 0 | 4개 산출물 행 | **4** | **PASS** |
+| R2 B2 사회·제도 | 0 | 0 | 0 | 0 | 2개 하위 라우터 | **2** | **PASS** |
+| R2a 권력·세력 | 0 | 0 | 0 | 0 | 4개 산출물 행 | **4** | **PASS** |
+| R2b 제도·편제 | 0 | 0 | 0 | 0 | 2개 산출물 행 | **2** | **PASS** |
+| R3 B3 인물·서사 | 0 | 0 | 0 | 0 | 2개 하위 라우터 | **2** | **PASS** |
+| R3a 구조·회수 | 0 | 0 | 0 | 0 | 5개 산출물 행 | **5** | **PASS** |
+| R3b 인물 장면 | 0 | 0 | 0 | 0 | 3개 산출물 행 | **3** | **PASS** |
+| R4 B4 물성·작전 | 0 | 0 | 0 | 0 | 2개 하위 라우터 | **2** | **PASS** |
+| R4a 전투 실행 | 0 | 0 | 0 | 0 | 3개 산출물 행 | **3** | **PASS** |
+| R4b 하드웨어 설계 | 0 | 0 | 0 | 0 | 3개 산출물 행 | **3** | **PASS** |
+| R5 B5 수집·감사 | 0 | 0 | 0 | 0 | 5개 산출물 행 | **5** | **PASS** |
+| E0 독립 평가 단계 | 1 (`independent-critic`) | 0 | 0 | 0 | 0 | **1** | **PASS** |
+| S0 상태 변경 후 | 0 | 0 | 1 (`os-state`) | 0 | 0 | **1** | **PASS** |
+
+### 4.2 자동 fan-out / 고정순서 노드
+
+아래는 숫자가 많아 보여도 `N택1`이 아니라 **선택 후 자동 활성화되거나 전부 실행되는 집합**이다.
+
+| Node | 직접 선택 가능한 Agent | Tool | Skill | 기타 callable | 직접 선택 합계 | 판정 |
+|---|---:|---:|---:|---:|---:|---|
+| 등록부 활성화 규칙의 필수 전문가 집합 | 0 | 0 | 0 | 자동 fan-out | 0 | **PASS** |
+| 패널 내부 6–10 전문가 | 0 | 0 | 0 | 라우팅 행이 이미 결정 | 0 | **PASS** |
+| 등록부 §10 고정 실행 10단계 | 0 | 0 | 0 | 고정 순서 | 0 | **PASS** |
+| 수집 오케스트라 C1–C8 | 0 | 0 | 0 | 전 범위 fan-out | 0 | **PASS** |
+| 기체 디자인 오케스트라 M01–M08 | 0 | 0 | 0 | 전 범위 fan-out | 0 | **PASS** |
+| 행별 필수 검토자 6–11+ | 0 | 0 | 0 | 전원 호출 | 0 | **PASS** |
+| 기본 거부권 8분야 | 0 | 0 | 0 | 조건 충족 시 자동 발동 | 0 | **PASS** |
+
+규칙:
+- 위 집합을 수동 `택1` 메뉴로 다시 노출하면 즉시 REVIEW로 되돌린다.
+- 팬아웃 수 자체는 Local Action Space가 아니다.
+
+### 4.3 Host runtime built-ins
+
+Claude Code 자체의 Read/Edit/Bash 등 **호스트 내장 Tool 전체 개수는 이 저장소가 선언하거나 제한할 수 없다.** 따라서 저장소 수준 감사와 런타임 수준 감사를 분리한다.
+
+- repository-declared / plugin-declared routing: 이 문서가 관리;
+- host-runtime built-ins: 실제 실행 세션의 `os-preflight`에서 필요 도구만 사용하도록 최소화.
+
+호스트가 필요 이상으로 많은 Tool을 동시에 peer choice로 노출하는 환경이라면 그 세션은 별도 `REVIEW` 대상이다. 저장소가 보지 못한 runtime action을 0개라고 주장하지 않는다.
+
+---
+
+## 5. 채택 라우터 — 29개 상세 행을 모두 <=5로 노출
+
+### 5.1 최상위 5개 밴드
+
+| 밴드 | 범위 | 다음 선택 수 |
 |---|---|---:|
-| **B1 세계 규칙** | 회귀 규칙 · 원래 시간선 · 경제·산업 설정 · 작품 핵심 콘셉트 | 4 |
-| **B2 사회·제도** | 세력 설정 · 적대세력 전략 · 제3세력 · 정치 사건 · 교도군사학교 · 군 계급·편제 | 6 |
-| **B3 인물·서사** | 1000화 구조 · 대액트·액트 · 회차·장면 카드 · 복선·맥거핀 · 결말 · 영입 에피소드 · 정치 대화 · 감정 장면 | 8 |
-| **B4 물성·작전** | 함대전 · 기체전 · 전용기 설계 · 함선 설계 · 무기·센서 · 전투 원고 | 6 |
-| **B5 수집·감사** | 영웅 도감 · 희귀도·성장 · 팀 조합 · 게임 참고 분석 · 완성 회차 검토 | 5 |
-| | **합계** | **29** |
+| **B1 세계 규칙** | 회귀·시간선·경제산업·핵심 콘셉트 | 4 |
+| **B2 사회·제도** | 세력·정치·학교·군 편제 | 2개 하위 라우터 |
+| **B3 인물·서사** | 구조·장면·복선·결말·인물 장면 | 2개 하위 라우터 |
+| **B4 물성·작전** | 함대/기체전·전용기/함선/무기·전투원고 | 2개 하위 라우터 |
+| **B5 수집·감사** | 도감·성장·팀·참고분석·완성회차 감사 | 5 |
 
-배정 규칙: 행이 무엇을 **주로 구속하는가**로 나눴다. `작품 핵심 콘셉트`는 세계 규칙을 정하므로 B1, `전투 원고`는 원고이지만 전투 기하가 지배하므로 B4, `완성 회차 검토`는 감사이므로 B5다. 중복·누락 0.
+### 5.2 B1 — 세계 규칙
 
-### 3.2 밴드별 등록부 대응
+직접 4택1:
+1. 회귀 규칙;
+2. 원래 시간선;
+3. 경제·산업 설정;
+4. 작품 핵심 콘셉트.
 
-| 밴드 | 등록부 활성화 행 | 등록부 패널 |
-|---|---|---|
-| **B1 세계 규칙** | world physics/route · economy | 6. Science, Infrastructure and Technology |
-| **B2 사회·제도** | law/institution · culture/family | 5. Politics, Law, Society and Culture |
-| **B3 인물·서사** | character/faction · act architecture | 3. Narrative Architecture · 4. Character and Human-Experience |
-| **B4 물성·작전** | mecha/ship · military campaign | 7. Hardware and Maintenance · 8. Military and Security |
-| **B5 수집·감사** | collection · final audit | 9. Collection and Progression · 2. Governance and Canon |
+### 5.3 B2 — 사회·제도
 
-### 3.4 레거시 라우팅면 대응 ([[orchestra]] §4)
+첫 단계 2택1.
 
-`orchestra.md`는 18 부서장 체계의 v1 라우팅표를 아직 `CANON`으로 들고 있다. [[specialist-routing-index]]가 같은 기능을 29행으로 더 세분해 수행하지만 **v1을 폐기하지 않았으므로 밴드에 함께 배정한다.** 두 표가 충돌하면 더 구체적인 29행 표가 이긴다 — CLAUDE.md §26의 정본 순서를 따른다.
+**B2a 권력·세력 — 4택1**
+- 세력 설정;
+- 적대세력 전략;
+- 제3세력;
+- 정치 사건.
 
-| 밴드 | [[orchestra]] §4 산출물 행 |
-|---|---|
-| **B1 세계 규칙** | 핵심 콘셉트 · 세계관 규칙 |
-| **B2 사회·제도** | 정치·경제 |
-| **B3 인물·서사** | 인물 설정 · 장기 플롯 · 복선 장부 · 집필 하네스 |
-| **B4 물성·작전** | 기체·함선 |
-| **B5 수집·감사** | 수집 시스템 · 완성 원고 |
+**B2b 제도·편제 — 2택1**
+- 교도군사학교;
+- 군 계급·편제.
 
-10행 전수 배정, 중복·누락 0.
+### 5.4 B3 — 인물·서사
 
-### 3.3 사용법
+첫 단계 2택1.
 
-1. 산출물을 보고 **밴드 하나** (5택1)
-2. 밴드 안에서 **산출물 행 하나** (최대 8택1 — B3)
-3. 그 행이 지정한 주 담당·필수 검토자를 **전원 호출** (선택 아님, 팬아웃)
+**B3a 구조·회수 — 5택1**
+- 1000화 구조;
+- 대액트·액트;
+- 회차·장면 카드;
+- 복선·맥거핀;
+- 결말.
 
-1단계가 5 이하다. 2단계는 밴드당 4~8이며 B3만 8이다 — 이는 §4에 트레이드오프로 기록한다.
+**B3b 인물 장면 — 3택1**
+- 영입 에피소드;
+- 정치 대화;
+- 감정 장면.
 
-## 4. 5를 넘는데 그대로 두는 것 — 근거와 트레이드오프
+### 5.5 B4 — 물성·작전
 
-OS의 `rules/local-action-space.md`는 5를 넘길 경우 **이유와 트레이드오프를 기록**하라고 요구한다.
+첫 단계 2택1.
 
-**D — 패널 내부 6–10**: 자유 선택이 아니다. 활성화 규칙이 산출물 유형별로 필요한 전문가 집합을 이미 지정하므로 A00은 패널을 훑지 않고 지정된 집합을 받는다. 이를 5 이하로 쪼개려면 등록부 패널을 재편해야 하고, 그것은 CANON 변경이라 적용 원칙 1·9에 걸린다. **트레이드오프**: 활성화 규칙을 읽지 않고 패널만 보고 고르는 세션에서는 선택지가 6–10으로 노출된다. 완화책은 §3의 밴드 색인을 진입점으로 쓰는 것이다.
+**B4a 전투 실행 — 3택1**
+- 함대전;
+- 기체전;
+- 전투 원고.
 
-**B3 밴드 내부 8행**: 5를 넘는다. 더 쪼개면 밴드가 6개가 되어 1단계가 5를 넘고, 그쪽이 더 나쁘다 — 진입점이 매번 쓰이는 자리이기 때문이다. **트레이드오프**: 서사 작업에서 2단계 선택지가 8이다. 완화 근거는 이 8행이 서로 명확히 다른 산출물(구조·액트·장면카드·복선·결말·영입·대화·감정)이라 혼동 비용이 낮다는 것이다. 밴드를 6개로 늘리는 대안은 재검토 대상으로 남긴다.
+**B4b 하드웨어 설계 — 3택1**
+- 전용기 설계;
+- 함선 설계;
+- 무기·센서.
 
-**F·G — 오케스트라 8개**: 이것은 action space 문제가 아니다. OS는 *"peer choices the model can directly select from"*을 세라고 하는데, 두 오케스트라는 **범위 전체를 동시에 스폰하는 팬아웃**이지 8택1이 아니다. 게다가 독립성 자체가 산출물의 요건이다 — CLAUDE.md §15-3은 분야 패스가 서로의 결론을 보기 전에 독립 진단할 것을 요구하고, 라우터를 끼우면 그 속성이 깨진다. **트레이드오프**: 동시 실행 비용이 크다. 이미 CLAUDE.md §15-4가 동시 실행 한도로 통제한다.
+### 5.6 B5 — 수집·감사
 
-## 5. 이미 있어서 새로 만들지 않은 것
+직접 5택1:
+- 영웅 도감;
+- 희귀도·성장;
+- 팀 조합;
+- 게임 참고 분석;
+- 완성 회차 검토.
 
-OS 표준 워크플로 9단계 중 8단계가 이 저장소에 선행 존재한다. 적용 원칙대로 **보존하고 중복 생성하지 않았다.**
+29행 전수 배정, 중복 0, 누락 0.
 
-| OS 단계 | 이 저장소의 기존 근거 |
-|---|---|
-| 의도·결측 확인 | CLAUDE.md §3, §9-4 작가 인터뷰 |
-| 맹점 훑기 | §3, §9-1 |
-| 착수 전 함정 체크 | §9-2 |
-| 4안 비교 | §9-3, Phase 2 |
-| 본보기·레퍼런스 | §9-5, §2-4, [[prose-style-reference-shortlist-v1]] |
-| 실행 | Phase 0–10 |
-| 독립 평가 | §6 하네스 순서, §15-3 독립 감사, [[registry-redteam-2026-08-13]] |
-| 하네스·수용 검사 | §13 자동 검증 C1–C11, `tools/validate_canon.py` |
-| 상태·정본 갱신 | §2-10 [[decision-log]], §21 main 통합 |
+---
 
-메타 프롬프팅과 계획 이탈 기록도 §3·§9-6에 이미 있다. **신규 생성 0건.**
+## 6. 다른 기존 라우팅면과의 관계
 
-## 6. 안티패턴 점검
+이 저장소에는 역사적으로 여러 라우팅 문서가 겹친다.
 
-| 패턴 | 현 상태 |
-|---|---|
-| God Agent | 해당 없음 — 61역할이 분야별로 분리돼 있고 거부권이 분산 |
-| Tool Swamp | 해당 없음 — `.claude/` 부재, 도구가 Bash 하나 뒤 |
-| Agent Explosion | **경계 대상.** 61역할은 문서상 역할이며 자율 프로세스가 아니라고 등록부 §1이 명시. 실제 독립 실행은 증거가 있을 때만 주장 (§15-1) |
-| Mega CLAUDE.md | **경계 대상.** CLAUDE.md가 25절이다. 이번 적용은 §26 한 절만 추가하고 OS 본문을 복사하지 않았다 |
-| Groupthink Critic | 완화됨 — 독립 오케스트라를 별도 모델(Codex)로 실행한 기록이 [[registry-redteam-2026-08-13]] §5·§7에 있다 |
-| Unrecorded plan drift | 해당 없음 — §9-6 |
+- [[specialist-routing-index]] — 가장 구체적인 29행;
+- [[agent-orchestra-registry-v1]] 활성화 규칙 / 패널;
+- [[orchestra]] §4 레거시 10행;
+- [[specialist-roster]] 역할 정의.
 
-## 7. 플러그인 설치 — 완료 (2026-08-19)
+이 문서는 이 정본 문서들을 삭제·폐기·재작성하지 않는다.
 
-**설치됨**: `minimum-action-agent-os@storm-credit-agent-os` v0.1.1, user 스코프, enabled. 마켓플레이스는 이미 등록돼 있었고 플러그인만 설치했다.
+세션에서는 **§5의 bounded router 하나만 선택면으로 사용**하고, 나머지는 선택된 행의 담당·필수검토·권한을 조회하는 lookup source로 사용한다.
 
-검증: `claude plugin validate` 통과(경고 1건 — 마켓플레이스 description 없음, 비차단). 캐시 `0.1.1`에 자산 확인 — 스킬 `os-preflight`·`os-state`, 에이전트 `independent-critic`, 규칙 3종. 구버전 `0.1.0`은 orphaned 표시.
+즉 네 개 문서를 동시에 `peer choice`로 노출하지 않는다.
 
-설치에 쓴 명령:
+충돌 시:
+- 상세 산출물 매핑은 [[specialist-routing-index]] 우선;
+- Canon/거부권/게이트는 각 상위 정본 프로젝트 제어 문서 우선;
+- 이 OS 감사문서는 정본 권한을 바꾸지 않는다.
 
-```bash
-claude plugin marketplace add storm-credit/minimum-action-agent-os
-claude plugin install minimum-action-agent-os@storm-credit-agent-os
+중복 라우팅 문서 자체는 구조적 부채지만, 이를 통합/폐기하는 것은 프로젝트 정본 구조 변경이므로 이번 적용 범위가 아니다.
+
+---
+
+## 7. OS plugin actions — phase gating
+
+설치 상태:
+- `minimum-action-agent-os@storm-credit-agent-os` v0.1.1;
+- user scope;
+- enabled;
+- skills: `os-preflight`, `os-state`;
+- agent: `independent-critic`;
+- OS rule files은 plugin 쪽에 유지.
+
+세 호출을 도메인 5-band와 동시에 같은 peer menu로 취급하지 않는다.
+
+```text
+P0 착수 전      -> os-preflight (필요한 비단순 작업에서만)
+R0~R5 작업      -> bounded domain router
+E0 독립 평가    -> independent-critic (material review가 필요할 때)
+S0 상태 변경 후 -> os-state
 ```
 
-**에이전트를 이 저장소에 복제하지 않는다** — 어댑터가 플러그인 배포를 권고하고, 복제는 중복 생성이다. 이 저장소의 `.claude/`는 계속 비어 있으며, 그래서 노드 A의 프로젝트 선언 action space는 여전히 0이다.
+이 phase gating을 깨고 `3 OS actions + 5 domain bands`를 한 노드에 동시에 노출하면 8개가 되므로 REVIEW다.
 
-**적용 순서 주의**: OS 스킬은 §6 하네스와 §13 검증기를 대체하지 않는다. 정본 판정·게이트·C1–C11은 이 저장소가 계속 갖는다.
+OS skill/agent는 기존 §6 Harness, §13 C1–C11, §15 독립 감사의 **보완재**다. 대체재가 아니다.
+
+---
+
+## 8. 기존 규칙 보존 / 중복 생성 0
+
+다음은 이미 프로젝트에 있으므로 새 Agent/Rule/Skill을 만들지 않는다.
+
+| 필요한 작업 원칙 | 기존 근거 |
+|---|---|
+| 사용자 의도·중요 미결정 확인 | CLAUDE.md §3, §9-4 |
+| 맹점 훑기 | §3, §9-1 |
+| 구현/설계 전 함정 체크 | §9-2 |
+| 의미 있는 방향 4안 비교 | §9-3, Phase 2 |
+| 본보기·레퍼런스 조사 | §9-5, §2-4 |
+| 메타 프롬프팅 | 기존 작업규칙/오케스트레이션 |
+| 독립 Critic / Red Team | §6, §15-3, A16, 기존 Red Team 기록 |
+| Harness | §6·§13, `tools/validate_canon.py` 등 |
+| 계획 이탈 기록 | §3, §9-6 |
+| current status / canon update | [[decision-log]], §21 main 통합 |
+
+신규 프로젝트 Agent: **0**
+신규 프로젝트 Skill: **0**
+Agent 제거: **0**
+기존 61역할: **전부 유지**
+
+---
+
+## 9. 안티패턴 / 위험
+
+### PASS
+- God Agent로 통합하지 않음;
+- 전체 Agent를 5개 이하로 축소하지 않음;
+- OS 본문을 CLAUDE.md에 복제하지 않음;
+- Canon/Spec/Freeze/원고를 OS가 덮어쓰지 않음;
+- 기존 Harness를 OS로 교체하지 않음.
+
+### 남은 위험
+
+**RISK-01 — 라우팅 정본 중복**
+- 4개 라우팅/역할 표면이 역사적으로 공존한다.
+- 현재 해결: 하나의 bounded entrypoint만 선택면으로 사용.
+- 장기 통합은 정본 구조 변경이므로 작가 결정 없이는 하지 않는다.
+
+**RISK-02 — runtime built-in tool surface**
+- 저장소만으로 Claude Code host tool 전체를 실측할 수 없다.
+- 현재 해결: 세션별 preflight에서 task-relevant tool만 사용.
+
+**RISK-03 — phase-gating 우회**
+- OS skill/critic/state와 domain band를 한 화면에서 모두 peer action으로 취급하면 다시 >5가 된다.
+- 현재 해결: P/R/E/S 단계별 호출 규칙.
+
+---
+
+## 10. 정정 이력과 Critic 기록
+
+### 기존 PR #186 적용의 독립 Critic
+
+기존 도입 작업은 별도 Codex 독립 검토를 두 차례 받았다.
+
+1. 1차: **FAIL** — `specialist-routing-index` 29행을 놓친 것을 발견.
+2. 수정 후 2차: **PASS WITH ISSUES** — 레거시 라우팅면 추가 확인 및 구조적 부채 기록.
+
+그 결과 PR #186에서 5-band entrypoint와 adoption rule이 들어갔다.
+
+### 2026-08-19 엄격 재감사에서 추가 발견
+
+현재 세션이 사용자 지시의 `각 reasoning node <=5`를 문자 그대로 다시 계산하면서 다음을 발견했다.
+
+- 기존 B2 = 6;
+- 기존 B3 = 8;
+- 기존 B4 = 6;
+- 기존 문서는 B3만 예외로 기록하고 B2/B4를 누락;
+- user-scope OS action과 domain bands도 phase gating 없이 같은 노드에 놓으면 합계가 커질 수 있음.
+
+채택 수정:
+- B2/B3/B4에 각각 **2-way 하위 router**를 추가;
+- 모든 leaf node를 최대 5로 축소;
+- OS plugin actions를 P0/E0/S0 단계로 분리;
+- 역할, 담당자, 검토자, Canon 권한에는 변경 없음.
+
+### 독립성 표기
+
+이 문서에 기록된 PR #186의 Critic은 실제 별도 Codex 프로세스 기록이다.
+현재 ChatGPT 런타임에는 `minimum-action-agent-os:independent-critic`를 직접 실행하는 callable이 노출되어 있지 않으므로, 이번 strict-cap 보정에 대해 **새 독립 프로세스를 실행했다고 주장하지 않는다.**
+
+이번 보정은 숫자 전수배정과 `<=5` 산술 검증으로 자체 검증했다. 새 독립 Critic은 해당 callable이 있는 Claude Code 세션에서 이 파일과 diff만 전달해 재검증하는 것이 남은 품질 단계다.
+
+---
+
+## 11. 현재 판정
+
+### Repository Integration Result
+
+**PASS WITH ONE EXTERNAL-CRITIC FOLLOW-UP**
+
+- Existing Structure Preserved: **YES**
+- Domain Canon/Spec/Freeze changed: **NO**
+- Manuscript changed: **NO**
+- Project code/research design changed: **NO**
+- Existing Agents kept: **61 / 61**
+- Project Agents added: **0**
+- Project Agents removed: **0**
+- Project Skills added: **0**
+- Local Action Space repository routing: **PASS, every selectable router/leaf <=5**
+- Runtime host built-in tools: **session-level audit required**
+- Existing independent Critic baseline: **FAIL -> PASS WITH ISSUES**
+- Fresh independent Critic after this strict correction: **NOT CLAIMED / follow-up required in Claude Code runtime**
+
+Recommended next step:
+- run `minimum-action-agent-os:independent-critic` on this single-file correction in a Claude Code session;
+- if no new issue, merge the narrow project-control change;
+- do not refactor the 61-role registry or Canon routing documents merely to make the OS look cleaner.
